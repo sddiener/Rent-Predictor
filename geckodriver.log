@@ -116,21 +116,447 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1627681320505	Marionette	WARN	TLS certificate errors will be ignored for this session
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-1627682303718	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\stefan\\AppData\\Local\\Temp\\rust_mozprofilelE2Tst"
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0001,name=PCookieService::Msg_SetCookies) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+ontext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+1627758044256	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\stefan\\AppData\\Local\\Temp\\rust_mozprofile2ngyiG"
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1627682305403	Marionette	INFO	Listening on port 54294
-1627682305764	Marionette	WARN	TLS certificate errors will be ignored for this session
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
-JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
-JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
-JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
-1627682352641	Marionette	INFO	Stopped listening on port 54294
+1627758046710	Marionette	INFO	Listening on port 61080
+1627758046933	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1627758049013	Marionette	INFO	Stopped listening on port 61080
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1627758082929	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\stefan\\AppData\\Local\\Temp\\rust_mozprofile4d1ejW"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1627758084723	Marionette	INFO	Listening on port 56526
+1627758084985	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1627758154619	Marionette	INFO	Stopped listening on port 56526
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rsWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1627758148263	Marionette	INFO	Listening on port 54690
+1627758148506	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1627758164112	Marionette	INFO	Stopped listening on port 54690
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1627758326450	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\stefan\\AppData\\Local\\Temp\\rust_mozprofile6D9n1G"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1627758328856	Marionette	INFO	Listening on port 53605
+1627758329133	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1627759994571	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\stefan\\AppData\\Local\\Temp\\rust_mozprofilekC8aff"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1627759996262	Marionette	INFO	Listening on port 60110
+1627759996631	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1627760578997	Marionette	INFO	Stopped listening on port 60110
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1627760070805	Marionette	INFO	Listening on port 52985
+1627760071211	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627760582514	Marionette	INFO	Stopped listening on port 52985
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rsWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1627760190877	Marionette	INFO	Listening on port 62082
+1627760191139	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: https://analytics.webgains.io/pvClk.min.js, line 1: SecurityError: The operation is insecure.
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: "Error writing request: getGrids"
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20210728/r20110914/client/qs_click_protection_fy2019.js, line 17: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript warning: resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 41ms)
+console.error: ({})
+[Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/layout/utils.js :: getWindowDimensions :: line 608"  data: no]: getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17
+AutoRefreshHighlighter@resource://devtools/server/actors/highlighters/auto-refresh.js:81:25
+BoxModelHighlighter@resource://devtools/server/actors/highlighters/box-model.js:101:5
+_createHighlighter@resource://devtools/server/actors/highlighters.js:144:25
+_onNavigate@resource://devtools/server/actors/highlighters.js:166:10
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_navigate@resource://devtools/server/actors/targets/browsing-context.js:1552:10
+_changeTopLevelDocument/</<@resource://devtools/server/actors/targets/browsing-context.js:1437:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 341: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child2/customhighlighter539 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 341: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child2/customhighlighter539 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 341: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child2/customhighlighter539 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 341: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child2/customhighlighter539 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 341: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child2/customhighlighter539 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 341: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child2/customhighlighter539 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 341: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child2/customhighlighter539 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 341: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child2/customhighlighter539 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 341: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child2/customhighlighter539 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 341: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child2/customhighlighter539 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 341: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child2/customhighlighter539 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 341: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child2/customhighlighter539 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 341: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child2/customhighlighter539 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 341: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child2/customhighlighter539 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 341: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child2/customhighlighter539 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 341: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child2/customhighlighter539 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 341: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child2/customhighlighter539 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 341: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child2/customhighlighter539 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 341: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child2/customhighlighter539 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 341: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child2/customhighlighter539 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 341: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child2/customhighlighter539 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 341: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child2/customhighlighter539 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 341: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child2/customhighlighter539 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 341: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child2/customhighlighter539 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 341: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child2/customhighlighter539 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 341: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child2/customhighlighter539 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 341: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child2/customhighlighter539 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 341: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child2/customhighlighter539 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 341: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child2/customhighlighter539 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 341: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child2/customhighlighter539 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 341: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child2/customhighlighter539 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: "getWindowDimensions@resource://devtools/shared/layout/utils.js:608:17\n_haveWindowDimensionsChanged@resource://devtools/server/actors/highlighters/auto-refresh.js:239:50\nupdate@resource://devtools/server/actors/highlighters/auto-refresh.js:254:35\n_startRefreshLoop@resource://devtools/server/actors/highlighters/auto-refresh.js:301:10\nshow@resource://devtools/server/actors/highlighters/auto-refresh.js:125:10\nshow@resource://devtools/server/actors/highlighters.js:301:32\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 341: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child2/customhighlighter539 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'stylesheets's method 'getText'" "sheet.ownerNode is null"
+console.error: "getSheetText@resource://devtools/server/actors/stylesheets.js:155:21\n_getText@resource://devtools/server/actors/stylesheets.js:499:12\ngetText@resource://devtools/server/actors/stylesheets.js:482:17\ngetText@resource://devtools/server/actors/stylesheets.js:950:18\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): sheet.ownerNode is null from: server0.conn0.child2/styleSheetsActor4 (resource://devtools/server/actors/stylesheets.js:155:21)", "resource://devtools/shared/protocol/Front.js", 341))
+console.error: (new Error("Protocol error (TypeError): sheet.ownerNode is null from: server0.conn0.child2/styleSheetsActor4 (resource://devtools/server/actors/stylesheets.js:155:21)", "resource://devtools/shared/protocol/Front.js", 341))
+console.error: (new Error("Protocol error (TypeError): sheet.ownerNode is null from: server0.conn0.child2/styleSheetsActor4 (resource://devtools/server/actors/stylesheets.js:155:21)", "resource://devtools/shared/protocol/Front.js", 341))
+console.error: (new Error("Protocol error (TypeError): sheet.ownerNode is null from: server0.conn0.child2/styleSheetsActor4 (resource://devtools/server/actors/stylesheets.js:155:21)", "resource://devtools/shared/protocol/Front.js", 341))
+console.error: (new Error("Protocol error (TypeError): sheet.ownerNode is null from: server0.conn0.child2/styleSheetsActor4 (resource://devtools/server/actors/stylesheets.js:155:21)", "resource://devtools/shared/protocol/Front.js", 341))
+console.error: (new Error("Protocol error (TypeError): sheet.ownerNode is null from: server0.conn0.child2/styleSheetsActor4 (resource://devtools/server/actors/stylesheets.js:155:21)", "resource://devtools/shared/protocol/Front.js", 341))
+console.error: (new Error("Protocol error (TypeError): sheet.ownerNode is null from: server0.conn0.child2/styleSheetsActor4 (resource://devtools/server/actors/stylesheets.js:155:21)", "resource://devtools/shared/protocol/Front.js", 341))
+console.error: (new Error("Protocol error (TypeError): sheet.ownerNode is null from: server0.conn0.child2/styleSheetsActor4 (resource://devtools/server/actors/stylesheets.js:155:21)", "resource://devtools/shared/protocol/Front.js", 341))
+console.error: (new Error("Protocol error (TypeError): sheet.ownerNode is null from: server0.conn0.child2/styleSheetsActor4 (resource://devtools/server/actors/stylesheets.js:155:21)", "resource://devtools/shared/protocol/Front.js", 341))
+console.error: (new Error("Protocol error (TypeError): sheet.ownerNode is null from: server0.conn0.child2/styleSheetsActor4 (resource://devtools/server/actors/stylesheets.js:155:21)", "resource://devtools/shared/protocol/Front.js", 341))
+console.error: (new Error("Protocol error (TypeError): sheet.ownerNode is null from: server0.conn0.child2/styleSheetsActor4 (resource://devtools/server/actors/stylesheets.js:155:21)", "resource://devtools/shared/protocol/Front.js", 341))
+console.error: (new Error("Protocol error (TypeError): sheet.ownerNode is null from: server0.conn0.child2/styleSheetsActor4 (resource://devtools/server/actors/stylesheets.js:155:21)", "resource://devtools/shared/protocol/Front.js", 341))
+console.error: (new Error("Protocol error (TypeError): sheet.ownerNode is null from: server0.conn0.child2/styleSheetsActor4 (resource://devtools/server/actors/stylesheets.js:155:21)", "resource://devtools/shared/protocol/Front.js", 341))
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+1627768792133	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\stefan\\AppData\\Local\\Temp\\rust_mozprofilempq227"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1627768794075	Marionette	INFO	Listening on port 52115
+1627768794193	Marionette	WARN	TLS certificate errors will be ignored for this session
