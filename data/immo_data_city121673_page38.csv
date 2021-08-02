@@ -1,0 +1,28 @@
+,id,title,bullets,tags,price,area,rooms
+0,selObject_44881903,Möbliert: Modern Wohnen mitten in der Altstadt,"['Wohnung', '•', 'München', 'Altstadt-Lehel']",['Balkon'],Miete zzgl. NK 2.520 €,Wohnfläche ca. 90 m²,Zi. 3
+1,selObject_44730782,"Möbliert: Charmante 3,5-Zimmer Wohnung in Schwabing","['Wohnung', '•', 'München', 'Schwabing-Freimann']",['Balkon'],Miete zzgl. NK 2.520 €,Wohnfläche ca. 105 m²,"Zi. 3,5"
+2,selObject_44635789,Wohnen am Englischen Garten,"['Maisonette', '•', 'München', 'Bogenhausen']",['EBK'],Miete zzgl. NK 2.550 €,Wohnfläche ca. 111 m²,Zi. 3
+3,selObject_44846779,Großzügige 4-Zimmer-Wohnung mit Balkon,"['Wohnung', '•', 'München']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 2.570 €,Wohnfläche ca. 106 m²,Zi. 4
+4,selObject_44044405,"Erstbezug: Hochwertig möblierte 2,5-Zimmer-Wohnung mit...","['Etagenwohnung', '•', 'München', 'Pasing-Obermenzing']","['Balkon', 'EBK']",Miete zzgl. NK 2.600 €,Wohnfläche ca. 92 m²,"Zi. 2,5"
+5,selObject_44597967,Hochwertige 3-Zimmer Wohnung (Erstbezug!),"['Wohnung', '•', 'München', 'Neuhausen-Nymphenburg']","['Balkon', 'EBK']",Miete zzgl. NK 2.650 €,Wohnfläche ca. 100 m²,Zi. 3
+6,selObject_44997136,NEU Einzigartige 5-Zimmer-Gartenwohnung in zentraler Lage.,"['Erdgeschosswohnung', '•', 'München', 'Neuhausen-Nymphenburg']","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 2.660 €,Wohnfläche ca. 133 m²,Zi. 5
+7,selObject_44947461,"5 Zimmerwohnung, 2 Bäder, WG Geeignet+++ witere Wohnun...","['Etagenwohnung', '•', 'München', 'Au-Haidhausen']","['Balkon', 'EBK']",Miete zzgl. NK 2.750 €,Wohnfläche ca. 120 m²,Zi. 5
+8,selObject_44508641,Möbliert: Helle Wohnung mit Dachterrase an der Theresi...,"['Wohnung', '•', 'München', 'Sendling']",[],Miete zzgl. NK 2.760 €,Wohnfläche ca. 105 m²,Zi. 4
+9,selObject_40362444,Steinwurf vom Gärtnerplatz - 2 Zimmer Wohnung in luxur...,"['Etagenwohnung', '•', 'München', 'Altstadt-Lehel']",[],Miete zzgl. NK 2.800 €,Wohnfläche ca. 68 m²,Zi. 2
+10,selObject_44963682,Möbliert: Luxus Penthousewohnung für Design-Fans,"['Wohnung', '•', 'München', 'Ramersdorf-Perlach']",[],Miete zzgl. NK 2.800 €,Wohnfläche ca. 150 m²,Zi. 3
+11,selObject_45013631,NEU BOGENHAUSEN - Charmantes Zuhause mit rund 15 m² Westba...,"['Etagenwohnung', '•', 'München', 'Bogenhausen']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 2.840 €,Wohnfläche ca. 109 m²,Zi. 3
+12,selObject_43389356,Wohnen auf 2 Ebenen über den Dächern der Stadt.,"['Dachgeschosswohnung', '•', 'München', 'Bogenhausen']","['Balkon', 'EBK']",Miete zzgl. NK 2.875 €,Wohnfläche ca. 125 m²,Zi. 3
+13,selObject_44951567,Wohnen über den Dächern von Schwabing! Attraktive Dach...,"['Dachgeschosswohnung', '•', 'München', 'Schwabing-Freimann']","['Balkon', 'EBK']",Miete zzgl. NK 2.950 €,Wohnfläche ca. 125 m²,Zi. 4
+14,selObject_44756435,Pandion Reflect - Stilvolle 4-Zi-DG-Whg. mit großer...,"['Dachgeschosswohnung', '•', 'München', 'Neuhausen-Nymphenburg']","['Balkon', 'EBK']",Miete zzgl. NK 2.950 €,Wohnfläche ca. 110 m²,Zi. 4
+15,selObject_45009700,NEU Altbau-Highlight im Glockenbachviertel,"['Etagenwohnung', '•', 'München', 'Ludwigsvorstadt-Isarvorstadt']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 2.950 €,Wohnfläche ca. 113 m²,Zi. 3
+16,selObject_44211614,Hochwertig sanierte Altbauwohnung am Glockenbach,"['Etagenwohnung', '•', 'München', 'Ludwigsvorstadt-Isarvorstadt']",['EBK'],Miete zzgl. NK 2.980 €,Wohnfläche ca. 120 m²,Zi. 4
+17,selObject_44849280,Eleganter Familientraum. Direkt am Südpark.,"['Erdgeschosswohnung', '•', 'München', 'Thalk.Obersendl.-Forsten-Fürstenr.-Solln']","['Garten', 'EBK']",Miete zzgl. NK 2.990 €,Wohnfläche ca. 163 m²,Zi. 5
+18,selObject_44914639,ELEGANTE 3 ZI. NEUBAUWOHNUNG - LUXUS IN BESTER INNENST...,"['Etagenwohnung', '•', 'München', 'Altstadt-Lehel']","['Balkon', 'EBK']",Miete zzgl. NK 3.000 €,Wohnfläche ca. 122 m²,Zi. 3
+19,selObject_45002054,NEU Möbliert: Premiumwohnung: Sehr schöne möblierte Wohnun...,"['Wohnung', '•', 'München', 'Neuhausen-Nymphenburg']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 3.000 €,Wohnfläche ca. 125 m²,"Zi. 3,5"
+20,selObject_44787063,Ladenwohnung,"['Erdgeschosswohnung', '•', 'München', 'Ludwigsvorstadt-Isarvorstadt']","['Balkon', 'EBK']",Miete zzgl. NK 3.000 €,Wohnfläche ca. 126 m²,Zi. 4
+21,selObject_44912309,Möbliert: Helle Dachgeschosswohnung mit uneinsehbarer...,"['Wohnung', '•', 'München', 'Thalk.Obersendl.-Forsten-Fürstenr.-Solln']",['Balkon'],Miete zzgl. NK 3.120 €,Wohnfläche ca. 135 m²,"Zi. 4,5"
+22,selObject_45002104,NEU Möbliert: Großzügige Dachterrassenwohnung im Arabellap...,"['Wohnung', '•', 'München', 'Bogenhausen']","['NEU', 'NEU']",Miete zzgl. NK 3.120 €,Wohnfläche ca. 152 m²,Zi. 4
+23,selObject_44912292,Möbliert: Herzogparksuiten | Außergewöhnlicher Wohngen...,"['Wohnung', '•', 'München']",[],Miete zzgl. NK 3.148 €,Wohnfläche ca. 87 m²,"Zi. 1,5"
+24,selObject_44380100,DG-Wohnung m. Wintergarten in repräsentativem Jugendst...,"['Etagenwohnung', '•', 'München', 'Altstadt-Lehel']",['Balkon'],Miete zzgl. NK 3.200 €,Wohnfläche ca. 126 m²,Zi. 4
+25,selObject_44459876,Im Herzen von Schwabing. Moderne 4-Zimmer Wohnung mit...,"['Etagenwohnung', '•', 'München', 'Schwabing-West']","['Balkon', 'EBK']",Miete zzgl. NK 3.200 €,Wohnfläche ca. 111 m²,Zi. 4
+26,selObject_45010175,NEU Mitten im Herzen von München. Lifestyle. Kultur.Entert...,"['Dachgeschosswohnung', '•', 'München', 'Altstadt-Lehel']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 3.240 €,Wohnfläche ca. 118 m²,Zi. 2
