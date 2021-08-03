@@ -1,0 +1,28 @@
+,id,title,bullets,tags,price,area,rooms,page,state
+0,selObject_45003602,NEU Gelegenheit: 3-Zimmer-Wohnung in Stadtlage!,"['Etagenwohnung', '•', 'Dresden', 'Cotta']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 564,62 €",Wohnfläche ca. 79 m²,Zi. 3,22,14
+1,selObject_45003534,NEU Schicke 4 Zimmer Wohnung in Heidenau!,"['Wohnung', '•', 'Heidenau']","['NEU', 'NEU', 'Balkon', 'Garten']","Miete zzgl. NK 756,60 €",Wohnfläche ca. 116 m²,Zi. 4,22,14
+2,selObject_45003533,NEU Schicke 2 Zimmer Wohnung mit Balkon und Einbauküche!,"['Dachgeschosswohnung', '•', 'Freital', 'Freital']","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']",Miete zzgl. NK 420 €,Wohnfläche ca. 56 m²,Zi. 2,22,14
+3,selObject_45003512,"NEU Südvorstadt, Top-Verkehrsanbindung","['Etagenwohnung', '•', 'Leipzig', 'Südvorstadt']","['NEU', 'NEU']","Miete zzgl. NK 269,92 €",Wohnfläche ca. 39 m²,Zi. 1,22,14
+4,selObject_45003319,"NEU Freundliche 2 Zi-Wohnung, Leipzig Zentrum-Südost, dire...","['Etagenwohnung', '•', 'Leipzig', 'Zentrum-Südost']","['NEU', 'NEU']",Miete zzgl. NK 490 €,Wohnfläche ca. 55 m²,Zi. 2,22,14
+5,selObject_45003290,"NEU Freundliche 2 Zi-Wohnung, Leipzig Zentrum-Südost, dire...","['Etagenwohnung', '•', 'Leipzig', 'Zentrum-Südost']","['NEU', 'NEU']",Miete zzgl. NK 490 €,Wohnfläche ca. 55 m²,Zi. 2,22,14
+6,selObject_45003244,NEU Geräumiger 3er mit Tageslichtbadezimmer im Dachgeschos...,"['Dachgeschosswohnung', '•', 'Leipzig', 'Volkmarsdorf']","['NEU', 'NEU']",Miete zzgl. NK 475 €,Wohnfläche ca. 75 m²,Zi. 3,22,14
+7,selObject_45003068,NEU Helle Dachgeschosswohnung mit Parkett und Tageslichtba...,"['Dachgeschosswohnung', '•', 'Dresden', 'Löbtau-Süd']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 350 €,Wohnfläche ca. 43 m²,Zi. 2,22,14
+8,selObject_45003066,NEU Rollstuhlgerechte Terrassenwohnung in gute Wohnlage...,"['Erdgeschosswohnung', '•', 'Dresden', 'Pieschen-Nord/Trachenberge']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 764 €,Wohnfläche ca. 90 m²,Zi. 3,22,14
+9,selObject_45002949,NEU [] erstbezug [] bülowviertel [] 4-raum dg-maisonette...,"['Maisonette', '•', 'Leipzig', 'Volkmarsdorf']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 983 €,Wohnfläche ca. 101 m²,Zi. 4,22,14
+10,selObject_45002940,NEU [] erstbezug [] bülowviertel [] 2-raum dg-maisonette...,"['Dachgeschosswohnung', '•', 'Leipzig', 'Volkmarsdorf']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 727 €,Wohnfläche ca. 76 m²,Zi. 2,22,14
+11,selObject_45002932,NEU [] erstbezug [] bülowviertel [] 3-raum dg-maisonette...,"['Maisonette', '•', 'Leipzig', 'Volkmarsdorf']","['NEU', 'NEU']",Miete zzgl. NK 626 €,Wohnfläche ca. 70 m²,Zi. 3,22,14
+12,selObject_45002472,NEU [] erstbezug [] bülowviertel [] 2-raum dg-maisonette...,"['Maisonette', '•', 'Leipzig', 'Volkmarsdorf']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 841 €,Wohnfläche ca. 93 m²,Zi. 2,22,14
+13,selObject_45002461,NEU [] erstbezug [] bülowviertel [] 3-raum dg-maisonette...,"['Maisonette', '•', 'Leipzig', 'Volkmarsdorf']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 686 €,Wohnfläche ca. 76 m²,Zi. 2,22,14
+14,selObject_45002455,NEU [] erstbezug [] bülowviertel [] 3-raum [] dg-maisonet...,"['Maisonette', '•', 'Leipzig', 'Volkmarsdorf']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 743 €,Wohnfläche ca. 82 m²,Zi. 3,22,14
+15,selObject_45002192,NEU Mit Weitblick hoch hinaus!,"['Etagenwohnung', '•', 'Riesa', 'Innenstadt']","['NEU', 'NEU']",Miete zzgl. NK 230 €,Wohnfläche ca. 48 m²,Zi. 2,22,14
+16,selObject_45002159,"NEU Elegante Stadt-Wohnung mit allem, was das Herz begehrt...","['Wohnung', '•', 'Dresden', 'Innere', 'Altstadt']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 1.420 €,Wohnfläche ca. 109 m²,Zi. 4,22,14
+17,selObject_45001846,NEU 3-Raumwohnung mit Ausblick ins Grüne,"['Etagenwohnung', '•', 'Leipzig', 'Grünau-Ost']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 367,80 €",Wohnfläche ca. 61 m²,Zi. 3,22,14
+18,selObject_45001474,NEU Balkon Richtung Süden!,"['Wohnung', '•', 'Dresden', 'Prohlis-Süd']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 435 €,Wohnfläche ca. 79 m²,Zi. 3,22,14
+19,selObject_45001143,NEU Attraktive 3 Zimmerwohnung mit Balkon,"['Erdgeschosswohnung', '•', 'Zwickau', 'Pölbitz']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 465 €,Wohnfläche ca. 88 m²,Zi. 3,22,14
+20,selObject_45000902,NEU Möckern - Singlewohnung ganz oben mit kleiner Miniküch...,"['Dachgeschosswohnung', '•', 'Leipzig', 'Möckern']","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 290 €,Wohnfläche ca. 34 m²,Zi. 1,22,14
+21,selObject_45000721,"NEU Willkommen im ""Radius Hof""! Erstbezug! 2 Raumwohnung...","['Etagenwohnung', '•', 'Leipzig', 'Neulindenau']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 608 €,Wohnfläche ca. 64 m²,Zi. 2,22,14
+22,selObject_45000719,"NEU Willkommen im ""Radius Hof""! Erstbezug! 2 Raumwohnung...","['Etagenwohnung', '•', 'Leipzig', 'Neulindenau']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 602 €,Wohnfläche ca. 63 m²,Zi. 2,22,14
+23,selObject_45000713,"NEU Willkommen im ""Radius Hof""! Erstbezug! 2 Raumwohnung...","['Etagenwohnung', '•', 'Leipzig', 'Neulindenau']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 609 €,Wohnfläche ca. 64 m²,Zi. 2,22,14
+24,selObject_45000708,NEU Landeskrone im Blick!,"['Etagenwohnung', '•', 'Görlitz', 'Königshufen']","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 363 €,Wohnfläche ca. 70 m²,Zi. 3,22,14
+25,selObject_45000615,NEU Kleines und feines Apartment zum Soforteinziehen!,"['Souterrainwohnung', '•', 'Görlitz', 'Weinhübel']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 244 €,Wohnfläche ca. 36 m²,Zi. 2,22,14
+26,selObject_45000612,NEU Sofort beziehbare 1-Zimmer Dachgeschosswohnung in Enge...,"['Dachgeschosswohnung', '•', 'Leipzig', 'Engelsdorf']","['NEU', 'NEU']",Miete zzgl. NK 290 €,Wohnfläche ca. 40 m²,Zi. 1,22,14

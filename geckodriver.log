@@ -780,8 +780,14 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1627938268460	Marionette	WARN	TLS certificate errors will be ignored for this session
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-1627938904024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\stefan\\AppData\\Local\\Temp\\rust_mozprofile7th8wv"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1627943783927	Marionette	INFO	Stopped listening on port 55790
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rsWithDamageEXT'.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1627938905876	Marionette	INFO	Listening on port 55243
@@ -819,9 +825,14 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1627940269457	Marionette	INFO	Listening on port 51461
 1627940269610	Marionette	WARN	TLS certificate errors will be ignored for this session
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-x\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\stefan\\AppData\\Local\\Temp\\rust_mozprofile1cVpXz"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1627943782721	Marionette	INFO	Stopped listening on port 51461
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1627940418333	Marionette	INFO	Listening on port 50639
 1627940418589	Marionette	WARN	TLS certificate errors will be ignored for this session
@@ -840,3 +851,95 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1627941440745	Marionette	INFO	Listening on port 60093
 1627941441002	Marionette	WARN	TLS certificate errors will be ignored for this session
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1627943781610	Marionette	INFO	Stopped listening on port 60093
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1628020640445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\stefan\\AppData\\Local\\Temp\\rust_mozprofilea6E3Yr"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1628020642176	Marionette	INFO	Listening on port 63920
+1628020642489	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628022117326	Marionette	INFO	Stopped listening on port 63920
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1628020759590	Marionette	INFO	Listening on port 54642
+1628020759876	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1628020868842	Marionette	INFO	Stopped listening on port 54642
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1628023114045	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\stefan\\AppData\\Local\\Temp\\rust_mozprofilehRnXI2"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1628023115738	Marionette	INFO	Listening on port 50425
+1628023116092	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628023282804	Marionette	INFO	Stopped listening on port 50425
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1628023866125	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\stefan\\AppData\\Local\\Temp\\rust_mozprofileqVjTFK"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1628023867903	Marionette	INFO	Listening on port 54898
+1628023868196	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628024259676	Marionette	INFO	Stopped listening on port 54898
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rsWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1628024140856	Marionette	INFO	Listening on port 62850
+1628024141227	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628024941976	Marionette	INFO	Stopped listening on port 62850
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rsWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1628024933514	Marionette	INFO	Listening on port 63809
+1628024933800	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://immonetlive.cleverpush.com/iframe?origin=https%3A%2F%2Fwww.immonet.de, line 9: ChunkLoadError: Loading chunk 173 failed.
+(error: https://static.cleverpush.com/sdk/chunk/173.js)
+JavaScript error: https://app.usercentrics.eu/browser-ui/latest/bundle.js, line 15: GVLError: aborted
+JavaScript error: chrome://marionette/content/navigate.js, line 213: TypeError: driver.dialogObserver is null
+1628025272361	Marionette	INFO	Stopped listening on port 63809
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+irectory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1628025264081	Marionette	INFO	Listening on port 62758
+1628025264110	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://immonetlive.cleverpush.com/iframe?origin=https%3A%2F%2Fwww.immonet.de, line 9: ChunkLoadError: Loading chunk 173 failed.
+(error: https://static.cleverpush.com/sdk/chunk/173.js)
