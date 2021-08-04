@@ -1,0 +1,28 @@
+,id,title,bullets,tags,price,area,rooms,page,state
+0,selObject_44788823,Geräumige und helle Singlewohnung mit großem Balkon...,"['Etagenwohnung', '•', 'Cottbus', 'Sachsendorf']",['Balkon'],Miete zzgl. NK 208 €,Wohnfläche ca. 38 m²,Zi. 1,20,12
+1,selObject_44788816,Helle und sanierte Wohnung in ruhiger Lage am Sportzen...,"['Etagenwohnung', '•', 'Cottbus', 'Spremberger', 'Vorstadt']",['Balkon'],Miete zzgl. NK 384 €,Wohnfläche ca. 57 m²,Zi. 3,20,12
+2,selObject_44787313,Rundum Sorglospaket: möbliertes Studentenapartment...,"['Erdgeschosswohnung', '•', 'Potsdam', 'Kartzow']",['EBK'],Miete zzgl. NK 340 €,Wohnfläche ca. 21 m²,Zi. 1,20,12
+3,selObject_44786521,2-Raum-Wohnung nach Vollsanierung - hell und gemütlich,"['Etagenwohnung', '•', 'Cottbus', 'Spremberger', 'Vorstadt']",[],Miete zzgl. NK 520 €,Wohnfläche ca. 58 m²,Zi. 2,20,12
+4,selObject_44786385,Neubau Erstbezug: 1-Zimmer-Wohnung im EG - Besichtigun...,"['Erdgeschosswohnung', '•', 'Biesenthal', 'Biesenthal']","['Balkon', 'EBK']",Miete zzgl. NK 400 €,Wohnfläche ca. 36 m²,Zi. 1,20,12
+5,selObject_44786218,Wohnen im Norden der Stadt,"['Erdgeschosswohnung', '•', 'Finsterwalde', 'Finsterwalde']",['EBK'],Miete zzgl. NK 314 €,Wohnfläche ca. 63 m²,Zi. 2,20,12
+6,selObject_44786086,#klein aber fein mit Balkon,"['Etagenwohnung', '•', 'Brandenburg', 'Hohenstücken']",['Balkon'],Miete zzgl. NK 310 €,Wohnfläche ca. 34 m²,Zi. 1,20,12
+7,selObject_44786076,Hoch hinaus mit Blick ins Grüne,"['Etagenwohnung', '•', 'Brandenburg', 'Hohenstücken']",['Balkon'],Miete zzgl. NK 400 €,Wohnfläche ca. 68 m²,Zi. 3,20,12
+8,selObject_44785973,1-Zimmer Wohnung in der Altstadt sucht,"['Etagenwohnung', '•', 'Brandenburg', 'Nord']",[],Miete zzgl. NK 240 €,Wohnfläche ca. 34 m²,Zi. 1,20,12
+9,selObject_44784559,3-4-Zimmer Wohnungen auf dem Land,"['Etagenwohnung', '•', 'Ziesar', 'Ziesar']",['EBK'],Miete zzgl. NK 363 €,Wohnfläche ca. 55 m²,Zi. 4,20,12
+10,selObject_44783521,Ruhig gelegene 2-Zimmer Wohnung in der City,"['Etagenwohnung', '•', 'Brandenburg', 'Neustadt']",['Balkon'],Miete zzgl. NK 485 €,Wohnfläche ca. 68 m²,Zi. 2,20,12
+11,selObject_44782255,2-Zimmer Wohnung in der Steinstraße,"['Etagenwohnung', '•', 'Brandenburg', 'Neustadt']","['Balkon', 'EBK']",Miete zzgl. NK 455 €,Wohnfläche ca. 62 m²,Zi. 2,20,12
+12,selObject_44781265,Ich bin für EUCH im Bau,"['Etagenwohnung', '•', 'Eberswalde', 'Brandenburgisches', 'Viertel']",['Balkon'],Miete zzgl. NK 340 €,Wohnfläche ca. 57 m²,Zi. 3,20,12
+13,selObject_44777988,Renovierte Wohnung am Tschirchdamm,"['Etagenwohnung', '•', 'Brandenburg', 'Hohenstücken']",[],Miete zzgl. NK 400 €,Wohnfläche ca. 69 m²,Zi. 3,20,12
+14,selObject_44777957,4-Raum-Wohnung mit Balkon,"['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']",['Balkon'],"Miete zzgl. NK 366,80 €",Wohnfläche ca. 67 m²,Zi. 4,20,12
+15,selObject_44777956,Sanierte 3-Raum-Wohnung mit Aussicht,"['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']",[],"Miete zzgl. NK 309,39 €",Wohnfläche ca. 68 m²,Zi. 3,20,12
+16,selObject_44777955,Sanierte 3-Raum-Wohnung im Stadtzentrum,"['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']",[],"Miete zzgl. NK 307,01 €",Wohnfläche ca. 67 m²,Zi. 3,20,12
+17,selObject_44777950,Dachgeschoss in charmantem Altbau in S-Bahn Nähe: 4-Zi...,"['Apartment', '•', 'Hohen', 'Neuendorf', 'Hohen', 'Neuendorf']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.300 €,Wohnfläche ca. 90 m²,Zi. 4,20,12
+18,selObject_44777947,3-Raum-Wohnung im Stadtzentrum mit Balkon,"['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']",['Balkon'],"Miete zzgl. NK 395,07 €",Wohnfläche ca. 63 m²,Zi. 3,20,12
+19,selObject_44777944,3-Raum-Wohnung im Stadtzentrum mit Loggia,"['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']",['Balkon'],"Miete zzgl. NK 309,05 €",Wohnfläche ca. 62 m²,Zi. 3,20,12
+20,selObject_44777943,3-Raum-Wohnung in der Nähe der Oder,"['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']",['Balkon'],"Miete zzgl. NK 360,31 €",Wohnfläche ca. 58 m²,Zi. 3,20,12
+21,selObject_44777942,Sanierte 2-Raum-Wohnung in ruhiger Lage mit Blick über...,"['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']",[],Miete zzgl. NK 268 €,Wohnfläche ca. 54 m²,Zi. 2,20,12
+22,selObject_44777940,2-Raum-Wohnung in ruhiger Lage mit Loggia,"['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']",['Balkon'],"Miete zzgl. NK 314,03 €",Wohnfläche ca. 48 m²,Zi. 2,20,12
+23,selObject_44777941,2-Raum-Wohnung im Stadtzentrum,"['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']",['Balkon'],"Miete zzgl. NK 510,90 €",Wohnfläche ca. 73 m²,Zi. 2,20,12
+24,selObject_44777937,3-Raum-Wohnung mit guter Aussicht,"['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']",[],"Miete zzgl. NK 257,80 €",Wohnfläche ca. 59 m²,Zi. 3,20,12
+25,selObject_44777929,Top sanierte 2-Raum-Wohnung mit Dusche,"['Erdgeschosswohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']",[],"Miete zzgl. NK 301,95 €",Wohnfläche ca. 40 m²,Zi. 2,20,12
+26,selObject_44777927,3-Raum-Wohnung mit Balkon,"['Erdgeschosswohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']",['Balkon'],"Miete zzgl. NK 579,07 €",Wohnfläche ca. 77 m²,Zi. 3,20,12

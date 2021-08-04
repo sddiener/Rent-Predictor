@@ -1,0 +1,28 @@
+,id,title,bullets,tags,price,area,rooms,page,state
+0,selObject_43566885,kleine 3-Raumwohnung im Erdgeschoss / Stadtzentrum !,"['Erdgeschosswohnung', '•', 'Görlitz', 'Innenstadt']",[],Miete zzgl. NK 268 €,Wohnfläche ca. 67 m²,Zi. 3,363,14
+1,selObject_43566878,Betreutes Wohnen ! 2- Raumwohnung im Zentrum von Görli...,"['Etagenwohnung', '•', 'Görlitz', 'Innenstadt']",[],Miete zzgl. NK 250 €,Wohnfläche ca. 53 m²,Zi. 2,363,14
+2,selObject_43566852,BETREUTES WOHNEN ! gemütliche 2- Raumwohnung mit Balko...,"['Etagenwohnung', '•', 'Görlitz', 'Innenstadt']",[],Miete zzgl. NK 285 €,Wohnfläche ca. 53 m²,Zi. 2,363,14
+3,selObject_43566810,große 2- Raumwohnung im Zentrum von Görlitz !,"['Etagenwohnung', '•', 'Görlitz', 'Innenstadt']",[],Miete zzgl. NK 250 €,Wohnfläche ca. 71 m²,Zi. 2,363,14
+4,selObject_43566805,geräumige 6- Raumwohnung im Erdgeschoss mit Balkon !,"['Erdgeschosswohnung', '•', 'Görlitz', 'Innenstadt']",['Balkon'],Miete zzgl. NK 741 €,Wohnfläche ca. 136 m²,Zi. 6,363,14
+5,selObject_43566795,geräumige 3- Raumwohnung mit Balkon in der Südstadt !,"['Etagenwohnung', '•', 'Görlitz', 'Südstadt']",['Balkon'],Miete zzgl. NK 340 €,Wohnfläche ca. 85 m²,Zi. 3,363,14
+6,selObject_43566793,"ruhige, kleine 4-Raumwohnung in Rauschwalde mit Blick...","['Etagenwohnung', '•', 'Görlitz', 'Rauschwalde']",['Garten'],Miete zzgl. NK 370 €,Wohnfläche ca. 82 m²,Zi. 4,363,14
+7,selObject_43566792,geräumige 3- Raumwohnung im Zentrum von Görlitz !,"['Etagenwohnung', '•', 'Görlitz', 'Innenstadt']",[],Miete zzgl. NK 340 €,Wohnfläche ca. 83 m²,Zi. 3,363,14
+8,selObject_43566706,3- Raumwohnung mit Balkon - neu saniert !,"['Etagenwohnung', '•', 'Rothenburg', 'Bremenhain']",['Balkon'],Miete zzgl. NK 315 €,Wohnfläche ca. 63 m²,Zi. 3,363,14
+9,selObject_43566705,frisch renovierte 1- Raumwohnung mit separater Küche...,"['Erdgeschosswohnung', '•', 'Görlitz', 'Innenstadt']",[],Miete zzgl. NK 230 €,Wohnfläche ca. 42 m²,Zi. 1,363,14
+10,selObject_43566415,Erstbezug nach vollständiger Renovierung/Sanierung -...,"['Dachgeschosswohnung', '•', 'Plauen', 'Hammervorstadt']","['Garten', 'EBK']",Miete zzgl. NK 180 €,Wohnfläche ca. 34 m²,Zi. 1,363,14
+11,selObject_43566383,Schöne 3-Zimmer-Wohnung mit Tageslichtbad,"['Etagenwohnung', '•', 'Leipzig', 'Gohlis-Süd']",[],Miete zzgl. NK 500 €,Wohnfläche ca. 71 m²,Zi. 3,363,14
+12,selObject_43566245,Barrierefreie 2-Raum-DG-Wohnung mit Balkon in Stadtnäh...,"['Dachgeschosswohnung', '•', 'Chemnitz', 'Zentrum']","['Balkon', 'Garten']","Miete zzgl. NK 344,57 €",Wohnfläche ca. 53 m²,Zi. 2,363,14
+13,selObject_43566207,1 Raum Wohnung 44 m² m. Balkon und Fahrstuhl,"['Wohnung', '•', 'Chemnitz', 'Gablenz']",['Balkon'],"Miete zzgl. NK 220,10 €",Wohnfläche ca. 44 m²,Zi. 1,363,14
+14,selObject_43566113,die erste eigene Wohnung Gr.1 Raum-Appartment m.Fahrst...,"['Wohnung', '•', 'Chemnitz', 'Gablenz']",[],Miete zzgl. NK 200 €,Wohnfläche ca. 45 m²,Zi. 1,363,14
+15,selObject_43566104,zentrumsnah - 3 Zimmer im EG,"['Erdgeschosswohnung', '•', 'Zwickau', 'Innenstadt']",[],Miete zzgl. NK 400 €,Wohnfläche ca. 78 m²,Zi. 3,363,14
+16,selObject_43566054,Barrierefreie 1-Raum-DG-Wohnung in Stadtnähe!,"['Dachgeschosswohnung', '•', 'Chemnitz', 'Zentrum']",['Garten'],"Miete zzgl. NK 292,11 €",Wohnfläche ca. 45 m²,Zi. 1,363,14
+17,selObject_43565977,Barrierefreie 2-Raum-DG-Wohnung mit Balkon und offenen...,"['Dachgeschosswohnung', '•', 'Chemnitz', 'Zentrum']","['Balkon', 'Garten']","Miete zzgl. NK 354,84 €",Wohnfläche ca. 55 m²,Zi. 2,363,14
+18,selObject_43565866,Barrierefreie 2-Raum-Wohnung mit kleinen Balkon in...,"['Etagenwohnung', '•', 'Chemnitz', 'Zentrum']","['Balkon', 'Garten']","Miete zzgl. NK 343,20 €",Wohnfläche ca. 53 m²,Zi. 2,363,14
+19,selObject_43565598,Barrierefreie 2-Raum-Wohnung mit Balkon und offenen...,"['Etagenwohnung', '•', 'Chemnitz', 'Zentrum']","['Balkon', 'Garten']","Miete zzgl. NK 371,67 €",Wohnfläche ca. 57 m²,Zi. 2,363,14
+20,selObject_43565367,"** Wohnen, direkt am Stadtpark **","['Erdgeschosswohnung', '•', 'Chemnitz', 'Kapellenberg']",['Balkon'],Miete zzgl. NK 344 €,Wohnfläche ca. 59 m²,Zi. 3,363,14
+21,selObject_43565365,++hoch hinaus ++ Singlewohnung Süd-Balkon und Weitblic...,"['Wohnung', '•', 'Chemnitz', 'Sonnenberg']",['Balkon'],Miete zzgl. NK 166 €,Wohnfläche ca. 33 m²,Zi. 1,363,14
+22,selObject_43565201,Barrierefreie 2-Raum-Wohnung mit Balkon und offenen...,"['Etagenwohnung', '•', 'Chemnitz', 'Zentrum']","['Balkon', 'Garten']","Miete zzgl. NK 370,57 €",Wohnfläche ca. 57 m²,Zi. 2,363,14
+23,selObject_43565020,gemütliche 2 Raum Wohnung in ruhiger Lage,"['Wohnung', '•', 'Wurzen', 'Wurzen']",[],Miete zzgl. NK 270 €,Wohnfläche ca. 45 m²,Zi. 2,363,14
+24,selObject_43564516,"mitten im Grünen, niedliche kleine Wohng. mit Einbauk....","['Etagenwohnung', '•', 'Plauen', 'Haselbrunn']",['EBK'],"Miete zzgl. NK 205,10 €",Wohnfläche ca. 47 m²,Zi. 2,363,14
+25,selObject_43564422,Komplett mobliertes 1 Zimmer Appartement in Neumark,"['Etagenwohnung', '•', 'Neumark', 'Neumark']",['EBK'],Miete zzgl. NK 180 €,Wohnfläche ca. 36 m²,Zi. 1,363,14
+26,selObject_43564361,"Attraktive, helle 2-Zimmer-DG-Wohnung im 2. OG","['Wohnung', '•', 'Bad', 'Muskau', 'Bad', 'Muskau']",['Balkon'],Miete zzgl. NK 330 €,Wohnfläche ca. 78 m²,Zi. 2,363,14

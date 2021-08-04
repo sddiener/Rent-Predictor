@@ -1,0 +1,28 @@
+,id,title,bullets,tags,price,area,rooms,page,state
+0,selObject_44701030,"3-Zimmer-Wohnung, Werler Straße 33-35, 59065 Hamm","['Wohnung', '•', 'Hamm', 'Hamm-Mitte']",['Balkon'],Miete zzgl. NK 530 €,Wohnfläche ca. 88 m²,Zi. 3,171,5
+1,selObject_44700453,"Herzlich willkommen in Ihrem neuen Zuhause! 4,5 Zimmer...","['Wohnung', '•', 'Castrop-Rauxel', 'Castrop']",['Balkon'],Miete zzgl. NK 720 €,Wohnfläche ca. 121 m²,"Zi. 4,5",171,5
+2,selObject_44700250,"2,5-Zimmer-Wohnung in direkter Citylage","['Wohnung', '•', 'Castrop-Rauxel', 'Castrop']",['Balkon'],Miete zzgl. NK 360 €,Wohnfläche ca. 60 m²,"Zi. 2,5",171,5
+3,selObject_44700222,"Helle, renovierte Dachgeschoss-Wohnung mit viel Platz....","['Dachgeschosswohnung', '•', 'Zülpich', 'Füssenich']",[],Miete zzgl. NK 690 €,Wohnfläche ca. 113 m²,Zi. 4,171,5
+4,selObject_44700025,"Drei Zimmer, Balkon, Einbauküche und schöner Ausblick...","['Wohnung', '•', 'Velbert', 'Langenberg']","['Balkon', 'EBK']",Miete zzgl. NK 455 €,Wohnfläche ca. 80 m²,Zi. 3,171,5
+5,selObject_44699894,möbliert---- Düsseldorf-Derendorf ! herrliche 2-Zimmer...,"['Etagenwohnung', '•', 'Düsseldorf', 'Pempelfort']","['Balkon', 'EBK']",Miete inkl. NK 1.550 €,Wohnfläche ca. 80 m²,Zi. 2,171,5
+6,selObject_44699809,"°renovierte 3 Zimmer im EG, Balkon, Keller und Aufzug...","['Wohnung', '•', 'Wuppertal', 'Barmen']",['Balkon'],"Miete zzgl. NK 525,10 €",Wohnfläche ca. 77 m²,Zi. 3,171,5
+7,selObject_44699076,"2,5 Zimmer, 75 qm mit Balkon in 58089 Hagen Lenaustr....","['Etagenwohnung', '•', 'Hagen', 'Berchum']",['Balkon'],Miete zzgl. NK 375 €,Wohnfläche ca. 75 m²,"Zi. 2,5",171,5
+8,selObject_44699036,ZU VERMIETEN: Traumhafte Dachgeschosswohnung (+50m²...,"['Dachgeschosswohnung', '•', 'Soest', 'Soest']",['EBK'],Miete zzgl. NK 1.210 €,Wohnfläche ca. 107 m²,Zi. 3,171,5
+9,selObject_44698994,Wir machen ACTION...und Sie können selbst Hand anlegen...,"['Wohnung', '•', 'Duisburg', 'Obermeiderich']",[],"Miete zzgl. NK 424,55 €",Wohnfläche ca. 61 m²,Zi. 2,171,5
+10,selObject_44698937,Wir machen ACTION...und Sie können selbst Hand anlegen...,"['Wohnung', '•', 'Duisburg', 'Obermeiderich']",[],"Miete zzgl. NK 399,05 €",Wohnfläche ca. 77 m²,Zi. 3,171,5
+11,selObject_44698893,Hier werden Träume wahr. Exklusive Penthousewohnung in...,"['Etagenwohnung', '•', 'Würselen', 'Würselen']",[],Miete zzgl. NK 995 €,Wohnfläche ca. 83 m²,Zi. 3,171,5
+12,selObject_44698824,Wir machen ACTION...und Sie können selbst Hand anlegen...,"['Wohnung', '•', 'Duisburg', 'Obermeiderich']",[],"Miete zzgl. NK 582,34 €",Wohnfläche ca. 81 m²,Zi. 3,171,5
+13,selObject_44698655,"Ruhig gelegene 3,5 Zimmer Wohnung mit Gartennutzung in...","['Wohnung', '•', 'Bergisch', 'Gladbach', 'Bensberg']","['Garten', 'EBK']",Miete zzgl. NK 1.530 €,Wohnfläche ca. 128 m²,"Zi. 3,5",171,5
+14,selObject_44698608,Attraktive drei Zimmer Stadtwohnung mit Balkon in Duis...,"['Etagenwohnung', '•', 'Duisburg', 'Neudorf-Süd']",['Balkon'],Miete zzgl. NK 450 €,Wohnfläche ca. 74 m²,Zi. 3,171,5
+15,selObject_44698558,Singlewohnung mit abgeschliffenen Holzdielen,"['Etagenwohnung', '•', 'Dortmund', 'Hörde']",[],Miete zzgl. NK 299 €,Wohnfläche ca. 43 m²,Zi. 2,171,5
+16,selObject_44698513,-- KAISERHOF Lippstadt - seniorengerechtes Wohnen !! -...,"['Dachgeschosswohnung', '•', 'Lippstadt', 'Kernstadt']",['Balkon'],Miete zzgl. NK 890 €,Wohnfläche ca. 64 m²,Zi. 2,171,5
+17,selObject_44698448,Schöne Mietwohnung im Herzen von Buer,"['Etagenwohnung', '•', 'Gelsenkirchen', 'Buer']",[],Miete zzgl. NK 420 €,Wohnfläche ca. 65 m²,Zi. 3,171,5
+18,selObject_44698342,4-Zimmer-Wohnung in Gelsenkirchen zu vermieten,"['Wohnung', '•', 'Gelsenkirchen', 'Schalke']",[],Miete zzgl. NK 700 €,Wohnfläche ca. 126 m²,Zi. 4,171,5
+19,selObject_44698321,Moderne 2 Zimmerwohung im Herzen von Holt,"['Etagenwohnung', '•', 'Mönchengladbach', 'Waldhausen']",['EBK'],Miete zzgl. NK 420 €,Wohnfläche ca. 50 m²,Zi. 2,171,5
+20,selObject_44698158,"3-Zimmer-Dachgeschoss-Wohnung, Wilhelminenstraße 20,...","['Wohnung', '•', 'Hamm', 'Hamm-Mitte']",[],Miete zzgl. NK 370 €,Wohnfläche ca. 74 m²,Zi. 3,171,5
+21,selObject_44698155,Renovierte Dreizimmerwohnung in Werl zu vermieten,"['Wohnung', '•', 'Werl', 'Werl']","['Balkon', 'Garten']",Miete zzgl. NK 370 €,Wohnfläche ca. 61 m²,Zi. 3,171,5
+22,selObject_44698011,2 ZKB Dachgeschosswohnung mit Einbauküche in Bad Laasp...,"['Dachgeschosswohnung', '•', 'Bad', 'Laasphe', 'Bad', 'Laasphe']",[],Miete zzgl. NK 305 €,Wohnfläche ca. 45 m²,"Zi. 2,5",171,5
+23,selObject_44697982,Renovierte 2 Zimmer Wohnung in Stadtrandlage von Bad...,"['Souterrainwohnung', '•', 'Bad', 'Berleburg', 'Bad', 'Berleburg']",['Garten'],Miete zzgl. NK 470 €,Wohnfläche ca. 58 m²,Zi. 2,171,5
+24,selObject_44697837,Top renovierte großzügig ausgestattete Wohnung mit...,"['Wohnung', '•', 'Bergisch', 'Gladbach', 'Bensberg']",['Balkon'],Miete zzgl. NK 1.540 €,Wohnfläche ca. 129 m²,Zi. 4,171,5
+25,selObject_44697594,Schöne 3- Zimmer Wohnung im Dachgeschoss,"['Dachgeschosswohnung', '•', 'Schwerte', 'Schwerte']",[],Miete zzgl. NK 450 €,Wohnfläche ca. 72 m²,Zi. 3,171,5
+26,selObject_44697433,Helle 2-Zimmer Wohnung mit offenem Grundriss und Aufzu...,"['Etagenwohnung', '•', 'Aachen', 'Aachen']",[],Miete zzgl. NK 570 €,Wohnfläche ca. 60 m²,Zi. 2,171,5

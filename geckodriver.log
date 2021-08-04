@@ -943,3 +943,14 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1628025264110	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: https://immonetlive.cleverpush.com/iframe?origin=https%3A%2F%2Fwww.immonet.de, line 9: ChunkLoadError: Loading chunk 173 failed.
 (error: https://static.cleverpush.com/sdk/chunk/173.js)
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://app.usercentrics.eu/browser-ui/latest/bundle.js, line 15: GVLError: aborted
+JavaScript error: https://static.cleverpush.com/channel/loader/hLzkoHG72aAXcihPE.js, line 2: ChunkLoadError: Loading chunk 5 failed.
+(error: https://static.cleverpush.com/sdk/chunk/5.js)
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: https://app.usercentrics.eu/browser-ui/latest/bundle.js, line 15: GVLError: aborted
+JavaScript error: https://app.usercentrics.eu/browser-ui/latest/bundle.js, line 15: GVLError: aborted
+JavaScript error: https://app.usercentrics.eu/browser-ui/latest/bundle.js, line 15: GVLError: aborted
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
