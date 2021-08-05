@@ -27,8 +27,8 @@ def immonet_parser(page_source):
             print('- Error extracting title (selObj {}/{}): {}'.format(i, len(selObjects)-1, e))
 
         try:
-            bullets = selObject.find('span', class_='text-100')
-            bullets = bullets.get_text().split()
+            bullets = selObject.find_all('span', class_='text-100')
+            bullets = [b.get_text().split() for b in bullets]
         except Exception as e:
             print('- Error extracting bullets (selObj {}/{}): {}'.format(i, len(selObjects)-1, e))
 
@@ -67,12 +67,13 @@ opts.headless = True # show browser bool
 driver = webdriver.Firefox(options=opts, executable_path='geckodriver.exe') 
 
 # Loop through all 16 states
-for state in range(9,17):  # loop 16 federal states
+for state in range(1,17):  # loop 16 federal states
     page = 0
 
     # Loop through all pages
     while True:
         page +=1
+        
         url = 'https://www.immonet.de/immobiliensuche/sel.do?suchart=1&state=1&marketingtype=2'\
               '&pageoffset=1&parentcat=1&sortby=19&listsize=26&objecttype=1&federalstate={}&page={}'.format(state,page)
 

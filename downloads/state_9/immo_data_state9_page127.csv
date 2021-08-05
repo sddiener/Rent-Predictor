@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44802712,"Möbliert: Schönes, möbliertes Apartment in Schwabing","['Wohnung', '•', 'München', 'Schwabing-West']",[],Miete zzgl. NK 952 €,Wohnfläche ca. 38 m²,Zi. 1,127,9
-1,selObject_44802621,Möbliert: Exklusive 2-Zimmer Wohnung in Schwabing,"['Wohnung', '•', 'München', 'Schwabing-West']",['Balkon'],Miete zzgl. NK 2.360 €,Wohnfläche ca. 70 m²,Zi. 2,127,9
-2,selObject_44801273,Zentrumsnahe 2-Zimmer-Mietwohnung in 97688 Bad Kissing...,"['Dachgeschosswohnung', '•', 'Bad', 'Kissingen', 'Bad', 'Kissingen']",[],Miete zzgl. NK 420 €,Wohnfläche ca. 44 m²,Zi. 2,127,9
-3,selObject_44800954,"Altbau renoviert, 2 Zimmer Wohnung Stadtmitte","['Erdgeschosswohnung', '•', 'Schweinfurt', 'Innenstadt']",['Garten'],Miete zzgl. NK 550 €,Wohnfläche ca. 75 m²,Zi. 2,127,9
-4,selObject_44800815,"Erstbezug! 2-Zimmer-Wohnung mit EBK, Balkon, TG-Stellp...","['Wohnung', '•', 'Nürnberg', 'Steinbühl']","['Balkon', 'EBK']",Miete zzgl. NK 710 €,Wohnfläche ca. 44 m²,Zi. 2,127,9
-5,selObject_44800699,"Top Neubauwohnung in Waldkirchen mit Terrasse, neuer...","['Wohnung', '•', 'Waldkirchen', 'Frischeck']","['Garten', 'EBK']",Miete zzgl. NK 1.050 €,Wohnfläche ca. 110 m²,Zi. 4,127,9
-6,selObject_44800691,"2 Zimmerwohnung 49 qm 1. Stock mit Balkon, zentrale...","['Etagenwohnung', '•', 'Pocking', 'Indling']","['Balkon', 'EBK']",Miete zzgl. NK 380 €,Wohnfläche ca. 49 m²,Zi. 3,127,9
-7,selObject_44800350,2-Zimmer-Wohnung mit Charme in einem Altbau und Blick...,"['Wohnung', '•', 'Puchheim', 'Puchheim', 'Bahnhof']","['Balkon', 'EBK']",Miete zzgl. NK 750 €,Wohnfläche ca. 50 m²,Zi. 2,127,9
-8,selObject_44799376,Helle 2-Zimmer-Wohnung mit Terrasse in Hof,"['Wohnung', '•', 'Hof', 'Innenstadt']",['EBK'],Miete zzgl. NK 420 €,Wohnfläche ca. 62 m²,Zi. 2,127,9
-9,selObject_44798927,Helle Mietwohnung zum Wohlfühlen,"['Etagenwohnung', '•', 'Senden', 'Senden']",['Balkon'],Miete zzgl. NK 930 €,Wohnfläche ca. 96 m²,Zi. 3,127,9
-10,selObject_44798912,"Attraktive 2 Zimmer-Whg. in Bad Füssings ""Guter Stube""","['Wohnung', '•', 'Bad', 'Füssing', 'Bad', 'Füssing']","['Garten', 'EBK']",Miete zzgl. NK 515 €,Wohnfläche ca. 50 m²,Zi. 2,127,9
-11,selObject_44798510,Moderne Dachgeschosswohnung mit Bergblick zu mieten,"['Etagenwohnung', '•', 'Aschau', 'Aschau']",['EBK'],Miete zzgl. NK 1.300 €,Wohnfläche ca. 97 m²,Zi. 3,127,9
-12,selObject_44798487,3-Zimmer-Wohnung mit großem Gartenanteil und Einbauküc...,"['Erdgeschosswohnung', '•', 'Fürth', 'Eigenes', 'Heim']","['Garten', 'EBK']",Miete zzgl. NK 1.290 €,Wohnfläche ca. 98 m²,Zi. 3,127,9
-13,selObject_44798473,ISARVORSTADT 1 A - Lage - Thalkirchner Straße,"['Wohnung', '•', 'München', 'Ludwigsvorstadt-Isarvorstadt']",['EBK'],Miete zzgl. NK 1.050 €,Wohnfläche ca. 26 m²,Zi. 1,127,9
-14,selObject_44798459,1 A - Lage - Thalkirchner Straße ISARVORSTADT,"['Wohnung', '•', 'München', 'Ludwigsvorstadt-Isarvorstadt']",['EBK'],Miete zzgl. NK 1.050 €,Wohnfläche ca. 26 m²,Zi. 1,127,9
-15,selObject_44798448,Zentrum: 1 Zimmer-Apartment 5 Min vom BHF - zentral &...,"['Apartment', '•', 'Nürnberg', 'Gleißbühl']","['Garten', 'EBK']",Miete zzgl. NK 450 €,Wohnfläche ca. 24 m²,Zi. 1,127,9
-16,selObject_44798069,Über den Dächern Schwabings! DG-Traum auf 2 Ebenen mit...,"['Dachgeschosswohnung', '•', 'München', 'Maxvorstadt']",['EBK'],Miete zzgl. NK 4.350 €,Wohnfläche ca. 186 m²,Zi. 4,127,9
-17,selObject_44798036,1-Zimmer-Wohnung mit sonnigem Balkon in einem Ortsteil...,"['Etagenwohnung', '•', 'Bad', 'Staffelstein', 'Schönbrunn']","['Balkon', 'EBK']",Miete zzgl. NK 410 €,Wohnfläche ca. 50 m²,Zi. 2,127,9
-18,selObject_44798019,"Erstbezug n. Renovierung: sehr schöne 3,5-Zi-Whg (2.OG...","['Etagenwohnung', '•', 'Nürnberg', 'Glockenhof']",['Balkon'],Miete zzgl. NK 830 €,Wohnfläche ca. 86 m²,"Zi. 3,5",127,9
-19,selObject_44797925,"Grosszügige, lichtdurchflutete OG/DG-Wohnung in sehr...","['Etagenwohnung', '•', 'Grassau']","['Balkon', 'EBK']",Miete zzgl. NK 1.800 €,Wohnfläche ca. 200 m²,Zi. 4,127,9
-20,selObject_44797854,"Schöne 4-Zimmer-Wohnung mit 2 Balkonen in ruhiger,...","['Etagenwohnung', '•', 'Füssen', 'Eschach']","['Balkon', 'EBK']",Miete zzgl. NK 1.367 €,Wohnfläche ca. 132 m²,Zi. 4,127,9
-21,selObject_44797195,3 Zimmer Wohnung mit Balkon,"['Etagenwohnung', '•', 'Moosburg', 'Moosburg']",['Balkon'],Miete zzgl. NK 680 €,Wohnfläche ca. 65 m²,Zi. 3,127,9
-22,selObject_44797085,~~ VILLENLAGE EBENSEE! Charmante Etagenwohnung direkt...,"['Etagenwohnung', '•', 'Nürnberg', 'Mögeldorf']","['Balkon', 'EBK']",Miete zzgl. NK 1.050 €,Wohnfläche ca. 110 m²,"Zi. 3,5",127,9
-23,selObject_44796257,1-Zimmer-Apartment mit separater Küche (5),"['Erdgeschosswohnung', '•', 'Passau', 'Altstadt']",['EBK'],Miete zzgl. NK 380 €,Wohnfläche ca. 34 m²,Zi. 1,127,9
-24,selObject_44796195,Großzügige 2-Zimmer-Wohnung in Nürnberg-Gleißhammer,"['Etagenwohnung', '•', 'Nürnberg', 'Weichselgarten']",[],Miete zzgl. NK 590 €,Wohnfläche ca. 68 m²,Zi. 2,127,9
-25,selObject_44796057,"""Haidhausen"" Gemütliche 1,5 Zimmer Wohnung mit Ost-Bal...","['Wohnung', '•', 'München', 'Berg', 'am', 'Laim']","['Balkon', 'EBK']",Miete zzgl. NK 759 €,Wohnfläche ca. 43 m²,Zi. 2,127,9
-26,selObject_44795677,"Großzügige 6-Zimmer Wohnung als ""Haus im Haus"" mit...","['Wohnung', '•', 'Nürnberg', 'Rechenberg']",['Garten'],Miete zzgl. NK 1.584 €,Wohnfläche ca. 160 m²,Zi. 6,127,9
+0,selObject_44829031,Sanierte 1-Zimmer-Altbauwohnung mit Terrasse in Fürth...,"[['Wohnung', '•', 'Fürth', 'Weststadt']]",['EBK'],Miete zzgl. NK 550 €,Wohnfläche ca. 44 m²,Zi. 1,127,9
+1,selObject_44828983,Neu renovierte 3 Zimmer-Wohnung mit großem Balkon,"[['Dachgeschosswohnung', '•', 'Feuchtwangen', 'Feuchtwangen']]",['Balkon'],Miete zzgl. NK 605 €,Wohnfläche ca. 73 m²,Zi. 3,127,9
+2,selObject_44828973,Neu renovierte 3 Zimmer-Wohnung mit zwei schönen Balko...,"[['Dachgeschosswohnung', '•', 'Feuchtwangen', 'Feuchtwangen']]",['Balkon'],Miete zzgl. NK 650 €,Wohnfläche ca. 79 m²,Zi. 3,127,9
+3,selObject_44828919,Attraktive möbelierte 3 Zimmer Wohnung mit Dachterrass...,"[['Etagenwohnung', '•', 'Amberg', 'Amberg']]",['EBK'],Miete zzgl. NK 630 €,Wohnfläche ca. 70 m²,Zi. 3,127,9
+4,selObject_44828633,Helle und großzügige 4-Zimmer-Wohnung mit 2 Balkonen...,"[['Etagenwohnung', '•', 'Hösbach', 'Hösbach']]",[],Miete zzgl. NK 1.200 €,Wohnfläche ca. 120 m²,Zi. 4,127,9
+5,selObject_44828494,Studio möbliert in Tegernsee,"[['Apartment', '•', 'Tegernsee']]",['Balkon'],Miete inkl. NK 1.250 €,Wohnfläche ca. 40 m²,Zi. 1,127,9
+6,selObject_44828295,schöne geräumige 2 Zimmer Wohnungen (2.2) WG tauglich,"[['Wohnung', '•', 'Passau', 'Altstadt']]",['EBK'],Miete zzgl. NK 840 €,Wohnfläche ca. 73 m²,Zi. 2,127,9
+7,selObject_44828286,2-Zimmer-Galeriewohnung mit Aufzug und EBK und Tiefgar...,"[['Wohnung', '•', 'Kösching', 'Kösching']]",['EBK'],Miete zzgl. NK 810 €,Wohnfläche ca. 81 m²,Zi. 2,127,9
+8,selObject_44828267,Schickes Studentenapartment in Nürnberg,"[['Etagenwohnung', '•', 'Nürnberg', 'Sebald']]","['Balkon', 'EBK']",Miete zzgl. NK 440 €,Wohnfläche ca. 21 m²,Zi. 1,127,9
+9,selObject_44828256,Exklusives Loft-Apartment mit spektakulärem Ausblick,"[['Wohnung', '•', 'Nürnberg', 'St', 'Johannis']]",['EBK'],Miete zzgl. NK 710 €,Wohnfläche ca. 50 m²,Zi. 1,127,9
+10,selObject_44828109,"Schöne, geräumige 1-Zimmer (3.4 u. 4.3)","[['Wohnung', '•', 'Passau', 'Altstadt']]",['EBK'],Miete zzgl. NK 454 €,Wohnfläche ca. 40 m²,Zi. 1,127,9
+11,selObject_44828087,"* PERFEKTE 1,5 Zi. - Wohnung * für 1 Person, nahe...","[['Wohnung', '•', 'Nürnberg', 'Glockenhof']]",[],Miete zzgl. NK 480 €,Wohnfläche ca. 46 m²,"Zi. 1,5",127,9
+12,selObject_44827918,Stadtwohnung,"[['Wohnung', '•', 'Rosenheim', 'Innenstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 900 €,Wohnfläche ca. 86 m²,Zi. 2,127,9
+13,selObject_44827892,St. Jobst: Repräsentative Maisonette-Wohnung,"[['Apartment', '•', 'Nürnberg', 'Steinplatte']]","['Balkon', 'EBK']",Miete zzgl. NK 1.984 €,Wohnfläche ca. 139 m²,Zi. 4,127,9
+14,selObject_44827842,Top-ausgestattete 3-Zimmer-Neubauwohnung mit Balkon in...,"[['Wohnung', '•', 'Traunstein', 'Traunstein']]",['Balkon'],Miete zzgl. NK 1.015 €,Wohnfläche ca. 78 m²,Zi. 3,127,9
+15,selObject_44827840,4-Zimmer Obergeschosswohnung mit Balkon (Neubau),"[['Wohnung', '•', 'Bad', 'Füssing', 'Würding']]",['Balkon'],Miete zzgl. NK 1.100 €,Wohnfläche ca. 109 m²,Zi. 4,127,9
+16,selObject_44826791,***GROSSZÜGIGES WOHNEN IN EINEN ZWEIFAMILIENHAUS***,"[['Dachgeschosswohnung', '•', 'Ansbach', 'Elpersdorf']]",[],Miete zzgl. NK 640 €,Wohnfläche ca. 85 m²,Zi. 1,127,9
+17,selObject_44826179,2-Zimmer-renovierte Altbauwohnung in 90762 Fürth Innen...,"[['Wohnung', '•', 'Fürth', 'Innenstadt']]",['EBK'],Miete zzgl. NK 570 €,Wohnfläche ca. 65 m²,Zi. 2,127,9
+18,selObject_44826099,"3-Zimmer DG-Zimmer-Wohnung, Neubau, Erstbezug, mit...","[['Wohnung', '•', 'Sulzfeld']]","['Balkon', 'EBK']",Miete zzgl. NK 700 €,Wohnfläche ca. 88 m²,Zi. 3,127,9
+19,selObject_44826096,2-Zimmer-Wohnung im 8. Stock in Augsburg Herrenbach...,"[['Wohnung', '•', 'Augsburg', 'Herrenbach']]",['EBK'],Miete zzgl. NK 575 €,Wohnfläche ca. 60 m²,Zi. 2,127,9
+20,selObject_44826079,PREMIUM-WOHNEN IN GERMERING - 3-Zi.-Etagen-Whg. mit...,"[['Wohnung', '•', 'Germering', 'Unterpfaffenhofen']]","['Balkon', 'EBK']",Miete zzgl. NK 2.374 €,Wohnfläche ca. 119 m²,Zi. 3,127,9
+21,selObject_44826075,PREMIUM-WOHNEN IN GERMERING - 3-Zi-Whg. mit großer...,"[['Erdgeschosswohnung', '•', 'Germering', 'Unterpfaffenhofen']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 2.360 €,Wohnfläche ca. 118 m²,Zi. 3,127,9
+22,selObject_44826072,"PREMIUM-WOHNEN IN GERMERING - 4,5-Zi.-Maisonettewohnun...","[['Maisonette', '•', 'Germering', 'Unterpfaffenhofen']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 3.130 €,Wohnfläche ca. 156 m²,"Zi. 4,5",127,9
+23,selObject_44826026,Sehr große Wunderschöne 4-Zimmer-Wohnung sucht Sie,"[['Apartment', '•', 'Laaber', 'Edlhausen']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.090 €,Wohnfläche ca. 145 m²,Zi. 4,127,9
+24,selObject_44826022,Erstbezug! Einziehen und wohlfühlen! 3-Zimmer-Wohnung...,"[['Wohnung', '•', 'Neumarkt-Sankt', 'Veit', 'Neumarkt-Sankt', 'Veit']]","['Balkon', 'EBK']",Miete zzgl. NK 995 €,Wohnfläche ca. 101 m²,Zi. 3,127,9
+25,selObject_44825891,"3 Zi. Neubauwohnung ((Nr. 3.1), behinderten- /senioren...","[['Wohnung', '•', 'Pommersfelden', 'Pommersfelden']]","['Balkon', 'EBK']",Miete zzgl. NK 850 €,Wohnfläche ca. 107 m²,Zi. 3,127,9
+26,selObject_44825888,"Helle 2,5 Zimmer Wohnung mit Balkon, 1.OG","[['Wohnung', '•', 'Altötting', 'Altötting']]",[],Miete zzgl. NK 580 €,Wohnfläche ca. 73 m²,"Zi. 2,5",127,9

@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44665060,Wohnbauprojekt Lindenallee: Gehobene 4 - Raum Wohnung...,"['Wohnung', '•', 'Jena', 'Zwätzen']",['Balkon'],Miete zzgl. NK 1.635 €,Wohnfläche ca. 131 m²,Zi. 4,50,16
-1,selObject_44665029,Wohnbauprojekt Lindenallee: Neuwertige 3 - Raum Wohnun...,"['Wohnung', '•', 'Jena', 'Zwätzen']",['Balkon'],Miete zzgl. NK 950 €,Wohnfläche ca. 76 m²,Zi. 3,50,16
-2,selObject_44664509,***Geräumige & helle 4-Raumwohnung mit Balkon***,"['Etagenwohnung', '•', 'Mühlhausen', 'Mühlhausen']","['Balkon', 'EBK']",Miete zzgl. NK 400 €,Wohnfläche ca. 72 m²,Zi. 4,50,16
-3,selObject_44663581,Schicke Dreizimmerwohnung in der Innenstadt von Meinin...,"['Wohnung', '•', 'Meiningen', 'Meiningen']",['Garten'],Miete zzgl. NK 485 €,Wohnfläche ca. 72 m²,Zi. 3,50,16
-4,selObject_44662621,Neu saniert und fairer Preis --- 4-Raum-WE mit Balkon...,"['Wohnung', '•', 'Gera']",[],Miete zzgl. NK 320 €,Wohnfläche ca. 70 m²,Zi. 4,50,16
-5,selObject_44662622,+++ Bezugsfertige 2-Raum-DG-Wohnung in Gera-Zwötzen...,"['Etagenwohnung', '•', 'Gera', 'Zwötzen']",[],Miete zzgl. NK 282 €,Wohnfläche ca. 61 m²,Zi. 2,50,16
-6,selObject_44661779,"In Dölau! Angenehme 4,5 Zimmer Wohnung mit Kachelofen...","['Etagenwohnung', '•', 'Greiz', 'Greiz']",['Garten'],Miete zzgl. NK 387 €,Wohnfläche ca. 86 m²,"Zi. 4,5",50,16
-7,selObject_44661710,"Neu saniert --- Moderne, ruhige 2-R.-Whg. im 1.OG mit...","['Wohnung', '•', 'Gera', 'Bieblach']",[],Miete zzgl. NK 249 €,Wohnfläche ca. 48 m²,Zi. 2,50,16
-8,selObject_44661584,Modern sanierte 4 Raum-Wohnung mit Balkon und schickem...,"['Etagenwohnung', '•', 'Gera', 'Innenstadt']",['Balkon'],Miete zzgl. NK 580 €,Wohnfläche ca. 98 m²,Zi. 4,50,16
-9,selObject_44659158,MUSTERWOHNUNG im Zentrum! Komplett saniert // modern...,"['Erdgeschosswohnung', '•', 'Gera', 'Innenstadt']",['Balkon'],Miete zzgl. NK 327 €,Wohnfläche ca. 55 m²,Zi. 2,50,16
-10,selObject_44654046,Schöne 3-Raumwohnung mit Einbauküche,"['Etagenwohnung', '•', 'Gera', 'Tinz']","['Balkon', 'EBK']","Miete zzgl. NK 339,95 €",Wohnfläche ca. 59 m²,Zi. 3,50,16
-11,selObject_44651787,Schöne 2 Zimmerwohnung mitten in Sonneberg,"['Erdgeschosswohnung', '•', 'Sonneberg', 'Sonneberg']",[],Miete zzgl. NK 410 €,Wohnfläche ca. 67 m²,,50,16
-12,selObject_44650484,Schöne 3-Raum-Wohnung mit Balkon in Debschwitz,"['Etagenwohnung', '•', 'Gera', 'Debschwitz']",['Balkon'],Miete zzgl. NK 550 €,Wohnfläche ca. 97 m²,Zi. 3,50,16
-13,selObject_44650255,Möblierte 1 1/2 Raumwohnung in Saalfeld/Bahnhofsnähe...,"['Erdgeschosswohnung', '•', 'Saalfeld', 'Saalfeld']",['EBK'],Miete zzgl. NK 364 €,Wohnfläche ca. 52 m²,Zi. 2,50,16
-14,selObject_44649944,gepflegte 3-Zimmer Wohnung in der Nähe des Bahnhofs!,"['Etagenwohnung', '•', 'Mühlhausen', 'Mühlhausen']","['Garten', 'EBK']",Miete zzgl. NK 430 €,Wohnfläche ca. 95 m²,Zi. 3,50,16
-15,selObject_44649888,Mehrgenerationenhaus Tanna,"['Wohnung', '•', 'Tanna', 'Tanna']",['Garten'],"Miete zzgl. NK 200,10 €",Wohnfläche ca. 34 m²,Zi. 2,50,16
-16,selObject_44649857,KAUTIONSFREI* anmieten- Tolles WG-Zimmer mit All-Inclu...,"['Wohnung', '•', 'Eisenach', 'Eisenach']","['Balkon', 'EBK']",Miete zzgl. NK 95 €,Wohnfläche ca. 19 m²,Zi. 1,50,16
-17,selObject_44649670,Großzügige 3-Raum Wohnung mit hellen Räumen im 3. OG-...,"['Etagenwohnung', '•', 'Erfurt', 'Krämpfervorstadt']",['Garten'],Miete zzgl. NK 580 €,Wohnfläche ca. 80 m²,Zi. 3,50,16
-18,selObject_44649459,Geräumige Altbauwohnung mit Balkon,"['Etagenwohnung', '•', 'Nordhausen', 'Nordhausen']",['Balkon'],Miete zzgl. NK 715 €,Wohnfläche ca. 112 m²,Zi. 4,50,16
-19,selObject_44649256,2 helle Räume // Dusche // gute Infrastruktur // Wohnz...,"['Erdgeschosswohnung', '•', 'Gera', 'Innenstadt']",['Balkon'],Miete zzgl. NK 327 €,Wohnfläche ca. 55 m²,Zi. 2,50,16
-20,selObject_44649255,Komplett saniert zum Wohlfühlen! Fliesen und Bodenbela...,"['Wohnung', '•', 'Gera', 'Bieblach']",['Balkon'],Miete zzgl. NK 312 €,Wohnfläche ca. 50 m²,Zi. 2,50,16
-21,selObject_44649253,Behindertengerechte 3-Raum-Wohnung im grünen Umfeld //...,"['Erdgeschosswohnung', '•', 'Gera', 'Bieblach-Ost']",['Balkon'],Miete zzgl. NK 350 €,Wohnfläche ca. 80 m²,Zi. 3,50,16
-22,selObject_44649016,2-Raum-Wohnung in ruhiger Lage in Gorndorf,"['Wohnung', '•', 'Saalfeld', 'Saalfeld']",[],Miete zzgl. NK 237 €,Wohnfläche ca. 47 m²,Zi. 2,50,16
-23,selObject_44648452,Helle sanierte 2-Raum Wohnung in Kamsdorf,"['Wohnung', '•', 'Unterwellenborn', 'Unterwellenborn']",[],"Miete zzgl. NK 248,78 €",Wohnfläche ca. 46 m²,Zi. 2,50,16
-24,selObject_44648335,geräumige 2-Zimmer Wohnung mit Gartennutzung in der...,"['Etagenwohnung', '•', 'Mühlhausen', 'Mühlhausen']",['Garten'],Miete zzgl. NK 410 €,Wohnfläche ca. 89 m²,Zi. 2,50,16
-25,selObject_44647885,Kleine Wohnung mit Küche übernehmen!,"['Etagenwohnung', '•', 'Erfurt', 'Berliner', 'Platz']",['Balkon'],Miete zzgl. NK 190 €,Wohnfläche ca. 31 m²,Zi. 1,50,16
-26,selObject_44647292,Bezugsfertige 3-RW mit EBK! Sofort anschauen und zugre...,"['Dachgeschosswohnung', '•', 'Erfurt', 'Daberstedt']",['EBK'],"Miete zzgl. NK 609,79 €",Wohnfläche ca. 55 m²,Zi. 3,50,16
+0,selObject_44706215,Endlich raus aus dem Hotel Mama,"[['Wohnung', '•', 'Gera', 'Lusan']]",['Balkon'],Miete zzgl. NK 200 €,Wohnfläche ca. 36 m²,Zi. 1,50,16
+1,selObject_44706171,Frisch gestrichene Wohnung in ruhiger Lage gesucht?...,"[['Wohnung', '•', 'Gera', 'Lusan']]",['Balkon'],Miete zzgl. NK 255 €,Wohnfläche ca. 48 m²,Zi. 2,50,16
+2,selObject_44706170,Ansehen! Hier entsteht saniertes Familienwohnglück...,"[['Wohnung', '•', 'Gera', 'Lusan']]",['Balkon'],Miete zzgl. NK 330 €,Wohnfläche ca. 63 m²,Zi. 3,50,16
+3,selObject_44706153,Hier können Sie sofort einziehen!,"[['Wohnung', '•', 'Gera', 'Lusan']]",['Balkon'],Miete zzgl. NK 190 €,Wohnfläche ca. 36 m²,Zi. 1,50,16
+4,selObject_44706150,"Aufgepasst* Einziehen lohnt sich*, Altersgerechte,...","[['Wohnung', '•', 'Gera', 'Lusan']]",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 57 m²,Zi. 2,50,16
+5,selObject_44705483,Ruhig gelegene 2 Raumwohnung,"[['Wohnung', '•', 'Eisenberg', 'Eisenberg']]",[],Miete zzgl. NK 260 €,Wohnfläche ca. 50 m²,Zi. 2,50,16
+6,selObject_44705484,schöne 1 Raumwohnung mit Balkon,"[['Wohnung', '•', 'Eisenberg', 'Eisenberg']]",['Balkon'],"Miete zzgl. NK 218,28 €",Wohnfläche ca. 36 m²,Zi. 1,50,16
+7,selObject_44705218,Helle 3-Raumwohnung mit offener Küche und Balkon im 1....,"[['Etagenwohnung', '•', 'Gera', 'Pforten']]",['Balkon'],Miete zzgl. NK 475 €,Wohnfläche ca. 80 m²,Zi. 3,50,16
+8,selObject_44701286,**Schicke und moderne Wohnung sucht neue Mieter**,"[['Etagenwohnung', '•', 'Wutha-Farnroda', 'Wutha-Farnroda']]",['Balkon'],Miete zzgl. NK 305 €,Wohnfläche ca. 61 m²,Zi. 3,50,16
+9,selObject_44701240,**Moderne Wohnung mit offener Küche**,"[['Etagenwohnung', '•', 'Wutha-Farnroda', 'Wutha-Farnroda']]",['Balkon'],Miete zzgl. NK 305 €,Wohnfläche ca. 61 m²,Zi. 3,50,16
+10,selObject_44701210,ERSTBEZUG in Orlamünde! 2-Raum-Maisonettewohnung,"[['Maisonette', '•', 'Orlamünde']]",['Garten'],Miete zzgl. NK 417 €,Wohnfläche ca. 56 m²,Zi. 2,50,16
+11,selObject_44701146,Große Freiheit zur kleinen Miete!,"[['Wohnung', '•', 'Gera', 'Lusan']]",['Balkon'],Miete zzgl. NK 185 €,Wohnfläche ca. 34 m²,"Zi. 1,5",50,16
+12,selObject_44701075,Modernisierte 4-Zimmer Wohnung,"[['Erdgeschosswohnung', '•', 'Greiz', 'Greiz']]",['Balkon'],Miete zzgl. NK 642 €,Wohnfläche ca. 107 m²,Zi. 4,50,16
+13,selObject_44700524,Platz für Dein Leben! Mitten im Grünen und doch zentra...,"[['Etagenwohnung', '•', 'Saalfeld', 'Saalfeld']]",['Balkon'],Miete zzgl. NK 305 €,Wohnfläche ca. 56 m²,Zi. 2,50,16
+14,selObject_44700455,Einfach mehr zum leben!,"[['Etagenwohnung', '•', 'Saalfeld', 'Saalfeld']]",['Balkon'],Miete zzgl. NK 390 €,Wohnfläche ca. 71 m²,Zi. 3,50,16
+15,selObject_44700413,Endlich Zuhause!,"[['Etagenwohnung', '•', 'Saalfeld', 'Saalfeld']]",['Balkon'],Miete zzgl. NK 335 €,Wohnfläche ca. 61 m²,Zi. 3,50,16
+16,selObject_44700205,Große 1RW mit Balkon in Ilmenau-RESERVIERT-,"[['Etagenwohnung', '•', 'Ilmenau', 'Ilmenau']]",['Balkon'],Miete zzgl. NK 310 €,Wohnfläche ca. 44 m²,Zi. 1,50,16
+17,selObject_44700060,Gut geschnittene Wohnung im repräsentativen Stuckaltba...,"[['Etagenwohnung', '•', 'Gera', 'Ostviertel']]",[],Miete zzgl. NK 236 €,Wohnfläche ca. 53 m²,Zi. 2,50,16
+18,selObject_44699897,Schöne 2-Raumwohnung mit Laminat in Gera Untermhaus,"[['Dachgeschosswohnung', '•', 'Gera', 'Pforten']]",[],Miete zzgl. NK 295 €,Wohnfläche ca. 51 m²,Zi. 2,50,16
+19,selObject_44699356,WG-Zimmer mit Balkon in optimaler Lage,"[['Wohnung', '•', 'Gotha', 'Gotha']]","['Balkon', 'EBK']",Miete zzgl. NK 210 €,Wohnfläche ca. 28 m²,Zi. 1,50,16
+20,selObject_44699122,WG-Zimmer mit separatem Schlafbereich,"[['Wohnung', '•', 'Gotha', 'Gotha']]",['EBK'],Miete zzgl. NK 200 €,Wohnfläche ca. 24 m²,Zi. 1,50,16
+21,selObject_44699075,Nachmieter gesucht,"[['Etagenwohnung', '•', 'Gotha', 'Gotha']]",['Balkon'],Miete zzgl. NK 410 €,Wohnfläche ca. 72 m²,Zi. 3,50,16
+22,selObject_44699014,**Frisch renovierte Wohnung mit idyllischem Blick ins...,"[['Etagenwohnung', '•', 'Suhl', 'Suhl']]",['Balkon'],Miete zzgl. NK 269 €,Wohnfläche ca. 56 m²,Zi. 3,50,16
+23,selObject_44699013,Neu im Angebot!!! WG-Zimmer,"[['Wohnung', '•', 'Gotha', 'Gotha']]",['EBK'],Miete zzgl. NK 165 €,Wohnfläche ca. 15 m²,Zi. 1,50,16
+24,selObject_44698991,WG-Zimmer sucht Sparfuchs!!,"[['Wohnung', '•', 'Gotha', 'Gotha']]",['EBK'],Miete zzgl. NK 165 €,Wohnfläche ca. 15 m²,Zi. 1,50,16
+25,selObject_44698220,lichtdurchflutete. geräumige 1-Raum-Dachgeschosswohnun...,"[['Dachgeschosswohnung', '•', 'Gera', 'Innenstadt']]",['Garten'],Miete zzgl. NK 250 €,Wohnfläche ca. 61 m²,Zi. 1,50,16
+26,selObject_44696472,1-Raum-Single Wohnung im Stadtzentrum von Altenburg,"[['Wohnung', '•', 'Altenburg', 'Altenburg']]",[],Miete zzgl. NK 169 €,Wohnfläche ca. 35 m²,Zi. 1,50,16

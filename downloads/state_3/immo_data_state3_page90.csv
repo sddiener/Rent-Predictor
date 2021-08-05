@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44422476,4-Zimmer-Obergeschosswohnung mit großer Dachterrasse...,"['Etagenwohnung', '•', 'Drebber']",[],Miete zzgl. NK 700 €,Wohnfläche ca. 135 m²,Zi. 4,90,3
-1,selObject_44422312,Renovierte 2 ZKB-Dachgeschosswohnung mit großzügigem...,"['Dachgeschosswohnung', '•', 'Langen', 'Langen']",[],Miete zzgl. NK 435 €,Wohnfläche ca. 64 m²,Zi. 2,90,3
-2,selObject_44421658,Modernisierte 1- Zimmer-Wohnung,"['Dachgeschosswohnung', '•', 'Laatzen', 'Alt-Laatzen']",[],"Miete zzgl. NK 460,32 €",Wohnfläche ca. 39 m²,Zi. 1,90,3
-3,selObject_44420887,Innenstadt-Uferstraße Cäcilienhof: Seniorenwohnung mit...,"['Wohnung', '•', 'Oldenburg', 'Kreyenbrück']",['Balkon'],Miete zzgl. NK 900 €,Wohnfläche ca. 93 m²,Zi. 2,90,3
-4,selObject_44414022,3 Zimmer-Wohnung in Lemförde,"['Dachgeschosswohnung', '•', 'Lemförde']","['Balkon', 'EBK']",Miete zzgl. NK 650 €,Wohnfläche ca. 82 m²,Zi. 3,90,3
-5,selObject_44413560,Die Aussicht gibt´s Gratis!,"['Etagenwohnung', '•', 'Nordenham', 'Nordenham']",['Balkon'],Miete zzgl. NK 390 €,Wohnfläche ca. 62 m²,Zi. 2,90,3
-6,selObject_44413558,Gutschein für deinen Umzug!,"['Etagenwohnung', '•', 'Nordenham', 'Nordenham']",['Balkon'],Miete zzgl. NK 390 €,Wohnfläche ca. 62 m²,Zi. 2,90,3
-7,selObject_44413107,* Traumhafte 3-Zimmer Wohnung Nähe Südstrand *,"['Etagenwohnung', '•', 'Wilhelmshaven', 'Innenstadt']",['EBK'],Miete zzgl. NK 369 €,Wohnfläche ca. 71 m²,Zi. 3,90,3
-8,selObject_44412875,unt. OV! 2 ZKB + Terrasse,"['Kein', 'Bild']","['Garten', 'EBK']",Miete zzgl. NK 530 €,Wohnfläche ca. 47 m²,Zi. 2,90,3
-9,selObject_44412053,Gemütliche 3-Zimmer-Wohnung in Hannover,"['Etagenwohnung', '•', 'Hannover', 'Bemerode']","['Balkon', 'EBK']",Miete zzgl. NK 582 €,Wohnfläche ca. 64 m²,Zi. 3,90,3
-10,selObject_44412004,"1 Zimmer-Wohnung in Bovenden, Südring 7","['Erdgeschosswohnung', '•', 'Bovenden', 'Bovenden']",[],Miete zzgl. NK 241 €,Wohnfläche ca. 23 m²,Zi. 1,90,3
-11,selObject_44411969,Neubau: Attraktive 2-Zimmerwohnung in zentraler Wohnla...,"['Etagenwohnung', '•', 'Verden', 'Verden']","['Balkon', 'EBK']",Miete zzgl. NK 620 €,Wohnfläche ca. 61 m²,Zi. 2,90,3
-12,selObject_44411968,Neubau: Attraktive 2-Zimmerwohnung in zentraler Wohnla...,"['Etagenwohnung', '•', 'Verden', 'Verden']","['Balkon', 'EBK']",Miete zzgl. NK 690 €,Wohnfläche ca. 69 m²,Zi. 2,90,3
-13,selObject_44411872,Neubau: Attraktive 3-Zimmerwohnung in zentraler Wohnla...,"['Erdgeschosswohnung', '•', 'Verden', 'Verden']","['Balkon', 'EBK']",Miete zzgl. NK 865 €,Wohnfläche ca. 92 m²,Zi. 3,90,3
-14,selObject_44410301,Großzügige 3-Zimmer Neubaumietwohnung im Erdgeschoss...,"['Erdgeschosswohnung', '•', 'Langen', 'Langen']","['Balkon', 'Garten']",Miete zzgl. NK 840 €,Wohnfläche ca. 80 m²,Zi. 3,90,3
-15,selObject_44410049,Donnerschwee -Donnerschweer Straße: 2 Zimmer-Wohnung...,"['Wohnung', '•', 'Oldenburg', 'Bürgerfelde']",['Balkon'],Miete zzgl. NK 495 €,Wohnfläche ca. 52 m²,Zi. 2,90,3
-16,selObject_44409993,Gemütliche Wohnung für Rollstuhlfahrer,"['Erdgeschosswohnung', '•', 'Oldenburg', 'Krusenbusch']","['Garten', 'EBK']",Miete zzgl. NK 880 €,Wohnfläche ca. 76 m²,Zi. 2,90,3
-17,selObject_44409822,Freundliche 4-Zimmer-Erdgeschosswohnung,"['Erdgeschosswohnung', '•', 'Soltau', 'Soltau']",['EBK'],Miete zzgl. NK 632 €,Wohnfläche ca. 83 m²,Zi. 4,90,3
-18,selObject_44404659,Gemütliche 2-Zimmer Neubaumietwohnung mit Terrasse in...,"['Erdgeschosswohnung', '•', 'Langen', 'Langen']","['Balkon', 'Garten']",Miete zzgl. NK 695 €,Wohnfläche ca. 66 m²,Zi. 2,90,3
-19,selObject_44400274,Ein Monat Mietfrei,"['Etagenwohnung', '•', 'Herzberg', 'Herzberg']",[],Miete zzgl. NK 310 €,Wohnfläche ca. 61 m²,Zi. 2,90,3
-20,selObject_44400250,"1,5 Zimmer","['Dachgeschosswohnung', '•', 'Bad', 'Sachsa', 'Bad', 'Sachsa']",['EBK'],Miete zzgl. NK 200 €,Wohnfläche ca. 31 m²,"Zi. 1,5",90,3
-21,selObject_44399568,Modernisierte Wohnung im Europaviertel sucht Mieter!,"['Etagenwohnung', '•', 'Wilhelmshaven', 'Neuende']",['Balkon'],Miete zzgl. NK 526 €,Wohnfläche ca. 86 m²,Zi. 4,90,3
-22,selObject_44398713,Schöne möbliert und voll ausgestattete Wohnung im 2...,"['Erdgeschosswohnung', '•', 'Schwarme', 'Heide']","['Garten', 'EBK']",Miete inkl. NK 944 €,Wohnfläche ca. 88 m²,Zi. 3,90,3
-23,selObject_44396788,Neubau-Erstbezug! Topmoderne citynahe Erdgeschosswohnu...,"['Erdgeschosswohnung', '•', 'Cloppenburg', 'Cloppenburg']",[],Miete zzgl. NK 960 €,Wohnfläche ca. 110 m²,Zi. 2,90,3
-24,selObject_44396787,Neubau-Erstbezug! Topmoderne citynahe Dachgeschosswohn...,"['Dachgeschosswohnung', '•', 'Cloppenburg', 'Cloppenburg']",[],Miete zzgl. NK 650 €,Wohnfläche ca. 76 m²,Zi. 3,90,3
-25,selObject_44394690,Home-office und anspruchsvolles Wohnen kombinieren!,"['Dachgeschosswohnung', '•', 'Hanstedt', 'Hanstedt']",['EBK'],Miete zzgl. NK 772 €,Wohnfläche ca. 57 m²,Zi. 2,90,3
-26,selObject_44394677,Traumhafte Erdgeschosswohnung in Osnabrück-Pye,"['Erdgeschosswohnung', '•', 'Osnabrück', 'Pye']",['Balkon'],Miete zzgl. NK 1.000 €,Wohnfläche ca. 85 m²,Zi. 3,90,3
+0,selObject_44478659,Große Seniorenwhg. in Bothfeld,"[['Etagenwohnung', '•', 'Hannover', 'Bothfeld']]","['Balkon', 'EBK']","Miete zzgl. NK 747,65 €",Wohnfläche ca. 72 m²,Zi. 3,90,3
+1,selObject_44478107,Neubauwohnung südliches Hannover: Moderne 3- Zimmer...,"[['Etagenwohnung', '•', 'Laatzen', 'Alt-Laatzen']]","['Balkon', 'EBK']",Miete zzgl. NK 1.382 €,Wohnfläche ca. 115 m²,Zi. 3,90,3
+2,selObject_44477745,Modernisiert - Tolle geräumige Singlewohnung,"[['Etagenwohnung', '•', 'Hannover', 'Misburg-Nord']]",['Balkon'],Miete zzgl. NK 365 €,Wohnfläche ca. 51 m²,Zi. 1,90,3
+3,selObject_44477023,Helle 3-Zimmer Wohnung !,"[['Etagenwohnung', '•', 'Munster', 'Munster']]",['EBK'],Miete zzgl. NK 442 €,Wohnfläche ca. 68 m²,Zi. 3,90,3
+4,selObject_44474475,"Braunschweig-Wenden, Hauptstraße, 1-Zi.-Mietwohnung","[['Wohnung', '•', 'Braunschweig', 'Wenden']]",[],Miete zzgl. NK 320 €,Wohnfläche ca. 38 m²,Zi. 1,90,3
+5,selObject_44473523,Modernisierte 4-Zimmer Wohnung mit traumhaftem Garten.,"[['Erdgeschosswohnung', '•', 'Embsen', 'Embsen']]",['Garten'],Miete zzgl. NK 1.240 €,Wohnfläche ca. 124 m²,Zi. 4,90,3
+6,selObject_44472863,3-Zimmer-Wohnung in Alfeld mit Blick ins Grüne,"[['Etagenwohnung', '•', 'Alfeld', 'Alfeld']]",['Balkon'],Miete zzgl. NK 465 €,Wohnfläche ca. 79 m²,Zi. 3,90,3
+7,selObject_44459831,Traumhaftes Maisonette-Penthouse mit Dachterrasse,"[['Wohnung', '•', 'Seelze', 'Letter']]",['Balkon'],"Miete zzgl. NK 967,41 €",Wohnfläche ca. 92 m²,Zi. 3,90,3
+8,selObject_44458996,3 Zimmer DG-Wohnung in ruhigem Haus,"[['Dachgeschosswohnung', '•', 'Herzberg', 'Herzberg']]",[],Miete zzgl. NK 310 €,Wohnfläche ca. 61 m²,Zi. 3,90,3
+9,selObject_44458979,"2-Zimmerwohnung im 1. Obergeschoss, Kisslingenweg,...","[['Etagenwohnung', '•', 'Quakenbrück', 'Neustadt']]",[],Miete zzgl. NK 550 €,Wohnfläche ca. 69 m²,Zi. 2,90,3
+10,selObject_44458957,Modernisierte 2-Zimmer-Dachgeschosswohnung,"[['Dachgeschosswohnung', '•', 'Bad', 'Harzburg', 'Bündheim']]",[],Miete zzgl. NK 450 €,Wohnfläche ca. 73 m²,Zi. 2,90,3
+11,selObject_44458892,Nette Singlewohnung im Zentrum,"[['Etagenwohnung', '•', 'Norden', 'Norden']]",['EBK'],Miete zzgl. NK 395 €,Wohnfläche ca. 55 m²,Zi. 2,90,3
+12,selObject_44458836,"2 Zimmerwohnung in guter Lage von Vechta, Vechtaer...","[['Kein', 'Bild'], ['Dachgeschosswohnung', '•', 'Vechta', 'Vechta']]",['Balkon'],Miete zzgl. NK 480 €,Wohnfläche ca. 61 m²,Zi. 2,90,3
+13,selObject_44458622,Frisch renovierte 2-Zimmer-Wohnung,"[['Etagenwohnung', '•', 'Bad', 'Harzburg', 'Bad', 'Harzburg']]",[],Miete zzgl. NK 350 €,Wohnfläche ca. 65 m²,Zi. 2,90,3
+14,selObject_44458276,3 Zimmer Altbauwohnung im nördl. Ringgebiet - Citynah,"[['Etagenwohnung', '•', 'Braunschweig', 'Braunschweig']]",[],Miete zzgl. NK 620 €,Wohnfläche ca. 80 m²,Zi. 3,90,3
+15,selObject_44458021,2-Zimmer Wohnung mit Balkon!,"[['Etagenwohnung', '•', 'Stade', 'Stade']]","['Balkon', 'EBK']",Miete zzgl. NK 320 €,Wohnfläche ca. 46 m²,Zi. 2,90,3
+16,selObject_44457598,** 2-ZIMMER-WOHNUNG IN KLECKEN* ZU FUSS ZUR BAHN***,"[['Dachgeschosswohnung', '•', 'Rosengarten', 'Klecken']]","['Balkon', 'EBK']",Miete zzgl. NK 720 €,Wohnfläche ca. 80 m²,Zi. 2,90,3
+17,selObject_44457276,4-Zimmer-Wohnung mit Ausblick,"[['Etagenwohnung', '•', 'Hannover', 'Linden-Mitte']]","['Balkon', 'EBK']","Miete zzgl. NK 851,28 €",Wohnfläche ca. 100 m²,Zi. 4,90,3
+18,selObject_44456281,3-Zimmer Neubaumietwohnung im Obergeschoss mit Balkon...,"[['Etagenwohnung', '•', 'Langen', 'Langen']]","['Balkon', 'Garten']",Miete zzgl. NK 890 €,Wohnfläche ca. 85 m²,Zi. 3,90,3
+19,selObject_44453254,Dachgeschosswohnung mit Balkon im Zentrum! 3 ZKB Balko...,"[['Dachgeschosswohnung', '•', 'Löningen', 'Löningen']]",['Balkon'],Miete zzgl. NK 395 €,,Zi. 3,90,3
+20,selObject_44453181,Sanierte 3-Zimmer-Wohnung zu vergeben!,"[['Etagenwohnung', '•', 'Braunschweig', 'Weststadt']]",['Balkon'],Miete zzgl. NK 560 €,Wohnfläche ca. 75 m²,Zi. 3,90,3
+21,selObject_44452354,Möbliertes Zimmer für Studenten und Azubis,"[['Dachgeschosswohnung', '•', 'Wolfenbüttel', 'Stadtgebiet']]",['Garten'],Miete zzgl. NK 290 €,Wohnfläche ca. 18 m²,Zi. 1,90,3
+22,selObject_44452275,Frisch renovierte 3-Zimmer Wohnung mit Balkon!,"[['Wohnung', '•', 'Göttingen', 'Grone']]",['Balkon'],Miete zzgl. NK 648 €,Wohnfläche ca. 76 m²,Zi. 3,90,3
+23,selObject_44449795,Gute Laage Top Wohnung,"[['Etagenwohnung', '•', 'Hildesheim', 'Neustadt']]",[],Miete zzgl. NK 499 €,Wohnfläche ca. 63 m²,Zi. 2,90,3
+24,selObject_44449737,Über den Dächern von Papenburg///barrierefrei Dachgesc...,"[['Wohnung', '•', 'Papenburg', 'Papenburg']]",['Balkon'],Miete zzgl. NK 595 €,Wohnfläche ca. 66 m²,Zi. 3,90,3
+25,selObject_44449733,Neubau/Erstbezug///barrierefreie Obergeschosswohnung...,"[['Wohnung', '•', 'Papenburg', 'Papenburg']]",['Balkon'],Miete zzgl. NK 640 €,Wohnfläche ca. 71 m²,Zi. 3,90,3
+26,selObject_44449378,Schöne 3-Zimmer-Wohnung direkt in der Innenstadt!,"[['Etagenwohnung', '•', 'Emden', 'Stadtzentrum']]",['EBK'],Miete zzgl. NK 500 €,Wohnfläche ca. 90 m²,Zi. 3,90,3

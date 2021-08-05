@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44119233,%%% schicke 3-R-Wohnung mit Laminat & Balkon in ruhige...,"['Wohnung', '•', 'Chemnitz', 'Hilbersdorf']","['Balkon', 'Garten']",Miete zzgl. NK 300 €,Wohnfläche ca. 63 m²,Zi. 3,311,14
-1,selObject_44119076,gz-i.de: Sehr helles Dach-Apartment mit Badewanne und...,"['Dachgeschosswohnung', '•', 'Dresden', 'Leipziger', 'Vorstadt']",['EBK'],Miete zzgl. NK 280 €,Wohnfläche ca. 20 m²,Zi. 1,311,14
-2,selObject_44118401,Charmante 2-Raum-Wohnung mit Weitblick über die Leipzi...,"['Dachgeschosswohnung', '•', 'Leipzig', 'Zentrum-Nord']",['Balkon'],Miete zzgl. NK 875 €,Wohnfläche ca. 92 m²,Zi. 2,311,14
-3,selObject_44118214,Wohnen mit Wow-Effekt // Großzügige Maisonette-Wohnung...,"['Maisonette', '•', 'Leipzig', 'Zentrum-Nord']",[],Miete zzgl. NK 706 €,Wohnfläche ca. 74 m²,Zi. 2,311,14
-4,selObject_44118124,TOP LAGE MIT SONNENBALKON IM 1. OBERGESCHOSS,"['Kein', 'Bild']",['Balkon'],Miete zzgl. NK 428 €,Wohnfläche ca. 66 m²,Zi. 2,311,14
-5,selObject_44118077,"Lage, Lage, Lage! // Exklusive 2-Raum-Wohnung mit 2...","['Etagenwohnung', '•', 'Leipzig', 'Zentrum-Nord']",['Balkon'],Miete zzgl. NK 707 €,Wohnfläche ca. 74 m²,Zi. 2,311,14
-6,selObject_44117921,GROSSE 2-RAUM-WOHNUNG IN SUPER LAGE - TIEFGARAGE,"['Kein', 'Bild']",['Balkon'],Miete zzgl. NK 470 €,Wohnfläche ca. 71 m²,Zi. 2,311,14
-7,selObject_44116584,NEU SANIERT! 1 Raum-Wohnung zu mieten,"['Etagenwohnung', '•', 'Dresden', 'Gorbitz-Süd']",[],Miete zzgl. NK 193 €,Wohnfläche ca. 27 m²,Zi. 1,311,14
-8,selObject_44116554,sanierte 3-Zimmer-Wohnung (WBS) sucht neue Familie,"['Etagenwohnung', '•', 'Dresden', 'Gorbitz-Süd']",['Balkon'],Miete zzgl. NK 386 €,Wohnfläche ca. 64 m²,Zi. 3,311,14
-9,selObject_44116483,Erstbezug nach umfangreicher Renovierung!,"['Wohnung', '•', 'Chemnitz']",['Garten'],Miete zzgl. NK 299 €,Wohnfläche ca. 50 m²,Zi. 2,311,14
-10,selObject_44116475,Helle Wohnung mit Balkon sucht neue Mieter!,"['Wohnung', '•', 'Chemnitz', 'Helbersdorf']",['Balkon'],Miete zzgl. NK 277 €,Wohnfläche ca. 57 m²,Zi. 3,311,14
-11,selObject_44116434,Lichtdurchflutete Wohnung mit Wohlfühlcharakter am See,"['Etagenwohnung', '•', 'Leipzig', 'Lausen-Grünau']",['Balkon'],"Miete zzgl. NK 361,14 €",Wohnfläche ca. 68 m²,Zi. 3,311,14
-12,selObject_44116431,Sanierte Wohnung mit Balkon im Grünen,"['Etagenwohnung', '•', 'Leipzig', 'Grünau-Ost']",['Balkon'],"Miete zzgl. NK 223,60 €",Wohnfläche ca. 34 m²,Zi. 1,311,14
-13,selObject_44116430,Blick auf Miltitz,"['Etagenwohnung', '•', 'Leipzig', 'Grünau-Nord']",[],"Miete zzgl. NK 179,36 €",Wohnfläche ca. 33 m²,Zi. 1,311,14
-14,selObject_44115876,moderne 3 Zimmerwohnung in schöner Wohnlage,"['Etagenwohnung', '•', 'Borna', 'Borna']",[],Miete zzgl. NK 455 €,Wohnfläche ca. 65 m²,Zi. 3,311,14
-15,selObject_44115831,"+++ TOLLE ALTBAUWOHNUNG MIT STUCK, PARKETT UND SONNIGE...","['Wohnung', '•', 'Chemnitz', 'Kaßberg']",['Balkon'],Miete zzgl. NK 850 €,Wohnfläche ca. 137 m²,Zi. 5,311,14
-16,selObject_44115532,BARRIEREFREIES WOHNEN - ERSTBEZUG NACH KOMPLETTSANIERU...,"['Souterrainwohnung', '•', 'Chemnitz', 'Reichenbrand']",[],Miete zzgl. NK 325 €,Wohnfläche ca. 53 m²,Zi. 2,311,14
-17,selObject_44113026,Günstig barrierearm Wohnen - mit Fahrstuhl,"['Etagenwohnung', '•', 'Chemnitz', 'Sonnenberg']",[],Miete zzgl. NK 250 €,Wohnfläche ca. 55 m²,Zi. 2,311,14
-18,selObject_44112685,Großzügige DG 1-Zimmer mit Laminat und Wanne in guter...,"['Dachgeschosswohnung', '•', 'Chemnitz', 'Gablenz']",['EBK'],Miete zzgl. NK 175 €,Wohnfläche ca. 41 m²,Zi. 1,311,14
-19,selObject_44112392,"2 Mon. km-frei! Großzügige 2-Zimmer mit Laminat, Dusch...","['Etagenwohnung', '•', 'Chemnitz', 'Gablenz']",[],"Miete zzgl. NK 199,50 €",Wohnfläche ca. 57 m²,Zi. 2,311,14
-20,selObject_44112271,Hier wird der Aufstieg belohnt...neu sanierte 3-RW mit...,"['Wohnung', '•', 'Freiberg,', 'Sachs', 'Freiberg']",[],Miete zzgl. NK 349 €,Wohnfläche ca. 62 m²,Zi. 3,311,14
-21,selObject_44112260,Sanierte Dachgeschoßwohnung,"['Dachgeschosswohnung', '•', 'Grimma', 'Großbardau']",[],Miete zzgl. NK 250 €,Wohnfläche ca. 46 m²,Zi. 2,311,14
-22,selObject_44112256,Kaum zu glauben...günstige 3-RW mit Wanne u. Balkon......,"['Wohnung', '•', 'Freiberg,', 'Sachs', 'Freiberg']",['Balkon'],Miete zzgl. NK 319 €,Wohnfläche ca. 58 m²,Zi. 3,311,14
-23,selObject_44112201,Rarität am Weißen Hirsch! Großzügig 4 Zimmer-Wohnung...,"['Etagenwohnung', '•', 'Dresden', 'Bühlau/Weißer', 'Hirsch']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.430 €,Wohnfläche ca. 150 m²,Zi. 4,311,14
-24,selObject_44112025,Luxus pur // 4-Raum-Maisonette-Whg. mit großem Außenbe...,"['Maisonette', '•', 'Leipzig', 'Zentrum-West']",['EBK'],"Miete zzgl. NK 1.901,63 €",Wohnfläche ca. 152 m²,Zi. 4,311,14
-25,selObject_44111535,240 € Warm - Süße DG-Wohnung in Wurzen,"['Kein', 'Bild']",[],Miete zzgl. NK 150 €,Wohnfläche ca. 31 m²,Zi. 1,311,14
-26,selObject_44111534,3-Zi.-Wohnung mit Südbalkon und herrlichen Blick,"['Wohnung', '•', 'Grimma', 'Mutzschen']",['Balkon'],Miete zzgl. NK 350 €,Wohnfläche ca. 59 m²,Zi. 3,311,14
+0,selObject_44167081,Umsorgt Wohnen in den eigenen vier Wänden / Erstbezug...,"[['Erdgeschosswohnung', '•', 'Leipzig', 'Probstheida']]",['Balkon'],Miete zzgl. NK 373 €,Wohnfläche ca. 53 m²,Zi. 2,311,14
+1,selObject_44167079,Energetisch saniert! 2-Raum-Wohnung mit Balkon,"[['Wohnung', '•', 'Leipzig', 'Paunsdorf']]",['Balkon'],"Miete zzgl. NK 304,20 €",Wohnfläche ca. 55 m²,Zi. 2,311,14
+2,selObject_44167038,3-Raum-Wohnung mit Aufzug im sanierten Hochhaus,"[['Wohnung', '•', 'Leipzig', 'Schönefeld-Ost']]",[],Miete zzgl. NK 385 €,Wohnfläche ca. 64 m²,Zi. 3,311,14
+3,selObject_44165724,großzügige 2-Zi-DG-Whg in der Gottschedstraße - frisch...,"[['Dachgeschosswohnung', '•', 'Leipzig', 'Zentrum-West']]",[],Miete zzgl. NK 615 €,Wohnfläche ca. 77 m²,Zi. 2,311,14
+4,selObject_44165237,"Traumhafter Ausblick - 1,5-Zimmer-Wohnung MIT Einbaukü...","[['Wohnung', '•', 'Chemnitz', 'Schloßchemnitz']]","['Balkon', 'Garten', 'EBK']","Miete zzgl. NK 382,50 €",Wohnfläche ca. 51 m²,"Zi. 1,5",311,14
+5,selObject_44165227,"Schicke kleine Wohnung im Herzen der Stadt - 1,5-Zimme...","[['Wohnung', '•', 'Chemnitz', 'Schloßchemnitz']]","['Balkon', 'Garten']","Miete zzgl. NK 307,50 €",Wohnfläche ca. 41 m²,"Zi. 1,5",311,14
+6,selObject_44165217,"Schicke 1,5-Zimmer Wohnung im Zentrum - Balkon- Aufzug...","[['Wohnung', '•', 'Chemnitz', 'Schloßchemnitz']]","['Balkon', 'Garten']",Miete zzgl. NK 330 €,Wohnfläche ca. 44 m²,"Zi. 1,5",311,14
+7,selObject_44165180,"Helle 1,5 -Zimmer-Wohnung im Herzen von Chemnitz -...","[['Wohnung', '•', 'Chemnitz', 'Schloßchemnitz']]","['Balkon', 'Garten']",Miete zzgl. NK 330 €,Wohnfläche ca. 44 m²,"Zi. 1,5",311,14
+8,selObject_44164451,!! Zentrale Lage !! EBK- 2-Raum-Wohnung mit kleinem...,"[['Wohnung', '•', 'Chemnitz', 'Hilbersdorf']]","['Balkon', 'EBK']",Miete zzgl. NK 300 €,Wohnfläche ca. 64 m²,Zi. 2,311,14
+9,selObject_44163162,!! Zentrale Lage !! EBK- 2-Raum- EG-Wohnung mit kleine...,"[['Erdgeschosswohnung', '•', 'Chemnitz', 'Hilbersdorf']]","['Balkon', 'EBK']",Miete zzgl. NK 300 €,Wohnfläche ca. 61 m²,Zi. 2,311,14
+10,selObject_44161645,"SUPER !!! 1RW mit offener Küche und Balkon, Stellplatz...","[['Etagenwohnung', '•', 'Chemnitz', 'Sonnenberg']]",[],Miete zzgl. NK 210 €,Wohnfläche ca. 38 m²,Zi. 1,311,14
+11,selObject_44161644,"SUPER !!! 1RW mit offener Küche und Terrasse, Stellpla...","[['Etagenwohnung', '•', 'Chemnitz', 'Sonnenberg']]",[],Miete zzgl. NK 210 €,Wohnfläche ca. 36 m²,Zi. 1,311,14
+12,selObject_44160919,"Schön geschnittene, kleine 3-Zimmer-Wohnung in ruhiger...","[['Wohnung', '•', 'Dresden', 'Naußlitz']]",['Balkon'],Miete zzgl. NK 431 €,Wohnfläche ca. 56 m²,Zi. 2,311,14
+13,selObject_44159771,+++ Erstbezug nach Komplettsanierung +++,"[['Dachgeschosswohnung', '•', 'Zwickau', 'Pölbitz']]",['Balkon'],Miete zzgl. NK 338 €,Wohnfläche ca. 55 m²,Zi. 2,311,14
+14,selObject_44159537,+++ Erstbezug nach Komplettsanierung +++,"[['Etagenwohnung', '•', 'Zwickau', 'Pölbitz']]",['Balkon'],Miete zzgl. NK 699 €,Wohnfläche ca. 113 m²,Zi. 2,311,14
+15,selObject_44159536,+++ Erstbezug nach Komplettsanierung +++,"[['Erdgeschosswohnung', '•', 'Zwickau', 'Pölbitz']]",['Balkon'],Miete zzgl. NK 299 €,Wohnfläche ca. 49 m²,Zi. 2,311,14
+16,selObject_44159535,+++ Erstbezug nach Komplettsanierung +++,"[['Erdgeschosswohnung', '•', 'Zwickau', 'Pölbitz']]",['Balkon'],Miete zzgl. NK 299 €,Wohnfläche ca. 48 m²,Zi. 2,311,14
+17,selObject_44159487,"Schöne, großzügige 2- Raum Wohnung in Flöha","[['Wohnung', '•', 'Flöha', 'Flöha']]",[],Miete zzgl. NK 305 €,Wohnfläche ca. 59 m²,Zi. 2,311,14
+18,selObject_44159376,Sonderaktion*! 3-R.-WE m. Balkon in Kittlitz!,"[['Etagenwohnung', '•', 'Löbau', 'Kittlitz']]",['Balkon'],Miete zzgl. NK 286 €,Wohnfläche ca. 59 m²,Zi. 3,311,14
+19,selObject_44158660,Exclusive Altbauwohnung mit Einbauküche im Zentrum von...,"[['Etagenwohnung', '•', 'Annaberg-Buchholz', 'Annaberg']]","['Garten', 'EBK']",Miete zzgl. NK 380 €,Wohnfläche ca. 65 m²,Zi. 2,311,14
+20,selObject_44158331,Barrierefreie1 Raum Wohnung mit Einbauküche mitten im...,"[['Wohnung', '•', 'Bautzen', 'Bautzen']]",[],Miete zzgl. NK 348 €,Wohnfläche ca. 46 m²,Zi. 1,311,14
+21,selObject_44158320,"schöne, geräumige 2-Zimmer-Dachgeschosswohnung mit...","[['Dachgeschosswohnung', '•', 'Freiberg,', 'Sachs', 'Freiberg']]",['EBK'],Miete zzgl. NK 280 €,Wohnfläche ca. 45 m²,Zi. 2,311,14
+22,selObject_44158267,Modernisierte 3-Raumwohnung im Wohnpark,"[['Etagenwohnung', '•', 'Seifhennersdorf']]",[],Miete zzgl. NK 311 €,Wohnfläche ca. 75 m²,Zi. 3,311,14
+23,selObject_44158081,Wohnung in Zwickau,"[['Erdgeschosswohnung', '•', 'Zwickau', 'Innenstadt']]",[],Miete zzgl. NK 298 €,Wohnfläche ca. 71 m²,Zi. 3,311,14
+24,selObject_44158018,Erstbezug nach Renovierung- 1-RW für Singles u. Studen...,"[['Etagenwohnung', '•', 'Zittau', 'Zittau']]",[],Miete zzgl. NK 180 €,Wohnfläche ca. 30 m²,Zi. 1,311,14
+25,selObject_44157982,Premium-Wohnung direkt zwischen Herzogin Garten und...,"[['Wohnung', '•', 'Dresden', 'Wilsdruffer', 'Vorstadt/Seevorstadt-West']]",['Balkon'],"Miete zzgl. NK 1.447,05 €",Wohnfläche ca. 132 m²,Zi. 4,311,14
+26,selObject_44157697,ruhig wohnen im Herzen von Mügeln,"[['Dachgeschosswohnung', '•', 'Mügeln', 'Mügeln']]",['Garten'],Miete zzgl. NK 376 €,Wohnfläche ca. 72 m²,Zi. 3,311,14

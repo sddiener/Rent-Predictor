@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_43985189,Gemütliche Dachgeschoss-Zweiraumwohnung in zentraler...,"['Dachgeschosswohnung', '•', 'Merseburg', 'Merseburg']",[],Miete zzgl. NK 250 €,Wohnfläche ca. 35 m²,Zi. 2,102,15
-1,selObject_43984221,Gemütliche Wohnung sucht netten Mieter,"['Wohnung', '•', 'Dessau-Roßlau', 'Innenstadt']",[],Miete zzgl. NK 355 €,Wohnfläche ca. 62 m²,Zi. 2,102,15
-2,selObject_43984214,Familienwohnung mit Blick ins Grüne,"['Wohnung', '•', 'Dessau-Roßlau', 'Süd']",['Balkon'],Miete zzgl. NK 395 €,Wohnfläche ca. 58 m²,Zi. 3,102,15
-3,selObject_43983947,Schöne 2-Raumwohnung,"['Dachgeschosswohnung', '•', 'Magdeburg', 'Leipziger', 'Str.']",['EBK'],Miete zzgl. NK 290 €,Wohnfläche ca. 51 m²,Zi. 2,102,15
-4,selObject_43983649,3-Zimmerwohnung mit Balkon & Badewanne im Grünen,"['Wohnung', '•', 'Magdeburg', 'Westerhüsen']",['Balkon'],Miete zzgl. NK 440 €,Wohnfläche ca. 73 m²,Zi. 3,102,15
-5,selObject_43983643,"3 ZKDB, Balkon in Wolfen ab 01.08.2021 zu vermieten","['Dachgeschosswohnung', '•', 'Bitterfeld-Wolfen', 'Wolfen']",['Balkon'],Miete zzgl. NK 515 €,Wohnfläche ca. 73 m²,Zi. 3,102,15
-6,selObject_43983391,"Wohnen über der Stadt,helle preiswerte 3-R-Wohnung im...","['Dachgeschosswohnung', '•', 'Magdeburg', 'Leipziger', 'Str.']",['EBK'],Miete zzgl. NK 330 €,Wohnfläche ca. 66 m²,Zi. 3,102,15
-7,selObject_43982740,Zuhause im Herzen der Stadt gesucht?,"['Etagenwohnung', '•', 'Merseburg', 'Merseburg']",['Balkon'],Miete zzgl. NK 275 €,Wohnfläche ca. 51 m²,Zi. 2,102,15
-8,selObject_43982565,Kurzexposé 2030/1/1,"['Erdgeschosswohnung', '•', 'Zeitz', 'Zeitz']",['Balkon'],"Miete zzgl. NK 465,60 €",Wohnfläche ca. 97 m²,Zi. 3,102,15
-9,selObject_43982562,Kurzexposé 2430/1/3,"['Wohnung', '•', 'Zeitz', 'Zeitz']",[],"Miete zzgl. NK 411,35 €",Wohnfläche ca. 87 m²,Zi. 3,102,15
-10,selObject_43982514,+++Wunderschöne Dachgeschosswohnung mit Einbauküche+++,"['Dachgeschosswohnung', '•', 'Stendal', 'Stendal']",['EBK'],Miete zzgl. NK 400 €,Wohnfläche ca. 73 m²,Zi. 3,102,15
-11,selObject_43981424,Traumhafte 3-Zimmer-Wohnung in top Lage!!,"['Apartment', '•', 'Magdeburg', 'Leipziger', 'Str.']",['Balkon'],"Miete zzgl. NK 478,02 €",Wohnfläche ca. 80 m²,Zi. 3,102,15
-12,selObject_43981393,Moderne 3-Zimmer-Wohnung mit Balkon im beliebten Stadt...,"['Erdgeschosswohnung', '•', 'Magdeburg', 'Cracau']",['Balkon'],"Miete zzgl. NK 354,23 €",Wohnfläche ca. 58 m²,Zi. 3,102,15
-13,selObject_43981343,Machen Sie diese charmante 3-Zimmer-Wohnung zu Ihrem...,"['Apartment', '•', 'Magdeburg', 'Cracau']",['Balkon'],"Miete zzgl. NK 359,10 €",Wohnfläche ca. 58 m²,Zi. 3,102,15
-14,selObject_43980035,Möblierte 3-Raum Wohnung für Angehörige der Bundeswehr,"['Wohnung', '•', 'Havelberg', 'Havelberg']",['EBK'],Miete zzgl. NK 355 €,Wohnfläche ca. 56 m²,Zi. 3,102,15
-15,selObject_43979561,"Dachgeschosswohnung ""Ihr Ausblick""","['Wohnung', '•', 'Genthin', 'Genthin']",['Balkon'],"Miete zzgl. NK 353,76 €",Wohnfläche ca. 59 m²,Zi. 3,102,15
-16,selObject_43976057,Am Rande der Heide,"['Wohnung', '•', 'Halle', 'Heide', 'Nord']",['Balkon'],"Miete zzgl. NK 395,05 €",Wohnfläche ca. 70 m²,Zi. 3,102,15
-17,selObject_43975501,geräumige 2-RW I 2 Kalmieten Erlass,"['Etagenwohnung', '•', 'Magdeburg', 'Alte', 'Neustadt']","['Balkon', 'EBK']",Miete zzgl. NK 420 €,Wohnfläche ca. 61 m²,Zi. 2,102,15
-18,selObject_43975493,2-RW im Jugendstil mit originalem Stuck,"['Etagenwohnung', '•', 'Magdeburg', 'Alte', 'Neustadt']",[],Miete zzgl. NK 399 €,Wohnfläche ca. 59 m²,Zi. 2,102,15
-19,selObject_43975289,schöne 4-RW in alte Neustadt I 2 Kaltmieten Erlass,"['Etagenwohnung', '•', 'Magdeburg', 'Alte', 'Neustadt']",['Balkon'],Miete zzgl. NK 799 €,Wohnfläche ca. 118 m²,Zi. 4,102,15
-20,selObject_43974019,Jetzt wird es bunt! Sanierte 2-Zimmer-Wohnung mit Balk...,"['Erdgeschosswohnung', '•', 'Magdeburg', 'Fermersleben']",['Balkon'],Miete zzgl. NK 280 €,Wohnfläche ca. 46 m²,Zi. 2,102,15
-21,selObject_43973629,"modern und günstig Wohnen im Dreieck Halle, Leipzig,...","['Dachgeschosswohnung', '•', 'Gräfenhainichen', 'Gräfenhainichen']",['Balkon'],Miete zzgl. NK 280 €,Wohnfläche ca. 58 m²,Zi. 3,102,15
-22,selObject_43973283,"Große 4-Zimmer-Wohnung mit EBK, perfekt für Familien!...","['Etagenwohnung', '•', 'Südharz', 'Hayn']",['EBK'],Miete zzgl. NK 365 €,Wohnfläche ca. 74 m²,Zi. 4,102,15
-23,selObject_43972880,* Helle 3 Zimmer Wohnung mit großem Badezimmer *,"['Wohnung', '•', 'Magdeburg', 'Sudenburg']",[],Miete zzgl. NK 440 €,Wohnfläche ca. 80 m²,Zi. 3,102,15
-24,selObject_43972782,*** gemütliche DG-Wohnung in Werder ***,"['Dachgeschosswohnung', '•', 'Magdeburg', 'Werder']",['Garten'],Miete zzgl. NK 325 €,Wohnfläche ca. 50 m²,Zi. 1,102,15
-25,selObject_43971384,"Genießen Sie 2 Monate nettokaltmietfreie Zeit*, in...","['Etagenwohnung', '•', 'Halle', 'Südstadt']",['Balkon'],Miete zzgl. NK 328 €,Wohnfläche ca. 61 m²,Zi. 3,102,15
-26,selObject_43971307,Wunderschöne 2-Raum Wohnung - Erstbezug nach Vollsanie...,"['Wohnung', '•', 'Halle', 'Altstadt']",['Balkon'],"Miete zzgl. NK 868,14 €",Wohnfläche ca. 75 m²,Zi. 2,102,15
+0,selObject_43993407,"Wohnen in zentraler Lage, 2 Balkone","[['Etagenwohnung', '•', 'Naumburg', 'Naumburg']]",['Balkon'],Miete zzgl. NK 300 €,Wohnfläche ca. 54 m²,Zi. 2,102,15
+1,selObject_43993251,Gemütliche 2-Raumwohnung im Herzen Magdeburgs!,"[['Etagenwohnung', '•', 'Magdeburg', 'Leipziger', 'Str.']]",[],Miete zzgl. NK 270 €,Wohnfläche ca. 43 m²,Zi. 2,102,15
+2,selObject_43992741,- Dachgeschosswohnung mit Stellplatz oder Garage -,"[['Dachgeschosswohnung', '•', 'Lützen', 'Zorbau']]","['Garten', 'EBK']",Miete zzgl. NK 270 €,Wohnfläche ca. 42 m²,Zi. 2,102,15
+3,selObject_43992404,6-Raumwohnung in ländlicher Atmosphäre in Magdeburg zu...,"[['Etagenwohnung', '•', 'Magdeburg', 'Westerhüsen']]",[],"Miete zzgl. NK 639,10 €",Wohnfläche ca. 116 m²,Zi. 6,102,15
+4,selObject_43991709,Gutschein bei Anmietung!,"[['Etagenwohnung', '•', 'Halle', 'Silberhöhe']]",['Balkon'],Miete zzgl. NK 313 €,Wohnfläche ca. 61 m²,Zi. 3,102,15
+5,selObject_43988093,Die ist für mich,"[['Etagenwohnung', '•', 'Halle', 'Silberhöhe']]",['Balkon'],"Miete zzgl. NK 328,82 €",Wohnfläche ca. 58 m²,Zi. 3,102,15
+6,selObject_43987706,"2-Raum-Whng. mit Abstellraum, Balkon u. Bonus","[['Etagenwohnung', '•', 'Halle', 'Heide', 'Nord']]",['Balkon'],Miete zzgl. NK 240 €,Wohnfläche ca. 48 m²,Zi. 2,102,15
+7,selObject_43985849,"Seniorengerechte, barrierefreie Wohnung mit Terrasse","[['Erdgeschosswohnung', '•', 'Lützen', 'Lützen']]",['Balkon'],Miete zzgl. NK 447 €,Wohnfläche ca. 60 m²,Zi. 1,102,15
+8,selObject_43985848,"Seniorengerechte, barrierefreie Wohnung mit Aufzug","[['Dachgeschosswohnung', '•', 'Lützen', 'Lützen']]",['Balkon'],Miete zzgl. NK 429 €,Wohnfläche ca. 52 m²,Zi. 2,102,15
+9,selObject_43985843,"Seniorengerechte, barrierefreie Wohnung mit Terrasse","[['Erdgeschosswohnung', '•', 'Lützen', 'Lützen']]",['Balkon'],Miete zzgl. NK 546 €,Wohnfläche ca. 66 m²,Zi. 2,102,15
+10,selObject_43985833,"Seniorengerechte, barrierefreie Wohnung mit Aufzug","[['Dachgeschosswohnung', '•', 'Lützen', 'Lützen']]",['Balkon'],Miete zzgl. NK 413 €,Wohnfläche ca. 50 m²,Zi. 2,102,15
+11,selObject_43985831,"Seniorengerechte, barrierefreie Wohnung mit Aufzug","[['Dachgeschosswohnung', '•', 'Lützen', 'Lützen']]",['Balkon'],Miete zzgl. NK 413 €,Wohnfläche ca. 50 m²,Zi. 2,102,15
+12,selObject_43985317,"Im Grünen gelegene, ruhige schöne 3-Zimmer-Dachgeschos...","[['Dachgeschosswohnung', '•', 'Coswig', 'Klieken']]",[],Miete zzgl. NK 343 €,Wohnfläche ca. 68 m²,Zi. 3,102,15
+13,selObject_43985189,Gemütliche Dachgeschoss-Zweiraumwohnung in zentraler...,"[['Dachgeschosswohnung', '•', 'Merseburg', 'Merseburg']]",[],Miete zzgl. NK 250 €,Wohnfläche ca. 35 m²,Zi. 2,102,15
+14,selObject_43984221,Gemütliche Wohnung sucht netten Mieter,"[['Wohnung', '•', 'Dessau-Roßlau', 'Innenstadt']]",[],Miete zzgl. NK 355 €,Wohnfläche ca. 62 m²,Zi. 2,102,15
+15,selObject_43984214,Familienwohnung mit Blick ins Grüne,"[['Wohnung', '•', 'Dessau-Roßlau', 'Süd']]",['Balkon'],Miete zzgl. NK 395 €,Wohnfläche ca. 58 m²,Zi. 3,102,15
+16,selObject_43983947,Schöne 2-Raumwohnung,"[['Dachgeschosswohnung', '•', 'Magdeburg', 'Leipziger', 'Str.']]",['EBK'],Miete zzgl. NK 290 €,Wohnfläche ca. 51 m²,Zi. 2,102,15
+17,selObject_43983649,3-Zimmerwohnung mit Balkon & Badewanne im Grünen,"[['Wohnung', '•', 'Magdeburg', 'Westerhüsen']]",['Balkon'],Miete zzgl. NK 440 €,Wohnfläche ca. 73 m²,Zi. 3,102,15
+18,selObject_43983643,"3 ZKDB, Balkon in Wolfen ab 01.08.2021 zu vermieten","[['Dachgeschosswohnung', '•', 'Bitterfeld-Wolfen', 'Wolfen']]",['Balkon'],Miete zzgl. NK 515 €,Wohnfläche ca. 73 m²,Zi. 3,102,15
+19,selObject_43983391,"Wohnen über der Stadt,helle preiswerte 3-R-Wohnung im...","[['Dachgeschosswohnung', '•', 'Magdeburg', 'Leipziger', 'Str.']]",['EBK'],Miete zzgl. NK 330 €,Wohnfläche ca. 66 m²,Zi. 3,102,15
+20,selObject_43982740,Zuhause im Herzen der Stadt gesucht?,"[['Etagenwohnung', '•', 'Merseburg', 'Merseburg']]",['Balkon'],Miete zzgl. NK 275 €,Wohnfläche ca. 51 m²,Zi. 2,102,15
+21,selObject_43982565,Kurzexposé 2030/1/1,"[['Erdgeschosswohnung', '•', 'Zeitz', 'Zeitz']]",['Balkon'],"Miete zzgl. NK 465,60 €",Wohnfläche ca. 97 m²,Zi. 3,102,15
+22,selObject_43982562,Kurzexposé 2430/1/3,"[['Wohnung', '•', 'Zeitz', 'Zeitz']]",[],"Miete zzgl. NK 411,35 €",Wohnfläche ca. 87 m²,Zi. 3,102,15
+23,selObject_43982514,+++Wunderschöne Dachgeschosswohnung mit Einbauküche+++,"[['Dachgeschosswohnung', '•', 'Stendal', 'Stendal']]",['EBK'],Miete zzgl. NK 400 €,Wohnfläche ca. 73 m²,Zi. 3,102,15
+24,selObject_43981424,Traumhafte 3-Zimmer-Wohnung in top Lage!!,"[['Apartment', '•', 'Magdeburg', 'Leipziger', 'Str.']]",['Balkon'],"Miete zzgl. NK 478,02 €",Wohnfläche ca. 80 m²,Zi. 3,102,15
+25,selObject_43981393,Moderne 3-Zimmer-Wohnung mit Balkon im beliebten Stadt...,"[['Erdgeschosswohnung', '•', 'Magdeburg', 'Cracau']]",['Balkon'],"Miete zzgl. NK 354,23 €",Wohnfläche ca. 58 m²,Zi. 3,102,15
+26,selObject_43981343,Machen Sie diese charmante 3-Zimmer-Wohnung zu Ihrem...,"[['Apartment', '•', 'Magdeburg', 'Cracau']]",['Balkon'],"Miete zzgl. NK 359,10 €",Wohnfläche ca. 58 m²,Zi. 3,102,15

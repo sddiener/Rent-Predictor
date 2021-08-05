@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_45019817,NEU Wohnung gesucht? Diese 2-Raum-Wohnung sucht neue Miete...,"['Wohnung', '•', 'Müllheim', 'Hügelheim']","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 750 €,Wohnfläche ca. 74 m²,Zi. 2,7,8
-1,selObject_45019725,"NEU 1-Zimmer-Wohnung mit Balkon, und Aufzug.","['Wohnung', '•', 'Lahr', 'Lahr']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 550 €,Wohnfläche ca. 55 m²,Zi. 1,7,8
-2,selObject_45019716,NEU 2-Zimmer-Wohnung zu vermieten,"['Dachgeschosswohnung', '•', 'Schluchsee', 'Schluchsee']","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 470 €,Wohnfläche ca. 52 m²,Zi. 2,7,8
-3,selObject_45018481,NEU Schöne 2-Zimmer-Wohnung mit EBK in Stuttgart,"['Wohnung', '•', 'Stuttgart', 'Vaihingen']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 420 €,Wohnfläche ca. 42 m²,Zi. 2,7,8
-4,selObject_45017827,NEU ERSTBEZUG! Großzügige 2-Zimmer Neubauwohnung in kleine...,"['Wohnung', '•', 'Gaggenau', 'Ottenau']","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 755 €,Wohnfläche ca. 72 m²,Zi. 2,7,8
-5,selObject_45017766,"NEU Stuttgart Mitte Wohnung mit Terrasse(1850 Euro, kalt)","['Dachgeschosswohnung', '•', 'Stuttgart', 'Mitte']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 1.850 €,Wohnfläche ca. 90 m²,Zi. 5,7,8
-6,selObject_45017579,NEU WOHNEN MIT BESONDEREM FLAIR,"['Etagenwohnung', '•', 'Gerabronn', 'Gerabronn']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 740 €,Wohnfläche ca. 100 m²,Zi. 3,7,8
-7,selObject_45017566,NEU RUHIGE MAISONETTE IM ORTSKERN,"['Maisonette', '•', 'Eimeldingen']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 1.200 €,Wohnfläche ca. 80 m²,"Zi. 2,5",7,8
-8,selObject_45017479,NEU 1 ZIMMER TRAUMWOHNUNG MIT WEITBLICK!!,"['Etagenwohnung', '•', 'Karlsruhe', 'Innenstadt-West']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 740 €,Wohnfläche ca. 41 m²,Zi. 1,7,8
-9,selObject_45017314,NEU SCHÖNE AUSSICHTEN IN RUIT - HELL UND RUHIG,"['Etagenwohnung', '•', 'Ostfildern', 'Ruit']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 1.100 €,Wohnfläche ca. 73 m²,"Zi. 2,5",7,8
-10,selObject_45017304,NEU WOHNEN IM SCHÖNEN SCHWARZWALD!,"['Etagenwohnung', '•', 'Furtwangen', 'Stadtgebiet']","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 600 €,Wohnfläche ca. 60 m²,Zi. 2,7,8
-11,selObject_45017166,NEU ERSTBEZUG MIT TERRASSE UND GARTEN,"['Erdgeschosswohnung', '•', 'Neuhausen']","['NEU', 'NEU']",Miete zzgl. NK 990 €,Wohnfläche ca. 68 m²,Zi. 2,7,8
-12,selObject_45017148,NEU GROßZÜGIG LEBEN DIREKT AM PARADEPLATZ,"['Etagenwohnung', '•', 'Mannheim', 'Innenstadt']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 1.500 €,Wohnfläche ca. 144 m²,Zi. 6,7,8
-13,selObject_45017084,NEU ERSTBEZUG IM ROSENSTEINVIERTEL,"['Etagenwohnung', '•', 'Stuttgart', 'Nord']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 1.450 €,Wohnfläche ca. 81 m²,Zi. 3,7,8
-14,selObject_45017001,NEU GEPFLEGT UND RUHIG IN ALTWEIL,"['Etagenwohnung', '•', 'Weil', 'am', 'Rhein', 'Weil', 'am', 'Rhein']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 1.400 €,Wohnfläche ca. 116 m²,Zi. 4,7,8
-15,selObject_45016905,NEU RUHIG AM WALDRAND UND NAH ZUR CH-GRENZE,"['Etagenwohnung', '•', 'Inzlingen']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 1.050 €,Wohnfläche ca. 87 m²,"Zi. 3,5",7,8
-16,selObject_45016840,NEU **Geräumige Etagenwohnung in zentraler Lage - frisch...,"['Etagenwohnung', '•', 'Deggingen', 'Deggingen']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 690 €,Wohnfläche ca. 94 m²,Zi. 3,7,8
-17,selObject_45016811,NEU NEUWERTIG & VOLL AUSGESTATTET,"['Etagenwohnung', '•', 'Stuttgart', 'Bergheim']","['NEU', 'NEU']",Miete zzgl. NK 1.250 €,Wohnfläche ca. 40 m²,Zi. 2,7,8
-18,selObject_45016749,NEU ERSTBEZUG-BUSINESS APPARTEMENT-ALL INCLUSIVE,"['Etagenwohnung', '•', 'Leinfelden-Echterdingen', 'Echterdingen']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 800 €,Wohnfläche ca. 25 m²,Zi. 1,7,8
-19,selObject_45016701,NEU EINZIEHEN UND WOHLFÜHLEN!,"['Etagenwohnung', '•', 'Stuttgart', 'Feuerbach']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 1.100 €,Wohnfläche ca. 60 m²,Zi. 2,7,8
-20,selObject_45016699,NEU HELLE 2 ZIMMER WOHNUNG IN SEHR RUHIGER LAGE,"['Erdgeschosswohnung', '•', 'Mannheim', 'Gartenstadt']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 840 €,Wohnfläche ca. 46 m²,Zi. 2,7,8
-21,selObject_45016646,NEU PENTHOUSE MIT HERRLICHEN AUSSICHTEN,"['Penthouse', '•', 'Leinfelden-Echterdingen', 'Stetten']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 2.370 €,Wohnfläche ca. 120 m²,Zi. 3,7,8
-22,selObject_45016639,NEU SCHÖNE DG WOHNUNG MIT AUSBLICK UND EINBAUKÜCHE,"['Dachgeschosswohnung', '•', 'Tauberbischofsheim', 'Tauberbischofsheim']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 520 €,Wohnfläche ca. 66 m²,Zi. 1,7,8
-23,selObject_45016601,NEU HELL UND GROßZÜGIG - ERSTBEZUG IDEAL FÜR FAMILIEN,"['Etagenwohnung', '•', 'Stuttgart', 'Nord']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 1.980 €,Wohnfläche ca. 101 m²,Zi. 4,7,8
-24,selObject_45016535,NEU LIEBEVOLL EINGERICHTETE ZIMMER (WG),"['Etagenwohnung', '•', 'Mosbach', 'Mosbach']","['NEU', 'NEU']",Miete zzgl. NK 305 €,Wohnfläche ca. 20 m²,Zi. 1,7,8
-25,selObject_45016516,NEU ERSTBEZUG MIT LÄNDLICHEM FLAIR!,"['Erdgeschosswohnung', '•', 'Walzbachtal', 'Wössingen']","['NEU', 'NEU']",Miete zzgl. NK 1.360 €,Wohnfläche ca. 110 m²,Zi. 4,7,8
-26,selObject_45016486,NEU LUXUS IN ALTBAUWOHNUNG,"['Etagenwohnung', '•', 'Weil', 'am', 'Rhein', 'Weil', 'am', 'Rhein']","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 1.550 €,Wohnfläche ca. 118 m²,Zi. 4,7,8
+0,selObject_45039839,"NEU Helle, frisch renovierte 4-Zimmer-Wohnung","[['Dachgeschosswohnung', '•', 'Bodelshausen']]","['NEU', 'NEU']",Miete zzgl. NK 1.000 €,Wohnfläche ca. 90 m²,Zi. 4,7,8
+1,selObject_45039788,NEU 4 Zi. Altbau Wohnung in zentraler Lage,"[['Wohnung', '•', 'Kehl', 'Kehl']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 750 €,Wohnfläche ca. 107 m²,Zi. 4,7,8
+2,selObject_45039750,"NEU Schöne 2,5-Zimmer-Altbau-Wohnung mit Loggia in KN-Pete...","[['Wohnung', '•', 'Konstanz', 'Petershausen']]","['NEU', 'NEU']",Miete zzgl. NK 720 €,Wohnfläche ca. 60 m²,"Zi. 2,5",7,8
+3,selObject_45039731,NEU Moderne möblierte 1-2 Zimmer Wohnung - befristet,"[['Etagenwohnung', '•', 'Freiburg', 'Altstadt']]","['NEU', 'NEU']",Miete zzgl. NK 700 €,Wohnfläche ca. 50 m²,Zi. 1,7,8
+4,selObject_45039723,NEU Moderne 4 Zimmer Wohnung mit sonnenverwöhnter Dachterr...,"[['Etagenwohnung', '•', 'Mannheim', 'Rheinau']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 1.000 €,Wohnfläche ca. 95 m²,Zi. 4,7,8
+5,selObject_45039706,NEU Elzach ++ Geräumige 3-Zi.-EG-Wohnung,"[['Etagenwohnung', '•', 'Elzach', 'Elzach']]","['NEU', 'NEU']",Miete zzgl. NK 640 €,Wohnfläche ca. 73 m²,Zi. 3,7,8
+6,selObject_45039692,NEU klein aber fein,"[['Erdgeschosswohnung', '•', 'Dobel']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 360 €,Wohnfläche ca. 47 m²,Zi. 2,7,8
+7,selObject_45039682,NEU Lichtdurchflutete 3-Zimmerwohnung,"[['Penthouse', '•', 'Reutlingen', 'Georgenberg']]","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']",Miete zzgl. NK 870 €,Wohnfläche ca. 71 m²,Zi. 3,7,8
+8,selObject_45039680,NEU 2-Zimmer-Dachgeschosswohnung in Schwenningen,"[['Etagenwohnung', '•', 'Villingen-Schwenningen', 'Schwenningen']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 520 €,Wohnfläche ca. 71 m²,Zi. 2,7,8
+9,selObject_45039667,"NEU 2,5-Zi-Wohnung im Herzen von Plochingen","[['Dachgeschosswohnung', '•', 'Plochingen']]","['NEU', 'NEU']",Miete zzgl. NK 575 €,Wohnfläche ca. 65 m²,"Zi. 2,5",7,8
+10,selObject_45039643,NEU 3 Zimmer in ruhiger Wohnlage,"[['Etagenwohnung', '•', 'Schwetzingen']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 738,74 €",Wohnfläche ca. 87 m²,Zi. 3,7,8
+11,selObject_45039625,"NEU Erstbezug nach Ausbau: DG-Wohnung mit Loggia, EBK und...","[['Dachgeschosswohnung', '•', 'Ulm', 'Mitte']]","['NEU', 'NEU', 'EBK']","Miete zzgl. NK 799,43 €",Wohnfläche ca. 59 m²,Zi. 2,7,8
+12,selObject_45039548,NEU Gemütlich hoch 10!,"[['Etagenwohnung', '•', 'Eberbach', 'Eberbach']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 378 €,Wohnfläche ca. 55 m²,Zi. 2,7,8
+13,selObject_45039507,NEU 2 Zimmer Wohnung im 3 Obergeschoß,"[['Etagenwohnung', '•', 'Eberbach', 'Eberbach']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 462 €,Wohnfläche ca. 52 m²,"Zi. 2,5",7,8
+14,selObject_45039485,NEU Attraktiv! Günstig geschnittene 2-Zimmer-Wohnung,"[['Erdgeschosswohnung', '•', 'Heidenheim', 'Mergelstetten']]","['NEU', 'NEU']","Miete zzgl. NK 371,36 €",Wohnfläche ca. 44 m²,Zi. 2,7,8
+15,selObject_45039329,"NEU Mitten drin statt nur dabei: individuelle 2,5-Zimmer-W...","[['Etagenwohnung', '•', 'Stuttgart', 'West']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 1.096,20 €",Wohnfläche ca. 81 m²,"Zi. 2,5",7,8
+16,selObject_45039236,NEU Nette Nachbarn gesucht: ansprechende 3-Zimmer-Wohnung,"[['Erdgeschosswohnung', '•', 'Stuttgart', 'West']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 1.120,56 €",Wohnfläche ca. 81 m²,Zi. 3,7,8
+17,selObject_45039212,NEU Zuhause fühlen: geräumige 3-Zimmer-Wohnung,"[['Erdgeschosswohnung', '•', 'Stuttgart', 'Weilimdorf']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 846,08 €",Wohnfläche ca. 72 m²,"Zi. 4,5",7,8
+18,selObject_45039155,NEU Genial zentral,"[['Etagenwohnung', '•', 'Mannheim', 'Innenstadt']]","['NEU', 'NEU', 'EBK']","Miete zzgl. NK 772,80 €",Wohnfläche ca. 64 m²,Zi. 2,7,8
+19,selObject_45039150,NEU Jetzt zugreifen: günstig geschnittene 2-Zimmer-Wohnung,"[['Etagenwohnung', '•', 'Stuttgart', 'Ost']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 603,19 €",Wohnfläche ca. 48 m²,Zi. 2,7,8
+20,selObject_45039134,NEU Willkommen Zuhause: günstig geschnittene 4-Zimmer-Wohn...,"[['Etagenwohnung', '•', 'Stuttgart', 'West']]","['NEU', 'NEU', 'Balkon', 'EBK']","Miete zzgl. NK 1.125,11 €",Wohnfläche ca. 99 m²,Zi. 6,7,8
+21,selObject_45039129,NEU Mitten drin statt nur dabei: interessante 3-Zimmer-Woh...,"[['Etagenwohnung', '•', 'Heidenheim', 'Mergelstetten']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 407,11 €",Wohnfläche ca. 50 m²,Zi. 3,7,8
+22,selObject_45039115,NEU Frisch sanierte 3-Zimmer-Wohnung sucht neue Mieter!,"[['Etagenwohnung', '•', 'Weil', 'am', 'Rhein', 'Haltingen']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 821,81 €",Wohnfläche ca. 75 m²,Zi. 3,7,8
+23,selObject_45039111,NEU Klein aber fein - schöne 2-Zimmer-Wohnung,"[['Erdgeschosswohnung', '•', 'Stuttgart', 'Nord']]","['NEU', 'NEU']",Miete zzgl. NK 555 €,Wohnfläche ca. 50 m²,Zi. 2,7,8
+24,selObject_45039109,NEU Stop! Ansprechende 3-Zimmer-Wohnung,"[['Etagenwohnung', '•', 'Stuttgart', 'Ost']]","['NEU', 'NEU']","Miete zzgl. NK 616,36 €",Wohnfläche ca. 60 m²,Zi. 3,7,8
+25,selObject_45039106,"NEU Großzügige 3,5-Zimmer-Wohnung in Ulm-Wiblingen (Wohnbe...","[['Etagenwohnung', '•', 'Ulm', 'Wiblingen']]","['NEU', 'NEU', 'Balkon', 'EBK']","Miete zzgl. NK 522,60 €",Wohnfläche ca. 86 m²,"Zi. 3,5",7,8
+26,selObject_45039103,"NEU 1-Zimmer-Apartment über die Dächer von Heidelberg,...","[['Apartment', '•', 'Heidelberg', 'Bergheim']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 310 €,Wohnfläche ca. 21 m²,Zi. 1,7,8

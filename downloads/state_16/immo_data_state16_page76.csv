@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_43973500,Wohnen im Herzen der Hauptstadt,"['Dachgeschosswohnung', '•', 'Erfurt', 'Erfurt-Altstadt']",['EBK'],Miete zzgl. NK 847 €,Wohnfläche ca. 79 m²,Zi. 3,76,16
-1,selObject_43973153,"2 Zimmer, Küche und Bad - so wie ich es mag!","['Wohnung', '•', 'Lucka', 'Lucka']",[],Miete zzgl. NK 275 €,Wohnfläche ca. 55 m²,Zi. 2,76,16
-2,selObject_43972845,2 Raum Wohnung unterm Dach!,"['Dachgeschosswohnung', '•', 'Lucka', 'Lucka']",[],"Miete zzgl. NK 389,50 €",Wohnfläche ca. 78 m²,Zi. 2,76,16
-3,selObject_43970558,Wohnungssuche mit Happy End!,"['Etagenwohnung', '•', 'Gera', 'Pforten']",['Balkon'],Miete zzgl. NK 300 €,Wohnfläche ca. 65 m²,Zi. 2,76,16
-4,selObject_43970557,Suchst Du noch? Oder findest Du schon?,"['Etagenwohnung', '•', 'Gera', 'Innenstadt']","['Balkon', 'EBK']",Miete zzgl. NK 315 €,Wohnfläche ca. 69 m²,Zi. 3,76,16
-5,selObject_43970194,+++schöne 3 Zimmer Dachgeschosswohnung Gera Stadtmitte...,"['Wohnung', '•', 'Gera', 'Innenstadt']",[],Miete zzgl. NK 320 €,Wohnfläche ca. 69 m²,Zi. 3,76,16
-6,selObject_43969290,5-Zimmer-Maisonette am Bieblacher Hang!,"['Maisonette', '•', 'Gera', 'Tinz']",['Balkon'],"Miete zzgl. NK 767,55 €",Wohnfläche ca. 105 m²,Zi. 5,76,16
-7,selObject_43948589,4-Raum Wohnung in Eisenach,"['Etagenwohnung', '•', 'Eisenach', 'Eisenach']",['Balkon'],Miete zzgl. NK 445 €,Wohnfläche ca. 77 m²,Zi. 4,76,16
-8,selObject_43947403,hell und gemütlich,"['Wohnung', '•', 'Gößnitz', 'Gößnitz']",[],Miete zzgl. NK 203 €,Wohnfläche ca. 45 m²,Zi. 2,76,16
-9,selObject_43946343,"im Dachgeschoss, hell und gemütlich","['Wohnung', '•', 'Gößnitz', 'Gößnitz']",[],Miete zzgl. NK 281 €,Wohnfläche ca. 63 m²,Zi. 2,76,16
-10,selObject_43946273,Neubau - 2-Raum-Wohnung - barrierefrei,"['Etagenwohnung', '•', 'Schmölln', 'Schmölln']",['Balkon'],Miete zzgl. NK 395 €,Wohnfläche ca. 46 m²,Zi. 2,76,16
-11,selObject_43946254,3-Raum-Wohnung mit Garage,"['Etagenwohnung', '•', 'Gößnitz', 'Gößnitz']",[],Miete zzgl. NK 291 €,Wohnfläche ca. 58 m²,Zi. 3,76,16
-12,selObject_43932805,3-Zimmer Wohnung mit Balkon am Stadtrand,"['Etagenwohnung', '•', 'Mühlhausen', 'Felchta']",['Balkon'],Miete zzgl. NK 355 €,Wohnfläche ca. 71 m²,Zi. 3,76,16
-13,selObject_43932549,Das Richtige für den kleinen Preis,"['Etagenwohnung', '•', 'Erfurt', 'Daberstedt']",['Balkon'],Miete zzgl. NK 180 €,Wohnfläche ca. 26 m²,Zi. 1,76,16
-14,selObject_43931259,Altbauwohnung der ganz besonderen Art! Klick mich an!,"['Etagenwohnung', '•', 'Altenburg', 'Altenburg']",[],"Miete zzgl. NK 345,18 €",Wohnfläche ca. 63 m²,Zi. 2,76,16
-15,selObject_43930945,Wohnen in ruhiger Lage,"['Etagenwohnung', '•', 'Rositz', 'Rositz']",[],Miete zzgl. NK 290 €,Wohnfläche ca. 58 m²,Zi. 3,76,16
-16,selObject_43927539,Hübsche 3 Zimmer Wohnung,"['Wohnung', '•', 'Gotha', 'Gotha']",[],Miete zzgl. NK 405 €,Wohnfläche ca. 66 m²,Zi. 3,76,16
-17,selObject_43909850,2-Zimmer Wohnung mit Balkon am Stadtrand,"['Erdgeschosswohnung', '•', 'Mühlhausen', 'Felchta']",['Balkon'],Miete zzgl. NK 255 €,Wohnfläche ca. 47 m²,Zi. 2,76,16
-18,selObject_43907914,Achtung: Frisch gestrichen! Neu renovierte 3-Raum-Wohn...,"['Etagenwohnung', '•', 'Gera', 'Innenstadt']",[],Miete zzgl. NK 288 €,Wohnfläche ca. 63 m²,Zi. 3,76,16
-19,selObject_43907848,Tolle 2-Raum-Wohnung mit EBK und Balkon,"['Apartment', '•', 'Berga', 'Berga']","['Balkon', 'EBK']",Miete zzgl. NK 325 €,Wohnfläche ca. 62 m²,Zi. 2,76,16
-20,selObject_43907085,"Helle, großzügige 2 Raum Wohnung mit EBK in Arnstadt","['Etagenwohnung', '•', 'Arnstadt', 'Arnstadt']","['Garten', 'EBK']",Miete zzgl. NK 520 €,Wohnfläche ca. 85 m²,Zi. 2,76,16
-21,selObject_43905871,"Freundliche 1,5-Raumwohnung im Erdgeschoss","['Erdgeschosswohnung', '•', 'Gera', 'Innenstadt']",[],Miete zzgl. NK 265 €,Wohnfläche ca. 32 m²,"Zi. 1,5",76,16
-22,selObject_43905277,Renovierte altersgerechte Dreiraumwohnung mit großem...,"['Etagenwohnung', '•', 'Gera', 'Innenstadt']",['Balkon'],Miete zzgl. NK 440 €,Wohnfläche ca. 70 m²,Zi. 3,76,16
-23,selObject_43895738,"""Villa Adelheid"" - Hochwertige 5 Raum Wohnung + 3 Räum...","['Etagenwohnung', '•', 'Gera', 'Innenstadt']",['EBK'],Miete zzgl. NK 1.350 €,Wohnfläche ca. 180 m²,Zi. 5,76,16
-24,selObject_43893556,Wohnen in Gera Untermhaus! 3 Raum Wohnung mit Balkon...,"['Etagenwohnung', '•', 'Gera', 'Untermhaus']",['Balkon'],Miete zzgl. NK 495 €,Wohnfläche ca. 90 m²,Zi. 3,76,16
-25,selObject_43893358,"Neu renovierte 3 Raum Whg. mit Balkon, Bad mit Wanne &...","['Wohnung', '•', 'Gera', 'Ostviertel']",['Balkon'],Miete zzgl. NK 540 €,Wohnfläche ca. 83 m²,Zi. 3,76,16
-26,selObject_43889073,Küche mit Fenster sucht Hobbykoch!,"['Wohnung', '•', 'Bad', 'Sulza', 'Bad', 'Sulza']",['EBK'],Miete zzgl. NK 421 €,Wohnfläche ca. 69 m²,Zi. 2,76,16
+0,selObject_44026308,3-Raumwohnung sucht nette Familie,"[['Etagenwohnung', '•', 'Stadtilm']]",['Balkon'],Miete zzgl. NK 295 €,Wohnfläche ca. 58 m²,Zi. 3,76,16
+1,selObject_44025198,Ab sofort frei: 3-Raum-Erdgeschoss-Wohnung mit Gartenb...,"[['Dachgeschosswohnung', '•', 'Meuselwitz', 'Meuselwitz']]","['Garten', 'EBK']",Miete zzgl. NK 325 €,Wohnfläche ca. 62 m²,Zi. 3,76,16
+2,selObject_44016206,Neu Renoviert! 2 Raum Whg. mit Dusche in Gera-Debschwi...,"[['Wohnung', '•', 'Gera', 'Debschwitz']]",[],Miete zzgl. NK 245 €,Wohnfläche ca. 49 m²,Zi. 2,76,16
+3,selObject_44016175,Blick über die Stadt! Gemütliche 2 Raum DG Whg. mit...,"[['Dachgeschosswohnung', '•', 'Gera', 'Debschwitz']]",[],Miete zzgl. NK 220 €,Wohnfläche ca. 49 m²,Zi. 2,76,16
+4,selObject_44013776,Großzügige 3 Raumwohnung mit Altbaucharme,"[['Etagenwohnung', '•', 'Greiz', 'Greiz']]",[],"Miete zzgl. NK 555,50 €",Wohnfläche ca. 101 m²,Zi. 3,76,16
+5,selObject_44012814,Wohnung in Gera,"[['Etagenwohnung', '•', 'Gera', 'Untermhaus']]",[],"Miete zzgl. NK 355,36 €",Wohnfläche ca. 65 m²,Zi. 3,76,16
+6,selObject_44004629,Studentenappartement in attraktiver Lage zu vermieten,"[['Etagenwohnung', '•', 'Jena', 'Lichtenhain']]","['Balkon', 'EBK']",Miete zzgl. NK 417 €,Wohnfläche ca. 28 m²,Zi. 1,76,16
+7,selObject_44003424,2 Raumwohnung perfekt für Singles,"[['Etagenwohnung', '•', 'Gera', 'Untermhaus']]",[],"Miete zzgl. NK 227,40 €",Wohnfläche ca. 45 m²,Zi. 2,76,16
+8,selObject_44003002,"Helle, freundliche 1 Raumwohnung sucht neuen Mieter","[['Etagenwohnung', '•', 'Gera', 'Ostviertel']]",[],"Miete zzgl. NK 167,28 €",Wohnfläche ca. 28 m²,Zi. 1,76,16
+9,selObject_44002388,"Wohnen im ""Timmichhaus"" mit Aufzug und Balkon","[['Wohnung', '•', 'Schleiz', 'Schleiz']]",['Balkon'],Miete zzgl. NK 341 €,Wohnfläche ca. 43 m²,Zi. 1,76,16
+10,selObject_43995112,Kurzexposé 408/1/7,"[['Wohnung', '•', 'Schmalkalden', 'Schmalkalden']]",['Balkon'],"Miete zzgl. NK 436,80 €",Wohnfläche ca. 62 m²,Zi. 3,76,16
+11,selObject_43993711,"2. Obergeschoss mit Aufzug! Helle, großzügige 3-4 Zimm...","[['Etagenwohnung', '•', 'Arnstadt', 'Arnstadt']]",[],Miete zzgl. NK 1.200 €,Wohnfläche ca. 108 m²,Zi. 3,76,16
+12,selObject_43991661,WG- Zimmer mit Einbauküche zu vermieten,"[['Wohnung', '•', 'Rudolstadt', 'Volkstedt']]","['Balkon', 'EBK']",Miete zzgl. NK 288 €,Wohnfläche ca. 21 m²,Zi. 1,76,16
+13,selObject_43991450,1-Raum-Wohnung mit Aufzug zu vermieten,"[['Wohnung', '•', 'Rudolstadt', 'Volkstedt']]",['Balkon'],Miete zzgl. NK 199 €,Wohnfläche ca. 35 m²,Zi. 1,76,16
+14,selObject_43991448,1-Raum-Wohnung in Rudolstadt-West zu vermieten,"[['Wohnung', '•', 'Rudolstadt', 'West']]",['Balkon'],Miete zzgl. NK 178 €,Wohnfläche ca. 35 m²,Zi. 1,76,16
+15,selObject_43991447,Barrierefreie 2-Raum-Wohnung mit betreutem Wohnen zu...,"[['Wohnung', '•', 'Rudolstadt', 'Schwarza']]",['Balkon'],Miete zzgl. NK 282 €,Wohnfläche ca. 48 m²,Zi. 2,76,16
+16,selObject_43991446,3-Raum-Wohnung in Rudolstadt- West zu vermieten,"[['Wohnung', '•', 'Rudolstadt', 'West']]",['Balkon'],Miete zzgl. NK 264 €,Wohnfläche ca. 60 m²,Zi. 3,76,16
+17,selObject_43986453,Sehr schöne 2 Raum Wohnung mit neuem Boden und toller...,"[['Wohnung', '•', 'Gera', 'Ostviertel']]",['EBK'],Miete zzgl. NK 300 €,Wohnfläche ca. 51 m²,Zi. 2,76,16
+18,selObject_43986436,Wohnen in der Innenstadt! Gemütliche 2 Raum EG-Wohnung...,"[['Wohnung', '•', 'Gera', 'Innenstadt']]",['EBK'],Miete zzgl. NK 350 €,Wohnfläche ca. 60 m²,Zi. 2,76,16
+19,selObject_43985953,KÜCHE GESCHENKT!!! MODERNE 3-Raum Wohnung,"[['Etagenwohnung', '•', 'Hohenleuben', 'Hohenleuben']]","['Balkon', 'EBK']",Miete zzgl. NK 325 €,Wohnfläche ca. 58 m²,Zi. 3,76,16
+20,selObject_43985914,MODERN renovierte 3- Raum Wohnung,"[['Etagenwohnung', '•', 'Hohenleuben', 'Hohenleuben']]",['Balkon'],Miete zzgl. NK 295 €,Wohnfläche ca. 58 m²,Zi. 3,76,16
+21,selObject_43985878,Hier finden Sie ein Plätzchen zur Erholung - Wohnung...,"[['Wohnung', '•', 'Suhl', 'Suhl']]",['Balkon'],"Miete zzgl. NK 312,43 €",Wohnfläche ca. 59 m²,Zi. 2,76,16
+22,selObject_43984805,==3.Zimmerwohnung mit gr.Balkon und offener Küche==,"[['Wohnung', '•', 'Gera', 'Bieblach']]",['Balkon'],Miete zzgl. NK 400 €,Wohnfläche ca. 80 m²,Zi. 3,76,16
+23,selObject_43984568,Großzügige 2-R-Whg. im DG mit Balkon und großer Wohnkü...,"[['Dachgeschosswohnung', '•', 'Gera', 'Pforten']]","['Balkon', 'Garten']",Miete zzgl. NK 400 €,Wohnfläche ca. 83 m²,Zi. 2,76,16
+24,selObject_43981419,ACHTUNG aufgepasst - 2 Kaltmieten geschenkt*,"[['Wohnung', '•', 'Gera', 'Debschwitz']]",['Balkon'],Miete zzgl. NK 285 €,Wohnfläche ca. 59 m²,Zi. 3,76,16
+25,selObject_43980931,3- Raum WE in 07973 Greiz,"[['Wohnung', '•', 'Greiz', 'Greiz']]",[],"Miete zzgl. NK 245,63 €",Wohnfläche ca. 45 m²,Zi. 3,76,16
+26,selObject_43980860,2- Raum WE in 07973 Greiz,"[['Wohnung', '•', 'Greiz', 'Greiz']]",[],"Miete zzgl. NK 253,53 €",Wohnfläche ca. 49 m²,Zi. 2,76,16

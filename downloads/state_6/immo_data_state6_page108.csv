@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_42616312,Neuwertige barrierefreie 2ZKB Wohnung in Bad Zwesten...,"['Etagenwohnung', '•', 'Bad', 'Zwesten', 'Bad', 'Zwesten']",['Balkon'],Miete zzgl. NK 630 €,Wohnfläche ca. 78 m²,Zi. 2,108,6
-1,selObject_42615736,Exklusive 3-Zimmer Wohnung mit Wlan und Terrasse in...,"['Wohnung', '•', 'Königstein', 'Falkenstein']","['Balkon', 'Garten']",Miete zzgl. NK 1.850 €,Wohnfläche ca. 80 m²,Zi. 3,108,6
-2,selObject_42615353,"Tolle 2 Zi. Whg. mit neuwertiger Ausstattung, Balkon...","['Etagenwohnung', '•', 'Offenbach', 'am', 'Main', 'Offenbach', 'am', 'Main']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 850 €,Wohnfläche ca. 60 m²,Zi. 2,108,6
-3,selObject_42595108,Appartement für Single,"['Kein', 'Bild']",[],Miete zzgl. NK 200 €,Wohnfläche ca. 14 m²,Zi. 1,108,6
-4,selObject_42582013,Attraktives Wohnen mitten im Zentrum von Bad Vilbel -...,"['Wohnung', '•', 'Bad', 'Vilbel', 'Bad', 'Vilbel']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.290 €,Wohnfläche ca. 92 m²,Zi. 4,108,6
-5,selObject_42565587,Helle 2-Zimmer-Wohnung mit Einbauküche in urbaner Lage,"['Wohnung', '•', 'Butzbach', 'Fauerbach']","['Balkon', 'EBK']",Miete zzgl. NK 720 €,Wohnfläche ca. 76 m²,Zi. 2,108,6
-6,selObject_42542018,Möblierte 2-Zimmer Altbau Wohnung mit Aufzug und Balko...,"['Wohnung', '•', 'Wiesbaden']",['EBK'],Miete zzgl. NK 2.190 €,Wohnfläche ca. 90 m²,"Zi. 2,5",108,6
-7,selObject_42542015,Möblierte 3-Zimmer Wohnung mit Balkon und Internet in...,"['Wohnung', '•', 'Wiesbaden', 'Wiesbaden']",['EBK'],Miete zzgl. NK 1.790 €,Wohnfläche ca. 75 m²,Zi. 3,108,6
-8,selObject_42542003,Modern möbliertes 1-Zimmer Maisonette Apartment direkt...,"['Wohnung', '•', 'Wiesbaden', 'Wiesbaden']",[],Miete zzgl. NK 1.390 €,Wohnfläche ca. 30 m²,Zi. 1,108,6
-9,selObject_42541997,Schöne möblierte 2-Zimmer Wohnung mit Internet in Wies...,"['Wohnung', '•', 'Wiesbaden', 'Wiesbaden']",['EBK'],Miete zzgl. NK 1.250 €,Wohnfläche ca. 50 m²,Zi. 2,108,6
-10,selObject_42541986,"Möblierte 2,5-Zimmer Wohnung mit Balkon und Reinigungs...","['Wohnung', '•', 'Niedernhausen', 'Oberjosbach']",['EBK'],Miete zzgl. NK 1.290 €,Wohnfläche ca. 72 m²,"Zi. 2,5",108,6
-11,selObject_42541929,Möblierte 2-Zimmer Wohnung mit WLAN und Tiefgaragenste...,"['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Rödelheim']",['EBK'],Miete zzgl. NK 1.590 €,Wohnfläche ca. 65 m²,Zi. 2,108,6
-12,selObject_42541924,Exklusiv möbliertes Designer Apartment im beliebten...,"['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Nordend-Ost']",['EBK'],Miete zzgl. NK 1.840 €,Wohnfläche ca. 41 m²,Zi. 1,108,6
-13,selObject_42537571,Ruhiges Apartment nahe City-West und Europaviertel...,"['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Bockenheim']",['Balkon'],Miete zzgl. NK 830 €,Wohnfläche ca. 31 m²,Zi. 1,108,6
-14,selObject_42537570,1-Zi.-Apartment in ruhiger Lage nahe City-West und...,"['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Bockenheim']",[],Miete zzgl. NK 830 €,Wohnfläche ca. 21 m²,Zi. 1,108,6
-15,selObject_42537553,Modern möbliertes Single-Apartment in Bornheim (4.0...,"['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Bornheim']",[],Miete zzgl. NK 930 €,Wohnfläche ca. 25 m²,Zi. 1,108,6
-16,selObject_42537542,Modern ausgestattetes Apartment mit Balkon nahe Europä...,"['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Ostend']",['Balkon'],Miete zzgl. NK 980 €,Wohnfläche ca. 30 m²,Zi. 1,108,6
-17,selObject_42537518,Sehr gut ausgestattete Wohnung nahe des Mains (4.0...,"['Wohnung', '•', 'Frankfurt', 'am', 'Main']",[],Miete zzgl. NK 980 €,Wohnfläche ca. 24 m²,Zi. 1,108,6
-18,selObject_42537485,Zentrale Lage - modern ausgestattetes Apartment mit...,"['Wohnung', '•', 'Frankfurt', 'am', 'Main']",['Balkon'],Miete zzgl. NK 900 €,Wohnfläche ca. 30 m²,Zi. 1,108,6
-19,selObject_42537444,Schöne und ruhig gelegene Wohnung mit großem Balkon...,"['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Sachsenhausen']",['Balkon'],Miete zzgl. NK 890 €,Wohnfläche ca. 34 m²,Zi. 1,108,6
-20,selObject_42537435,Elegantes und helles Apartment mit Balkon (5.0 Sterne),"['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Sachsenhausen']",['Balkon'],Miete zzgl. NK 1.090 €,Wohnfläche ca. 40 m²,Zi. 1,108,6
-21,selObject_42537425,Moderne 1-Zimmer-Wohnung mit Balkon in Sachsenhausen...,"['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Sachsenhausen']",['Balkon'],Miete zzgl. NK 910 €,Wohnfläche ca. 34 m²,Zi. 1,108,6
-22,selObject_42537416,Schwanheim: Ruhiges Apartment mit separter Küche und...,"['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Schwanheim']","['Balkon', 'Garten']",Miete zzgl. NK 950 €,Wohnfläche ca. 33 m²,Zi. 1,108,6
-23,selObject_42537406,Schönes Apartment in ruhiger Lage von Sachsenhausen...,"['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Sachsenhausen']",[],Miete zzgl. NK 950 €,Wohnfläche ca. 33 m²,Zi. 1,108,6
-24,selObject_42537403,Gut möblierte 2-Zi.-Wohnung in beliebter Lage von Sach...,"['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Sachsenhausen']",[],Miete zzgl. NK 1.250 €,Wohnfläche ca. 50 m²,Zi. 2,108,6
-25,selObject_42537369,Modern möbliertes Single-Apartment in Bornheim (4.0...,"['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Bornheim']",[],Miete zzgl. NK 930 €,Wohnfläche ca. 25 m²,Zi. 1,108,6
-26,selObject_42537359,Helles Apartment mit separatem Schlafzimmer in ruhiger...,"['Wohnung', '•', 'Bad', 'Vilbel', 'Bad', 'Vilbel']",[],Miete zzgl. NK 840 €,Wohnfläche ca. 40 m²,Zi. 2,108,6
+0,selObject_43122722,"Erstbezug! Helle, großzügige 3,5 Zimmerwohnung mit...","[['Etagenwohnung', '•', 'Weilrod', 'Gemünden']]",[],Miete zzgl. NK 1.000 €,Wohnfläche ca. 110 m²,"Zi. 3,5",108,6
+1,selObject_43117846,Ultimatives Wohngefühl in Heddernheim! 2 Zimmer Apartm...,"[['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Heddernheim']]",['EBK'],Miete zzgl. NK 774 €,Wohnfläche ca. 35 m²,Zi. 2,108,6
+2,selObject_43117815,Behindertengerechtes Studio Apartment mit eigenem Bad...,"[['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Heddernheim']]","['Balkon', 'EBK']",Miete zzgl. NK 590 €,Wohnfläche ca. 32 m²,Zi. 1,108,6
+3,selObject_43117809,Office meets Living! 1 Zimmer-Apartment inmitten der...,"[['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Heddernheim']]",['EBK'],Miete zzgl. NK 517 €,Wohnfläche ca. 21 m²,Zi. 1,108,6
+4,selObject_43113375,High-End-Wohnung (15.Stock) in spektakulärem Wohnturm...,"[['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Sachsenhausen']]",['Balkon'],Miete zzgl. NK 2.500 €,Wohnfläche ca. 65 m²,Zi. 2,108,6
+5,selObject_43112735,"Hochwertig sanierte 2 ZKB in ruhiger Lage, nahe Südbah...","[['Wohnung', '•', 'Marburg', 'Marburg']]",[],Miete zzgl. NK 570 €,Wohnfläche ca. 41 m²,Zi. 2,108,6
+6,selObject_43110486,Schöne und helle 1 Zimmer Wohnung in bevorzugter Wohnl...,"[['Wohnung', '•', 'Bad', 'Wildungen', 'Bad', 'Wildungen']]",[],Miete zzgl. NK 400 €,Wohnfläche ca. 48 m²,Zi. 1,108,6
+7,selObject_43110381,"Schöne, helle, renovierte 5 - Zimmer Wohnung in bevorz...","[['Erdgeschosswohnung', '•', 'Bad', 'Wildungen', 'Bad', 'Wildungen']]",[],Miete zzgl. NK 950 €,Wohnfläche ca. 167 m²,Zi. 5,108,6
+8,selObject_43108545,Erstbezug! Helle 2 Zimmer-Wohnung mit großer Terrasse...,"[['Etagenwohnung', '•', 'Weilrod', 'Gemünden']]",[],Miete zzgl. NK 1.070 €,Wohnfläche ca. 118 m²,Zi. 2,108,6
+9,selObject_43080867,"Helle, modern eingerichtete und ruhige 2-Zimmer-Wohnun...","[['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Bockenheim']]",[],Miete zzgl. NK 1.490 €,Wohnfläche ca. 60 m²,Zi. 2,108,6
+10,selObject_43062186,Möblierte 2-Zimmer Wohnung mit Internet / W-Lan in...,"[['Wohnung', '•', 'Wiesbaden', 'Wiesbaden']]",['EBK'],Miete zzgl. NK 1.250 €,Wohnfläche ca. 56 m²,Zi. 2,108,6
+11,selObject_43048785,IPARTMENT . Design Serviced Apartment L // inkl. Servi...,"[['Dachgeschosswohnung', '•', 'Darmstadt', 'Darmstadt']]",['EBK'],Miete zzgl. NK 1.190 €,Wohnfläche ca. 45 m²,Zi. 2,108,6
+12,selObject_43048706,IPARTMENT . Design Serviced Apartment M // inkl. Servi...,"[['Apartment', '•', 'Darmstadt', 'Darmstadt']]",['EBK'],Miete zzgl. NK 1.090 €,Wohnfläche ca. 38 m²,Zi. 1,108,6
+13,selObject_43048641,IPARTMENT . Design Serviced Apartment S // inkl. Servi...,"[['Apartment', '•', 'Darmstadt', 'Darmstadt']]",['EBK'],Miete zzgl. NK 990 €,Wohnfläche ca. 27 m²,Zi. 1,108,6
+14,selObject_43048613,180 Design Serviced Apartments nähe HBF ab 990 Euro/M...,"[['Apartment', '•', 'Darmstadt', 'Darmstadt']]",['EBK'],Miete zzgl. NK 790 €,Wohnfläche ca. 24 m²,,108,6
+15,selObject_43047433,WG Zimmer in zentraler Lage in Frankfurt Bornheim,"[['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Nordend-Ost']]",[],Miete zzgl. NK 400 €,Wohnfläche ca. 25 m²,Zi. 1,108,6
+16,selObject_43035708,Nur mit WBS - 2 ZKB barrierefrei im 1.OG mit Balkon in...,"[['Etagenwohnung', '•', 'Kassel', 'Philippinenhof/Warteberg']]",[],Miete zzgl. NK 345 €,Wohnfläche ca. 56 m²,Zi. 2,108,6
+17,selObject_43035335,IPARTMENT . Design Serviced Apartment XS // inkl. Serv...,"[['Apartment', '•', 'Darmstadt', 'Darmstadt']]",['EBK'],Miete zzgl. NK 790 €,Wohnfläche ca. 20 m²,Zi. 1,108,6
+18,selObject_43035219,Nur mit WBS - 2 ZKB barrierefrei im EG mit Balkon in...,"[['Erdgeschosswohnung', '•', 'Kassel', 'Philippinenhof/Warteberg']]",['Balkon'],Miete zzgl. NK 347 €,Wohnfläche ca. 56 m²,Zi. 2,108,6
+19,selObject_43033835,Helle moderne und offene Wohnung in Bürstadt zu vermie...,"[['Erdgeschosswohnung', '•', 'Bürstadt', 'Bürstadt']]",[],Miete zzgl. NK 1.025 €,Wohnfläche ca. 137 m²,Zi. 2,108,6
+20,selObject_43031313,Kassel-Döllbachaue - geräumige 2-Zimmer-Wohnung im 1....,"[['Etagenwohnung', '•', 'Kassel', 'Rothenditmold']]",[],"Miete zzgl. NK 508,20 €",Wohnfläche ca. 77 m²,Zi. 2,108,6
+21,selObject_43016214,Sehr schöne möblierte 2-Zimmer Wohnung mit Internet in...,"[['Wohnung', '•', 'Wiesbaden', 'Wiesbaden']]",['EBK'],Miete zzgl. NK 1.370 €,Wohnfläche ca. 66 m²,Zi. 2,108,6
+22,selObject_43007057,1-Zimmer-Apartment mit Single-Küche und mit Gartenmitb...,"[['Apartment', '•', 'Ebsdorfergrund', 'Beltershausen']]",[],Miete zzgl. NK 275 €,Wohnfläche ca. 29 m²,,108,6
+23,selObject_42986931,Perfekt für Singles und Paare! 2-Zimmer-Wohnung mit...,"[['Wohnung', '•', 'Butzbach', 'Fauerbach']]","['Balkon', 'EBK']",Miete zzgl. NK 655 €,Wohnfläche ca. 62 m²,Zi. 2,108,6
+24,selObject_42982428,Appartement im Herzen der Stadt,"[['Etagenwohnung', '•', 'Marburg', 'Marburg']]",[],Miete zzgl. NK 340 €,Wohnfläche ca. 23 m²,Zi. 1,108,6
+25,selObject_42965849,"Wunderschöne und sehr gepflegte 3 ZKB mit EBK, Winterg...","[['Dachgeschosswohnung', '•', 'Helsa', 'Eschenstruth']]",['EBK'],Miete inkl. NK 750 €,Wohnfläche ca. 83 m²,Zi. 3,108,6
+26,selObject_42954313,"Ideal für WEH oder für Studentinnen: Singlewohnung, ab...","[['Erdgeschosswohnung', '•', 'Kassel', 'Wolfsanger/Hasenhecke']]",['EBK'],Miete zzgl. NK 300 €,Wohnfläche ca. 38 m²,Zi. 1,108,6

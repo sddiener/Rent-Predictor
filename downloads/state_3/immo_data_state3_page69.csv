@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44711965,2-Zimmer Wohnung in Lindau!,"['Etagenwohnung', '•', 'Katlenburg-Lindau', 'Lindau']",['Garten'],Miete zzgl. NK 315 €,Wohnfläche ca. 63 m²,Zi. 2,69,3
-1,selObject_44711880,Renoviertes Dachgeschoss im Flecken Harpstedt!,"['Dachgeschosswohnung', '•', 'Harpstedt', 'Harpstedt']","['Balkon', 'EBK']",Miete zzgl. NK 550 €,Wohnfläche ca. 73 m²,Zi. 3,69,3
-2,selObject_44711712,2 Zimmer-Wohnung in zentraler Lage,"['Erdgeschosswohnung', '•', 'Bassum', 'Bassum']",[],Miete zzgl. NK 300 €,Wohnfläche ca. 43 m²,Zi. 2,69,3
-3,selObject_44711697,TOP 2 ZKB Dachgeschosswohnung zentral in Hage,"['Wohnung', '•', 'Hage', 'Hage']",[],Miete zzgl. NK 330 €,Wohnfläche ca. 40 m²,Zi. 2,69,3
-4,selObject_44711423,Ihre Wohnung,"['Etagenwohnung', '•', 'Norden', 'Norden']",['Balkon'],"Miete zzgl. NK 526,80 €",Wohnfläche ca. 77 m²,Zi. 3,69,3
-5,selObject_44711045,Traumhafte Dachgeschoss-Wohnung in der Nordstadt!,"['Dachgeschosswohnung', '•', 'Hannover', 'Nordstadt']",[],Miete zzgl. NK 850 €,Wohnfläche ca. 100 m²,"Zi. 3,5",69,3
-6,selObject_44710794,Frisch renovierte Wohnung,"['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']",[],Miete zzgl. NK 315 €,Wohnfläche ca. 59 m²,Zi. 3,69,3
-7,selObject_44710796,3-Zimmer in ruhiger Lage,"['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']",[],Miete zzgl. NK 326 €,Wohnfläche ca. 59 m²,Zi. 3,69,3
-8,selObject_44710734,5783 - Single-Appartement gegenüber der Polizeiakademi...,"['Etagenwohnung', '•', 'Oldenburg', 'Bloherfelde']",['EBK'],Miete zzgl. NK 299 €,Wohnfläche ca. 29 m²,Zi. 1,69,3
-9,selObject_44710655,4 Zimmer Erdgeschosswohnung in der Südstadt,"['Erdgeschosswohnung', '•', 'Hannover', 'Mitte']",[],"Miete zzgl. NK 1.143,11 €",Wohnfläche ca. 105 m²,Zi. 4,69,3
-10,selObject_44710486,2-Zimmer-Wohnung mit Aussicht,"['Etagenwohnung', '•', 'Hannover', 'Linden-Mitte']",['EBK'],"Miete zzgl. NK 512,47 €",Wohnfläche ca. 60 m²,Zi. 2,69,3
-11,selObject_44710444,Erstbezug - Zweizimmerwohnung mit Balkon und idealer...,"['Erdgeschosswohnung', '•', 'Wiesmoor', 'Wiesederfehn']","['Balkon', 'EBK']",Miete zzgl. NK 850 €,Wohnfläche ca. 80 m²,Zi. 2,69,3
-12,selObject_44710195,2-Zimmer-Wohnung in Salzgitter-Lebenstedt,"['Erdgeschosswohnung', '•', 'Salzgitter', 'Lebenstedt']",[],Miete zzgl. NK 277 €,Wohnfläche ca. 50 m²,Zi. 2,69,3
-13,selObject_44709767,Schöne Altbauwohnung im denkmalgeschütztem Haus,"['Etagenwohnung', '•', 'Hildesheim', 'Mitte']","['Balkon', 'Garten']",Miete zzgl. NK 700 €,Wohnfläche ca. 90 m²,"Zi. 3,5",69,3
-14,selObject_44709311,Gut geschnittenes 1-Zimmerappartment in der City,"['Wohnung', '•', 'Göttingen', 'Göttingen']",[],Miete zzgl. NK 390 €,Wohnfläche ca. 34 m²,Zi. 1,69,3
-15,selObject_44708885,Helle 1-Zimmerwohnung direkt in der Innenstadt,"['Wohnung', '•', 'Göttingen', 'Göttingen']",[],Miete zzgl. NK 382 €,Wohnfläche ca. 33 m²,Zi. 1,69,3
-16,selObject_44707944,Viel Platz für die Familie,"['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']",[],Miete zzgl. NK 344 €,Wohnfläche ca. 62 m²,Zi. 3,69,3
-17,selObject_44707925,Schöne 2-Zimmer-Wohnung in ruhiger Lage,"['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']",[],Miete zzgl. NK 287 €,Wohnfläche ca. 54 m²,Zi. 2,69,3
-18,selObject_44707924,Gepflegte 3-Zimmer-Wohnung mit Duschbad,"['Erdgeschosswohnung', '•', 'Salzgitter', 'Lebenstedt']",[],Miete zzgl. NK 329 €,Wohnfläche ca. 57 m²,Zi. 3,69,3
-19,selObject_44707921,Singlewohnung mit großer Wohnküche,"['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']",[],Miete zzgl. NK 250 €,Wohnfläche ca. 37 m²,Zi. 1,69,3
-20,selObject_44707920,Gemütliche 3-Zimmer-Wohnung,"['Erdgeschosswohnung', '•', 'Salzgitter', 'Lebenstedt']",[],Miete zzgl. NK 321 €,Wohnfläche ca. 60 m²,Zi. 3,69,3
-21,selObject_44707917,2-Zimmer Im Erdgeschoss mit großer Küche,"['Erdgeschosswohnung', '•', 'Salzgitter', 'Lebenstedt']",[],Miete zzgl. NK 315 €,Wohnfläche ca. 59 m²,Zi. 2,69,3
-22,selObject_44707916,Helle 2-Zimmer-Wohnung in Stadtnähe,"['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']",[],Miete zzgl. NK 290 €,Wohnfläche ca. 55 m²,Zi. 2,69,3
-23,selObject_44707913,Offener Wohnbereich,"['Wohnung', '•', 'Salzgitter', 'Lebenstedt']",[],Miete zzgl. NK 270 €,Wohnfläche ca. 48 m²,Zi. 2,69,3
-24,selObject_44707908,Modernisierte 2-Zimmer-Wohnung im Erdgeschoss,"['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']",[],Miete zzgl. NK 270 €,Wohnfläche ca. 47 m²,Zi. 2,69,3
-25,selObject_44707910,Frisch renoviert!,"['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']",[],Miete zzgl. NK 324 €,Wohnfläche ca. 59 m²,Zi. 3,69,3
-26,selObject_44707906,2-Zimmer-Wohnung mit viel Platz!,"['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']",[],Miete zzgl. NK 300 €,Wohnfläche ca. 55 m²,Zi. 2,69,3
+0,selObject_44735705,Hochwertige Wohnungen im I. Obergeschoss im Zentrum...,"[['Wohnung', '•', 'Ostrhauderfehn', 'Ostrhauderfehn']]",['Balkon'],Miete zzgl. NK 570 €,Wohnfläche ca. 91 m²,Zi. 3,69,3
+1,selObject_44735636,Dachgeschoss-Wohnung in Löningen,"[['Dachgeschosswohnung', '•', 'Löningen', 'Löningen']]",[],"Miete zzgl. NK 193,30 €",Wohnfläche ca. 38 m²,Zi. 2,69,3
+2,selObject_44735429,Helle Neubauwohnung im Erdgeschoss + Stellplatz - KfW...,"[['Erdgeschosswohnung', '•', 'Neuenhaus', 'Neuenhaus']]",[],Miete zzgl. NK 798 €,Wohnfläche ca. 94 m²,Zi. 3,69,3
+3,selObject_44735402,4 Zi. Wohnung zu Fuß in die Innenstadt! WG5A,"[['Etagenwohnung', '•', 'Gifhorn', 'Gifhorn']]",[],Miete zzgl. NK 1.000 €,Wohnfläche ca. 104 m²,Zi. 4,69,3
+4,selObject_44735346,Drei-Zimmer-Wohnung in Innenstadtrandlage sucht Nachmi...,"[['Etagenwohnung', '•', 'Wilhelmshaven', 'Bant']]",[],"Miete zzgl. NK 374,90 €",Wohnfläche ca. 69 m²,Zi. 3,69,3
+5,selObject_44735343,2-Zimmer-Wohnung mit Balkon,"[['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']]",['Balkon'],Miete zzgl. NK 305 €,Wohnfläche ca. 59 m²,Zi. 2,69,3
+6,selObject_44735339,Renovierte 3-Zimmer-Wohnung mit Balkon,"[['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']]",['Balkon'],Miete zzgl. NK 382 €,Wohnfläche ca. 73 m²,Zi. 3,69,3
+7,selObject_44735341,Große 2-Zimmer-Wohnung mit Balkon und Aufzug,"[['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']]",['Balkon'],Miete zzgl. NK 367 €,Wohnfläche ca. 71 m²,Zi. 2,69,3
+8,selObject_44735337,Renovierte 2-Zimmer-Wohnung mit Balkon,"[['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']]",['Balkon'],Miete zzgl. NK 316 €,Wohnfläche ca. 56 m²,Zi. 2,69,3
+9,selObject_44735336,Komplett renovierte 3-Zimmer-Wohnung,"[['Etagenwohnung', '•', 'Salzgitter', 'Hallendorf']]",[],Miete zzgl. NK 303 €,Wohnfläche ca. 58 m²,Zi. 3,69,3
+10,selObject_44735335,Schöne große 2-Zimmer-Wohnung,"[['Etagenwohnung', '•', 'Salzgitter', 'Hallendorf']]",[],Miete zzgl. NK 303 €,Wohnfläche ca. 58 m²,Zi. 2,69,3
+11,selObject_44734555,Renovierte 2-Zimmer-Wohnung im Kurviertel,"[['Souterrainwohnung', '•', 'Bad', 'Harzburg', 'Bad', 'Harzburg']]",[],Miete zzgl. NK 395 €,Wohnfläche ca. 61 m²,Zi. 2,69,3
+12,selObject_44734293,Neubau 2-Zimmer-Whg. im EG mit Terrasse in Lingen-Laxt...,"[['Wohnung', '•', 'Lingen', 'Lingen']]","['Garten', 'EBK']",Miete zzgl. NK 640 €,Wohnfläche ca. 64 m²,Zi. 2,69,3
+13,selObject_44734234,Schöne 2 ZKB-Wohnung in der Wilhelmshavener Innenstadt...,"[['Dachgeschosswohnung', '•', 'Wilhelmshaven', 'Bant']]",['Garten'],Miete zzgl. NK 260 €,Wohnfläche ca. 43 m²,Zi. 2,69,3
+14,selObject_44734220,Schöne und zentrale 3 ZKB-Wohnung in Wilhelmshaven,"[['Etagenwohnung', '•', 'Wilhelmshaven', 'Bant']]",[],Miete zzgl. NK 310 €,Wohnfläche ca. 62 m²,Zi. 3,69,3
+15,selObject_44734211,2-ZKB Dachgeschosswohnung in Norden zu vermieten!,"[['Wohnung', '•', 'Norden', 'Norden']]",[],Miete zzgl. NK 370 €,Wohnfläche ca. 45 m²,Zi. 2,69,3
+16,selObject_44733654,Delmenhorst DeichhorstI Vollständig sanierte helle...,"[['Etagenwohnung', '•', 'Delmenhorst', 'Deichhorst']]",['Balkon'],Miete zzgl. NK 750 €,Wohnfläche ca. 90 m²,Zi. 3,69,3
+17,selObject_44733499,"helle, geräumige Dachgeschosswohnng mit Abstellraum...","[['Dachgeschosswohnung', '•', 'Hildesheim', 'Ost']]",[],Miete zzgl. NK 395 €,Wohnfläche ca. 60 m²,Zi. 2,69,3
+18,selObject_44733348,Gemütliche 3 Zimmer-Wohnung,"[['Etagenwohnung', '•', 'Hannover', 'Bult']]",['Balkon'],Miete zzgl. NK 790 €,Wohnfläche ca. 79 m²,Zi. 3,69,3
+19,selObject_44733268,Familien aufgepasst: 4-Zimmer zum Wohlfühlen und gleic...,"[['Etagenwohnung', '•', 'Buxtehude', 'Buxtehude']]",['Balkon'],"Miete zzgl. NK 950,08 €",Wohnfläche ca. 90 m²,Zi. 4,69,3
+20,selObject_44732954,Moderne Wohnung für Singles und Paare mit Balkon,"[['Etagenwohnung', '•', 'Hannover', 'Mühlenberg']]",['Balkon'],"Miete zzgl. NK 508,95 €",Wohnfläche ca. 65 m²,"Zi. 2,5",69,3
+21,selObject_44731736,Erstbezug nach Modernisierung,"[['Etagenwohnung', '•', 'Braunschweig', 'Weststadt']]",['Balkon'],Miete zzgl. NK 503 €,Wohnfläche ca. 78 m²,Zi. 3,69,3
+22,selObject_44730851,Dachgeschoss mit individuellem Zuschnitt,"[['Dachgeschosswohnung', '•', 'Munster', 'Munster']]",['EBK'],Miete zzgl. NK 360 €,Wohnfläche ca. 55 m²,Zi. 3,69,3
+23,selObject_44727263,Neu modernisierte 4-Zimmer-Wohnung mit Loggia!,"[['Apartment', '•', 'Braunschweig', 'Braunschweig']]",['Balkon'],"Miete zzgl. NK 684,88 €",Wohnfläche ca. 80 m²,Zi. 4,69,3
+24,selObject_44727259,Sanierte 4-Zimmer-Wohnung mit Balkon zu vermieten,"[['Wohnung', '•', 'Nordenham', 'Nordenham']]","['Balkon', 'Garten']",Miete zzgl. NK 461 €,Wohnfläche ca. 79 m²,Zi. 4,69,3
+25,selObject_44726955,"Anderten, 990,00 € All-Inn-Preis, total saniert und...","[['Wohnung', '•', 'Hannover', 'Anderten']]","['Balkon', 'EBK']",Miete inkl. NK 990 €,Wohnfläche ca. 66 m²,"Zi. 2,5",69,3
+26,selObject_44726848,Frisch renovierte Dachgeschosswohnung mit großer Dacht...,"[['Dachgeschosswohnung', '•', 'Westerstede', 'Westerstede']]",['Balkon'],Miete zzgl. NK 590 €,Wohnfläche ca. 80 m²,Zi. 3,69,3

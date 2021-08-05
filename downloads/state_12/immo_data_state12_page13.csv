@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44939066,2 Zimmer in Westend mit Wintergarten,"['Etagenwohnung', '•', 'Eberswalde', 'Eberswalde']",['Garten'],Miete zzgl. NK 380 €,Wohnfläche ca. 41 m²,Zi. 2,13,12
-1,selObject_44938438,+++ Erstbezug nach Sanierung +++,"['Etagenwohnung', '•', 'Prenzlau', 'Prenzlau']",[],Miete zzgl. NK 270 €,Wohnfläche ca. 35 m²,Zi. 2,13,12
-2,selObject_44938437,Shoppen und Wohnen!,"['Etagenwohnung', '•', 'Prenzlau', 'Prenzlau']",['Balkon'],Miete zzgl. NK 490 €,Wohnfläche ca. 70 m²,Zi. 3,13,12
-3,selObject_44938385,"3,5 Zimmer im Dachgeschoss mit Balkon","['Dachgeschosswohnung', '•', 'Eberswalde', 'Eberswalde']",['Balkon'],Miete zzgl. NK 680 €,Wohnfläche ca. 85 m²,"Zi. 3,5",13,12
-4,selObject_44938382,2 Zimmer im Dachgeschoss nahe Markt im denkmalgeschütz...,"['Dachgeschosswohnung', '•', 'Eberswalde', 'Eberswalde']",[],Miete zzgl. NK 430 €,Wohnfläche ca. 55 m²,Zi. 2,13,12
-5,selObject_44938383,2 Zimmer im Erstbezug nahe Marktplatz im denkmalgeschü...,"['Erdgeschosswohnung', '•', 'Eberswalde', 'Eberswalde']",[],Miete zzgl. NK 365 €,Wohnfläche ca. 41 m²,Zi. 2,13,12
-6,selObject_44938380,Einraumapartment nahe Bahnhof,"['Etagenwohnung', '•', 'Eberswalde', 'Eberswalde']",[],Miete zzgl. NK 345 €,Wohnfläche ca. 35 m²,Zi. 1,13,12
-7,selObject_44938381,Frisch renovierte 2-Zimmer-Wohnung in Westend mit Balk...,"['Etagenwohnung', '•', 'Eberswalde', 'Eberswalde']",['Balkon'],Miete zzgl. NK 425 €,Wohnfläche ca. 54 m²,Zi. 2,13,12
-8,selObject_44938379,2 Zimmer mit Balkon in Mitte,"['Etagenwohnung', '•', 'Eberswalde', 'Eberswalde']",['Balkon'],Miete zzgl. NK 425 €,Wohnfläche ca. 49 m²,Zi. 2,13,12
-9,selObject_44938072,- für sofort- gemütliche Dachgeschosswohung mit EBK in...,"['Dachgeschosswohnung', '•', 'Kloster', 'Lehnin', 'Rietz']","['Garten', 'EBK']",Miete zzgl. NK 450 €,Wohnfläche ca. 57 m²,Zi. 2,13,12
-10,selObject_44936509,Kleine 2-Raum-Wohnung seniorenfreundlich mit Terrasse,"['Etagenwohnung', '•', 'Angermünde', 'Angermünde']",['Garten'],Miete zzgl. NK 320 €,Wohnfläche ca. 35 m²,Zi. 2,13,12
-11,selObject_44936498,3 Zimmer im EG in Westend mit Kamin und Terrasse,"['Erdgeschosswohnung', '•', 'Eberswalde', 'Eberswalde']",['Garten'],Miete zzgl. NK 525 €,Wohnfläche ca. 70 m²,Zi. 3,13,12
-12,selObject_44936495,Appartment mit im Zentrum im Erstbezug,"['Erdgeschosswohnung', '•', 'Eberswalde', 'Eberswalde']",[],Miete zzgl. NK 335 €,Wohnfläche ca. 27 m²,Zi. 1,13,12
-13,selObject_44936489,3 Zimmer mit Parkblick nahe Markt,"['Dachgeschosswohnung', '•', 'Eberswalde', 'Eberswalde']",[],Miete zzgl. NK 570 €,Wohnfläche ca. 67 m²,Zi. 3,13,12
-14,selObject_44936492,Grosse Zwei-Raum-Wohnung zwischen City und Bahnhof,"['Etagenwohnung', '•', 'Eberswalde', 'Eberswalde']",[],Miete zzgl. NK 410 €,Wohnfläche ca. 60 m²,Zi. 2,13,12
-15,selObject_44936481,3 Zimmer in der Altstadt,"['Etagenwohnung', '•', 'Eberswalde', 'Eberswalde']",[],Miete zzgl. NK 570 €,Wohnfläche ca. 76 m²,Zi. 3,13,12
-16,selObject_44936467,1 Zimmer mit Bad in Bahnhofsnaehe Jobcenterfähig,"['Etagenwohnung', '•', 'Angermünde', 'Angermünde']",[],Miete zzgl. NK 289 €,Wohnfläche ca. 34 m²,Zi. 1,13,12
-17,selObject_44936183,3 Zimmer mit Balkon nahe Bahnhof,"['Etagenwohnung', '•', 'Eberswalde', 'Eberswalde']",['Balkon'],Miete zzgl. NK 550 €,Wohnfläche ca. 69 m²,Zi. 3,13,12
-18,selObject_44935321,Brieske - 2 Raum-Wohnung mit Balkon in der 2. Etage,"['Wohnung', '•', 'Senftenberg']",['Balkon'],Miete zzgl. NK 350 €,Wohnfläche ca. 50 m²,Zi. 2,13,12
-19,selObject_44934973,Wohnung mit Renovierungsbonus !,"['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']",[],"Miete zzgl. NK 295,11 €",Wohnfläche ca. 55 m²,Zi. 2,13,12
-20,selObject_44934969,2-Raum-Wohnung mit wunderbarer Aussicht,"['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']",[],"Miete zzgl. NK 287,90 €",Wohnfläche ca. 56 m²,Zi. 2,13,12
-21,selObject_44934791,4-Raum-Wohnung in Citylage mit Stellplatz,"['Etagenwohnung', '•', 'Strausberg', 'Strausberg']",['EBK'],Miete zzgl. NK 700 €,Wohnfläche ca. 105 m²,Zi. 4,13,12
-22,selObject_44933392,Wohnen in ruhiger Lage,"['Etagenwohnung', '•', 'Finsterwalde', 'Finsterwalde']",[],Miete zzgl. NK 274 €,Wohnfläche ca. 51 m²,Zi. 2,13,12
-23,selObject_44929059,helle sonnige 3 Zimmerwohnung ab 01.10.2021 Finkenkrug...,"['Dachgeschosswohnung', '•', 'Falkensee']","['Balkon', 'Garten']",Miete zzgl. NK 935 €,Wohnfläche ca. 75 m²,Zi. 3,13,12
-24,selObject_44928716,helle sanierte 1-Raum Wohnung in Horst OT Blumenthal,"['Etagenwohnung', '•', 'Heiligengrabe']",['Garten'],Miete zzgl. NK 180 €,Wohnfläche ca. 36 m²,Zi. 1,13,12
-25,selObject_44928691,KUSCHELIGE 2-RAUM-WOHNUNG MIT CHARME,"['Wohnung', '•', 'Elsterwerda', 'Elsterwerda']",[],Miete zzgl. NK 315 €,Wohnfläche ca. 63 m²,Zi. 2,13,12
-26,selObject_44928657,Nah am See...,"['Kein', 'Bild']",['Balkon'],Miete zzgl. NK 315 €,Wohnfläche ca. 50 m²,Zi. 2,13,12
+0,selObject_44957913,Einmalig am Wasser Wohnen - MIRU im Havel Quartier...,"[['Etagenwohnung', '•', 'Potsdam', 'Teltower', 'Vorstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 1.412 €,Wohnfläche ca. 95 m²,Zi. 4,13,12
+1,selObject_44957906,Wohlfühlen im MIRU und erholen direkt am Havelufer:...,"[['Etagenwohnung', '•', 'Potsdam', 'Teltower', 'Vorstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 1.215 €,Wohnfläche ca. 78 m²,Zi. 3,13,12
+2,selObject_44957893,MIRU im Havel Quartier Potsdam - Tolle Familienwohnung...,"[['Etagenwohnung', '•', 'Potsdam', 'Teltower', 'Vorstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 1.363 €,Wohnfläche ca. 95 m²,Zi. 4,13,12
+3,selObject_44957807,Willkommen im MIRU: Moderne 2-Zimmer-Wohnung mit Einba...,"[['Erdgeschosswohnung', '•', 'Potsdam', 'Teltower', 'Vorstadt']]",['EBK'],Miete zzgl. NK 620 €,Wohnfläche ca. 42 m²,Zi. 2,13,12
+4,selObject_44957039,Havel Quartier Potsdam: Schöne 2-Zimmer-Wohnung nahe...,"[['Etagenwohnung', '•', 'Potsdam', 'Teltower', 'Vorstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 760 €,Wohnfläche ca. 53 m²,Zi. 2,13,12
+5,selObject_44956986,Havel Quartier Potsdam: Komfortable 2-Zimmer-Neubauwoh...,"[['Etagenwohnung', '•', 'Potsdam', 'Teltower', 'Vorstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 763 €,Wohnfläche ca. 47 m²,Zi. 2,13,12
+6,selObject_44956036,Schlagen Sie zu! Super Preis-/Leistungsverhältnis.,"[['Wohnung', '•', 'Forst', 'Forst-Stadt']]",[],Miete zzgl. NK 339 €,Wohnfläche ca. 70 m²,Zi. 3,13,12
+7,selObject_44955714,3-Raum-Wohnung + Esszimmer und Balkon,"[['Etagenwohnung', '•', 'Lübbenau', 'Lübbenau']]",['Balkon'],"Miete zzgl. NK 342,72 €",Wohnfläche ca. 71 m²,Zi. 3,13,12
+8,selObject_44955711,3-Raum-Wohnung in ruhiger Lage,"[['Etagenwohnung', '•', 'Lübbenau', 'Lübbenau']]",['Balkon'],"Miete zzgl. NK 348,58 €",Wohnfläche ca. 60 m²,Zi. 3,13,12
+9,selObject_44955713,Ruhige Wohnlage,"[['Etagenwohnung', '•', 'Altdöbern', 'Altdöbern']]",['Balkon'],"Miete zzgl. NK 320,62 €",Wohnfläche ca. 66 m²,Zi. 3,13,12
+10,selObject_44955638,"3 Zimmer Wohnung 73,20 m³ im 3. OG","[['Wohnung', '•', 'Prenzlau', 'Prenzlau']]",[],"Miete zzgl. NK 439,20 €",Wohnfläche ca. 73 m²,Zi. 3,13,12
+11,selObject_44955609,Wohnen in der Geschwister-Scholl-Straße!,"[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Prenzlau', 'Prenzlau']]",[],Miete zzgl. NK 285 €,Wohnfläche ca. 48 m²,Zi. 2,13,12
+12,selObject_44955599,Wohnung + Garage + Garten!,"[['Etagenwohnung', '•', 'Prenzlau', 'Prenzlau']]",['Garten'],Miete zzgl. NK 455 €,Wohnfläche ca. 73 m²,Zi. 3,13,12
+13,selObject_44954858,2-Raum-Wohnung in der Innenstadt,"[['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']]",[],"Miete zzgl. NK 374,99 €",Wohnfläche ca. 54 m²,Zi. 2,13,12
+14,selObject_44954855,3-Raum-Wohnung mit Loggia,"[['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']]",['Balkon'],"Miete zzgl. NK 309,05 €",Wohnfläche ca. 62 m²,Zi. 3,13,12
+15,selObject_44954852,2-Raum-Wohnung in Bahnhofsnähe,"[['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']]",['Balkon'],Miete zzgl. NK 298 €,Wohnfläche ca. 53 m²,Zi. 2,13,12
+16,selObject_44954850,2-Raum-Wohnung in ruhiger Lage,"[['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']]",[],"Miete zzgl. NK 248,40 €",Wohnfläche ca. 48 m²,Zi. 2,13,12
+17,selObject_44954848,3-Raum-Wohnung im Stadtzentrum mit Loggia,"[['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']]",['Balkon'],"Miete zzgl. NK 309,98 €",Wohnfläche ca. 56 m²,Zi. 3,13,12
+18,selObject_44954846,3-Raum-Wohnung im Stadtzentrum mit Loggia,"[['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']]",['Balkon'],"Miete zzgl. NK 309,98 €",Wohnfläche ca. 56 m²,Zi. 3,13,12
+19,selObject_44952449,Single- oder Pendlerwohnung - 1-Zimmer Apartment mit...,"[['Wohnung', '•', 'Werder', 'Werder', '(Havel)']]",['Balkon'],Miete zzgl. NK 410 €,Wohnfläche ca. 41 m²,Zi. 1,13,12
+20,selObject_44951930,2-Zimmer-Wohnung mit Balkon,"[['Wohnung', '•', 'Dallgow-Döberitz', 'Dallgow']]",['Balkon'],Miete zzgl. NK 785 €,Wohnfläche ca. 74 m²,Zi. 2,13,12
+21,selObject_44948191,Attraktives Wohnen im Denkmalensemble,"[['Loft-Studio-Atelier', '•', 'Nauen', 'Nauen']]",[],Miete zzgl. NK 1.200 €,Wohnfläche ca. 119 m²,Zi. 3,13,12
+22,selObject_44946279,Neubau Fahrstuhl Balkon perfekte Lage zentral und...,"[['Etagenwohnung', '•', 'Potsdam', 'Bornstedter', 'Feld']]","['Balkon', 'EBK']",Miete zzgl. NK 980 €,Wohnfläche ca. 70 m²,Zi. 2,13,12
+23,selObject_44946185,Neubau Fahrstuhl Balkon perfekte Lage zentral und...,"[['Apartment', '•', 'Potsdam', 'Bornstedter', 'Feld']]","['Balkon', 'EBK']",Miete zzgl. NK 980 €,Wohnfläche ca. 70 m²,Zi. 2,13,12
+24,selObject_44942462,"wunderschöne, helle 3- Zimmer Wohnung in Neuruppin","[['Etagenwohnung', '•', 'Neuruppin']]",['EBK'],Miete zzgl. NK 589 €,Wohnfläche ca. 77 m²,Zi. 3,13,12
+25,selObject_44942127,Eichhorst Schorfheide am Werbellinsee - Zweizimmerwohn...,"[['Etagenwohnung', '•', 'Schorfheide', 'Eichhorst']]",[],Miete zzgl. NK 250 €,Wohnfläche ca. 34 m²,Zi. 2,13,12
+26,selObject_44941894,gemütliche 3-Raum Wohnung zu vermieten,"[['Wohnung', '•', 'Senftenberg']]",['Garten'],Miete zzgl. NK 430 €,Wohnfläche ca. 66 m²,Zi. 3,13,12

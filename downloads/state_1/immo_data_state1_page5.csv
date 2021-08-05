@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_45011136,"NEU Neubau direkt am Plöner See! 85,68 m² groß, barrierea...","['Etagenwohnung', '•', 'Dersau']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 1.115 €,Wohnfläche ca. 86 m²,Zi. 3,5,1
-1,selObject_45011067,"NEU 1-Zimmer-Single-Wohnung, 23 m² im Dachgeschoß, Ideal...","['Dachgeschosswohnung', '•', 'Lübeck', 'St.', 'Lorenz', 'Süd']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 259 €,Wohnfläche ca. 23 m²,Zi. 1,5,1
-2,selObject_45011036,NEU Perfekt für Singles | gut geschnittene 2 Zi.-DG-Wohnun...,"['Dachgeschosswohnung', '•', 'Pinneberg']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 495 €,Wohnfläche ca. 55 m²,Zi. 2,5,1
-3,selObject_45010992,NEU kuschelige 2 Zi.-Wohnung mit Balkon in direkter Nähe...,"['Etagenwohnung', '•', 'Pinneberg']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 490 €,Wohnfläche ca. 52 m²,Zi. 2,5,1
-4,selObject_45010896,"NEU Schöne 2,0-Zimmer-Wohnung, Johannisstraße 24C, DG","['Wohnung', '•', 'Flensburg', 'Jürgensby']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 620 €,Wohnfläche ca. 68 m²,Zi. 2,5,1
-5,selObject_45010859,"NEU 3-Zimmer, zentral, mit Balkon","['Wohnung', '•', 'Geesthacht']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 520 €,Wohnfläche ca. 69 m²,Zi. 3,5,1
-6,selObject_45010784,NEU Wohnung gesucht? Schick renoviert und bereits eingeric...,"['Apartment', '•', 'Flensburg', 'Engelsby']","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 275 €,Wohnfläche ca. 40 m²,Zi. 2,5,1
-7,selObject_45010631,NEU Wunderschöne 4 Zimmer Wohnung in Pinneberg,"['Wohnung', '•', 'Pinneberg']","['NEU', 'NEU']",Miete zzgl. NK 1.200 €,Wohnfläche ca. 115 m²,Zi. 4,5,1
-8,selObject_45010576,NEU Ruhige Lage - Süderbrarup,"['Etagenwohnung', '•', 'Süderbrarup']","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 735 €,Wohnfläche ca. 100 m²,"Zi. 3,5",5,1
-9,selObject_45010137,NEU Schicke 3 Zimmer,"['Etagenwohnung', '•', 'Elmshorn']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 442 €,Wohnfläche ca. 65 m²,Zi. 3,5,1
-10,selObject_45010042,NEU WOHNUNG MIT FLAIR FÜR SINGLES ODER PAAR!,"['Dachgeschosswohnung', '•', 'Delingsdorf']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 980 €,Wohnfläche ca. 85 m²,Zi. 2,5,1
-11,selObject_45009917,"NEU 1,5 Zimmer-Wohnung mit Balkon - direkt beim CCU","['Etagenwohnung', '•', 'Henstedt-Ulzburg']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 380 €,Wohnfläche ca. 37 m²,"Zi. 1,5",5,1
-12,selObject_45009808,NEU WOHNUNG MIT GARTEN FÜR SINGLES/PAARE!,"['Erdgeschosswohnung', '•', 'Delingsdorf']","['NEU', 'NEU']",Miete zzgl. NK 1.350 €,Wohnfläche ca. 110 m²,Zi. 2,5,1
-13,selObject_45009799,NEU sonnige 3 1/2-Zi.-Wohnung in Stockelsdorf,"['Etagenwohnung', '•', 'Stockelsdorf', 'Stockelsdorf']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 750 €,Wohnfläche ca. 87 m²,"Zi. 3,5",5,1
-14,selObject_45009697,NEU altengerechtes Reihenhaus in Erfde zu vermieten,"['Erdgeschosswohnung', '•', 'Erfde']","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 537 €,Wohnfläche ca. 67 m²,Zi. 3,5,1
-15,selObject_45009165,NEU Sonnige 2-Zi.-Whg mit SW-Balkon in Boostedt - Erstbezu...,"['Wohnung', '•', 'Boostedt']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 800 €,Wohnfläche ca. 76 m²,Zi. 2,5,1
-16,selObject_45009154,NEU Neuwertige 3-Zimmer Etagenwohnung in Quickborn-Heide,"['Etagenwohnung', '•', 'Quickborn']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 915 €,Wohnfläche ca. 87 m²,Zi. 3,5,1
-17,selObject_45009084,NEU großzügige 2-Zimmer Wohnung in Bad Bramstedt,"['Etagenwohnung', '•', 'Bad', 'Bramstedt']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 490 €,Wohnfläche ca. 74 m²,Zi. 2,5,1
-18,selObject_45009071,NEU Neu renovierte 4-Zi.-Wohnung sucht einen neuen Mieter,"['Wohnung', '•', 'Reinbek']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 1.175 €,Wohnfläche ca. 99 m²,Zi. 4,5,1
-19,selObject_45008764,"NEU Helle, ruhige 1-Zi-Whg mit EBK","['Wohnung', '•', 'Kiel', 'Gaarden-Süd']","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 265 €,Wohnfläche ca. 27 m²,Zi. 1,5,1
-20,selObject_45008749,NEU Highlight in der Altstadt ** Dom & Hafen - Lichtdurchf...,"['Erdgeschosswohnung', '•', 'Schleswig']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 680 €,Wohnfläche ca. 70 m²,Zi. 3,5,1
-21,selObject_45008737,NEU Vollmöbiliert 1 Zimmerappartment zur Zwischenmiete ...,"['Apartment', '•', 'Lübeck', 'St.', 'Jürgen']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete inkl. NK 700 €,Wohnfläche ca. 38 m²,Zi. 1,5,1
-22,selObject_45008258,"NEU 2,5-Zimmer-Wohnung mit Terrasse und Gemeinschaftsgarte...","['Wohnung', '•', 'Kiel', 'Ravensberg']","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 900 €,Wohnfläche ca. 77 m²,"Zi. 2,5",5,1
-23,selObject_45008096,"NEU Stilvolle, modernisierte 3-Zimmer-Wohnung mit 2 Balkon...","['Wohnung', '•', 'Ahrensburg']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 1.104 €,Wohnfläche ca. 92 m²,Zi. 3,5,1
-24,selObject_45008079,"NEU Gemütliche Einzimmerwohnung mit toller, großer Süd-Log...","['Etagenwohnung', '•', 'Rellingen']","['NEU', 'NEU']",Miete zzgl. NK 480 €,Wohnfläche ca. 44 m²,Zi. 1,5,1
-25,selObject_45008032,NEU Hier ziehe ich ein - 3 Zimmer Erdgeschosswohnung in...,"['Erdgeschosswohnung', '•', 'Itzehoe']","['NEU', 'NEU', 'Balkon', 'EBK']","Miete zzgl. NK 431,11 €",Wohnfläche ca. 74 m²,Zi. 3,5,1
-26,selObject_45008031,NEU Hoch hinaus- Schicke 2 Zimmer-Wohnung,"['Etagenwohnung', '•', 'Norderstedt', 'Garstedt']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 518,40 €",Wohnfläche ca. 58 m²,Zi. 2,5,1
+0,selObject_45030730,NEU Helle barrierefreie 3-Zimmer Wohnung mit Balkon in...,"[['Etagenwohnung', '•', 'Reinfeld']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 720 €,Wohnfläche ca. 81 m²,Zi. 3,5,1
+1,selObject_45030626,NEU Komfortable 3 Zi.-Neubauwohnung mit Wohlfühlcharakter...,"[['Etagenwohnung', '•', 'Pinneberg']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 1.070 €,Wohnfläche ca. 82 m²,Zi. 3,5,1
+2,selObject_45030467,NEU 1-Zimmer-Apartment im Hochschulstadtteil für Studieren...,"[['Apartment', '•', 'Lübeck', 'St.', 'Jürgen']]","['NEU', 'NEU']",Miete zzgl. NK 265 €,Wohnfläche ca. 18 m²,Zi. 1,5,1
+3,selObject_45030159,NEU ***Schöne Aussicht inklusive***,"[['Etagenwohnung', '•', 'Geesthacht']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 1.039 €,Wohnfläche ca. 100 m²,Zi. 4,5,1
+4,selObject_45030049,NEU 2-Zimmer-Wohnung mit Terrasse,"[['Wohnung', '•', 'Boksee']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 740 €,Wohnfläche ca. 88 m²,Zi. 2,5,1
+5,selObject_45029579,NEU 3 Zimmer Wohnung auf 97 qm mit Balkon- Neubau zentral...,"[['Wohnung', '•', 'Tarp']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 995 €,Wohnfläche ca. 97 m²,Zi. 3,5,1
+6,selObject_45029576,"NEU 2,5-Zimmer-Wohnung kurzfristig vermieten","[['Wohnung', '•', 'Großhansdorf']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 690 €,Wohnfläche ca. 60 m²,"Zi. 2,5",5,1
+7,selObject_45029404,NEU Günstige 3-Zimmer-Wohnung mit Vollbad und Balkon,"[['Etagenwohnung', '•', 'Kiel', 'Mettenhof']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 474 €,Wohnfläche ca. 69 m²,Zi. 3,5,1
+8,selObject_45029381,"NEU schöne 2 Zimmerwohnung in Glücksburg, Schillerstr. 2","[['Wohnung', '•', 'Glücksburg', 'Glücksburg']]","['NEU', 'NEU']",Miete zzgl. NK 330 €,Wohnfläche ca. 54 m²,Zi. 2,5,1
+9,selObject_45029361,"NEU Perfekt für uns: günstig geschnittene 2,5-Zimmer-Wohnu...","[['Etagenwohnung', '•', 'Pinneberg']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 582,39 €",Wohnfläche ca. 68 m²,"Zi. 2,5",5,1
+10,selObject_45029352,NEU Das Glück hat ein Zuhause: ansprechende 1-Zi.-Single-W...,"[['Etagenwohnung', '•', 'Lübeck', 'St.', 'Jürgen']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 550 €,Wohnfläche ca. 64 m²,"Zi. 2,5",5,1
+11,selObject_45029331,NEU Wohnglück - ansprechende 3-Zi.-Wohnung,"[['Etagenwohnung', '•', 'Lübeck', 'Kücknitz']]","['NEU', 'NEU']",Miete zzgl. NK 355 €,Wohnfläche ca. 45 m²,Zi. 2,5,1
+12,selObject_45029083,NEU -Zimmer-Wohnung in Kiel Holtenau,"[['Dachgeschosswohnung', '•', 'Kiel', 'Holtenau']]","['NEU', 'NEU']",Miete zzgl. NK 705 €,Wohnfläche ca. 57 m²,Zi. 2,5,1
+13,selObject_45029069,NEU 1 1/2 Zimmer Erdgeschoss in Tornesch,"[['Erdgeschosswohnung', '•', 'Tornesch']]","['NEU', 'NEU']","Miete zzgl. NK 510,61 €",Wohnfläche ca. 49 m²,"Zi. 1,5",5,1
+14,selObject_45029064,NEU Neue Heimat 3 - Seniorenwohnung - erstes Obergeschoss...,"[['Wohnung', '•', 'Rendsburg']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 319 €,Wohnfläche ca. 39 m²,Zi. 2,5,1
+15,selObject_45028950,"NEU Gemütliche 1,5 Zi.-Whg. mit Loggia!","[['Wohnung', '•', 'Horst']]","['NEU', 'NEU']","Miete zzgl. NK 341,85 €",Wohnfläche ca. 46 m²,"Zi. 1,5",5,1
+16,selObject_45028508,NEU Modernisierte Wohnung ab 01.09.21,"[['Wohnung', '•', 'Flensburg', 'Nordstadt']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 456 €,Wohnfläche ca. 61 m²,Zi. 3,5,1
+17,selObject_45028506,NEU 3 Zimmer-Wohnung mit Balkon,"[['Wohnung', '•', 'Flensburg', 'Jürgensby']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 488 €,Wohnfläche ca. 81 m²,Zi. 3,5,1
+18,selObject_45028503,NEU Wohnung in Flensburg,"[['Wohnung', '•', 'Flensburg', 'Südstadt']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 416 €,Wohnfläche ca. 67 m²,Zi. 3,5,1
+19,selObject_45028504,NEU Helle modernisierte 2-Zimmer-Wohnung,"[['Wohnung', '•', 'Flensburg', 'Nordstadt']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 473 €,Wohnfläche ca. 63 m²,Zi. 2,5,1
+20,selObject_45028349,NEU Neubau moderne Maisonette Wohnung ca.119qm mit großer...,"[['Maisonette', '•', 'Aumühle']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 1.460 €,Wohnfläche ca. 119 m²,Zi. 4,5,1
+21,selObject_45028268,NEU Helle 4-Zimmer-Wohnung im Grünen mit Loggia und Wannen...,"[['Wohnung', '•', 'Schönkirchen', 'Landgraben']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 1.000 €,Wohnfläche ca. 91 m²,Zi. 4,5,1
+22,selObject_45028113,NEU 2 Zi.- DG-Wohnung in Henstedt-Ulzburg,"[['Dachgeschosswohnung', '•', 'Henstedt-Ulzburg']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 649 €,Wohnfläche ca. 72 m²,Zi. 2,5,1
+23,selObject_45027852,NEU TFI: 4 Zimmer Wohnung im Zentrum von Flensburg!,"[['Etagenwohnung', '•', 'Flensburg', 'Jürgensby']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 790 €,Wohnfläche ca. 120 m²,Zi. 4,5,1
+24,selObject_45027850,NEU TFI: 4 Zimmer Dachgeschoss Wohnung im Zentrum von Flen...,"[['Dachgeschosswohnung', '•', 'Flensburg', 'Jürgensby']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 740 €,Wohnfläche ca. 120 m²,Zi. 4,5,1
+25,selObject_45027689,NEU Erstbezug mit Einbauküche und 2 Terrassen: exklusive...,"[['Erdgeschosswohnung', '•', 'Geesthacht']]","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 1.131 €,Wohnfläche ca. 94 m²,Zi. 3,5,1
+26,selObject_45026480,NEU Hier warten 108 m² zum Wohlfühlen auf Sie - saniert...,"[['Wohnung', '•', 'Oststeinbek', 'Oststeinbek']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 1.300 €,Wohnfläche ca. 108 m²,Zi. 3,5,1

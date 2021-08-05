@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44652443,Ihr neuer Zweitwohnsitz im Kurort Oberwiesenthal!,"['Apartment', '•', 'Kurort', 'Oberwiesenthal', 'Oberwiesenthal']",['EBK'],Miete zzgl. NK 290 €,Wohnfläche ca. 62 m²,Zi. 3,200,14
-1,selObject_44652321,"Gemütliche 1,5-Zi-Dachgeschosswohnung mit Balkon in...","['Dachgeschosswohnung', '•', 'Dresden', 'Weißig']",['Balkon'],Miete zzgl. NK 355 €,Wohnfläche ca. 47 m²,Zi. 2,200,14
-2,selObject_44652062,NEU renovierte 2-Raum-Balkon-Wohnung in saniertem Altb...,"['Etagenwohnung', '•', 'Zwickau', 'Bahnhofsvorstadt']",['Balkon'],Miete zzgl. NK 410 €,Wohnfläche ca. 65 m²,Zi. 2,200,14
-3,selObject_44651810,Ideale Singlewohnung im Leipziger Norden,"['Wohnung', '•', 'Leipzig', 'Mockau-Nord']",[],Miete zzgl. NK 164 €,Wohnfläche ca. 26 m²,Zi. 1,200,14
-4,selObject_44651806,BEZUGSFERTIGE Wohnung mit Spielplatz im Innenhof,"['Wohnung', '•', 'Leipzig', 'Grünau-Nord']",[],"Miete zzgl. NK 292,50 €",Wohnfläche ca. 69 m²,Zi. 3,200,14
-5,selObject_44651789,Apartment für Studenten und Singles,"['Apartment', '•', 'Zwickau', 'Niederplanitz']",[],Miete zzgl. NK 170 €,Wohnfläche ca. 30 m²,Zi. 1,200,14
-6,selObject_44651785,Wohlfühlen auf 65 m² ...,"['Wohnung', '•', 'Bad', 'Elster', 'Bad', 'Elster']",[],Miete zzgl. NK 390 €,Wohnfläche ca. 65 m²,Zi. 2,200,14
-7,selObject_44651748,Tolle Dachgeschosswohnung ++ 2 Monat mietfrei wohnen...,"['Dachgeschosswohnung', '•', 'Chemnitz', 'Hilbersdorf']",['Garten'],Miete zzgl. NK 219 €,Wohnfläche ca. 52 m²,Zi. 2,200,14
-8,selObject_44651742,Gemütliche 3 Raum WE in Kirchennähe im gepflegten MFH...,"['Etagenwohnung', '•', 'Bärenstein', 'Bärenstein']",['Garten'],Miete zzgl. NK 226 €,Wohnfläche ca. 58 m²,Zi. 3,200,14
-9,selObject_44651736,Gemütliche 2 Raum WE in Kirchennähe im gepflegten MFH...,"['Etagenwohnung', '•', 'Bärenstein', 'Bärenstein']",['Garten'],Miete zzgl. NK 170 €,Wohnfläche ca. 48 m²,Zi. 2,200,14
-10,selObject_44651733,Sonnige 2-Raum-Balkonwohnung in Zwickau,"['Etagenwohnung', '•', 'Zwickau', 'Bahnhofsvorstadt']",['Balkon'],Miete zzgl. NK 333 €,Wohnfläche ca. 52 m²,Zi. 2,200,14
-11,selObject_44651731,"Traumhafte 4 Zimmer-DG-Wg mit Dachterrasse, Fahrstuhl,...","['Dachgeschosswohnung', '•', 'Leipzig', 'Gohlis-Mitte']",[],Miete zzgl. NK 1.149 €,Wohnfläche ca. 117 m²,Zi. 4,200,14
-12,selObject_44651388,2 RWE mit Einbauküche am Obermarkt zu vermieten,"['Wohnung', '•', 'Görlitz', 'Innenstadt']",['EBK'],Miete zzgl. NK 276 €,Wohnfläche ca. 69 m²,Zi. 2,200,14
-13,selObject_44651387,2 Raumwohnung in Bahnhofsnähe zu vermieten,"['Wohnung', '•', 'Görlitz', 'Innenstadt']",[],Miete zzgl. NK 310 €,Wohnfläche ca. 62 m²,Zi. 2,200,14
-14,selObject_44651382,"Schöne 2,5 Raumwohnung in der Südstadt","['Apartment', '•', 'Görlitz', 'Südstadt']",['Balkon'],Miete zzgl. NK 420 €,Wohnfläche ca. 78 m²,Zi. 3,200,14
-15,selObject_44651379,Hochwertig neu sanierte 2-Raum Wohnung mit Balkon,"['Etagenwohnung', '•', 'Reichenbach', 'Reichenbach']",['Balkon'],Miete zzgl. NK 400 €,Wohnfläche ca. 47 m²,Zi. 2,200,14
-16,selObject_44651373,3 Raumwohnung im Gründerzeitviertel,"['Wohnung', '•', 'Görlitz', 'Innenstadt']",[],Miete zzgl. NK 400 €,Wohnfläche ca. 86 m²,Zi. 3,200,14
-17,selObject_44651072,Renovierte 1 Raumwohnung,"['Wohnung', '•', 'Görlitz', 'Innenstadt']",[],Miete zzgl. NK 190 €,Wohnfläche ca. 35 m²,Zi. 1,200,14
-18,selObject_44650739,1-Zi.-Whg. mit EBK am Stadtrand von Döbeln,"['Etagenwohnung', '•', 'Döbeln', 'Döbeln']",['EBK'],Miete zzgl. NK 200 €,Wohnfläche ca. 42 m²,Zi. 1,200,14
-19,selObject_44650675,+++ NEU - renovierte 3 Zi. Whg. mit Balkon & Designerl...,"['Etagenwohnung', '•', 'Chemnitz', 'Kapellenberg']","['Balkon', 'Garten']",Miete zzgl. NK 449 €,Wohnfläche ca. 90 m²,Zi. 3,200,14
-20,selObject_44650673,Großzügige 3-Raumwohnung,"['Etagenwohnung', '•', 'Annaberg-Buchholz', 'Annaberg']",[],"Miete zzgl. NK 535,50 €",Wohnfläche ca. 102 m²,Zi. 3,200,14
-21,selObject_44650403,***Günstige 2-Zimmer mit großzügigen Räumen und Aufzug...,"['Etagenwohnung', '•', 'Chemnitz', 'Sonnenberg']",[],Miete zzgl. NK 320 €,Wohnfläche ca. 73 m²,Zi. 2,200,14
-22,selObject_44650379,***Neu renovierte 3-Raum-Wohnung***,"['Etagenwohnung', '•', 'Aue']",[],Miete zzgl. NK 300 €,Wohnfläche ca. 70 m²,Zi. 3,200,14
-23,selObject_44650194,gemütliche 2-Raum-Dachwohnung,"['Apartment', '•', 'Auerbach', 'Auerbach']",['Garten'],Miete zzgl. NK 245 €,Wohnfläche ca. 46 m²,Zi. 2,200,14
-24,selObject_44650181,viel Platz für kleines Geld - 3-Zimmer-Wohnung in Zent...,"['Apartment', '•', 'Auerbach', 'Auerbach']",[],Miete zzgl. NK 259 €,Wohnfläche ca. 74 m²,Zi. 3,200,14
-25,selObject_44650067,***Aufgepasst*** helle 2-Raum-Wohnung mit Balkon und...,"['Etagenwohnung', '•', 'Chemnitz', 'Hutholz']","['Balkon', 'EBK']","Miete zzgl. NK 235,56 €",Wohnfläche ca. 39 m²,Zi. 2,200,14
-26,selObject_44650015,3 Zimmer - Dachgeschosswohnung,"['Dachgeschosswohnung', '•', 'Kamenz', 'Kamenz']",[],Miete zzgl. NK 345 €,Wohnfläche ca. 62 m²,Zi. 3,200,14
+0,selObject_44701149,Keine Lust auf Treppen? 2RW mit Wanne im Erdgeschoss!!...,"[['Wohnung', '•', 'Freiberg,', 'Sachs', 'Freiberg']]",[],Miete zzgl. NK 250 €,Wohnfläche ca. 45 m²,Zi. 2,200,14
+1,selObject_44701092,gemütliche 2-Raum-Wohnung in Zentrumsnähe,"[['Apartment', '•', 'Auerbach', 'Auerbach']]",[],Miete zzgl. NK 250 €,Wohnfläche ca. 59 m²,Zi. 2,200,14
+2,selObject_44701065,Teilweise möblierte 2-Raumwohnung im Zetrum,"[['Dachgeschosswohnung', '•', 'Görlitz', 'Innenstadt']]",['EBK'],"Miete zzgl. NK 285,61 €",Wohnfläche ca. 68 m²,"Zi. 2,5",200,14
+3,selObject_44701061,**Schöne Wohlfühloase sucht neuen Mieter**,"[['Etagenwohnung', '•', 'Kamenz', 'Kamenz']]",['Balkon'],Miete zzgl. NK 357 €,Wohnfläche ca. 68 m²,Zi. 4,200,14
+4,selObject_44701059,Erstbezug nach Komplettsanierung - 3-Raum-Wohnung in...,"[['Erdgeschosswohnung', '•', 'Kurort', 'Oberwiesenthal', 'Oberwiesenthal']]",['Garten'],Miete zzgl. NK 480 €,Wohnfläche ca. 79 m²,Zi. 3,200,14
+5,selObject_44701024,**Große Wohnung in toller Lage jetzt frei!**,"[['Etagenwohnung', '•', 'Kamenz', 'Kamenz']]",['Balkon'],Miete zzgl. NK 357 €,Wohnfläche ca. 68 m²,Zi. 4,200,14
+6,selObject_44700982,Erstbezug! 2 Zimmer-Wohnung in Striesen,"[['Etagenwohnung', '•', 'Dresden']]",['Balkon'],Miete zzgl. NK 590 €,Wohnfläche ca. 54 m²,Zi. 2,200,14
+7,selObject_44700977,**In ruhiger Umgebung wohnen und leben**,"[['Etagenwohnung', '•', 'Kamenz', 'Kamenz']]",['Balkon'],Miete zzgl. NK 310 €,Wohnfläche ca. 59 m²,Zi. 3,200,14
+8,selObject_44700939,++Große Wohnung mit Wohlfühl-Faktor++,"[['Etagenwohnung', '•', 'Kamenz', 'Kamenz']]",['Balkon'],Miete zzgl. NK 357 €,Wohnfläche ca. 68 m²,Zi. 4,200,14
+9,selObject_44700935,Maisonette Wohnung in zentraler Lage,"[['Dachgeschosswohnung', '•', 'Görlitz', 'Innenstadt']]",[],"Miete zzgl. NK 264,25 €",Wohnfläche ca. 53 m²,Zi. 2,200,14
+10,selObject_44700929,Helle Zweizimmer-Wohnung im Erdgeschoss,"[['Wohnung', '•', 'Frankenberg', 'Frankenberg']]",[],Miete zzgl. NK 264 €,Wohnfläche ca. 53 m²,Zi. 2,200,14
+11,selObject_44700916,// Helle 2-Raum-Wohnung // Ruhiges Wohnen in Bennewitz...,"[['Etagenwohnung', '•', 'Bennewitz', 'Bennewitz']]",['Balkon'],Miete zzgl. NK 400 €,Wohnfläche ca. 61 m²,Zi. 2,200,14
+12,selObject_44700890,1-Raumwohnung in der Historischen Altstadt,"[['Erdgeschosswohnung', '•', 'Görlitz', 'Innenstadt']]",[],"Miete zzgl. NK 194,85 €",Wohnfläche ca. 39 m²,Zi. 1,200,14
+13,selObject_44700861,Morgen frühstücken wir auf dem Balkon!,"[['Etagenwohnung', '•', 'Görlitz', 'Königshufen']]","['Balkon', 'Garten']",Miete zzgl. NK 299 €,Wohnfläche ca. 70 m²,Zi. 3,200,14
+14,selObject_44700759,**Eine Wohnung zum Wohlfühlen sucht neuen Mieter!**,"[['Etagenwohnung', '•', 'Kamenz', 'Kamenz']]",['Balkon'],Miete zzgl. NK 310 €,Wohnfläche ca. 59 m²,Zi. 3,200,14
+15,selObject_44700649,**Gemütliche Wohnung die zum Wohlfühlen einlädt**,"[['Etagenwohnung', '•', 'Kamenz', 'Kamenz']]",['Balkon'],Miete zzgl. NK 310 €,Wohnfläche ca. 59 m²,Zi. 3,200,14
+16,selObject_44700589,"Zittau-Bestwohnlage, 3-Zimmer-Neubau-WE im Souterrain...","[['Souterrainwohnung', '•', 'Zittau', 'Zittau']]",['EBK'],Miete zzgl. NK 400 €,Wohnfläche ca. 61 m²,Zi. 3,200,14
+17,selObject_44700545,Neu! Moderne 2 Zimmer-Wohnung mit Balkon,"[['Etagenwohnung', '•', 'Dresden']]",['Balkon'],Miete zzgl. NK 499 €,Wohnfläche ca. 45 m²,Zi. 2,200,14
+18,selObject_44700525,**Wohnen in Stadtrandlage - Grün und Ruhig gelegen**,"[['Etagenwohnung', '•', 'Kamenz', 'Kamenz']]",['Balkon'],Miete zzgl. NK 310 €,Wohnfläche ca. 59 m²,Zi. 3,200,14
+19,selObject_44700520,1-Zimmer-Wohnung mit großer Wohnküche,"[['Wohnung', '•', 'Zittau', 'Zittau']]","['Garten', 'EBK']","Miete zzgl. NK 192,50 €",Wohnfläche ca. 35 m²,Zi. 1,200,14
+20,selObject_44700450,**Ruhig gelegene Wohnung zur eigenen Wohlfühloase mach...,"[['Etagenwohnung', '•', 'Kamenz', 'Kamenz']]",['Balkon'],Miete zzgl. NK 310 €,Wohnfläche ca. 59 m²,Zi. 3,200,14
+21,selObject_44700438,Kaßberg - 1-Raum-Wohnung mit EBK freut sich auf neue...,"[['Etagenwohnung', '•', 'Chemnitz', 'Kaßberg']]",['EBK'],Miete zzgl. NK 225 €,Wohnfläche ca. 34 m²,Zi. 1,200,14
+22,selObject_44700421,**Ruhig gelegene Wohnung in Stadtrandlage**,"[['Etagenwohnung', '•', 'Kamenz', 'Kamenz']]",['Balkon'],Miete zzgl. NK 310 €,Wohnfläche ca. 59 m²,Zi. 3,200,14
+23,selObject_44700406,Komfortable 4-Raumwohnung mit Terrasse!,"[['Etagenwohnung', '•', 'Görlitz', 'Innenstadt']]",['Garten'],Miete zzgl. NK 740 €,Wohnfläche ca. 115 m²,Zi. 4,200,14
+24,selObject_44700332,Komfortable 3-Raumwohnung mit Dachterrasse!,"[['Dachgeschosswohnung', '•', 'Görlitz', 'Südstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 504 €,Wohnfläche ca. 84 m²,Zi. 3,200,14
+25,selObject_44700296,Vollmöblierte 2-Raumwohnung in zentraler Lage,"[['Dachgeschosswohnung', '•', 'Görlitz', 'Innenstadt']]",['EBK'],Miete zzgl. NK 342 €,Wohnfläche ca. 57 m²,Zi. 2,200,14
+26,selObject_44700290,"2,0-Zimmerwohnung mit Balkon!","[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Zwickau', 'Marienthal']]",['Balkon'],Miete zzgl. NK 350 €,Wohnfläche ca. 55 m²,Zi. 2,200,14

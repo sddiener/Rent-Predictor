@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44913470,"Komplett renoviert, in ruhiger und grüner Lage","['Wohnung', '•', 'Essen', 'Holsterhausen']",[],Miete zzgl. NK 420 €,Wohnfläche ca. 48 m²,Zi. 2,99,5
-1,selObject_44913468,Wir renovieren für Sie - Neugierig?,"['Dachgeschosswohnung', '•', 'Essen', 'Holsterhausen']",[],Miete zzgl. NK 562 €,Wohnfläche ca. 65 m²,Zi. 3,99,5
-2,selObject_44913462,Schöne und gepflegte 3-Raum Wohnung mit Balkon,"['Wohnung', '•', 'Essen', 'Holsterhausen']",['Balkon'],Miete zzgl. NK 470 €,Wohnfläche ca. 58 m²,Zi. 3,99,5
-3,selObject_44913461,"Ihr Wohlfühlort in Holsterhausen, frisch renoviert","['Wohnung', '•', 'Essen', 'Holsterhausen']","['Balkon', 'Garten']",Miete zzgl. NK 799 €,Wohnfläche ca. 94 m²,"Zi. 3,5",99,5
-4,selObject_44913430,Schnucklig: Ideal für kleine Familien.,"['Etagenwohnung', '•', 'Herne', 'Herne-Süd']",['Balkon'],"Miete zzgl. NK 503,89 €",Wohnfläche ca. 65 m²,"Zi. 4,5",99,5
-5,selObject_44913411,*** 2-Zimmer-Whg - bereits modernisiert! ***,"['Wohnung', '•', 'Mülheim', 'Mellinghofen']",[],Miete zzgl. NK 380 €,Wohnfläche ca. 44 m²,Zi. 2,99,5
-6,selObject_44913410,Klein und fein! Ansprechende Single-Wohnung auf der...,"['Wohnung', '•', 'Mülheim', 'Heißen-Fulerum']",[],Miete zzgl. NK 325 €,Wohnfläche ca. 36 m²,"Zi. 1,5",99,5
-7,selObject_44913334,Schöne 3-Zimmer-Wohnung mit neuem Tageslichtbad !,"['Etagenwohnung', '•', 'Herne', 'Herne-Mitte']",[],Miete zzgl. NK 499 €,Wohnfläche ca. 70 m²,Zi. 3,99,5
-8,selObject_44913333,EG-Wohnung in Bockum-Hövel,"['Erdgeschosswohnung', '•', 'Hamm', 'Bockum-Hövel']","['Balkon', 'Garten']",Miete zzgl. NK 319 €,Wohnfläche ca. 51 m²,Zi. 2,99,5
-9,selObject_44913331,***Gut aufgeteilte 3 Zimmerwohnung in Mörsenbroich***,"['Dachgeschosswohnung', '•', 'Düsseldorf', 'Mörsenbroich']",[],Miete zzgl. NK 849 €,Wohnfläche ca. 79 m²,Zi. 3,99,5
-10,selObject_44913330,Gepflegte 2-Zimmer-Wohnung mit Tageslichtbad in Herne-...,"['Erdgeschosswohnung', '•', 'Herne', 'Wanne-Süd']",[],Miete zzgl. NK 399 €,Wohnfläche ca. 51 m²,Zi. 2,99,5
-11,selObject_44913327,Kontaktlos und sicher vermieten! 2-Zimmer-Wohnung.,"['Etagenwohnung', '•', 'Hamm', 'Hamm-Mitte']",[],Miete zzgl. NK 309 €,Wohnfläche ca. 48 m²,Zi. 2,99,5
-12,selObject_44913326,Schicke 2-Zimmer-Wohnung mit Tageslichtbad in Herne-Wa...,"['Erdgeschosswohnung', '•', 'Herne', 'Wanne-Süd']",[],Miete zzgl. NK 309 €,Wohnfläche ca. 46 m²,Zi. 2,99,5
-13,selObject_44913319,1 Zimmer in modernisiertem Mehrfamilienhaus.,"['Etagenwohnung', '•', 'Monheim', 'Monheim']",['Balkon'],Miete zzgl. NK 419 €,Wohnfläche ca. 44 m²,Zi. 1,99,5
-14,selObject_44913320,Diese Wohnung ist komplett für Sie renoviert!!!,"['Etagenwohnung', '•', 'Gelsenkirchen', 'Ückendorf']",[],Miete zzgl. NK 319 €,Wohnfläche ca. 48 m²,"Zi. 2,5",99,5
-15,selObject_44913318,EG 3 Zimmer Wohnung in Monheim.,"['Erdgeschosswohnung', '•', 'Monheim', 'Monheim']",['Balkon'],Miete zzgl. NK 689 €,Wohnfläche ca. 74 m²,Zi. 3,99,5
-16,selObject_44913315,Tolles Appartement in der Nordstadt,"['Etagenwohnung', '•', 'Wuppertal', 'Elberfeld']",['Balkon'],"Miete zzgl. NK 246,42 €",Wohnfläche ca. 43 m²,Zi. 1,99,5
-17,selObject_44913307,Wohnfühlen bei VIVAWEST,"['Etagenwohnung', '•', 'Herten', 'Westerholt']",[],Miete zzgl. NK 300 €,Wohnfläche ca. 58 m²,"Zi. 3,5",99,5
-18,selObject_44913301,3 Zimmer Wohnung gegen über von Monheimer Tor.,"['Etagenwohnung', '•', 'Monheim', 'Monheim']",['Balkon'],Miete zzgl. NK 569 €,Wohnfläche ca. 75 m²,Zi. 3,99,5
-19,selObject_44913300,Gut geschnittene 2 Zimmer Wohnung in Monheim am Rhein.,"['Etagenwohnung', '•', 'Monheim', 'Monheim']",['Balkon'],Miete zzgl. NK 519 €,Wohnfläche ca. 55 m²,Zi. 2,99,5
-20,selObject_44913298,"***Großzügig geschnittene 1,5 Zimmer Wohnung mit Wohnk...","['Etagenwohnung', '•', 'Düsseldorf', 'Oberbilk']",[],Miete zzgl. NK 520 €,Wohnfläche ca. 49 m²,"Zi. 1,5",99,5
-21,selObject_44913295,Erstaunlich gut wohnen! Ab jetzt haben Sie die Wahl.,"['Etagenwohnung', '•', 'Düsseldorf', 'Derendorf']","['Balkon', 'EBK']",Miete zzgl. NK 1.909 €,Wohnfläche ca. 139 m²,"Zi. 3,5",99,5
-22,selObject_44913293,Wir vermieten Zufriedenheit.,"['Etagenwohnung', '•', 'Mülheim', 'Dümpten']",['Balkon'],Miete zzgl. NK 563 €,Wohnfläche ca. 76 m²,"Zi. 3,5",99,5
-23,selObject_44913292,Vier Wände zum Wohlfühlen.,"['Etagenwohnung', '•', 'Marl', 'Hüls']",['Balkon'],"Miete zzgl. NK 309,79 €",Wohnfläche ca. 60 m²,"Zi. 2,5",99,5
-24,selObject_44913291,So schön mit Laminatboden - tolle 2-Zimmerwohnung im...,"['Etagenwohnung', '•', 'Duisburg', 'Ungelsheim']",['Balkon'],Miete zzgl. NK 399 €,Wohnfläche ca. 48 m²,Zi. 2,99,5
-25,selObject_44913285,Große 3 Zimmer Wohnung in Monheim/Baumberg.,"['Etagenwohnung', '•', 'Monheim', 'Baumberg']",['Balkon'],Miete zzgl. NK 729 €,Wohnfläche ca. 90 m²,Zi. 3,99,5
-26,selObject_44913286,3 Zimmer in schönen Monheim am Rhein.,"['Etagenwohnung', '•', 'Monheim', 'Monheim']",['Balkon'],Miete zzgl. NK 619 €,Wohnfläche ca. 68 m²,"Zi. 2,5",99,5
+0,selObject_44933115,3 Zi im Japanisches Viertel: Schöne große renov 3 Zi-W...,"[['Wohnung', '•', 'Düsseldorf', 'Stadtmitte']]",['EBK'],Miete zzgl. NK 897 €,Wohnfläche ca. 70 m²,Zi. 3,99,5
+1,selObject_44933109,Renoviert für die kleine Familie ... in Werdohl Riesei,"[['Etagenwohnung', '•', 'Werdohl', 'Werdohl']]",['Balkon'],"Miete zzgl. NK 358,33 €",Wohnfläche ca. 69 m²,Zi. 3,99,5
+2,selObject_44933094,Auf nach Elberfeld! Schicke 3 Zimmer-Wohnung zum verli...,"[['Dachgeschosswohnung', '•', 'Wuppertal', 'Elberfeld']]",[],Miete zzgl. NK 387 €,Wohnfläche ca. 76 m²,Zi. 3,99,5
+3,selObject_44933081,500 € - Gutschein sichern : renovierte 3-Zimmer-Wohnun...,"[['Wohnung', '•', 'Duisburg', 'Aldenrade']]",['Balkon'],Miete zzgl. NK 470 €,Wohnfläche ca. 76 m²,Zi. 3,99,5
+4,selObject_44933072,Hier ist sie : die ideale Single-Wohnung im Erdgeschos...,"[['Wohnung', '•', 'Duisburg', 'Obermarxloh']]",[],Miete zzgl. NK 290 €,Wohnfläche ca. 42 m²,"Zi. 1,5",99,5
+5,selObject_44933048,2 1/2-Raum in Beckhausen !,"[['Etagenwohnung', '•', 'Gelsenkirchen', 'Beckhausen']]",['Balkon'],"Miete zzgl. NK 319,30 €",Wohnfläche ca. 62 m²,"Zi. 2,5",99,5
+6,selObject_44933046,Tolle Wohnung in Buer !,"[['Erdgeschosswohnung', '•', 'Gelsenkirchen', 'Buer']]",['Balkon'],"Miete zzgl. NK 364,03 €",Wohnfläche ca. 62 m²,"Zi. 2,5",99,5
+7,selObject_44933045,geräumige 3-1/2 Raum in Erle !,"[['Etagenwohnung', '•', 'Gelsenkirchen', 'Erle']]",['Balkon'],"Miete zzgl. NK 452,40 €",Wohnfläche ca. 78 m²,"Zi. 3,5",99,5
+8,selObject_44933043,schöne 2 1/2-Raum in Scholven !,"[['Etagenwohnung', '•', 'Gelsenkirchen', 'Scholven']]",['Balkon'],"Miete zzgl. NK 301,60 €",Wohnfläche ca. 58 m²,"Zi. 2,5",99,5
+9,selObject_44933041,Tolle Wohnung in Resser-Mark !,"[['Etagenwohnung', '•', 'Gelsenkirchen', 'Resser-Mark']]",['Balkon'],"Miete zzgl. NK 254,69 €",Wohnfläche ca. 59 m²,Zi. 3,99,5
+10,selObject_44932868,Wohnung mit Weitblick - große 2-Zimmerwohnung in Krefe...,"[['Etagenwohnung', '•', 'Krefeld', 'Benrad-Süd']]",['Balkon'],Miete zzgl. NK 429 €,Wohnfläche ca. 58 m²,Zi. 2,99,5
+11,selObject_44932863,Voll renovierte Balkonwohnung in ruhiger Lage,"[['Etagenwohnung', '•', 'Oberhausen', 'Holten']]",['Balkon'],"Miete zzgl. NK 388,55 €",Wohnfläche ca. 71 m²,"Zi. 3,5",99,5
+12,selObject_44932852,Freie Wohnung mit Balkon!,"[['Etagenwohnung', '•', 'Duisburg', 'Huckingen']]",['Garten'],Miete zzgl. NK 309 €,Wohnfläche ca. 43 m²,Zi. 2,99,5
+13,selObject_44932851,Einziehen und Wohlfühlen! geräumige 2-Zimmerwohnung in...,"[['Etagenwohnung', '•', 'Herten', 'Westerholt']]",['Garten'],Miete zzgl. NK 339 €,Wohnfläche ca. 55 m²,Zi. 2,99,5
+14,selObject_44932850,Bezug nach komplettsanierung. wbs erforderlich,"[['Dachgeschosswohnung', '•', 'Recklinghausen', 'König-Ludwig']]",['Garten'],"Miete zzgl. NK 275,93 €",Wohnfläche ca. 66 m²,Zi. 3,99,5
+15,selObject_44932849,Unser Wohn-Tipp für alle Paare!,"[['Etagenwohnung', '•', 'Bergkamen', 'Mitte']]",[],"Miete zzgl. NK 303,18 €",Wohnfläche ca. 74 m²,"Zi. 3,5",99,5
+16,selObject_44932847,Voll renovierte Single-Wohnung in zentraler Lage,"[['Etagenwohnung', '•', 'Duisburg', 'Fahrn']]",[],Miete zzgl. NK 259 €,Wohnfläche ca. 39 m²,"Zi. 2,5",99,5
+17,selObject_44932845,Perfekt für Singles oder Paare! 2- Zimmer Wohnung mit...,"[['Etagenwohnung', '•', 'Monheim', 'Monheim']]",['Balkon'],Miete zzgl. NK 589 €,Wohnfläche ca. 71 m²,"Zi. 2,5",99,5
+18,selObject_44932844,Traumhafter Ausblick über Castrop (WBS für zwei Person...,"[['Etagenwohnung', '•', 'Castrop-Rauxel', 'Castrop']]",['Balkon'],"Miete zzgl. NK 285,28 €",Wohnfläche ca. 66 m²,"Zi. 2,5",99,5
+19,selObject_44932842,Schöne 3 Zimmer Wohnung am Monheimer Tor.,"[['Etagenwohnung', '•', 'Monheim', 'Monheim']]",['Balkon'],Miete zzgl. NK 579 €,Wohnfläche ca. 74 m²,Zi. 3,99,5
+20,selObject_44932839,Wohnen am Monheimer Tor,"[['Erdgeschosswohnung', '•', 'Monheim', 'Monheim']]",['Balkon'],Miete zzgl. NK 530 €,Wohnfläche ca. 68 m²,"Zi. 2,5",99,5
+21,selObject_44932838,Wohnen im grünen mit Balkon im Erdgeschoss,"[['Erdgeschosswohnung', '•', 'Gelsenkirchen', 'Resser-Mark']]","['Balkon', 'Garten']",Miete zzgl. NK 279 €,Wohnfläche ca. 45 m²,"Zi. 2,5",99,5
+22,selObject_44932835,Klein und fein - gemütliche Singlewohnung in Duisburg-...,"[['Etagenwohnung', '•', 'Duisburg', 'Wanheimerort']]",[],Miete zzgl. NK 319 €,Wohnfläche ca. 45 m²,Zi. 2,99,5
+23,selObject_44932833,4 Zimmer mit Garten und neuem Badezimmer mit Dusche,"[['Erdgeschosswohnung', '•', 'Herten', 'Stadtmitte']]",['Garten'],Miete zzgl. NK 399 €,Wohnfläche ca. 63 m²,Zi. 3,99,5
+24,selObject_44932823,Einziehen - Wohlfühlen!,"[['Dachgeschosswohnung', '•', 'Duisburg', 'Obermarxloh']]",[],Miete zzgl. NK 349 €,Wohnfläche ca. 60 m²,"Zi. 3,5",99,5
+25,selObject_44932816,VIVAWEST modernisiert Ihre neue Wohnung.,"[['Etagenwohnung', '•', 'Duisburg', 'Vierlinden']]",['Balkon'],"Miete zzgl. NK 448,42 €",Wohnfläche ca. 75 m²,"Zi. 3,5",99,5
+26,selObject_44932813,Bei VIVAWEST die Sonnenstrahlen auf dem eigenen Balkon...,"[['Etagenwohnung', '•', 'Oer-Erkenschwick', 'Groß-Erkenschwick']]",['Balkon'],Miete zzgl. NK 484 €,Wohnfläche ca. 64 m²,"Zi. 3,5",99,5

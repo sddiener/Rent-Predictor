@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44157599,1 Zimmer im EG mit Terrasse (ab 60 Jahre/B-Schein),"['Erdgeschosswohnung', '•', 'Sulingen', 'Sulingen']",[],Miete zzgl. NK 217 €,Wohnfläche ca. 38 m²,Zi. 1,100,3
-1,selObject_44156670,Nette Nachbarn für Mehrfamilienhaus gesucht!,"['Etagenwohnung', '•', 'Peine', 'Kernstadt', 'Nord']",['Garten'],Miete zzgl. NK 562 €,Wohnfläche ca. 80 m²,Zi. 3,100,3
-2,selObject_44156624,großzügige 3-Zimmer-Whg. mit großen Balkon an solvente...,"['Dachgeschosswohnung', '•', 'Peine', 'Kernstadt', 'Nord']",['Balkon'],Miete zzgl. NK 748 €,Wohnfläche ca. 115 m²,Zi. 3,100,3
-3,selObject_44156611,gemütliche 3-Zimmer-Whg. in der Peiner Innenstadt,"['Dachgeschosswohnung', '•', 'Peine', 'Kernstadt', 'Nord']",['Garten'],Miete zzgl. NK 547 €,Wohnfläche ca. 83 m²,Zi. 3,100,3
-4,selObject_44156428,203-027 - 4 Zimmer Wohnung mit Loggia - saniert -,"['Etagenwohnung', '•', 'Braunschweig', 'Gliesmarode']",[],Miete zzgl. NK 813 €,Wohnfläche ca. 90 m²,Zi. 4,100,3
-5,selObject_44153873,Hier warten 55 m² zum Wohlfühlen auf Sie - saniert und...,"['Wohnung', '•', 'Wolfsburg', 'Heßlingen']",['EBK'],Miete zzgl. NK 650 €,Wohnfläche ca. 55 m²,Zi. 2,100,3
-6,selObject_44142636,Willkommen im Steimker Quartett!,"['Erdgeschosswohnung', '•', 'Wolfsburg', 'Neindorf']",['EBK'],Miete zzgl. NK 1.100 €,Wohnfläche ca. 95 m²,Zi. 3,100,3
-7,selObject_44139147,Erstbezug ! Hochwertige Obergeschosswohnung mit Balkon...,"['Etagenwohnung', '•', 'Friesoythe', 'Friesoythe']",['Balkon'],Miete zzgl. NK 730 €,Wohnfläche ca. 82 m²,Zi. 4,100,3
-8,selObject_44137603,Oberwohnung mit Balkon und Garage in zentraler Lage,"['Etagenwohnung', '•', 'Wiesmoor', 'Wiesmoor']","['Balkon', 'EBK']",Miete zzgl. NK 720 €,Wohnfläche ca. 105 m²,Zi. 3,100,3
-9,selObject_44137363,"Große helle 4,5 Zi.-Komfort-Whg. mit Ankleideraum,...","['Etagenwohnung', '•', 'Hameln', 'Innenstadt']","['Garten', 'EBK']",Miete zzgl. NK 800 €,Wohnfläche ca. 110 m²,"Zi. 4,5",100,3
-10,selObject_44136939,2-Zimmer Wohnung in ruhiger Lage in Heppens mit EBK!,"['Etagenwohnung', '•', 'Wilhelmshaven', 'Heppens']",['EBK'],Miete zzgl. NK 375 €,Wohnfläche ca. 61 m²,Zi. 2,100,3
-11,selObject_44131131,Exklusive modernisiertes Penthouse m. Balkonterrasse...,"['Wohnung', '•', 'Lindern', 'Lindern']",[],Miete zzgl. NK 550 €,Wohnfläche ca. 120 m²,Zi. 3,100,3
-12,selObject_44130059,RESERVIERT - 2 Zimmer Wohnung in Wrestedt - teilmöblie...,"['Etagenwohnung', '•', 'Wrestedt', 'Wrestedt']",['EBK'],Miete inkl. NK 450 €,Wohnfläche ca. 50 m²,Zi. 2,100,3
-13,selObject_44130023,Wohnen auf dem Lande! Ländlich gelegene Erdgeschosswoh...,"['Erdgeschosswohnung', '•', 'Friesoythe', 'Markhausen']",[],Miete zzgl. NK 650 €,Wohnfläche ca. 160 m²,Zi. 4,100,3
-14,selObject_44127943,WG geeignet! Schöne 3-Zimmer Wohnung Nähe KW-Brücke...,"['Etagenwohnung', '•', 'Wilhelmshaven', 'Innenstadt']",['EBK'],Miete zzgl. NK 360 €,Wohnfläche ca. 62 m²,Zi. 3,100,3
-15,selObject_44127624,"3-Zimmer-Obergeschosswohnung mit Balkon, Einbauküche...","['Etagenwohnung', '•', 'Meppen', 'Neustadt']","['Balkon', 'EBK']",Miete zzgl. NK 620 €,Wohnfläche ca. 73 m²,Zi. 3,100,3
-16,selObject_44127199,*** Exklusive KfW55 Bungalow Reihenhaus Wohnung im...,"['Erdgeschosswohnung', '•', 'Elsfleth', 'Elsfleth']",['Garten'],Miete zzgl. NK 625 €,Wohnfläche ca. 57 m²,Zi. 2,100,3
-17,selObject_44121793,- Stadtnahes Wohnen - 3-Zimmer-DG-Wohnung im Georgenbe...,"['Dachgeschosswohnung', '•', 'Goslar', 'Georgenberg']",['Garten'],Miete zzgl. NK 510 €,Wohnfläche ca. 78 m²,Zi. 3,100,3
-18,selObject_44121608,"Geräumige, modern sanierte 3-Zimmer-Wohnung mit Balkon...","['Etagenwohnung', '•', 'Wolfsburg', 'Vorsfelde']","['Balkon', 'Garten']",Miete zzgl. NK 620 €,Wohnfläche ca. 80 m²,Zi. 3,100,3
-19,selObject_44119690,Geräumige 1-Zimmer-Single-Wohnung,"['Dachgeschosswohnung', '•', 'Goslar', 'Georgenberg']",['EBK'],Miete zzgl. NK 280 €,Wohnfläche ca. 44 m²,Zi. 1,100,3
-20,selObject_44119428,Wohnung mit Blick auf den Stadtpark!,"['Etagenwohnung', '•', 'Papenburg', 'Papenburg']",['Balkon'],Miete zzgl. NK 650 €,Wohnfläche ca. 77 m²,Zi. 3,100,3
-21,selObject_44119426,Traumaussicht aufs Wasser!,"['Etagenwohnung', '•', 'Papenburg', 'Papenburg']",['Balkon'],Miete zzgl. NK 750 €,Wohnfläche ca. 89 m²,Zi. 3,100,3
-22,selObject_44119165,In Sanierung! Geräumige 3-Zimmer-Wohnung zu vergeben!,"['Etagenwohnung', '•', 'Braunschweig', 'Weststadt']",['Balkon'],Miete zzgl. NK 560 €,Wohnfläche ca. 79 m²,Zi. 3,100,3
-23,selObject_44118916,3-Zimmer-Wohnung im schönen Georgenbergviertel,"['Etagenwohnung', '•', 'Goslar', 'Georgenberg']",['Garten'],Miete zzgl. NK 420 €,Wohnfläche ca. 70 m²,Zi. 3,100,3
-24,selObject_44118301,Dobbenviertel - Ratsherr-Schulze-Straße: schöne 2-Zimm...,"['Wohnung', '•', 'Oldenburg', 'Bürgerfelde']",[],Miete zzgl. NK 500 €,Wohnfläche ca. 62 m²,Zi. 2,100,3
-25,selObject_44117875,"Bad Harzburg-Zentrumsnähe kleine Anlage, Südbalkon,...","['Etagenwohnung', '•', 'Bad', 'Harzburg', 'Bad', 'Harzburg']","['Balkon', 'EBK']",Miete zzgl. NK 325 €,Wohnfläche ca. 52 m²,Zi. 2,100,3
-26,selObject_44115527,Einfamilienhaus auf großem Grundstück im Herzen von...,"['Wohnung', '•', 'Bliedersdorf']",['EBK'],Miete zzgl. NK 1.000 €,Wohnfläche ca. 100 m²,Zi. 3,100,3
+0,selObject_44211487,Penthauswohnung - Neubau auf dem ehemaligen Gelände...,"[['Penthouse', '•', 'Braunschweig', 'Braunschweig']]",[],Miete zzgl. NK 1.650 €,Wohnfläche ca. 143 m²,Zi. 4,100,3
+1,selObject_44201375,Exklusive 4Zi. Neubau-Penthouse-Wohnung mit hochwetige...,"[['Penthouse', '•', 'Peine', 'Kernstadt', 'Süd']]","['Balkon', 'EBK']",Miete zzgl. NK 1.090 €,Wohnfläche ca. 104 m²,Zi. 4,100,3
+2,selObject_44200244,Neubau in der Altstadt: 3-Zi.-Komfort-EG-Whg.,"[['Etagenwohnung', '•', 'Bad', 'Bevensen', 'Bad', 'Bevensen']]","['Balkon', 'EBK']",Miete zzgl. NK 1.090 €,Wohnfläche ca. 108 m²,Zi. 3,100,3
+3,selObject_44199373,3 Zimmer EG-Wohnung mit separaten Eingang und Terrasse,"[['Erdgeschosswohnung', '•', 'Bovenden', 'Bovenden']]",[],Miete zzgl. NK 570 €,Wohnfläche ca. 65 m²,Zi. 3,100,3
+4,selObject_44198846,3 Zimmer Altbauwohnung im 1.OG in Göttingen-Grone,"[['Erdgeschosswohnung', '•', 'Göttingen', 'Grone']]",[],Miete zzgl. NK 590 €,Wohnfläche ca. 63 m²,Zi. 3,100,3
+5,selObject_44198819,Neubau mitten in der Altstadt: 2-Zi.-Komfort-Whg.,"[['Etagenwohnung', '•', 'Bad', 'Bevensen', 'Bad', 'Bevensen']]","['Balkon', 'EBK']",Miete zzgl. NK 840 €,Wohnfläche ca. 80 m²,Zi. 2,100,3
+6,selObject_44198741,"3-Zimmer-Wohnung mit 2 SZ, EBK und Loggia in Meppen-Ku...","[['Etagenwohnung', '•', 'Meppen', 'Kuhweide']]","['Balkon', 'EBK']",Miete zzgl. NK 600 €,Wohnfläche ca. 68 m²,Zi. 3,100,3
+7,selObject_44197586,Frisch sanierte 2-Zi-Whg. mit Dachterrasse im Zentrum...,"[['Dachgeschosswohnung', '•', 'Neu', 'Wulmstorf', 'Neu', 'Wulmstorf']]",['EBK'],Miete zzgl. NK 900 €,Wohnfläche ca. 70 m²,Zi. 2,100,3
+8,selObject_44197349,Balkonwohnung- Rendezvous mit der Sonne,"[['Etagenwohnung', '•', 'Lüneburg', 'Ebensberg']]","['Balkon', 'EBK']",Miete zzgl. NK 929 €,Wohnfläche ca. 82 m²,Zi. 3,100,3
+9,selObject_44196927,2- Zimmer Wohnung in Lemförde,"[['Wohnung', '•', 'Lemförde']]","['Balkon', 'EBK']",Miete zzgl. NK 595 €,Wohnfläche ca. 77 m²,Zi. 2,100,3
+10,selObject_44192818,Hochwertige 3-Zimmer-Wohnung mit Hobbyraum im Harsefel...,"[['Erdgeschosswohnung', '•', 'Harsefeld', 'Harsefeld']]","['Garten', 'EBK']",Miete zzgl. NK 925 €,Wohnfläche ca. 94 m²,Zi. 3,100,3
+11,selObject_44190532,Zentrales Wohnen im Innenhof,"[['Wohnung', '•', 'Hildesheim', 'Mitte']]",['EBK'],Miete zzgl. NK 990 €,Wohnfläche ca. 100 m²,"Zi. 3,5",100,3
+12,selObject_44190358,Kleine 3-Zimmer-Whg. in Bad Bentheim zu vermieten,"[['Wohnung', '•', 'Bad', 'Bentheim', 'Bad', 'Bentheim']]","['Garten', 'EBK']",Miete zzgl. NK 300 €,Wohnfläche ca. 53 m²,Zi. 3,100,3
+13,selObject_44189805,Attraktiv und ruhig wohnen in einer 3-Zimmerwohnung...,"[['Wohnung', '•', 'Nienburg', 'Langendamm']]","['Balkon', 'EBK']",Miete zzgl. NK 460 €,Wohnfläche ca. 66 m²,Zi. 3,100,3
+14,selObject_44189804,"Nienburg-Langendamm (Weser), 3-Zimmer-Wohnungen mit...","[['Wohnung', '•', 'Nienburg', 'Langendamm']]","['Balkon', 'EBK']",Miete zzgl. NK 460 €,Wohnfläche ca. 66 m²,Zi. 3,100,3
+15,selObject_44189731,Warmmiete! Etagenwohnung mit Wintergarten,"[['Etagenwohnung', '•', 'Nordhorn', 'Nordhorn']]",[],Miete zzgl. NK 795 €,Wohnfläche ca. 63 m²,Zi. 2,100,3
+16,selObject_44189615,Osternburg - Bremer Str./Stedinger Str.: hochwertige...,"[['Wohnung', '•', 'Oldenburg', 'Kreyenbrück']]",[],Miete zzgl. NK 630 €,Wohnfläche ca. 61 m²,Zi. 2,100,3
+17,selObject_44189461,Mietobjekt in Traumlage,"[['Erdgeschosswohnung', '•', 'Wolfsburg', 'Fallersleben']]","['Garten', 'EBK']",Miete zzgl. NK 1.100 €,Wohnfläche ca. 104 m²,Zi. 3,100,3
+18,selObject_44188855,SST/ 1 ZKB,"[['Souterrainwohnung', '•', 'Göttingen', 'Göttingen']]",[],Miete zzgl. NK 350 €,Wohnfläche ca. 45 m²,Zi. 1,100,3
+19,selObject_44188831,Über den Dächern von Harpstedt - 3-Zimmerwohnung im...,"[['Dachgeschosswohnung', '•', 'Harpstedt', 'Harpstedt']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 680 €,Wohnfläche ca. 91 m²,Zi. 3,100,3
+20,selObject_44188465,Penthouse-Wohnung in Lemförde,"[['Dachgeschosswohnung', '•', 'Lemförde']]","['Balkon', 'EBK']",Miete zzgl. NK 860 €,Wohnfläche ca. 113 m²,Zi. 3,100,3
+21,selObject_44188203,2 ZKB in zentraler Lage von Leer,"[['Etagenwohnung', '•', 'Leer', 'Loga']]","['Balkon', 'EBK']",Miete zzgl. NK 550 €,Wohnfläche ca. 61 m²,Zi. 2,100,3
+22,selObject_44188105,Erstbezug nach Sanierung - schöne 3-Zimmerwohnung in...,"[['Wohnung', '•', 'Wolfenbüttel', 'Stadtgebiet']]",['Balkon'],Miete zzgl. NK 640 €,Wohnfläche ca. 68 m²,Zi. 3,100,3
+23,selObject_44188016,"Wohnen-am-Markt in Achim, 2-ZW, große Küche u. Bad","[['Wohnung', '•', 'Achim', 'Achim']]","['Garten', 'EBK']",Miete zzgl. NK 920 €,Wohnfläche ca. 88 m²,Zi. 2,100,3
+24,selObject_44187434,Wunderschöne Wohnung mit fantastischem Balkon!,"[['Etagenwohnung', '•', 'Jork', 'Borstel']]","['Balkon', 'EBK']",Miete zzgl. NK 750 €,Wohnfläche ca. 78 m²,Zi. 3,100,3
+25,selObject_44187337,Frisch saniertes 1-Zimmer Appartement mit großzügiger...,"[['Erdgeschosswohnung', '•', 'Lüneburg', 'Bockelsberg']]",['EBK'],Miete zzgl. NK 545 €,Wohnfläche ca. 55 m²,Zi. 2,100,3
+26,selObject_44187154,Monteuerzimmer Unterkunft Ferienwohnung Hechthausen ab...,"[['Dachgeschosswohnung', '•', 'Stade']]","['Garten', 'EBK']",Miete zzgl. NK 13 €,Wohnfläche ca. 150 m²,Zi. 8,100,3

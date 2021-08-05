@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44996737,"NEU Schöne, moderne 1 Zimmer Wohnung mit separater Wohnküc...","['Wohnung', '•', 'Lörrach', 'Lörrach']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 750 €,Wohnfläche ca. 35 m²,Zi. 1,21,8
-1,selObject_44996736,NEU Gemütliche 1-Zimmer Wohnung in Lörrach-Hauingen,"['Wohnung', '•', 'Lörrach', 'Hauingen']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 795 €,Wohnfläche ca. 42 m²,Zi. 1,21,8
-2,selObject_44996735,NEU Möbliertes 1 Zimmer-Apartment in Inzlingen,"['Wohnung', '•', 'Inzlingen']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 745 €,Wohnfläche ca. 50 m²,Zi. 1,21,8
-3,selObject_44996603,NEU Außergewöhnliche Penthousewohnung direkt am Feld,"['Penthouse', '•', 'Hildrizhausen']","['NEU', 'NEU']",Miete zzgl. NK 1.700 €,Wohnfläche ca. 140 m²,"Zi. 4,5",21,8
-4,selObject_44996594,NEU 3 - Zimmerwohnung mit Rheinblick,"['Etagenwohnung', '•', 'Laufenburg', 'Laufenburg']","['NEU', 'NEU']",Miete zzgl. NK 650 €,Wohnfläche ca. 72 m²,Zi. 3,21,8
-5,selObject_44996563,NEU Gemütliches Wohnflair mit Einbauküche und Balkon,"['Wohnung', '•', 'Stühlingen', 'Stühlingen']","['NEU', 'NEU', 'EBK']","Miete zzgl. NK 912,20 €",Wohnfläche ca. 87 m²,Zi. 3,21,8
-6,selObject_44996560,"NEU 3,5-Raum-Wohnung mit Einbauküche sucht neuen Mieter in...","['Wohnung', '•', 'Grafenhausen', 'Grafenhausen']","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 710 €,Wohnfläche ca. 100 m²,"Zi. 3,5",21,8
-7,selObject_44995949,NEU 2 Zimmer Wohnung mit Balkon in kleiner Wohneinheit,"['Etagenwohnung', '•', 'Hockenheim']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 850 €,Wohnfläche ca. 75 m²,Zi. 2,21,8
-8,selObject_44995417,NEU 3-ZW in Karlsruhe-Mühlburg,"['Wohnung', '•', 'Karlsruhe', 'Mühlburg']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 690 €,Wohnfläche ca. 90 m²,Zi. 3,21,8
-9,selObject_44995362,"NEU 2 Zimmer Wohnung mit großer Dachterrasse - Einziehen,...","['Etagenwohnung', '•', 'Malsch']","['NEU', 'NEU']",Miete zzgl. NK 1.000 €,Wohnfläche ca. 110 m²,Zi. 2,21,8
-10,selObject_44995258,NEU Wohnen mit Stil und Charakter: Eine tolle 2-Zi.-Whg....,"['Etagenwohnung', '•', 'Freiburg', 'Herdern']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 950 €,Wohnfläche ca. 45 m²,Zi. 2,21,8
-11,selObject_44995150,NEU 76137 Karlsruhe Rüppurrer Str. 106 Whg Nr 23 3.OG...,"['Kein', 'Bild']","['NEU', 'NEU']",Miete zzgl. NK 800 €,Wohnfläche ca. 63 m²,Zi. 2,21,8
-12,selObject_44995042,"NEU 1,5 Zi-App zu vermieten 76137 Karlsruhe, Rüppurrer...","['Kein', 'Bild']","['NEU', 'NEU']",Miete zzgl. NK 450 €,Wohnfläche ca. 28 m²,"Zi. 1,5",21,8
-13,selObject_44995022,"NEU 4,5-Zimmer-Wohnung mit Balkon in Hohentengen","['Apartment', '•', 'Hohentengen', 'Hohentengen']","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']",Miete zzgl. NK 990 €,Wohnfläche ca. 120 m²,"Zi. 4,5",21,8
-14,selObject_44994942,"NEU Gepflegte 3,5-Zimmer-DG-Wohnung in Aichtal zu vermiete...","['Wohnung', '•', 'Aichtal', 'Aich']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 825 €,Wohnfläche ca. 72 m²,"Zi. 3,5",21,8
-15,selObject_44994905,NEU Durmersheim! Helle 1 Zimmer Wohnung in beliebter Lage...,"['Wohnung', '•', 'Durmersheim', 'Durmersheim']","['NEU', 'NEU', 'EBK']",Miete inkl. NK 590 €,Wohnfläche ca. 42 m²,Zi. 1,21,8
-16,selObject_44994830,NEU Ruhige Vier-Zimmer-Wohnung in Kandern mit tollem Blick...,"['Etagenwohnung', '•', 'Kandern', 'Kandern']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 1.030 €,Wohnfläche ca. 94 m²,Zi. 4,21,8
-17,selObject_44994820,"NEU 2-Zi.-Mietwohnung in St. Märgen ""Neubau""","['Wohnung', '•', 'St.', 'Märgen']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 650 €,Wohnfläche ca. 70 m²,Zi. 2,21,8
-18,selObject_44994804,"NEU Sonnige, helle, zentrumsnahe 4-Zimmer-Wohnung im Erdge...","['Wohnung', '•', 'Giengen', 'Giengen']","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 845 €,Wohnfläche ca. 100 m²,Zi. 4,21,8
-19,selObject_44994797,NEU *** IDEAL FÜR STUDENTEN *** 1 Zimmerwohnung Nähe Uni,"['Apartment', '•', 'Mannheim', 'Schwetzingerstadt']","['NEU', 'NEU']",Miete zzgl. NK 320 €,Wohnfläche ca. 28 m²,Zi. 1,21,8
-20,selObject_44994796,NEU 3-Zi.-Penthousewohnung in idealer Stadtnähe *mit Weitb...,"['Dachgeschosswohnung', '•', 'Schwäbisch', 'Hall', 'Schwäbisch', 'Hall']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 1.150 €,Wohnfläche ca. 114 m²,Zi. 3,21,8
-21,selObject_44994745,"NEU Helle, renovierte 3-Zimmer-Wohnung mit Balkon in Rast...","['Wohnung', '•', 'Rastatt', 'Rastatt']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 610 €,Wohnfläche ca. 74 m²,Zi. 3,21,8
-22,selObject_44994741,NEU Wunderschön Sanierte 4 Zimmerwohnung ab dem 01.08.2021...,"['Maisonette', '•', 'Pforzheim', 'Huchenfeld']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 990 €,Wohnfläche ca. 104 m²,Zi. 4,21,8
-23,selObject_44994713,NEU 2 - Zimmer Wohnung mit überdachter Terrasse in RV-Ober...,"['Erdgeschosswohnung', '•', 'Ravensburg', 'Oberzell']","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 570 €,Wohnfläche ca. 48 m²,Zi. 2,21,8
-24,selObject_44994577,NEU Herzlich willkommen in Ihrem frisch renovierten Zuhaus...,"['Kein', 'Bild']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 900 €,Wohnfläche ca. 75 m²,Zi. 3,21,8
-25,selObject_44994562,NEU Aufgepasst! Große 3-Zimmer-Wohnung mit Loggia in guter...,"['Erdgeschosswohnung', '•', 'Bruchsal', 'Bruchsal']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 950 €,Wohnfläche ca. 95 m²,Zi. 3,21,8
-26,selObject_44994530,NEU 3-Zi.-Penthousewohnung in idealer Stadtnähe *mit Süd-W...,"['Dachgeschosswohnung', '•', 'Schwäbisch', 'Hall', 'Schwäbisch', 'Hall']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 810 €,Wohnfläche ca. 70 m²,Zi. 3,21,8
+0,selObject_45014554,NEU 1 Zimmer Wohnung in Neckarsulm Stadtmitte zu vermieten,"[['Etagenwohnung', '•', 'Neckarsulm', 'Neckarsulm']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 580 €,Wohnfläche ca. 37 m²,Zi. 1,21,8
+1,selObject_45014544,NEU Vermietung einer 3ZKB-Wohnung in Top-Wohnlage von Hems...,"[['Wohnung', '•', 'Hemsbach']]","['NEU', 'NEU']",Miete zzgl. NK 980 €,Wohnfläche ca. 98 m²,Zi. 3,21,8
+2,selObject_45014542,"NEU Wunderschöne 4 1/2 - Zi-DG Whg., mit Balkon, Stadt...","[['Wohnung', '•', 'Großrinderfeld', 'Gerchsheim']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 750 €,Wohnfläche ca. 125 m²,"Zi. 4,5",21,8
+3,selObject_45014541,"NEU Exklusive Neubau 2,5 Zimmer Terrassenwohnung","[['Wohnung', '•', 'Plankstadt']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 980 €,Wohnfläche ca. 84 m²,"Zi. 2,5",21,8
+4,selObject_45014514,NEU Komfortwohnung in zentraler Lage,"[['Etagenwohnung', '•', 'Freudenstadt', 'Freudenstadt']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 875 €,Wohnfläche ca. 92 m²,"Zi. 3,5",21,8
+5,selObject_45014486,"NEU 2,5-Zimmerwohnung mit Scheune und Freisitz","[['Wohnung', '•', 'Ettenheim', 'Altdorf']]","['NEU', 'NEU']",Miete zzgl. NK 900 €,Wohnfläche ca. 80 m²,"Zi. 2,5",21,8
+6,selObject_45014478,NEU 3-Zimmer-Wohnung mit Gartennutzung Heubach,"[['Wohnung', '•', 'Heubach', 'Heubach']]","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']",Miete zzgl. NK 620 €,Wohnfläche ca. 72 m²,Zi. 3,21,8
+7,selObject_45014465,NEU WG-Zimmer in 8er-WG zu Vermieten!,"[['Etagenwohnung', '•', 'Karlsruhe', 'Innenstadt-West']]","['NEU', 'NEU']",Miete zzgl. NK 330 €,Wohnfläche ca. 19 m²,Zi. 1,21,8
+8,selObject_45014361,NEU Exklusive Neubau 2 Zimmer Terrassenwohnung,"[['Wohnung', '•', 'Plankstadt']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 890 €,Wohnfläche ca. 70 m²,Zi. 2,21,8
+9,selObject_45014307,"NEU 3-Zimmer-Wohnung in Villingen, Steppach","[['Etagenwohnung', '•', 'Villingen-Schwenningen', 'Villingen']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 750 €,Wohnfläche ca. 75 m²,Zi. 3,21,8
+10,selObject_45014255,NEU Schöne 3 Zimmer Wohnung mit Einbauküche in Mannheim -...,"[['Etagenwohnung', '•', 'Mannheim', 'Neckarstadt']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 750 €,Wohnfläche ca. 64 m²,Zi. 3,21,8
+11,selObject_45014237,NEU Schöne 2 Zimmer-Whg. mit 68qm in einem 3-FH in Rheinst...,"[['Wohnung', '•', 'Rheinstetten', 'Mörsch']]","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 700 €,Wohnfläche ca. 68 m²,Zi. 2,21,8
+12,selObject_45014202,NEU Erdgeschoss mit Garten in beliebter Wohnlage - auf der...,"[['Wohnung', '•', 'Ludwigsburg', 'Oßweil']]","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 1.350 €,Wohnfläche ca. 91 m²,Zi. 3,21,8
+13,selObject_45014116,"NEU Stilvolle, sanierte 2-Zimmer-Wohnung mit Terrasse in...","[['Wohnung', '•', 'Walldorf']]","['NEU', 'NEU']",Miete zzgl. NK 600 €,Wohnfläche ca. 42 m²,Zi. 2,21,8
+14,selObject_45014090,NEU Hochwertige 3-Zimmer Wohnung in saniertem Altbauwohnun...,"[['Etagenwohnung', '•', 'Pforzheim', 'Eutingen']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 650 €,Wohnfläche ca. 70 m²,Zi. 3,21,8
+15,selObject_45014070,"NEU 3,5 Zi.-Wohnung mit Balkon in der Nähe des Ellwanger...","[['Wohnung', '•', 'Ellwangen', 'Ellwangen']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 500 €,Wohnfläche ca. 98 m²,Zi. 3,21,8
+16,selObject_45014065,NEU Großzügige Penthouse-Wohnung im schönen Durlach,"[['Penthouse', '•', 'Karlsruhe', 'Durlach']]","['NEU', 'NEU']",Miete zzgl. NK 1.080 €,Wohnfläche ca. 103 m²,Zi. 2,21,8
+17,selObject_45014039,"NEU Großzügige, helle 3-Zi-Wohnung","[['Wohnung', '•', 'Schwaikheim']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 925 €,Wohnfläche ca. 88 m²,Zi. 3,21,8
+18,selObject_45014022,"NEU Großzügig geschnittenes, modernes, helles 1-Zimmer-App...","[['Etagenwohnung', '•', 'Mannheim', 'Innenstadt']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 490 €,Wohnfläche ca. 46 m²,Zi. 1,21,8
+19,selObject_45013975,"NEU Große 4,5 Zimmer-Wohnung mit 2 Balkonen u. Stellplatz...","[['Etagenwohnung', '•', 'Ohmden']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 1.050 €,Wohnfläche ca. 131 m²,"Zi. 4,5",21,8
+20,selObject_45013942,"NEU PROVISIONSFREIE, sanierte 3-Zimmer-EG-Wohnung in VS-Sc...","[['Wohnung', '•', 'Villingen-Schwenningen', 'Schwenningen']]","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 700 €,Wohnfläche ca. 70 m²,Zi. 3,21,8
+21,selObject_45013923,NEU 1-Zimmerwohnung in Singen-City,"[['Wohnung', '•', 'Singen', 'Singen']]","['NEU', 'NEU']",Miete zzgl. NK 440 €,Wohnfläche ca. 33 m²,Zi. 1,21,8
+22,selObject_45013857,NEU Geräumige DG Wohnung mit großer Terrasse im begehrten...,"[['Dachgeschosswohnung', '•', 'Pforzheim', 'Südweststadt']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 675 €,Wohnfläche ca. 87 m²,Zi. 3,21,8
+23,selObject_45013793,NEU Gemütliche Dachgeschosswohnung mit Balkon und Blick...,"[['Dachgeschosswohnung', '•', 'Bad', 'Dürrheim', 'Bad', 'Dürrheim']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 440 €,Wohnfläche ca. 51 m²,Zi. 2,21,8
+24,selObject_45013752,NEU Erstbezug: Traumhafte Maisonette-Wohnung ...,"[['Wohnung', '•', 'Sigmaringendorf', 'Sigmaringendorf']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 650 €,Wohnfläche ca. 90 m²,Zi. 3,21,8
+25,selObject_45013725,NEU Schwetzingen 1 ZKD gute zentrale Lage.,"[['Apartment', '•', 'Schwetzingen']]","['NEU', 'NEU']",Miete zzgl. NK 380 €,Wohnfläche ca. 31 m²,Zi. 1,21,8
+26,selObject_45013664,NEU 2-Zimmer-Wohnung nach Vereinbarung in Baden-Baden zu...,"[['Apartment', '•', 'Baden-Baden', 'Lichtental']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 550 €,Wohnfläche ca. 50 m²,Zi. 2,21,8

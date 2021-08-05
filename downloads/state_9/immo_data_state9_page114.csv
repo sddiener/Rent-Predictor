@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44849765,Möbliert: Moderne 3-Zimmer-Familienwohnung,"['Wohnung', '•', 'München', 'Schwabing-West']",['Balkon'],Miete zzgl. NK 2.280 €,Wohnfläche ca. 85 m²,Zi. 3,114,9
-1,selObject_44849685,"Ein halbes Haus (mit Garten, Garage) als Wohnung. Auße...","['Wohnung', '•', 'Karlsfeld']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.650 €,Wohnfläche ca. 79 m²,Zi. 3,114,9
-2,selObject_44849643,"Tolle, ruhige 4-Zimmer-Wohnung mit Blick aufs Ampertal","['Etagenwohnung', '•', 'Kirchdorf', 'Kirchdorf']",['Balkon'],Miete zzgl. NK 1.050 €,Wohnfläche ca. 108 m²,Zi. 4,114,9
-3,selObject_44849384,3-Raum-Wohnung - Bezugsfertig nach Vereinbarung,"['Wohnung', '•', 'Nürnberg', 'Eibach']",['EBK'],Miete zzgl. NK 770 €,Wohnfläche ca. 70 m²,Zi. 3,114,9
-4,selObject_44849321,Zentral gelegene 3 Zimmer-Wohnung am Fürther Stadtpark,"['Etagenwohnung', '•', 'Fürth', 'Innenstadt']","['Balkon', 'EBK']",Miete zzgl. NK 890 €,Wohnfläche ca. 80 m²,Zi. 3,114,9
-5,selObject_44849280,Eleganter Familientraum. Direkt am Südpark.,"['Erdgeschosswohnung', '•', 'München', 'Thalk.Obersendl.-Forsten-Fürstenr.-Solln']","['Garten', 'EBK']",Miete zzgl. NK 2.990 €,Wohnfläche ca. 163 m²,Zi. 5,114,9
-6,selObject_44848999,Top 3 Zi. Whg. mit 15 m² DT - abs. Bestlage in Nymphen...,"['Dachgeschosswohnung', '•', 'München', 'Neuhausen-Nymphenburg']",['EBK'],Miete zzgl. NK 2.150 €,Wohnfläche ca. 95 m²,Zi. 3,114,9
-7,selObject_44848992,Wunderschönes helles 1-Zim.-Apartment mit gro. Balkon...,"['Etagenwohnung', '•', 'Nürnberg', 'Schweinau']","['Balkon', 'EBK']",Miete zzgl. NK 408 €,Wohnfläche ca. 34 m²,Zi. 1,114,9
-8,selObject_44848985,Helle 1-Zi Wohnung für 1 Person sucht Mieter,"['Wohnung', '•', 'Nürnberg', 'Schweinau']",['EBK'],Miete zzgl. NK 290 €,Wohnfläche ca. 31 m²,Zi. 1,114,9
-9,selObject_44848984,Schicke Altstadtwohnung mit Wohlfühlcharakter!,"['Etagenwohnung', '•', 'Mühldorf', 'Mühldorf']",['EBK'],Miete zzgl. NK 750 €,Wohnfläche ca. 76 m²,Zi. 2,114,9
-10,selObject_44848950,Kleine 2-Zimmer-Wohnung mit Balkon in der westlichen...,"['Wohnung', '•', 'Fürth', 'Innenstadt']",['Balkon'],Miete zzgl. NK 350 €,Wohnfläche ca. 32 m²,Zi. 2,114,9
-11,selObject_44848949,1-Zimmer-Wohnung im Süden Nürnbergs,"['Wohnung', '•', 'Nürnberg', 'Steinbühl']",[],Miete zzgl. NK 250 €,Wohnfläche ca. 22 m²,Zi. 1,114,9
-12,selObject_44848948,Edel ausgestattet und hochwertig möbliert!,"['Etagenwohnung', '•', 'München', 'Trudering-Riem']","['Balkon', 'EBK']",Miete zzgl. NK 1.750 €,Wohnfläche ca. 90 m²,Zi. 3,114,9
-13,selObject_44848872,EXKLUSIVE GARTENWOHNUNG IN BESTLAGE VON ALT-SOLLN,"['Wohnung', '•', 'München', 'Thalk.Obersendl.-Forsten-Fürstenr.-Solln']","['Garten', 'EBK']",Miete zzgl. NK 6.950 €,Wohnfläche ca. 272 m²,Zi. 7,114,9
-14,selObject_44848771,Frisch Renoviert! Große 4 Zimmer Dachgeschosswohnung...,"['Dachgeschosswohnung', '•', 'Neustadt', 'Neustadt']",['EBK'],Miete zzgl. NK 790 €,Wohnfläche ca. 130 m²,Zi. 4,114,9
-15,selObject_44848585,Schönes 1-Zimmer-Appartement ca. 32 qm mit Bad/neue...,"['Apartment', '•', 'Augsburg', 'Lechhausen']",['EBK'],Miete zzgl. NK 375 €,Wohnfläche ca. 32 m²,Zi. 1,114,9
-16,selObject_44848567,"Großhadern- Nh. Klinikum, absolut ruhige, renovierte...","['Etagenwohnung', '•', 'München', 'Hadern']","['Balkon', 'Garten']",Miete zzgl. NK 990 €,Wohnfläche ca. 61 m²,Zi. 2,114,9
-17,selObject_44848527,Helle und großzügige Dachgeschosswohnung in ruhiger...,"['Dachgeschosswohnung', '•', 'Holzkirchen', 'Holzkirchen']",['EBK'],Miete zzgl. NK 820 €,Wohnfläche ca. 63 m²,Zi. 1,114,9
-18,selObject_44847739,Schöne ruhige Wohnung im Grünen,"['Etagenwohnung', '•', 'Nürnberg', 'Schoppershof']","['Balkon', 'EBK']",Miete zzgl. NK 625 €,Wohnfläche ca. 56 m²,Zi. 2,114,9
-19,selObject_44847520,Gemütliches 1-Zimmer Apartment in Nürnberg-Schweinau,"['Apartment', '•', 'Nürnberg', 'Schweinau']",[],Miete zzgl. NK 318 €,Wohnfläche ca. 25 m²,Zi. 1,114,9
-20,selObject_44847505,2-Zi.-Wohnung in Erlangen zu vermieten,"['Wohnung', '•', 'Erlangen', 'Büchenbach']","['Balkon', 'EBK']",Miete zzgl. NK 670 €,Wohnfläche ca. 71 m²,Zi. 2,114,9
-21,selObject_44847499,*Ausbildung*Praktikum*Referendariat* - möblierte Appar...,"['Apartment', '•', 'Ingolstadt', 'Ingolstadt']",['EBK'],Miete zzgl. NK 395 €,Wohnfläche ca. 22 m²,Zi. 1,114,9
-22,selObject_44847457,"** traumhafte 3,5-Zi.-Galerie-Whg. mit Dachterrasse im...","['Dachgeschosswohnung', '•', 'Erding', 'Erding']",[],Miete zzgl. NK 1.490 €,Wohnfläche ca. 150 m²,"Zi. 3,5",114,9
-23,selObject_44847417,ERSTBEZUG mit spannendem Grundriss!,"['Etagenwohnung', '•', 'München', 'Allach-Untermenzing']",['EBK'],Miete zzgl. NK 1.510 €,Wohnfläche ca. 75 m²,Zi. 3,114,9
-24,selObject_44847416,Ihr neues Zuhause in den Josefs Höfen,"['Etagenwohnung', '•', 'München', 'Allach-Untermenzing']",['EBK'],Miete zzgl. NK 1.445 €,Wohnfläche ca. 72 m²,Zi. 3,114,9
-25,selObject_44847414,Moderne Mietwohnung in Top Lage,"['Etagenwohnung', '•', 'München', 'Allach-Untermenzing']",['EBK'],Miete zzgl. NK 1.480 €,Wohnfläche ca. 76 m²,Zi. 3,114,9
-26,selObject_44847397,Gemütliches Studentenapartment direkt am Nordring,"['Apartment', '•', 'Nürnberg', 'Großreuth', 'h', 'd', 'Veste']",[],Miete zzgl. NK 315 €,Wohnfläche ca. 23 m²,Zi. 1,114,9
+0,selObject_44875792,Möbliertes 1-Zimmer-Apartment in Haidhausen,"[['Wohnung', '•', 'München']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.180 €,Wohnfläche ca. 27 m²,Zi. 1,114,9
+1,selObject_44875665,2-Zimmer-Wohnung im 5. Obergeschoss mit Einbauküche!,"[['Wohnung', '•', 'München', 'Au-Haidhausen']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.490 €,Wohnfläche ca. 59 m²,Zi. 2,114,9
+2,selObject_44875612,3 Zimmer Mietwohnung EG in MFH Haus / Tettenweis,"[['Etagenwohnung', '•', 'Tettenweis', 'Tettenweis']]",['EBK'],Miete zzgl. NK 758 €,Wohnfläche ca. 108 m²,Zi. 3,114,9
+3,selObject_44875605,Selbstständig im Alter - Renovierte 2-Zi.-Whg. mit...,"[['Etagenwohnung', '•', 'Nürnberg', 'Hummelstein']]",['Balkon'],Miete zzgl. NK 640 €,Wohnfläche ca. 61 m²,Zi. 2,114,9
+4,selObject_44875603,Frisch renovierte vier Zimmer-Wohnung in ruhiger Lage,"[['Wohnung', '•', 'Barbing', 'Barbing']]",['Balkon'],Miete zzgl. NK 820 €,Wohnfläche ca. 78 m²,Zi. 4,114,9
+5,selObject_44875585,Pferdehaltung möglich: Ebenerdige und sehr großzügige...,"[['Apartment', '•', 'Nabburg', 'Brudersdorf']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.100 €,Wohnfläche ca. 230 m²,Zi. 3,114,9
+6,selObject_44875529,3 Zi. Erdgeschosswohnung mit Einbauküche und Terrasse...,"[['Erdgeschosswohnung', '•', 'Landshut', 'Industriegebiet']]","['Garten', 'EBK']",Miete zzgl. NK 810 €,Wohnfläche ca. 76 m²,Zi. 3,114,9
+7,selObject_44875291,Großzügige Dachgeschoßwohnung mit freiem Blick in Stei...,"[['Dachgeschosswohnung', '•', 'Memmingen', 'Steinheim']]",['Balkon'],Miete zzgl. NK 1.000 €,Wohnfläche ca. 135 m²,Zi. 5,114,9
+8,selObject_44875289,N-Gärten h.d.Veste - Historisch wohnen in gemütlicher...,"[['Etagenwohnung', '•', 'Nürnberg', 'Gärten', 'h', 'd', 'Veste']]",['EBK'],Miete zzgl. NK 820 €,Wohnfläche ca. 91 m²,Zi. 4,114,9
+9,selObject_44875113,HELL UND FREUNDLICH - Geräumige 2-Zimmer-Wohnung mit...,"[['Wohnung', '•', 'Fraunberg', 'Tittenkofen']]",['Balkon'],Miete zzgl. NK 985 €,Wohnfläche ca. 75 m²,Zi. 2,114,9
+10,selObject_44875044,Hochwertige EG-Wohnung mit Garage in Scheyern/OT,"[['Erdgeschosswohnung', '•', 'Scheyern', 'Euernbach']]",['Garten'],Miete zzgl. NK 850 €,Wohnfläche ca. 98 m²,Zi. 4,114,9
+11,selObject_44875026,Exklusive 1-Zimmerwohnung mit Balkon (Nr.2) im ehemali...,"[['Erdgeschosswohnung', '•', 'Bayreuth', 'City']]","['Balkon', 'EBK']",Miete zzgl. NK 480 €,Wohnfläche ca. 36 m²,Zi. 1,114,9
+12,selObject_44875021,Exklusive 2-Zimmer Maisonette-Wohnung mit historischen...,"[['Wohnung', '•', 'Bayreuth', 'City']]",['EBK'],Miete zzgl. NK 735 €,Wohnfläche ca. 60 m²,Zi. 2,114,9
+13,selObject_44874807,Schönes 1-Zimmer-Appartement mit modernem Bad im Rückg...,"[['Apartment', '•', 'Fürth', 'Südstadt']]",[],Miete zzgl. NK 375 €,Wohnfläche ca. 40 m²,Zi. 1,114,9
+14,selObject_44874777,Hochwertige 2-Zimmer-Wohnung Nähe Hbf,"[['Etagenwohnung', '•', 'Ingolstadt', 'Ingolstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 900 €,Wohnfläche ca. 75 m²,Zi. 2,114,9
+15,selObject_44874344,Voll möbliertes Appartement am Luitpoldpark in U-Bahn-...,"[['Etagenwohnung', '•', 'München', 'Schwabing-West']]",['EBK'],Miete zzgl. NK 899 €,Wohnfläche ca. 26 m²,Zi. 1,114,9
+16,selObject_44873876,NEUBAU: Exclusive 2- und 3-Zimmer-Wohnungen mit Balkon...,"[['Wohnung', '•', 'Regensburg', 'Westenviertel']]","['Balkon', 'Garten']","Miete zzgl. NK 992,38 €",Wohnfläche ca. 68 m²,Zi. 3,114,9
+17,selObject_44873868,"WG Zimmer, Passau","[['Zimmer', '•', 'Passau', 'Haidenhof-Nord']]",[],"Miete zzgl. NK 304,50 €",Wohnfläche ca. 11 m²,,114,9
+18,selObject_44873863,"Großzügige, grundrenovierte und helle Einzimmerwohnung...","[['Apartment', '•', 'München', 'Neuhausen-Nymphenburg']]","['Balkon', 'EBK']",Miete zzgl. NK 1.160 €,Wohnfläche ca. 55 m²,Zi. 1,114,9
+19,selObject_44873862,5-Zi.-Wohnung in Weiden in der Oberpfalz zu vermieten,"[['Wohnung', '•', 'Weiden', 'Rothenstadt']]","['Balkon', 'Garten']",Miete zzgl. NK 1.060 €,Wohnfläche ca. 156 m²,Zi. 5,114,9
+20,selObject_44873802,"MIO LS46 2 Zimmer, Ankleide und Balkon","[['Etagenwohnung', '•', 'Aschaffenburg', 'Damm']]",[],Miete zzgl. NK 776 €,Wohnfläche ca. 65 m²,Zi. 2,114,9
+21,selObject_44873797,UNITY - Attraktives Studenten-Apartment im NEUBAU - in...,"[['Etagenwohnung', '•', 'München', 'Pasing-Obermenzing']]",['EBK'],Miete zzgl. NK 660 €,Wohnfläche ca. 28 m²,Zi. 1,114,9
+22,selObject_44873778,"Charmante 2,5 Zimmer Wohnug","[['Penthouse', '•', 'Riedenburg', 'Riedenburg']]",['EBK'],Miete zzgl. NK 630 €,Wohnfläche ca. 75 m²,"Zi. 2,5",114,9
+23,selObject_44873714,Wunderschöne Dachwohnung in stadtnaher Lage,"[['Dachgeschosswohnung', '•', 'Randersacker', 'Randersacker']]",[],Miete zzgl. NK 810 €,Wohnfläche ca. 85 m²,Zi. 2,114,9
+24,selObject_44873702,"Perfekte Aufteilung auf 88,5 m² und 3 Zimmer. Hier ist...","[['Wohnung', '•', 'Regensburg', 'Großprüfening-Dechbetten-Königswiesen']]","['Balkon', 'EBK']",Miete zzgl. NK 940 €,Wohnfläche ca. 88 m²,Zi. 3,114,9
+25,selObject_44873689,"Exkl 4-Zi-Penthouse-Whg mit 113 m² Wfl. im 3. Stock,...","[['Penthouse', '•', 'Fürth', 'Dambach']]",['EBK'],Miete zzgl. NK 1.530 €,Wohnfläche ca. 113 m²,Zi. 4,114,9
+26,selObject_44873643,NUR für Studenten: Apartment Nähe FH / Audi,"[['Apartment', '•', 'Ingolstadt', 'Ingolstadt']]",[],Miete zzgl. NK 390 €,Wohnfläche ca. 25 m²,Zi. 1,114,9

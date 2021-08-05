@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44912196,"Direkt an der Alster, möblierte 2 Zimmer Wohnung, Balk...","['Wohnung', '•', 'Hamburg', 'Hohenfelde']","['Balkon', 'EBK']",Miete zzgl. NK 1.166 €,Wohnfläche ca. 52 m²,Zi. 2,21,2
-1,selObject_44911004,***Wunderschöne 2-Zimmerwohnung***,"['Etagenwohnung', '•', 'Hamburg', 'Stellingen']","['Balkon', 'EBK']","Miete zzgl. NK 917,79 €",Wohnfläche ca. 65 m²,Zi. 2,21,2
-2,selObject_44910340,NEUBAU - Edel und schick in begehrter Wohnlage!,"['Wohnung', '•', 'Hamburg', 'Eißendorf']","['Balkon', 'EBK']",Miete zzgl. NK 1.295 €,Wohnfläche ca. 97 m²,Zi. 3,21,2
-3,selObject_44910308,Hochwertig renovierte Altbauwohnung im Herzen Harburgs,"['Etagenwohnung', '•', 'Hamburg', 'Harburg']","['Balkon', 'EBK']",Miete zzgl. NK 1.100 €,Wohnfläche ca. 95 m²,Zi. 4,21,2
-4,selObject_44908840,"Barrierefreies, möbliertes Apartment 32qm Hamburg/Harb...","['Apartment', '•', 'Hamburg', 'Harburg']",[],Miete inkl. NK 690 €,Wohnfläche ca. 32 m²,,21,2
-5,selObject_44908819,moderne 2-Zimmer-Wohnung mit Balkon,"['Wohnung', '•', 'Hamburg', 'Bergedorf']","['Balkon', 'EBK']","Miete zzgl. NK 664,26 €",Wohnfläche ca. 60 m²,Zi. 2,21,2
-6,selObject_44908636,Gut geschnittene 2 Zimmerwohnung in Hamburg-Schnelsen...,"['Erdgeschosswohnung', '•', 'Hamburg', 'Schnelsen']","['Balkon', 'EBK']",Miete zzgl. NK 675 €,Wohnfläche ca. 54 m²,Zi. 2,21,2
-7,selObject_44908472,"Für maximal 2 Personen: Ruhig, hell und gemütlich -...","['Etagenwohnung', '•', 'Hamburg', 'Rahlstedt']","['Balkon', 'EBK']",Miete zzgl. NK 1.175 €,Wohnfläche ca. 94 m²,"Zi. 3,5",21,2
-8,selObject_44908065,"Erstbezug nach Sanierung, 3 Zimmer","['Apartment', '•', 'Hamburg', 'Rahlstedt']","['Balkon', 'EBK']",Miete zzgl. NK 1.130 €,Wohnfläche ca. 78 m²,Zi. 3,21,2
-9,selObject_44907954,Renovierte 1-Zimmer Wohnung in Langenhorn!,"['Etagenwohnung', '•', 'Hamburg', 'Langenhorn']",['EBK'],Miete zzgl. NK 453 €,Wohnfläche ca. 40 m²,Zi. 1,21,2
-10,selObject_44907588,DREAMHOUSE Immobilien: Frisch renoviertes Stadtapartme...,"['Apartment', '•', 'Hamburg', 'Borgfelde']",['Balkon'],Miete zzgl. NK 990 €,Wohnfläche ca. 56 m²,Zi. 2,21,2
-11,selObject_44907583,Möblierte Dachgeschosswohnung (2.OG) im ruhigen Hambur...,"['Wohnung', '•', 'Hamburg', 'Farmsen-Berne']",[],Miete zzgl. NK 784 €,Wohnfläche ca. 50 m²,Zi. 2,21,2
-12,selObject_44907391,1 Zimmer für Mitbewohner/in in 2- er WG in schöner...,"['Zimmer', '•', 'Hamburg', 'Lokstedt']",['EBK'],Miete inkl. NK 515 €,Wohnfläche ca. 17 m²,,21,2
-13,selObject_44906977,Frisch sanierte Wohnung mit fantastischem Elbblick in...,"['Etagenwohnung', '•', 'Hamburg', 'Othmarschen']","['Balkon', 'EBK']",Miete zzgl. NK 2.900 €,Wohnfläche ca. 162 m²,Zi. 4,21,2
-14,selObject_44906835,Traumhaft ruhig und im Grünen gelegene möblierte 2...,"['Etagenwohnung', '•', 'Hamburg', 'Groß', 'Flottbek']",['EBK'],Miete zzgl. NK 730 €,Wohnfläche ca. 40 m²,Zi. 2,21,2
-15,selObject_44906689,"Gemütliche 2,5-Zimmer-Wohnung mit Tiefgaragenstellplat...","['Dachgeschosswohnung', '•', 'Hamburg', 'Niendorf']","['Balkon', 'EBK']",Miete zzgl. NK 1.050 €,Wohnfläche ca. 80 m²,"Zi. 2,5",21,2
-16,selObject_44906629,Alsterdorf 2 Zimmer Wohnung ohne Balkon,"['Dachgeschosswohnung', '•', 'Hamburg', 'Alsterdorf']",['EBK'],Miete zzgl. NK 782 €,Wohnfläche ca. 68 m²,Zi. 2,21,2
-17,selObject_44906519,4 Zimmerwohnung in schöner ruhiger Lage,"['Etagenwohnung', '•', 'Hamburg', 'Heimfeld']","['Balkon', 'EBK']",Miete zzgl. NK 1.450 €,Wohnfläche ca. 133 m²,Zi. 4,21,2
-18,selObject_44906480,Mühlenkamp in Winterhude !,"['Etagenwohnung', '•', 'Hamburg', 'Winterhude']",['Balkon'],Miete zzgl. NK 950 €,Wohnfläche ca. 78 m²,Zi. 3,21,2
-19,selObject_44906106,"Moderne 3-Zi. Whg. in Jugendstilvilla, Alt-Rahlstedt.","['Etagenwohnung', '•', 'Hamburg', 'Rahlstedt']","['Balkon', 'EBK']",Miete zzgl. NK 1.100 €,Wohnfläche ca. 90 m²,Zi. 3,21,2
-20,selObject_44905766,"Erstbezug, umfassend modernisiert, Einbauküche, Balkon...","['Etagenwohnung', '•', 'Hamburg', 'Barmbek-Süd']","['Balkon', 'EBK']",Miete zzgl. NK 700 €,Wohnfläche ca. 39 m²,Zi. 1,21,2
-21,selObject_44905742,Lichtdurchflutete Galeriewohnung im Dachgeschoss,"['Dachgeschosswohnung', '•', 'Hamburg', 'Ohlsdorf']",[],Miete zzgl. NK 1.196 €,Wohnfläche ca. 77 m²,"Zi. 2,5",21,2
-22,selObject_44905628,"""Erstbezug"" - Neubau in Eppendorf - 3 Zi.-Dachgeschoß...","['Wohnung', '•', 'Hamburg', 'Eppendorf']","['Balkon', 'EBK']",Miete zzgl. NK 1.995 €,Wohnfläche ca. 82 m²,Zi. 3,21,2
-23,selObject_44905423,Schöne 2-Zimmer Dachgeschosswohnung mit Balkon in...,"['Dachgeschosswohnung', '•', 'Hamburg', 'Barmbek-Nord']","['Balkon', 'EBK']",Miete zzgl. NK 930 €,Wohnfläche ca. 78 m²,Zi. 2,21,2
-24,selObject_44904847,Sie suchen eine schöne Wohnung zum wohlfühlen?,"['Etagenwohnung', '•', 'Hamburg', 'Rahlstedt']","['Balkon', 'EBK']","Miete zzgl. NK 479,40 €",Wohnfläche ca. 65 m²,Zi. 2,21,2
-25,selObject_44904677,Lichtdurchflutetes Wohnen mitten in Volksdorf,"['Penthouse', '•', 'Hamburg', 'Volksdorf']",['EBK'],Miete zzgl. NK 2.450 €,Wohnfläche ca. 220 m²,Zi. 4,21,2
-26,selObject_44904378,Studenten-WG - Einzelzimmervermietung - möbliert in...,"['Zimmer', '•', 'Hamburg', 'Eimsbüttel']","['Balkon', 'Garten', 'EBK']",Miete inkl. NK 620 €,Wohnfläche ca. 16 m²,,21,2
+0,selObject_44939364,Frisch sanierte Wohnung mit Umzugsbonus sichern,"[['Etagenwohnung', '•', 'Hamburg', 'Heimfeld']]",['EBK'],Miete zzgl. NK 858 €,Wohnfläche ca. 78 m²,Zi. 2,21,2
+1,selObject_44939353,Möblierte Einliegerwohnung in sehr ruhiger Wohngegend...,"[['Wohnung', '•', 'Hamburg', 'Wilhelmsburg']]",[],Miete zzgl. NK 1.000 €,Wohnfläche ca. 80 m²,Zi. 3,21,2
+2,selObject_44939287,"umfassend modernisiert, Einbauküche, Vollbad, Balkon","[['Etagenwohnung', '•', 'Hamburg', 'Barmbek-Süd']]","['Balkon', 'EBK']","Miete zzgl. NK 826,74 €",Wohnfläche ca. 53 m²,Zi. 2,21,2
+3,selObject_44939242,Winterhude 2 Zimmer Wohnung,"[['Etagenwohnung', '•', 'Hamburg', 'Winterhude']]",['EBK'],Miete zzgl. NK 770 €,Wohnfläche ca. 48 m²,Zi. 2,21,2
+4,selObject_44939238,2_41 - Raum fürs Familienglück in der Hafencity!,"[['Etagenwohnung', '•', 'Hamburg', 'HafenCity']]","['Balkon', 'EBK']",Miete zzgl. NK 1.983 €,Wohnfläche ca. 144 m²,Zi. 4,21,2
+5,selObject_44939203,Winterhude 2 Zimmer Wohnung,"[['Etagenwohnung', '•', 'Hamburg', 'Winterhude']]",[],Miete zzgl. NK 672 €,Wohnfläche ca. 48 m²,Zi. 2,21,2
+6,selObject_44939144,"Wer sucht, der findet 3 Zi.-EG-Wohnung mit Terrasse","[['Erdgeschosswohnung', '•', 'Hamburg', 'Bramfeld']]","['Balkon', 'EBK']","Miete zzgl. NK 1.043,23 €",Wohnfläche ca. 90 m²,Zi. 3,21,2
+7,selObject_44938405,"Kernsanierte 2,5 Zimmer Wohnung in Wandsbek sofort...","[['Erdgeschosswohnung', '•', 'Hamburg', 'Wandsbek']]",['EBK'],Miete zzgl. NK 823 €,Wohnfläche ca. 61 m²,"Zi. 2,5",21,2
+8,selObject_44938048,"Hamburg-Neugraben-Fischbek -Vermietung einer 3 Zimmer,...","[['Etagenwohnung', '•', 'Hamburg', 'Hausbruch']]",['Balkon'],Miete zzgl. NK 950 €,Wohnfläche ca. 86 m²,Zi. 3,21,2
+9,selObject_44935601,"Tolle 3,5-Zimmer Penthousewohnung mit Wohnküche und...","[['Etagenwohnung', '•', 'Hamburg', 'Wandsbek']]","['Balkon', 'EBK']",Miete zzgl. NK 1.216 €,Wohnfläche ca. 90 m²,"Zi. 3,5",21,2
+10,selObject_44935587,MODERNE 2 Zimmer Wohnung mit Terrasse in ruhiger Lage!,"[['Erdgeschosswohnung', '•', 'Hamburg', 'Wandsbek']]",['EBK'],Miete zzgl. NK 887 €,Wohnfläche ca. 66 m²,Zi. 2,21,2
+11,selObject_44935366,*** RESERVIERT *** ERSTBEZUG nach KOMPLETTSANIERUNG!...,"[['Erdgeschosswohnung', '•', 'Hamburg', 'Wellingsbüttel']]",['EBK'],Miete zzgl. NK 975 €,Wohnfläche ca. 65 m²,Zi. 3,21,2
+12,selObject_44935329,Hochwertig renovierte 2-Zi-Dachgeschosswohnung in Harv...,"[['Wohnung', '•', 'Hamburg', 'Eimsbüttel']]",['EBK'],Miete inkl. NK 1.330 €,Wohnfläche ca. 48 m²,Zi. 2,21,2
+13,selObject_44934707,Hoch hinaus und weit geschaut: gepflegte 2-Zi.-Whg. im...,"[['Etagenwohnung', '•', 'Hamburg', 'Wilstorf']]","['Balkon', 'EBK']",Miete zzgl. NK 500 €,Wohnfläche ca. 59 m²,Zi. 2,21,2
+14,selObject_44934641,Zum 01.09.2021: 3-Zimmer-DG-Wohnung (ohne Aufzug!) zu...,"[['Dachgeschosswohnung', '•', 'Hamburg', 'Schnelsen']]",['Balkon'],Miete zzgl. NK 845 €,Wohnfläche ca. 87 m²,Zi. 3,21,2
+15,selObject_44933493,"""Altes Zollhaus"" 2-Zimmer Dachgeschosswohnung in Hambu...","[['Dachgeschosswohnung', '•', 'Hamburg', 'Langenhorn']]",['EBK'],Miete zzgl. NK 580 €,Wohnfläche ca. 46 m²,Zi. 2,21,2
+16,selObject_44933303,Da kommt man gern Heim. günstig geschnittene 3-Zi.-Woh...,"[['Etagenwohnung', '•', 'Hamburg', 'Hamm']]",['Balkon'],"Miete zzgl. NK 750,65 €",Wohnfläche ca. 70 m²,Zi. 3,21,2
+17,selObject_44932172,Grosszügiges Wohnen in der Fährhausstrasse,"[['Wohnung', '•', 'Hamburg', 'Uhlenhorst']]","['Balkon', 'EBK']",Miete zzgl. NK 1.620 €,Wohnfläche ca. 108 m²,Zi. 3,21,2
+18,selObject_44928878,3-Zi.-Whg. mit Lift und Balkon in Hamburg NUR mit Wohn...,"[['Apartment', '•', 'Hamburg', 'Neugraben-Fischbek']]","['Balkon', 'EBK']",Miete zzgl. NK 610 €,Wohnfläche ca. 60 m²,Zi. 3,21,2
+19,selObject_44928753,Lichtdurchflutete 3-Zimmer-Wohnung mit herrlichem Elbb...,"[['Etagenwohnung', '•', 'Hamburg', 'Othmarschen']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 2.570 €,Wohnfläche ca. 117 m²,Zi. 3,21,2
+20,selObject_44928045,3-Zi.-Wohnung im 3. OG in zentraler Wohnlage von Hambu...,"[['Wohnung', '•', 'Hamburg', 'Harburg']]","['Balkon', 'EBK']",Miete zzgl. NK 490 €,Wohnfläche ca. 69 m²,Zi. 3,21,2
+21,selObject_44928038,Gemütliche 3-Zi.-Wohnung im 1.OG in Hamburg/Stellingen,"[['Etagenwohnung', '•', 'Hamburg', 'Stellingen']]",['EBK'],Miete zzgl. NK 818 €,Wohnfläche ca. 71 m²,Zi. 3,21,2
+22,selObject_44927588,2 Zimmer Wohnung Eimsbüttel - Eppendorfer Weg Besicht...,"[['Wohnung', '•', 'Hamburg', 'Eimsbüttel']]",[],Miete zzgl. NK 668 €,Wohnfläche ca. 47 m²,Zi. 2,21,2
+23,selObject_44927515,Helle und renovierte 1 Zimmerwohnung mit Tiefgaragenst...,"[['Etagenwohnung', '•', 'Hamburg', 'Lohbrügge']]",[],Miete zzgl. NK 360 €,Wohnfläche ca. 28 m²,Zi. 1,21,2
+24,selObject_44927073,Lichtdurchflutete 1 Zimmerwohnung in Hamburg-Jenfeld,"[['Etagenwohnung', '•', 'Hamburg', 'Jenfeld']]","['Balkon', 'EBK']","Miete zzgl. NK 616,36 €",Wohnfläche ca. 40 m²,Zi. 1,21,2
+25,selObject_44927072,Wohnung sucht neue Mieter .........,"[['Etagenwohnung', '•', 'Hamburg', 'Wandsbek']]","['Balkon', 'EBK']",Miete zzgl. NK 601 €,Wohnfläche ca. 60 m²,Zi. 2,21,2
+26,selObject_44926944,Schönes Reihenhaus in Eidelstedt!,"[['Wohnung', '•', 'Hamburg', 'Eidelstedt']]","['Garten', 'EBK']","Miete zzgl. NK 1.419,49 €",Wohnfläche ca. 127 m²,Zi. 4,21,2

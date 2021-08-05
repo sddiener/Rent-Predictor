@@ -954,3 +954,54 @@ JavaScript error: https://app.usercentrics.eu/browser-ui/latest/bundle.js, line 
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1628194238052	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\stefan\\AppData\\Local\\Temp\\rust_mozprofile15Jkme"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1628194240088	Marionette	INFO	Listening on port 57450
+1628194240197	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628194930203	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\stefan\\AppData\\Local\\Temp\\rust_mozprofileE2ly2s"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1628194931422	Marionette	INFO	Listening on port 54547
+1628194931749	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628195482952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\stefan\\AppData\\Local\\Temp\\rust_mozprofileaR2Jhu"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1628195484224	Marionette	INFO	Listening on port 58133
+1628195484498	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1628196778020	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\stefan\\AppData\\Local\\Temp\\rust_mozprofilefgcPVH"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1628196779532	Marionette	INFO	Listening on port 52060
+1628196779570	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://app.usercentrics.eu/browser-ui/latest/bundle.js, line 15: GVLError: aborted
+JavaScript error: https://immonetlive.cleverpush.com/iframe?origin=https%3A%2F%2Fwww.immonet.de, line 9: ChunkLoadError: Loading chunk 173 failed.
+(error: https://static.cleverpush.com/sdk/chunk/173.js)
+JavaScript error: https://immonetlive.cleverpush.com/iframe?origin=https%3A%2F%2Fwww.immonet.de, line 9: ChunkLoadError: Loading chunk 5 failed.
+(error: https://static.cleverpush.com/sdk/chunk/5.js)
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://app.usercentrics.eu/browser-ui/latest/bundle.js, line 15: GVLError: aborted
+JavaScript error: https://app.usercentrics.eu/browser-ui/latest/bundle.js, line 15: GVLError: aborted
+JavaScript error: https://static.cleverpush.com/channel/loader/hLzkoHG72aAXcihPE.js, line 2: ChunkLoadError: Loading chunk 5 failed.
+(error: https://static.cleverpush.com/sdk/chunk/5.js)
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://app.usercentrics.eu/browser-ui/latest/bundle.js, line 15: GVLError: aborted
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: https://app.usercentrics.eu/browser-ui/latest/bundle.js, line 15: GVLError: aborted
+JavaScript error: https://static.cleverpush.com/channel/loader/hLzkoHG72aAXcihPE.js, line 2: ChunkLoadError: Loading chunk 345 failed.
+(error: https://static.cleverpush.com/sdk/chunk/345.js)
+1628200241092	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\stefan\\AppData\\Local\\Temp\\rust_mozprofileF9VU7S"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1628200242370	Marionette	INFO	Listening on port 62911
+1628200242639	Marionette	WARN	TLS certificate errors will be ignored for this session

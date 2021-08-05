@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44914302,2-Zimmer Neubau-Wohnung im Gartengeschoß mit Freisitz...,"['Wohnung', '•', 'Waldshut-Tiengen', 'Waldkirch']","['Garten', 'EBK']",Miete zzgl. NK 860 €,Wohnfläche ca. 86 m²,Zi. 2,48,8
-1,selObject_44914285,"3-Zimmer-Wohnung in Öhringen (Limespark) | inkl. EBK,...","['Wohnung', '•', 'Öhringen', 'Öhringen']","['Balkon', 'EBK']",Miete zzgl. NK 960 €,Wohnfläche ca. 88 m²,Zi. 3,48,8
-2,selObject_44914183,*** Schicke 2-Zimmer Wohnung im Batschari Palais in...,"['Wohnung', '•', 'Baden-Baden', 'Innenstadt']","['Balkon', 'EBK']",Miete zzgl. NK 830 €,Wohnfläche ca. 75 m²,Zi. 2,48,8
-3,selObject_44914025,"Helle und großzügige 4,5-Zi.-Wohnung mit Rheinblick","['Apartment', '•', 'Waldshut-Tiengen', 'Waldshut']","['Balkon', 'EBK']",Miete zzgl. NK 1.200 €,Wohnfläche ca. 120 m²,"Zi. 4,5",48,8
-4,selObject_44914026,Exklusives 110qm voll möbliertes Penthaus Loft im 2....,"['Loft-Studio-Atelier', '•', 'St.', 'Leon-Rot', 'Rot']",['EBK'],Miete zzgl. NK 1.000 €,Wohnfläche ca. 110 m²,Zi. 1,48,8
-5,selObject_44913955,Helle geräumige Wohnung,"['Etagenwohnung', '•', 'Kusterdingen', 'Mähringen']","['Balkon', 'EBK']",Miete zzgl. NK 1.100 €,Wohnfläche ca. 111 m²,"Zi. 4,5",48,8
-6,selObject_44913951,"4 Zimmer, 100qm, kalt 880.- nur 120€ Nebenkosten","['Etagenwohnung', '•', 'Karlsruhe', 'Knielingen']","['Balkon', 'EBK']",Miete zzgl. NK 880 €,Wohnfläche ca. 102 m²,Zi. 4,48,8
-7,selObject_44913915,"Helle, lichtdurchflutete, frisch renovierte 3,5 Zi...","['Etagenwohnung', '•', 'Stuttgart', 'Botnang']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.350 €,Wohnfläche ca. 93 m²,"Zi. 3,5",48,8
-8,selObject_44913726,Komplett modernisierte 3-Zimmer-Wohnung mit großem...,"['Erdgeschosswohnung', '•', 'Mannheim', 'Neckarau']",['Balkon'],Miete zzgl. NK 630 €,Wohnfläche ca. 71 m²,Zi. 3,48,8
-9,selObject_44913698,"Modernisierte 4,5 Zimmer-Wohnung mit schöner Aussicht","['Etagenwohnung', '•', 'Stuttgart', 'Freiberg']",[],"Miete zzgl. NK 1.517,29 €",Wohnfläche ca. 113 m²,"Zi. 4,5",48,8
-10,selObject_44913669,Wohnglück - interessante 2-Zi.-Wohnung,"['Etagenwohnung', '•', 'Heidenheim', 'Innenstadt']",[],"Miete zzgl. NK 361,74 €",Wohnfläche ca. 43 m²,Zi. 2,48,8
-11,selObject_44913615,Schöne vier Zimmer Wohnung mit flair,"['Erdgeschosswohnung', '•', 'Tübingen', 'Derendingen']","['Balkon', 'EBK']",Miete zzgl. NK 1.200 €,Wohnfläche ca. 106 m²,Zi. 4,48,8
-12,selObject_44913611,"Ruhige 2,5-Zimmer-Maisonette-Wohnung in Immenstaad","['Dachgeschosswohnung', '•', 'Immenstaad', 'Immenstaad']",['EBK'],Miete zzgl. NK 710 €,Wohnfläche ca. 57 m²,"Zi. 2,5",48,8
-13,selObject_44913596,Attraktiv und ruhig wohnen in Heiningen,"['Wohnung', '•', 'Heiningen']","['Garten', 'EBK']",Miete zzgl. NK 800 €,Wohnfläche ca. 95 m²,Zi. 3,48,8
-14,selObject_44913435,"kleine, feine Mietwohnung mitten im Zentrum mit Balkon","['Dachgeschosswohnung', '•', 'Villingen-Schwenningen', 'Schwenningen']","['Balkon', 'EBK']",Miete zzgl. NK 600 €,Wohnfläche ca. 55 m²,"Zi. 2,5",48,8
-15,selObject_44912583,Grenzach-Wyhlen - Wohnung mit 2 Balkonen im 1. Oberges...,"['Wohnung', '•', 'Grenzach-Wyhlen', 'Wyhlen']","['Balkon', 'EBK']",Miete zzgl. NK 1.100 €,Wohnfläche ca. 98 m²,"Zi. 4,5",48,8
-16,selObject_44911266,Gemütliche Terrassenwohnung in Hd-Ziegelhausen,"['Wohnung', '•', 'Heidelberg', 'Bergheim']","['Garten', 'EBK']",Miete zzgl. NK 500 €,Wohnfläche ca. 50 m²,Zi. 2,48,8
-17,selObject_44911262,Sehr gepflegt und komplett ausgestattet,"['Erdgeschosswohnung', '•', 'Stuttgart', 'Vaihingen']",[],Miete zzgl. NK 620 €,Wohnfläche ca. 44 m²,Zi. 2,48,8
-18,selObject_44910973,Keltern: Geräumiges Apartment nahe Pforzheim,"['Wohnung', '•', 'Keltern', 'Dietlingen']",[],Miete zzgl. NK 595 €,Wohnfläche ca. 41 m²,Zi. 1,48,8
-19,selObject_44910970,"Mannheim-Oststadt: Schöne 1,5-Zimmer Wohnung Nähe Luis...","['Wohnung', '•', 'Mannheim', 'Oststadt']",[],Miete zzgl. NK 519 €,Wohnfläche ca. 43 m²,Zi. 1,48,8
-20,selObject_44910969,Mannheim-Lindenhof: Großzügige Wohnung bis 4 Personen...,"['Wohnung', '•', 'Mannheim', 'Lindenhof']",[],Miete zzgl. NK 1.310 €,Wohnfläche ca. 133 m²,Zi. 3,48,8
-21,selObject_44910966,Mannheim-Lindenhof: Großzügige Wohnung bis 4 Personen...,"['Wohnung', '•', 'Mannheim', 'Lindenhof']",[],Miete zzgl. NK 1.310 €,Wohnfläche ca. 133 m²,Zi. 3,48,8
-22,selObject_44910961,Mannheim-Lindenhof: Großzügige Wohnung bis 4 Personen...,"['Wohnung', '•', 'Mannheim', 'Lindenhof']",[],Miete zzgl. NK 1.310 €,Wohnfläche ca. 133 m²,Zi. 3,48,8
-23,selObject_44910541,Besser wohnen in...,"['Etagenwohnung', '•', 'Stuttgart', 'Vaihingen']","['Balkon', 'EBK']",Miete zzgl. NK 750 €,Wohnfläche ca. 60 m²,Zi. 2,48,8
-24,selObject_44910092,"3,5-Zimmer-Wohnung mit Tageslicht-Wannenbad und Balkon","['Wohnung', '•', 'Uhingen', 'Uhingen']",['Balkon'],Miete zzgl. NK 900 €,Wohnfläche ca. 73 m²,"Zi. 3,5",48,8
-25,selObject_44909367,Neubau: Modernes 4-Zimmer-Penthouse,"['Penthouse', '•', 'Villingen-Schwenningen', 'Schwenningen']",['EBK'],"Miete zzgl. NK 1.006,20 €",Wohnfläche ca. 112 m²,Zi. 4,48,8
-26,selObject_44909285,"Viel Platz für die Familie - 4,5-Zimmerwohnung in ruhi...","['Etagenwohnung', '•', 'Gingen']",['Balkon'],Miete zzgl. NK 800 €,Wohnfläche ca. 101 m²,"Zi. 4,5",48,8
+0,selObject_44950658,Zentral: 3 - ZKB Wohung in Tamm Info:0171-7130128,"[['Etagenwohnung', '•', 'Tamm']]",['Balkon'],Miete zzgl. NK 860 €,Wohnfläche ca. 94 m²,Zi. 3,48,8
+1,selObject_44950434,Zentral: 3 - ZKB Wohung in Tamm Info:0171-7130128,"[['Etagenwohnung', '•', 'Tamm']]",['Balkon'],Miete zzgl. NK 860 €,Wohnfläche ca. 95 m²,Zi. 3,48,8
+2,selObject_44950086,"3-Zimmer-Wohnung - EBK, TLB, Balkon, TGS - Bezugsferti...","[['Wohnung', '•', 'Ostfildern', 'Nellingen']]","['Balkon', 'EBK']",Miete zzgl. NK 1.280 €,Wohnfläche ca. 93 m²,Zi. 3,48,8
+3,selObject_44949879,Ansprechende 4-Zimmer-Wohnung (WBS),"[['Etagenwohnung', '•', 'Ulm', 'Wiblingen']]",['Balkon'],"Miete zzgl. NK 570,95 €",Wohnfläche ca. 97 m²,"Zi. 4,5",48,8
+4,selObject_44949872,"4,5 Zimmer Maisonette-Wohnung, mit Blick auf die Weinb...","[['Maisonette', '•', 'Pfaffenweiler']]","['Balkon', 'EBK']",Miete zzgl. NK 1.885 €,Wohnfläche ca. 150 m²,"Zi. 4,5",48,8
+5,selObject_44949853,helles spatzen-netz im herzen von ulm,"[['Wohnung', '•', 'Ulm', 'Mitte']]","['Garten', 'EBK']",Miete zzgl. NK 590 €,Wohnfläche ca. 45 m²,Zi. 2,48,8
+6,selObject_44949673,"einmalige, helle Dachgeschosswohnung, ein großer Raum","[['Dachgeschosswohnung', '•', 'Villingen-Schwenningen', 'Marbach']]",['EBK'],Miete zzgl. NK 590 €,Wohnfläche ca. 89 m²,"Zi. 1,5",48,8
+7,selObject_44949582,"3,5 Zimmer Maisonette nähe Marktplatz","[['Maisonette', '•', 'Villingen-Schwenningen', 'Schwenningen']]",['EBK'],Miete zzgl. NK 850 €,Wohnfläche ca. 92 m²,"Zi. 3,5",48,8
+8,selObject_44949581,"Mitten im Zentrum gemütliche 2,5 Maisonette mit 2 Balk...","[['Maisonette', '•', 'Villingen-Schwenningen', 'Villingen']]","['Balkon', 'EBK']",Miete zzgl. NK 900 €,Wohnfläche ca. 93 m²,"Zi. 2,5",48,8
+9,selObject_44949323,möblierte 2 Zi. Dachterassenwohnung mit Fernsicht in...,"[['Dachgeschosswohnung', '•', 'Herrenberg', 'Herrenberg']]",['EBK'],Garagen-/Stellplatzmiete 50 €,Wohnfläche ca. 50 m²,Zi. 2,48,8
+10,selObject_44949058,4 Zimmerwohnung/Penthouse-Super Lage!,"[['Penthouse', '•', 'Müllheim', 'Müllheim']]",['Balkon'],Miete zzgl. NK 1.150 €,Wohnfläche ca. 108 m²,Zi. 4,48,8
+11,selObject_44948503,"Toplage: alles neu, mit eigenem Garten, Parkplatz und...","[['Erdgeschosswohnung', '•', 'Stuttgart', 'Bad', 'Cannstatt']]","['Garten', 'EBK']",Miete zzgl. NK 699 €,Wohnfläche ca. 37 m²,"Zi. 1,5",48,8
+12,selObject_44948424,Großzügiges Wohnen mit Terrasse und Garten - 3 Zi. in...,"[['Wohnung', '•', 'Pforzheim', 'Südweststadt']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.250 €,Wohnfläche ca. 91 m²,Zi. 3,48,8
+13,selObject_44948102,"Ruhige, große 3-Zimmer Neubau Wohnung im 1 OG mit sonn...","[['Wohnung', '•', 'Waldshut-Tiengen', 'Waldkirch']]","['Balkon', 'EBK']",Miete zzgl. NK 1.070 €,Wohnfläche ca. 107 m²,Zi. 3,48,8
+14,selObject_44948073,Wohnen über den Dächern Tuttlingens direkt am Honberg,"[['Wohnung', '•', 'Tuttlingen', 'Tuttlingen']]",['EBK'],Miete zzgl. NK 1.220 €,Wohnfläche ca. 104 m²,"Zi. 5,5",48,8
+15,selObject_44947994,2-Zimmer-Wohnung mit Tageslichtbad und Balkon,"[['Wohnung', '•', 'Ludwigsburg', 'Oßweil']]",['Balkon'],Miete zzgl. NK 540 €,Wohnfläche ca. 54 m²,Zi. 2,48,8
+16,selObject_44947991,Niederfeld - 2-Zimmer-Wohnung von privat bezugsfertig...,"[['Wohnung', '•', 'Mannheim', 'Neckarau']]",['Garten'],Miete zzgl. NK 690 €,Wohnfläche ca. 70 m²,"Zi. 1,5",48,8
+17,selObject_44947511,"Exklusive, 4-Zimmer-Neubauwohnung in Hanglage mit Dach...","[['Wohnung', '•', 'Stuttgart', 'Bad', 'Cannstatt']]","['Balkon', 'EBK']",Miete zzgl. NK 2.000 €,Wohnfläche ca. 135 m²,Zi. 4,48,8
+18,selObject_44947500,große Penthouse Wohnung,"[['Penthouse', '•', 'Villingen-Schwenningen', 'Schwenningen']]",['EBK'],Miete zzgl. NK 1.400 €,Wohnfläche ca. 204 m²,"Zi. 4,5",48,8
+19,selObject_44947291,Möblierte 1-Zimmer-Wohnung mit Balkon und EBK in Stutt...,"[['Wohnung', '•', 'Stuttgart', 'Möhringen']]","['Balkon', 'EBK']",Miete zzgl. NK 670 €,Wohnfläche ca. 33 m²,Zi. 1,48,8
+20,selObject_44947048,"Erstbezug! 1,5-Zi.-Wohnung mit Terrasse und eigenem...","[['Wohnung', '•', 'Mannheim', 'Sandhofen']]",['Garten'],Miete zzgl. NK 500 €,Wohnfläche ca. 31 m²,"Zi. 1,5",48,8
+21,selObject_44946953,Hier warten 65 m² zum Wohlfühlen auf Sie - saniert und...,"[['Wohnung', '•', 'Villingen-Schwenningen', 'Schwenningen']]","['Balkon', 'EBK']",Miete zzgl. NK 690 €,Wohnfläche ca. 65 m²,Zi. 3,48,8
+22,selObject_44946874,Jugendstil-Oase Stgt-Süd mit ehem. Weinberg,"[['Wohnung', '•', 'Stuttgart', 'Süd']]","['Garten', 'EBK']",Miete zzgl. NK 2.052 €,Wohnfläche ca. 108 m²,Zi. 4,48,8
+23,selObject_44946728,In ruhiger Wohnlage von Ailingen 3 Zimmer-Wohnung 2....,"[['Wohnung', '•', 'Friedrichshafen', 'Ailingen']]",['Balkon'],Miete zzgl. NK 775 €,Wohnfläche ca. 82 m²,Zi. 3,48,8
+24,selObject_44946710,Wohnung mit Balkon zum Einziehen und Wohlfühlen!,"[['Wohnung', '•', 'Bad', 'Liebenzell', 'Bad', 'Liebenzell']]","['Balkon', 'EBK']",Miete zzgl. NK 490 €,Wohnfläche ca. 55 m²,Zi. 2,48,8
+25,selObject_44946551,"3,5-Zimmer-Wohnung mit Terrasse in Konstanz-Litzelstet...","[['Wohnung', '•', 'Konstanz', 'Litzelstetten']]",[],Miete zzgl. NK 1.400 €,Wohnfläche ca. 146 m²,"Zi. 3,5",48,8
+26,selObject_44946327,Ruhige und Zentrale 3-Zimmerwohnung im Herzen von Stut...,"[['Wohnung', '•', 'Stuttgart', 'Nord']]","['Balkon', 'EBK']",Miete zzgl. NK 1.100 €,Wohnfläche ca. 80 m²,Zi. 3,48,8

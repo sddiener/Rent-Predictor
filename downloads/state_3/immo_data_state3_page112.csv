@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_43335542,Gemütliche 2-Zimmer-Wohnung mit Balkon direkt an der...,"['Etagenwohnung', '•', 'Goslar', 'Altstadt']","['Balkon', 'EBK']",Miete zzgl. NK 336 €,Wohnfläche ca. 48 m²,Zi. 2,112,3
-1,selObject_43334680,Renovierte 3 Zimmer Wohnung,"['Dachgeschosswohnung', '•', 'Wilhelmshaven', 'Heppens']",[],Miete zzgl. NK 420 €,Wohnfläche ca. 66 m²,Zi. 3,112,3
-2,selObject_43332372,Frisch renovierte 3-Zimmer Wohnung in Citynähe zu verm...,"['Etagenwohnung', '•', 'Wilhelmshaven', 'Heppens']",[],Miete zzgl. NK 391 €,Wohnfläche ca. 67 m²,Zi. 3,112,3
-3,selObject_43332325,Schöne 3-Zimmer-Wohnung im 3-Familienhaus im Wohngebie...,"['Etagenwohnung', '•', 'Goslar', 'Georgenberg']",['EBK'],Miete zzgl. NK 520 €,Wohnfläche ca. 80 m²,Zi. 3,112,3
-4,selObject_43331334,- Wohnen direkt in der Fußgängerzone - 4-Zimmer-Wohnu...,"['Etagenwohnung', '•', 'Goslar', 'Altstadt']",[],Miete zzgl. NK 630 €,Wohnfläche ca. 105 m²,Zi. 4,112,3
-5,selObject_43314489,Renovierte 3-Zimmer Wohnung in der Südstadt--- 1 Monat...,"['Etagenwohnung', '•', 'Hannover', 'Südstadt']",[],Miete zzgl. NK 800 €,Wohnfläche ca. 79 m²,Zi. 3,112,3
-6,selObject_43305407,Über den Dächern von Lingen 2: Neubauwohnung mit Dacht...,"['Dachgeschosswohnung', '•', 'Lingen', 'Lingen']",['EBK'],Miete zzgl. NK 870 €,Wohnfläche ca. 87 m²,Zi. 2,112,3
-7,selObject_43305390,Über den Dächern von Lingen 4: Neubauwohnung mit Dacht...,"['Dachgeschosswohnung', '•', 'Lingen', 'Lingen']",['EBK'],Miete zzgl. NK 815 €,Wohnfläche ca. 81 m²,Zi. 3,112,3
-8,selObject_43301046,komplett sanierte Dachgeschosswohnung im Zentrum,"['Dachgeschosswohnung', '•', 'Braunschweig', 'Innenstadt']",[],Miete zzgl. NK 620 €,Wohnfläche ca. 77 m²,Zi. 3,112,3
-9,selObject_43299625,"***Erstbezug! Moderne 2 Zi Wohnungen, Rollläden, Parke...","['Etagenwohnung', '•', 'Wolfsburg', 'Neindorf']","['Balkon', 'EBK']",Miete zzgl. NK 705 €,Wohnfläche ca. 58 m²,Zi. 2,112,3
-10,selObject_43288599,2- Zimmer Wohnung in Lemförde,"['Erdgeschosswohnung', '•', 'Lemförde']",[],Miete zzgl. NK 535 €,Wohnfläche ca. 77 m²,Zi. 2,112,3
-11,selObject_43286348,"***Traumhafte Hellwinkel Terrassen! 3 Zi, Terrasse,...","['Erdgeschosswohnung', '•', 'Wolfsburg', 'Neindorf']","['Balkon', 'EBK']",Miete zzgl. NK 1.120 €,Wohnfläche ca. 92 m²,Zi. 3,112,3
-12,selObject_43284823,"Erstbezug! Barrierearme, moderne1 Zi Wohnung, EBK,...","['Etagenwohnung', '•', 'Wolfsburg', 'Hellwinkel']","['Balkon', 'EBK']",Miete zzgl. NK 580 €,Wohnfläche ca. 48 m²,Zi. 1,112,3
-13,selObject_43284664,3 Zimmer Wohnung ca. 100 qm Süd-/Westseite,"['Dachgeschosswohnung', '•', 'Bückeburg', 'Bückeburg']",['Balkon'],Miete zzgl. NK 1.200 €,Wohnfläche ca. 109 m²,Zi. 3,112,3
-14,selObject_43264885,Erstbezug: 2 Zi.-Wohnung im Bucholzer Zentrum (ruhige...,"['Wohnung', '•', 'Buchholz', 'Buchholz']",['EBK'],Miete zzgl. NK 1.178 €,Wohnfläche ca. 76 m²,Zi. 2,112,3
-15,selObject_43261835,Frühjahrsbonus: Helle 2 Zimmerwohnung mit Balkon in...,"['Etagenwohnung', '•', 'Walkenried']",['Balkon'],Miete zzgl. NK 260 €,Wohnfläche ca. 52 m²,Zi. 2,112,3
-16,selObject_43261572,Konzipiert für die Generation 55+ - 2-Zimmer-DG-Wohnun...,"['Dachgeschosswohnung', '•', 'Hemmoor', 'Warstade']",['EBK'],Miete zzgl. NK 680 €,Wohnfläche ca. 66 m²,Zi. 2,112,3
-17,selObject_43261054,"***Hellwinkel Terrassen""! Wohnen+Home-Office, Terrasse...","['Erdgeschosswohnung', '•', 'Wolfsburg', 'Neindorf']","['Balkon', 'EBK']",Miete zzgl. NK 1.069 €,Wohnfläche ca. 88 m²,Zi. 3,112,3
-18,selObject_43260922,- Wohnen in der Nähe der Universität Clausthal-Zellerf...,"['Dachgeschosswohnung', '•', 'Clausthal-Zellerfeld', 'Clausthal-Zellerfeld']",[],Miete zzgl. NK 390 €,Wohnfläche ca. 70 m²,Zi. 3,112,3
-19,selObject_43260694,"Exkl. ""Steimker Gärten""! Moderne 2 Zi Neubau Mietwohnu...","['Erdgeschosswohnung', '•', 'Wolfsburg', 'Neindorf']","['Balkon', 'EBK']",Miete zzgl. NK 733 €,Wohnfläche ca. 60 m²,Zi. 2,112,3
-20,selObject_43227938,Nach Komplettsanierung kurzfristiger Bezug wäre möglic...,"['Etagenwohnung', '•', 'Wilhelmshaven', 'Fedderwardergroden']",[],Miete zzgl. NK 360 €,Wohnfläche ca. 60 m²,Zi. 3,112,3
-21,selObject_43214068,Schöne 3-Zimmer-EG-Wohnung im Georgenbergviertel,"['Erdgeschosswohnung', '•', 'Goslar', 'Georgenberg']","['Garten', 'EBK']",Miete zzgl. NK 350 €,Wohnfläche ca. 58 m²,Zi. 3,112,3
-22,selObject_43199057,4 Zimmer Dachgeschoss in Rosdorf - Mengershausen,"['Dachgeschosswohnung', '•', 'Rosdorf', 'Mengershausen']",[],Miete zzgl. NK 600 €,Wohnfläche ca. 93 m²,Zi. 4,112,3
-23,selObject_43197068,SST! 2 ZKB,"['Apartment', '•', 'Göttingen', 'Göttingen']",[],Miete zzgl. NK 400 €,Wohnfläche ca. 50 m²,Zi. 2,112,3
-24,selObject_43189179,186qm Jugendstil! Traumhafte modernisierte sehr große...,"['Etagenwohnung', '•', 'Hameln', 'Innenstadt']",[],Miete zzgl. NK 840 €,Wohnfläche ca. 186 m²,Zi. 6,112,3
-25,selObject_43171881,4 Zimmer Dachgeschosswohnung mit Balkon im Zentrum von...,"['Wohnung', '•', 'Westerstede', 'Westerstede']","['Balkon', 'EBK']",Miete zzgl. NK 550 €,Wohnfläche ca. 82 m²,Zi. 4,112,3
-26,selObject_43162681,WG-Zimmer frei!,"['Etagenwohnung', '•', 'Wilhelmshaven', 'Heppens']",[],Miete inkl. NK 430 €,Wohnfläche ca. 69 m²,Zi. 1,112,3
+0,selObject_43539691,*** Zweizimmer-Appartementwohnung im 1. OG in Stadtnäh...,"[['Etagenwohnung', '•', 'Wolfenbüttel', 'Juliusstadt']]",[],Miete zzgl. NK 450 €,Wohnfläche ca. 45 m²,Zi. 2,112,3
+1,selObject_43520420,Attraktiver Seniorenbungalow für Personen 60+,"[['Erdgeschosswohnung', '•', 'Delmenhorst', 'Deichhorst']]",[],Miete zzgl. NK 620 €,Wohnfläche ca. 50 m²,"Zi. 1,5",112,3
+2,selObject_43518159,Stade-Pommernviertel: 3-Zimmer-Einliegerwohnung,"[['Wohnung', '•', 'Stade', 'Stade']]","['Balkon', 'EBK']",Miete zzgl. NK 750 €,Wohnfläche ca. 90 m²,Zi. 3,112,3
+3,selObject_43517599,Moderne Erdgeschosswohnung in den Steimker Gärten!,"[['Erdgeschosswohnung', '•', 'Wolfsburg', 'Neindorf']]","['Balkon', 'EBK']",Miete zzgl. NK 1.100 €,Wohnfläche ca. 94 m²,Zi. 3,112,3
+4,selObject_43515487,Tolle Lage! Penthouse in Wolfsburg.,"[['Etagenwohnung', '•', 'Wolfsburg', 'Neindorf']]",['EBK'],Miete zzgl. NK 2.150 €,Wohnfläche ca. 177 m²,Zi. 4,112,3
+5,selObject_43513836,3-Zimmerwohnung in ruhiger Lage,"[['Etagenwohnung', '•', 'Wolfsburg', 'Hohenstein']]",['EBK'],Miete zzgl. NK 510 €,Wohnfläche ca. 57 m²,Zi. 3,112,3
+6,selObject_43513815,behindertengerechte 2-Raum-Wohnung in Langenhagen zu...,"[['Wohnung', '•', 'Langenhagen', 'Godshorn']]",['Balkon'],"Miete zzgl. NK 461,04 €",Wohnfläche ca. 68 m²,Zi. 2,112,3
+7,selObject_43513686,3 Zimmer DG mit Balkon in Rosdorf,"[['Maisonette', '•', 'Rosdorf', 'Rosdorf']]",['Balkon'],Miete zzgl. NK 580 €,Wohnfläche ca. 71 m²,Zi. 3,112,3
+8,selObject_43504981,"Helle 3-Zimmer-Wohnung in Göttingen-Weende, WG geeigne...","[['Wohnung', '•', 'Göttingen', 'Weende']]",[],Miete zzgl. NK 520 €,Wohnfläche ca. 63 m²,Zi. 3,112,3
+9,selObject_43504945,3 Zimmer Wohnung in Göttingen - Weende,"[['Wohnung', '•', 'Göttingen', 'Weende']]",[],Miete zzgl. NK 450 €,Wohnfläche ca. 47 m²,Zi. 3,112,3
+10,selObject_43502974,# Eine besondere Wohnung # neues Bad # Balkon,"[['Wohnung', '•', 'Schortens', 'Heidmühle']]",['Balkon'],Miete zzgl. NK 640 €,Wohnfläche ca. 80 m²,Zi. 3,112,3
+11,selObject_43502341,"Schöne 1-Zimmer Stud.-Apartments, Nahe Klinikum u....","[['Apartment', '•', 'Göttingen', 'Weende']]",['Balkon'],Miete zzgl. NK 328 €,Wohnfläche ca. 26 m²,Zi. 1,112,3
+12,selObject_43492617,Gemütliche Dachgeschoss Wohnung,"[['Kein', 'Bild'], ['Wohnung', '•', 'Wilhelmshaven', 'Neuengroden']]",[],Miete zzgl. NK 275 €,Wohnfläche ca. 45 m²,Zi. 2,112,3
+13,selObject_43490759,3 ZKB Dachgeschoßwohnung,"[['Dachgeschosswohnung', '•', 'Seesen', 'Seesen']]",['Garten'],Miete zzgl. NK 360 €,Wohnfläche ca. 70 m²,Zi. 3,112,3
+14,selObject_43489324,Bad Harzburg-Zentrumsbereich geräumige Wohnung mit 2...,"[['Etagenwohnung', '•', 'Bad', 'Harzburg', 'Bad', 'Harzburg']]","['Balkon', 'EBK']",Miete zzgl. NK 637 €,Wohnfläche ca. 98 m²,Zi. 3,112,3
+15,selObject_43483463,"Neubauprojekt - Mühlenstraße 7A-C, 26180 Rastede (Obj....","[['Etagenwohnung', '•', 'Rastede', 'Rastede', 'I']]",['Balkon'],Miete zzgl. NK 900 €,Wohnfläche ca. 81 m²,Zi. 3,112,3
+16,selObject_43468608,"Zauberhafte, helle 1,5 Zimmer- Wohnung","[['Etagenwohnung', '•', 'Aurich', 'Innenstadt']]",['EBK'],Miete inkl. NK 550 €,Wohnfläche ca. 35 m²,"Zi. 1,5",112,3
+17,selObject_43467974,4 Zimmer DG Wohnung mit Balkon in Rosdorf,"[['Erdgeschosswohnung', '•', 'Rosdorf', 'Rosdorf']]",['Balkon'],Miete zzgl. NK 690 €,Wohnfläche ca. 86 m²,Zi. 4,112,3
+18,selObject_43467796,Erstbezug 3 Zimmer-Wohnung nach Fertigstellung in expo...,"[['Etagenwohnung', '•', 'Verden', 'Verden']]","['Balkon', 'EBK']",Miete zzgl. NK 1.015 €,Wohnfläche ca. 102 m²,Zi. 3,112,3
+19,selObject_43467779,Erstbezug 3 Zimmer-Wohnung nach Fertigstellung in expo...,"[['Etagenwohnung', '•', 'Verden', 'Verden']]","['Balkon', 'EBK']",Miete zzgl. NK 1.021 €,Wohnfläche ca. 103 m²,Zi. 3,112,3
+20,selObject_43467776,Erstbezug 3 Zimmer-Wohnung nach Fertigstellung in expo...,"[['Etagenwohnung', '•', 'Verden', 'Verden']]","['Balkon', 'EBK']",Miete zzgl. NK 1.008 €,Wohnfläche ca. 102 m²,Zi. 3,112,3
+21,selObject_43447164,"Hellwinkel Terrassen! Mitten in der Stadt leben, direk...","[['Etagenwohnung', '•', 'Wolfsburg', 'Hellwinkel']]","['Balkon', 'EBK']",Miete zzgl. NK 780 €,Wohnfläche ca. 56 m²,Zi. 2,112,3
+22,selObject_43447160,"Hellwinkel Terrassen! Mitten in der Stadt leben, direk...","[['Etagenwohnung', '•', 'Wolfsburg', 'Hellwinkel']]","['Balkon', 'EBK']",Miete zzgl. NK 1.130 €,Wohnfläche ca. 88 m²,Zi. 3,112,3
+23,selObject_43445121,3 Zimmerwohnung in Sulingen zu vermieten,"[['Etagenwohnung', '•', 'Sulingen', 'Sulingen']]",['EBK'],Miete zzgl. NK 550 €,Wohnfläche ca. 78 m²,Zi. 3,112,3
+24,selObject_43445086,Ideal für das junge Familienglück. Erstbezug!,"[['Etagenwohnung', '•', 'Wilhelmshaven', 'Fedderwardergroden']]",['Garten'],Miete zzgl. NK 380 €,Wohnfläche ca. 60 m²,Zi. 3,112,3
+25,selObject_43444643,Schöne 5 Zimmer Wohnung in Göttingen - Weende,"[['Wohnung', '•', 'Göttingen', 'Weende']]",[],Miete zzgl. NK 855 €,Wohnfläche ca. 130 m²,Zi. 5,112,3
+26,selObject_43442655,Geräumige 2 Zimmer Wohnung,"[['Etagenwohnung', '•', 'Lüneburg', 'Ebensberg']]","['Balkon', 'EBK']",Miete zzgl. NK 730 €,Wohnfläche ca. 65 m²,Zi. 2,112,3

@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44726912,**Frisch saniert und Balkon - Was will man mehr?**,"['Wohnung', '•', 'Elsterwerda', 'Elsterwerda']",['Balkon'],Miete zzgl. NK 262 €,Wohnfläche ca. 49 m²,Zi. 2,23,12
-1,selObject_44726356,große 1-Raumwohnung im Stadtkern,"['Dachgeschosswohnung', '•', 'Finsterwalde', 'Finsterwalde']",[],Miete zzgl. NK 301 €,Wohnfläche ca. 61 m²,Zi. 1,23,12
-2,selObject_44725225,Klein aber fein,"['Etagenwohnung', '•', 'Brandenburg', 'Görden']",[],Miete zzgl. NK 240 €,Wohnfläche ca. 34 m²,Zi. 1,23,12
-3,selObject_44725216,Wohnung sucht Mieter,"['Souterrainwohnung', '•', 'Brandenburg', 'Hohenstücken']",['Balkon'],Miete zzgl. NK 225 €,Wohnfläche ca. 34 m²,Zi. 1,23,12
-4,selObject_44725215,Sie wollen Miete sparen & fit bleiben ?,"['Etagenwohnung', '•', 'Brandenburg', 'Hohenstücken']",[],Miete zzgl. NK 200 €,Wohnfläche ca. 32 m²,Zi. 1,23,12
-5,selObject_44725168,Gemütliche EG Wohnung in Oderberg,"['Wohnung', '•', 'Oderberg']",[],Miete zzgl. NK 217 €,Wohnfläche ca. 40 m²,Zi. 1,23,12
-6,selObject_44725055,Kirchhain - schöne 2-Raum-Wohnung am Markt + Balkon,"['Etagenwohnung', '•', 'Doberlug-Kirchhain', 'Doberlug-Kirchhain']",['Balkon'],Miete zzgl. NK 360 €,Wohnfläche ca. 72 m²,Zi. 2,23,12
-7,selObject_44723400,"210,00 Euro warm - 1 Zimmer mit EBK in Karstädt","['Erdgeschosswohnung', '•', 'Karstädt', 'Karstädt']","['Garten', 'EBK']",Miete zzgl. NK 150 €,Wohnfläche ca. 25 m²,Zi. 1,23,12
-8,selObject_44720295,ERSTBEZUG NACH SANIERUNG - helle 2-Zi-Whg. mit EBK ab...,"['Etagenwohnung', '•', 'Brandenburg', 'Neustadt']","['Balkon', 'EBK']",Miete zzgl. NK 490 €,Wohnfläche ca. 49 m²,Zi. 2,23,12
-9,selObject_44720275,ERSTBEZUG NACH SANIERUNG - helle 2-Zi-DG-Whg. mit EBK...,"['Dachgeschosswohnung', '•', 'Brandenburg', 'Neustadt']","['Balkon', 'EBK']",Miete zzgl. NK 520 €,Wohnfläche ca. 50 m²,Zi. 2,23,12
-10,selObject_44720238,ERSTBEZUG NACH SANIERUNG - helle 2-Zi-Whg. mit EBK ab...,"['Apartment', '•', 'Brandenburg', 'Neustadt']",['EBK'],Miete zzgl. NK 490 €,Wohnfläche ca. 49 m²,Zi. 2,23,12
-11,selObject_44720223,ERSTBEZUG NACH SANIERUNG - helle 2-Zi-Whg. mit EBK ab...,"['Etagenwohnung', '•', 'Brandenburg', 'Neustadt']",['EBK'],Miete zzgl. NK 450 €,Wohnfläche ca. 48 m²,Zi. 2,23,12
-12,selObject_44713800,Wohnung mit Charme ... Altstadtkiez - Bahnhofs- und...,"['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']",['Balkon'],Miete zzgl. NK 470 €,Wohnfläche ca. 85 m²,Zi. 3,23,12
-13,selObject_44712777,Unser XXL- Balkon zum Träumen...,"['Etagenwohnung', '•', 'Prenzlau', 'Prenzlau']",['Balkon'],Miete zzgl. NK 345 €,Wohnfläche ca. 65 m²,Zi. 3,23,12
-14,selObject_44712776,Achtung! 1 Zimmer für DICH!,"['Etagenwohnung', '•', 'Prenzlau', 'Prenzlau']",['Balkon'],Miete zzgl. NK 200 €,Wohnfläche ca. 35 m²,Zi. 1,23,12
-15,selObject_44711984,"4 Raumwhg, hintere DHH mit 2 Balkonen, DG","['Wohnung', '•', 'Eichwalde']",['Balkon'],Miete zzgl. NK 910 €,Wohnfläche ca. 83 m²,Zi. 4,23,12
-16,selObject_44710676,Kleine Singlewohnung unterm Dach,"['Wohnung', '•', 'Bad', 'Freienwalde', 'Bad', 'Freienwalde']",[],"Miete zzgl. NK 227,01 €",Wohnfläche ca. 46 m²,"Zi. 1,5",23,12
-17,selObject_44710442,Nur mit WBS! Schöne 3-Raumwohnung mit Terrasse im Erdg...,"['Wohnung', '•', 'Neuhardenberg', 'Neuhardenberg']",[],"Miete zzgl. NK 349,57 €",Wohnfläche ca. 60 m²,Zi. 3,23,12
-18,selObject_44709657,- für sofort- frisch renovierte Wohnung mit EBK in...,"['Etagenwohnung', '•', 'Kloster', 'Lehnin', 'Michelsdorf']",['EBK'],Miete zzgl. NK 370 €,Wohnfläche ca. 45 m²,Zi. 1,23,12
-19,selObject_44709308,+++ Ausblick inklusive +++,"['Etagenwohnung', '•', 'Prenzlau', 'Prenzlau']",['Balkon'],Miete zzgl. NK 335 €,Wohnfläche ca. 61 m²,Zi. 3,23,12
-20,selObject_44709306,Ein Zimmer im Erdgeschoss!,"['Erdgeschosswohnung', '•', 'Prenzlau', 'Prenzlau']",['Balkon'],Miete zzgl. NK 205 €,Wohnfläche ca. 34 m²,Zi. 1,23,12
-21,selObject_44707876,"100 QM frisch, hell und grün für die junge Familie","['Etagenwohnung', '•', 'Königs', 'Wusterhausen', 'Königs', 'Wusterhausen']","['Balkon', 'Garten']","Miete zzgl. NK 1.049,67 €",Wohnfläche ca. 100 m²,Zi. 4,23,12
-22,selObject_44707596,3-Raumwohnung im Dachgeschoss,"['Dachgeschosswohnung', '•', 'Bad', 'Freienwalde', 'Bad', 'Freienwalde']",[],"Miete zzgl. NK 326,45 €",Wohnfläche ca. 66 m²,Zi. 3,23,12
-23,selObject_44706932,WBG - 3-RWE - für die kleine Familie!,"['Etagenwohnung', '•', 'Brandenburg', 'Hohenstücken']",['Balkon'],"Miete zzgl. NK 321,43 €",Wohnfläche ca. 60 m²,Zi. 3,23,12
-24,selObject_44706897,ERSTBEZUG NACH SANIERUNG - helle 2-Zi-Whg. mit EBK per...,"['Apartment', '•', 'Brandenburg', 'Neustadt']",['EBK'],Miete zzgl. NK 450 €,Wohnfläche ca. 49 m²,Zi. 2,23,12
-25,selObject_44706880,ERSTBEZUG NACH SANIERUNG - helle 2-Zi-Whg. mit EBK per...,"['Apartment', '•', 'Brandenburg', 'Neustadt']",['EBK'],Miete zzgl. NK 450 €,Wohnfläche ca. 48 m²,Zi. 2,23,12
-26,selObject_44706871,ERSTBEZUG NACH SANIERUNG - helle 2-Zi-Whg. mit EBK per...,"['Etagenwohnung', '•', 'Brandenburg', 'Neustadt']",['EBK'],Miete zzgl. NK 480 €,Wohnfläche ca. 48 m²,Zi. 2,23,12
+0,selObject_44733329,ERSTBEZUG NACH SANIERUNG - helle 2-Zi-Whg. mit EBK ab...,"[['Etagenwohnung', '•', 'Brandenburg', 'Neustadt']]","['Balkon', 'EBK']",Miete zzgl. NK 490 €,Wohnfläche ca. 49 m²,Zi. 2,23,12
+1,selObject_44728216,"Traumhafte Luxuswohnung mit großer Südterrasse, direkt...","[['Erdgeschosswohnung', '•', 'Bad', 'Saarow', 'Bad', 'Saarow-Pieskow']]","['Garten', 'EBK']",Miete zzgl. NK 2.750 €,Wohnfläche ca. 115 m²,Zi. 3,23,12
+2,selObject_44727222,**Frisch sanierte Wohnung in toller Lage**,"[['Erdgeschosswohnung', '•', 'Lauchhammer', 'Lauchhammer']]",[],Miete zzgl. NK 295 €,Wohnfläche ca. 51 m²,Zi. 2,23,12
+3,selObject_44726967,**Geräumige und lichtdurchflutete Wohnung**,"[['Etagenwohnung', '•', 'Elsterwerda', 'Elsterwerda']]",['Balkon'],Miete zzgl. NK 410 €,Wohnfläche ca. 73 m²,Zi. 4,23,12
+4,selObject_44726912,**Frisch saniert und Balkon - Was will man mehr?**,"[['Wohnung', '•', 'Elsterwerda', 'Elsterwerda']]",['Balkon'],Miete zzgl. NK 262 €,Wohnfläche ca. 49 m²,Zi. 2,23,12
+5,selObject_44726356,große 1-Raumwohnung im Stadtkern,"[['Dachgeschosswohnung', '•', 'Finsterwalde', 'Finsterwalde']]",[],Miete zzgl. NK 301 €,Wohnfläche ca. 61 m²,Zi. 1,23,12
+6,selObject_44725225,Klein aber fein,"[['Etagenwohnung', '•', 'Brandenburg', 'Görden']]",[],Miete zzgl. NK 240 €,Wohnfläche ca. 34 m²,Zi. 1,23,12
+7,selObject_44725216,Wohnung sucht Mieter,"[['Souterrainwohnung', '•', 'Brandenburg', 'Hohenstücken']]",['Balkon'],Miete zzgl. NK 225 €,Wohnfläche ca. 34 m²,Zi. 1,23,12
+8,selObject_44725215,Sie wollen Miete sparen & fit bleiben ?,"[['Etagenwohnung', '•', 'Brandenburg', 'Hohenstücken']]",[],Miete zzgl. NK 200 €,Wohnfläche ca. 32 m²,Zi. 1,23,12
+9,selObject_44725168,Gemütliche EG Wohnung in Oderberg,"[['Wohnung', '•', 'Oderberg']]",[],Miete zzgl. NK 217 €,Wohnfläche ca. 40 m²,Zi. 1,23,12
+10,selObject_44725055,Kirchhain - schöne 2-Raum-Wohnung am Markt + Balkon,"[['Etagenwohnung', '•', 'Doberlug-Kirchhain', 'Doberlug-Kirchhain']]",['Balkon'],Miete zzgl. NK 360 €,Wohnfläche ca. 72 m²,Zi. 2,23,12
+11,selObject_44723400,"210,00 Euro warm - 1 Zimmer mit EBK in Karstädt","[['Erdgeschosswohnung', '•', 'Karstädt', 'Karstädt']]","['Garten', 'EBK']",Miete zzgl. NK 150 €,Wohnfläche ca. 25 m²,Zi. 1,23,12
+12,selObject_44720295,ERSTBEZUG NACH SANIERUNG - helle 2-Zi-Whg. mit EBK ab...,"[['Etagenwohnung', '•', 'Brandenburg', 'Neustadt']]","['Balkon', 'EBK']",Miete zzgl. NK 490 €,Wohnfläche ca. 49 m²,Zi. 2,23,12
+13,selObject_44720275,ERSTBEZUG NACH SANIERUNG - helle 2-Zi-DG-Whg. mit EBK...,"[['Dachgeschosswohnung', '•', 'Brandenburg', 'Neustadt']]","['Balkon', 'EBK']",Miete zzgl. NK 520 €,Wohnfläche ca. 50 m²,Zi. 2,23,12
+14,selObject_44720238,ERSTBEZUG NACH SANIERUNG - helle 2-Zi-Whg. mit EBK ab...,"[['Apartment', '•', 'Brandenburg', 'Neustadt']]",['EBK'],Miete zzgl. NK 490 €,Wohnfläche ca. 49 m²,Zi. 2,23,12
+15,selObject_44720223,ERSTBEZUG NACH SANIERUNG - helle 2-Zi-Whg. mit EBK ab...,"[['Etagenwohnung', '•', 'Brandenburg', 'Neustadt']]",['EBK'],Miete zzgl. NK 450 €,Wohnfläche ca. 48 m²,Zi. 2,23,12
+16,selObject_44713800,Wohnung mit Charme ... Altstadtkiez - Bahnhofs- und...,"[['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']]",['Balkon'],Miete zzgl. NK 470 €,Wohnfläche ca. 85 m²,Zi. 3,23,12
+17,selObject_44712777,Unser XXL- Balkon zum Träumen...,"[['Etagenwohnung', '•', 'Prenzlau', 'Prenzlau']]",['Balkon'],Miete zzgl. NK 345 €,Wohnfläche ca. 65 m²,Zi. 3,23,12
+18,selObject_44712776,Achtung! 1 Zimmer für DICH!,"[['Etagenwohnung', '•', 'Prenzlau', 'Prenzlau']]",['Balkon'],Miete zzgl. NK 200 €,Wohnfläche ca. 35 m²,Zi. 1,23,12
+19,selObject_44711984,"4 Raumwhg, hintere DHH mit 2 Balkonen, DG","[['Wohnung', '•', 'Eichwalde']]",['Balkon'],Miete zzgl. NK 910 €,Wohnfläche ca. 83 m²,Zi. 4,23,12
+20,selObject_44710676,Kleine Singlewohnung unterm Dach,"[['Wohnung', '•', 'Bad', 'Freienwalde', 'Bad', 'Freienwalde']]",[],"Miete zzgl. NK 227,01 €",Wohnfläche ca. 46 m²,"Zi. 1,5",23,12
+21,selObject_44710442,Nur mit WBS! Schöne 3-Raumwohnung mit Terrasse im Erdg...,"[['Wohnung', '•', 'Neuhardenberg', 'Neuhardenberg']]",[],"Miete zzgl. NK 349,57 €",Wohnfläche ca. 60 m²,Zi. 3,23,12
+22,selObject_44709657,- für sofort- frisch renovierte Wohnung mit EBK in...,"[['Etagenwohnung', '•', 'Kloster', 'Lehnin', 'Michelsdorf']]",['EBK'],Miete zzgl. NK 370 €,Wohnfläche ca. 45 m²,Zi. 1,23,12
+23,selObject_44709308,+++ Ausblick inklusive +++,"[['Etagenwohnung', '•', 'Prenzlau', 'Prenzlau']]",['Balkon'],Miete zzgl. NK 335 €,Wohnfläche ca. 61 m²,Zi. 3,23,12
+24,selObject_44709306,Ein Zimmer im Erdgeschoss!,"[['Erdgeschosswohnung', '•', 'Prenzlau', 'Prenzlau']]",['Balkon'],Miete zzgl. NK 205 €,Wohnfläche ca. 34 m²,Zi. 1,23,12
+25,selObject_44707876,"100 QM frisch, hell und grün für die junge Familie","[['Etagenwohnung', '•', 'Königs', 'Wusterhausen', 'Königs', 'Wusterhausen']]","['Balkon', 'Garten']","Miete zzgl. NK 1.049,67 €",Wohnfläche ca. 100 m²,Zi. 4,23,12
+26,selObject_44707596,3-Raumwohnung im Dachgeschoss,"[['Dachgeschosswohnung', '•', 'Bad', 'Freienwalde', 'Bad', 'Freienwalde']]",[],"Miete zzgl. NK 326,45 €",Wohnfläche ca. 66 m²,Zi. 3,23,12

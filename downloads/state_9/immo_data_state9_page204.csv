@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_42424929,"3 ZKB, Von der Tann Str., Regensburg","['Kein', 'Bild']",['EBK'],Miete zzgl. NK 1.030 €,Wohnfläche ca. 65 m²,Zi. 3,204,9
-1,selObject_42415402,"1-Zi.-Wohnung mit Küchenzeile, Wfl. ca. 18 m²","['Wohnung', '•', 'Bayreuth', 'Gartenstadt']",['EBK'],Miete zzgl. NK 260 €,Wohnfläche ca. 18 m²,Zi. 1,204,9
-2,selObject_42401411,"Wundeschön, möblierte DGW mit Kamin zum Innenhof im...","['Dachgeschosswohnung', '•', 'München', 'Moosach']",['EBK'],Miete zzgl. NK 2.200 €,Wohnfläche ca. 115 m²,Zi. 3,204,9
-3,selObject_42400621,Betreubares Wohnen - W7 EG,"['Etagenwohnung', '•', 'Töging', 'Töging']","['Balkon', 'Garten']","Miete zzgl. NK 541,84 €",Wohnfläche ca. 68 m²,Zi. 3,204,9
-4,selObject_42390334,1-Zimmer-Apartment in Passau-Altstadt (19 A6),"['Dachgeschosswohnung', '•', 'Passau', 'Altstadt']",['EBK'],Miete zzgl. NK 340 €,Wohnfläche ca. 22 m²,Zi. 1,204,9
-5,selObject_42373393,Erstbezug | Vollmöblierte Wohnung mit zwei Schlafz/Woh...,"['Wohnung', '•', 'München', 'Thalk.Obersendl.-Forsten-Fürstenr.-Solln']",['Balkon'],Miete zzgl. NK 1.500 €,Wohnfläche ca. 60 m²,Zi. 2,204,9
-6,selObject_42373383,Erstbezug | Vollmöblierte Wohnung in Thalkirchen (näh...,"['Apartment', '•', 'München', 'Thalk.Obersendl.-Forsten-Fürstenr.-Solln']",['EBK'],Miete zzgl. NK 1.000 €,Wohnfläche ca. 35 m²,Zi. 1,204,9
-7,selObject_42373381,Erstbezug | Wohngemeinschaft für bis zu zwei Personen...,"['Zimmer', '•', 'München', 'Thalk.Obersendl.-Forsten-Fürstenr.-Solln']","['Balkon', 'EBK']",Miete zzgl. NK 700 €,Wohnfläche ca. 25 m²,,204,9
-8,selObject_42370076,Schöne 2-Zi.-Maisonette-Wohnung,"['Wohnung', '•', 'Freising', 'Lerchenfeld']",['EBK'],Miete zzgl. NK 1.090 €,Wohnfläche ca. 84 m²,Zi. 2,204,9
-9,selObject_42367128,"2,5 Zimmer Maisonettewohnung im Loftstil mit Terrasse...","['Wohnung', '•', 'Altusried', 'Altusried']",[],Miete zzgl. NK 1.620 €,Wohnfläche ca. 135 m²,"Zi. 2,5",204,9
-10,selObject_42349652,HELLES-MÖBLIERTES 1 ZIMMER-APPARTMENT 3. OG-----CITY...,"['Apartment', '•', 'Schweinfurt', 'Altstadt']",[],Miete zzgl. NK 390 €,,,204,9
-11,selObject_42337785,Freie Zimmer im Studentenwohnheim in Coburg nur an...,"['Apartment', '•', 'Coburg', 'Coburg']",[],"Miete zzgl. NK 74,14 €",Wohnfläche ca. 16 m²,Zi. 1,204,9
-12,selObject_42306074,BUSINESSAPARTMENT MIT GROßER DACHTERRASSE - voll möbli...,"['Wohnung', '•', 'Erlangen', 'Anger']","['Balkon', 'EBK']",Miete zzgl. NK 735 €,Wohnfläche ca. 35 m²,Zi. 1,204,9
-13,selObject_42304888,Leopoldstrasse (U-Bahn Giselastraße) City-Appartement,"['Etagenwohnung', '•', 'München', 'Schwabing-Freimann']",['EBK'],Miete zzgl. NK 1.000 €,Wohnfläche ca. 27 m²,Zi. 1,204,9
-14,selObject_42304516,"(3x) voll möblierte Wohnung in Würzburg-Frld, zeitlic...","['Wohnung', '•', 'Würzburg', 'Frauenland']",[],Preis Auf Anfrage,Wohnfläche ca. 80 m²,Zi. 3,204,9
-15,selObject_42291524,Möblierte Studentenapartments in der Erlanger Innensta...,"['Wohnung', '•', 'Erlangen', 'Innenstadt']",['EBK'],Preis Auf Anfrage,,Zi. 1,204,9
-16,selObject_42291401,Nur noch wenige komplett möblierte Studentenapartments...,"['Wohnung', '•', 'Erlangen', 'Innenstadt']",['EBK'],Preis Auf Anfrage,,Zi. 1,204,9
-17,selObject_42290899,Kernsanierte 3-Zimmer-Wohnung in Selb,"['Wohnung', '•', 'Selb', 'Selb']",[],Miete zzgl. NK 550 €,Wohnfläche ca. 85 m²,Zi. 3,204,9
-18,selObject_42283138,ENGEL & VÖLKERS - Großzügige Dachgeschosswohnung in...,"['Dachgeschosswohnung', '•', 'München', 'Trudering-Riem']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.990 €,Wohnfläche ca. 125 m²,"Zi. 3,5",204,9
-19,selObject_42274335,3-Zimmer-Wohnung im Zentrum von Bad Kissingen,"['Etagenwohnung', '•', 'Bad', 'Kissingen', 'Bad', 'Kissingen']",[],Miete zzgl. NK 778 €,Wohnfläche ca. 87 m²,Zi. 3,204,9
-20,selObject_42273654,2-Zimmer-Wohnung in Hof mit EBK,"['Etagenwohnung', '•', 'Hof', 'Innenstadt']",[],Miete zzgl. NK 300 €,Wohnfläche ca. 48 m²,Zi. 2,204,9
-21,selObject_42273279,Möblierte 3 Zimmerwohnung im Zentrum von München,"['Etagenwohnung', '•', 'München', 'Ludwigsvorstadt-Isarvorstadt']","['Balkon', 'EBK']",Miete zzgl. NK 1.900 €,Wohnfläche ca. 65 m²,Zi. 3,204,9
-22,selObject_42273030,QVIII - FALL IN LOVE AND STAY Möblierte 2 Zimmer-Wohnu...,"['Etagenwohnung', '•', 'München', 'Altstadt-Lehel']",['EBK'],Miete zzgl. NK 4.535 €,Wohnfläche ca. 107 m²,Zi. 2,204,9
-23,selObject_42273005,QVIII - A MASTERS HOME Möblierte Maisonette Wohnung im...,"['Maisonette', '•', 'München', 'Altstadt-Lehel']",['EBK'],Miete zzgl. NK 6.772 €,Wohnfläche ca. 159 m²,Zi. 2,204,9
-24,selObject_42272961,QVIII - FALL IN LOVE WITH MUNICH Möblierte Maisonette...,"['Maisonette', '•', 'München', 'Altstadt-Lehel']",['EBK'],Miete zzgl. NK 3.997 €,Wohnfläche ca. 94 m²,Zi. 2,204,9
-25,selObject_42258696,Wohnen auf Zeit,"['Wohnung', '•', 'Bad', 'Neustadt', 'Bad', 'Neustadt']",[],Preis Auf Anfrage,,,204,9
-26,selObject_42218413,3 Zimmer Luxuswohnung in Toplage Herrieden,"['Maisonette', '•', 'Herrieden', 'Herrieden']",['Garten'],Miete zzgl. NK 1.100 €,Wohnfläche ca. 90 m²,Zi. 3,204,9
+0,selObject_42577330,"Winden am Aign, schöne 2 Zimmer Dachgeschosswohnung,...","[['Dachgeschosswohnung', '•', 'Reichertshofen', 'Winden', 'am', 'Aign']]",['EBK'],Miete zzgl. NK 660 €,Wohnfläche ca. 66 m²,Zi. 2,204,9
+1,selObject_42545633,"1-Zimmer-Appartement, ca. 19 m² Wfl., voll möbliert,...","[['Apartment', '•', 'Regensburg', 'Galgenberg']]",[],Miete zzgl. NK 280 €,Wohnfläche ca. 19 m²,Zi. 1,204,9
+2,selObject_42529373,Wunderschöne 2 Zimmer Wohnung mit Wintergarten in Top-...,"[['Etagenwohnung', '•', 'Herrieden', 'Herrieden']]",['EBK'],Miete zzgl. NK 680 €,Wohnfläche ca. 75 m²,Zi. 2,204,9
+3,selObject_42501559,Großes möbliertes 1-Zimmer-Apartment All-Inclusive mit...,"[['Apartment', '•', 'Neubiberg', 'Unterbiberg']]",['EBK'],Miete zzgl. NK 1.049 €,Wohnfläche ca. 30 m²,Zi. 1,204,9
+4,selObject_42497885,Erstbezug - Rundum-Sorglos-Paket - voll möbliert ++Tim...,"[['Etagenwohnung', '•', 'Straubing', 'Straubing']]",['EBK'],Miete zzgl. NK 295 €,Wohnfläche ca. 25 m²,Zi. 1,204,9
+5,selObject_42490803,"Für Studenten oder Vollzeitschüler, Appartement komple...","[['Erdgeschosswohnung', '•', 'Augsburg', 'Innenstadt']]",['EBK'],Miete zzgl. NK 390 €,Wohnfläche ca. 25 m²,Zi. 1,204,9
+6,selObject_42487912,1 Zimmer in 2er-WG für Studenten - mit Balkon,"[['Apartment', '•', 'Bayreuth', 'Altstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 280 €,Wohnfläche ca. 24 m²,Zi. 2,204,9
+7,selObject_42487738,Charmantes möbliertes 2-Zimmer Apartment,"[['Apartment', '•', 'Bad', 'Kissingen', 'Bad', 'Kissingen']]",[],Miete zzgl. NK 450 €,Wohnfläche ca. 34 m²,Zi. 2,204,9
+8,selObject_42487397,KLEINE 3-ZIMMER-WOHNUNG IM HERZEN VON GOSTENHOF,"[['Etagenwohnung', '•', 'Nürnberg', 'Gostenhof']]",[],Miete zzgl. NK 750 €,Wohnfläche ca. 68 m²,Zi. 3,204,9
+9,selObject_42486615,Schöne Erdgeschosswohnung mit Terrasse für Studenten,"[['Erdgeschosswohnung', '•', 'Bayreuth', 'Altstadt']]",['EBK'],Miete zzgl. NK 350 €,Wohnfläche ca. 28 m²,Zi. 1,204,9
+10,selObject_42483887,Moderne Studentenappartements,"[['Erdgeschosswohnung', '•', 'Ingolstadt', 'Ingolstadt']]",[],Miete inkl. NK 520 €,Wohnfläche ca. 19 m²,Zi. 1,204,9
+11,selObject_42483889,Moderne Studentenappartements,"[['Erdgeschosswohnung', '•', 'Ingolstadt', 'Ingolstadt']]",[],Miete inkl. NK 520 €,Wohnfläche ca. 22 m²,Zi. 1,204,9
+12,selObject_42467157,!NEUBAU! Exklusive 2-Zimmer Wohnung mit EBK und Garten...,"[['Etagenwohnung', '•', 'Deggendorf', 'Deggendorf']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 740 €,Wohnfläche ca. 66 m²,Zi. 2,204,9
+13,selObject_42454330,Erstbezug - großzügige 3-Zimmer-Mietwohnung im Objekt...,"[['Etagenwohnung', '•', 'Abensberg', 'Abensberg']]","['Balkon', 'EBK']",Miete zzgl. NK 1.020 €,Wohnfläche ca. 89 m²,Zi. 3,204,9
+14,selObject_42428184,1-Zimmer-Apartments - Studieren im Grünen in moderner...,"[['Apartment', '•', 'Bayreuth', 'Laineck']]",['EBK'],Miete zzgl. NK 365 €,Wohnfläche ca. 34 m²,Zi. 1,204,9
+15,selObject_42424929,"3 ZKB, Von der Tann Str., Regensburg","[['Kein', 'Bild'], ['Erdgeschosswohnung', '•', 'Regensburg', 'Innenstadt']]",['EBK'],Miete zzgl. NK 1.030 €,Wohnfläche ca. 65 m²,Zi. 3,204,9
+16,selObject_42415402,"1-Zi.-Wohnung mit Küchenzeile, Wfl. ca. 18 m²","[['Wohnung', '•', 'Bayreuth', 'Gartenstadt']]",['EBK'],Miete zzgl. NK 260 €,Wohnfläche ca. 18 m²,Zi. 1,204,9
+17,selObject_42401411,"Wundeschön, möblierte DGW mit Kamin zum Innenhof im...","[['Dachgeschosswohnung', '•', 'München', 'Moosach']]",['EBK'],Miete zzgl. NK 2.200 €,Wohnfläche ca. 115 m²,Zi. 3,204,9
+18,selObject_42400621,Betreubares Wohnen - W7 EG,"[['Etagenwohnung', '•', 'Töging', 'Töging']]","['Balkon', 'Garten']","Miete zzgl. NK 541,84 €",Wohnfläche ca. 68 m²,Zi. 3,204,9
+19,selObject_42390334,1-Zimmer-Apartment in Passau-Altstadt (19 A6),"[['Dachgeschosswohnung', '•', 'Passau', 'Altstadt']]",['EBK'],Miete zzgl. NK 340 €,Wohnfläche ca. 22 m²,Zi. 1,204,9
+20,selObject_42373393,Erstbezug | Vollmöblierte Wohnung mit zwei Schlafz/Woh...,"[['Wohnung', '•', 'München', 'Thalk.Obersendl.-Forsten-Fürstenr.-Solln']]",['Balkon'],Miete zzgl. NK 1.500 €,Wohnfläche ca. 60 m²,Zi. 2,204,9
+21,selObject_42373383,Erstbezug | Vollmöblierte Wohnung in Thalkirchen (näh...,"[['Apartment', '•', 'München', 'Thalk.Obersendl.-Forsten-Fürstenr.-Solln']]",['EBK'],Miete zzgl. NK 1.000 €,Wohnfläche ca. 35 m²,Zi. 1,204,9
+22,selObject_42373381,Erstbezug | Wohngemeinschaft für bis zu zwei Personen...,"[['Zimmer', '•', 'München', 'Thalk.Obersendl.-Forsten-Fürstenr.-Solln']]","['Balkon', 'EBK']",Miete zzgl. NK 700 €,Wohnfläche ca. 25 m²,,204,9
+23,selObject_42370076,Schöne 2-Zi.-Maisonette-Wohnung,"[['Wohnung', '•', 'Freising', 'Lerchenfeld']]",['EBK'],Miete zzgl. NK 1.090 €,Wohnfläche ca. 84 m²,Zi. 2,204,9
+24,selObject_42367128,"2,5 Zimmer Maisonettewohnung im Loftstil mit Terrasse...","[['Wohnung', '•', 'Altusried', 'Altusried']]",[],Miete zzgl. NK 1.620 €,Wohnfläche ca. 135 m²,"Zi. 2,5",204,9
+25,selObject_42349652,HELLES-MÖBLIERTES 1 ZIMMER-APPARTMENT 3. OG-----CITY...,"[['Apartment', '•', 'Schweinfurt', 'Altstadt']]",[],Miete zzgl. NK 390 €,,,204,9
+26,selObject_42337785,Freie Zimmer im Studentenwohnheim in Coburg nur an...,"[['Apartment', '•', 'Coburg', 'Coburg']]",[],"Miete zzgl. NK 74,14 €",Wohnfläche ca. 16 m²,Zi. 1,204,9

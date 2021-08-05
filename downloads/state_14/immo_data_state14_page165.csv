@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44763887,Ruhig gelegene 2-Zimmerwohnung mit Balkon !,"['Wohnung', '•', 'Leipzig', 'Schönefeld-Abtnaundorf']",['Balkon'],Miete zzgl. NK 448 €,Wohnfläche ca. 49 m²,Zi. 2,165,14
-1,selObject_44763885,Kleine ruhig gelegene 2-Zimmerwohnung mit EBK + Balkon...,"['Wohnung', '•', 'Leipzig', 'Schönefeld-Abtnaundorf']","['Balkon', 'EBK']",Miete zzgl. NK 398 €,Wohnfläche ca. 41 m²,Zi. 2,165,14
-2,selObject_44763391,"Luxuriös mit 3 Balkonen, großem Garten, Carport, klein...","['Etagenwohnung', '•', 'Dresden', 'Reick']","['Balkon', 'Garten']",Miete zzgl. NK 1.120 €,Wohnfläche ca. 112 m²,Zi. 4,165,14
-3,selObject_44763341,NEU - Leben in den Seidnitzer Gärten mit fantastischem...,"['Dachgeschosswohnung', '•', 'Dresden', 'Tolkewitz/Seidnitz-Nord']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 525 €,Wohnfläche ca. 65 m²,Zi. 2,165,14
-4,selObject_44763276,2 Warmmieten geschenkt* ...mit SONNIGEN Aussichten auf...,"['Etagenwohnung', '•', 'Freiberg,', 'Sachs', 'Freiberg']","['Balkon', 'EBK']",Miete zzgl. NK 259 €,Wohnfläche ca. 56 m²,Zi. 3,165,14
-5,selObject_44763248,Bezugsfertig! 3-R.-WE m. Balkon in Zittau!,"['Erdgeschosswohnung', '•', 'Zittau', 'Zittau']",['Balkon'],Miete zzgl. NK 303 €,Wohnfläche ca. 60 m²,Zi. 3,165,14
-6,selObject_44763159,geräumige 2-Raum-Wohnung mit Einbauküche,"['Etagenwohnung', '•', 'Chemnitz', 'Kapellenberg']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 320 €,Wohnfläche ca. 57 m²,Zi. 2,165,14
-7,selObject_44763157,Hereinspaziert,"['Etagenwohnung', '•', 'Chemnitz', 'Helbersdorf']",['Balkon'],Miete zzgl. NK 260 €,Wohnfläche ca. 57 m²,Zi. 3,165,14
-8,selObject_44763153,4 Wohn(t)räume mit Balkon!,"['Etagenwohnung', '•', 'Chemnitz', 'Helbersdorf']","['Balkon', 'Garten']",Miete zzgl. NK 330 €,Wohnfläche ca. 69 m²,Zi. 4,165,14
-9,selObject_44763152,da lohnt sich jede Stufe!,"['Etagenwohnung', '•', 'Chemnitz', 'Kappel']","['Balkon', 'Garten']",Miete zzgl. NK 325 €,Wohnfläche ca. 69 m²,Zi. 4,165,14
-10,selObject_44763150,frisch sanierte Wohnung!,"['Etagenwohnung', '•', 'Chemnitz', 'Kappel']","['Balkon', 'Garten']",Miete zzgl. NK 265 €,Wohnfläche ca. 56 m²,Zi. 2,165,14
-11,selObject_44763147,Top sanierte Wohnung für dich!,"['Etagenwohnung', '•', 'Chemnitz', 'Kapellenberg']","['Balkon', 'Garten']",Miete zzgl. NK 270 €,Wohnfläche ca. 57 m²,Zi. 2,165,14
-12,selObject_44763142,2-Raum-Wohnung mit XXL-Wohnzimmer,"['Etagenwohnung', '•', 'Chemnitz', 'Kappel']","['Balkon', 'Garten']",Miete zzgl. NK 260 €,Wohnfläche ca. 56 m²,Zi. 2,165,14
-13,selObject_44763143,besser Wohnen am schönen Stadtpark!,"['Etagenwohnung', '•', 'Chemnitz', 'Helbersdorf']","['Balkon', 'Garten']",Miete zzgl. NK 330 €,Wohnfläche ca. 68 m²,Zi. 4,165,14
-14,selObject_44763138,Viiiel Platz für die ganze Familie,"['Etagenwohnung', '•', 'Chemnitz', 'Kappel']","['Balkon', 'Garten']",Miete zzgl. NK 599 €,Wohnfläche ca. 126 m²,Zi. 5,165,14
-15,selObject_44763130,Einzugsbonus jetzt sichern!,"['Etagenwohnung', '•', 'Chemnitz', 'Kappel']","['Balkon', 'Garten']",Miete zzgl. NK 265 €,Wohnfläche ca. 57 m²,Zi. 2,165,14
-16,selObject_44763122,Geräumige 3 Zimmer in grüner Lage!,"['Etagenwohnung', '•', 'Chemnitz', 'Kapellenberg']",['Balkon'],Miete zzgl. NK 421 €,Wohnfläche ca. 75 m²,Zi. 3,165,14
-17,selObject_44762985,2 RW am Rande von Borna - 1 Monat Mietfrei,"['Wohnung', '•', 'Borna', 'Borna']",[],Miete zzgl. NK 225 €,Wohnfläche ca. 50 m²,Zi. 2,165,14
-18,selObject_44762850,geräumige Wohnung mit Wohlfühlbad,"['Etagenwohnung', '•', 'Chemnitz', 'Kappel']","['Balkon', 'Garten']",Miete zzgl. NK 320 €,Wohnfläche ca. 67 m²,Zi. 3,165,14
-19,selObject_44762851,Wohnen mal anders!,"['Etagenwohnung', '•', 'Chemnitz', 'Sonnenberg']","['Balkon', 'Garten']",Miete zzgl. NK 330 €,Wohnfläche ca. 60 m²,Zi. 2,165,14
-20,selObject_44762815,großzügige Wohnung mit Einbauküche!,"['Etagenwohnung', '•', 'Chemnitz', 'Kappel']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 380 €,Wohnfläche ca. 69 m²,Zi. 3,165,14
-21,selObject_44762814,Lass die Sonne in deine neue Wohnung!,"['Etagenwohnung', '•', 'Chemnitz', 'Kappel']","['Balkon', 'Garten']",Miete zzgl. NK 330 €,Wohnfläche ca. 70 m²,Zi. 4,165,14
-22,selObject_44762806,Da lohnt sich der Einzugsbonus!!,"['Etagenwohnung', '•', 'Chemnitz', 'Kappel']","['Balkon', 'Garten']",Miete zzgl. NK 585 €,Wohnfläche ca. 124 m²,Zi. 5,165,14
-23,selObject_44762804,Erstbezug nach Sanierung!,"['Etagenwohnung', '•', 'Chemnitz', 'Kapellenberg']","['Balkon', 'Garten']",Miete zzgl. NK 270 €,Wohnfläche ca. 56 m²,Zi. 3,165,14
-24,selObject_44762802,"XXL-Balkon, XXL Küche mit EBK, bodentiefe Fenster!","['Etagenwohnung', '•', 'Chemnitz', 'Kappel']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 290 €,Wohnfläche ca. 57 m²,Zi. 2,165,14
-25,selObject_44762739,gemütliche 4- Raumwohnung mit Terrasse im Erdgeschoss,"['Wohnung', '•', 'Görlitz', 'Südstadt']",['Balkon'],Miete zzgl. NK 600 €,Wohnfläche ca. 98 m²,Zi. 4,165,14
-26,selObject_44762721,großzügige 2 RWE mit neuer EBK im Stadtzentrum,"['Wohnung', '•', 'Zittau', 'Zittau']",['EBK'],Miete zzgl. NK 310 €,Wohnfläche ca. 70 m²,Zi. 2,165,14
+0,selObject_44794445,3 -Raum #Exlusiv in alter Schule unterm #Glockenturm,"[['Etagenwohnung', '•', 'Stollberg', 'Gablenz']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 590 €,Wohnfläche ca. 80 m²,Zi. 3,165,14
+1,selObject_44794442,"SUPER 3-R Wohnung mit Sonnenterrasse, frei ab 9/2021","[['Wohnung', '•', 'Stollberg', 'Stollberg']]",['Garten'],Miete zzgl. NK 670 €,Wohnfläche ca. 88 m²,Zi. 3,165,14
+2,selObject_44794370,2- Zimmer Wohnung mit Balkon,"[['Dachgeschosswohnung', '•', 'Freiberg,', 'Sachs', 'Freiberg']]",['Balkon'],Miete zzgl. NK 320 €,Wohnfläche ca. 65 m²,Zi. 2,165,14
+3,selObject_44794336,Tolle 2-Raum-Wg mit Balkon in ruhiger Lage mit Einbauk...,"[['Etagenwohnung', '•', 'Stollberg', 'Gablenz']]",['EBK'],Miete zzgl. NK 310 €,Wohnfläche ca. 58 m²,Zi. 2,165,14
+4,selObject_44794323,Frisch renovierte 2-Zimmer-Wohnung mit 2 Balkonen in...,"[['Etagenwohnung', '•', 'Leipzig', 'Zentrum-Ost']]",['Balkon'],Miete zzgl. NK 550 €,Wohnfläche ca. 60 m²,Zi. 2,165,14
+5,selObject_44794056,Frisch renoviert - gemütliche 2 - Zimmer Wohnung mit...,"[['Apartment', '•', 'Plauen', 'Chrieschwitz']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 320 €,Wohnfläche ca. 60 m²,Zi. 2,165,14
+6,selObject_44793943,"perfekte Familienwohnung, ERSTBEZUG","[['Etagenwohnung', '•', 'Leipzig', 'Volkmarsdorf']]",['Balkon'],Miete zzgl. NK 1.110 €,Wohnfläche ca. 123 m²,Zi. 4,165,14
+7,selObject_44792866,Apartment mit Panoramafenster!,"[['Wohnung', '•', 'Frankenberg', 'Dittersbach']]",[],Miete zzgl. NK 150 €,Wohnfläche ca. 29 m²,Zi. 1,165,14
+8,selObject_44792699,Gemütliche 3-Raum-Wohnung in ruhiger Lage,"[['Etagenwohnung', '•', 'Pirna', 'Pirna']]",[],"Miete zzgl. NK 341,82 €",Wohnfläche ca. 63 m²,Zi. 3,165,14
+9,selObject_44792660,"tolle, helle Zweiraumwohnung mit Balkon und Tiefgarage...","[['Wohnung', '•', 'Käbschütztal', 'Löthain']]","['Balkon', 'Garten']",Miete zzgl. NK 420 €,Wohnfläche ca. 81 m²,Zi. 3,165,14
+10,selObject_44792655,Sie wählen die Ausstattung der Wohnung und wir bauen...,"[['Wohnung', '•', 'Chemnitz', 'Hutholz']]",['Balkon'],Miete zzgl. NK 215 €,Wohnfläche ca. 41 m²,Zi. 2,165,14
+11,selObject_44792637,Kompakte Single-Wohnung mit Weitblick,"[['Etagenwohnung', '•', 'Pirna', 'Pirna']]",[],"Miete zzgl. NK 153,33 €",Wohnfläche ca. 27 m²,Zi. 1,165,14
+12,selObject_44792634,Schöne 2-Raumwohnung mit Balkon und EBK,"[['Etagenwohnung', '•', 'Borna', 'Borna']]","['Balkon', 'EBK']","Miete zzgl. NK 314,80 €",Wohnfläche ca. 63 m²,Zi. 2,165,14
+13,selObject_44792612,Mit Balkon: schicke 3-Raum-Wohnung in Pirna Copitz,"[['Etagenwohnung', '•', 'Pirna', 'Pirna']]",['Balkon'],"Miete zzgl. NK 318,38 €",Wohnfläche ca. 66 m²,Zi. 3,165,14
+14,selObject_44792579,Idyllische Lage: hübsche 3-Raum-Wohnung,"[['Etagenwohnung', '•', 'Pirna', 'Pirna']]",['Balkon'],"Miete zzgl. NK 376,84 €",Wohnfläche ca. 61 m²,Zi. 3,165,14
+15,selObject_44792568,Junges Wohnen: bezugsfertige 2-Raum-Wohnung mit großem...,"[['Etagenwohnung', '•', 'Riesa', 'Weida']]",['Balkon'],Miete zzgl. NK 265 €,Wohnfläche ca. 55 m²,Zi. 2,165,14
+16,selObject_44792529,Im Herzen der Pirnaer Altstadt: 2-Raum-Erdgeschosswohn...,"[['Erdgeschosswohnung', '•', 'Pirna', 'Pirna']]",['Balkon'],"Miete zzgl. NK 314,90 €",Wohnfläche ca. 47 m²,Zi. 2,165,14
+17,selObject_44792492,geräumige 2- Raumwohnung im ruhigen Innenstadtbereich,"[['Etagenwohnung', '•', 'Görlitz', 'Innenstadt']]",[],Miete zzgl. NK 240 €,Wohnfläche ca. 75 m²,Zi. 2,165,14
+18,selObject_44792460,Hübsche Maisonettewohnung im Dachgeschoss in kleiner...,"[['Wohnung', '•', 'Dresden', 'Loschwitz/Wachwitz']]",[],Miete zzgl. NK 850 €,Wohnfläche ca. 77 m²,Zi. 3,165,14
+19,selObject_44792439,"3 Raum Wohnung mit Balkon, exponierte Lage","[['Wohnung', '•', 'Auerbach', 'Auerbach']]",['Balkon'],Miete zzgl. NK 340 €,Wohnfläche ca. 64 m²,Zi. 3,165,14
+20,selObject_44792276,Alles neu für Sie!! 2-Raum-Wohnung in Annaberg!!,"[['Etagenwohnung', '•', 'Annaberg-Buchholz', 'Annaberg']]",['Garten'],Miete zzgl. NK 375 €,Wohnfläche ca. 50 m²,Zi. 2,165,14
+21,selObject_44792194,Sehr schöne Dreiraumwohnung sucht netten Mieter,"[['Dachgeschosswohnung', '•', 'Leipzig', 'Eutritzsch']]",[],Miete zzgl. NK 495 €,Wohnfläche ca. 80 m²,Zi. 3,165,14
+22,selObject_44792159,Einziehen und glücklich sein,"[['Etagenwohnung', '•', 'Leipzig', 'Wahren']]",['Balkon'],Miete zzgl. NK 380 €,Wohnfläche ca. 58 m²,Zi. 2,165,14
+23,selObject_44792139,Ihre Zukunft - Ihre Wohnung: praktische 2-Zi.-Wohnung,"[['Erdgeschosswohnung', '•', 'Leipzig', 'Marienbrunn']]",['Balkon'],"Miete zzgl. NK 437,91 €",Wohnfläche ca. 65 m²,Zi. 2,165,14
+24,selObject_44792086,3- Zimmerwohnung mit Duschbad in Elbnähe sucht nette...,"[['Etagenwohnung', '•', 'Dresden', 'Johannstadt-Nord']]",['Balkon'],Miete zzgl. NK 515 €,Wohnfläche ca. 67 m²,Zi. 3,165,14
+25,selObject_44792072,Hier ist ihr neues Wohnglück - ansprechende Dreizimmer...,"[['Etagenwohnung', '•', 'Leipzig', 'Möckern']]",['Balkon'],Miete zzgl. NK 520 €,Wohnfläche ca. 77 m²,Zi. 3,165,14
+26,selObject_44792014,2-Zimmer DG-wohnung mit Balkon und Stellplatz*EBK mögl...,"[['Dachgeschosswohnung', '•', 'Markranstädt', 'Markranstädt']]",['EBK'],Miete zzgl. NK 340 €,Wohnfläche ca. 61 m²,Zi. 2,165,14

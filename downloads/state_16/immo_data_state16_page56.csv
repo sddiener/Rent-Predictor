@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44572505,Studenten aufgepasst! WG-Haus kurz vor Fertigstellung,"['Etagenwohnung', '•', 'Erfurt', 'Erfurt-Altstadt']",['EBK'],Miete zzgl. NK 980 €,Wohnfläche ca. 98 m²,Zi. 5,56,16
-1,selObject_44572485,"3-Raum Wohnung mit Kamin und schönen Bad, EBK, PKW-Ste...","['Wohnung', '•', 'Schalkau', 'Schalkau']","['Garten', 'EBK']",Miete zzgl. NK 389 €,Wohnfläche ca. 60 m²,Zi. 3,56,16
-2,selObject_44572427,"2 Zimmerwohnung renoviert mit Kamin, SP möglich","['Wohnung', '•', 'Schalkau', 'Schalkau']",['Garten'],Miete zzgl. NK 279 €,Wohnfläche ca. 48 m²,Zi. 2,56,16
-3,selObject_44569975,Gemütliche 3-Raum-Wohnung in familienfreundlichem Umfe...,"['Wohnung', '•', 'Gera', 'Bieblach']",['Balkon'],Miete zzgl. NK 320 €,Wohnfläche ca. 59 m²,Zi. 3,56,16
-4,selObject_44566921,Praktische Single-Wohnung in gefragter Lage!,"['Etagenwohnung', '•', 'Gera', 'Lusan']",[],"Miete zzgl. NK 175,99 €",Wohnfläche ca. 32 m²,Zi. 1,56,16
-5,selObject_44566273,Mit Video! Geräumige 2-Raum-WE in Altbieblach mit EBK,"['Wohnung', '•', 'Gera', 'Bieblach']","['Balkon', 'EBK']",Miete zzgl. NK 435 €,Wohnfläche ca. 77 m²,Zi. 2,56,16
-6,selObject_44565625,Maisonette-Wohnung - Ihr Wohntraum in Suhl,"['Wohnung', '•', 'Suhl', 'Suhl']","['Balkon', 'EBK']","Miete zzgl. NK 842,11 €",Wohnfläche ca. 81 m²,Zi. 3,56,16
-7,selObject_44565582,Gemütliche 2-Raum-Wohnung in Lusan!,"['Dachgeschosswohnung', '•', 'Gera', 'Lusan']",['Balkon'],"Miete zzgl. NK 226,32 €",Wohnfläche ca. 55 m²,Zi. 2,56,16
-8,selObject_44565149,Singles aufgepasst | Eine kleine feine Wohnung | Einba...,"['Etagenwohnung', '•', 'Gera', 'Debschwitz']",[],Miete zzgl. NK 260 €,Wohnfläche ca. 46 m²,Zi. 2,56,16
-9,selObject_44564316,Helle 2 - Raum - Wohnung in Gera Zwötzen,"['Wohnung', '•', 'Gera', 'Zwötzen']",[],Miete zzgl. NK 245 €,Wohnfläche ca. 45 m²,Zi. 2,56,16
-10,selObject_44564010,Neubau-Erstbezug **Hochwertige 3- Raum- Wohnung mit...,"['Etagenwohnung', '•', 'Hildburghausen', 'Hildburghausen']",['Balkon'],Miete zzgl. NK 700 €,Wohnfläche ca. 82 m²,Zi. 3,56,16
-11,selObject_44563846,1 Raum Wohnung in Ilmenau - Uninähe,"['Wohnung', '•', 'Ilmenau', 'Ilmenau']",['Balkon'],Miete zzgl. NK 282 €,Wohnfläche ca. 40 m²,Zi. 1,56,16
-12,selObject_44562756,Wohnen am Stadtrand - im Grünen,"['Wohnung', '•', 'Sondershausen', 'Sondershausen']",[],"Miete zzgl. NK 250,54 €",Wohnfläche ca. 46 m²,Zi. 2,56,16
-13,selObject_44562476,"Wir haben Betriebsurlaub bis 15.August! 1,5 Zimmer-...","['Wohnung', '•', 'Sonneberg', 'Sonneberg']",['Balkon'],Miete zzgl. NK 260 €,Wohnfläche ca. 43 m²,"Zi. 1,5",56,16
-14,selObject_44562276,"2R, Rudolstadt/ Zentrum, topsaniert","['Wohnung', '•', 'Rudolstadt', 'Schaala']",[],Miete zzgl. NK 330 €,Wohnfläche ca. 53 m²,Zi. 2,56,16
-15,selObject_44561849,Ruhige Zweiraumwohnung im Stadtzentrum,"['Etagenwohnung', '•', 'Bad', 'Langensalza', 'Bad', 'Langensalza']",[],"Miete zzgl. NK 254,70 €",Wohnfläche ca. 42 m²,Zi. 2,56,16
-16,selObject_44561760,"2R, Rudolstadt/ West, beste Lage, Terrasse","['Erdgeschosswohnung', '•', 'Rudolstadt', 'Schaala']",['Garten'],Miete zzgl. NK 320 €,Wohnfläche ca. 47 m²,Zi. 2,56,16
-17,selObject_44561730,frisch sanierte Whg. mit begehbaren Kleiderschrank im...,"['Wohnung', '•', 'Gera', 'Lusan']","['Balkon', 'EBK']",Miete zzgl. NK 276 €,Wohnfläche ca. 55 m²,Zi. 2,56,16
-18,selObject_44561701,"2R, Rudolstadt/ Zentrum, DG, EBK","['Dachgeschosswohnung', '•', 'Rudolstadt', 'Keilhau']",['EBK'],Miete zzgl. NK 330 €,Wohnfläche ca. 53 m²,Zi. 2,56,16
-19,selObject_44561133,Frisch renoviert - hereinspaziert!,"['Etagenwohnung', '•', 'Gera', 'Ostviertel']",[],Miete zzgl. NK 190 €,Wohnfläche ca. 30 m²,Zi. 1,56,16
-20,selObject_44561059,4-Raum-Wohnung in Sonneberg (zentrumsnah) ca. 95 m²,"['Wohnung', '•', 'Sonneberg', 'Sonneberg']",[],Miete zzgl. NK 525 €,Wohnfläche ca. 95 m²,,56,16
-21,selObject_44553124,Schöne Wohnung im Altbau - ideal zum Arbeiten von Zuha...,"['Etagenwohnung', '•', 'Schmalkalden', 'Schmalkalden']",['Balkon'],"Miete zzgl. NK 835,16 €",Wohnfläche ca. 87 m²,"Zi. 3,5",56,16
-22,selObject_44552301,2-R-W in Großbodungen mit Balkon und Weitblick & Fenst...,"['Etagenwohnung', '•', 'Bischofferode', 'Bischofferode']","['Balkon', 'Garten']",Miete zzgl. NK 270 €,Wohnfläche ca. 54 m²,Zi. 2,56,16
-23,selObject_44552024,==Top sanierte 3.Zimmerwohnung mit Stellplatz in Aga...,"['Erdgeschosswohnung', '•', 'Gera', 'Aga']",[],Miete zzgl. NK 372 €,Wohnfläche ca. 62 m²,Zi. 3,56,16
-24,selObject_44550902,Wohnung mit Einbauküche übernehmen!,"['Etagenwohnung', '•', 'Erfurt', 'Stotternheim']","['Balkon', 'EBK']",Miete zzgl. NK 315 €,Wohnfläche ca. 48 m²,Zi. 2,56,16
-25,selObject_44550582,Die perfekte Wohnung für Deine Familie!,"['Etagenwohnung', '•', 'Gera', 'Lusan']",['Balkon'],"Miete zzgl. NK 331,30 €",Wohnfläche ca. 69 m²,Zi. 3,56,16
-26,selObject_44550566,Wohnen direkt am Domplatz,"['Wohnung', '•', 'Erfurt', 'Erfurt-Altstadt']",['Balkon'],Miete zzgl. NK 747 €,Wohnfläche ca. 83 m²,Zi. 3,56,16
+0,selObject_44587693,1-Zimmer Apartment in alter Stadtvilla,"[['Dachgeschosswohnung', '•', 'Jena', 'West']]",['EBK'],Miete zzgl. NK 255 €,Wohnfläche ca. 33 m²,Zi. 1,56,16
+1,selObject_44587013,Ihre neue Wohnung!,"[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Nordhausen', 'Nordhausen']]",['Balkon'],"Miete zzgl. NK 290,75 €",Wohnfläche ca. 59 m²,Zi. 3,56,16
+2,selObject_44586954,Achtung! Jetzt bei der TAG 2 Kaltmieten sparen*,"[['Wohnung', '•', 'Gera', 'Pforten']]",[],Miete zzgl. NK 325 €,Wohnfläche ca. 66 m²,Zi. 3,56,16
+3,selObject_44586952,Achtung! Jetzt bei der TAG 2 Kaltmieten sparen*,"[['Wohnung', '•', 'Gera', 'Innenstadt']]",[],Miete zzgl. NK 295 €,Wohnfläche ca. 57 m²,Zi. 3,56,16
+4,selObject_44586951,"Ball suchen, Wohnung finden und Bonus sichern*","[['Wohnung', '•', 'Gera', 'Innenstadt']]",['Garten'],Miete zzgl. NK 314 €,Wohnfläche ca. 64 m²,Zi. 3,56,16
+5,selObject_44586903,Unser Geschenk für neue Mieter*,"[['Dachgeschosswohnung', '•', 'Gera', 'Ostviertel']]",[],Miete zzgl. NK 350 €,Wohnfläche ca. 70 m²,Zi. 3,56,16
+6,selObject_44586902,"Ball suchen, Wohnung finden und Bonus sichern*","[['Wohnung', '•', 'Gera', 'Ostviertel']]",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 60 m²,Zi. 2,56,16
+7,selObject_44586862,Abkühlung für Ihre Geldbörse - 2 Kaltmieten geschenkt*,"[['Wohnung', '•', 'Gera', 'Ostviertel']]",['Balkon'],Miete zzgl. NK 275 €,Wohnfläche ca. 54 m²,Zi. 2,56,16
+8,selObject_44586861,Bei der TAG sparen Sie 2 Kaltmieten*,"[['Wohnung', '•', 'Gera', 'Ostviertel']]",['Balkon'],Miete zzgl. NK 260 €,Wohnfläche ca. 54 m²,Zi. 2,56,16
+9,selObject_44586839,Achtung!!! Jetzt bei der TAG 2 Kaltmieten sparen*,"[['Wohnung', '•', 'Gera', 'Innenstadt']]",[],Miete zzgl. NK 320 €,Wohnfläche ca. 61 m²,Zi. 3,56,16
+10,selObject_44586836,Unser Geschenk für neue Mieter*,"[['Wohnung', '•', 'Gera', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 360 €,Wohnfläche ca. 70 m²,Zi. 3,56,16
+11,selObject_44586804,Unser Geschenk für neue Mieter*,"[['Dachgeschosswohnung', '•', 'Gera', 'Innenstadt']]",[],Miete zzgl. NK 260 €,Wohnfläche ca. 51 m²,Zi. 2,56,16
+12,selObject_44586802,"Ball suchen, Wohnung finden und Bonus sichern*","[['Wohnung', '•', 'Gera', 'Ostviertel']]",['Balkon'],Miete zzgl. NK 340 €,Wohnfläche ca. 67 m²,Zi. 2,56,16
+13,selObject_44586560,"Ball suchen, Wohnung finden und Bonus sichern*","[['Etagenwohnung', '•', 'Gera', 'Lusan']]",['Balkon'],Miete zzgl. NK 175 €,Wohnfläche ca. 34 m²,Zi. 1,56,16
+14,selObject_44586557,Unser Geschenk für neue Mieter*,"[['Wohnung', '•', 'Gera', 'Lusan']]",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 57 m²,Zi. 2,56,16
+15,selObject_44586555,Bei der TAG sparen Sie 2 Kaltmieten*,"[['Etagenwohnung', '•', 'Gera', 'Lusan']]",['Balkon'],Miete zzgl. NK 355 €,Wohnfläche ca. 68 m²,Zi. 3,56,16
+16,selObject_44586531,Individuelle 3-Raum- Wohnung mit Einbauküche in Neusta...,"[['Etagenwohnung', '•', 'Neustadt', 'Neustadt']]",[],Miete zzgl. NK 498 €,Wohnfläche ca. 56 m²,Zi. 3,56,16
+17,selObject_44586524,Exklusive 4-Raum-Maisonette-Wohnung mit Einbauküche in...,"[['Maisonette', '•', 'Neustadt', 'Neustadt']]",[],Miete zzgl. NK 750 €,Wohnfläche ca. 84 m²,Zi. 4,56,16
+18,selObject_44586520,Abkühlung für Ihre Geldbörse - 2 Kaltmieten geschenkt*,"[['Dachgeschosswohnung', '•', 'Gera', 'Leumnitz']]",['Garten'],Miete zzgl. NK 305 €,Wohnfläche ca. 62 m²,Zi. 3,56,16
+19,selObject_44586513,2 Balkone - jetzt kann der Sommer kommen!,"[['Erdgeschosswohnung', '•', 'Erfurt', 'Herrenberg']]",['Balkon'],Miete zzgl. NK 300 €,Wohnfläche ca. 51 m²,Zi. 2,56,16
+20,selObject_44586488,Der Sommer wird heiß - als Abkühlung 2 Kaltmieten gesc...,"[['Wohnung', '•', 'Gera', 'Lusan']]",['Balkon'],Miete zzgl. NK 200 €,Wohnfläche ca. 34 m²,Zi. 1,56,16
+21,selObject_44586474,Unser Geschenk für neue Mieter*,"[['Wohnung', '•', 'Gera', 'Lusan']]",['Balkon'],Miete zzgl. NK 305 €,Wohnfläche ca. 59 m²,Zi. 2,56,16
+22,selObject_44586344,Ihre neue Wohnung!,"[['Etagenwohnung', '•', 'Nordhausen', 'Nordhausen']]",['Balkon'],"Miete zzgl. NK 267,75 €",Wohnfläche ca. 59 m²,Zi. 3,56,16
+23,selObject_44585942,3 RaumWohnun im Forstberggebiet,"[['Wohnung', '•', 'Mühlhausen', 'Mühlhausen']]",['Balkon'],Miete zzgl. NK 319 €,Wohnfläche ca. 58 m²,Zi. 3,56,16
+24,selObject_44585716,Unser Geschenk für neue Mieter*,"[['Wohnung', '•', 'Gera', 'Lusan']]",['Balkon'],Miete zzgl. NK 300 €,Wohnfläche ca. 61 m²,Zi. 3,56,16
+25,selObject_44585529,"Ball suchen, Wohnung finden und Bonus sichern*","[['Wohnung', '•', 'Gera', 'Lusan']]",['Balkon'],Miete zzgl. NK 265 €,Wohnfläche ca. 55 m²,Zi. 2,56,16
+26,selObject_44584789,Bei der TAG Wohnen sparen sie jetzt 2 Monate die Kaltm...,"[['Wohnung', '•', 'Gera', 'Lusan']]",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 58 m²,Zi. 3,56,16

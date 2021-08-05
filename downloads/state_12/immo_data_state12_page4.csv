@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_45005155,NEU Große 4-Raum-Wohnung mit zwei Balkonen und Stellplatz...,"['Maisonette', '•', 'Cottbus', 'Schmellwitz']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 1.290 €,Wohnfläche ca. 145 m²,Zi. 4,4,12
-1,selObject_45005099,NEU Schöne 2-Zimmer-Wohnung mit Seeblick und Gemeinschafts...,"['Wohnung', '•', 'Königs', 'Wusterhausen', 'Neue', 'Mühle']","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 720 €,Wohnfläche ca. 56 m²,Zi. 2,4,12
-2,selObject_45004948,NEU Lichtdurchflutete 3-Zimmer Wohnung!,"['Etagenwohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']","['NEU', 'NEU']",Miete zzgl. NK 478 €,Wohnfläche ca. 90 m²,Zi. 3,4,12
-3,selObject_45004623,NEU 3-Zimmer-Wohnung ab 01.08.2021 in Frankfurt (Oder)...,"['Etagenwohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 479 €,Wohnfläche ca. 68 m²,Zi. 3,4,12
-4,selObject_45004240,NEU 1-Raum-Wohnung in der 1. Etage - möbliert,"['Wohnung', '•', 'Hohen', 'Neuendorf', 'Hohen', 'Neuendorf']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 350 €,Wohnfläche ca. 31 m²,Zi. 1,4,12
-5,selObject_45004005,NEU Platz für die ganze Familie! - wohnen im Umland von...,"['Etagenwohnung', '•', 'Strausberg', 'Strausberg']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 654,80 €",Wohnfläche ca. 82 m²,Zi. 3,4,12
-6,selObject_45003997,"NEU Einfach schön, einfach meins - einfach Kirchsteigfeld...","['Dachgeschosswohnung', '•', 'Potsdam', 'Kirchsteigfeld']","['NEU', 'NEU']","Miete zzgl. NK 550,18 €",Wohnfläche ca. 57 m²,Zi. 2,4,12
-7,selObject_45003515,"NEU 3 Zimmer - Traumwohnung mit Echtholzparkett, Fußbodenh...","['Wohnung', '•', 'Potsdam', 'Nauener', 'Vorstadt']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 1.100 €,Wohnfläche ca. 84 m²,Zi. 3,4,12
-8,selObject_45003509,NEU BebelQuartier für Familien,"['Wohnung', '•', 'Eberswalde', 'Eberswalde']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 720 €,Wohnfläche ca. 68 m²,Zi. 3,4,12
-9,selObject_45001983,NEU Kleines Nest in historischem Ambiente - Ideal für Sing...,"['Etagenwohnung', '•', 'Brieske']","['NEU', 'NEU']",Miete zzgl. NK 265 €,Wohnfläche ca. 38 m²,Zi. 1,4,12
-10,selObject_45001513,NEU Ihr neues Zuhause in Kolkwitz - Familienwohnung mit...,"['Etagenwohnung', '•', 'Kolkwitz', 'Kolkwitz']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 340 €,Wohnfläche ca. 76 m²,Zi. 4,4,12
-11,selObject_45001159,NEU Treppensteigen wird belohnt! Ihre neue Wohnung in Sand...,"['Etagenwohnung', '•', 'Cottbus', 'Sandow']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 345 €,Wohnfläche ca. 63 m²,Zi. 3,4,12
-12,selObject_45000578,NEU Single-Traum - schöne Wohnung in Sandow,"['Wohnung', '•', 'Cottbus', 'Sandow']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 260,45 €",Wohnfläche ca. 48 m²,Zi. 2,4,12
-13,selObject_45000575,NEU Schöne Erdgeschosswohnung in beliebter Lage,"['Erdgeschosswohnung', '•', 'Cottbus', 'Schmellwitz']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 330,85 €",Wohnfläche ca. 45 m²,Zi. 2,4,12
-14,selObject_45000577,NEU Schöne Erdgeschosswohnung mit guter Nahverkehrsanbindu...,"['Erdgeschosswohnung', '•', 'Cottbus', 'Spremberger', 'Vorstadt']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 301,26 €",Wohnfläche ca. 49 m²,Zi. 2,4,12
-15,selObject_45000573,NEU Gemütliche Wohnung in ruhiger Lage mit Balkon,"['Wohnung', '•', 'Cottbus', 'Sandow']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 297,39 €",Wohnfläche ca. 57 m²,Zi. 3,4,12
-16,selObject_45000570,NEU Perfekt als erste eigene Wohnung,"['Wohnung', '•', 'Cottbus', 'Schmellwitz']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 226,89 €",Wohnfläche ca. 33 m²,Zi. 1,4,12
-17,selObject_44999529,NEU Moderne 2-Zimmer-Wohnung mit offener Küche,"['Apartment', '•', 'Oranienburg', 'Oranienburg']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 780 €,Wohnfläche ca. 67 m²,Zi. 2,4,12
-18,selObject_44998932,NEU 1-Zimmer Appartement (möbliert),"['Etagenwohnung', '•', 'Brandenburg', 'Altstadt']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 220 €,Wohnfläche ca. 27 m²,Zi. 1,4,12
-19,selObject_44998811,NEU 2-Raum-Wohnung mit Einbauküche sucht neuen Mieter bzw....,"['Wohnung', '•', 'Hennigsdorf']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 540 €,Wohnfläche ca. 58 m²,"Zi. 1,5",4,12
-20,selObject_44997313,NEU 5-Raum-Wohnung im Stadtzentrum am Lennépark,"['Maisonette', '•', 'Frankfurt', '(Oder)', 'Frankfurt']","['NEU', 'NEU']",Miete zzgl. NK 835 €,Wohnfläche ca. 152 m²,Zi. 5,4,12
-21,selObject_44997154,NEU 2-Raumwohnung im EG_ s. auch www.mattig-lindner-ohg.de,"['Wohnung', '•', 'Forst', 'Forst-Stadt']","['NEU', 'NEU', 'Garten']",Preis Auf Anfrage,Wohnfläche ca. 54 m²,Zi. 2,4,12
-22,selObject_44996876,NEU Großzügige 3-R-Altbauwohnung nahe der Oderpromenade...,"['Etagenwohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 533,98 €",Wohnfläche ca. 82 m²,Zi. 3,4,12
-23,selObject_44996653,NEU Singlewohnung im Zentrum von Frankfurt (Oder),"['Etagenwohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 189 €,Wohnfläche ca. 27 m²,Zi. 1,4,12
-24,selObject_44996612,NEU 3-Raumwohnung im Hochhaus mit tollem Ausblick,"['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']","['NEU', 'NEU']","Miete zzgl. NK 356,72 €",Wohnfläche ca. 69 m²,Zi. 3,4,12
-25,selObject_44996551,NEU Hier fühlt man sich wohl. Modernes Reihenmittelhaus...,"['Wohnung', '•', 'Wildau']","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 1.696 €,Wohnfläche ca. 126 m²,Zi. 4,4,12
-26,selObject_44996519,NEU Frisch für Sie saniert!,"['Etagenwohnung', '•', 'Cottbus', 'Schmellwitz']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 301,46 €",Wohnfläche ca. 57 m²,Zi. 3,4,12
+0,selObject_45039887,NEU Gemütliche 3-Raum Wohnung sucht neuen Bewohner!,"[['Dachgeschosswohnung', '•', 'Kyritz', 'Kyritz']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 440,89 €",Wohnfläche ca. 86 m²,Zi. 3,4,12
+1,selObject_45039833,NEU Einfach mehr zum Leben,"[['Dachgeschosswohnung', '•', 'Kyritz', 'Kyritz']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 417 €,Wohnfläche ca. 76 m²,Zi. 3,4,12
+2,selObject_45039306,NEU Gönn Dir ++ 4 Zimmer ++ 2 Balkone ++ Gäste-WC !!,"[['Etagenwohnung', '•', 'Potsdam', 'Kirchsteigfeld']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 946,89 €",Wohnfläche ca. 100 m²,Zi. 4,4,12
+3,selObject_45039291,NEU 2-Raum Wohnung in Cottbus / Spremberger Vorstadt,"[['Wohnung', '•', 'Cottbus', 'Spremberger', 'Vorstadt']]","['NEU', 'NEU']",Miete zzgl. NK 310 €,Wohnfläche ca. 53 m²,Zi. 2,4,12
+4,selObject_45039104,NEU Sie lieben etwas Besonderes ? Dann lieben Sie das Kirc...,"[['Etagenwohnung', '•', 'Potsdam', 'Kirchsteigfeld']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 516,77 €",Wohnfläche ca. 54 m²,"Zi. 1,5",4,12
+5,selObject_45038866,NEU Wohnen mit Service für Senioren,"[['Wohnung', '•', 'Eberswalde', 'Eberswalde']]","['NEU', 'NEU']",Miete zzgl. NK 233 €,Wohnfläche ca. 27 m²,Zi. 1,4,12
+6,selObject_45037230,NEU Renovierte helle 3-Zimmerwohnung mit bis zu 4m hohen...,"[['Wohnung', '•', 'Ludwigsfelde', 'Ludwigsfelde']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 883 €,Wohnfläche ca. 83 m²,Zi. 3,4,12
+7,selObject_45037152,NEU individuell geschnittene 2-Raum-Wohnung in der Sprembe...,"[['Etagenwohnung', '•', 'Cottbus', 'Spremberger', 'Vorstadt']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 310 €,Wohnfläche ca. 46 m²,Zi. 2,4,12
+8,selObject_45037151,NEU Interessant geschnittene 2-Raum Wohnung,"[['Etagenwohnung', '•', 'Cottbus', 'Mitte']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 500 €,Wohnfläche ca. 67 m²,Zi. 2,4,12
+9,selObject_45037148,NEU ruhiges Wohnen in der Spremberger Vorstadt,"[['Etagenwohnung', '•', 'Cottbus', 'Spremberger', 'Vorstadt']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 338 €,Wohnfläche ca. 50 m²,Zi. 2,4,12
+10,selObject_45035694,NEU Attraktive 3-Zimmerwohnung im modernen Dreifamilienhau...,"[['Etagenwohnung', '•', 'Nuthetal', 'Bergholz-Rehbrücke']]","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 1.100 €,Wohnfläche ca. 92 m²,Zi. 3,4,12
+11,selObject_45035390,NEU Sonnige 2-Zi.-Wohnung mit West-Balkon,"[['Wohnung', '•', 'Bernau', 'Birkholzaue']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 810 €,Wohnfläche ca. 67 m²,Zi. 2,4,12
+12,selObject_45035370,NEU Ruhige Balkon-Wohnung in Falksensee! **EBK**,"[['Etagenwohnung', '•', 'Falkensee']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 645 €,Wohnfläche ca. 53 m²,Zi. 2,4,12
+13,selObject_45035369,NEU Ihr neues Zuhause - 4 Zimmer mit Balkon!,"[['Etagenwohnung', '•', 'Bernau', 'Birkholzaue']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 1.105 €,Wohnfläche ca. 101 m²,Zi. 4,4,12
+14,selObject_45035274,NEU 3-Zimmerwohnung mit Süd-Loggia,"[['Etagenwohnung', '•', 'Bernau', 'Birkholzaue']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 1.070 €,Wohnfläche ca. 92 m²,Zi. 3,4,12
+15,selObject_45034339,NEU Familienfreunliches Zuhause mit guter Infrastruktur,"[['Wohnung', '•', 'Cottbus', 'Spremberger', 'Vorstadt']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 323,68 €",Wohnfläche ca. 59 m²,Zi. 3,4,12
+16,selObject_45034337,NEU Appartement im Stadtzentrum,"[['Wohnung', '•', 'Cottbus', 'Mitte']]","['NEU', 'NEU']","Miete zzgl. NK 292,54 €",Wohnfläche ca. 60 m²,Zi. 3,4,12
+17,selObject_45034338,NEU Perfekt als erste eigene Wohnung,"[['Wohnung', '•', 'Cottbus', 'Mitte']]","['NEU', 'NEU']","Miete zzgl. NK 231,23 €",Wohnfläche ca. 45 m²,Zi. 2,4,12
+18,selObject_45034335,NEU Perfekt als erste eigene Wohnung,"[['Erdgeschosswohnung', '•', 'Cottbus', 'Mitte']]","['NEU', 'NEU']","Miete zzgl. NK 201,94 €",Wohnfläche ca. 36 m²,Zi. 1,4,12
+19,selObject_45034333,NEU Perfekt als erste eigene Wohnung,"[['Wohnung', '•', 'Cottbus', 'Mitte']]","['NEU', 'NEU']","Miete zzgl. NK 168,48 €",Wohnfläche ca. 35 m²,Zi. 1,4,12
+20,selObject_45034332,NEU Nur wenige Stufen in Ihr neues Zuhause,"[['Wohnung', '•', 'Cottbus', 'Spremberger', 'Vorstadt']]","['NEU', 'NEU']","Miete zzgl. NK 292,95 €",Wohnfläche ca. 59 m²,Zi. 3,4,12
+21,selObject_45034331,NEU Perfekt als erste eigene Wohnung,"[['Wohnung', '•', 'Cottbus', 'Mitte']]","['NEU', 'NEU']","Miete zzgl. NK 187,12 €",Wohnfläche ca. 40 m²,Zi. 1,4,12
+22,selObject_45034328,NEU Ihre neue Wohnung mitten in der Stadt,"[['Wohnung', '•', 'Cottbus', 'Mitte']]","['NEU', 'NEU']","Miete zzgl. NK 249,70 €",Wohnfläche ca. 50 m²,Zi. 3,4,12
+23,selObject_45033392,NEU Frisch saniert und für Ihren Einzug bereit!,"[['Etagenwohnung', '•', 'Brandenburg', 'Neustadt']]","['NEU', 'NEU']",Miete zzgl. NK 1.075 €,Wohnfläche ca. 140 m²,Zi. 4,4,12
+24,selObject_45032398,NEU Schöne 2 Zimmer Hochparterre Wohnung mit Blick ins...,"[['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 360 €,Wohnfläche ca. 60 m²,Zi. 2,4,12
+25,selObject_45031677,"NEU 3,5-Zi.-Wohnung in Potsdam-Bornim zu vermieten","[['Wohnung', '•', 'Potsdam', 'Bornim']]","['NEU', 'NEU']",Miete zzgl. NK 1.000 €,Wohnfläche ca. 100 m²,"Zi. 3,5",4,12
+26,selObject_45031653,NEU gemütliche 2-Raum Wohnung mit Balkon im Stadtzentrum,"[['Erdgeschosswohnung', '•', 'Cottbus', 'Mitte']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 280 €,Wohnfläche ca. 40 m²,Zi. 2,4,12

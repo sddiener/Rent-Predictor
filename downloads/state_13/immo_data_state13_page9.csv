@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44956187,Moderne 2-Raum Dachgeschoss-Wohnung mit EBK und Aufzug...,"['Dachgeschosswohnung', '•', 'Stralsund', 'Altstadt']",['EBK'],"Miete zzgl. NK 398,70 €",Wohnfläche ca. 43 m²,Zi. 2,9,13
-1,selObject_44956056,Seniorenwohnungen - Betreutes Wohnen in Stralsund,"['Etagenwohnung', '•', 'Stralsund', 'Altstadt']",[],"Miete zzgl. NK 204,18 €",Wohnfläche ca. 30 m²,Zi. 1,9,13
-2,selObject_44956054,Seniorenwohnungen - Betreutes Wohnen in Stralsund,"['Etagenwohnung', '•', 'Stralsund', 'Altstadt']",[],"Miete zzgl. NK 223,74 €",Wohnfläche ca. 29 m²,Zi. 1,9,13
-3,selObject_44955723,3-Raum-Wohnung in Sassnitz,"['Etagenwohnung', '•', 'Sassnitz', 'Sassnitz']",['Balkon'],Miete zzgl. NK 415 €,Wohnfläche ca. 64 m²,Zi. 3,9,13
-4,selObject_44955632,Du willst endlich Deine eigene Wohnung?,"['Etagenwohnung', '•', 'Neubrandenburg', 'Reitbahnviertel']",[],Miete zzgl. NK 132 €,Wohnfläche ca. 26 m²,Zi. 1,9,13
-5,selObject_44955607,Moderne 4 Zimmer Wohnung mit EBK,"['Etagenwohnung', '•', 'Schwerin', 'Mueßer', 'Holz']","['Balkon', 'EBK']",Miete zzgl. NK 582 €,Wohnfläche ca. 81 m²,Zi. 4,9,13
-6,selObject_44955584,Dachgeschosswohnung,"['Dachgeschosswohnung', '•', 'Pasewalk', 'Pasewalk']",['Balkon'],"Miete zzgl. NK 310,50 €",Wohnfläche ca. 69 m²,Zi. 2,9,13
-7,selObject_44955519,Für Sie frisch hergerichtet,"['Etagenwohnung', '•', 'Schwerin', 'Großer', 'Dreesch']",['Balkon'],Miete zzgl. NK 279 €,Wohnfläche ca. 47 m²,Zi. 2,9,13
-8,selObject_44955509,zentrumsnahe kleine 3-Raumwohnung,"['Etagenwohnung', '•', 'Greifswald', 'Fleischervorstadt']",['Garten'],Miete zzgl. NK 360 €,Wohnfläche ca. 50 m²,Zi. 3,9,13
-9,selObject_44955436,3-Raum-Wohnung am Markt mit Dachterrasse,"['Etagenwohnung', '•', 'Neustrelitz', 'Stadtmitte']",[],"Miete zzgl. NK 611,59 €",Wohnfläche ca. 94 m²,Zi. 3,9,13
-10,selObject_44955211,Frisch sanierte 4 Raumwohnung mit Balkon!,"['Etagenwohnung', '•', 'Schwerin', 'Mueßer', 'Holz']",['Balkon'],Miete zzgl. NK 385 €,Wohnfläche ca. 72 m²,Zi. 4,9,13
-11,selObject_44955188,Seniorenwohnungen - Betreutes Wohnen in Stralsund -...,"['Etagenwohnung', '•', 'Stralsund', 'Altstadt']",[],"Miete zzgl. NK 299,31 €",Wohnfläche ca. 54 m²,,9,13
-12,selObject_44955174,Seniorenwohnungen - Betreutes Wohnen in Stralsund -...,"['Etagenwohnung', '•', 'Stralsund', 'Altstadt']",[],"Miete zzgl. NK 298,95 €",Wohnfläche ca. 40 m²,,9,13
-13,selObject_44955058,3 Raumwohnung mit Balkon!,"['Wohnung', '•', 'Schwerin', 'Mueßer', 'Holz']",['Balkon'],Miete zzgl. NK 316 €,Wohnfläche ca. 57 m²,Zi. 3,9,13
-14,selObject_44954844,Sanierte 4 Raumwohnung für Ihre kleine Familie!,"['Wohnung', '•', 'Schwerin', 'Mueßer', 'Holz']",['Balkon'],Miete zzgl. NK 385 €,Wohnfläche ca. 72 m²,Zi. 4,9,13
-15,selObject_44954455,Moderne Erdgeschoss Single-Wohnung im Zentrum von Parc...,"['Erdgeschosswohnung', '•', 'Parchim', 'Parchim']",['EBK'],Miete zzgl. NK 390 €,Wohnfläche ca. 54 m²,Zi. 1,9,13
-16,selObject_44954301,Ruhige 2-Raumwohnung in Parchim!!!,"['Etagenwohnung', '•', 'Parchim', 'Parchim']",['EBK'],Miete zzgl. NK 350 €,Wohnfläche ca. 57 m²,Zi. 2,9,13
-17,selObject_44954230,Nette Hofgmeinschaft sucht Paar (50-60 Jahre alt) für...,"['Wohnung', '•', 'Usedom', 'Karnin']","['Garten', 'EBK']",Miete zzgl. NK 710 €,Wohnfläche ca. 125 m²,Zi. 3,9,13
-18,selObject_44953704,Große 4 Raumwohnung mit Balkon!,"['Etagenwohnung', '•', 'Schwerin', 'Mueßer', 'Holz']",['Balkon'],Miete zzgl. NK 465 €,Wohnfläche ca. 82 m²,Zi. 4,9,13
-19,selObject_44953653,Wohnen in der Innenstadt,"['Erdgeschosswohnung', '•', 'Neubrandenburg', 'Innenstadt']",[],Miete zzgl. NK 260 €,Wohnfläche ca. 33 m²,Zi. 1,9,13
-20,selObject_44953499,Preiswerter Wohnraum in Satow bei Rostock zu vermieten...,"['Etagenwohnung', '•', 'Satow', 'Satow']",['Garten'],Miete zzgl. NK 309 €,Wohnfläche ca. 51 m²,Zi. 2,9,13
-21,selObject_44953272,Große 2-Zi. Whg. mit separater Küche & Balkon,"['Wohnung', '•', 'Stralsund', 'Frankenvorstadt']",['Balkon'],Miete zzgl. NK 500 €,Wohnfläche ca. 56 m²,Zi. 2,9,13
-22,selObject_44953084,attraktive 3-Raum-Wohnung mit Balkon und Müritzblick,"['Etagenwohnung', '•', 'Waren', 'Waren']","['Balkon', 'EBK']",Miete zzgl. NK 435 €,Wohnfläche ca. 65 m²,Zi. 3,9,13
-23,selObject_44953067,Wer will und hat noch nicht? Renovierte 2-Zimmer-Wohnu...,"['Etagenwohnung', '•', 'Boizenburg', 'Boizenburg']",[],Miete zzgl. NK 287 €,Wohnfläche ca. 53 m²,Zi. 2,9,13
-24,selObject_44953053,Landluft gefällig? TOP renovierte 2-Zimmer-Wohnung...,"['Etagenwohnung', '•', 'Vellahn']",[],Miete zzgl. NK 316 €,Wohnfläche ca. 43 m²,Zi. 2,9,13
-25,selObject_44952698,Erholung pur! Renovierte 3-Zimmer-Wohnung auf dem Land...,"['Etagenwohnung', '•', 'Brahlstorf', 'Brahlstorf']",['Balkon'],Miete zzgl. NK 280 €,Wohnfläche ca. 56 m²,Zi. 3,9,13
-26,selObject_44949962,Stadtvillen am Strelasund | Zeitlos. Elegant. Einzigar...,"['Wohnung', '•', 'Stralsund', 'Knieper']","['Balkon', 'Garten', 'EBK']","Miete zzgl. NK 763,31 €",Wohnfläche ca. 66 m²,Zi. 2,9,13
+0,selObject_44994081,NEU Frisch sanierte 3 Raumwohnung mit Balkon!,"[['Etagenwohnung', '•', 'Hagenow']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 320 €,Wohnfläche ca. 61 m²,Zi. 3,9,13
+1,selObject_44993970,NEU 4 Raumwohnung zum Wohlfühlen!,"[['Etagenwohnung', '•', 'Schwerin', 'Mueßer', 'Holz']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 370 €,Wohnfläche ca. 67 m²,Zi. 4,9,13
+2,selObject_44993925,NEU 2-Zimmer-Erdgeschoss-Wohnung in Klütz,"[['Wohnung', '•', 'Klütz']]","['NEU', 'NEU']",Miete zzgl. NK 330 €,Wohnfläche ca. 60 m²,Zi. 2,9,13
+3,selObject_44990351,"* PAULSSTADT, 1. OG * Nähe Friedensschule, Bahnhof *...","[['Wohnung', '•', 'Schwerin', 'Paulsstadt']]",['EBK'],"Miete zzgl. NK 562,50 €",Wohnfläche ca. 75 m²,Zi. 3,9,13
+4,selObject_44989257,moderne 2-Zimmer-Wohnung im Jungfernstieg WE16,"[['Wohnung', '•', 'Stralsund', 'Tribseer', 'Vorstadt']]",[],Miete zzgl. NK 380 €,Wohnfläche ca. 48 m²,Zi. 2,9,13
+5,selObject_44989118,Top Ausstattung: 4-Zimmer-Maisonette-Wohnung in Nördli...,"[['Maisonette', '•', 'Greifswald', 'Nördliche', 'Mühlenvorstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 1.139 €,Wohnfläche ca. 117 m²,Zi. 4,9,13
+6,selObject_44988594,2- Zimmer Souterrainwohnung in 19053 Schwerin - Paulss...,"[['Souterrainwohnung', '•', 'Schwerin', 'Paulsstadt']]",['EBK'],Miete zzgl. NK 269 €,Wohnfläche ca. 48 m²,Zi. 2,9,13
+7,selObject_44988580,Gleich anrufen und besichtigen!,"[['Etagenwohnung', '•', 'Schwerin', 'Mueßer', 'Holz']]",['Balkon'],Miete zzgl. NK 360 €,Wohnfläche ca. 69 m²,Zi. 4,9,13
+8,selObject_44988537,Nette 1-Zimmerwohnung mit Balkon und EBK im renovierte...,"[['Etagenwohnung', '•', 'Barth', 'Stadtkern']]","['Balkon', 'EBK']",Miete zzgl. NK 295 €,Wohnfläche ca. 38 m²,Zi. 1,9,13
+9,selObject_44988528,1 Zimmerwohnung - Zentral in Putbus auf der Insel RÜGE...,"[['Etagenwohnung', '•', 'Putbus', 'Putbus']]",[],Miete zzgl. NK 300 €,Wohnfläche ca. 30 m²,Zi. 1,9,13
+10,selObject_44988039,Familienwohnung auf dem Datzeberg!,"[['Etagenwohnung', '•', 'Neubrandenburg', 'Datzeberg']]",[],Miete zzgl. NK 274 €,Wohnfläche ca. 69 m²,Zi. 3,9,13
+11,selObject_44988031,Ideal für die kleine Familie!,"[['Etagenwohnung', '•', 'Neubrandenburg', 'Reitbahnviertel']]",['Balkon'],Miete zzgl. NK 239 €,Wohnfläche ca. 62 m²,Zi. 3,9,13
+12,selObject_44988029,Hausgemeinschaft sucht netten Nachbarn!,"[['Etagenwohnung', '•', 'Neubrandenburg', 'Oststadt']]",['Balkon'],Miete zzgl. NK 404 €,Wohnfläche ca. 76 m²,Zi. 4,9,13
+13,selObject_44988027,Wohnen in der Nähe des Reitbahnsees!,"[['Etagenwohnung', '•', 'Neubrandenburg', 'Reitbahnviertel']]",[],Miete zzgl. NK 285 €,Wohnfläche ca. 60 m²,Zi. 3,9,13
+14,selObject_44988021,Ruhige Nachbarschaft sucht netten Mieter!,"[['Etagenwohnung', '•', 'Neubrandenburg', 'Oststadt']]",['Balkon'],Miete zzgl. NK 404 €,Wohnfläche ca. 76 m²,Zi. 4,9,13
+15,selObject_44988019,Zentral gelegen - für kleine Familien ideal!,"[['Etagenwohnung', '•', 'Neubrandenburg', 'Oststadt']]",['Balkon'],Miete zzgl. NK 349 €,Wohnfläche ca. 63 m²,Zi. 3,9,13
+16,selObject_44988016,Junge Familie gesucht!,"[['Etagenwohnung', '•', 'Neubrandenburg', 'Oststadt']]",['Balkon'],Miete zzgl. NK 303 €,Wohnfläche ca. 76 m²,Zi. 4,9,13
+17,selObject_44988015,Zentrale Lage und bequeme Etage!,"[['Etagenwohnung', '•', 'Neubrandenburg', 'Oststadt']]",['Balkon'],Miete zzgl. NK 349 €,Wohnfläche ca. 63 m²,Zi. 3,9,13
+18,selObject_44988011,"ruhige schöne 2,5 -Raumwohnung in Kröpelin- ideal für...","[['Etagenwohnung', '•', 'Kröpelin', 'Kröpelin']]",['Balkon'],"Miete zzgl. NK 320,21 €",Wohnfläche ca. 58 m²,Zi. 3,9,13
+19,selObject_44988001,Großzügige lichtdurchflutete 1 Raum Wohnung in Viermor...,"[['Etagenwohnung', '•', 'Stralsund', 'Grünthal-Viermorgen']]",[],Miete zzgl. NK 300 €,Wohnfläche ca. 39 m²,Zi. 1,9,13
+20,selObject_44987913,"ruhige schöne 2,5 -Raumwohnung in Kröpelin, Nähe zur...","[['Etagenwohnung', '•', 'Kröpelin', 'Kröpelin']]",['Balkon'],"Miete zzgl. NK 308,57 €",Wohnfläche ca. 58 m²,Zi. 3,9,13
+21,selObject_44987864,"ruhige schöne 2,5-Raumwohnung in Bad Doberan","[['Etagenwohnung', '•', 'Bad', 'Doberan', 'Bad', 'Doberan']]",['Balkon'],"Miete zzgl. NK 346,73 €",Wohnfläche ca. 61 m²,Zi. 3,9,13
+22,selObject_44987821,Planen Sie Ihren Einzug mit uns!,"[['Etagenwohnung', '•', 'Schwerin', 'Großer', 'Dreesch']]",['Balkon'],Miete zzgl. NK 450 €,Wohnfläche ca. 69 m²,Zi. 4,9,13
+23,selObject_44987113,Lieblingsnachbar gesucht!,"[['Etagenwohnung', '•', 'Schwerin', 'Mueßer', 'Holz']]",['Balkon'],Miete zzgl. NK 382 €,Wohnfläche ca. 72 m²,Zi. 4,9,13
+24,selObject_44986343,kleine gemütliche Wohnung im Betreuten Wohnen,"[['Etagenwohnung', '•', 'Greifswald', 'Fettenvorstadt']]",['EBK'],"Miete zzgl. NK 440,70 €",Wohnfläche ca. 39 m²,Zi. 2,9,13
+25,selObject_44986326,Senioren Wohnen - Nachmieter gesucht!,"[['Etagenwohnung', '•', 'Neubrandenburg', 'Südstadt']]",['Balkon'],Miete zzgl. NK 335 €,Wohnfläche ca. 52 m²,Zi. 2,9,13
+26,selObject_44986213,Wohnen über den Dächern der Stadt,"[['Etagenwohnung', '•', 'Rostock', 'Groß', 'Klein']]",['Balkon'],Miete zzgl. NK 575 €,Wohnfläche ca. 80 m²,Zi. 4,9,13

@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_42829708,Schöne 3-Raum-Wohnung am Neustadt Markt *Balkon,"['Etagenwohnung', '•', 'Brandenburg', 'Neustadt']",['Balkon'],"Miete zzgl. NK 632,23 €",Wohnfläche ca. 74 m²,Zi. 3,47,12
-1,selObject_42735816,Perfekt für Paare - raffiniert geschnittene 2-Zimmerwo...,"['Etagenwohnung', '•', 'Schönefeld', 'Schönefeld']","['Balkon', 'EBK']",Miete zzgl. NK 795 €,Wohnfläche ca. 71 m²,Zi. 2,47,12
-2,selObject_42727267,Schöne 3 Raumwohnung in Schipkau mit PKW Stellplatz...,"['Wohnung', '•', 'Schipkau']",[],Miete zzgl. NK 320 €,Wohnfläche ca. 65 m²,Zi. 3,47,12
-3,selObject_42727249,Schöne 3 Raumwohnung in Schipkau mit PKW Stellplatz...,"['Wohnung', '•', 'Schipkau']",[],Miete zzgl. NK 320 €,Wohnfläche ca. 65 m²,Zi. 3,47,12
-4,selObject_42727247,Schöne 3 Raumwohnung in Schipkau mit PKW Stellplatz...,"['Wohnung', '•', 'Schipkau']",[],Miete zzgl. NK 320 €,Wohnfläche ca. 65 m²,Zi. 3,47,12
-5,selObject_42719335,Neuvermietung schöne 2-R-Whg.in Neupetershain,"['Dachgeschosswohnung', '•', 'Neupetershain', 'Neupetershain']",[],Miete zzgl. NK 255 €,Wohnfläche ca. 50 m²,Zi. 2,47,12
-6,selObject_42717618,3-Raum-Wohnung in ruhiger Lage,"['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']",[],"Miete zzgl. NK 352,04 €",Wohnfläche ca. 68 m²,Zi. 3,47,12
-7,selObject_42717615,2-Raum-Wohnung in der Innenstadt mit Loggia,"['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']",['Balkon'],"Miete zzgl. NK 305,50 €",Wohnfläche ca. 59 m²,Zi. 2,47,12
-8,selObject_42697405,Bezugsfertige 3-Raumwohnung in Sadenbeck,"['Etagenwohnung', '•', 'Pritzwalk', 'Neu', 'Krüssow']",[],Miete zzgl. NK 260 €,Wohnfläche ca. 58 m²,Zi. 3,47,12
-9,selObject_42653149,Frisch sanierte 5-Zimmer Wohnung,"['Etagenwohnung', '•', 'Brandenburg', 'Neustadt']",[],Miete zzgl. NK 1.400 €,Wohnfläche ca. 191 m²,Zi. 5,47,12
-10,selObject_42628216,Komfortable Singlewohnung in Großkmehlen,"['Wohnung', '•', 'Großkmehlen']",[],Miete zzgl. NK 184 €,Wohnfläche ca. 32 m²,Zi. 1,47,12
-11,selObject_42627129,3-Raum Wohnung mit Gäste-WC und Ankleideraum,"['Dachgeschosswohnung', '•', 'Cottbus', 'Mitte']",[],Miete zzgl. NK 770 €,Wohnfläche ca. 113 m²,Zi. 3,47,12
-12,selObject_42627127,4-Raum Wohnung mit Gäste-WC,"['Dachgeschosswohnung', '•', 'Cottbus', 'Mitte']",[],Miete zzgl. NK 820 €,Wohnfläche ca. 117 m²,Zi. 4,47,12
-13,selObject_42627092,3-Raum Wohnung in der Hochparterre mit Terrasse,"['Erdgeschosswohnung', '•', 'Cottbus', 'Mitte']",['Balkon'],Miete zzgl. NK 830 €,Wohnfläche ca. 122 m²,Zi. 3,47,12
-14,selObject_42613806,Wohnen auf dem Lande,"['Wohnung', '•', 'Uckerfelde', 'Bietikow']",[],Miete zzgl. NK 250 €,Wohnfläche ca. 55 m²,Zi. 3,47,12
-15,selObject_42612726,Perfekt für Paare - raffiniert geschnittene 2-Zimmerwo...,"['Etagenwohnung', '•', 'Schönefeld', 'Schönefeld']","['Balkon', 'EBK']",Miete zzgl. NK 815 €,Wohnfläche ca. 71 m²,Zi. 2,47,12
-16,selObject_42584534,Attraktive 2-Raum-Wohnung mit großer Dachterrasse -...,"['Dachgeschosswohnung', '•', 'Cottbus', 'Mitte']",[],Miete zzgl. NK 820 €,Wohnfläche ca. 80 m²,Zi. 2,47,12
-17,selObject_42581718,Wohnung mit einmaliger Aussicht,"['Erdgeschosswohnung', '•', 'Oranienburg', 'Lehnitz']",['EBK'],Miete zzgl. NK 1.535 €,Wohnfläche ca. 123 m²,Zi. 3,47,12
-18,selObject_42552615,Attraktive Altbauwohnung mit großer Loggia - Erstbezug...,"['Etagenwohnung', '•', 'Cottbus', 'Mitte']",[],Miete zzgl. NK 885 €,Wohnfläche ca. 89 m²,Zi. 3,47,12
-19,selObject_42552570,Attraktive Altbauwohnung mit großer Loggia - Erstbezug...,"['Erdgeschosswohnung', '•', 'Cottbus', 'Mitte']",[],Miete zzgl. NK 885 €,Wohnfläche ca. 90 m²,Zi. 3,47,12
-20,selObject_42552567,Stilvoller und moderner 3-Raum-Altbau - Erstbezug nach...,"['Erdgeschosswohnung', '•', 'Cottbus', 'Mitte']",['EBK'],Miete zzgl. NK 850 €,Wohnfläche ca. 86 m²,Zi. 3,47,12
-21,selObject_42544271,Renovierte individuelle 3-Raum-Wohnung im Dachgeschoß,"['Dachgeschosswohnung', '•', 'Ruhland', 'Ruhland']",[],Miete zzgl. NK 340 €,Wohnfläche ca. 67 m²,Zi. 3,47,12
-22,selObject_42476197,2 Raumwohnung in Eberswalde inkl. Einbauküche,"['Erdgeschosswohnung', '•', 'Eberswalde', 'Eberswalde']",['Balkon'],Miete zzgl. NK 390 €,Wohnfläche ca. 50 m²,Zi. 2,47,12
-23,selObject_42476192,3 Zimmerwohnung im Zentrum von Eberswalde zu mieten -...,"['Wohnung', '•', 'Eberswalde', 'Eberswalde']",['Balkon'],Miete zzgl. NK 435 €,Wohnfläche ca. 61 m²,Zi. 3,47,12
-24,selObject_42475142,Kurzexposé 2404/20,"['Wohnung', '•', 'Finsterwalde', 'Finsterwalde']",[],"Miete zzgl. NK 241,67 €",Wohnfläche ca. 48 m²,Zi. 2,47,12
-25,selObject_42450790,"Raus aus Berlin, rein in eine 4-Zimmer-Wohnung mit...","['Wohnung', '•', 'Zehdenick', 'Badingen']","['Balkon', 'Garten']",Miete zzgl. NK 315 €,Wohnfläche ca. 67 m²,Zi. 4,47,12
-26,selObject_42450656,Ab ins Grüne! 3-Zimmer-Wohnung mit Balkon,"['Wohnung', '•', 'Zehdenick', 'Badingen']","['Balkon', 'Garten']",Miete zzgl. NK 320 €,Wohnfläche ca. 68 m²,Zi. 3,47,12
+0,selObject_42450790,"Raus aus Berlin, rein in eine 4-Zimmer-Wohnung mit...","[['Wohnung', '•', 'Zehdenick', 'Badingen']]","['Balkon', 'Garten']",Miete zzgl. NK 315 €,Wohnfläche ca. 67 m²,Zi. 4,47,12
+1,selObject_42450656,Ab ins Grüne! 3-Zimmer-Wohnung mit Balkon,"[['Wohnung', '•', 'Zehdenick', 'Badingen']]","['Balkon', 'Garten']",Miete zzgl. NK 320 €,Wohnfläche ca. 68 m²,Zi. 3,47,12
+2,selObject_42435233,Citynah und verkehrsgünstig gelegen++Zimmer für Studen...,"[['Wohnung', '•', 'Potsdam', 'Bornstedt']]",['EBK'],Miete zzgl. NK 265 €,Wohnfläche ca. 11 m²,Zi. 1,47,12
+3,selObject_42430362,Ab Februar bezugsfertig - attraktive 2 Zimmerwohnung...,"[['Wohnung', '•', 'Eberswalde', 'Eberswalde']]",['Balkon'],Miete zzgl. NK 406 €,Wohnfläche ca. 50 m²,Zi. 2,47,12
+4,selObject_42403868,Schöne helle Wohnung in ruhiger Lage !!!,"[['Wohnung', '•', 'Drebkau', 'Drebkau']]",[],Miete zzgl. NK 245 €,Wohnfläche ca. 52 m²,Zi. 2,47,12
+5,selObject_42394961,Individuelle 3-Zimmer-Wohnung in bezugsfertigem Zustan...,"[['Wohnung', '•', 'Schenkendöbern', 'Groß', 'Gastrose']]",[],Miete zzgl. NK 272 €,Wohnfläche ca. 61 m²,Zi. 3,47,12
+6,selObject_42389674,Am See. Zur Miete. Direkt bei Berlin,"[['Etagenwohnung', '•', 'Bestensee', 'Bestensee']]","['Balkon', 'Garten']","Miete zzgl. NK 1.348,05 €",Wohnfläche ca. 123 m²,Zi. 5,47,12
+7,selObject_42389563,Frühjahres-Aktion: 10% Kaltmiete sparen für das Jahr...,"[['Etagenwohnung', '•', 'Bestensee', 'Bestensee']]","['Balkon', 'Garten']","Miete zzgl. NK 1.336,13 €",Wohnfläche ca. 107 m²,Zi. 4,47,12
+8,selObject_42360754,Singlewohnung auch zu Zweit nutzbar,"[['Etagenwohnung', '•', 'Forst', 'Forst-Stadt']]",['Garten'],Miete zzgl. NK 300 €,Wohnfläche ca. 57 m²,Zi. 2,47,12
+9,selObject_42323193,YOUNIQ-Apartmenthaus in Potsdam!,"[['Etagenwohnung', '•', 'Potsdam', 'Bornstedter', 'Feld']]","['Garten', 'EBK']","Miete zzgl. NK 382,15 €",Wohnfläche ca. 20 m²,Zi. 1,47,12
+10,selObject_42311414,"Helle 1-Raum-Wohnung für Azubis, Studenten und Junggeb...","[['Etagenwohnung', '•', 'Doberlug-Kirchhain', 'Doberlug-Kirchhain']]",[],Miete zzgl. NK 149 €,Wohnfläche ca. 30 m²,Zi. 1,47,12
+11,selObject_42281902,Gemütliche 3- Raumwohnung im 1. Obergeschoss!,"[['Etagenwohnung', '•', 'Lauchhammer', 'Lauchhammer']]",[],Miete zzgl. NK 313 €,Wohnfläche ca. 60 m²,Zi. 3,47,12
+12,selObject_42239361,4-Raum Wohnung mit Balkon,"[['Etagenwohnung', '•', 'Perleberg']]",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 66 m²,Zi. 4,47,12
+13,selObject_42230590,"Wohnen, mit VELERO! kleine 1 Zimmerwohnung im Erdgesch...","[['Wohnung', '•', 'Wittstock', 'Wittstock']]",[],"Miete zzgl. NK 304,08 €",Wohnfläche ca. 43 m²,Zi. 1,47,12
+14,selObject_42182382,4 Zimmerwohnung mit Balkon,"[['Etagenwohnung', '•', 'Guben', 'Guben']]",['Balkon'],"Miete zzgl. NK 375,64 €",Wohnfläche ca. 72 m²,Zi. 4,47,12
+15,selObject_42024993,Kurzexposé 4903/27,"[['Wohnung', '•', 'Finsterwalde', 'Finsterwalde']]",['Balkon'],"Miete zzgl. NK 289,14 €",Wohnfläche ca. 59 m²,"Zi. 2,5",47,12
+16,selObject_42023500,"Wohnen, mit VELERO! Große 1 Zimmerwohnung im Erdgescho...","[['Wohnung', '•', 'Wittstock', 'Wittstock']]",[],"Miete zzgl. NK 519,68 €",Wohnfläche ca. 74 m²,Zi. 1,47,12
+17,selObject_41703628,Ein zauberhafter Ausblick erwartet Euch in der frisch...,"[['Etagenwohnung', '•', 'Cottbus', 'Sachsendorf']]",['Balkon'],"Miete zzgl. NK 286,10 €",Wohnfläche ca. 57 m²,Zi. 3,47,12
+18,selObject_41624341,WohnungsPAKET - 3x 4-Raum + 4x 3-Raum,"[['Etagenwohnung', '•', 'Cottbus', 'Schmellwitz']]",[],"Miete zzgl. NK 2.552,40 €",Wohnfläche ca. 464 m²,Zi. 24,47,12
+19,selObject_41573764,3-Raumwohnung Erstbezug nach Sanierung,"[['Erdgeschosswohnung', '•', 'Brandenburg', 'Altstadt']]",[],Miete zzgl. NK 465 €,Wohnfläche ca. 62 m²,Zi. 3,47,12
+20,selObject_41338747,Wohnen auf dem Lande,"[['Erdgeschosswohnung', '•', 'Uckerfelde', 'Bertikow']]",[],Miete zzgl. NK 290 €,Wohnfläche ca. 58 m²,Zi. 3,47,12
+21,selObject_41256437,RathausVillen - große 3 Zimmer mit Terrasse im Erstbez...,"[['Wohnung', '•', 'Schönefeld', 'Waßmannsdorf']]","['Balkon', 'EBK']",Miete zzgl. NK 1.249 €,Wohnfläche ca. 99 m²,Zi. 3,47,12
+22,selObject_41221525,Schöner Grundriss im Herzen von Geltow (Neubau) - Guts...,"[['Wohnung', '•', 'Schwielowsee', 'Geltow']]",['Balkon'],Miete zzgl. NK 1.005 €,Wohnfläche ca. 65 m²,Zi. 2,47,12
+23,selObject_41221524,Wohnen im Herzen von Geltow (Neubau) - Gutscheinaktion...,"[['Erdgeschosswohnung', '•', 'Schwielowsee', 'Geltow']]",['Balkon'],Miete zzgl. NK 1.005 €,Wohnfläche ca. 65 m²,Zi. 2,47,12
+24,selObject_41102234,+++ Helle 3-Raumwohnung in ruhiger Lage +++,"[['Wohnung', '•', 'Lübbenau', 'Ragow']]",[],Miete zzgl. NK 295 €,Wohnfläche ca. 59 m²,Zi. 3,47,12
+25,selObject_41014609,Viel Platz - große 3-Zimmer-Wohnung wartet auf Sie!,"[['Etagenwohnung', '•', 'Cottbus', 'Sachsendorf']]",['Balkon'],"Miete zzgl. NK 347,03 €",Wohnfläche ca. 76 m²,Zi. 3,47,12
+26,selObject_40927046,BebelQuartier für Paare,"[['Wohnung', '•', 'Eberswalde', 'Eberswalde']]",['Balkon'],Miete zzgl. NK 855 €,Wohnfläche ca. 80 m²,Zi. 2,47,12

@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44458768,Match-Winner...neu sanierte 3-RW mit modernem Wannenba...,"['Wohnung', '•', 'Freiberg,', 'Sachs', 'Freiberg']",['Balkon'],Miete zzgl. NK 309 €,Wohnfläche ca. 55 m²,Zi. 3,252,14
-1,selObject_44458745,*Single-Wohnung am Baggersee jetzt wieder frei*,"['Apartment', '•', 'Leipzig', 'Thekla']",['EBK'],Miete zzgl. NK 225 €,Wohnfläche ca. 27 m²,Zi. 1,252,14
-2,selObject_44458587,schöne 1-Zimmer-Wohnung am Schlobigpark,"['Wohnung', '•', 'Zwickau', 'Bahnhofsvorstadt']",[],Miete zzgl. NK 245 €,Wohnfläche ca. 45 m²,Zi. 1,252,14
-3,selObject_44458568,3-Raumwohnung mit Balkon zum Wohlfühlen in Planitz !,"['Wohnung', '•', 'Zwickau', 'Niederplanitz']",[],Miete zzgl. NK 340 €,Wohnfläche ca. 65 m²,Zi. 3,252,14
-4,selObject_44458478,*WG-geeignet & frisch saniert!* Großzügige und idealge...,"['Dachgeschosswohnung', '•', 'Dresden', 'Löbtau-Süd']","['Garten', 'EBK']",Miete zzgl. NK 749 €,Wohnfläche ca. 67 m²,Zi. 3,252,14
-5,selObject_44458457,*****Chemnitz/Gablenz- gut sanierte 2-Raum Wohnung mit...,"['Wohnung', '•', 'Chemnitz', 'Hilbersdorf']",['Garten'],Miete zzgl. NK 224 €,Wohnfläche ca. 41 m²,Zi. 2,252,14
-6,selObject_44458285,! Schnell sein lohnt sich ! Wohnen im Industriedenkma...,"['Dachgeschosswohnung', '•', 'Chemnitz', 'Kaßberg']","['Balkon', 'Garten']",Miete zzgl. NK 1.537 €,Wohnfläche ca. 144 m²,Zi. 4,252,14
-7,selObject_44458279,! Schmuckstück ! Industrie-Stil ! LOFT,"['Loft-Studio-Atelier', '•', 'Chemnitz', 'Altendorf']","['Balkon', 'Garten']",Miete zzgl. NK 1.188 €,Wohnfläche ca. 124 m²,Zi. 4,252,14
-8,selObject_44458278,!!! mit KAMIN- Stellplatz inkl. - 2-Raum Wohnung-...,"['Wohnung', '•', 'Chemnitz', 'Altchemnitz']",['Balkon'],Miete zzgl. NK 353 €,Wohnfläche ca. 82 m²,Zi. 2,252,14
-9,selObject_44458275,LOFT ! Schmuckstück ! Industrie-Stil ! LOFT,"['Loft-Studio-Atelier', '•', 'Chemnitz', 'Altendorf']","['Balkon', 'Garten']",Miete zzgl. NK 1.220 €,Wohnfläche ca. 140 m²,Zi. 4,252,14
-10,selObject_44458266,*** Singlewohnung im Grünen am Rande der Stadt mit...,"['Apartment', '•', 'Leipzig', 'Meusdorf']",['Balkon'],Miete zzgl. NK 239 €,Wohnfläche ca. 29 m²,Zi. 1,252,14
-11,selObject_44458230,2 Zimmerwohnung Maisonette im Zentrum mit Balkon,"['Maisonette', '•', 'Leipzig', 'Zentrum']","['Balkon', 'EBK']","Miete zzgl. NK 848,93 €",Wohnfläche ca. 81 m²,Zi. 2,252,14
-12,selObject_44458227,In Chemnitz/Schloßviertel !!! hübsche 3 Raum Wohnung...,"['Wohnung', '•', 'Chemnitz', 'Altendorf']",['EBK'],Miete zzgl. NK 395 €,Wohnfläche ca. 81 m²,Zi. 3,252,14
-13,selObject_44458216,"voll möblierte Wohnung nahe City mit Parkett, Bodenhei...","['Etagenwohnung', '•', 'Leipzig', 'Zentrum-Südost']",['EBK'],"Miete zzgl. NK 1.000,62 €",Wohnfläche ca. 74 m²,Zi. 2,252,14
-14,selObject_44458170,Kaßberg 3-Raum Wohnung Balkon offene Küche in Chem...,"['Wohnung', '•', 'Chemnitz', 'Kaßberg']","['Balkon', 'EBK']",Miete zzgl. NK 489 €,Wohnfläche ca. 74 m²,Zi. 3,252,14
-15,selObject_44458158,In Chemnitz/Schloßviertel !!! hübsche 3 Raum Wohnung...,"['Wohnung', '•', 'Chemnitz', 'Altendorf']",[],Miete zzgl. NK 390 €,Wohnfläche ca. 83 m²,Zi. 3,252,14
-16,selObject_44458154,NEUES LAMINAT ! 3 Raum Wohnung in zentraler Lage ...we...,"['Wohnung', '•', 'Chemnitz', 'Zentrum']",[],Miete zzgl. NK 435 €,Wohnfläche ca. 87 m²,Zi. 3,252,14
-17,selObject_44458148,"°°°OBEN ist es am schönsten, helle DG Wohnung mit Dusc...","['Dachgeschosswohnung', '•', 'Chemnitz']",['Garten'],Miete zzgl. NK 284 €,Wohnfläche ca. 63 m²,Zi. 2,252,14
-18,selObject_44458147,"ACHTUNG ! 2,5 Raum WohNunG - MIT BalKoN uNd HoLzDdielu...","['Wohnung', '•', 'Chemnitz', 'Hilbersdorf']","['Balkon', 'Garten']",Miete zzgl. NK 389 €,Wohnfläche ca. 78 m²,Zi. 3,252,14
-19,selObject_44458145,Am ACC in Altchemnitz gelegen,"['Erdgeschosswohnung', '•', 'Chemnitz', 'Altchemnitz']",[],Miete zzgl. NK 325 €,Wohnfläche ca. 65 m²,Zi. 2,252,14
-20,selObject_44458143,OBEN°°°°gemütliche2-Raum-Wohnung mit Laminat im DG...,"['Dachgeschosswohnung', '•', 'Chemnitz', 'Ebersdorf']","['Garten', 'EBK']",Miete zzgl. NK 250 €,Wohnfläche ca. 50 m²,Zi. 2,252,14
-21,selObject_44458098,Frisch renovierte 3-Raum-Wohnung auf der Rathenaustraß...,"['Etagenwohnung', '•', 'Annaberg-Buchholz', 'Annaberg']",['Garten'],Miete zzgl. NK 451 €,Wohnfläche ca. 82 m²,Zi. 3,252,14
-22,selObject_44458091,2-Raum Wohnung in Chemnitz klein Dusche auf dem...,"['Wohnung', '•', 'Chemnitz', 'Sonnenberg']",[],Miete zzgl. NK 220 €,Wohnfläche ca. 42 m²,Zi. 2,252,14
-23,selObject_44458042,2-Raum Wohnung Einbauküche Hilbersdorf Balkon ...,"['Wohnung', '•', 'Chemnitz', 'Hilbersdorf']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 290 €,Wohnfläche ca. 59 m²,Zi. 2,252,14
-24,selObject_44458000,2-Raum EG mit Balkon,"['Etagenwohnung', '•', 'Zwickau', 'Bahnhofsvorstadt']",[],Miete zzgl. NK 295 €,Wohnfläche ca. 55 m²,Zi. 2,252,14
-25,selObject_44457989,"CHEMNITZ / SCHLOSSBERG !!!! Maisonette- WOHNUNG 1,5...","['Wohnung', '•', 'Chemnitz', 'Altendorf']",[],Miete zzgl. NK 280 €,Wohnfläche ca. 55 m²,"Zi. 1,5",252,14
-26,selObject_44457974,+++++ toll saniert - 2-Zimmer- Laminat- Südbalkon ++++...,"['Wohnung', '•', 'Chemnitz', 'Altchemnitz']","['Balkon', 'Garten']",Miete zzgl. NK 270 €,Wohnfläche ca. 53 m²,Zi. 2,252,14
+0,selObject_44496869,Erstbezug!! Wunderbare 2-Zimmer Wohnung inklusive Logg...,"[['Erdgeschosswohnung', '•', 'Dresden', 'Wilsdruffer', 'Vorstadt/Seevorstadt-West']]","['Balkon', 'EBK']","Miete zzgl. NK 685,87 €",Wohnfläche ca. 51 m²,Zi. 2,252,14
+1,selObject_44496866,Elegante 2-Zimmerwohnung zum Erstbezug!!! +EBK und...,"[['Etagenwohnung', '•', 'Dresden', 'Wilsdruffer', 'Vorstadt/Seevorstadt-West']]","['Balkon', 'EBK']","Miete zzgl. NK 876,68 €",Wohnfläche ca. 60 m²,Zi. 2,252,14
+2,selObject_44496863,Spitzen Wohnung zum Erstbezug! / Schöne Einbauküche /...,"[['Etagenwohnung', '•', 'Dresden', 'Wilsdruffer', 'Vorstadt/Seevorstadt-West']]","['Balkon', 'EBK']","Miete zzgl. NK 669,11 €",Wohnfläche ca. 49 m²,Zi. 2,252,14
+3,selObject_44496854,Schöne Einbauküche und Balkon / Traumwohnung zum Erstb...,"[['Etagenwohnung', '•', 'Dresden', 'Wilsdruffer', 'Vorstadt/Seevorstadt-West']]","['Balkon', 'EBK']","Miete zzgl. NK 730,33 €",Wohnfläche ca. 49 m²,Zi. 2,252,14
+4,selObject_44496853,Wunderbare Maisonette Wohnung mit Einbauküche und Balk...,"[['Etagenwohnung', '•', 'Dresden', 'Wilsdruffer', 'Vorstadt/Seevorstadt-West']]","['Balkon', 'EBK']","Miete zzgl. NK 1.654,31 €",Wohnfläche ca. 106 m²,Zi. 3,252,14
+5,selObject_44496850,Erstbezug: wunderschöne Maisonettewohnung mit Balkon...,"[['Maisonette', '•', 'Dresden', 'Wilsdruffer', 'Vorstadt/Seevorstadt-West']]","['Balkon', 'EBK']","Miete zzgl. NK 1.329,18 €",Wohnfläche ca. 89 m²,Zi. 3,252,14
+6,selObject_44496848,Wohntraum auf 2-Zimmern mit Einbauküche & Balkon *zum...,"[['Etagenwohnung', '•', 'Dresden', 'Wilsdruffer', 'Vorstadt/Seevorstadt-West']]","['Balkon', 'EBK']","Miete zzgl. NK 728,04 €",Wohnfläche ca. 49 m²,Zi. 2,252,14
+7,selObject_44496847,Zum Erstbezug! 2-Zimmer mit EBK und Balkon,"[['Etagenwohnung', '•', 'Dresden', 'Wilsdruffer', 'Vorstadt/Seevorstadt-West']]","['Balkon', 'EBK']","Miete zzgl. NK 681,16 €",Wohnfläche ca. 45 m²,Zi. 2,252,14
+8,selObject_44496840,Lichtdurchflutete Maisonettewohnung zum Erstbezug +...,"[['Etagenwohnung', '•', 'Dresden', 'Wilsdruffer', 'Vorstadt/Seevorstadt-West']]","['Balkon', 'EBK']","Miete zzgl. NK 1.860,84 €",Wohnfläche ca. 116 m²,Zi. 2,252,14
+9,selObject_44496836,Exquisite 1-Zimmer Wohnung // Balkon und EBK zum Erstb...,"[['Etagenwohnung', '•', 'Dresden', 'Wilsdruffer', 'Vorstadt/Seevorstadt-West']]","['Balkon', 'EBK']","Miete zzgl. NK 590,98 €",Wohnfläche ca. 40 m²,Zi. 1,252,14
+10,selObject_44496838,Wunderbare 1-Zimmer Wohnung inklusive Balkon und EBK...,"[['Etagenwohnung', '•', 'Dresden', 'Wilsdruffer', 'Vorstadt/Seevorstadt-West']]","['Balkon', 'EBK']","Miete zzgl. NK 590,98 €",Wohnfläche ca. 40 m²,Zi. 1,252,14
+11,selObject_44496835,"Einziehen und Wohlfühlen, Schicke 2-Zimmer Wohnung EBK...","[['Etagenwohnung', '•', 'Dresden', 'Wilsdruffer', 'Vorstadt/Seevorstadt-West']]","['Balkon', 'EBK']","Miete zzgl. NK 671,55 €",Wohnfläche ca. 49 m²,Zi. 2,252,14
+12,selObject_44496833,Mit Balkon und EBK // 2-Zimmer Erstbezug!!!,"[['Etagenwohnung', '•', 'Dresden']]","['Balkon', 'EBK']","Miete zzgl. NK 659,24 €",Wohnfläche ca. 49 m²,Zi. 2,252,14
+13,selObject_44496831,Maisonette Traum auf 3-Zimmern mit Einbauküche & 2x...,"[['Etagenwohnung', '•', 'Dresden', 'Wilsdruffer', 'Vorstadt/Seevorstadt-West']]","['Balkon', 'EBK']","Miete zzgl. NK 1.450,91 €",Wohnfläche ca. 94 m²,Zi. 3,252,14
+14,selObject_44496830,"Balkon, Einbauküche und Erstbezug! Herz was willst du...","[['Etagenwohnung', '•', 'Dresden', 'Wilsdruffer', 'Vorstadt/Seevorstadt-West']]","['Balkon', 'EBK']","Miete zzgl. NK 645,15 €",Wohnfläche ca. 45 m²,Zi. 2,252,14
+15,selObject_44496773,Dreiraumwohnung in Oberlungwitz,"[['Etagenwohnung', '•', 'Oberlungwitz']]",['Balkon'],"Miete zzgl. NK 305,91 €",Wohnfläche ca. 57 m²,Zi. 3,252,14
+16,selObject_44496761,*Erstbezug* Traumhafte 4 Zimmerwohnung im frisch sanie...,"[['Etagenwohnung', '•', 'Leipzig', 'Wahren']]",['Balkon'],Miete zzgl. NK 1.165 €,Wohnfläche ca. 123 m²,Zi. 4,252,14
+17,selObject_44496739,Aufgepasst - Mieten ohne Kaution für Neumieter der GGG,"[['Etagenwohnung', '•', 'Chemnitz', 'Morgenleite']]",['Balkon'],Miete zzgl. NK 271 €,Wohnfläche ca. 53 m²,Zi. 2,252,14
+18,selObject_44496735,Nach Ausbau - Altbauwohnung auf dem schönen Kaßberg,"[['Etagenwohnung', '•', 'Chemnitz', 'Kaßberg']]",[],Miete zzgl. NK 225 €,Wohnfläche ca. 43 m²,Zi. 1,252,14
+19,selObject_44496734,2-Zimmer-Wohnung mit Balkon,"[['Etagenwohnung', '•', 'Chemnitz', 'Bernsdorf']]",['Balkon'],Miete zzgl. NK 266 €,Wohnfläche ca. 44 m²,Zi. 2,252,14
+20,selObject_44496696,Urlaub vom Alltag - Wohnen mit Concierge,"[['Etagenwohnung', '•', 'Chemnitz', 'Yorckgebiet']]",['Balkon'],Miete zzgl. NK 174 €,Wohnfläche ca. 29 m²,Zi. 1,252,14
+21,selObject_44496471,2 Zimmer in der Südvorstadt mit Einbauküche - WG-geeig...,"[['Etagenwohnung', '•', 'Leipzig', 'Südvorstadt']]",['EBK'],Miete zzgl. NK 605 €,Wohnfläche ca. 65 m²,Zi. 2,252,14
+22,selObject_44496470,**Schöner Wohnen in Plagwitz**,"[['Erdgeschosswohnung', '•', 'Leipzig', 'Plagwitz']]",['EBK'],Miete zzgl. NK 579 €,Wohnfläche ca. 66 m²,Zi. 3,252,14
+23,selObject_44496428,"Stadt Wehlen, neu sanierte sonnige 2-Zimmer-WE im 2.OG","[['Etagenwohnung', '•', 'Stadt', 'Wehlen', 'Stadt', 'Wehlen']]",['Garten'],Miete zzgl. NK 300 €,Wohnfläche ca. 51 m²,,252,14
+24,selObject_44496385,gemütlich wohnen - verglaster Balkon -weiter Blick,"[['Etagenwohnung', '•', 'Leipzig', 'Grünau-Mitte']]",['EBK'],Miete zzgl. NK 458 €,Wohnfläche ca. 54 m²,Zi. 2,252,14
+25,selObject_44496301,Schöne 3 Zimmer Wohnung mit Balkon,"[['Etagenwohnung', '•', 'Chemnitz', 'Kappel']]",['Balkon'],Miete zzgl. NK 285 €,Wohnfläche ca. 56 m²,Zi. 3,252,14
+26,selObject_44496250,2-Raum-Wohnung mit Süd-Balkon,"[['Wohnung', '•', 'Leipzig', 'Grünau-Mitte']]",['Balkon'],"Miete zzgl. NK 445,70 €",Wohnfläche ca. 56 m²,Zi. 2,252,14

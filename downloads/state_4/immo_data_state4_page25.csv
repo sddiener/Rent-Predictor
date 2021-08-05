@@ -1,4 +1,7 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_15494884,Seniorenwohnung,"['Wohnung', '•', 'Bremerhaven', 'Wulsdorf']",[],Miete zzgl. NK 225 €,Wohnfläche ca. 32 m²,Zi. 1,25,4
-1,selObject_15202398,Tolle Wohnung mit Terrasse und Dielen in schönem Altba...,"['Dachgeschosswohnung', '•', 'Bremen', 'Hulsberg']",['EBK'],Miete zzgl. NK 475 €,Wohnfläche ca. 47 m²,Zi. 2,25,4
-2,selObject_14590488,Altenwohnung (Betreutes Wohnen),"['Wohnung', '•', 'Bremerhaven', 'Wulsdorf']",[],Miete zzgl. NK 261 €,Wohnfläche ca. 38 m²,Zi. 1,25,4
+0,selObject_15948918,Direkt am Spielpark Leherheide und Bad 1,"[['Wohnung', '•', 'Bremerhaven', 'Leherheide']]",[],Miete zzgl. NK 240 €,Wohnfläche ca. 48 m²,Zi. 2,25,4
+1,selObject_15494884,Seniorenwohnung,"[['Wohnung', '•', 'Bremerhaven', 'Wulsdorf']]",[],Miete zzgl. NK 225 €,Wohnfläche ca. 32 m²,Zi. 1,25,4
+2,selObject_15202398,Tolle Wohnung mit Terrasse und Dielen in schönem Altba...,"[['Dachgeschosswohnung', '•', 'Bremen', 'Hulsberg']]",['EBK'],Miete zzgl. NK 475 €,Wohnfläche ca. 47 m²,Zi. 2,25,4
+3,selObject_14590488,Altenwohnung (Betreutes Wohnen),"[['Wohnung', '•', 'Bremerhaven', 'Wulsdorf']]",[],Miete zzgl. NK 261 €,Wohnfläche ca. 38 m²,Zi. 1,25,4
+4,selObject_13540929,Schöne 3 Zimmer Wohnung,"[['Wohnung', '•', 'Bremen', 'Mahndorf']]",[],Miete zzgl. NK 536 €,Wohnfläche ca. 76 m²,Zi. 3,25,4
+5,selObject_13197985,Attraktive und modernsierte 2 Zi. Wohnung,"[['Etagenwohnung', '•', 'Bremen', 'Lüssum-Bockhorn']]",[],"Miete zzgl. NK 337,04 €",Wohnfläche ca. 56 m²,Zi. 2,25,4

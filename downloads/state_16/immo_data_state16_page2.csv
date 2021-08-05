@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_45025046,"NEU Helle, freundliche 2 RW in Eisenberg","['Wohnung', '•', 'Eisenberg', 'Eisenberg']","['NEU', 'NEU']",Miete zzgl. NK 350 €,Wohnfläche ca. 57 m²,Zi. 2,2,16
-1,selObject_45025036,NEU top sanierte 3-Raum-Wohnung mit Terrasse ab sofort...,"['Maisonette', '•', 'Altenburg', 'Altenburg']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 595 €,Wohnfläche ca. 85 m²,Zi. 3,2,16
-2,selObject_45024934,NEU Frisch renovierte 2-Zimmer Wohnung mit Einbauküche,"['Erdgeschosswohnung', '•', 'Gera', 'Innenstadt']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 307 €,Wohnfläche ca. 56 m²,Zi. 2,2,16
-3,selObject_45024892,NEU 2-Zimmerwohnung in Zentrumsnähe,"['Etagenwohnung', '•', 'Bad', 'Langensalza', 'Bad', 'Langensalza']","['NEU', 'NEU']","Miete zzgl. NK 272,71 €",Wohnfläche ca. 57 m²,Zi. 2,2,16
-4,selObject_45024891,NEU Wohnung in Bad Langensalza,"['Etagenwohnung', '•', 'Bad', 'Langensalza', 'Bad', 'Langensalza']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 303,48 €",Wohnfläche ca. 59 m²,Zi. 3,2,16
-5,selObject_45024823,NEU Erstbezug 2 Raum Wohnung,"['Etagenwohnung', '•', 'Altenburg', 'Altenburg']","['NEU', 'NEU']",Miete zzgl. NK 264 €,Wohnfläche ca. 48 m²,Zi. 2,2,16
-6,selObject_45024336,NEU Wohnen gegenüber der alten Oper,"['Etagenwohnung', '•', 'Erfurt', 'Brühlervorstadt']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 790 €,Wohnfläche ca. 112 m²,Zi. 3,2,16
-7,selObject_45024272,NEU Exklusive 4-Raum-Wohnung mit großem Balkon mitten im...,"['Dachgeschosswohnung', '•', 'Greiz', 'Greiz']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 760 €,Wohnfläche ca. 152 m²,Zi. 4,2,16
-8,selObject_45024154,NEU 1 Zimmer App. Erdgeschoss WE 1.1,"['Erdgeschosswohnung', '•', 'Stadtroda', 'Stadtroda']","['NEU', 'NEU']",Miete zzgl. NK 250 €,Wohnfläche ca. 35 m²,Zi. 1,2,16
-9,selObject_45024129,NEU Schöne 2-Raum Wohnung mit Balkon in Riethnordhausen,"['Wohnung', '•', 'Riethnordhausen']","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 401 €,Wohnfläche ca. 50 m²,Zi. 2,2,16
-10,selObject_45024112,NEU Schöner geht es nicht......!,"['Dachgeschosswohnung', '•', 'Gera', 'Debschwitz']","['NEU', 'NEU']",Miete zzgl. NK 950 €,Wohnfläche ca. 115 m²,Zi. 4,2,16
-11,selObject_45023992,NEU 3 Zimmerwohnung Obergeschoss mit kleinen Balkon WE 11,"['Wohnung', '•', 'Stadtroda', 'Stadtroda']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 550 €,Wohnfläche ca. 86 m²,Zi. 3,2,16
-12,selObject_45023959,NEU 3 Zimmerwohnung Obergeschoss mit kleinen Balkon WE 15,"['Wohnung', '•', 'Stadtroda', 'Stadtroda']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 480 €,Wohnfläche ca. 76 m²,Zi. 3,2,16
-13,selObject_45023939,NEU NEUBAU 5 Zimmerwohnung Dornbluthweg Jena- Landgrafenvi...,"['Wohnung', '•', 'Jena', 'West']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 2.050 €,Wohnfläche ca. 136 m²,Zi. 5,2,16
-14,selObject_45023937,NEU 3 Zimmerwohnung in Jena Ost Neubau mit Gartenanteil,"['Erdgeschosswohnung', '•', 'Jena', 'Wenigenjena']","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 1.350 €,Wohnfläche ca. 90 m²,Zi. 3,2,16
-15,selObject_45023935,NEU NEUBAU 5 Zimmerwohnung Dornbluthweg Jena- Landgrafenvi...,"['Wohnung', '•', 'Jena', 'West']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 2.050 €,Wohnfläche ca. 136 m²,Zi. 5,2,16
-16,selObject_45023923,NEU 5 Zimmerwohnung Dornbluthweg Jena- Landgrafenviertel,"['Dachgeschosswohnung', '•', 'Jena', 'West']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 2.040 €,Wohnfläche ca. 136 m²,Zi. 5,2,16
-17,selObject_45023779,NEU Sehr schöne und gemütliche 3-Zimmer Wohnung mit guter...,"['Wohnung', '•', 'Kahla']","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']",Miete zzgl. NK 350 €,Wohnfläche ca. 46 m²,Zi. 3,2,16
-18,selObject_45023730,NEU Platz für Alle!,"['Etagenwohnung', '•', 'Nordhausen', 'Nordhausen']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 548,75 €",Wohnfläche ca. 104 m²,Zi. 4,2,16
-19,selObject_45023729,NEU Für die kleine Familie!,"['Erdgeschosswohnung', '•', 'Nordhausen', 'Nordhausen']","['NEU', 'NEU']","Miete zzgl. NK 310,75 €",Wohnfläche ca. 56 m²,Zi. 3,2,16
-20,selObject_45023727,NEU Studenten aufgepasst!,"['Etagenwohnung', '•', 'Nordhausen', 'Nordhausen']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 210,75 €",Wohnfläche ca. 43 m²,Zi. 2,2,16
-21,selObject_45023728,NEU Ruhige Innenstadtlage!,"['Etagenwohnung', '•', 'Nordhausen', 'Nordhausen']","['NEU', 'NEU']","Miete zzgl. NK 346,50 €",Wohnfläche ca. 63 m²,Zi. 3,2,16
-22,selObject_45023725,NEU Kompakte 1-Zimmerwohnung mit Balkon,"['Etagenwohnung', '•', 'Nordhausen', 'Nordhausen']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 130,25 €",Wohnfläche ca. 25 m²,Zi. 1,2,16
-23,selObject_45023683,NEU 3-Raum-Wohnung im Erdgeschoss,"['Erdgeschosswohnung', '•', 'Bad', 'Langensalza', 'Bad', 'Langensalza']","['NEU', 'NEU']","Miete zzgl. NK 341,46 €",Wohnfläche ca. 71 m²,Zi. 3,2,16
-24,selObject_45023520,NEU Aufwendig renovierte Wohnung für Naturfreunde direkt...,"['Wohnung', '•', 'Gera', 'Debschwitz']","['NEU', 'NEU']",Miete zzgl. NK 395 €,Wohnfläche ca. 75 m²,Zi. 4,2,16
-25,selObject_45023518,NEU Wohnen im Grünen Stadtteil Alt-Bieblach!,"['Dachgeschosswohnung', '•', 'Gera', 'Bieblach']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 551 €,Wohnfläche ca. 75 m²,Zi. 4,2,16
-26,selObject_45023431,"NEU 1. Obergeschoss, ebenerdige Dusche und perfekte Lage!","['Etagenwohnung', '•', 'Gera', 'Bieblach']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 542 €,Wohnfläche ca. 74 m²,Zi. 4,2,16
+0,selObject_45042812,NEU 2-Zimmerwohnung in der Innenstadt!,"[['Wohnung', '•', 'Suhl', 'Suhl']]","['NEU', 'NEU']",Miete zzgl. NK 350 €,Wohnfläche ca. 46 m²,Zi. 2,2,16
+1,selObject_45042526,NEU Traumwohnung gesucht? Hier gefunden!,"[['Etagenwohnung', '•', 'Erfurt', 'Roter', 'Berg']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 361 €,Wohnfläche ca. 61 m²,Zi. 3,2,16
+2,selObject_45042423,NEU *** 5 Zimmerwohnung mit reichlich Platz im Herzen von...,"[['Etagenwohnung', '•', 'Mühlhausen', 'Mühlhausen']]","['NEU', 'NEU']",Miete zzgl. NK 555 €,Wohnfläche ca. 119 m²,Zi. 5,2,16
+3,selObject_45042420,"NEU ***helle, praktische 2 Zimmerwohnung in Mühlhausen***","[['Etagenwohnung', '•', 'Mühlhausen', 'Mühlhausen']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 344 €,Wohnfläche ca. 54 m²,Zi. 2,2,16
+4,selObject_45042422,"NEU *** 3,5 Zimmerwohnung in Mühlhausen im Stadtzentrum...","[['Etagenwohnung', '•', 'Mühlhausen', 'Mühlhausen']]","['NEU', 'NEU']",Miete zzgl. NK 450 €,Wohnfläche ca. 84 m²,"Zi. 3,5",2,16
+5,selObject_45042418,NEU *** lichtdurchflutete 2 Zimmerwohnung im Altbau in der...,"[['Etagenwohnung', '•', 'Erfurt', 'Johannesvorstadt']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 390 €,Wohnfläche ca. 52 m²,Zi. 2,2,16
+6,selObject_45042419,NEU ***großzügige 2-Zimmerwohnung die auf SIE wartet***,"[['Dachgeschosswohnung', '•', 'Mühlhausen', 'Mühlhausen']]","['NEU', 'NEU']",Miete zzgl. NK 425 €,Wohnfläche ca. 68 m²,Zi. 2,2,16
+7,selObject_45042415,NEU *** 2 Zimmerwohnung in Großengottern - gemütlich und...,"[['Etagenwohnung', '•', 'Großengottern']]","['NEU', 'NEU']",Miete zzgl. NK 242 €,Wohnfläche ca. 49 m²,Zi. 2,2,16
+8,selObject_45042416,NEU *** klein aber fein - 1 Zimmerwohnung mit Terrasse in...,"[['Erdgeschosswohnung', '•', 'Mühlhausen', 'Mühlhausen']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 225 €,Wohnfläche ca. 37 m²,Zi. 1,2,16
+9,selObject_45042412,NEU *** 3 Zimmerwohnung in Mühlhausen mit Stellplatz ***,"[['Etagenwohnung', '•', 'Mühlhausen', 'Mühlhausen']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 475 €,Wohnfläche ca. 90 m²,Zi. 3,2,16
+10,selObject_45042413,NEU *** 2 Zimmerwohnung nah an der Innenstadt***,"[['Etagenwohnung', '•', 'Mühlhausen', 'Mühlhausen']]","['NEU', 'NEU']",Miete zzgl. NK 307 €,Wohnfläche ca. 60 m²,Zi. 2,2,16
+11,selObject_45042414,NEU *** seniorengerechte 1 Zimmerwohnung mit der Möglichke...,"[['Etagenwohnung', '•', 'Mühlhausen', 'Mühlhausen']]","['NEU', 'NEU']",Miete zzgl. NK 400 €,Wohnfläche ca. 59 m²,Zi. 1,2,16
+12,selObject_45042410,NEU *** großzügige 5 Zimmerwohnung im charmanten Altbau***,"[['Etagenwohnung', '•', 'Mühlhausen', 'Mühlhausen']]","['NEU', 'NEU']",Miete zzgl. NK 499 €,Wohnfläche ca. 118 m²,Zi. 5,2,16
+13,selObject_45042408,"NEU *** 2 Zimmer - Altbau -Dachgeschoss - ab Oktober, im...","[['Dachgeschosswohnung', '•', 'Mühlhausen', 'Mühlhausen']]","['NEU', 'NEU']",Miete zzgl. NK 320 €,Wohnfläche ca. 58 m²,Zi. 2,2,16
+14,selObject_45042409,NEU ***großzügige 3 Zimmerwohnung in Eisenach***,"[['Etagenwohnung', '•', 'Eisenach', 'Eisenach']]","['NEU', 'NEU']",Miete zzgl. NK 650 €,Wohnfläche ca. 102 m²,Zi. 3,2,16
+15,selObject_45042406,NEU *** großzügige 3 Zimmerwohnung im Herzen von Mühlhause...,"[['Etagenwohnung', '•', 'Mühlhausen', 'Mühlhausen']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 503 €,Wohnfläche ca. 100 m²,Zi. 3,2,16
+16,selObject_45042407,"NEU *** traumhafte, lichtdurchflutete und großzügige 4...","[['Etagenwohnung', '•', 'Mühlhausen', 'Mühlhausen']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 793,59 €",Wohnfläche ca. 108 m²,Zi. 4,2,16
+17,selObject_45042405,NEU *** mehr als großzügige 5 Zimmerwohnung in einem Altba...,"[['Etagenwohnung', '•', 'Mühlhausen', 'Mühlhausen']]","['NEU', 'NEU']",Miete zzgl. NK 695 €,Wohnfläche ca. 171 m²,Zi. 5,2,16
+18,selObject_45042402,NEU Gemütliche 1-Raumwohnung im Stadtzentrum,"[['Etagenwohnung', '•', 'Mühlhausen', 'Mühlhausen']]","['NEU', 'NEU']",Miete zzgl. NK 230 €,Wohnfläche ca. 43 m²,Zi. 1,2,16
+19,selObject_45042403,NEU *** wundervolle 2 Zimmer - Dachgeschosswohnung in eine...,"[['Dachgeschosswohnung', '•', 'Mühlhausen', 'Mühlhausen']]","['NEU', 'NEU']",Miete zzgl. NK 460 €,Wohnfläche ca. 67 m²,Zi. 2,2,16
+20,selObject_45042404,NEU *** schöne 2 Zimmerwohnung in guter Wohnlage in Stockh...,"[['Dachgeschosswohnung', '•', 'Eisenach', 'Stockhausen']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 378 €,Wohnfläche ca. 63 m²,Zi. 2,2,16
+21,selObject_45042401,NEU *** praktische 2 Zimmerwohnung im Nebenzentrum von...,"[['Etagenwohnung', '•', 'Mühlhausen', 'Mühlhausen']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 402 €,Wohnfläche ca. 67 m²,Zi. 2,2,16
+22,selObject_45042396,NEU *** erschwingliche 3 Zimmerwohnung in der Innenstadt...,"[['Etagenwohnung', '•', 'Mühlhausen', 'Mühlhausen']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 303 €,Wohnfläche ca. 60 m²,Zi. 3,2,16
+23,selObject_45042397,NEU *** günstige 2 Zimmerwohnung in Treffurt ***,"[['Etagenwohnung', '•', 'Treffurt', 'Treffurt']]","['NEU', 'NEU']",Miete zzgl. NK 200 €,Wohnfläche ca. 56 m²,Zi. 2,2,16
+24,selObject_45042398,NEU *** 2 Zimmerwohnung in Dingelstädt***,"[['Etagenwohnung', '•', 'Dingelstädt']]","['NEU', 'NEU']",Miete zzgl. NK 220 €,Wohnfläche ca. 46 m²,Zi. 2,2,16
+25,selObject_45042395,NEU Große 2-Zimmerwohnung!,"[['Wohnung', '•', 'Zella-Mehlis']]","['NEU', 'NEU']","Miete zzgl. NK 431,50 €",Wohnfläche ca. 72 m²,Zi. 2,2,16
+26,selObject_45042390,NEU *** großzügige 3- Zimmerwohnung im Stadtzentrum***,"[['Etagenwohnung', '•', 'Mühlhausen', 'Mühlhausen']]","['NEU', 'NEU']",Miete zzgl. NK 479 €,Wohnfläche ca. 81 m²,Zi. 3,2,16

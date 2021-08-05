@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44805502,3-Raumwohnung,"['Wohnung', '•', 'Neubukow', 'Neubukow']",[],Miete zzgl. NK 335 €,Wohnfläche ca. 61 m²,Zi. 3,19,13
-1,selObject_44805503,3-Raumwohnung mit Blick ins Grüne,"['Wohnung', '•', 'Bützow', 'Bützow']",[],Miete zzgl. NK 330 €,Wohnfläche ca. 58 m²,Zi. 3,19,13
-2,selObject_44805499,2-Raumwohnung,"['Wohnung', '•', 'Neubukow', 'Neubukow']",[],Miete zzgl. NK 285 €,Wohnfläche ca. 51 m²,Zi. 2,19,13
-3,selObject_44805500,3-Raumwohnung - Küchenübernahme möglich,"['Wohnung', '•', 'Güstrow', 'Güstrow']",[],Miete zzgl. NK 320 €,Wohnfläche ca. 58 m²,Zi. 3,19,13
-4,selObject_44805319,Schönes 1 Raum-Studentenappartement in 2er WG inkl....,"['Etagenwohnung', '•', 'Stralsund', 'Altstadt']",['EBK'],Miete zzgl. NK 190 €,Wohnfläche ca. 18 m²,Zi. 1,19,13
-5,selObject_44803932,große 2 Raumwohnung wartet auf neue Mieter !,"['Etagenwohnung', '•', 'Schwerin', 'Neu', 'Zippendorf']",['Balkon'],"Miete zzgl. NK 355,11 €",Wohnfläche ca. 68 m²,Zi. 2,19,13
-6,selObject_44802046,2 Komplettsanierte Wohnungen mit Schuppen und Grünfläc...,"['Wohnung', '•', 'Ludwigslust', 'Ludwigslust']",[],Miete zzgl. NK 350 €,Wohnfläche ca. 50 m²,Zi. 2,19,13
-7,selObject_44799035,gemütliche Altstadtwohnung 2 Zimmer mit EBK über 2...,"['Dachgeschosswohnung', '•', 'Stralsund', 'Altstadt']",['EBK'],Miete zzgl. NK 450 €,Wohnfläche ca. 60 m²,Zi. 2,19,13
-8,selObject_44798112,Reserviert!!! Moderne 2-Raum Erkerwohnung - nahe Brun...,"['Etagenwohnung', '•', 'Stralsund', 'Knieper']",[],Miete zzgl. NK 561 €,Wohnfläche ca. 66 m²,Zi. 2,19,13
-9,selObject_44797951,"Erstbezug nach Sanierung, moderne 1 Raumwohnung mit...","['Etagenwohnung', '•', 'Stralsund', 'Knieper']",[],Miete zzgl. NK 331 €,Wohnfläche ca. 30 m²,Zi. 1,19,13
-10,selObject_44797405,1-Zimmer-Wohnung in Zentrumsnähe,"['Etagenwohnung', '•', 'Greifswald', 'Fettenvorstadt']",['Balkon'],"Miete zzgl. NK 247,90 €",Wohnfläche ca. 24 m²,Zi. 1,19,13
-11,selObject_44796629,Über den Dächern von Stralsund: 3-Zimmerwohnung auf 3...,"['Wohnung', '•', 'Stralsund', 'Altstadt']","['Balkon', 'EBK']",Miete zzgl. NK 900 €,Wohnfläche ca. 137 m²,Zi. 3,19,13
-12,selObject_44796407,Schnell sein und einen 600 € Gutschein sichern!,"['Etagenwohnung', '•', 'Schwerin', 'Mueßer', 'Holz']",['Balkon'],Miete zzgl. NK 303 €,Wohnfläche ca. 57 m²,Zi. 3,19,13
-13,selObject_44796184,1- Zimmerappartement in zentraler Lage von 19053 Schwe...,"['Dachgeschosswohnung', '•', 'Schwerin', 'Paulsstadt']",['EBK'],Miete zzgl. NK 159 €,Wohnfläche ca. 20 m²,Zi. 1,19,13
-14,selObject_44795550,2-Raumwohnung im Dachgeschoss in Bahnhofsnähe zu vermi...,"['Wohnung', '•', 'Stralsund', 'Tribseer']",['EBK'],Miete zzgl. NK 420 €,Wohnfläche ca. 42 m²,Zi. 2,19,13
-15,selObject_44794752,Im Altstadtbereich von Wismar,"['Wohnung', '•', 'Wismar', 'Altstadt']",['EBK'],Miete zzgl. NK 390 €,Wohnfläche ca. 46 m²,Zi. 2,19,13
-16,selObject_44794421,Helle 2-Zimmer Wohnung in Kirch Grambow Erstbezug nach...,"['Wohnung', '•', 'Wedendorf', 'Kirch', 'Grambow']",[],Miete zzgl. NK 260 €,Wohnfläche ca. 52 m²,Zi. 2,19,13
-17,selObject_44793638,BUSCH-IMMOBILIEN ~ Reizvolle Wohnung mit Einbauküche!,"['Etagenwohnung', '•', 'Güstrow', 'Güstrow']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 400 €,Wohnfläche ca. 62 m²,Zi. 3,19,13
-18,selObject_44792940,3-Zimmerwohnung mit Einbauküche in der Tribseervorstad...,"['Erdgeschosswohnung', '•', 'Stralsund', 'Tribseer']",[],Miete zzgl. NK 460 €,Wohnfläche ca. 60 m²,Zi. 3,19,13
-19,selObject_44792515,+++EINZIEHEN & WOHLFÜHLEN+++ Freundliche Singlewohnung...,"['Etagenwohnung', '•', 'Güstrow', 'Güstrow']",['EBK'],Miete zzgl. NK 278 €,Wohnfläche ca. 37 m²,"Zi. 1,5",19,13
-20,selObject_44787534,"Individuelle 1,5-Zimmer-Wohnung mit Balkon und Whirlpo...","['Dachgeschosswohnung', '•', 'Schwerin', 'Schelfstadt']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 655 €,Wohnfläche ca. 70 m²,"Zi. 1,5",19,13
-21,selObject_44787465,helles Stadtapartment in ruhiger Innenhoflage / gepfle...,"['Etagenwohnung', '•', 'Rostock', 'Kröpeliner', 'Tor-Vorstadt']",['EBK'],Miete zzgl. NK 500 €,Wohnfläche ca. 28 m²,Zi. 1,19,13
-22,selObject_44787143,2 Zimmerwohnung in Poseritz zu vermieten,"['Apartment', '•', 'Poseritz', 'Poseritz']",[],Miete zzgl. NK 330 €,Wohnfläche ca. 52 m²,Zi. 2,19,13
-23,selObject_44787050,Wohnen auf dem Lindenberg!,"['Etagenwohnung', '•', 'Neubrandenburg', 'Lindenberg']",['Balkon'],Miete zzgl. NK 329 €,Wohnfläche ca. 76 m²,Zi. 4,19,13
-24,selObject_44784716,Schöne 2 Zimmer Dachgeschosswohnung im sanierten Altba...,"['Dachgeschosswohnung', '•', 'Schwerin', 'Altstadt']",['EBK'],Miete zzgl. NK 565 €,Wohnfläche ca. 62 m²,Zi. 2,19,13
-25,selObject_44782606,2-Raum Wohnung provisionsfrei zu vermieten,"['Etagenwohnung', '•', 'Neubrandenburg', 'Katharinenviertel']",[],Miete zzgl. NK 300 €,Wohnfläche ca. 51 m²,Zi. 2,19,13
-26,selObject_44782466,schöne 4-Raum-Wohnung zu vermieten - provisionsfrei zu...,"['Erdgeschosswohnung', '•', 'Demmin', 'Demmin']",[],Miete zzgl. NK 450 €,Wohnfläche ca. 89 m²,Zi. 4,19,13
+0,selObject_44858305,Ihre Wohnung ist schon eingerichtet!,"[['Etagenwohnung', '•', 'Neubrandenburg', 'Katharinenviertel']]",['EBK'],Miete zzgl. NK 285 €,Wohnfläche ca. 24 m²,Zi. 1,19,13
+1,selObject_44858298,einziehen und wohlfühlen - bezugsfertige Singlewohnung...,"[['Dachgeschosswohnung', '•', 'Waren', 'Waren']]",[],Miete zzgl. NK 420 €,Wohnfläche ca. 57 m²,Zi. 2,19,13
+2,selObject_44856391,Wilkommen zuhause!,"[['Etagenwohnung', '•', 'Rostock', 'Evershagen']]",['Balkon'],"Miete zzgl. NK 430,05 €",Wohnfläche ca. 73 m²,Zi. 3,19,13
+3,selObject_44856240,1- Zimmer- Wohnung mit Balkon in der Schelfstadt,"[['Etagenwohnung', '•', 'Schwerin', 'Schelfstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 360 €,Wohnfläche ca. 44 m²,Zi. 1,19,13
+4,selObject_44855271,Fahrstuhl! 2- Zimmer Dachgeschosswohnung in 19055 Schw...,"[['Dachgeschosswohnung', '•', 'Schwerin', 'Altstadt']]",['EBK'],Miete zzgl. NK 453 €,Wohnfläche ca. 65 m²,Zi. 2,19,13
+5,selObject_44855106,Mini- Singlewohnung mit EBK & kleiner Balkon mitten in...,"[['Etagenwohnung', '•', 'Güstrow', 'Güstrow']]","['Balkon', 'EBK']",Miete zzgl. NK 235 €,Wohnfläche ca. 28 m²,Zi. 1,19,13
+6,selObject_44855105,Freundliche und helle Wohnung nahe der Innenstadt zu...,"[['Dachgeschosswohnung', '•', 'Güstrow', 'Güstrow']]",[],Miete zzgl. NK 360 €,Wohnfläche ca. 70 m²,Zi. 3,19,13
+7,selObject_44853960,Wohnen Sie in ruhiger Randlage!,"[['Etagenwohnung', '•', 'Neubrandenburg', 'Datzeberg']]",['Balkon'],Miete zzgl. NK 279 €,Wohnfläche ca. 63 m²,Zi. 3,19,13
+8,selObject_44853924,Preisgünstige Wohnung in ruhiger Lage,"[['Etagenwohnung', '•', 'Neubrandenburg', 'Oststadt']]",['Balkon'],Miete zzgl. NK 241 €,Wohnfläche ca. 62 m²,Zi. 3,19,13
+9,selObject_44853292,Frisch sanierte 3 Raumwohnung!,"[['Souterrainwohnung', '•', 'Hagenow']]",['Balkon'],Miete zzgl. NK 320 €,Wohnfläche ca. 58 m²,Zi. 3,19,13
+10,selObject_44852738,wunderbare 3-Zimmer-Wohnung im Erdgeschoss,"[['Erdgeschosswohnung', '•', 'Sanitz', 'Sanitz']]",['Balkon'],Miete zzgl. NK 855 €,Wohnfläche ca. 90 m²,Zi. 3,19,13
+11,selObject_44852551,WG-Zimmer in 4-er WG direkt am Markt,"[['Etagenwohnung', '•', 'Greifswald', 'Innenstadt']]",['EBK'],Miete zzgl. NK 264 €,Wohnfläche ca. 22 m²,Zi. 1,19,13
+12,selObject_44852473,WG-Zimmer in 4-er WG direkt am Markt,"[['Etagenwohnung', '•', 'Greifswald', 'Innenstadt']]",['EBK'],Miete zzgl. NK 330 €,Wohnfläche ca. 30 m²,Zi. 1,19,13
+13,selObject_44852351,4 Raumwohnung mit Einbauküche!,"[['Souterrainwohnung', '•', 'Hagenow']]","['Balkon', 'EBK']",Miete zzgl. NK 440 €,Wohnfläche ca. 79 m²,Zi. 4,19,13
+14,selObject_44852337,1-Zimmer-Wohnung in Zentrumsnähe,"[['Etagenwohnung', '•', 'Greifswald', 'Fettenvorstadt']]",['Balkon'],"Miete zzgl. NK 238,08 €",Wohnfläche ca. 24 m²,Zi. 1,19,13
+15,selObject_44852310,1-Zimmer-Wohnung in Zentrumsnähe,"[['Etagenwohnung', '•', 'Greifswald', 'Fettenvorstadt']]",['Balkon'],"Miete zzgl. NK 247,90 €",Wohnfläche ca. 24 m²,Zi. 1,19,13
+16,selObject_44852301,schöne 2 - Zimmer Wohnung mit Balkon und neuer EBK,"[['Etagenwohnung', '•', 'Schwerin', 'Altstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 610 €,Wohnfläche ca. 61 m²,Zi. 2,19,13
+17,selObject_44852234,1-Zimmer-Wohnung in Zentrumsnähe,"[['Etagenwohnung', '•', 'Greifswald', 'Fettenvorstadt']]",['Balkon'],"Miete zzgl. NK 247,90 €",Wohnfläche ca. 24 m²,Zi. 1,19,13
+18,selObject_44852063,Wohnkomfort und Meer!,"[['Maisonette', '•', 'Elmenhorst/Lichtenhagen', 'Elmenhorst']]",['Balkon'],Miete zzgl. NK 685 €,Wohnfläche ca. 81 m²,Zi. 3,19,13
+19,selObject_44851854,Gut gelegene1-Zimmer-Wohnung mit Pantryküche zwischen...,"[['Wohnung', '•', 'Greifswald', 'Nördliche', 'Mühlenvorstadt']]",[],Miete zzgl. NK 265 €,Wohnfläche ca. 29 m²,Zi. 1,19,13
+20,selObject_44851491,Schöne Mietwohnung im Dachgeschoss in Warnemünde,"[['Dachgeschosswohnung', '•', 'Rostock', 'Warnemünde']]","['Balkon', 'EBK']",Miete zzgl. NK 420 €,Wohnfläche ca. 34 m²,Zi. 1,19,13
+21,selObject_44848552,Nachmieter gesucht- Wohnen in Citynähe!,"[['Etagenwohnung', '•', 'Neubrandenburg', 'Katharinenviertel']]",['Balkon'],Miete zzgl. NK 270 €,Wohnfläche ca. 68 m²,Zi. 3,19,13
+22,selObject_44847467,Kleine komfortable 2-Zimmer-Wohnung im Dachgeschoss,"[['Dachgeschosswohnung', '•', 'Schwerin', 'Lewenberg']]",['EBK'],Miete zzgl. NK 395 €,Wohnfläche ca. 45 m²,Zi. 2,19,13
+23,selObject_44846471,2 Raum-Wohnung mit Fahrstuhl in zentraler Lage,"[['Wohnung', '•', 'Anklam', 'Anklam']]",[],Miete zzgl. NK 374 €,Wohnfläche ca. 44 m²,Zi. 2,19,13
+24,selObject_44846470,5-Raumwohnung,"[['Wohnung', '•', 'Anklam', 'Anklam']]",['Balkon'],"Miete zzgl. NK 537,30 €",Wohnfläche ca. 138 m²,Zi. 5,19,13
+25,selObject_44846169,Wohnen in Ostseenähe,"[['Etagenwohnung', '•', 'Rostock', 'Lichtenhagen']]",[],"Miete zzgl. NK 307,58 €",Wohnfläche ca. 47 m²,Zi. 2,19,13
+26,selObject_44846089,2 - Raumwohnung in Wolgast Nord,"[['Etagenwohnung', '•', 'Wolgast', 'Wolgast']]",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 47 m²,Zi. 2,19,13

@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44427448,Erstbezug nach Sanierung,"['Wohnung', '•', 'Dessau-Roßlau', 'Zoberberg']",['Balkon'],Miete zzgl. NK 360 €,Wohnfläche ca. 55 m²,Zi. 2,79,15
-1,selObject_44427444,Erdgeschoß-Wohnung,"['Wohnung', '•', 'Dessau-Roßlau', 'Innenstadt']",[],Miete zzgl. NK 180 €,Wohnfläche ca. 40 m²,Zi. 2,79,15
-2,selObject_44427442,Miet mich jetzt!,"['Wohnung', '•', 'Dessau-Roßlau', 'Zoberberg']",['Balkon'],Miete zzgl. NK 300 €,Wohnfläche ca. 55 m²,Zi. 2,79,15
-3,selObject_44427079,Wohnung sucht Familie!,"['Wohnung', '•', 'Dessau-Roßlau', 'Süd']",['Balkon'],Miete zzgl. NK 347 €,Wohnfläche ca. 64 m²,Zi. 4,79,15
-4,selObject_44425933,EINZUGSBEREIT - DREI ZIMMER mit BALKON,"['Wohnung', '•', 'Bitterfeld-Wolfen', 'Wolfen']",['Balkon'],Miete zzgl. NK 320 €,Wohnfläche ca. 57 m²,Zi. 3,79,15
-5,selObject_44425760,3-Raumwohnung in ruhiger und grüner Wohnlage,"['Wohnung', '•', 'Lutherstadt', 'Eisleben', 'Lutherstadt', 'Eisleben']",['Balkon'],"Miete zzgl. NK 328,78 €",Wohnfläche ca. 60 m²,Zi. 3,79,15
-6,selObject_44425689,Schöne 5-Raum Maisonette-Wohnung,"['Dachgeschosswohnung', '•', 'Calvörde']",['Garten'],Miete zzgl. NK 680 €,Wohnfläche ca. 167 m²,Zi. 5,79,15
-7,selObject_44424584,Große Zweiraumwohnung mit Dusche im Erdgeschoss!,"['Erdgeschosswohnung', '•', 'Magdeburg', 'Alt', 'Olvenstedt']",['Balkon'],Miete zzgl. NK 369 €,Wohnfläche ca. 61 m²,Zi. 2,79,15
-8,selObject_44424182,3 Zimmer mit separierter Küche,"['Wohnung', '•', 'Dessau-Roßlau', 'Süd']",['Balkon'],Miete zzgl. NK 309 €,Wohnfläche ca. 57 m²,Zi. 3,79,15
-9,selObject_44423830,2 Raum Wohnung in Sargstedt,"['Etagenwohnung', '•', 'Sargstedt']",['Garten'],Miete zzgl. NK 270 €,Wohnfläche ca. 51 m²,Zi. 2,79,15
-10,selObject_44423811,... und sogar mit Einbauküche!!!,"['Wohnung', '•', 'Magdeburg', 'Fermersleben']",['EBK'],Miete zzgl. NK 318 €,Wohnfläche ca. 56 m²,Zi. 3,79,15
-11,selObject_44423809,Frisch hergerichtet mit Einbauküche!,"['Wohnung', '•', 'Magdeburg', 'Fermersleben']",['EBK'],Miete zzgl. NK 325 €,Wohnfläche ca. 57 m²,Zi. 3,79,15
-12,selObject_44423727,Der Balkon lädt zum verweilen ein!,"['Wohnung', '•', 'Magdeburg', 'Alt', 'Olvenstedt']",['Balkon'],Miete zzgl. NK 327 €,Wohnfläche ca. 58 m²,Zi. 3,79,15
-13,selObject_44423687,Auch in der Küche ist Wohnfeeling!,"['Wohnung', '•', 'Magdeburg', 'Salbke']",[],Miete zzgl. NK 308 €,Wohnfläche ca. 57 m²,Zi. 2,79,15
-14,selObject_44423567,Für Sie frisch hergerichtet!,"['Wohnung', '•', 'Magdeburg', 'Fermersleben']",['Balkon'],Miete zzgl. NK 389 €,Wohnfläche ca. 71 m²,Zi. 2,79,15
-15,selObject_44423516,Gemütlich frühstücken auf dem Balkon!,"['Wohnung', '•', 'Magdeburg', 'Fermersleben']",['Balkon'],Miete zzgl. NK 297 €,Wohnfläche ca. 53 m²,Zi. 2,79,15
-16,selObject_44423236,Hier ist genug Platz für Bälle!!!,"['Wohnung', '•', 'Magdeburg', 'Neustädter', 'Feld']",['Balkon'],Miete zzgl. NK 387 €,Wohnfläche ca. 70 m²,Zi. 3,79,15
-17,selObject_44422914,3-Zimmer mit Einbauküche und Blick ins Grüne,"['Etagenwohnung', '•', 'Aschersleben', 'Aschersleben']",['EBK'],Miete zzgl. NK 281 €,Wohnfläche ca. 53 m²,Zi. 3,79,15
-18,selObject_44422830,WANNENBAD und BALKON,"['Wohnung', '•', 'Zeitz', 'Zeitz']",['Balkon'],Miete zzgl. NK 291 €,Wohnfläche ca. 58 m²,Zi. 3,79,15
-19,selObject_44422030,Einziehen und Kaltmiete sparen!,"['Wohnung', '•', 'Magdeburg', 'Neu', 'Olvenstedt']",['Balkon'],Miete zzgl. NK 248 €,Wohnfläche ca. 34 m²,Zi. 1,79,15
-20,selObject_44421935,Erdgeschosswohnung mit Balkon und Dusche!,"['Wohnung', '•', 'Magdeburg', 'Neu', 'Olvenstedt']",['Balkon'],Miete zzgl. NK 388 €,Wohnfläche ca. 65 m²,Zi. 3,79,15
-21,selObject_44421691,Herrlicher Ausblick über die Stadt,"['Etagenwohnung', '•', 'Merseburg', 'Merseburg']",['Balkon'],Miete zzgl. NK 265 €,Wohnfläche ca. 61 m²,Zi. 3,79,15
-22,selObject_44421306,Hier wird renoviert!,"['Wohnung', '•', 'Magdeburg', 'Sudenburg']",['Balkon'],Miete zzgl. NK 318 €,Wohnfläche ca. 53 m²,Zi. 2,79,15
-23,selObject_44421119,Altbaucharme mit großer Küche!,"['Wohnung', '•', 'Magdeburg', 'Sudenburg']",[],Miete zzgl. NK 278 €,Wohnfläche ca. 56 m²,Zi. 2,79,15
-24,selObject_44415301,Naturnah,"['Etagenwohnung', '•', 'Halle', 'Heide', 'Nord']",['Balkon'],"Miete zzgl. NK 298,43 €",Wohnfläche ca. 57 m²,Zi. 2,79,15
-25,selObject_44415298,... und gleich Einziehen,"['Etagenwohnung', '•', 'Halle', 'Südstadt']",['Balkon'],"Miete zzgl. NK 343,90 €",Wohnfläche ca. 61 m²,Zi. 3,79,15
-26,selObject_44415296,... und die Heide in der Nähe,"['Etagenwohnung', '•', 'Halle', 'Heide', 'Nord']",['Balkon'],"Miete zzgl. NK 298,43 €",Wohnfläche ca. 57 m²,Zi. 2,79,15
+0,selObject_44449559,"Bestlage, 2-Zi Wohnung im Zentrum mit Tiefgaragenstell...","[['Wohnung', '•', 'Zerbst']]",[],Miete zzgl. NK 336 €,Wohnfläche ca. 52 m²,Zi. 2,79,15
+1,selObject_44449514,Schöne Wohnung sucht fleißigen Handwerker,"[['Wohnung', '•', 'Dessau-Roßlau', 'Innenstadt']]",[],Miete zzgl. NK 180 €,Wohnfläche ca. 40 m²,Zi. 2,79,15
+2,selObject_44449502,"Geld gespart, wer´s selber macht!","[['Wohnung', '•', 'Dessau-Roßlau', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 280 €,Wohnfläche ca. 56 m²,Zi. 3,79,15
+3,selObject_44448492,Renovierte 3-Raum-Wohnung mit Laminat und Balkon!,"[['Erdgeschosswohnung', '•', 'Burg', 'Burg']]","['Balkon', 'EBK']",Miete zzgl. NK 350 €,Wohnfläche ca. 67 m²,Zi. 3,79,15
+4,selObject_44448298,Die Hochschule direkt um die Ecke!,"[['Etagenwohnung', '•', 'Köthen']]",[],Miete zzgl. NK 195 €,Wohnfläche ca. 31 m²,Zi. 1,79,15
+5,selObject_44448295,Dreiraumwohnung mit tollem Echtholzparkett,"[['Erdgeschosswohnung', '•', 'Köthen']]",[],Miete zzgl. NK 495 €,Wohnfläche ca. 97 m²,Zi. 3,79,15
+6,selObject_44448242,WOHNEN MAL ANDERS,"[['Wohnung', '•', 'Lutherstadt', 'Wittenberg', 'Lutherstadt', 'Wittenberg']]",['Balkon'],Miete zzgl. NK 345 €,Wohnfläche ca. 66 m²,Zi. 3,79,15
+7,selObject_44447905,Gehobenes Wohnen im Bürgergartenviertel + Balkon,"[['Etagenwohnung', '•', 'Naumburg', 'Naumburg']]",['Balkon'],Miete zzgl. NK 715 €,Wohnfläche ca. 110 m²,"Zi. 3,5",79,15
+8,selObject_44447876,**Schöne Erdgeschosswohnung mit Balkon und Kamin**,"[['Erdgeschosswohnung', '•', 'Zeitz', 'Zeitz']]",['Balkon'],Miete zzgl. NK 293 €,Wohnfläche ca. 61 m²,Zi. 3,79,15
+9,selObject_44447795,helle und freundl.3 Raumwohnung in Calbe,"[['Etagenwohnung', '•', 'Calbe', 'Trabitz']]",[],Miete zzgl. NK 415 €,Wohnfläche ca. 92 m²,Zi. 3,79,15
+10,selObject_44447760,++Schön geschnittene Wohnung mit Kamin und Balkon++,"[['Etagenwohnung', '•', 'Zeitz', 'Zeitz']]",['Balkon'],Miete zzgl. NK 285 €,Wohnfläche ca. 59 m²,Zi. 2,79,15
+11,selObject_44447732,2-Zimmer-Wohnung mit Terasse,"[['Wohnung', '•', 'Hecklingen', 'Hecklingen']]",[],Miete zzgl. NK 405 €,Wohnfläche ca. 61 m²,Zi. 2,79,15
+12,selObject_44447687,**Geräumige Wohnung mit gemütlichem Kamin und Balkon...,"[['Wohnung', '•', 'Zeitz', 'Zeitz']]",['Balkon'],Miete zzgl. NK 275 €,Wohnfläche ca. 57 m²,Zi. 2,79,15
+13,selObject_44446727,Gemütliche 2-Raum-Wohnung in Sudenburg!,"[['Apartment', '•', 'Magdeburg', 'Sudenburg']]",[],Miete zzgl. NK 328 €,Wohnfläche ca. 62 m²,Zi. 2,79,15
+14,selObject_44446597,Geräumige 2-Zimmer-Mietwohnung in ruhiger und grüner...,"[['Wohnung', '•', 'Seehausen', 'Behrend']]",[],Miete zzgl. NK 250 €,Wohnfläche ca. 54 m²,Zi. 2,79,15
+15,selObject_44446342,"schöne, sanierte 2-Zimmerwohnung in Dessau-Nord","[['Etagenwohnung', '•', 'Dessau-Roßlau', 'Innenstadt']]",[],"Miete zzgl. NK 366,52 €",Wohnfläche ca. 67 m²,Zi. 2,79,15
+16,selObject_44446300,Familienwohnung? Ja hier!,"[['Wohnung', '•', 'Bernburg', 'Bernburg']]",['Balkon'],Miete zzgl. NK 349 €,Wohnfläche ca. 66 m²,Zi. 3,79,15
+17,selObject_44446231,***Zimmer mit Seeblick***,"[['Wohnung', '•', 'Magdeburg', 'Neustädter', 'See']]",[],"Miete zzgl. NK 187,63 €",Wohnfläche ca. 32 m²,Zi. 1,79,15
+18,selObject_44446062,gepflegte 2 Raum WE im Stadtzentrum zu vermieten,"[['Etagenwohnung', '•', 'Halberstadt', 'Halberstadt']]",[],Miete zzgl. NK 281 €,Wohnfläche ca. 51 m²,Zi. 2,79,15
+19,selObject_44445962,2 Raum Dachgeschosswohnung in Zerbst,"[['Dachgeschosswohnung', '•', 'Zerbst']]",['EBK'],Miete zzgl. NK 330 €,Wohnfläche ca. 60 m²,Zi. 2,79,15
+20,selObject_44444940,Kleine gemütliche 1-Raum-Wohnung,"[['Etagenwohnung', '•', 'Magdeburg', 'Kannenstieg']]",[],"Miete zzgl. NK 158,60 €",Wohnfläche ca. 32 m²,Zi. 1,79,15
+21,selObject_44440849,***möbliert - 1 Zimmer - EBK***,"[['Dachgeschosswohnung', '•', 'Magdeburg', 'Leipziger', 'Str.']]",['EBK'],Miete zzgl. NK 392 €,Wohnfläche ca. 56 m²,Zi. 1,79,15
+22,selObject_44440701,***hell - Stadtfeld Ost - saniert - Aufzug***,"[['Etagenwohnung', '•', 'Magdeburg', 'Stadtfeld', 'Ost']]",[],Miete zzgl. NK 413 €,Wohnfläche ca. 59 m²,Zi. 2,79,15
+23,selObject_44440319,***Balkon - Aufzug - Altstadt***,"[['Etagenwohnung', '•', 'Magdeburg', 'Altstadt']]",['Balkon'],Miete zzgl. NK 523 €,Wohnfläche ca. 83 m²,Zi. 3,79,15
+24,selObject_44440212,Tolle Dachgeschosswohnung zu vermieten,"[['Dachgeschosswohnung', '•', 'Köthen']]",[],Miete zzgl. NK 370 €,Wohnfläche ca. 74 m²,Zi. 3,79,15
+25,selObject_44439691,***Lutherstraße - 3 Zimmer - Sudenburg***,"[['Etagenwohnung', '•', 'Magdeburg', 'Sudenburg']]",[],Miete zzgl. NK 408 €,Wohnfläche ca. 68 m²,Zi. 3,79,15
+26,selObject_44439685,3-RaumWohnung im Paulusviertel,"[['Etagenwohnung', '•', 'Halle', 'Paulusviertel']]",[],Miete zzgl. NK 550 €,Wohnfläche ca. 73 m²,Zi. 3,79,15

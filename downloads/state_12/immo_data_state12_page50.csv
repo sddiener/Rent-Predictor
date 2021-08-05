@@ -1,28 +1,13 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_29029401,2 Raum 1.Etage,"['Wohnung', '•', 'Bad', 'Freienwalde', 'Bad', 'Freienwalde']",[],Miete zzgl. NK 320 €,Wohnfläche ca. 64 m²,Zi. 2,50,12
-1,selObject_29029358,4 Raum 71m² 1te Etage 2 Balkone,"['Dachgeschosswohnung', '•', 'Bliesdorf', 'Bliesdorf']",['Balkon'],Preis Auf Anfrage,Wohnfläche ca. 72 m²,Zi. 4,50,12
-2,selObject_29029263,3 Raum 73m² 1.te Etage Balkon,"['Dachgeschosswohnung', '•', 'Bliesdorf', 'Bliesdorf']",['Balkon'],Miete zzgl. NK 392 €,Wohnfläche ca. 73 m²,Zi. 3,50,12
-3,selObject_29029197,3 Raum 71m² 1te Etage 2 Balkone,"['Dachgeschosswohnung', '•', 'Bliesdorf', 'Bliesdorf']",['Balkon'],Preis Auf Anfrage,Wohnfläche ca. 72 m²,Zi. 3,50,12
-4,selObject_28882457,Betreutes Wohnen in der Seniorenwohnanlage Spreepark...,"['Wohnung', '•', 'Fürstenwalde', 'Fürstenwalde']","['Balkon', 'Garten', 'EBK']","Miete zzgl. NK 455,63 €",Wohnfläche ca. 40 m²,Zi. 2,50,12
-5,selObject_28668148,Wohnen mit Service für Senioren,"['Wohnung', '•', 'Eberswalde', 'Eberswalde']",[],Miete zzgl. NK 233 €,Wohnfläche ca. 27 m²,Zi. 1,50,12
-6,selObject_27127332,WBG - 2-RWE - sehr verkehrsgünstig gelegen!,"['Erdgeschosswohnung', '•', 'Brandenburg', 'Neustadt']",[],"Miete zzgl. NK 272,40 €",Wohnfläche ca. 45 m²,Zi. 2,50,12
-7,selObject_26645980,1 Zi Wohng. mit Balkon; Betreutes Wohnen in der Senior...,"['Wohnung', '•', 'Fürstenwalde', 'Fürstenwalde']","['Balkon', 'Garten', 'EBK']","Miete zzgl. NK 314,52 €",Wohnfläche ca. 26 m²,Zi. 1,50,12
-8,selObject_26568428,WBG - 2-RWE - im seniorenfreundlichen Haus mit Aufzug...,"['Etagenwohnung', '•', 'Brandenburg', 'Nord']",['Balkon'],"Miete zzgl. NK 244,01 €",Wohnfläche ca. 42 m²,Zi. 2,50,12
-9,selObject_26462990,Wohnen auf dem Lande,"['Wohnung', '•', 'Oberuckersee', 'Blankenburg']",[],Miete zzgl. NK 210 €,Wohnfläche ca. 47 m²,Zi. 2,50,12
-10,selObject_25192949,Wohnen auf dem Lande,"['Wohnung', '•', 'Randowtal', 'Eickstedt']",[],Miete zzgl. NK 240 €,Wohnfläche ca. 59 m²,Zi. 3,50,12
-11,selObject_23966883,Große 2 Raum-Dachgeschosswohnung in Stadtmitte,"['Dachgeschosswohnung', '•', 'Neuruppin']",[],"Miete zzgl. NK 532,05 €",Wohnfläche ca. 71 m²,Zi. 2,50,12
-12,selObject_23602250,modernisierte Wohnung im Altbau,"['Etagenwohnung', '•', 'Pritzwalk', 'Pritzwalk']",[],Miete zzgl. NK 525 €,Wohnfläche ca. 105 m²,"Zi. 3,5",50,12
-13,selObject_23141997,WBG - 1-RWE - mit Internetbonus!,"['Etagenwohnung', '•', 'Brandenburg', 'Hohenstücken']",['Balkon'],"Miete zzgl. NK 158,49 €",Wohnfläche ca. 34 m²,Zi. 1,50,12
-14,selObject_22741816,Wohnen auf dem Lande,"['Erdgeschosswohnung', '•', 'Uckerfelde', 'Falkenwalde']",[],Miete zzgl. NK 260 €,Wohnfläche ca. 58 m²,Zi. 2,50,12
-15,selObject_21575019,Wir modernisieren für Sie!,"['Wohnung', '•', 'Eberswalde', 'Finow']",['Balkon'],Miete zzgl. NK 425 €,Wohnfläche ca. 61 m²,Zi. 3,50,12
-16,selObject_20399043,Wohnen auf dem Lande,"['Wohnung', '•', 'Randowtal', 'Eickstedt']",[],Miete zzgl. NK 245 €,Wohnfläche ca. 57 m²,Zi. 3,50,12
-17,selObject_20189144,Mietwohnung,"['Kein', 'Bild']",[],Miete zzgl. NK 260 €,Wohnfläche ca. 47 m²,Zi. 3,50,12
-18,selObject_19319762,WBG - 2-RWE - ideal für junge Leute und Junggeblieben...,"['Etagenwohnung', '•', 'Brandenburg', 'Nord']",['Balkon'],"Miete zzgl. NK 282,13 €",Wohnfläche ca. 50 m²,Zi. 2,50,12
-19,selObject_19136585,"Sanierte, freundlche Wohnung in grüner Lage","['Etagenwohnung', '•', 'Cottbus', 'Spremberger', 'Vorstadt']",['Balkon'],Miete zzgl. NK 426 €,Wohnfläche ca. 62 m²,Zi. 3,50,12
-20,selObject_17491638,WBG - 1-RWE - mit Balkon und Fahrstuhl!,"['Erdgeschosswohnung', '•', 'Brandenburg', 'Hohenstücken']",['Balkon'],"Miete zzgl. NK 172,60 €",Wohnfläche ca. 35 m²,Zi. 1,50,12
-21,selObject_17345714,WBG - 2-RWE - ideal für den Start zur Eigenständigkeit...,"['Etagenwohnung', '•', 'Brandenburg', 'Hohenstücken']",['Balkon'],"Miete zzgl. NK 264,34 €",Wohnfläche ca. 49 m²,Zi. 2,50,12
-22,selObject_17195250,Wohnen auf dem Lande,"['Wohnung', '•', 'Uckerfelde', 'Falkenwalde']",[],Miete zzgl. NK 160 €,Wohnfläche ca. 37 m²,Zi. 1,50,12
-23,selObject_16564890,WBG - 1-RWE - bezugsfertig!,"['Etagenwohnung', '•', 'Brandenburg', 'Hohenstücken']",['Balkon'],"Miete zzgl. NK 154,67 €",Wohnfläche ca. 28 m²,Zi. 1,50,12
-24,selObject_14205049,WBG - 2-RWE - mit Balkon!,"['Etagenwohnung', '•', 'Brandenburg', 'Nord']",['Balkon'],"Miete zzgl. NK 228,53 €",Wohnfläche ca. 50 m²,Zi. 2,50,12
-25,selObject_13310053,WBG - 2-RWE im Gertraudenhof!,"['Etagenwohnung', '•', 'Brandenburg', 'Hohenstücken']",['Balkon'],"Miete zzgl. NK 277,24 €",Wohnfläche ca. 57 m²,Zi. 2,50,12
-26,selObject_13235167,WBG - 2-RWE - für Singles oder junge Paare!,"['Etagenwohnung', '•', 'Brandenburg', 'Altstadt']",['Balkon'],"Miete zzgl. NK 287,45 €",Wohnfläche ca. 50 m²,Zi. 2,50,12
+0,selObject_13235167,WBG - 2-RWE - für Singles oder junge Paare!,"[['Etagenwohnung', '•', 'Brandenburg', 'Altstadt']]",['Balkon'],"Miete zzgl. NK 287,45 €",Wohnfläche ca. 50 m²,Zi. 2,50,12
+1,selObject_12810147,Wohnen auf dem Lande,"[['Wohnung', '•', 'Uckerfelde', 'Falkenwalde']]",[],Miete zzgl. NK 260 €,Wohnfläche ca. 65 m²,Zi. 3,50,12
+2,selObject_12810145,Wohnen auf dem Lande,"[['Wohnung', '•', 'Gramzow', 'Lützlow']]",[],Miete zzgl. NK 165 €,Wohnfläche ca. 36 m²,Zi. 1,50,12
+3,selObject_12758002,WBG - 1-RWE - gut u. günstig!,"[['Etagenwohnung', '•', 'Brandenburg', 'Hohenstücken']]",['Balkon'],"Miete zzgl. NK 137,38 €",Wohnfläche ca. 29 m²,Zi. 1,50,12
+4,selObject_12461338,WBG - 3-RWE - ideal für Familien - Kindergarten vor...,"[['Etagenwohnung', '•', 'Brandenburg', 'Hohenstücken']]",['Balkon'],"Miete zzgl. NK 321,43 €",Wohnfläche ca. 60 m²,Zi. 3,50,12
+5,selObject_11068100,WBG - 2-RWE - im Pariser Hof!,"[['Etagenwohnung', '•', 'Brandenburg', 'Hohenstücken']]",['Balkon'],"Miete zzgl. NK 264,34 €",Wohnfläche ca. 49 m²,Zi. 2,50,12
+6,selObject_10963223,WBG - 3-RWE - in der Nähe vom Marienberg!,"[['Etagenwohnung', '•', 'Brandenburg', 'Nord']]",['Balkon'],"Miete zzgl. NK 278,85 €",Wohnfläche ca. 61 m²,Zi. 3,50,12
+7,selObject_10732461,WBG - 2-RWE - in einem sehr schönen und gepflegtem...,"[['Etagenwohnung', '•', 'Brandenburg', 'Hohenstücken']]",['Balkon'],"Miete zzgl. NK 269,29 €",Wohnfläche ca. 49 m²,Zi. 2,50,12
+8,selObject_10261164,Wohnen auf dem Lande,"[['Dachgeschosswohnung', '•', 'Oberuckersee', 'Blankenburg']]",[],Miete zzgl. NK 150 €,Wohnfläche ca. 37 m²,Zi. 1,50,12
+9,selObject_9920361,Wohnen auf dem Lande,"[['Erdgeschosswohnung', '•', 'Randowtal', 'Eickstedt']]",[],Miete zzgl. NK 200 €,Wohnfläche ca. 46 m²,Zi. 2,50,12
+10,selObject_9918870,Wohnen auf dem Lande,"[['Wohnung', '•', 'Gramzow', 'Lützlow']]",[],Miete zzgl. NK 290 €,Wohnfläche ca. 68 m²,Zi. 3,50,12
+11,selObject_4686218,Wohnen auf dem Lande,"[['Wohnung', '•', 'Oberuckersee', 'Blankenburg']]",[],Miete zzgl. NK 250 €,Wohnfläche ca. 57 m²,Zi. 2,50,12

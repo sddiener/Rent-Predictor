@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_43767901,Hochwertige 3-Zimmer-Wohnung - 1. OG - Erstbezug,"['Wohnung', '•', 'Waldshut-Tiengen', 'Tiengen']","['Balkon', 'Garten']","Miete zzgl. NK 986,73 €",Wohnfläche ca. 93 m²,Zi. 3,103,8
-1,selObject_43767893,Hochwertige 2-Zimmer-Wohnung - 1. OG - Erstbezug,"['Wohnung', '•', 'Waldshut-Tiengen', 'Tiengen']","['Balkon', 'Garten']","Miete zzgl. NK 700,98 €",Wohnfläche ca. 67 m²,Zi. 2,103,8
-2,selObject_43767891,Hochwertige 2-Zimmer-Wohnung - EG - Erstbezug,"['Wohnung', '•', 'Waldshut-Tiengen', 'Tiengen']","['Balkon', 'Garten']","Miete zzgl. NK 752,92 €",Wohnfläche ca. 72 m²,Zi. 2,103,8
-3,selObject_43767890,Hochwertige 2-Zimmer-Wohnung - 2. OG - Erstbezug,"['Wohnung', '•', 'Waldshut-Tiengen', 'Tiengen']","['Balkon', 'Garten']","Miete zzgl. NK 738,36 €",Wohnfläche ca. 70 m²,Zi. 2,103,8
-4,selObject_43767889,Hochwertige 4-Zimmer-Wohnung - 1. OG - Erstbezug,"['Wohnung', '•', 'Waldshut-Tiengen', 'Tiengen']","['Balkon', 'Garten']","Miete zzgl. NK 1.303,95 €",Wohnfläche ca. 123 m²,Zi. 4,103,8
-5,selObject_43767888,Hochwertige 2-Zimmer-Wohnung - 2. OG - Erstbezug,"['Wohnung', '•', 'Waldshut-Tiengen', 'Tiengen']","['Balkon', 'Garten']","Miete zzgl. NK 700,98 €",Wohnfläche ca. 67 m²,Zi. 2,103,8
-6,selObject_43767878,Hochwertige 2-Zimmer-Wohnung - 1. OG - Erstbezug,"['Wohnung', '•', 'Waldshut-Tiengen', 'Tiengen']","['Balkon', 'Garten']","Miete zzgl. NK 738,36 €",Wohnfläche ca. 70 m²,Zi. 2,103,8
-7,selObject_43767846,Hochwertige 3-Zimmer-Wohnung - 3. OG - Erstbezug,"['Wohnung', '•', 'Waldshut-Tiengen', 'Tiengen']","['Balkon', 'Garten']","Miete zzgl. NK 1.227,60 €",Wohnfläche ca. 116 m²,Zi. 4,103,8
-8,selObject_43767845,Hochwertige 2-Zimmer-Wohnung - 4. OG - Erstbezug,"['Wohnung', '•', 'Waldshut-Tiengen', 'Tiengen']","['Balkon', 'Garten']","Miete zzgl. NK 752,42 €",Wohnfläche ca. 71 m²,Zi. 2,103,8
-9,selObject_43767844,Hochwertige 2-Zimmer-Wohnung - 3. OG - Erstbezug,"['Wohnung', '•', 'Waldshut-Tiengen', 'Tiengen']","['Balkon', 'Garten']","Miete zzgl. NK 754,30 €",Wohnfläche ca. 71 m²,Zi. 2,103,8
-10,selObject_43767843,Hochwertige 3-Zimmer-Maisonettewohnung - Erstbezug,"['Maisonette', '•', 'Waldshut-Tiengen', 'Tiengen']","['Balkon', 'Garten']","Miete zzgl. NK 1.027,87 €",Wohnfläche ca. 97 m²,Zi. 3,103,8
-11,selObject_43767841,Hochwertige 2-Zimmer-Wohnung - 2. OG - Erstbezug,"['Wohnung', '•', 'Waldshut-Tiengen', 'Tiengen']","['Balkon', 'Garten']","Miete zzgl. NK 828,54 €",Wohnfläche ca. 78 m²,Zi. 2,103,8
-12,selObject_43767840,Hochwertige 4-Zimmer-Wohnung - 4. OG - Erstbezug,"['Wohnung', '•', 'Waldshut-Tiengen', 'Tiengen']","['Balkon', 'Garten']","Miete zzgl. NK 1.235,85 €",Wohnfläche ca. 117 m²,Zi. 4,103,8
-13,selObject_43763562,"1,5-Zimmer-Senioren-Wohnung in Tettnang Tettnang nach...","['Wohnung', '•', 'Tettnang', 'Tettnang']",['EBK'],Miete zzgl. NK 485 €,Wohnfläche ca. 34 m²,"Zi. 1,5",103,8
-14,selObject_43761538,"Exklusive 3,5-Zimmer-Wohnung + Hobbyraum mit über 40...","['Etagenwohnung', '•', 'Waldshut-Tiengen', 'Waldshut']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 900 €,Wohnfläche ca. 80 m²,Zi. 3,103,8
-15,selObject_43747098,MÖBLIERT - SONNIGES 2-ZIMMER-APARTMENT mit Galerie -...,"['Wohnung', '•', 'Stuttgart', 'Bad', 'Cannstatt']",['EBK'],Miete zzgl. NK 1.030 €,Wohnfläche ca. 68 m²,"Zi. 2,5",103,8
-16,selObject_43746358,Studentenapartment in Mannheim-City,"['Kein', 'Bild']","['Balkon', 'EBK']",Miete zzgl. NK 290 €,Wohnfläche ca. 18 m²,Zi. 1,103,8
-17,selObject_43745077,Gemütliche 2-Zimmer DG-Wohnung mit Balkon in Bad Dürrh...,"['Dachgeschosswohnung', '•', 'Bad', 'Dürrheim', 'Bad', 'Dürrheim']",['Balkon'],Miete zzgl. NK 440 €,Wohnfläche ca. 52 m²,Zi. 2,103,8
-18,selObject_43735068,WG-Zimmer in ideal gelegenem Studentenwohnheim. Auch...,"['Zimmer', '•', 'Stuttgart', 'Dürrlewang']",['EBK'],Miete zzgl. NK 313 €,Wohnfläche ca. 18 m²,,103,8
-19,selObject_43735003,"Modernes WG-Zimmer für Studenten, Schüler und Azubis","['Zimmer', '•', 'Stuttgart', 'Dürrlewang']",['EBK'],Miete zzgl. NK 385 €,Wohnfläche ca. 21 m²,,103,8
-20,selObject_43734380,Wohnen in den Quadraten! 3-Zimmer-Wohnung(065),"['Wohnung', '•', 'Mannheim', 'Quadrate']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.631 €,Wohnfläche ca. 102 m²,Zi. 3,103,8
-21,selObject_43732213,Nido I All-inclusive Möbliertes Wohnen - Early Bird...,"['Apartment', '•', 'Stuttgart', 'Nord']",['EBK'],Miete zzgl. NK 379 €,Wohnfläche ca. 10 m²,Zi. 1,103,8
-22,selObject_43725881,Barrierefreie Wohnung im Herzen von Wasseralfingen-...,"['Etagenwohnung', '•', 'Aalen', 'Aalen']","['Balkon', 'EBK']",Miete zzgl. NK 750 €,Wohnfläche ca. 62 m²,"Zi. 2,5",103,8
-23,selObject_43723167,Erstbezug 3 1/2 Zimmer-Wohnung in der Nähe beim Marktp...,"['Dachgeschosswohnung', '•', 'Bad', 'Saulgau', 'Bad', 'Saulgau']",['EBK'],Miete zzgl. NK 1.000 €,Wohnfläche ca. 122 m²,"Zi. 3,5",103,8
-24,selObject_43712780,Große 5-Zimmerwohnung in Crailsheim,"['Etagenwohnung', '•', 'Crailsheim', 'Crailsheim']",[],Miete zzgl. NK 818 €,Wohnfläche ca. 109 m²,Zi. 5,103,8
-25,selObject_43709615,Möblierte 2-Zimmer-Wohnung - nur noch einziehen!,"['Etagenwohnung', '•', 'Ludwigsburg', 'Nord']",['EBK'],Miete zzgl. NK 950 €,Wohnfläche ca. 52 m²,Zi. 2,103,8
-26,selObject_43708651,Erstbezug: Exklusive 4-Zimmer-Neubauwohnung mit Loggia...,"['Etagenwohnung', '•', 'Heilbronn', 'Heilbronn']",['EBK'],Miete zzgl. NK 1.375 €,Wohnfläche ca. 111 m²,Zi. 4,103,8
+0,selObject_43999770,"Helle 2 Zimmer Wohnung in Eimeldingen, befristet","[['Wohnung', '•', 'Eimeldingen']]",['EBK'],Miete zzgl. NK 740 €,Wohnfläche ca. 54 m²,Zi. 2,103,8
+1,selObject_43999768,Möbliertes Apartment mit Loftcharakter in Lörrach -...,"[['Wohnung', '•', 'Lörrach', 'Haagen']]",['EBK'],Miete zzgl. NK 785 €,Wohnfläche ca. 30 m²,Zi. 1,103,8
+2,selObject_43999573,3 Zimmer im 2. OG mit Balkon in gepflegter Anlage,"[['Wohnung', '•', 'Heidenheim', 'Innenstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 699 €,Wohnfläche ca. 81 m²,Zi. 3,103,8
+3,selObject_43996717,"3,5-Zimmer-Mietwohnung in Grenzach-Wyhlen, OT Wyhlen...","[['Etagenwohnung', '•', 'Grenzach-Wyhlen', 'Wyhlen']]","['Balkon', 'EBK']",Miete zzgl. NK 900 €,Wohnfläche ca. 90 m²,"Zi. 3,5",103,8
+4,selObject_43993804,"Große, freundliche 4-Zi.-Whg. mit Balkon im 3 OG zu...","[['Apartment', '•', 'Stutensee', 'Blankenloch']]",['Balkon'],Miete zzgl. NK 995 €,Wohnfläche ca. 92 m²,Zi. 4,103,8
+5,selObject_43992357,Stilvolle 2-Zi.-Wohnung mit 2 Balkonen und TG-Stellpla...,"[['Etagenwohnung', '•', 'Baden-Baden', 'Innenstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 900 €,Wohnfläche ca. 80 m²,Zi. 2,103,8
+6,selObject_43992355,"Bevorzugte Halbhöhenlage in Baden-Baden, stilvoll möbl...","[['Etagenwohnung', '•', 'Baden-Baden', 'Innenstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 1.290 €,Wohnfläche ca. 80 m²,Zi. 2,103,8
+7,selObject_43992044,3 Zimmer Wohnung zu vermieten im Dachgeschoss,"[['Dachgeschosswohnung', '•', 'Esslingen', 'Zell']]","['Balkon', 'EBK']",Miete zzgl. NK 790 €,Wohnfläche ca. 73 m²,Zi. 3,103,8
+8,selObject_43989895,Top ausgestattete City-NR-Wohnung im Käthchenhof der...,"[['Etagenwohnung', '•', 'Heilbronn', 'Heilbronn']]","['Balkon', 'EBK']",Miete zzgl. NK 920 €,Wohnfläche ca. 60 m²,Zi. 2,103,8
+9,selObject_43988647,Hechingen-Unterstadt: 3 -Zimmer-Wohnung zur Miete!...,"[['Etagenwohnung', '•', 'Hechingen', 'Hechingen']]",['EBK'],Miete zzgl. NK 690 €,Wohnfläche ca. 75 m²,Zi. 3,103,8
+10,selObject_43986040,Herrschaftliche Räume in historischem Ambiente,"[['Erdgeschosswohnung', '•', 'Horb', 'Horb']]",['EBK'],Miete zzgl. NK 1.300 €,Wohnfläche ca. 206 m²,Zi. 2,103,8
+11,selObject_43985277,"Schöne 5-Zimmerwohnung Böblingen-Flugfeld, 2 Bäder,...","[['Wohnung', '•', 'Böblingen', 'Flugfeld']]",['EBK'],Miete zzgl. NK 1.675 €,Wohnfläche ca. 134 m²,Zi. 5,103,8
+12,selObject_43982061,Marko Winter Immobilien --- Mosbach: Zentral gelegene...,"[['Wohnung', '•', 'Mosbach', 'Mosbach']]",['Balkon'],Miete zzgl. NK 600 €,Wohnfläche ca. 80 m²,Zi. 3,103,8
+13,selObject_43980774,"großzügige 3,5-Zimmer-Wohnung mit Balkon und Gartenant...","[['Wohnung', '•', 'Hülben']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 700 €,Wohnfläche ca. 109 m²,"Zi. 3,5",103,8
+14,selObject_43974417,Moderne 3-Zimmerwohnung in schönem Neubau,"[['Etagenwohnung', '•', 'Kehl', 'Auenheim']]","['Balkon', 'EBK']",Miete zzgl. NK 817 €,Wohnfläche ca. 89 m²,Zi. 3,103,8
+15,selObject_43974411,Barrierefreie 3-Zimmer-Neubauwohnungen,"[['Etagenwohnung', '•', 'Kehl', 'Auenheim']]","['Balkon', 'EBK']",Miete zzgl. NK 775 €,Wohnfläche ca. 85 m²,Zi. 3,103,8
+16,selObject_43974214,NEUBAU - Hochwertiges 4 Zimmer Penthouse mit großem...,"[['Penthouse', '•', 'Heilbronn', 'Heilbronn']]",['EBK'],Miete zzgl. NK 1.610 €,Wohnfläche ca. 144 m²,Zi. 4,103,8
+17,selObject_43951141,Charmante 4-Zimmer-Wohnung mit traumhaftem Blick in...,"[['Etagenwohnung', '•', 'Ulm', 'Mitte']]","['Balkon', 'EBK']",Miete zzgl. NK 1.870 €,Wohnfläche ca. 122 m²,Zi. 4,103,8
+18,selObject_43951116,"5-Zi. Whg, Neubau, Loggia, Parkblick, offene Küche mit...","[['Etagenwohnung', '•', 'Stuttgart']]",['EBK'],Miete zzgl. NK 2.130 €,Wohnfläche ca. 129 m²,Zi. 5,103,8
+19,selObject_43950559,"3-Zimmer Whg, Neubau, Balkon, EBK","[['Etagenwohnung', '•', 'Stuttgart']]",['EBK'],Miete zzgl. NK 1.760 €,Wohnfläche ca. 106 m²,Zi. 3,103,8
+20,selObject_43950394,"3-Zimmer Whg, Neubau, Balkon, EBK","[['Etagenwohnung', '•', 'Stuttgart']]","['Balkon', 'EBK']",Miete zzgl. NK 1.550 €,Wohnfläche ca. 94 m²,Zi. 3,103,8
+21,selObject_43949727,"4-Zimmer Whg, Neubau, Balkon, EBK","[['Etagenwohnung', '•', 'Stuttgart']]","['Balkon', 'EBK']",Miete zzgl. NK 1.700 €,Wohnfläche ca. 103 m²,Zi. 4,103,8
+22,selObject_43946306,Endlich Zuhause: günstig geschnittene 3-Zimmer-Wohnung,"[['Etagenwohnung', '•', 'Heidenheim', 'Innenstadt']]",[],"Miete zzgl. NK 481,82 €",Wohnfläche ca. 58 m²,Zi. 3,103,8
+23,selObject_43945145,Willkommen zu Hause,"[['Wohnung', '•', 'Stuttgart', 'Nord']]","['Garten', 'EBK']",Miete zzgl. NK 1.495 €,Wohnfläche ca. 79 m²,Zi. 3,103,8
+24,selObject_43945144,Neubau - Erstbezug,"[['Wohnung', '•', 'Stuttgart', 'Nord']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.445 €,Wohnfläche ca. 80 m²,Zi. 3,103,8
+25,selObject_43944240,Sanierte 3-Zimmer Wohnung mit Balkon und tollem Blick...,"[['Wohnung', '•', 'Heidenheim', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 611 €,Wohnfläche ca. 71 m²,Zi. 3,103,8
+26,selObject_43944229,Schöne 3 Zimmer Wohnung,"[['Wohnung', '•', 'Heidenheim', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 640 €,Wohnfläche ca. 74 m²,Zi. 3,103,8

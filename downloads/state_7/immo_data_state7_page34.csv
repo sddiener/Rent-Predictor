@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44083313,Ihr neues Zuhause: 3-Zimmer Wohnung mit Einbauküche...,"['Etagenwohnung', '•', 'Mainz', 'Altstadt']","['Balkon', 'EBK']",Miete zzgl. NK 1.170 €,Wohnfläche ca. 89 m²,Zi. 3,34,7
-1,selObject_44082432,TR.-Kürenz: Gemütliche 2 ZKB Dachgeschosswohnung inkl...,"['Dachgeschosswohnung', '•', 'Trier', 'Kürenz']",['EBK'],Miete zzgl. NK 550 €,Wohnfläche ca. 67 m²,Zi. 2,34,7
-2,selObject_44071886,2 ZKB Wohnung in ruhiger Lage von Pirmasens zu vermiet...,"['Etagenwohnung', '•', 'Pirmasens', 'Innenstadt']",['Garten'],Miete zzgl. NK 260 €,Wohnfläche ca. 44 m²,Zi. 2,34,7
-3,selObject_44065762,"Trier Fussgängerzone Whg. 97,5m&sup","['Wohnung', '•', 'Trier', 'Innenstadt']",['EBK'],Miete zzgl. NK 980 €,Wohnfläche ca. 98 m²,Zi. 3,34,7
-4,selObject_44061662,Trier-City: Komplett renovierte 3 ZKB-Etagenwohnung...,"['Etagenwohnung', '•', 'Trier', 'Innenstadt']",[],Miete zzgl. NK 850 €,Wohnfläche ca. 95 m²,Zi. 3,34,7
-5,selObject_44052860,Gemütliche 2 ZKB Wohnung mit Balkon zu vermieten!,"['Etagenwohnung', '•', 'Pirmasens', 'Innenstadt']","['Balkon', 'Garten']",Miete zzgl. NK 320 €,Wohnfläche ca. 52 m²,Zi. 2,34,7
-6,selObject_44033430,"Neu renovierte 3,5-Zi.-Wohnung (KFW55) sucht einen...","['Loft-Studio-Atelier', '•', 'Bernkastel-Kues', 'Kues']",['EBK'],Miete zzgl. NK 820 €,Wohnfläche ca. 84 m²,"Zi. 3,5",34,7
-7,selObject_44026357,"...moderne, großzügige und helle 2-Zimmer-Wohnung mit...","['Etagenwohnung', '•', 'Koblenz', 'Moselweiß']",['Balkon'],Miete zzgl. NK 700 €,Wohnfläche ca. 83 m²,Zi. 2,34,7
-8,selObject_44022060,Völl möbiliertes Appartment - Ideal für Lux Pendler -...,"['Etagenwohnung', '•', 'Trier', 'Euren']",['EBK'],Miete zzgl. NK 450 €,Wohnfläche ca. 40 m²,Zi. 1,34,7
-9,selObject_44006390,Die gut geschnittene Wohnung / Nr.4 / 65 m² / 3 ZKB,"['Etagenwohnung', '•', 'Obermoschel']",['Garten'],Miete zzgl. NK 420 €,Wohnfläche ca. 65 m²,Zi. 3,34,7
-10,selObject_44005201,Die gut geschnittene Wohnung / Nr.3 / 65 m² / 3 ZKB,"['Etagenwohnung', '•', 'Obermoschel']",['Garten'],Miete zzgl. NK 420 €,Wohnfläche ca. 65 m²,Zi. 3,34,7
-11,selObject_43994537,Renovierte 2-Zimmerwohnung in der Innenstadt - Ideal...,"['Erdgeschosswohnung', '•', 'Trier', 'Innenstadt']",['EBK'],Miete zzgl. NK 430 €,Wohnfläche ca. 36 m²,Zi. 2,34,7
-12,selObject_43983989,Maisonette-Wohnung im Herzen von Montabaur,"['Maisonette', '•', 'Montabaur', 'Montabaur']","['Balkon', 'EBK']",Miete zzgl. NK 1.290 €,Wohnfläche ca. 170 m²,Zi. 4,34,7
-13,selObject_43974108,Renovierte Souterrainwohnung mit Terrasse & Garten in...,"['Souterrainwohnung', '•', 'Trier', 'Tarforst']",['EBK'],Miete zzgl. NK 750 €,Wohnfläche ca. 90 m²,"Zi. 3,5",34,7
-14,selObject_43973673,TRIER ZENTRUM - Vollmöbliertes Appartment - ab sofort...,"['Apartment', '•', 'Trier', 'Trier-Nord']",['EBK'],Miete zzgl. NK 450 €,Wohnfläche ca. 28 m²,Zi. 1,34,7
-15,selObject_43973405,Mehring!! Penthouse mit Wintergarten und Moselblick,"['Penthouse', '•', 'Mehring', 'Mehring']","['Balkon', 'EBK']",Miete zzgl. NK 800 €,Wohnfläche ca. 107 m²,Zi. 3,34,7
-16,selObject_43960743,Schön und ruhig wohnen im Touristenmagnet Mehring an...,"['Etagenwohnung', '•', 'Mehring', 'Mehring']","['Balkon', 'EBK']",Miete zzgl. NK 800 €,Wohnfläche ca. 107 m²,Zi. 3,34,7
-17,selObject_43946008,Exclusive Penthouse-Wohnung am Klostergarten in Konz /...,"['Apartment', '•', 'Konz', 'Konz']",[],Miete zzgl. NK 700 €,Wohnfläche ca. 65 m²,Zi. 2,34,7
-18,selObject_43941447,Helle DG Wohnung in Bitburg,"['Etagenwohnung', '•', 'Bitburg', 'Bitburg']",[],Miete zzgl. NK 680 €,Wohnfläche ca. 85 m²,Zi. 3,34,7
-19,selObject_43934240,*2-Zimmerwohnung* mit Balkon,"['Etagenwohnung', '•', 'Schifferstadt']",['Balkon'],"Miete zzgl. NK 659,43 €",Wohnfläche ca. 73 m²,Zi. 2,34,7
-20,selObject_43933668,"Preisgünstige und individuelle 3,5-Zimmer-Wohnung ! 1...","['Etagenwohnung', '•', 'Mainz', 'Weisenau']",['Balkon'],"Miete zzgl. NK 1.085,67 €",Wohnfläche ca. 101 m²,"Zi. 3,5",34,7
-21,selObject_43932320,"Geräumige, teilmöblierte 3ZKB-Wohnung zentral in Bendo...","['Erdgeschosswohnung', '•', 'Bendorf', 'Bendorf']","['Balkon', 'EBK']",Miete zzgl. NK 690 €,Wohnfläche ca. 82 m²,Zi. 3,34,7
-22,selObject_43923037,Erstbezug nach Umbau! Außergewöhnliche 4-Zi.-Wohnung...,"['Etagenwohnung', '•', 'Worms', 'Innenstadt']",['Balkon'],Miete zzgl. NK 1.100 €,Wohnfläche ca. 158 m²,Zi. 4,34,7
-23,selObject_43907240,Helle und schöne Maisonettewohnung in Montabaur (Altst...,"['Etagenwohnung', '•', 'Montabaur', 'Montabaur']",['Balkon'],Miete zzgl. NK 750 €,Wohnfläche ca. 84 m²,"Zi. 2,5",34,7
-24,selObject_43906853,Erstvermietung von attraktiven Neubauwohnungen mit...,"['Wohnung', '•', 'Bullay']",[],Preis Auf Anfrage,,,34,7
-25,selObject_43861741,"Kernsanierte 3 Zimmer Küche Bad Wohnung, Innenstadt...","['Erdgeschosswohnung', '•', 'Trier', 'Trier-Nord']",['EBK'],Miete zzgl. NK 950 €,Wohnfläche ca. 97 m²,Zi. 3,34,7
-26,selObject_43860501,Penthouse-Wohnung am Stadtrand,"['Penthouse', '•', 'Landau', 'Landau']","['Balkon', 'EBK']",Miete zzgl. NK 1.580 €,Wohnfläche ca. 120 m²,Zi. 4,34,7
+0,selObject_44082432,TR.-Kürenz: Gemütliche 2 ZKB Dachgeschosswohnung inkl...,"[['Dachgeschosswohnung', '•', 'Trier', 'Kürenz']]",['EBK'],Miete zzgl. NK 550 €,Wohnfläche ca. 67 m²,Zi. 2,34,7
+1,selObject_44071886,2 ZKB Wohnung in ruhiger Lage von Pirmasens zu vermiet...,"[['Etagenwohnung', '•', 'Pirmasens', 'Innenstadt']]",['Garten'],Miete zzgl. NK 260 €,Wohnfläche ca. 44 m²,Zi. 2,34,7
+2,selObject_44065762,"Trier Fussgängerzone Whg. 97,5m&sup","[['Wohnung', '•', 'Trier', 'Innenstadt']]",['EBK'],Miete zzgl. NK 980 €,Wohnfläche ca. 98 m²,Zi. 3,34,7
+3,selObject_44061662,Trier-City: Komplett renovierte 3 ZKB-Etagenwohnung...,"[['Etagenwohnung', '•', 'Trier', 'Innenstadt']]",[],Miete zzgl. NK 850 €,Wohnfläche ca. 95 m²,Zi. 3,34,7
+4,selObject_44052860,Gemütliche 2 ZKB Wohnung mit Balkon zu vermieten!,"[['Etagenwohnung', '•', 'Pirmasens', 'Innenstadt']]","['Balkon', 'Garten']",Miete zzgl. NK 320 €,Wohnfläche ca. 52 m²,Zi. 2,34,7
+5,selObject_44033430,"Neu renovierte 3,5-Zi.-Wohnung (KFW55) sucht einen...","[['Loft-Studio-Atelier', '•', 'Bernkastel-Kues', 'Kues']]",['EBK'],Miete zzgl. NK 820 €,Wohnfläche ca. 84 m²,"Zi. 3,5",34,7
+6,selObject_44026357,"...moderne, großzügige und helle 2-Zimmer-Wohnung mit...","[['Etagenwohnung', '•', 'Koblenz', 'Moselweiß']]",['Balkon'],Miete zzgl. NK 700 €,Wohnfläche ca. 83 m²,Zi. 2,34,7
+7,selObject_44022060,Völl möbiliertes Appartment - Ideal für Lux Pendler -...,"[['Etagenwohnung', '•', 'Trier', 'Euren']]",['EBK'],Miete zzgl. NK 450 €,Wohnfläche ca. 40 m²,Zi. 1,34,7
+8,selObject_44006390,Die gut geschnittene Wohnung / Nr.4 / 65 m² / 3 ZKB,"[['Etagenwohnung', '•', 'Obermoschel']]",['Garten'],Miete zzgl. NK 420 €,Wohnfläche ca. 65 m²,Zi. 3,34,7
+9,selObject_44005201,Die gut geschnittene Wohnung / Nr.3 / 65 m² / 3 ZKB,"[['Etagenwohnung', '•', 'Obermoschel']]",['Garten'],Miete zzgl. NK 420 €,Wohnfläche ca. 65 m²,Zi. 3,34,7
+10,selObject_43994537,Renovierte 2-Zimmerwohnung in der Innenstadt - Ideal...,"[['Erdgeschosswohnung', '•', 'Trier', 'Innenstadt']]",['EBK'],Miete zzgl. NK 430 €,Wohnfläche ca. 36 m²,Zi. 2,34,7
+11,selObject_43983989,Maisonette-Wohnung im Herzen von Montabaur,"[['Maisonette', '•', 'Montabaur', 'Montabaur']]","['Balkon', 'EBK']",Miete zzgl. NK 1.290 €,Wohnfläche ca. 170 m²,Zi. 4,34,7
+12,selObject_43974108,Renovierte Souterrainwohnung mit Terrasse & Garten in...,"[['Souterrainwohnung', '•', 'Trier', 'Tarforst']]",['EBK'],Miete zzgl. NK 750 €,Wohnfläche ca. 90 m²,"Zi. 3,5",34,7
+13,selObject_43973673,TRIER ZENTRUM - Vollmöbliertes Appartment - ab sofort...,"[['Apartment', '•', 'Trier', 'Trier-Nord']]",['EBK'],Miete zzgl. NK 450 €,Wohnfläche ca. 28 m²,Zi. 1,34,7
+14,selObject_43973405,Mehring!! Penthouse mit Wintergarten und Moselblick,"[['Penthouse', '•', 'Mehring', 'Mehring']]","['Balkon', 'EBK']",Miete zzgl. NK 800 €,Wohnfläche ca. 107 m²,Zi. 3,34,7
+15,selObject_43960743,Schön und ruhig wohnen im Touristenmagnet Mehring an...,"[['Etagenwohnung', '•', 'Mehring', 'Mehring']]","['Balkon', 'EBK']",Miete zzgl. NK 800 €,Wohnfläche ca. 107 m²,Zi. 3,34,7
+16,selObject_43946008,Exclusive Penthouse-Wohnung am Klostergarten in Konz /...,"[['Apartment', '•', 'Konz', 'Konz']]",[],Miete zzgl. NK 700 €,Wohnfläche ca. 65 m²,Zi. 2,34,7
+17,selObject_43941447,Helle DG Wohnung in Bitburg,"[['Etagenwohnung', '•', 'Bitburg', 'Bitburg']]",[],Miete zzgl. NK 680 €,Wohnfläche ca. 85 m²,Zi. 3,34,7
+18,selObject_43934240,*2-Zimmerwohnung* mit Balkon,"[['Etagenwohnung', '•', 'Schifferstadt']]",['Balkon'],"Miete zzgl. NK 659,43 €",Wohnfläche ca. 73 m²,Zi. 2,34,7
+19,selObject_43933668,"Preisgünstige und individuelle 3,5-Zimmer-Wohnung ! 1...","[['Etagenwohnung', '•', 'Mainz', 'Weisenau']]",['Balkon'],"Miete zzgl. NK 1.085,67 €",Wohnfläche ca. 101 m²,"Zi. 3,5",34,7
+20,selObject_43932320,"Geräumige, teilmöblierte 3ZKB-Wohnung zentral in Bendo...","[['Erdgeschosswohnung', '•', 'Bendorf', 'Bendorf']]","['Balkon', 'EBK']",Miete zzgl. NK 690 €,Wohnfläche ca. 82 m²,Zi. 3,34,7
+21,selObject_43923037,Erstbezug nach Umbau! Außergewöhnliche 4-Zi.-Wohnung...,"[['Etagenwohnung', '•', 'Worms', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 1.100 €,Wohnfläche ca. 158 m²,Zi. 4,34,7
+22,selObject_43907240,Helle und schöne Maisonettewohnung in Montabaur (Altst...,"[['Etagenwohnung', '•', 'Montabaur', 'Montabaur']]",['Balkon'],Miete zzgl. NK 750 €,Wohnfläche ca. 84 m²,"Zi. 2,5",34,7
+23,selObject_43906853,Erstvermietung von attraktiven Neubauwohnungen mit...,"[['Wohnung', '•', 'Bullay']]",[],Preis Auf Anfrage,,,34,7
+24,selObject_43861741,"Kernsanierte 3 Zimmer Küche Bad Wohnung, Innenstadt...","[['Erdgeschosswohnung', '•', 'Trier', 'Trier-Nord']]",['EBK'],Miete zzgl. NK 950 €,Wohnfläche ca. 97 m²,Zi. 3,34,7
+25,selObject_43860501,Penthouse-Wohnung am Stadtrand,"[['Penthouse', '•', 'Landau', 'Landau']]","['Balkon', 'EBK']",Miete zzgl. NK 1.580 €,Wohnfläche ca. 120 m²,Zi. 4,34,7
+26,selObject_43841491,Erstbezug - 3-Zimmerwohnung mit herrlichem Sonnenbalko...,"[['Etagenwohnung', '•', 'Mainz', 'Neustadt']]","['Balkon', 'EBK']",Miete zzgl. NK 1.635 €,Wohnfläche ca. 102 m²,Zi. 3,34,7

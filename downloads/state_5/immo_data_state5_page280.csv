@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_39047754,DIE IDEALE SINGLE-WOHNUNG - günstiger als jedes Hotel ...,"['Erdgeschosswohnung', '•', 'Marl', 'Drewer']",['EBK'],Miete zzgl. NK 310 €,Wohnfläche ca. 25 m²,Zi. 1,280,5
-1,selObject_39002745,"Hagen-Hohenlimburg, 3 Zimmer Wohnung","['Etagenwohnung', '•', 'Hagen', 'Hohenlimburg']",['Balkon'],"Miete zzgl. NK 404,19 €",Wohnfläche ca. 81 m²,Zi. 3,280,5
-2,selObject_38995684,2-Raum-Wohnung in Iserlohn,"['Etagenwohnung', '•', 'Iserlohn', 'Zentrum']",[],Miete zzgl. NK 325 €,Wohnfläche ca. 57 m²,Zi. 2,280,5
-3,selObject_38849082,FLATmix.de / Möbliertes Muster-Zimmer in Bielefeld-Mit...,"['Wohnung', '•', 'Bielefeld', 'Innenstadt']",[],Miete zzgl. NK 295 €,Wohnfläche ca. 15 m²,Zi. 1,280,5
-4,selObject_38831792,*Eine Kaltmiete frei* 3-Zimmer-Wohnung mit Balkon,"['Etagenwohnung', '•', 'Bergkamen', 'Heil']",['Balkon'],Miete zzgl. NK 355 €,Wohnfläche ca. 63 m²,Zi. 3,280,5
-5,selObject_38831471,Frisch renoviert: Schöne 3-Zimmer Wohnung in idyllisch...,"['Dachgeschosswohnung', '•', 'Bad', 'Salzuflen', 'Retzen']","['Balkon', 'Garten']",Miete zzgl. NK 412 €,Wohnfläche ca. 63 m²,Zi. 3,280,5
-6,selObject_38831000,Schöne 3 Zimmer Wohnung *Eine Kaltmiete frei*,"['Etagenwohnung', '•', 'Bergkamen', 'Oberaden']",['Balkon'],Miete zzgl. NK 355 €,Wohnfläche ca. 65 m²,Zi. 3,280,5
-7,selObject_38768257,Geräumige Loftwohnung mit der Möglichkeit zu Büroräume...,"['Loft-Studio-Atelier', '•', 'Wuppertal', 'Barmen']",['Garten'],Miete zzgl. NK 1.826 €,Wohnfläche ca. 320 m²,Zi. 10,280,5
-8,selObject_666413,Wohnung in WUPPERTAL,"['Wohnung', '•', 'Wuppertal', 'Barmen']",[],Miete zzgl. NK 252 €,Wohnfläche ca. 43 m²,Zi. 2,280,5
-9,selObject_38735983,"Logenplatz - Neubauwohnung, geprägt durch klare Linien...","['Erdgeschosswohnung', '•', 'Altena', 'Altena']",[],Mietpreis/m² 9 €,Wohnfläche ca. 99 m²,,280,5
-10,selObject_38672864,ruhige 2 Zimmer plus separater kleiner Küche,"['Wohnung', '•', 'Düsseldorf', 'Bilk']",[],Miete zzgl. NK 699 €,Wohnfläche ca. 56 m²,Zi. 2,280,5
-11,selObject_38670503,"FLATmix.de / Gemütliches,vollmöbliertes 1-Appartment...","['Wohnung', '•', 'Bielefeld', 'Babenhausen']",[],Miete zzgl. NK 350 €,Wohnfläche ca. 37 m²,Zi. 1,280,5
-12,selObject_38640294,Demenz-Wohnung Innenstadtlage von Lüdenscheid - Jetzt...,"['Etagenwohnung', '•', 'Lüdenscheid', 'Lüdenscheid']","['Garten', 'EBK']","Miete zzgl. NK 250,09 €",Wohnfläche ca. 45 m²,Zi. 1,280,5
-13,selObject_38575266,Altbauwohnung Altena-Rahmede,"['Etagenwohnung', '•', 'Altena', 'Altena']",['Balkon'],Miete zzgl. NK 300 €,Wohnfläche ca. 95 m²,Zi. 3,280,5
-14,selObject_38410109,Wohnen in zentraler Lage,"['Etagenwohnung', '•', 'Recklinghausen', 'Stadtmitte']",[],Miete zzgl. NK 520 €,Wohnfläche ca. 104 m²,Zi. 4,280,5
-15,selObject_38340808,Frühstück auf dem Balkon,"['Wohnung', '•', 'Minden', 'Innenstadt']","['Balkon', 'Garten']",Miete zzgl. NK 520 €,Wohnfläche ca. 83 m²,Zi. 4,280,5
-16,selObject_38340806,Für die kleine Familie - in beliebter Lage,"['Wohnung', '•', 'Minden', 'Innenstadt']",['Garten'],Miete zzgl. NK 399 €,Wohnfläche ca. 59 m²,Zi. 3,280,5
-17,selObject_38331307,"Lüdenscheid, 2 Zimmer Wohnung","['Kein', 'Bild']",['Balkon'],Miete zzgl. NK 334 €,Wohnfläche ca. 63 m²,Zi. 2,280,5
-18,selObject_38276880,Großzügige 3-Zimmer-Wohnung in Werdohl wartet auf Sie!,"['Etagenwohnung', '•', 'Werdohl', 'Werdohl']",['Balkon'],Miete zzgl. NK 345 €,Wohnfläche ca. 69 m²,Zi. 3,280,5
-19,selObject_38273971,"Gelsenkirchen-Bismark, 3 Zimmer Wohnung","['Kein', 'Bild']",[],Miete zzgl. NK 264 €,Wohnfläche ca. 55 m²,Zi. 3,280,5
-20,selObject_38273862,"Gelsenkirchen-Bismark, 3 Zimmer Wohnung","['Kein', 'Bild']",[],"Miete zzgl. NK 337,45 €",Wohnfläche ca. 67 m²,Zi. 3,280,5
-21,selObject_38268524,schöne 3 Zimmer Maisonetten Wohnung Krefeld/Innenstadt,"['Kein', 'Bild']",['Balkon'],"Miete zzgl. NK 461,68 €",Wohnfläche ca. 80 m²,Zi. 3,280,5
-22,selObject_38189587,Einziehen und wohlfühlen! 3-Zimmer-Wohnung in Werdohl...,"['Etagenwohnung', '•', 'Werdohl', 'Werdohl']",['Balkon'],Miete zzgl. NK 320 €,Wohnfläche ca. 64 m²,Zi. 3,280,5
-23,selObject_38082108,33100Paderborn-Dörener Feld.Souterrain-Appartment in...,"['Wohnung', '•', 'Paderborn', 'Benhausen']",[],Miete zzgl. NK 260 €,Wohnfläche ca. 13 m²,Zi. 1,280,5
-24,selObject_37592731,Renovierte 4-Zimmer-Wohnungen mit Balkon in ruhiger...,"['Wohnung', '•', 'Bergkamen', 'Oberaden']",[],Miete zzgl. NK 450 €,Wohnfläche ca. 76 m²,Zi. 4,280,5
-25,selObject_37592729,Renovierte 4-Zimmer-Wohnungen mit Balkon in ruhiger...,"['Wohnung', '•', 'Bergkamen', 'Oberaden']",[],Miete zzgl. NK 460 €,Wohnfläche ca. 77 m²,Zi. 4,280,5
-26,selObject_37592635,Schöne 3-Zimmer-Wohnung mit Balkon in Bergkamen,"['Wohnung', '•', 'Bergkamen', 'Oberaden']",[],Miete zzgl. NK 360 €,Wohnfläche ca. 60 m²,Zi. 3,280,5
+0,selObject_38340808,Frühstück auf dem Balkon,"[['Wohnung', '•', 'Minden', 'Innenstadt']]","['Balkon', 'Garten']",Miete zzgl. NK 520 €,Wohnfläche ca. 83 m²,Zi. 4,280,5
+1,selObject_38340806,Für die kleine Familie - in beliebter Lage,"[['Wohnung', '•', 'Minden', 'Innenstadt']]",['Garten'],Miete zzgl. NK 399 €,Wohnfläche ca. 59 m²,Zi. 3,280,5
+2,selObject_38331307,"Lüdenscheid, 2 Zimmer Wohnung","[['Kein', 'Bild'], ['Dachgeschosswohnung', '•', 'Lüdenscheid', 'Lüdenscheid']]",['Balkon'],Miete zzgl. NK 334 €,Wohnfläche ca. 63 m²,Zi. 2,280,5
+3,selObject_38276880,Großzügige 3-Zimmer-Wohnung in Werdohl wartet auf Sie!,"[['Etagenwohnung', '•', 'Werdohl', 'Werdohl']]",['Balkon'],Miete zzgl. NK 345 €,Wohnfläche ca. 69 m²,Zi. 3,280,5
+4,selObject_38273971,"Gelsenkirchen-Bismark, 3 Zimmer Wohnung","[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Gelsenkirchen', 'Bismarck']]",[],Miete zzgl. NK 264 €,Wohnfläche ca. 55 m²,Zi. 3,280,5
+5,selObject_38273862,"Gelsenkirchen-Bismark, 3 Zimmer Wohnung","[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Gelsenkirchen', 'Bismarck']]",[],"Miete zzgl. NK 337,45 €",Wohnfläche ca. 67 m²,Zi. 3,280,5
+6,selObject_38268524,schöne 3 Zimmer Maisonetten Wohnung Krefeld/Innenstadt,"[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Krefeld', 'Stadtmitte']]",['Balkon'],"Miete zzgl. NK 461,68 €",Wohnfläche ca. 80 m²,Zi. 3,280,5
+7,selObject_38189587,Einziehen und wohlfühlen! 3-Zimmer-Wohnung in Werdohl...,"[['Etagenwohnung', '•', 'Werdohl', 'Werdohl']]",['Balkon'],Miete zzgl. NK 320 €,Wohnfläche ca. 64 m²,Zi. 3,280,5
+8,selObject_38082108,33100Paderborn-Dörener Feld.Souterrain-Appartment in...,"[['Wohnung', '•', 'Paderborn', 'Benhausen']]",[],Miete zzgl. NK 260 €,Wohnfläche ca. 13 m²,Zi. 1,280,5
+9,selObject_37592731,Renovierte 4-Zimmer-Wohnungen mit Balkon in ruhiger...,"[['Wohnung', '•', 'Bergkamen', 'Oberaden']]",[],Miete zzgl. NK 450 €,Wohnfläche ca. 76 m²,Zi. 4,280,5
+10,selObject_37592729,Renovierte 4-Zimmer-Wohnungen mit Balkon in ruhiger...,"[['Wohnung', '•', 'Bergkamen', 'Oberaden']]",[],Miete zzgl. NK 460 €,Wohnfläche ca. 77 m²,Zi. 4,280,5
+11,selObject_37592635,Schöne 3-Zimmer-Wohnung mit Balkon in Bergkamen,"[['Wohnung', '•', 'Bergkamen', 'Oberaden']]",[],Miete zzgl. NK 360 €,Wohnfläche ca. 60 m²,Zi. 3,280,5
+12,selObject_37592581,Frisch renovierte 3-Zimmer-Wohnung mit Balkon in ruhig...,"[['Erdgeschosswohnung', '•', 'Bergkamen', 'Oberaden']]",[],Miete zzgl. NK 360 €,Wohnfläche ca. 60 m²,Zi. 3,280,5
+13,selObject_37592517,Schöne 3-Zimmer-Wohnung mit Balkon in Bergkamen,"[['Wohnung', '•', 'Bergkamen', 'Oberaden']]",[],Miete zzgl. NK 360 €,Wohnfläche ca. 60 m²,Zi. 3,280,5
+14,selObject_37592230,Geräumige 3-Zimmer-Wohnung in Bergkamen,"[['Wohnung', '•', 'Bergkamen', 'Oberaden']]",[],Miete zzgl. NK 360 €,Wohnfläche ca. 65 m²,Zi. 3,280,5
+15,selObject_37592227,Geräumige 3-Zimmer-Wohnung in Bergkamen,"[['Wohnung', '•', 'Bergkamen', 'Heil']]",[],Miete zzgl. NK 360 €,Wohnfläche ca. 65 m²,Zi. 3,280,5
+16,selObject_37592148,Geräumige 3-Zimmer-Wohnung in Bergkamen,"[['Erdgeschosswohnung', '•', 'Bergkamen', 'Oberaden']]",[],Miete zzgl. NK 360 €,Wohnfläche ca. 64 m²,Zi. 3,280,5
+17,selObject_37592007,Geräumige 3-Zimmer-Wohnung in Bergkamen,"[['Erdgeschosswohnung', '•', 'Bergkamen', 'Oberaden']]",[],Miete zzgl. NK 360 €,Wohnfläche ca. 65 m²,Zi. 3,280,5
+18,selObject_37591822,Renovierte 3-Zimmer-Wohnung mit Balkon in ruhiger Lage...,"[['Wohnung', '•', 'Bergkamen', 'Oberaden']]",[],Miete zzgl. NK 360 €,Wohnfläche ca. 64 m²,Zi. 3,280,5
+19,selObject_37591776,Schöne 3-Zimmer-Wohnung mit Balkon in ruhiger Lage von...,"[['Wohnung', '•', 'Bergkamen', 'Oberaden']]",[],Miete zzgl. NK 360 €,Wohnfläche ca. 65 m²,Zi. 3,280,5
+20,selObject_37455563,Geräumige 3-Zimmer Dachgeschosswohnung im Altbau,"[['Wohnung', '•', 'Gevelsberg', 'Gevelsberg']]",[],Miete zzgl. NK 550 €,Wohnfläche ca. 87 m²,Zi. 3,280,5
+21,selObject_37211961,Generation 55plus Selbstständig wohnen im Alter -...,"[['Etagenwohnung', '•', 'Schalksmühle', 'Schalksmühle']]","['Garten', 'EBK']",Miete zzgl. NK 470 €,Wohnfläche ca. 54 m²,Zi. 2,280,5
+22,selObject_37194142,RUHIG AM WALDRAND - FAMILENWOHNUNG - FRISCH RENOVIERT,"[['Wohnung', '•', 'Werdohl', 'Werdohl']]",['Balkon'],Miete zzgl. NK 355 €,Wohnfläche ca. 71 m²,Zi. 3,280,5
+23,selObject_37155741,ZIEHEN SIE EIN IN IHR NEUES WOHNGLÜCK!,"[['Etagenwohnung', '•', 'Werdohl', 'Werdohl']]",['Balkon'],Miete zzgl. NK 325 €,Wohnfläche ca. 64 m²,Zi. 3,280,5
+24,selObject_37140336,HERRLICH RENOVIERTE WOHNUNG IN EVEKING!,"[['Etagenwohnung', '•', 'Werdohl', 'Eveking']]",['Balkon'],Miete zzgl. NK 392 €,Wohnfläche ca. 87 m²,Zi. 3,280,5
+25,selObject_36978343,FLATmix.de / Komplett möblierte 2-Zi-Wohnung mit SÜD-T...,"[['Wohnung', '•', 'Bielefeld', 'Hillegossen']]",[],Miete zzgl. NK 360 €,Wohnfläche ca. 39 m²,Zi. 2,280,5
+26,selObject_36978329,FLATmix.de / Hochwertig möblierte 2-Zimmer-Einliegerwo...,"[['Wohnung', '•', 'Bielefeld', 'Deppendorf']]",[],Miete zzgl. NK 525 €,Wohnfläche ca. 50 m²,Zi. 2,280,5

@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44875829,2-Zimmer-Wohnung im Erdgeschoss,"['Erdgeschosswohnung', '•', 'Brandenburg', 'Altstadt']",[],"Miete zzgl. NK 207,92 €",Wohnfläche ca. 39 m²,Zi. 2,16,12
-1,selObject_44875830,3-Zimmerwohnung in der Walzwerksiedlung,"['Etagenwohnung', '•', 'Brandenburg', 'Altstadt']",[],"Miete zzgl. NK 283,30 €",Wohnfläche ca. 54 m²,Zi. 3,16,12
-2,selObject_44875831,2- Zimmer-Wohnung im schönen Plaue,"['Erdgeschosswohnung', '•', 'Brandenburg', 'Plaue']",[],"Miete zzgl. NK 195,88 €",Wohnfläche ca. 38 m²,Zi. 2,16,12
-3,selObject_44869444,Gemütliche Wohnung in ruhiger und grüner Lage,"['Etagenwohnung', '•', 'Cottbus', 'Spremberger', 'Vorstadt']",['Balkon'],Miete zzgl. NK 394 €,Wohnfläche ca. 57 m²,Zi. 3,16,12
-4,selObject_44869442,"Helle, zentral gelegene Wohnung mit zwei Westbalkonen","['Etagenwohnung', '•', 'Cottbus', 'Sandow']",['Balkon'],Miete zzgl. NK 322 €,Wohnfläche ca. 54 m²,Zi. 2,16,12
-5,selObject_44868183,***Single-Wohnung ab September***,"['Erdgeschosswohnung', '•', 'Prenzlau', 'Prenzlau']",[],Miete zzgl. NK 210 €,Wohnfläche ca. 32 m²,Zi. 2,16,12
-6,selObject_44868184,2- Zimmer für uns.,"['Etagenwohnung', '•', 'Prenzlau', 'Prenzlau']",['Balkon'],Miete zzgl. NK 335 €,Wohnfläche ca. 50 m²,Zi. 2,16,12
-7,selObject_44868182,Umziehen im Herbst?,"['Etagenwohnung', '•', 'Prenzlau', 'Prenzlau']",['Balkon'],Miete zzgl. NK 330 €,Wohnfläche ca. 61 m²,Zi. 3,16,12
-8,selObject_44867179,"Große, helle, aufwendig gestaltete 4-R Wohnung im Stad...","['Erdgeschosswohnung', '•', 'Fürstenwalde', 'Fürstenwalde']","['Garten', 'EBK']",Miete zzgl. NK 1.120 €,Wohnfläche ca. 130 m²,Zi. 4,16,12
-9,selObject_44866930,NICHT 0815 !,"['Maisonette', '•', 'Bad', 'Saarow', 'Bad', 'Saarow-Pieskow']",[],Miete zzgl. NK 765 €,Wohnfläche ca. 85 m²,Zi. 2,16,12
-10,selObject_44866089,Sonniges DG in Wassernähe! *Besichtigung: Sa.: 07.08....,"['Dachgeschosswohnung', '•', 'Brandenburg', 'Nord']","['Balkon', 'EBK']",Miete zzgl. NK 333 €,Wohnfläche ca. 52 m²,Zi. 2,16,12
-11,selObject_44866088,Renovierte Whg nahe Kleiner Beetzsee! **Besichtigung:...,"['Etagenwohnung', '•', 'Brandenburg', 'Nord']","['Balkon', 'EBK']",Miete zzgl. NK 393 €,Wohnfläche ca. 61 m²,Zi. 3,16,12
-12,selObject_44866087,"Moderne, sanierte Balkon-Whg Nahe Silokanal! **Besicht...","['Etagenwohnung', '•', 'Brandenburg', 'Nord']","['Balkon', 'EBK']",Miete zzgl. NK 393 €,Wohnfläche ca. 61 m²,Zi. 3,16,12
-13,selObject_44866073,Sanierte 3 Zimmer Maisonette-Wohnung im Zentrum von...,"['Maisonette', '•', 'Senftenberg']",[],Miete zzgl. NK 420 €,Wohnfläche ca. 78 m²,Zi. 3,16,12
-14,selObject_44865958,3-Raum-Wohnung mit Balkon in ruhiger Lage,"['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']",[],"Miete zzgl. NK 292,95 €",Wohnfläche ca. 59 m²,Zi. 3,16,12
-15,selObject_44864486,Ich biete viel Platz zum Träumen,"['Etagenwohnung', '•', 'Angermünde', 'Angermünde']",['Balkon'],Miete zzgl. NK 341 €,Wohnfläche ca. 61 m²,Zi. 3,16,12
-16,selObject_44863769,"""Erstbezug""- Grünes Wohnen am Rande Berlins ***großer...","['Wohnung', '•', 'Schönefeld', 'Waßmannsdorf']","['Balkon', 'EBK']",Miete zzgl. NK 749 €,Wohnfläche ca. 55 m²,Zi. 2,16,12
-17,selObject_44862685,Hübsche Single-Wohnung nahe Carl-Thiem-Klinikum,"['Wohnung', '•', 'Cottbus', 'Spremberger', 'Vorstadt']",['Balkon'],"Miete zzgl. NK 131,41 €",Wohnfläche ca. 22 m²,Zi. 1,16,12
-18,selObject_44862684,Familienfreundliches Zuhause in beliebter Lage,"['Wohnung', '•', 'Cottbus', 'Schmellwitz']",['Balkon'],"Miete zzgl. NK 455,38 €",Wohnfläche ca. 67 m²,Zi. 3,16,12
-19,selObject_44861681,Neu renovierte Singlewohnung in Großkmehlen,"['Etagenwohnung', '•', 'Großkmehlen']",[],Miete zzgl. NK 165 €,Wohnfläche ca. 32 m²,Zi. 1,16,12
-20,selObject_44861627,3- Raum-Wohnung in Stadtmitte in Bahnhofsnähe,"['Etagenwohnung', '•', 'Eberswalde', 'Eberswalde']",[],Miete zzgl. NK 490 €,Wohnfläche ca. 70 m²,Zi. 3,16,12
-21,selObject_44859187,2-R-Wohnung in guter Wohnlage,"['Wohnung', '•', 'Eberswalde', 'Eberswalde']",[],Miete zzgl. NK 380 €,Wohnfläche ca. 52 m²,Zi. 2,16,12
-22,selObject_44858314,Ich habe viel Platz für Eure Träume,"['Etagenwohnung', '•', 'Eberswalde', 'Brandenburgisches', 'Viertel']",['Balkon'],Miete zzgl. NK 440 €,Wohnfläche ca. 70 m²,Zi. 4,16,12
-23,selObject_44858273,Mein Platz an der Sonne,"['Etagenwohnung', '•', 'Eberswalde', 'Brandenburgisches', 'Viertel']",['Balkon'],Miete zzgl. NK 339 €,Wohnfläche ca. 59 m²,Zi. 3,16,12
-24,selObject_44857672,Sparangebot für Studenten und Auszubildende,"['Etagenwohnung', '•', 'Eberswalde', 'Brandenburgisches', 'Viertel']",['Balkon'],"Miete zzgl. NK 199,99 €",Wohnfläche ca. 59 m²,Zi. 3,16,12
-25,selObject_44857198,Die will ich haben...,"['Kein', 'Bild']",['Balkon'],Miete zzgl. NK 430 €,Wohnfläche ca. 61 m²,Zi. 3,16,12
-26,selObject_44857199,GROßER Balkon...,"['Etagenwohnung', '•', 'Prenzlau', 'Prenzlau']",['Balkon'],Miete zzgl. NK 345 €,Wohnfläche ca. 63 m²,Zi. 3,16,12
+0,selObject_44907546,ERSTBEZUG NACH SANIERUNG - helle 2-Zi-Whg. mit EBK ab...,"[['Etagenwohnung', '•', 'Brandenburg', 'Neustadt']]","['Balkon', 'EBK']",Miete zzgl. NK 510 €,Wohnfläche ca. 49 m²,Zi. 2,16,12
+1,selObject_44907539,ERSTBEZUG NACH SANIERUNG - helle 2-Zi-Whg. mit EBK ab...,"[['Etagenwohnung', '•', 'Brandenburg', 'Neustadt']]","['Balkon', 'EBK']",Miete zzgl. NK 546 €,Wohnfläche ca. 49 m²,Zi. 2,16,12
+2,selObject_44907509,#klein aber fein mit Dielenboden,"[['Etagenwohnung', '•', 'Brandenburg', 'Altstadt']]",[],Miete zzgl. NK 250 €,Wohnfläche ca. 35 m²,Zi. 1,16,12
+3,selObject_44906786,Kleinmachnow - Wohnung mit Balkon,"[['Apartment', '•', 'Kleinmachnow']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 750 €,Wohnfläche ca. 49 m²,Zi. 2,16,12
+4,selObject_44906627,Wohntraum in der Innenstadt.,"[['Etagenwohnung', '•', 'Prenzlau', 'Prenzlau']]",['Balkon'],Miete zzgl. NK 445 €,Wohnfläche ca. 61 m²,Zi. 3,16,12
+5,selObject_44906108,ERSTBEZUG NACH SANIERUNG - helle 2-Zi-EGWhg. mit EBK...,"[['Etagenwohnung', '•', 'Brandenburg', 'Neustadt']]",['EBK'],"Miete zzgl. NK 551,25 €",Wohnfläche ca. 49 m²,Zi. 2,16,12
+6,selObject_44905746,1 Monat mietfrei in Doberlug-Kirchhain,"[['Etagenwohnung', '•', 'Doberlug-Kirchhain', 'Doberlug-Kirchhain']]",['Balkon'],Miete zzgl. NK 205 €,Wohnfläche ca. 66 m²,Zi. 3,16,12
+7,selObject_44905718,Altersgerechtes Wohlfühl- Wohnen,"[['Erdgeschosswohnung', '•', 'Beeskow', 'Beeskow']]",[],"Miete zzgl. NK 371,75 €",Wohnfläche ca. 45 m²,"Zi. 1,5",16,12
+8,selObject_44905702,1 Monat mietfrei in Doberlug-Kirchhain,"[['Etagenwohnung', '•', 'Doberlug-Kirchhain', 'Doberlug-Kirchhain']]",['Balkon'],Miete zzgl. NK 266 €,Wohnfläche ca. 75 m²,Zi. 4,16,12
+9,selObject_44905657,Frisch saniert und günstig mieten in Doberlug-Kirchhai...,"[['Etagenwohnung', '•', 'Doberlug-Kirchhain', 'Doberlug-Kirchhain']]",['Balkon'],Miete zzgl. NK 320 €,Wohnfläche ca. 92 m²,Zi. 5,16,12
+10,selObject_44904846,Aufgepasst: Neubauwohnung mit 2 Balkone,"[['Etagenwohnung', '•', 'Potsdam', 'Waldstadt', 'II']]","['Balkon', 'EBK']","Miete zzgl. NK 842,50 €",Wohnfläche ca. 67 m²,Zi. 2,16,12
+11,selObject_44899953,geräumige 5-Raum-Wohnung auf 2 Ebenen,"[['Erdgeschosswohnung', '•', 'Königs', 'Wusterhausen', 'Niederlehme']]",['Garten'],Miete zzgl. NK 1.500 €,Wohnfläche ca. 125 m²,Zi. 5,16,12
+12,selObject_44899648,Wunderschöne Altbauwohnung in charmanter Stadtvilla...,"[['Wohnung', '•', 'Glienicke']]","['Garten', 'EBK']",Miete zzgl. NK 1.300 €,Wohnfläche ca. 96 m²,Zi. 3,16,12
+13,selObject_44898823,WG Zimmer Apartment in 2 Zimmer Wohnung mit Hochebene...,"[['Etagenwohnung', '•', 'Wildau']]",['EBK'],"Miete zzgl. NK 494,14 €",Wohnfläche ca. 32 m²,Zi. 1,16,12
+14,selObject_44896212,Helle 2-Zimmerwohnung in der zweiten Etage - inklusive...,"[['Etagenwohnung', '•', 'Potsdam', 'Drewitz']]",['EBK'],"Miete zzgl. NK 729,01 €",Wohnfläche ca. 66 m²,Zi. 2,16,12
+15,selObject_44896125,2-Raumwohnung in Nehesdorf,"[['Etagenwohnung', '•', 'Finsterwalde', 'Finsterwalde']]",[],Miete zzgl. NK 272 €,Wohnfläche ca. 55 m²,Zi. 2,16,12
+16,selObject_44894649,Wohnen in Citylage,"[['Wohnung', '•', 'Cottbus', 'Mitte']]",[],"Miete zzgl. NK 305,50 €",Wohnfläche ca. 47 m²,Zi. 1,16,12
+17,selObject_44892690,Attraktive Wohnung in Stadtmitte sucht neue Mieter!,"[['Wohnung', '•', 'Cottbus', 'Mitte']]",[],Miete zzgl. NK 1.040 €,Wohnfläche ca. 132 m²,Zi. 4,16,12
+18,selObject_44890980,"Ihr neues Zuhause, Zentral, 4 Zimmer Wohnung mit Balko...","[['Wohnung', '•', 'Forst', 'Forst-Stadt']]","['Balkon', 'Garten']",Miete zzgl. NK 560 €,Wohnfläche ca. 106 m²,Zi. 4,16,12
+19,selObject_44890292,renovierte 3-Zimmer-Wohnung mit Balkon nahe Pritzwalk,"[['Wohnung', '•', 'Pritzwalk', 'Steffenshagen']]",['Balkon'],Miete zzgl. NK 260 €,Wohnfläche ca. 59 m²,Zi. 3,16,12
+20,selObject_44888393,Helle und freundliche 3-Raumwohnung in Drahnsdorf,"[['Wohnung', '•', 'Drahnsdorf', 'Drahnsdorf']]",[],"Miete zzgl. NK 269,56 €",Wohnfläche ca. 59 m²,Zi. 3,16,12
+21,selObject_44884570,Ein tolles Wohngefühl: günstig geschnittene 4-Zi.-Wohn...,"[['Etagenwohnung', '•', 'Wustermark', 'Elstal']]",['Balkon'],"Miete zzgl. NK 1.279,16 €",Wohnfläche ca. 113 m²,Zi. 4,16,12
+22,selObject_44879681,Frisch renovierte Wohnung in Forst (Lausitz),"[['Wohnung', '•', 'Forst', 'Forst-Stadt']]",[],"Miete zzgl. NK 305,65 €",Wohnfläche ca. 64 m²,Zi. 2,16,12
+23,selObject_44875836,Gemütliche 1-Zimmer-Wohnung in Plaue,"[['Etagenwohnung', '•', 'Brandenburg', 'Plaue']]",[],"Miete zzgl. NK 134,32 €",Wohnfläche ca. 24 m²,Zi. 1,16,12
+24,selObject_44875834,3-Zimmer-Wohnung,"[['Dachgeschosswohnung', '•', 'Brandenburg', 'Altstadt']]",[],"Miete zzgl. NK 292,45 €",Wohnfläche ca. 58 m²,Zi. 3,16,12
+25,selObject_44875829,2-Zimmer-Wohnung im Erdgeschoss,"[['Erdgeschosswohnung', '•', 'Brandenburg', 'Altstadt']]",[],"Miete zzgl. NK 207,92 €",Wohnfläche ca. 39 m²,Zi. 2,16,12
+26,selObject_44875830,3-Zimmerwohnung in der Walzwerksiedlung,"[['Etagenwohnung', '•', 'Brandenburg', 'Altstadt']]",[],"Miete zzgl. NK 283,30 €",Wohnfläche ca. 54 m²,Zi. 3,16,12

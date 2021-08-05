@@ -1,10 +1,6 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_37779743,Hell und gemütlich möblierte 1 Zimmer Wohnung mit Sitz...,"['Erdgeschosswohnung', '•', 'Hamburg', 'Hohenfelde']","['Garten', 'EBK']",Miete zzgl. NK 700 €,Wohnfläche ca. 28 m²,Zi. 1,44,2
-1,selObject_36142912,"Zauberhaft möblierte 2,5 Zimmer Wohnung/ Süd-Balkon/...","['Etagenwohnung', '•', 'Hamburg', 'Barmbek-Süd']","['Balkon', 'EBK']",Miete zzgl. NK 1.200 €,Wohnfläche ca. 54 m²,"Zi. 2,5",44,2
-2,selObject_31109853,"Nähe S-Bahn-Sülldorf/Wittland, sanierte 1,5 Zi.-DG.-Wh...","['Dachgeschosswohnung', '•', 'Hamburg', 'Sülldorf']",['EBK'],Miete zzgl. NK 520 €,Wohnfläche ca. 41 m²,"Zi. 1,5",44,2
-3,selObject_26827322,3-Zimmer-Wohnung mit großzügigem Balkon,"['Etagenwohnung', '•', 'Hamburg', 'Lurup']","['Balkon', 'EBK']",Miete zzgl. NK 1.003 €,Wohnfläche ca. 82 m²,Zi. 3,44,2
-4,selObject_26028686,"Schöne Wohnung, sehr zentral gelegen","['Etagenwohnung', '•', 'Hamburg', 'Bergedorf']","['Balkon', 'EBK']",Miete zzgl. NK 722 €,Wohnfläche ca. 66 m²,Zi. 2,44,2
-5,selObject_26010036,Erdgeschosswohnung im Reiherstiegviertel- Alt Wilhelms...,"['Erdgeschosswohnung', '•', 'Hamburg', 'Wilhelmsburg']",[],"Miete zzgl. NK 492,03 €",Wohnfläche ca. 48 m²,Zi. 2,44,2
-6,selObject_24061686,Sonnige 4-5-Zimmer Familienwohnung mit Süd-Balkon in...,"['Wohnung', '•', 'Hamburg', 'Rissen']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.200 €,Wohnfläche ca. 109 m²,Zi. 4,44,2
-7,selObject_19784855,Terrassenwohnung in ruhiger Lage,"['Erdgeschosswohnung', '•', 'Hamburg', 'Bergedorf']",['EBK'],Miete zzgl. NK 780 €,Wohnfläche ca. 65 m²,Zi. 2,44,2
-8,selObject_12471461,2 Zi EG (Hochparterre) modernisiert,"['Erdgeschosswohnung', '•', 'Hamburg', 'Rahlstedt']",['EBK'],"Miete zzgl. NK 484,70 €",Wohnfläche ca. 61 m²,Zi. 2,44,2
+0,selObject_26010036,Erdgeschosswohnung im Reiherstiegviertel- Alt Wilhelms...,"[['Erdgeschosswohnung', '•', 'Hamburg', 'Wilhelmsburg']]",[],"Miete zzgl. NK 492,03 €",Wohnfläche ca. 48 m²,Zi. 2,44,2
+1,selObject_24061686,Sonnige 4-5-Zimmer Familienwohnung mit Süd-Balkon in...,"[['Wohnung', '•', 'Hamburg', 'Rissen']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.200 €,Wohnfläche ca. 109 m²,Zi. 4,44,2
+2,selObject_19784855,Terrassenwohnung in ruhiger Lage,"[['Erdgeschosswohnung', '•', 'Hamburg', 'Bergedorf']]",['EBK'],Miete zzgl. NK 780 €,Wohnfläche ca. 65 m²,Zi. 2,44,2
+3,selObject_19489703,"Hell, schön und stadtnah im Grünen","[['Dachgeschosswohnung', '•', 'Hamburg', 'Sinstorf']]","['Balkon', 'EBK']",Miete zzgl. NK 715 €,Wohnfläche ca. 72 m²,"Zi. 2,5",44,2
+4,selObject_12471461,2 Zi EG (Hochparterre) modernisiert,"[['Erdgeschosswohnung', '•', 'Hamburg', 'Rahlstedt']]",['EBK'],"Miete zzgl. NK 484,70 €",Wohnfläche ca. 61 m²,Zi. 2,44,2

@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44762712,helle Erdgeschoss 2-Raum-Wohnung,"['Erdgeschosswohnung', '•', 'Döbeln', 'Döbeln']",[],Miete zzgl. NK 250 €,Wohnfläche ca. 49 m²,Zi. 2,166,14
-1,selObject_44762449,"Dachgeschoss-1,5-Raum-Wohnung mit Einbauküche und Tage...","['Dachgeschosswohnung', '•', 'Döbeln', 'Döbeln']",['EBK'],Miete zzgl. NK 220 €,Wohnfläche ca. 44 m²,Zi. 2,166,14
-2,selObject_44762109,"2,0-Zimmerwohnung mit Balkon!","['Dachgeschosswohnung', '•', 'Zwickau', 'Pölbitz']","['Balkon', 'EBK']",Miete zzgl. NK 419 €,Wohnfläche ca. 62 m²,Zi. 2,166,14
-3,selObject_44762112,"*3 ""T""raumwohnung im Dachgeschoss*","['Wohnung', '•', 'Dresden', 'Pieschen-Nord/Trachenberge']",['Garten'],Miete zzgl. NK 440 €,Wohnfläche ca. 69 m²,Zi. 3,166,14
-4,selObject_44762107,"2,0-Zimmerwohnung","['Erdgeschosswohnung', '•', 'Zwickau', 'Pölbitz']",[],Miete zzgl. NK 285 €,Wohnfläche ca. 44 m²,Zi. 2,166,14
-5,selObject_44761945,"Klein, fein, dein! // Gemütliches 1-Zimmer-Apartment...","['Etagenwohnung', '•', 'Leipzig', 'Neustadt-Neuschönefeld']",['EBK'],Miete zzgl. NK 360 €,Wohnfläche ca. 40 m²,Zi. 1,166,14
-6,selObject_44761925,"QUARTIER am Schönefelder Schloß - ""Wohnen im Grünen -...","['Dachgeschosswohnung', '•', 'Leipzig', 'Schönefeld-Abtnaundorf']",[],Miete zzgl. NK 931 €,Wohnfläche ca. 85 m²,Zi. 4,166,14
-7,selObject_44761897,"QUARTIER am Schönefelder Schloß - ""Wohnen im Grünen -...","['Etagenwohnung', '•', 'Leipzig', 'Schönefeld-Abtnaundorf']",['Balkon'],Miete zzgl. NK 972 €,Wohnfläche ca. 90 m²,Zi. 4,166,14
-8,selObject_44761828,gemütliche 3 Zimmer Dachgeschosswohnung mit Wohnküche...,"['Etagenwohnung', '•', 'Görlitz', 'Innenstadt']",[],Miete zzgl. NK 485 €,Wohnfläche ca. 98 m²,Zi. 3,166,14
-9,selObject_44761816,"2,0-Zimmerwohnung","['Etagenwohnung', '•', 'Zwickau', 'Pölbitz']",[],Miete zzgl. NK 298 €,Wohnfläche ca. 46 m²,Zi. 2,166,14
-10,selObject_44761819,"1,0-Zimmerwohnung mit Balkon!","['Dachgeschosswohnung', '•', 'Zwickau', 'Innenstadt']",[],Miete zzgl. NK 205 €,Wohnfläche ca. 29 m²,Zi. 1,166,14
-11,selObject_44761781,"QUARTIER am Schönefelder Schloß - ""Wohnen im Grünen -...","['Etagenwohnung', '•', 'Leipzig', 'Schönefeld-Abtnaundorf']",['Balkon'],Miete zzgl. NK 948 €,Wohnfläche ca. 90 m²,Zi. 4,166,14
-12,selObject_44761765,Deine Neue? 2-RW mit Balkon und Einbauküche,"['Wohnung', '•', 'Leipzig', 'Dölitz-Dösen']","['Balkon', 'EBK']",Miete zzgl. NK 599 €,Wohnfläche ca. 60 m²,Zi. 2,166,14
-13,selObject_44761719,Gemütlich wohnen am Stadtrand - gute Anbindung zur...,"['Erdgeschosswohnung', '•', 'Dresden', 'Lockwitz']",[],Miete zzgl. NK 430 €,Wohnfläche ca. 66 m²,Zi. 3,166,14
-14,selObject_44761645,"QUARTIER am Schönefelder Schloß - ""Wohnen im Grünen -...","['Erdgeschosswohnung', '•', 'Leipzig', 'Schönefeld-Abtnaundorf']",[],Miete zzgl. NK 933 €,Wohnfläche ca. 93 m²,Zi. 4,166,14
-15,selObject_44761629,"QUARTIER am Schönefelder Schloß - ""Wohnen im Grünen -...","['Erdgeschosswohnung', '•', 'Leipzig', 'Schönefeld-Abtnaundorf']",[],Miete zzgl. NK 729 €,Wohnfläche ca. 73 m²,Zi. 3,166,14
-16,selObject_44761554,"Die Suche hat ein Ende, Ihre Traumwohnung wartet!!","['Etagenwohnung', '•', 'Annaberg-Buchholz', 'Annaberg']",[],"Miete zzgl. NK 294,58 €",Wohnfläche ca. 57 m²,Zi. 3,166,14
-17,selObject_44761543,www.r-o.de +++ Über den Dächern der Neustadt - Helle...,"['Maisonette', '•', 'Dresden', 'Äußere', 'Neustadt']",[],Miete zzgl. NK 491 €,Wohnfläche ca. 52 m²,Zi. 2,166,14
-18,selObject_44761530,www.r-o.de +++ Wohnen in der Dresdner Südvorstadt -...,"['Wohnung', '•', 'Dresden', 'Südvorstadt-West']",[],Miete zzgl. NK 985 €,Wohnfläche ca. 90 m²,Zi. 4,166,14
-19,selObject_44761410,1-Raum-Wohnung im Dachgeschoss,"['Dachgeschosswohnung', '•', 'Hohenstein-Ernstthal', 'Hohenstein-Ernstthal']",[],Miete zzgl. NK 195 €,Wohnfläche ca. 31 m²,Zi. 1,166,14
-20,selObject_44761367,Preiswertes City-Apartment mit Balkon und Einbauküche:...,"['Apartment', '•', 'Dresden', 'Cotta']","['Balkon', 'EBK']",Miete zzgl. NK 220 €,Wohnfläche ca. 25 m²,Zi. 1,166,14
-21,selObject_44761335,"QUARTIER am Schönefelder Schloß - ""Wohnen im Grünen -...","['Etagenwohnung', '•', 'Leipzig', 'Schönefeld-Abtnaundorf']",['Balkon'],Miete zzgl. NK 971 €,Wohnfläche ca. 90 m²,Zi. 4,166,14
-22,selObject_44761102,Familienwohnung in der Gartenstadt Kappel,"['Etagenwohnung', '•', 'Chemnitz', 'Kappel']",['Garten'],Miete zzgl. NK 705 €,Wohnfläche ca. 113 m²,Zi. 5,166,14
-23,selObject_44761053,3-Zimmer Etagenwohnung mit Einbauküche und großem Gart...,"['Etagenwohnung', '•', 'Freiberg,', 'Sachs', 'Freiberg']","['Garten', 'EBK']",Miete zzgl. NK 320 €,Wohnfläche ca. 60 m²,Zi. 3,166,14
-24,selObject_44761025,2 Raumwohnung in zentraler Lage mit Küche,"['Etagenwohnung', '•', 'Taucha', 'Taucha']",['EBK'],Miete zzgl. NK 640 €,Wohnfläche ca. 78 m²,Zi. 2,166,14
-25,selObject_44760999,Erstklassige Maisonette-Wohnung mit EBK und Balkon,"['Maisonette', '•', 'Dresden', 'Wilsdruffer', 'Vorstadt/Seevorstadt-West']","['Balkon', 'EBK']","Miete zzgl. NK 1.273,69 €",Wohnfläche ca. 86 m²,Zi. 4,166,14
-26,selObject_44760978,2 RW am Rande von Borna - 1 Monat Mietfrei,"['Erdgeschosswohnung', '•', 'Borna', 'Borna']",[],Miete zzgl. NK 225 €,Wohnfläche ca. 50 m²,Zi. 2,166,14
+0,selObject_44791486,Sanierung: 2-Zimmer-Wohnung mit Balkon!,"[['Erdgeschosswohnung', '•', 'Dresden', 'Cotta']]",['Balkon'],"Miete zzgl. NK 353,22 €",Wohnfläche ca. 50 m²,Zi. 2,166,14
+1,selObject_44791480,Wo das Leben so spielt - ansprechende 1-Zi.-Single-Woh...,"[['Erdgeschosswohnung', '•', 'Dresden', 'Gorbitz-Nord/Neu-Omsewitz']]",['Balkon'],Miete zzgl. NK 238 €,Wohnfläche ca. 36 m²,Zi. 1,166,14
+2,selObject_44791474,Da kommt man gern Heim. Günstige 1-Zimmer-Single-Wohnu...,"[['Etagenwohnung', '•', 'Dresden', 'Strehlen']]",[],Miete zzgl. NK 173 €,Wohnfläche ca. 27 m²,Zi. 1,166,14
+3,selObject_44791473,Wo das Leben so spielt - 1-Zimmer-Single-Wohnung!,"[['Etagenwohnung', '•', 'Dresden', 'Strehlen']]",[],Miete zzgl. NK 173 €,Wohnfläche ca. 27 m²,Zi. 1,166,14
+4,selObject_44791466,"Wohn(t)raum: praktische 1,5-Zimmer-Single-Wohnung","[['Etagenwohnung', '•', 'Dresden', 'Friedrichstadt']]",[],Miete zzgl. NK 250 €,Wohnfläche ca. 36 m²,Zi. 1,166,14
+5,selObject_44791392,"2,5 -R. Wohn. m. Hochterrasse, Garagen, gr. Garten in...","[['Wohnung', '•', 'Glauchau', 'Schönbörnchen']]",['Garten'],Miete zzgl. NK 590 €,Wohnfläche ca. 84 m²,Zi. 3,166,14
+6,selObject_44791386,Mitten im Herzen der Stadt wohnen / frisch sanierte...,"[['Wohnung', '•', 'Leipzig', 'Zentrum-Nord']]",[],Miete zzgl. NK 338 €,Wohnfläche ca. 50 m²,Zi. 2,166,14
+7,selObject_44791384,Umsorgt wohnen im Alter!,"[['Wohnung', '•', 'Leipzig', 'Zentrum-Süd']]",['Balkon'],Miete zzgl. NK 394 €,Wohnfläche ca. 50 m²,Zi. 2,166,14
+8,selObject_44791340,www.r-o.de +++ Dresden-Friedrichstadt - Ausreichend...,"[['Dachgeschosswohnung', '•', 'Dresden', 'Friedrichstadt']]",[],"Miete zzgl. NK 1.079,50 €",Wohnfläche ca. 127 m²,Zi. 4,166,14
+9,selObject_44791326,Sanierte Wohnung mit grünem Innenhof,"[['Etagenwohnung', '•', 'Leipzig', 'Grünau-Ost']]",['Balkon'],"Miete zzgl. NK 304,33 €",Wohnfläche ca. 47 m²,Zi. 2,166,14
+10,selObject_44791324,sanierte Singlewohnung in der Nähe vom Allee-Center...,"[['Etagenwohnung', '•', 'Leipzig', 'Grünau-Ost']]",[],"Miete zzgl. NK 212,16 €",Wohnfläche ca. 33 m²,Zi. 1,166,14
+11,selObject_44791127,"Fast fertig, jetzt schon bewerben!","[['Etagenwohnung', '•', 'Dresden', 'Friedrichstadt']]",['Balkon'],Miete zzgl. NK 475 €,Wohnfläche ca. 61 m²,Zi. 3,166,14
+12,selObject_44791125,Familiennest in Friedrichstadt!,"[['Wohnung', '•', 'Dresden', 'Friedrichstadt']]",['Garten'],Miete zzgl. NK 449 €,Wohnfläche ca. 70 m²,Zi. 3,166,14
+13,selObject_44791030,* Wohnen mit Ausblick * Dachgeschoss * Ruhige Lage*,"[['Dachgeschosswohnung', '•', 'Leipzig', 'Stötteritz']]","['Balkon', 'EBK']",Miete zzgl. NK 446 €,Wohnfläche ca. 69 m²,Zi. 2,166,14
+14,selObject_44790840,Altbauwohnung mit Balkon und Terrasse in Höhenlage im...,"[['Erdgeschosswohnung', '•', 'Dresden', 'Naußlitz']]",[],Miete zzgl. NK 450 €,Wohnfläche ca. 58 m²,Zi. 2,166,14
+15,selObject_44790500,Praktisch geschnittene Wohnung mit Balkon und Wohnküch...,"[['Wohnung', '•', 'Freital', 'Freital']]",['Balkon'],"Miete zzgl. NK 401,15 €",Wohnfläche ca. 72 m²,Zi. 3,166,14
+16,selObject_44789597,Einmalige und besondere Maisonette-Wohnung mit Kamin...,"[['Dachgeschosswohnung', '•', 'Werdau', 'Werdau']]",[],Miete zzgl. NK 636 €,Wohnfläche ca. 106 m²,Zi. 3,166,14
+17,selObject_44789546,Mein Umzug in 2021 - 3-Zimmer-Wohnung mit Denkmalcharm...,"[['Etagenwohnung', '•', 'Reichenbach', 'Reichenbach']]",[],Miete zzgl. NK 545 €,Wohnfläche ca. 128 m²,Zi. 3,166,14
+18,selObject_44789013,Sommerbonus: 2 Mieten geschenkt*,"[['Etagenwohnung', '•', 'Chemnitz', 'Kappel']]",['Balkon'],Miete zzgl. NK 250 €,Wohnfläche ca. 56 m²,Zi. 3,166,14
+19,selObject_44788509,Tolle Gründerzeitwohnung ohne Balkon Äußere Neustadt...,"[['Etagenwohnung', '•', 'Dresden', 'Äußere', 'Neustadt']]","['Balkon', 'EBK']",Miete zzgl. NK 415 €,Wohnfläche ca. 40 m²,Zi. 1,166,14
+20,selObject_44788505,2 Zimmer mit Altbauflair in Sellerhausen,"[['Etagenwohnung', '•', 'Leipzig', 'Sellerhausen-Stünz']]",['EBK'],Miete zzgl. NK 445 €,Wohnfläche ca. 62 m²,Zi. 2,166,14
+21,selObject_44788504,Wohnen an der Elbe in Mickten!,"[['Etagenwohnung', '•', 'Dresden', 'Mickten']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 365 €,Wohnfläche ca. 36 m²,Zi. 1,166,14
+22,selObject_44788237,Zentrum-Süd* helle 2 Zimmer-Wohnung* Neubau* sep. WC*...,"[['Etagenwohnung', '•', 'Leipzig', 'Zentrum-Süd']]",['Balkon'],Miete zzgl. NK 450 €,Wohnfläche ca. 64 m²,Zi. 2,166,14
+23,selObject_44788163,SÜDTERRASSE - EINBAUKÜCHE - DESIGNBELAG - ABSTELLRAUM...,"[['Wohnung', '•', 'Radebeul']]",['EBK'],Miete zzgl. NK 295 €,Wohnfläche ca. 37 m²,Zi. 1,166,14
+24,selObject_44788102,"* Großzügige DG 4-Zimmer mit Laminat, Gartenanteil und...","[['Dachgeschosswohnung', '•', 'Chemnitz', 'Einsiedel']]",['Garten'],Miete zzgl. NK 470 €,Wohnfläche ca. 85 m²,Zi. 4,166,14
+25,selObject_44788037,"Wilsdruff ! 2-Zimmer- Wohnung, Laminat, Küche & Bad m....","[['Wohnung', '•', 'Wilsdruff', 'Wilsdruff']]",['Garten'],Miete zzgl. NK 390 €,Wohnfläche ca. 56 m²,Zi. 2,166,14
+26,selObject_44788028,JAAAAAA ... der Sommer ist da! - Die beste Zeit für...,"[['Erdgeschosswohnung', '•', 'Chemnitz', 'Kaßberg']]",['Balkon'],"Miete zzgl. NK 313,50 €",Wohnfläche ca. 57 m²,Zi. 3,166,14

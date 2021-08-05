@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44961301,"Moderne Wohnung mit tollem Blick auf Ostsee, Strand &...","['Apartment', '•', 'Grömitz', 'Grömitz']","['Balkon', 'EBK']",Miete zzgl. NK 545 €,Wohnfläche ca. 50 m²,Zi. 2,13,1
-1,selObject_44961168,2 Zi.- Sout- Wohnung mit Terrasse und Einbauküche,"['Souterrainwohnung', '•', 'Bad', 'Bramstedt']",['EBK'],Miete zzgl. NK 420 €,Wohnfläche ca. 52 m²,Zi. 2,13,1
-2,selObject_44960489,Idyllische 2 Zimmer Wohnung mit Blick uns Grüne,"['Apartment', '•', 'Wohltorf']","['Balkon', 'EBK']",Miete zzgl. NK 630 €,Wohnfläche ca. 71 m²,Zi. 2,13,1
-3,selObject_44958259,"Gepflegte 2,5 Zimmer Dachgeschosswohnung","['Dachgeschosswohnung', '•', 'Itzehoe']",['EBK'],Miete zzgl. NK 375 €,Wohnfläche ca. 54 m²,"Zi. 2,5",13,1
-4,selObject_44958042,Geräumige 2 Zimmer-Wohnung am Gerberplatz,"['Etagenwohnung', '•', 'Uetersen']",[],Miete zzgl. NK 480 €,Wohnfläche ca. 60 m²,Zi. 2,13,1
-5,selObject_44957895,"2,0-Zimmer-Wohnung, Große Straße 14, 2. OG","['Wohnung', '•', 'Flensburg', 'Altstadt']",[],Miete zzgl. NK 400 €,Wohnfläche ca. 60 m²,Zi. 2,13,1
-6,selObject_44957891,"2,0-Zimmer-Wohnung, Große Str. 15-19, 3.OG","['Wohnung', '•', 'Flensburg', 'Altstadt']",[],Miete zzgl. NK 505 €,Wohnfläche ca. 72 m²,Zi. 2,13,1
-7,selObject_44957403,Schöne Single-Wohnung in Kanalnähe,"['Wohnung', '•', 'Rendsburg']","['Balkon', 'EBK']",Miete zzgl. NK 490 €,Wohnfläche ca. 56 m²,"Zi. 1,5",13,1
-8,selObject_44957182,Wohnen mit eigenem Garten in Plön - Lütt Immobilien -...,"['Etagenwohnung', '•', 'Plön']","['Garten', 'EBK']",Miete zzgl. NK 510 €,Wohnfläche ca. 90 m²,Zi. 4,13,1
-9,selObject_44956092,Mietwohnung Erdgeschoss in guter Lage von Eutin,"['Erdgeschosswohnung', '•', 'Eutin']","['Garten', 'EBK']",Miete zzgl. NK 693 €,Wohnfläche ca. 66 m²,Zi. 2,13,1
-10,selObject_44955741,Zur Miete: 4-Zimmer-Wohnung in idyllischer Lage Kitzeb...,"['Erdgeschosswohnung', '•', 'Heikendorf', 'Kitzeberg']",['EBK'],Miete zzgl. NK 1.200 €,Wohnfläche ca. 100 m²,Zi. 4,13,1
-11,selObject_44955734,3-Zimmerwohnung im 1. OG/ Neubau-Erstbezug!!!,"['Etagenwohnung', '•', 'Rendsburg']","['Balkon', 'EBK']",Miete zzgl. NK 810 €,Wohnfläche ca. 90 m²,Zi. 3,13,1
-12,selObject_44955577,Neubau: 2-Zimmer Terrassenwohnung,"['Erdgeschosswohnung', '•', 'Rendsburg']",['EBK'],Miete zzgl. NK 665 €,Wohnfläche ca. 70 m²,Zi. 2,13,1
-13,selObject_44955559,"Bönningstedt, 3 Zimmer Wohnung","['Dachgeschosswohnung', '•', 'Bönningstedt']","['Balkon', 'EBK']",Miete zzgl. NK 960 €,Wohnfläche ca. 96 m²,Zi. 3,13,1
-14,selObject_44955461,Gemütliches Wohnen unter dem Dach in bevorzugter Wohnl...,"['Wohnung', '•', 'Kiel', 'Blücherplatz']","['Balkon', 'Garten']",Miete zzgl. NK 495 €,Wohnfläche ca. 56 m²,Zi. 3,13,1
-15,selObject_44955277,"Nur 5 Minuten zum FEK: 1.OG., 2 Zimmer (ca. 47 m²): ab...","['Etagenwohnung', '•', 'Neumünster', 'Innenstadt']","['Garten', 'EBK']",Miete zzgl. NK 350 €,Wohnfläche ca. 47 m²,Zi. 2,13,1
-16,selObject_44955263,MODERNE 3-ZIMMER ERDGESCHOSSWOHNUNG IN AHRENSFELDE,"['Erdgeschosswohnung', '•', 'Ahrensburg']",['EBK'],Miete zzgl. NK 990 €,Wohnfläche ca. 90 m²,Zi. 3,13,1
-17,selObject_44955057,Dachgeschosswohnung in sonniger Lage,"['Dachgeschosswohnung', '•', 'Garding']","['Balkon', 'EBK']",Miete zzgl. NK 560 €,Wohnfläche ca. 69 m²,"Zi. 3,5",13,1
-18,selObject_44955005,Seniorengerechte 2-Zimmer Wohnung im Herzen von Satrup,"['Etagenwohnung', '•', 'Mittelangeln']","['Balkon', 'EBK']",Miete zzgl. NK 810 €,Wohnfläche ca. 90 m²,Zi. 2,13,1
-19,selObject_44954998,Durchdachter Grundriss in schöner Wohngegend,"['Etagenwohnung', '•', 'Wentorf', 'bei', 'Hamburg']","['Balkon', 'EBK']",Miete zzgl. NK 886 €,Wohnfläche ca. 89 m²,Zi. 3,13,1
-20,selObject_44954931,- Schöne 3 Zimmer Wohnung im Stadtquartier -,"['Apartment', '•', 'Husum', 'Husum']",['Balkon'],"Miete zzgl. NK 810,70 €",Wohnfläche ca. 82 m²,Zi. 3,13,1
-21,selObject_44954823,Neubau - Erstbezug: Wunderschöne 3-Zi.-Whg. (ca. 100...,"['Etagenwohnung', '•', 'Groß', 'Grönau']",['Balkon'],Miete zzgl. NK 1.210 €,Wohnfläche ca. 100 m²,Zi. 3,13,1
-22,selObject_44954808,"Wohnen im Grünen: Schöne 2,5-Zi.-Whg. (ca. 69 m²) mit...","['Etagenwohnung', '•', 'Schwarzenbek', 'Schwarzenbek']",['Balkon'],Miete zzgl. NK 620 €,Wohnfläche ca. 69 m²,"Zi. 2,5",13,1
-23,selObject_44954806,Neubau - Erstbezug: Wunderschöne 3-Zi-Dachgeschoss-Whg...,"['Etagenwohnung', '•', 'Groß', 'Grönau']",['Balkon'],Miete zzgl. NK 920 €,Wohnfläche ca. 77 m²,Zi. 3,13,1
-24,selObject_44954504,"Traumwohnung über 2 Ebenen in ruhiger, zentraler Lage!","['Maisonette', '•', 'Wedel']","['Balkon', 'EBK']",Miete zzgl. NK 750 €,Wohnfläche ca. 60 m²,Zi. 2,13,1
-25,selObject_44954478,Neubau - Erstbezug: Wunderschöne 2-Zi.-Whg. (ca. 62...,"['Etagenwohnung', '•', 'Groß', 'Grönau']",['Balkon'],Miete zzgl. NK 740 €,Wohnfläche ca. 62 m²,Zi. 2,13,1
-26,selObject_44954466,Erstbezug nach Sanierung - Schicke 3-Zimmer-Wohnung...,"['Etagenwohnung', '•', 'Mölln', 'Mölln']",['Balkon'],Miete zzgl. NK 580 €,Wohnfläche ca. 67 m²,Zi. 3,13,1
+0,selObject_44980853,"Lichtdurchflutete 3-Zimmer-Wohnung mit Balkon, ab 01.1...","[['Maisonette', '•', 'Schwentinental', 'Raisdorf']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.300 €,Wohnfläche ca. 122 m²,Zi. 3,13,1
+1,selObject_44980420,2 Zimmer Seniorenwohnung in der Seniorenresidenz Apfel...,"[['Apartment', '•', 'Flensburg', 'Engelsby']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 700 €,,Zi. 2,13,1
+2,selObject_44980301,3D VIRTUAL TOUR - Renovierte Erdgeschosswohnung im...,"[['Erdgeschosswohnung', '•', 'Pinneberg']]","['Balkon', 'EBK']",Miete zzgl. NK 740 €,Wohnfläche ca. 72 m²,Zi. 2,13,1
+3,selObject_44979988,3D VIRTUAL TOUR - Großzügig geschnittene Balkonwohnung...,"[['Etagenwohnung', '•', 'Pinneberg']]","['Balkon', 'EBK']",Miete zzgl. NK 800 €,Wohnfläche ca. 80 m²,Zi. 2,13,1
+4,selObject_44979784,Hochwertige 3-Zimmer-Whg. mit Balkon und Einbauküche...,"[['Wohnung', '•', 'Groß', 'Nordende']]","['Balkon', 'EBK']",Miete zzgl. NK 990 €,Wohnfläche ca. 88 m²,Zi. 3,13,1
+5,selObject_44979677,Ab sofort- 1-Zimmer-DG-Wohnung- ideal für Azubi oder...,"[['Dachgeschosswohnung', '•', 'Lauenburg']]",['EBK'],Miete zzgl. NK 305 €,Wohnfläche ca. 30 m²,Zi. 1,13,1
+6,selObject_44979343,3D VIRTUAL TOUR - Maisonettewohnung mit Reihenhauschar...,"[['Maisonette', '•', 'Pinneberg']]",['Balkon'],Miete zzgl. NK 825 €,Wohnfläche ca. 87 m²,Zi. 4,13,1
+7,selObject_44979236,Sanierte Altbauwohnung in prachtvollem Gründerzeitbau...,"[['Etagenwohnung', '•', 'Kiel', 'Brunswik']]","['Balkon', 'EBK']",Miete zzgl. NK 1.475 €,Wohnfläche ca. 99 m²,Zi. 2,13,1
+8,selObject_44979177,Quickborn-Heide: Viel Platz auf 2 Ebenen: Endetage!,"[['Wohnung', '•', 'Quickborn']]","['Balkon', 'EBK']",Miete zzgl. NK 1.000 €,Wohnfläche ca. 126 m²,"Zi. 4,5",13,1
+9,selObject_44978130,Großzügige 3-Zimmer-Wohnung im Zentrum von Ahrensburg,"[['Etagenwohnung', '•', 'Ahrensburg']]","['Balkon', 'EBK']",Miete zzgl. NK 890 €,Wohnfläche ca. 92 m²,Zi. 3,13,1
+10,selObject_44977266,"Wohnen in St. Lorenz Süd, Töpferweg 22","[['Wohnung', '•', 'Lübeck', 'St.', 'Lorenz', 'Süd']]","['Balkon', 'EBK']",Miete zzgl. NK 797 €,Wohnfläche ca. 69 m²,Zi. 2,13,1
+11,selObject_44977236,"Lachwehrallee, 2 Zi.-Dachgeschoss-Wohnung, nähe Dräger...","[['Kein', 'Bild'], ['Dachgeschosswohnung', '•', 'Lübeck', 'St.', 'Lorenz', 'Süd']]",['EBK'],Miete zzgl. NK 450 €,Wohnfläche ca. 51 m²,Zi. 2,13,1
+12,selObject_44976734,GROSSZÜGIGE PENTHOUSE-WOHNUNG IN RUHIGER LAGE,"[['Wohnung', '•', 'Ahrensburg']]","['Balkon', 'EBK']",Miete zzgl. NK 940 €,Wohnfläche ca. 92 m²,Zi. 2,13,1
+13,selObject_44976528,Erdgeschosswohnung im Stadtzentrum,"[['Erdgeschosswohnung', '•', 'Itzehoe']]","['Balkon', 'EBK']","Miete zzgl. NK 331,92 €",Wohnfläche ca. 60 m²,Zi. 2,13,1
+14,selObject_44976236,Barrierearme Wohnung in zentraler Lage Wentorf,"[['Etagenwohnung', '•', 'Wentorf', 'bei', 'Hamburg']]","['Balkon', 'EBK']",Miete zzgl. NK 799 €,Wohnfläche ca. 61 m²,Zi. 2,13,1
+15,selObject_44976082,Erstbezug nach Renovierung! Schöne 1-Zimmer-Wohnung...,"[['Etagenwohnung', '•', 'Mölln', 'Mölln']]",[],Miete zzgl. NK 350 €,Wohnfläche ca. 30 m²,Zi. 1,13,1
+16,selObject_44975900,Gemütliche Dachgeschosswohnung in nachgefragter Lage,"[['Dachgeschosswohnung', '•', 'Schwarzenbek', 'Schwarzenbek']]",['EBK'],Miete zzgl. NK 525 €,Wohnfläche ca. 70 m²,"Zi. 2,5",13,1
+17,selObject_44975863,Sonniges Dachgeschoß mit 7 Türmeblick in St. Jürgen-...,"[['Dachgeschosswohnung', '•', 'Lübeck', 'St.', 'Jürgen']]",['EBK'],Miete zzgl. NK 1.250 €,Wohnfläche ca. 95 m²,Zi. 3,13,1
+18,selObject_44975635,"Anfragestopp! 2-Zimmer-Altbauwohnung, hohe Decken,...","[['Wohnung', '•', 'Grömitz', 'Cismar']]","['Garten', 'EBK']",Miete zzgl. NK 690 €,Wohnfläche ca. 69 m²,Zi. 2,13,1
+19,selObject_44975444,Lensahn 3-Zimmer Maisonettewohnung mit großer Holzterr...,"[['Maisonette', '•', 'Lensahn', 'Lensahn']]","['Garten', 'EBK']",Miete zzgl. NK 849 €,Wohnfläche ca. 76 m²,Zi. 3,13,1
+20,selObject_44974464,Entspannt wohnen und rundum wohlfühlen: Willkommen im...,"[['Etagenwohnung', '•', 'Kaltenkirchen']]",['Balkon'],"Miete zzgl. NK 413,98 €",Wohnfläche ca. 59 m²,Zi. 2,13,1
+21,selObject_44974462,Genießen Sie die Vorzüge einer barrierearmen Wohnung:...,"[['Etagenwohnung', '•', 'Bad', 'Oldesloe']]",['Balkon'],"Miete zzgl. NK 403,40 €",Wohnfläche ca. 58 m²,Zi. 2,13,1
+22,selObject_44974421,Modernisierte Singlewohnung!,"[['Etagenwohnung', '•', 'Kiel', 'Elmschenhagen-Süd']]","['Balkon', 'EBK']",Miete zzgl. NK 380 €,Wohnfläche ca. 47 m²,"Zi. 1,5",13,1
+23,selObject_44974416,Nimm mich! Günstig geschnittene 2-Zimmer-Wohnung,"[['Etagenwohnung', '•', 'Geesthacht']]","['Balkon', 'EBK']",Miete zzgl. NK 480 €,Wohnfläche ca. 56 m²,Zi. 2,13,1
+24,selObject_44974412,Nachmieter für modernisierte 2-Zimmer-Wohnung mit Balk...,"[['Erdgeschosswohnung', '•', 'Norderstedt', 'Glashütte']]",['Balkon'],Miete zzgl. NK 660 €,Wohnfläche ca. 55 m²,Zi. 2,13,1
+25,selObject_44974379,Das Glück hat ein Zuhause: interessante 2-Zimmer-Wohnu...,"[['Etagenwohnung', '•', 'Kiel', 'Gaarden-Ost']]",['EBK'],"Miete zzgl. NK 293,22 €",Wohnfläche ca. 42 m²,Zi. 2,13,1
+26,selObject_44974205,Diestelkamp! Sanierung demnächst abgeschlossen!,"[['Wohnung', '•', 'Eckernförde']]","['Balkon', 'EBK']",Miete zzgl. NK 609 €,Wohnfläche ca. 80 m²,Zi. 3,13,1

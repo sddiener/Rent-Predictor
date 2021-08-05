@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44966373,Besondere 3-Zimmer-Wohnung in der Innenstadt von Stade,"['Dachgeschosswohnung', '•', 'Stade', 'Stade']","['Balkon', 'EBK']",Miete zzgl. NK 740 €,Wohnfläche ca. 81 m²,Zi. 3,27,3
-1,selObject_44966322,"helle, schöne, ruhige 3 Zimmer-Wohnung mit Bad + WC +...","['Dachgeschosswohnung', '•', 'Wolfsburg', 'Allerpark']",['EBK'],Miete zzgl. NK 1.070 €,Wohnfläche ca. 90 m²,Zi. 3,27,3
-2,selObject_44965915,Alles auf einer Ebene,"['Wohnung', '•', 'Engelschoff', 'Neuland']","['Garten', 'EBK']",Miete zzgl. NK 820 €,Wohnfläche ca. 118 m²,Zi. 3,27,3
-3,selObject_44965341,"Exklusive 3-Zimmer-Wohnung im Wohnpark ""Zum Apfelhof""...","['Etagenwohnung', '•', 'Tostedt', 'Tostedt']","['Balkon', 'EBK']",Miete zzgl. NK 830 €,Wohnfläche ca. 83 m²,Zi. 3,27,3
-4,selObject_44965340,107-015 - 2 Zimmer Wohnung mit Dachterrasse,"['Wohnung', '•', 'Braunschweig', 'Innenstadt']",[],Miete zzgl. NK 750 €,Wohnfläche ca. 84 m²,Zi. 2,27,3
-5,selObject_44965296,"2 Zimmer, Küche, Bad-Wohnung im 1. Obergeschoß in Wilh...","['Wohnung', '•', 'Wilhelmshaven', 'Heppens']",['EBK'],Miete zzgl. NK 320 €,Wohnfläche ca. 54 m²,Zi. 2,27,3
-6,selObject_44965176,Erdgeschosswohnung mit Garten zu vermieten.,"['Erdgeschosswohnung', '•', 'Adendorf', 'Adendorf']","['Garten', 'EBK']",Miete zzgl. NK 935 €,Wohnfläche ca. 110 m²,Zi. 3,27,3
-7,selObject_44965169,Großzügiges Single Apartment mit toller Dachterrasse!,"['Etagenwohnung', '•', 'Buxtehude', 'Buxtehude']","['Balkon', 'EBK']",Miete zzgl. NK 636 €,Wohnfläche ca. 58 m²,Zi. 1,27,3
-8,selObject_44965006,RUDNICK bietet ERSTBEZUG: Hochwertige 2 Zimmer Wohnung...,"['Etagenwohnung', '•', 'Wunstorf', 'Wunstorf']","['Balkon', 'EBK']",Miete zzgl. NK 955 €,Wohnfläche ca. 91 m²,Zi. 2,27,3
-9,selObject_44961555,Helle 3 Zimmer Wohnung in zentraler Lage,"['Wohnung', '•', 'Stelle', 'Stelle']","['Balkon', 'EBK']",Miete zzgl. NK 702 €,Wohnfläche ca. 78 m²,Zi. 3,27,3
-10,selObject_44961320,Wohnen auf dem Lande - schöne 3-Zimmerwohnung in Egger...,"['Dachgeschosswohnung', '•', 'Eggermühlen', 'Bockraden']",['Garten'],Miete zzgl. NK 400 €,Wohnfläche ca. 79 m²,Zi. 3,27,3
-11,selObject_44961319,Geräumige 4-Zimmerwohnung mit Einbauküche und Balkon,"['Dachgeschosswohnung', '•', 'Berge', 'Berge']","['Balkon', 'EBK']",Miete zzgl. NK 420 €,Wohnfläche ca. 107 m²,Zi. 4,27,3
-12,selObject_44961273,Gut geschnittene 3 Zimmerwohnung,"['Kein', 'Bild']","['Balkon', 'Garten']",Miete zzgl. NK 450 €,Wohnfläche ca. 60 m²,Zi. 3,27,3
-13,selObject_44960886,Helle 4 Zimmer Wohnung in Aerzen,"['Wohnung', '•', 'Aerzen', 'Aerzen']","['Balkon', 'EBK']",Miete zzgl. NK 600 €,Wohnfläche ca. 95 m²,Zi. 4,27,3
-14,selObject_44960590,Gemütliche 2-Zimmer-Wohnung Balkon und Keller,"['Erdgeschosswohnung', '•', 'Göttingen', 'Göttingen']",['Garten'],Miete zzgl. NK 420 €,Wohnfläche ca. 42 m²,Zi. 2,27,3
-15,selObject_44960554,Gemütliche 2-Zimmer-WG-Wohnung mit 2 Balkonen und Kell...,"['Erdgeschosswohnung', '•', 'Göttingen', 'Göttingen']","['Garten', 'EBK']",Miete zzgl. NK 430 €,Wohnfläche ca. 44 m²,Zi. 2,27,3
-16,selObject_44960522,Süße 1-Zimmer-Wohnung mit Kellerverschlag,"['Wohnung', '•', 'Göttingen', 'Göttingen']",['Garten'],Miete zzgl. NK 250 €,Wohnfläche ca. 24 m²,Zi. 1,27,3
-17,selObject_44960492,Gut gelegene Terrassenwohnung in Achtum,"['Wohnung', '•', 'Hildesheim', 'Achtum']",['Garten'],Miete zzgl. NK 694 €,Wohnfläche ca. 110 m²,Zi. 4,27,3
-18,selObject_44960491,Gepflegte 2-Zimmer-Wohnung in der Nähe der Fußgängerzo...,"['Etagenwohnung', '•', 'Winsen', 'Winsen']","['Balkon', 'EBK']",Miete zzgl. NK 493 €,Wohnfläche ca. 49 m²,Zi. 2,27,3
-19,selObject_44960054,2 Zimmer-Apartment in Lemförde,"['Apartment', '•', 'Lemförde']","['Balkon', 'EBK']",Miete zzgl. NK 350 €,Wohnfläche ca. 49 m²,Zi. 2,27,3
-20,selObject_44960042,3 Zimmer-Wohnung mit Balkon in der Südstadt von SZ-Bad,"['Erdgeschosswohnung', '•', 'Salzgitter', 'Bad']",['Balkon'],Miete zzgl. NK 337 €,Wohnfläche ca. 57 m²,Zi. 3,27,3
-21,selObject_44960038,2 Zimmer-Wohnung mit Balkon in der Südstadt von SZ-Bad,"['Etagenwohnung', '•', 'Salzgitter', 'Bad']",['Balkon'],Miete zzgl. NK 455 €,Wohnfläche ca. 69 m²,Zi. 3,27,3
-22,selObject_44959540,3-ZW mit Fahrstuhl Am Golfpark,"['Etagenwohnung', '•', 'Fredenbeck', 'Fredenbeck']","['Balkon', 'EBK']",Miete zzgl. NK 712 €,Wohnfläche ca. 75 m²,Zi. 3,27,3
-23,selObject_44958492,Helle geräumige 2-Zi-Wohnung in Scharnebeck - nur noch...,"['Erdgeschosswohnung', '•', 'Scharnebeck', 'Scharnebeck']",['EBK'],Miete zzgl. NK 870 €,Wohnfläche ca. 83 m²,Zi. 2,27,3
-24,selObject_44958281,1-Zimmer Wohnung in OS-Wüste!,"['Etagenwohnung', '•', 'Osnabrück', 'Wüste']",[],Miete zzgl. NK 430 €,Wohnfläche ca. 41 m²,Zi. 1,27,3
-25,selObject_44958251,Charmante 3-Zimmer-Wohnung mit Süd-Balkon! Frei zum...,"['Etagenwohnung', '•', 'Brake', 'Kirchhammelwarden']",[],Miete zzgl. NK 410 €,Wohnfläche ca. 70 m²,Zi. 3,27,3
-26,selObject_44958183,Renoviert 2019! Obergeschosswohnung in attraktiver...,"['Etagenwohnung', '•', 'Goldenstedt', 'Goldenstedt']",['Balkon'],Miete zzgl. NK 650 €,Wohnfläche ca. 113 m²,Zi. 4,27,3
+0,selObject_44988733,Hanstedt - von oben betrachten! 3-Zi-Wohnung mit 2...,"[['Wohnung', '•', 'Hanstedt', 'Hanstedt']]","['Balkon', 'EBK']",Miete zzgl. NK 1.280 €,Wohnfläche ca. 128 m²,Zi. 3,27,3
+1,selObject_44988679,"** Komplett saniert, schöner Altbau, 2-Zimmer Mietwohn...","[['Erdgeschosswohnung', '•', 'Buxtehude', 'Buxtehude']]",['Garten'],Miete zzgl. NK 630 €,Wohnfläche ca. 66 m²,Zi. 2,27,3
+2,selObject_44988667,Traumhafter Weitblick in Geismar: 2-Zimmer-Wohnung!,"[['Wohnung', '•', 'Göttingen', 'Göttingen']]",['EBK'],Miete zzgl. NK 455 €,Wohnfläche ca. 55 m²,Zi. 2,27,3
+3,selObject_44988650,Ostviertelrand! 2- ZKB Balkon inkl. Einbauküche,"[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Göttingen', 'Göttingen']]","['Balkon', 'Garten']",Miete zzgl. NK 425 €,Wohnfläche ca. 52 m²,Zi. 2,27,3
+4,selObject_44988646,Mein Schloss im Gartenparadies,"[['Erdgeschosswohnung', '•', 'Leer', 'Leer']]","['Garten', 'EBK']",Miete zzgl. NK 650 €,Wohnfläche ca. 67 m²,Zi. 2,27,3
+5,selObject_44988538,"Wohnen, wo andere Urlaub machen: Nähe Kurpark Bad Beve...","[['Etagenwohnung', '•', 'Bad', 'Bevensen', 'Bad', 'Bevensen']]",['EBK'],Miete zzgl. NK 980 €,Wohnfläche ca. 104 m²,Zi. 3,27,3
+6,selObject_44988352,° Unikat in der Altstadt ° Ferienwohnung auf Zeit zu...,"[['Wohnung', '•', 'Lüneburg', 'Altstadt']]",[],Miete inkl. NK 1.600 €,Wohnfläche ca. 42 m²,Zi. 1,27,3
+7,selObject_44988190,"Traumhaft gelegenes Penthouse in der Nordheide, Erstbe...","[['Penthouse', '•', 'Tostedt', 'Todtglüsingen']]",['EBK'],Miete zzgl. NK 860 €,Wohnfläche ca. 79 m²,"Zi. 2,5",27,3
+8,selObject_44988183,schöne Dachgeschosswohnung in Wittmund-Angelsburg,"[['Dachgeschosswohnung', '•', 'Wittmund', 'Willen']]","['Balkon', 'EBK']",Miete zzgl. NK 550 €,Wohnfläche ca. 86 m²,Zi. 4,27,3
+9,selObject_44988124,Raus in die Natur: Modernisierte 4-Zimmer Wohnung mit...,"[['Souterrainwohnung', '•', 'Embsen', 'Embsen']]",['Garten'],Miete zzgl. NK 1.200 €,Wohnfläche ca. 120 m²,Zi. 4,27,3
+10,selObject_44988109,Ottersberg 3-Raum-Wohnung in der 1. Etage,"[['Loft-Studio-Atelier', '•', 'Ottersberg', 'Rothlake']]","['Garten', 'EBK']",Miete zzgl. NK 550 €,Wohnfläche ca. 117 m²,Zi. 3,27,3
+11,selObject_44987947,1-Zimmer-Wohnung in Stade-Hahle,"[['Wohnung', '•', 'Stade', 'Stade']]","['Balkon', 'EBK']",Miete zzgl. NK 275 €,Wohnfläche ca. 30 m²,Zi. 1,27,3
+12,selObject_44987897,Gut wohnen im grünen Stadtteil Heppens,"[['Etagenwohnung', '•', 'Wilhelmshaven', 'Heppens']]",['Balkon'],Miete zzgl. NK 480 €,Wohnfläche ca. 81 m²,Zi. 3,27,3
+13,selObject_44987544,2-Zimmer Wohnung im Stadtzentrum,"[['Wohnung', '•', 'Soltau', 'Soltau']]",['EBK'],Miete zzgl. NK 380 €,Wohnfläche ca. 52 m²,Zi. 2,27,3
+14,selObject_44987403,1 Zimmer Wohnung in Sutthausen,"[['Etagenwohnung', '•', 'Osnabrück', 'Sutthausen']]",[],Miete zzgl. NK 275 €,Wohnfläche ca. 27 m²,,27,3
+15,selObject_44987389,2-Zimmer-Wohnung im 2. Obergeschoss mit 32 m² Wfl.,"[['Wohnung', '•', 'Göttingen', 'Göttingen']]",[],Miete zzgl. NK 350 €,Wohnfläche ca. 32 m²,Zi. 2,27,3
+16,selObject_44987340,Neuwertige Maisonette Wohnung mit Dachstuhl in zentral...,"[['Dachgeschosswohnung', '•', 'Westerstede', 'Westerstede']]","['Balkon', 'EBK']",Miete zzgl. NK 570 €,Wohnfläche ca. 59 m²,Zi. 2,27,3
+17,selObject_44987255,Erdgeschossohnung in Meppen,"[['Wohnung', '•', 'Meppen', 'Altstadt']]",[],Miete zzgl. NK 630 €,Wohnfläche ca. 77 m²,Zi. 2,27,3
+18,selObject_44986915,Moderne Neubau-Oberwohnung mitten in Esens,"[['Wohnung', '•', 'Esens', 'Esens']]","['Balkon', 'EBK']",Miete zzgl. NK 850 €,Wohnfläche ca. 100 m²,Zi. 5,27,3
+19,selObject_44986436,Wohnung 2 ZKB,"[['Dachgeschosswohnung', '•', 'Ostrhauderfehn', 'Idafehn']]",[],Miete zzgl. NK 420 €,Wohnfläche ca. 55 m²,Zi. 2,27,3
+20,selObject_44986382,Tolle Raumaufteilung: 2-Zimmer DG Schulviertel,"[['Dachgeschosswohnung', '•', 'Wildeshausen']]",[],Miete zzgl. NK 395 €,Wohnfläche ca. 61 m²,Zi. 2,27,3
+21,selObject_44986362,Sanierte Single-Wohnung mit EBK - Innenstadt zum 1.10....,"[['Etagenwohnung', '•', 'Wildeshausen']]",['EBK'],Miete zzgl. NK 330 €,Wohnfläche ca. 37 m²,Zi. 2,27,3
+22,selObject_44986361,Großzügiges Wohnen im Herzen von Wildeshausen,"[['Etagenwohnung', '•', 'Wildeshausen']]","['Balkon', 'EBK']",Miete zzgl. NK 550 €,Wohnfläche ca. 116 m²,Zi. 4,27,3
+23,selObject_44986327,Schöne 2-Zimmer-Wohnung im 1. Obergeschoss eines moder...,"[['Wohnung', '•', 'Lingen', 'Lingen']]","['Balkon', 'EBK']",Miete zzgl. NK 515 €,Wohnfläche ca. 72 m²,Zi. 2,27,3
+24,selObject_44986276,2 Balkone mit Blick auf Alfeld,"[['Etagenwohnung', '•', 'Alfeld', 'Alfeld']]",['Balkon'],Miete zzgl. NK 500 €,Wohnfläche ca. 95 m²,Zi. 3,27,3
+25,selObject_44986146,Ein Zimmer in Mädels-WG frei! - Jetzt schickes Zimmer...,"[['Dachgeschosswohnung', '•', 'Vechta', 'Vechta']]",[],Miete zzgl. NK 325 €,Wohnfläche ca. 23 m²,Zi. 1,27,3
+26,selObject_44986140,Wohnen in 3ZKBB- Wohnung in Fürstenau,"[['Etagenwohnung', '•', 'Fürstenau', 'Fürstenau']]",['Balkon'],Miete zzgl. NK 510 €,Wohnfläche ca. 85 m²,Zi. 3,27,3

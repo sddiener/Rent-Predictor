@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44994731,"NEU HERRLICHE 3-Zi. Wohnung mit Einbauküche, LAMINAT, BALK...","['Erdgeschosswohnung', '•', 'Zwickau', 'Pölbitz']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 465 €,Wohnfläche ca. 88 m²,Zi. 3,31,14
-1,selObject_44994698,"NEU 500,-€ Einzugsgutschein","['Etagenwohnung', '•', 'Leipzig', 'Lausen-Grünau']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 385 €,Wohnfläche ca. 69 m²,Zi. 3,31,14
-2,selObject_44994695,NEU 2 MONATE KALTMIETFREI WOHNEN! Geräumige 1-Raum-Wohnung...,"['Wohnung', '•', 'Chemnitz', 'Sonnenberg']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 160 €,Wohnfläche ca. 32 m²,Zi. 1,31,14
-3,selObject_44994693,NEU Individuelle 4-Raum-Masionettewohnung!,"['Maisonette', '•', 'Mittweida', 'Mittweida']","['NEU', 'NEU']",Miete zzgl. NK 600 €,Wohnfläche ca. 101 m²,Zi. 4,31,14
-4,selObject_44994691,NEU Große 3-Raum-Wohnung mit Tageslichtbad und Balkon!,"['Wohnung', '•', 'Chemnitz', 'Bernsdorf']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 410 €,Wohnfläche ca. 71 m²,Zi. 3,31,14
-5,selObject_44994690,NEU ERSTBEZUG! Lichtdurchflutete 2-Raum-Wohnung mit Tagesl...,"['Wohnung', '•', 'Chemnitz', 'Altchemnitz']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 300 €,Wohnfläche ca. 45 m²,Zi. 2,31,14
-6,selObject_44994686,NEU Gemütliche 2-Raum-Wohnung auf dem Kaßberg,"['Wohnung', '•', 'Chemnitz', 'Kaßberg']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 310 €,Wohnfläche ca. 56 m²,Zi. 2,31,14
-7,selObject_44994682,NEU Ihr neues Zuhause - ideale 3-Raum-Wohnung mit Tageslic...,"['Wohnung', '•', 'Amtsberg', 'Dittersdorf']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 500 €,Wohnfläche ca. 91 m²,Zi. 3,31,14
-8,selObject_44994681,NEU Single-Wohnung in Schloßchemnitz,"['Wohnung', '•', 'Chemnitz', 'Schloßchemnitz']","['NEU', 'NEU']",Miete zzgl. NK 180 €,Wohnfläche ca. 36 m²,Zi. 2,31,14
-9,selObject_44994678,NEU ERSTBEZUG! XXL 1-Raum-Wohnung!,"['Wohnung', '•', 'Meißen']","['NEU', 'NEU']",Miete zzgl. NK 345 €,Wohnfläche ca. 43 m²,Zi. 1,31,14
-10,selObject_44994676,NEU Auf dem Kaßberg wohnen! 3-Raum-Wohnung mit Einbauküche...,"['Erdgeschosswohnung', '•', 'Chemnitz', 'Kaßberg']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 410 €,Wohnfläche ca. 73 m²,Zi. 3,31,14
-11,selObject_44994674,NEU Großzügige 2-Raum-Wohnung mit zwei Balkonen!,"['Wohnung', '•', 'Meißen']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 415 €,Wohnfläche ca. 74 m²,Zi. 2,31,14
-12,selObject_44994675,NEU 2-Raum-Maisonette-Wohnung in zentraler Lage!,"['Wohnung', '•', 'Mittweida', 'Mittweida']","['NEU', 'NEU']",Miete zzgl. NK 300 €,Wohnfläche ca. 48 m²,Zi. 2,31,14
-13,selObject_44994673,NEU ERSTBEZUG! 2-Raum-Wohnung mit Tageslichtbad! Neue Einb...,"['Erdgeschosswohnung', '•', 'Amtsberg', 'Schlößchen']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 295 €,Wohnfläche ca. 51 m²,Zi. 2,31,14
-14,selObject_44994671,NEU 2-Raum-Maisonette-Wohnung in zentraler Lage!,"['Wohnung', '•', 'Mittweida', 'Mittweida']","['NEU', 'NEU']",Miete zzgl. NK 300 €,Wohnfläche ca. 49 m²,Zi. 2,31,14
-15,selObject_44994672,NEU 1 MONAT KALTMIETFREI! Dachgeschosswohnung inklusive...,"['Dachgeschosswohnung', '•', 'Chemnitz', 'Sonnenberg']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 309 €,Wohnfläche ca. 63 m²,Zi. 2,31,14
-16,selObject_44994670,NEU Wohnen auf dem Kaßberg! Großzügige 2-Raum-Wohnung mit...,"['Wohnung', '•', 'Chemnitz', 'Kaßberg']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 380 €,Wohnfläche ca. 59 m²,Zi. 2,31,14
-17,selObject_44994669,NEU Ihr neues Zuhause - wunderschöne 3-Raum-Wohnung,"['Wohnung', '•', 'Limbach-Oberfrohna', 'Limbach-Oberfrohna']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 390 €,Wohnfläche ca. 74 m²,Zi. 3,31,14
-18,selObject_44994668,NEU ERSTBEZUG! Wohnen in ruhiger Lage.,"['Erdgeschosswohnung', '•', 'Chemnitz', 'Bernsdorf']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 330 €,Wohnfläche ca. 67 m²,Zi. 3,31,14
-19,selObject_44994665,NEU Viel Platz für die ganze Familie in Ihrer neuen 4-Raum...,"['Wohnung', '•', 'Chemnitz', 'Bernsdorf']","['NEU', 'NEU']",Miete zzgl. NK 561 €,Wohnfläche ca. 102 m²,Zi. 4,31,14
-20,selObject_44994664,NEU Geräumige 4-Raum-Maisonette-Wohnung im Zentrum von...,"['Wohnung', '•', 'Mittweida', 'Mittweida']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 570 €,Wohnfläche ca. 99 m²,Zi. 4,31,14
-21,selObject_44994658,NEU Freundliche und geräumige 3-Raum-Wohnung frisch sanier...,"['Wohnung', '•', 'Chemnitz', 'Sonnenberg']","['NEU', 'NEU']",Miete zzgl. NK 274 €,Wohnfläche ca. 58 m²,Zi. 3,31,14
-22,selObject_44994662,NEU Familien und Paare aufgepasst: Gemütliche 3-Raum-Wohnu...,"['Wohnung', '•', 'Chemnitz', 'Schloßchemnitz']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 275 €,Wohnfläche ca. 55 m²,Zi. 3,31,14
-23,selObject_44994655,NEU 2 Monate KALTMIETFREI! Neu sanierte 3-Raum-Wohnung in...,"['Wohnung', '•', 'Chemnitz', 'Bernsdorf']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 385 €,Wohnfläche ca. 70 m²,Zi. 3,31,14
-24,selObject_44994652,NEU 2-Raum-Wohnung mit Balkon in Altchemnitz,"['Wohnung', '•', 'Chemnitz', 'Altchemnitz']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 299 €,Wohnfläche ca. 54 m²,Zi. 2,31,14
-25,selObject_44994650,NEU 2 Monate Kaltmietfrei! 2-Raum-Wohnung auf dem Sonnenbe...,"['Wohnung', '•', 'Chemnitz', 'Sonnenberg']","['NEU', 'NEU']",Miete zzgl. NK 280 €,Wohnfläche ca. 62 m²,Zi. 2,31,14
-26,selObject_44994651,NEU 3-Raum-Erdgeschosswohnung in Chemnitz-Ebersdorf zum...,"['Wohnung', '•', 'Chemnitz', 'Ebersdorf']","['NEU', 'NEU']",Miete zzgl. NK 317 €,Wohnfläche ca. 58 m²,Zi. 3,31,14
+0,selObject_45022687,NEU schicke 3-Raum-Dachgeschoss-Wohnung in Aue,"[['Dachgeschosswohnung', '•', 'Aue']]","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 290 €,Wohnfläche ca. 61 m²,Zi. 3,31,14
+1,selObject_45022567,NEU HELLE UND GEMÜTLICHE 1-RAUM WOHNUNG MIT BALKON IN RUHI...,"[['Wohnung', '•', 'Dresden', 'Laubegast']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 373 €,Wohnfläche ca. 44 m²,Zi. 1,31,14
+2,selObject_45022551,"NEU Nicht zu groß und nicht zu klein, es darf ruhig eine...","[['Wohnung', '•', 'Görlitz', 'Innenstadt']]","['NEU', 'NEU']",Miete zzgl. NK 236 €,Wohnfläche ca. 56 m²,Zi. 2,31,14
+3,selObject_45022417,NEU in Hausschuhen zum Einkaufen,"[['Wohnung', '•', 'Mügeln', 'Mügeln']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 310 €,Wohnfläche ca. 67 m²,Zi. 2,31,14
+4,selObject_45022348,NEU Maisonette-Wohnung mit großem Dachstudio in herrlicher...,"[['Maisonette', '•', 'Frankenberg', 'Mühlbach']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 569 €,Wohnfläche ca. 99 m²,Zi. 4,31,14
+5,selObject_45022300,NEU !! Schnell sein lohnt sich !! großzügige 3 Raum DG-Whg...,"[['Dachgeschosswohnung', '•', 'Chemnitz', 'Hilbersdorf']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 400 €,Wohnfläche ca. 75 m²,Zi. 3,31,14
+6,selObject_45022231,NEU **hübsche 3 Raum Wohnung auf dem Land **,"[['Etagenwohnung', '•', 'Borna', 'Wyhra']]","['NEU', 'NEU']",Miete zzgl. NK 350 €,Wohnfläche ca. 67 m²,Zi. 3,31,14
+7,selObject_45022195,NEU ** Praktisch geschnittene Wohnung mit Balkon mit guter...,"[['Wohnung', '•', 'Leipzig', 'Kleinzschocher']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 393 €,Wohnfläche ca. 60 m²,Zi. 2,31,14
+8,selObject_45022171,NEU Geräumige komplett renovierte 2-Zimmerwohnung im sanie...,"[['Wohnung', '•', 'Dresden', 'Pieschen-Nord/Trachenberge']]","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 310 €,Wohnfläche ca. 49 m²,Zi. 2,31,14
+9,selObject_45022168,NEU Schöne komplett renovierte 2-Zimmerwohnung im sanierte...,"[['Wohnung', '•', 'Dresden', 'Pieschen-Nord/Trachenberge']]","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 310 €,Wohnfläche ca. 49 m²,Zi. 2,31,14
+10,selObject_45022005,NEU **hübsche 3 Raum Wohnung auf dem Land **,"[['Etagenwohnung', '•', 'Borna', 'Zedtlitz']]","['NEU', 'NEU']","Miete zzgl. NK 325,50 €",Wohnfläche ca. 59 m²,Zi. 3,31,14
+11,selObject_45021963,NEU Lieblingswohnen im Lieblingswohngebiet,"[['Erdgeschosswohnung', '•', 'Chemnitz', 'Bernsdorf']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 255 €,Wohnfläche ca. 47 m²,Zi. 2,31,14
+12,selObject_45021902,NEU Lebensqualität in Klingenberg - 2-Raum-Wohnung mit...,"[['Etagenwohnung', '•', 'Klingenberg', 'Klingenberg']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 353,59 €",Wohnfläche ca. 49 m²,Zi. 2,31,14
+13,selObject_45021675,NEU ZENTRUM ** 2-Zimmer-Wohnung mit offener Küche und Balk...,"[['Etagenwohnung', '•', 'Chemnitz', 'Zentrum']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 205 €,Wohnfläche ca. 37 m²,Zi. 2,31,14
+14,selObject_45021555,NEU schöne 2-Zi.Wohnung mit Balkon in Leipzig-Wahren (ETW...,"[['Wohnung', '•', 'Leipzig', 'Wahren']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 393 €,Wohnfläche ca. 49 m²,Zi. 2,31,14
+15,selObject_45021497,NEU WG gerechte Wohnung mit Abstellraum und Balkon! Wir...,"[['Etagenwohnung', '•', 'Dresden', 'Leuben']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 369 €,Wohnfläche ca. 66 m²,Zi. 2,31,14
+16,selObject_45021479,"NEU Familienfreundliche 4 ZimmerWohnung, mit Balkon!","[['Etagenwohnung', '•', 'Dresden', 'Leuben']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 487,13 €",Wohnfläche ca. 65 m²,Zi. 4,31,14
+17,selObject_45021478,"NEU Stopp: Studenten,- Azubi-, Schülerwohnung!","[['Etagenwohnung', '•', 'Dresden', 'Pirnaische', 'Vorstadt']]","['NEU', 'NEU']",Miete zzgl. NK 272 €,Wohnfläche ca. 31 m²,Zi. 2,31,14
+18,selObject_45021476,NEU Schöner Wohnen in dieser 4-Zimmer-Wohnung,"[['Etagenwohnung', '•', 'Dresden', 'Leuben']]","['NEU', 'NEU']",Miete zzgl. NK 464 €,Wohnfläche ca. 71 m²,Zi. 4,31,14
+19,selObject_45021451,NEU Eine geräumige 2 Raumwohnung im Stadtzentrum - in unmi...,"[['Etagenwohnung', '•', 'Dresden', 'Striesen-Süd']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 375 €,Wohnfläche ca. 54 m²,Zi. 2,31,14
+20,selObject_45021444,NEU 3 Raumwohnung im Herzen von Gruna,"[['Erdgeschosswohnung', '•', 'Dresden', 'Gruna']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 460 €,Wohnfläche ca. 62 m²,Zi. 3,31,14
+21,selObject_45021422,NEU 2 Zimmer mit Balkon -Interesse? Katrin.schreier@vonov...,"[['Erdgeschosswohnung', '•', 'Dresden', 'Leuben']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 351 €,Wohnfläche ca. 49 m²,Zi. 2,31,14
+22,selObject_45021409,NEU Praktische 2-Zimmer-Wohnung mit Balkon in Johannstadt,"[['Etagenwohnung', '•', 'Dresden', 'Johannstadt-Süd']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 355 €,Wohnfläche ca. 56 m²,Zi. 2,31,14
+23,selObject_45021398,NEU Gemütliche 2 Zimmerwohnung mit Balkon - Anschauen -...,"[['Erdgeschosswohnung', '•', 'Dresden', 'Leuben']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 351 €,Wohnfläche ca. 49 m²,Zi. 2,31,14
+24,selObject_45021332,NEU Wir sanieren für sie eine barrierearme 2 Zimmerwohnung...,"[['Etagenwohnung', '•', 'Dresden', 'Leuben']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 367 €,Wohnfläche ca. 56 m²,Zi. 2,31,14
+25,selObject_45021318,NEU schöne 2-Zi.Wohnung mit Balkon in Leipzig-Wahren (ETW...,"[['Wohnung', '•', 'Leipzig', 'Wahren']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 393 €,Wohnfläche ca. 49 m²,Zi. 2,31,14
+26,selObject_45021302,NEU 4 Raum-Wohnung im Hochparterre,"[['Erdgeschosswohnung', '•', 'Dresden', 'Gorbitz-Süd']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 456 €,Wohnfläche ca. 75 m²,Zi. 4,31,14

@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44956962,schicke helle 3- Zimmer Wohnung mit Balkon,"['Kein', 'Bild']",['Balkon'],Miete zzgl. NK 310 €,Wohnfläche ca. 69 m²,Zi. 3,16,16
-1,selObject_44956895,Loftwohnung im Zentrum |Aufzug|Stellplatz|Einrichtungs...,"['Etagenwohnung', '•', 'Nordhausen', 'Nordhausen']",['EBK'],Miete zzgl. NK 360 €,Wohnfläche ca. 68 m²,Zi. 3,16,16
-2,selObject_44956866,2-Zimmer-Wohnung im 2. Obergeschoss mit 70 m² Wfl.,"['Wohnung', '•', 'Schleusingen', 'Schleusingen']","['Balkon', 'EBK']",Miete zzgl. NK 650 €,Wohnfläche ca. 70 m²,Zi. 2,16,16
-3,selObject_44956844,==3.Zimmerwohung mit Westbalkon und NEUER Einbauküche=...,"['Erdgeschosswohnung', '•', 'Gera', 'Debschwitz']","['Balkon', 'EBK']",Miete zzgl. NK 350 €,Wohnfläche ca. 56 m²,Zi. 3,16,16
-4,selObject_44956840,NEU!!! 1 RWHG- MIT BALKON / WE- LEGEFELD,"['Etagenwohnung', '•', 'Weimar', 'Legefeld']",['Balkon'],Miete zzgl. NK 275 €,Wohnfläche ca. 32 m²,Zi. 1,16,16
-5,selObject_44956765,1-Raum- Wohnung,"['Etagenwohnung', '•', 'Meiningen', 'Meiningen']",['Garten'],Miete zzgl. NK 250 €,Wohnfläche ca. 31 m²,Zi. 1,16,16
-6,selObject_44956583,Wohnung mit Aussicht! 3-Zimmer mit XL Balkon erwarten...,"['Wohnung', '•', 'Eisenach', 'Eisenach']",['Balkon'],Miete zzgl. NK 360 €,Wohnfläche ca. 60 m²,Zi. 3,16,16
-7,selObject_44956572,"Herrliche Altbauwohnung, Baudenkmal, Dachgeschoss mit...","['Etagenwohnung', '•', 'Saalfeld', 'Saalfeld']",['Balkon'],Miete zzgl. NK 795 €,Wohnfläche ca. 130 m²,Zi. 4,16,16
-8,selObject_44956293,"1-Raum-App. mit Küchenzeile, im Grünen und guter Busve...","['Erdgeschosswohnung', '•', 'Jena', 'Cospeda']",['EBK'],Miete zzgl. NK 290 €,Wohnfläche ca. 30 m²,Zi. 1,16,16
-9,selObject_44956033,3-Raumwohnung mit Balkon,"['Etagenwohnung', '•', 'Erfurt', 'Herrenberg']",['Balkon'],Miete zzgl. NK 350 €,Wohnfläche ca. 61 m²,Zi. 3,16,16
-10,selObject_44955818,Zentrumsnahe Dachgeschosswohnung in Erfurt zu vermiete...,"['Dachgeschosswohnung', '•', 'Erfurt', 'Daberstedt']",['EBK'],Miete zzgl. NK 608 €,Wohnfläche ca. 76 m²,Zi. 3,16,16
-11,selObject_44955797,Renovierte 3-Zimmer-Wohnung im 5. OG in Weimar Schöndo...,"['Wohnung', '•', 'Weimar', 'Schöndorf']",['Balkon'],"Miete zzgl. NK 389,18 €",Wohnfläche ca. 67 m²,Zi. 3,16,16
-12,selObject_44955727,Frisch renovierte 2-Zimmer-Dachgeschosswohnung mit...,"['Dachgeschosswohnung', '•', 'Erfurt', 'Andreasvorstadt']","['Balkon', 'EBK']",Miete zzgl. NK 690 €,Wohnfläche ca. 69 m²,Zi. 2,16,16
-13,selObject_44955507,4 Raum Maisonette Wohnung in Altenburg,"['Maisonette', '•', 'Altenburg', 'Altenburg']",['Balkon'],Miete zzgl. NK 642 €,Wohnfläche ca. 108 m²,Zi. 4,16,16
-14,selObject_44954835,Seniorenwohnen Max Steenbeck Straße 13 in Jena - Pfleg...,"['Apartment', '•', 'Jena', 'Winzerla']",['EBK'],Miete zzgl. NK 460 €,Wohnfläche ca. 56 m²,Zi. 2,16,16
-15,selObject_44954834,Seniorenwohnen Max Steenbeck Straße 9 in Jena - Pflege...,"['Erdgeschosswohnung', '•', 'Jena', 'Winzerla']",['Balkon'],Miete zzgl. NK 300 €,Wohnfläche ca. 35 m²,Zi. 1,16,16
-16,selObject_44954814,Seniorenwohnen Max Steenbeck Straße 13 in Jena - Pfleg...,"['Erdgeschosswohnung', '•', 'Jena', 'Winzerla']",[],Miete zzgl. NK 300 €,Wohnfläche ca. 35 m²,Zi. 1,16,16
-17,selObject_44954816,Seniorenwohnen Max Steenbeck Straße 9 in Jena - Pflege...,"['Erdgeschosswohnung', '•', 'Jena', 'Winzerla']",['Balkon'],Miete zzgl. NK 300 €,Wohnfläche ca. 35 m²,Zi. 1,16,16
-18,selObject_44954716,Seniorenwohnen Max Steenbeck Straße 7 in Jena - Pflege...,"['Erdgeschosswohnung', '•', 'Jena', 'Winzerla']",['Balkon'],Miete zzgl. NK 300 €,Wohnfläche ca. 35 m²,Zi. 1,16,16
-19,selObject_44954566,3 Zimmerwohnung im Erdgeschoss ohne Balkon,"['Erdgeschosswohnung', '•', 'Gera', 'Innenstadt']",[],Miete zzgl. NK 350 €,Wohnfläche ca. 65 m²,Zi. 3,16,16
-20,selObject_44954563,3 Zi. Neubau mit Balkon und Tiefgaragenstellplatz in...,"['Erdgeschosswohnung', '•', 'Jena', 'Wenigenjena']",[],Miete zzgl. NK 1.160 €,Wohnfläche ca. 82 m²,Zi. 3,16,16
-21,selObject_44954562,2 Zimmerwohnung im Obergeschoss,"['Wohnung', '•', 'Gera', 'Innenstadt']",[],Miete zzgl. NK 250 €,Wohnfläche ca. 50 m²,Zi. 2,16,16
-22,selObject_44954560,2 Zi. Wohnung ohne Balkon Daberstedt,"['Wohnung', '•', 'Erfurt', 'Daberstedt']",[],Miete zzgl. NK 380 €,Wohnfläche ca. 55 m²,Zi. 2,16,16
-23,selObject_44954498,3 Zi. Neubau mit Balkon und Tiefgaragenstellplatz in...,"['Wohnung', '•', 'Jena', 'Wenigenjena']",['Balkon'],Miete zzgl. NK 1.130 €,Wohnfläche ca. 81 m²,Zi. 3,16,16
-24,selObject_44954496,3 Zi. Neubau mit Balkon und Tiefgaragenstellplatz in...,"['Wohnung', '•', 'Jena', 'Wenigenjena']",['Balkon'],Miete zzgl. NK 1.130 €,Wohnfläche ca. 81 m²,Zi. 3,16,16
-25,selObject_44954495,3 Zi. Neubau mit Balkon und Tiefgaragenstellplatz in...,"['Erdgeschosswohnung', '•', 'Jena', 'Wenigenjena']",['Balkon'],Miete zzgl. NK 1.160 €,Wohnfläche ca. 83 m²,Zi. 3,16,16
-26,selObject_44954414,3-Raumwohnung in 98596 Brotterode,"['Wohnung', '•', 'Brotterode-Trusetal', 'Brotterode']",[],Miete zzgl. NK 350 €,Wohnfläche ca. 90 m²,Zi. 3,16,16
+0,selObject_44985910,Studenten und Azubis aufgepasst!,"[['Etagenwohnung', '•', 'Weimar', 'Schöndorf']]",['Balkon'],Miete zzgl. NK 200 €,Wohnfläche ca. 37 m²,Zi. 1,16,16
+1,selObject_44985674,Helle 1-Raum-Wohnung in ruhiger Lage im Hinterhaus mit...,"[['Etagenwohnung', '•', 'Erfurt', 'Andreasvorstadt']]",['EBK'],Miete zzgl. NK 259 €,Wohnfläche ca. 37 m²,Zi. 1,16,16
+2,selObject_44985654,Gemütliche Wohnung wird saniert!,"[['Etagenwohnung', '•', 'Blankenhain', 'Blankenhain']]",['Balkon'],Miete zzgl. NK 240 €,Wohnfläche ca. 47 m²,Zi. 2,16,16
+3,selObject_44985520,Exklusives Wohnen im Herzen von Schmölln,"[['Erdgeschosswohnung', '•', 'Schmölln', 'Schmölln']]",['Garten'],Miete zzgl. NK 845 €,Wohnfläche ca. 130 m²,Zi. 4,16,16
+4,selObject_44985084,Nachmieter für attraktive 3-Raum-Wohnung voll möbliert...,"[['Wohnung', '•', 'Gotha', 'Gotha']]","['Balkon', 'EBK']","Miete zzgl. NK 319,79 €",Wohnfläche ca. 60 m²,Zi. 3,16,16
+5,selObject_44985047,vermiete 2 Raum Wohnung mit Balkon,"[['Kein', 'Bild'], ['Wohnung', '•', 'Altenburg', 'Altenburg']]",['Balkon'],Miete zzgl. NK 310 €,Wohnfläche ca. 58 m²,Zi. 2,16,16
+6,selObject_44984023,Sanierte 4 Raumwohnung im Erdgeschoss!,"[['Erdgeschosswohnung', '•', 'Erfurt', 'Roter', 'Berg']]",['Balkon'],"Miete zzgl. NK 537,65 €",Wohnfläche ca. 74 m²,Zi. 4,16,16
+7,selObject_44983937,3 Raumwohnung am Zoopark!,"[['Etagenwohnung', '•', 'Erfurt', 'Roter', 'Berg']]",['Balkon'],"Miete zzgl. NK 432,75 €",Wohnfläche ca. 61 m²,Zi. 3,16,16
+8,selObject_44983913,Großzügige 4-RW mit Balkon! Nachmieter gesucht!,"[['Etagenwohnung', '•', 'Jena', 'Lobeda']]",['Balkon'],"Miete zzgl. NK 557,78 €",Wohnfläche ca. 73 m²,Zi. 4,16,16
+9,selObject_44983904,Sanierte 3 Raumwohnung nähe Thüringen Park!,"[['Etagenwohnung', '•', 'Erfurt', 'Moskauer', 'Platz']]",['Balkon'],"Miete zzgl. NK 464,28 €",Wohnfläche ca. 61 m²,Zi. 3,16,16
+10,selObject_44983894,Bezugsfertige 2 Raumwohnung in der Tiergartensiedlung!,"[['Etagenwohnung', '•', 'Erfurt', 'Ilversgehofen']]",[],"Miete zzgl. NK 346,94 €",Wohnfläche ca. 45 m²,Zi. 2,16,16
+11,selObject_44983854,Sanierte 2 Raumwohnung im Erdgeschoss mit Dusche!,"[['Erdgeschosswohnung', '•', 'Erfurt', 'Ilversgehofen']]",[],"Miete zzgl. NK 410,59 €",Wohnfläche ca. 45 m²,Zi. 2,16,16
+12,selObject_44983839,Bezugsfertige 3 Raumwohnung am Stadtrand!,"[['Etagenwohnung', '•', 'Weimar', 'Parkvorstadt']]",['Balkon'],Miete zzgl. NK 490 €,Wohnfläche ca. 59 m²,Zi. 3,16,16
+13,selObject_44981804,"2,5-Zimmer-Wohnung zu vermieten","[['Kein', 'Bild'], ['Wohnung', '•', 'Bad', 'Sulza', 'Bad', 'Sulza']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 438 €,Wohnfläche ca. 73 m²,"Zi. 2,5",16,16
+14,selObject_44981389,"!!!!!!!! Frisch renovierte 2,5 Raum Wohnung mit...","[['Wohnung', '•', 'Windischleuba', 'Windischleuba']]",[],Miete zzgl. NK 300 €,Wohnfläche ca. 58 m²,"Zi. 2,5",16,16
+15,selObject_44980517,2-Raum DG-Wohnung mit Einbauküche in Erfurt-Süd ( Löbe...,"[['Dachgeschosswohnung', '•', 'Erfurt', 'Löbervorstadt']]",['EBK'],Miete zzgl. NK 695 €,Wohnfläche ca. 81 m²,Zi. 2,16,16
+16,selObject_44980404,5-Zimmer-Wohnung in einer Villa im Südviertel,"[['Maisonette', '•', 'Ilmenau', 'Ilmenau']]",['Garten'],Miete zzgl. NK 1.092 €,Wohnfläche ca. 140 m²,Zi. 5,16,16
+17,selObject_44979851,"Einziehen, wohlfühlen! Vollmöblierte Studio-Wohnung in...","[['Dachgeschosswohnung', '•', 'Gera', 'Innenstadt']]",['EBK'],Miete zzgl. NK 689 €,Wohnfläche ca. 85 m²,Zi. 2,16,16
+18,selObject_44979700,"3,5-Zimmer-Wohnung sucht netten Mieter","[['Wohnung', '•', 'Rudolstadt', 'Zentrum']]","['Garten', 'EBK']",Miete zzgl. NK 570 €,Wohnfläche ca. 95 m²,"Zi. 3,5",16,16
+19,selObject_44979165,SCHÖNE 3RW+++ Balkon+++Stellplatz+++TOP Lage - EF-Brüh...,"[['Etagenwohnung', '•', 'Erfurt', 'Brühlervorstadt']]",['Balkon'],Miete zzgl. NK 930 €,Wohnfläche ca. 93 m²,Zi. 3,16,16
+20,selObject_44979092,Hübsche kleine Wohnung unterhalb der Wassertreppe,"[['Wohnung', '•', 'Nordhausen', 'Nordhausen']]",[],Miete zzgl. NK 335 €,Wohnfläche ca. 56 m²,Zi. 2,16,16
+21,selObject_44978918,"hell, freundlich und ganz oben!","[['Dachgeschosswohnung', '•', 'Meiningen', 'Meiningen']]",[],Miete zzgl. NK 350 €,Wohnfläche ca. 55 m²,Zi. 1,16,16
+22,selObject_44978916,Wohnen in der Innenstadt,"[['Dachgeschosswohnung', '•', 'Meiningen', 'Meiningen']]",['EBK'],Miete zzgl. NK 345 €,Wohnfläche ca. 55 m²,Zi. 2,16,16
+23,selObject_44978912,Blick vom Balkon !,"[['Etagenwohnung', '•', 'Meiningen', 'Dreißigacker']]",['Garten'],Miete zzgl. NK 360 €,Wohnfläche ca. 60 m²,Zi. 2,16,16
+24,selObject_44978679,Modernes Wohnen unweit der Erfurter Innenstadt |Terras...,"[['Etagenwohnung', '•', 'Erfurt', 'Ilversgehofen']]","['Balkon', 'EBK']",Miete zzgl. NK 555 €,Wohnfläche ca. 62 m²,Zi. 3,16,16
+25,selObject_44978634,*Studentenwohnung* Altbauwohnung in der Trierer Straße...,"[['Wohnung', '•', 'Weimar', 'Westvorstadt']]",[],Miete zzgl. NK 190 €,Wohnfläche ca. 21 m²,Zi. 1,16,16
+26,selObject_44978508,sucht Mitbewohner !,"[['Zimmer', '•', 'Gera', 'Ostviertel']]",['EBK'],"Miete zzgl. NK 124,74 €",Wohnfläche ca. 18 m²,,16,16

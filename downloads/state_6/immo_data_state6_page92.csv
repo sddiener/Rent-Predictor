@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44227539,Hermann Immobilien: Gemütliche 3-Zimmer-Eigentumswohn...,"['Wohnung', '•', 'Offenbach', 'am', 'Main', 'Offenbach', 'am', 'Main']","['Balkon', 'EBK']",Miete zzgl. NK 1.290 €,Wohnfläche ca. 94 m²,Zi. 3,92,6
-1,selObject_44227538,Hermann Immobilien: Hochwertige Ausstattung mit gemüt...,"['Wohnung', '•', 'Offenbach', 'am', 'Main', 'Offenbach', 'am', 'Main']",['EBK'],Miete zzgl. NK 1.350 €,Wohnfläche ca. 96 m²,Zi. 4,92,6
-2,selObject_44227535,Hermann Immobilien: Sehr schöne 3-Zimmerwohnung mit...,"['Wohnung', '•', 'Offenbach', 'am', 'Main', 'Offenbach', 'am', 'Main']",['EBK'],Miete zzgl. NK 1.290 €,Wohnfläche ca. 92 m²,Zi. 3,92,6
-3,selObject_44227537,Hermann Immobilien: Penthouse - Hoch hinaus!,"['Wohnung', '•', 'Offenbach', 'am', 'Main', 'Offenbach', 'am', 'Main']",['EBK'],Miete zzgl. NK 1.550 €,Wohnfläche ca. 113 m²,Zi. 4,92,6
-4,selObject_44227533,Hermann Immobilien: Neubau-Erstbezug! 3-Zimmerwohnung...,"['Wohnung', '•', 'Offenbach', 'am', 'Main', 'Offenbach', 'am', 'Main']","['Balkon', 'EBK']",Miete zzgl. NK 1.150 €,Wohnfläche ca. 79 m²,Zi. 3,92,6
-5,selObject_44227531,Hermann Immobilien: Hochwertig ausgestattete 4-Zimmer...,"['Wohnung', '•', 'Offenbach', 'am', 'Main', 'Offenbach', 'am', 'Main']",['EBK'],Miete zzgl. NK 1.350 €,Wohnfläche ca. 96 m²,Zi. 4,92,6
-6,selObject_44227430,Hermann Immobilien: Penthouse - Viel Platz und riesig...,"['Wohnung', '•', 'Offenbach', 'am', 'Main', 'Offenbach', 'am', 'Main']",['EBK'],Miete zzgl. NK 1.590 €,Wohnfläche ca. 116 m²,Zi. 4,92,6
-7,selObject_44227321,Hermann Immobilien: Einziehen & Wohlfühlen,"['Wohnung', '•', 'Offenbach', 'am', 'Main', 'Offenbach', 'am', 'Main']",['EBK'],Miete zzgl. NK 1.520 €,Wohnfläche ca. 110 m²,Zi. 4,92,6
-8,selObject_44227279,Lichtdurchflutet // großzügig & charmant // herrschaft...,"['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Sachsenhausen']","['Balkon', 'EBK']",Miete zzgl. NK 2.550 €,Wohnfläche ca. 158 m²,Zi. 4,92,6
-9,selObject_44227223,"Die ""etwas andere"" 4-Zimmerwohnung in Wiesbaden-Nordos...","['Dachgeschosswohnung', '•', 'Wiesbaden', 'Wiesbaden']",[],Miete zzgl. NK 1.350 €,Wohnfläche ca. 120 m²,Zi. 4,92,6
-10,selObject_44226890,Schöne 2 Zimmer in Lahntal-Goßfelden,"['Wohnung', '•', 'Lahntal', 'Goßfelden']",['Garten'],Miete zzgl. NK 500 €,Wohnfläche ca. 70 m²,Zi. 2,92,6
-11,selObject_44226624,Uni nah und WG geeignet!,"['Etagenwohnung', '•', 'Kassel', 'Nord-Holland']",['EBK'],Miete zzgl. NK 616 €,Wohnfläche ca. 77 m²,Zi. 3,92,6
-12,selObject_44226570,"3-Zimmer-Wohnung, Uni nah und 2erWG geeignet!","['Etagenwohnung', '•', 'Kassel', 'Nord-Holland']",['EBK'],Miete zzgl. NK 580 €,Wohnfläche ca. 72 m²,Zi. 3,92,6
-13,selObject_44226275,Wiesbaden-Mitte: Maisonette-DG-Wohnung mit Loftcharakt...,"['Wohnung', '•', 'Wiesbaden', 'Wiesbaden']",['Balkon'],Miete zzgl. NK 1.696 €,Wohnfläche ca. 154 m²,Zi. 3,92,6
-14,selObject_44225319,Blick auf Selterweg: 1 Zimmer-Wohnung in bester Innens...,"['Wohnung', '•', 'Gießen', 'Gießen']",[],Miete zzgl. NK 405 €,Wohnfläche ca. 27 m²,Zi. 1,92,6
-15,selObject_44224595,"Gepflegtes, möbliertes 1 Zimmer Single Apartment mit...","['Etagenwohnung', '•', 'Kassel', 'Nord-Holland']",['EBK'],Miete zzgl. NK 320 €,Wohnfläche ca. 35 m²,Zi. 1,92,6
-16,selObject_44223640,2 Zimmer in Wiesbaden,"['Dachgeschosswohnung', '•', 'Wiesbaden', 'Bierstadt']",['EBK'],Miete zzgl. NK 460 €,Wohnfläche ca. 52 m²,Zi. 2,92,6
-17,selObject_44223100,Hoch hinaus zum kleinen Preis: interessante 2-Zimmer-W...,"['Dachgeschosswohnung', '•', 'Kassel', 'Kirchditmold']",['Balkon'],"Miete zzgl. NK 358,90 €",Wohnfläche ca. 36 m²,Zi. 2,92,6
-18,selObject_44218536,Nur WG !!Nur WG !!Nur WG !!Nur WG !!Nur WG !!Nur WG...,"['Wohnung', '•', 'Kassel', 'Niederzwehren']","['Garten', 'EBK']",Miete zzgl. NK 630 €,Wohnfläche ca. 95 m²,Zi. 5,92,6
-19,selObject_44217856,1-Zimmer-Büro mit Wohnmöglichkeit an der Frankfurter...,"['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Innenstadt']","['Balkon', 'EBK']",Miete zzgl. NK 800 €,Wohnfläche ca. 32 m²,Zi. 1,92,6
-20,selObject_44217782,Sehr helle und ruhige Wohnung Nähe Leipziger Straße...,"['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Bockenheim']",[],Miete zzgl. NK 1.390 €,Wohnfläche ca. 54 m²,Zi. 2,92,6
-21,selObject_44217158,Schöne 2 Zimmer-Wohnung mit offener Küche in guter...,"['Wohnung', '•', 'Gießen', 'Wieseck']",['EBK'],Miete zzgl. NK 440 €,Wohnfläche ca. 46 m²,Zi. 2,92,6
-22,selObject_44217154,"Ideal für Studierende: 1 Zimmer-Wohnung in Uninähe,...","['Wohnung', '•', 'Gießen', 'Gießen']",['Balkon'],Miete zzgl. NK 380 €,Wohnfläche ca. 34 m²,Zi. 1,92,6
-23,selObject_44217136,TRAUMHAFTES WOHNEN AM NEROBERG! TOLLE 5-ZI-WHG MIT...,"['Wohnung', '•', 'Wiesbaden', 'Wiesbaden']","['Balkon', 'EBK']",Miete zzgl. NK 2.150 €,Wohnfläche ca. 139 m²,Zi. 5,92,6
-24,selObject_44216136,"Obertshausen/Hausen, 3- Zimmerwohnung mit Einbauküche...","['Etagenwohnung', '•', 'Obertshausen', 'Hausen']",['EBK'],Miete zzgl. NK 750 €,Wohnfläche ca. 87 m²,Zi. 3,92,6
-25,selObject_44215955,"+++Helle sehr großzügige EG-Whg., Terrasse, Stellplatz...","['Erdgeschosswohnung', '•', 'Wöllstadt', 'Ober-Wöllstadt']","['Garten', 'EBK']",Miete zzgl. NK 890 €,Wohnfläche ca. 114 m²,Zi. 3,92,6
-26,selObject_44215615,3 ZIMMER AN SELBSTRENOVIERER ZU VERMIETEN,"['Etagenwohnung', '•', 'Homberg', 'Homberg']",['Balkon'],Miete zzgl. NK 350 €,Wohnfläche ca. 67 m²,Zi. 3,92,6
+0,selObject_44293105,for ECB staff - beautifully furnished apartment opposi...,"[['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Ostend']]",[],Miete zzgl. NK 1.299 €,Wohnfläche ca. 50 m²,Zi. 2,92,6
+1,selObject_44292580,möblierte Wohnung in bester Frankfurter Lage,"[['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Ostend']]",['EBK'],Miete zzgl. NK 1.299 €,Wohnfläche ca. 50 m²,Zi. 2,92,6
+2,selObject_44292332,wunderschön möbiliertes nagelneues Appartement vis-avi...,"[['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Ostend']]",[],Miete zzgl. NK 1.299 €,Wohnfläche ca. 50 m²,Zi. 2,92,6
+3,selObject_44292327,for ECB staff - beautifully furnished apartment opposi...,"[['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Ostend']]",[],Miete zzgl. NK 1.299 €,Wohnfläche ca. 50 m²,Zi. 2,92,6
+4,selObject_44292173,Sofort einziehen- Keine Kaution. 1 Zimmer Apartment...,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Rödelheim']]",[],Miete zzgl. NK 850 €,Wohnfläche ca. 23 m²,Zi. 1,92,6
+5,selObject_44292172,Direkt gegenüber neuer EZB - vollmöbilierte kernsanier...,"[['Dachgeschosswohnung', '•', 'Frankfurt', 'am', 'Main', 'Ostend']]",['EBK'],Miete zzgl. NK 1.599 €,Wohnfläche ca. 63 m²,Zi. 3,92,6
+6,selObject_44292170,Nur 999 €/Monat - flexible Kündigungsfristen - 2 Zimm...,"[['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Rödelheim']]",[],Miete zzgl. NK 999 €,Wohnfläche ca. 40 m²,Zi. 2,92,6
+7,selObject_44292107,Sofort einziehen- Keine Kaution. 1 Zimmer Apartment...,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Rödelheim']]",[],Miete zzgl. NK 999 €,Wohnfläche ca. 23 m²,Zi. 1,92,6
+8,selObject_44292094,"vollmöb. 2-Zi.-Businessappartements, spektakulärer...","[['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Ostend']]",[],Miete zzgl. NK 1.299 €,Wohnfläche ca. 50 m²,Zi. 2,92,6
+9,selObject_44291985,Moderne 2-Zimmer-Wohnung im Europaviertel mit Tiefgara...,"[['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Gallus']]",['Balkon'],Miete zzgl. NK 1.990 €,Wohnfläche ca. 65 m²,Zi. 2,92,6
+10,selObject_44291127,Klein fein kernsaniert ideal für 1 Person,"[['Kein', 'Bild'], ['Erdgeschosswohnung', '•', 'Pohlheim', 'Watzenborn-Steinberg']]",[],Miete zzgl. NK 590 €,Wohnfläche ca. 73 m²,Zi. 2,92,6
+11,selObject_44283323,Perfektes Zuhause! Maisonette mit Dachbalkon! 2-ZW-Kön...,"[['Maisonette', '•', 'Königstein', 'Königstein']]","['Balkon', 'EBK']",Miete zzgl. NK 850 €,Wohnfläche ca. 77 m²,Zi. 2,92,6
+12,selObject_44282922,Wohnung im französischen Stil in Sachsenhausen (5.0...,"[['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Sachsenhausen']]",['Balkon'],Miete zzgl. NK 1.550 €,Wohnfläche ca. 63 m²,Zi. 2,92,6
+13,selObject_44282914,Gut möbliertes Apartment in ruhiger Lage von Sachsenha...,"[['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Sachsenhausen']]",[],Miete zzgl. NK 860 €,Wohnfläche ca. 35 m²,Zi. 1,92,6
+14,selObject_44281135,Sachsenhausen: Gut geschnittene 3-Zimmerwohnung mit...,"[['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Sachsenhausen']]",['EBK'],Miete zzgl. NK 1.500 €,Wohnfläche ca. 86 m²,Zi. 3,92,6
+15,selObject_44280688,Mit Balkon: 2 Zimmer-Apartment in zentraler Lage von...,"[['Wohnung', '•', 'Gießen', 'Gießen']]",['Balkon'],Miete zzgl. NK 550 €,Wohnfläche ca. 57 m²,Zi. 2,92,6
+16,selObject_44279634,Lichtdurchflutetes Loft-Apartment ab sofort zu vermiet...,"[['Loft-Studio-Atelier', '•', 'Offenbach', 'am', 'Main', 'Bieber']]",[],Miete zzgl. NK 1.773 €,Wohnfläche ca. 127 m²,"Zi. 3,5",92,6
+17,selObject_44279391,Neu renovierte 4-Zi-Wohnung im Rheingauviertel,"[['Etagenwohnung', '•', 'Wiesbaden', 'Wiesbaden']]","['Balkon', 'EBK']",Miete zzgl. NK 960 €,Wohnfläche ca. 84 m²,Zi. 4,92,6
+18,selObject_44279380,Ars Vivendi Immobilien: Für den gehobenen Geschmack...,"[['Wohnung', '•', 'Hanau', 'Hanau']]",['EBK'],Miete zzgl. NK 1.200 €,Wohnfläche ca. 83 m²,Zi. 3,92,6
+19,selObject_44278970,4-Zimmer-Wohnung in der Altstadt von Korbach,"[['Wohnung', '•', 'Korbach', 'Korbach']]",[],Miete zzgl. NK 650 €,Wohnfläche ca. 115 m²,Zi. 4,92,6
+20,selObject_44278694,ERSTBEZUG: Zentral gelegene 3 ZKB-Whg mit gehobener...,"[['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Gallus']]",[],Miete zzgl. NK 1.340 €,Wohnfläche ca. 71 m²,Zi. 3,92,6
+21,selObject_44278500,"ERSTBEZUG: Gehobene 1,5 Zimmer-Wohnung mit traumhaften...","[['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Gallus']]",['EBK'],Miete zzgl. NK 900 €,Wohnfläche ca. 38 m²,Zi. 1,92,6
+22,selObject_44278043,ERSTBEZUG: Herrliche 2 ZKB-Whg mit gehobener Ausstattu...,"[['Erdgeschosswohnung', '•', 'Frankfurt', 'am', 'Main', 'Gallus']]",[],Miete zzgl. NK 1.200 €,Wohnfläche ca. 66 m²,Zi. 2,92,6
+23,selObject_44277962,"Schickes, helles Apartment in Fulda Innenstadt - Nähe...","[['Apartment', '•', 'Fulda', 'Innenstadt']]",['EBK'],Miete zzgl. NK 320 €,Wohnfläche ca. 27 m²,Zi. 1,92,6
+24,selObject_44276837,DIETZ: Helle 2 Zimmerwohnung mit opt. Einbauküche -...,"[['Erdgeschosswohnung', '•', 'Babenhausen', 'Babenhausen']]",['EBK'],Miete zzgl. NK 520 €,Wohnfläche ca. 52 m²,Zi. 2,92,6
+25,selObject_44264222,"Schöne Loftwohnung mit 132 m² Wfl., 3 Zi., EBK, 2 x...","[['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Altstadt']]",['EBK'],Miete zzgl. NK 2.190 €,Wohnfläche ca. 132 m²,Zi. 3,92,6
+26,selObject_44258574,Schöne 2-Zimmer-Wohnung mit sehr guter U-Bahn-Anbindun...,"[['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Eschersheim']]",[],Miete zzgl. NK 1.250 €,Wohnfläche ca. 60 m²,Zi. 2,92,6

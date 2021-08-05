@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44928099,Im Grünen wohnen - 2-Zimmer-Wohnung in den Sehnder...,"['Wohnung', '•', 'Sehnde', 'Sehnde']",['EBK'],Miete zzgl. NK 662 €,Wohnfläche ca. 64 m²,Zi. 2,35,3
-1,selObject_44928026,Seniorengerechte 3-Zimmer-Erdgeschosswohnung mit Terra...,"['Kein', 'Bild']","['Garten', 'EBK']",Miete zzgl. NK 1.050 €,Wohnfläche ca. 98 m²,Zi. 3,35,3
-2,selObject_44928025,Kleines Raumwunder! Gemütliche Dachgeschosswohnung mit...,"['Dachgeschosswohnung', '•', 'Weyhe', 'Hagen']","['Balkon', 'EBK']",Miete zzgl. NK 610 €,Wohnfläche ca. 65 m²,Zi. 3,35,3
-3,selObject_44927870,Wohnen ab 60 Jahren!,"['Etagenwohnung', '•', 'Hannover', 'Vahrenheide']",['Balkon'],"Miete zzgl. NK 190,26 €",Wohnfläche ca. 35 m²,Zi. 1,35,3
-4,selObject_44927841,Hemmoor: freundliche 2-Zi-Whg mit Balkon,"['Dachgeschosswohnung', '•', 'Hemmoor', 'Warstade']","['Balkon', 'EBK']",Miete zzgl. NK 310 €,Wohnfläche ca. 50 m²,Zi. 2,35,3
-5,selObject_44927826,Neu renovierte 3-Zi.-Wohnung mit Badewanne in der Inne...,"['Erdgeschosswohnung', '•', 'Bad', 'Gandersheim', 'Bad', 'Gandersheim']",[],Miete zzgl. NK 349 €,Wohnfläche ca. 75 m²,Zi. 3,35,3
-6,selObject_44927822,** Interessanter Grundriss - Zentrale Lage**,"['Etagenwohnung', '•', 'Buxtehude', 'Buxtehude']",['EBK'],Miete zzgl. NK 865 €,Wohnfläche ca. 82 m²,Zi. 3,35,3
-7,selObject_44927803,Einziehen und wohlfühlen! 3-Zimmer-Wohnung mit EBK zu...,"['Wohnung', '•', 'Winsen', 'Winsen']","['Balkon', 'EBK']",Miete zzgl. NK 650 €,Wohnfläche ca. 75 m²,Zi. 3,35,3
-8,selObject_44927787,Neubau: 2 Zimmer in der Natur,"['Erdgeschosswohnung', '•', 'Hannover', 'Bemerode']",['Balkon'],"Miete zzgl. NK 512,48 €",Wohnfläche ca. 51 m²,Zi. 2,35,3
-9,selObject_44927778,Individuelle 3-Zimmer-Wohnung mit ausgebautem Dachgesc...,"['Etagenwohnung', '•', 'Lüneburg', 'Rotes', 'Feld']",['EBK'],Miete zzgl. NK 1.450 €,Wohnfläche ca. 124 m²,"Zi. 3,5",35,3
-10,selObject_44927734,"Beispiel: 2 Zimmer, rollstuhlgerecht","['Apartment', '•', 'Hannover', 'Bemerode']",['Balkon'],"Miete zzgl. NK 594,31 €",Wohnfläche ca. 60 m²,Zi. 2,35,3
-11,selObject_44927602,Neubau Bungalow KfW55 4 Zimmer ca. 115 qm & Garage zu...,"['Wohnung', '•', 'Eystrup', 'Eystrup']",[],Miete zzgl. NK 950 €,Wohnfläche ca. 115 m²,Zi. 4,35,3
-12,selObject_44927584,Neubau: 4 Zimmer im Grünen,"['Wohnung', '•', 'Hannover', 'Bemerode']",['Balkon'],"Miete zzgl. NK 1.097,43 €",Wohnfläche ca. 106 m²,Zi. 4,35,3
-13,selObject_44927482,"Günstige, neu renovierte 3-Zimmer Wohnung mit Badewann...","['Wohnung', '•', 'Langelsheim', 'Langelsheim']",[],Miete zzgl. NK 300 €,Wohnfläche ca. 57 m²,Zi. 3,35,3
-14,selObject_44927437,"Tolle, WG geeignete 3-Zi.-Wohnung in Campusnähe mit...","['Etagenwohnung', '•', 'Clausthal-Zellerfeld', 'Clausthal-Zellerfeld']","['Garten', 'EBK']",Miete zzgl. NK 329 €,Wohnfläche ca. 76 m²,Zi. 3,35,3
-15,selObject_44927431,"4-Zimmer-Wohnung mit 115 m² Wfl. im 2. Obergeschoss,...","['Wohnung', '•', 'Braunschweig', 'Braunschweig']",['Balkon'],Miete zzgl. NK 987 €,Wohnfläche ca. 115 m²,Zi. 4,35,3
-16,selObject_44927260,"Helle, neu renovierte 3-Zimmer Wohnung mit Einbauküche...","['Etagenwohnung', '•', 'Clausthal-Zellerfeld', 'Clausthal-Zellerfeld']","['Balkon', 'EBK']",Miete zzgl. NK 395 €,Wohnfläche ca. 75 m²,Zi. 3,35,3
-17,selObject_44927227,Neu renovierte 2-Zimmer Wohnung in Campusnähe!,"['Wohnung', '•', 'Clausthal-Zellerfeld', 'Clausthal-Zellerfeld']",[],Miete zzgl. NK 250 €,Wohnfläche ca. 37 m²,Zi. 2,35,3
-18,selObject_44927191,"Stade/Trift, schöne 2,5-Zimmer-Wohnung, frisch renovie...","['Wohnung', '•', 'Stade', 'Stade']","['Balkon', 'EBK']",Miete zzgl. NK 580 €,Wohnfläche ca. 68 m²,"Zi. 2,5",35,3
-19,selObject_44927162,"Schöne 3 Zimmerwohnung im Dachgeschoss mit Balkon, Auf...","['Etagenwohnung', '•', 'Essen', 'Bevern']",[],Miete zzgl. NK 520 €,Wohnfläche ca. 80 m²,Zi. 3,35,3
-20,selObject_44927160,schöne 4-Zimmerwohnung in der Neustadt von Quakenbrück,"['Kein', 'Bild']",[],Miete zzgl. NK 660 €,Wohnfläche ca. 97 m²,Zi. 4,35,3
-21,selObject_44927156,ERSTBEZUG - Luxuriöse 2-Zimmer-TRAUMWOHNUNG mit Balkon...,"['Etagenwohnung', '•', 'Hannover', 'Döhren']","['Balkon', 'EBK']",Miete zzgl. NK 795 €,Wohnfläche ca. 57 m²,Zi. 2,35,3
-22,selObject_44927104,Apartment am Campus der TU-Clausthal mit WLAN ***Miete...,"['Apartment', '•', 'Clausthal-Zellerfeld', 'Clausthal-Zellerfeld']",['EBK'],Miete zzgl. NK 230 €,Wohnfläche ca. 17 m²,Zi. 1,35,3
-23,selObject_44927086,Paul empfiehlt: www.studentenwohnheim-clausthal-zeller...,"['Apartment', '•', 'Clausthal-Zellerfeld', 'Clausthal-Zellerfeld']",['EBK'],Miete zzgl. NK 230 €,Wohnfläche ca. 17 m²,Zi. 1,35,3
-24,selObject_44927083,Große renovierte 3 Zimmer Wohnung im Erdgeschoss ab...,"['Erdgeschosswohnung', '•', 'Salzgitter', 'Hallendorf']",['EBK'],Miete zzgl. NK 367 €,Wohnfläche ca. 70 m²,Zi. 3,35,3
-25,selObject_44927065,Paul empfiehlt: Studenten-Loft am Campus der TU Claust...,"['Loft-Studio-Atelier', '•', 'Clausthal-Zellerfeld', 'Clausthal-Zellerfeld']",['EBK'],Miete zzgl. NK 490 €,Wohnfläche ca. 106 m²,Zi. 2,35,3
-26,selObject_44927021,"Tolles, möbliertes Apartment mit EBK und Internet in...","['Etagenwohnung', '•', 'Clausthal-Zellerfeld', 'Clausthal-Zellerfeld']","['Garten', 'EBK']",Miete zzgl. NK 240 €,Wohnfläche ca. 25 m²,Zi. 1,35,3
+0,selObject_44961273,Gut geschnittene 3 Zimmerwohnung,"[['Kein', 'Bild'], ['Wohnung', '•', 'Garbsen', 'Havelse']]","['Balkon', 'Garten']",Miete zzgl. NK 450 €,Wohnfläche ca. 60 m²,Zi. 3,35,3
+1,selObject_44960886,Helle 4 Zimmer Wohnung in Aerzen,"[['Wohnung', '•', 'Aerzen', 'Aerzen']]","['Balkon', 'EBK']",Miete zzgl. NK 600 €,Wohnfläche ca. 95 m²,Zi. 4,35,3
+2,selObject_44960590,Gemütliche 2-Zimmer-Wohnung Balkon und Keller,"[['Erdgeschosswohnung', '•', 'Göttingen', 'Göttingen']]",['Garten'],Miete zzgl. NK 420 €,Wohnfläche ca. 42 m²,Zi. 2,35,3
+3,selObject_44960554,Gemütliche 2-Zimmer-WG-Wohnung mit 2 Balkonen und Kell...,"[['Erdgeschosswohnung', '•', 'Göttingen', 'Göttingen']]","['Garten', 'EBK']",Miete zzgl. NK 430 €,Wohnfläche ca. 44 m²,Zi. 2,35,3
+4,selObject_44960522,Süße 1-Zimmer-Wohnung mit Kellerverschlag,"[['Wohnung', '•', 'Göttingen', 'Göttingen']]",['Garten'],Miete zzgl. NK 250 €,Wohnfläche ca. 24 m²,Zi. 1,35,3
+5,selObject_44960054,2 Zimmer-Apartment in Lemförde,"[['Apartment', '•', 'Lemförde']]","['Balkon', 'EBK']",Miete zzgl. NK 350 €,Wohnfläche ca. 49 m²,Zi. 2,35,3
+6,selObject_44960038,2 Zimmer-Wohnung mit Balkon in der Südstadt von SZ-Bad,"[['Etagenwohnung', '•', 'Salzgitter', 'Bad']]",['Balkon'],Miete zzgl. NK 455 €,Wohnfläche ca. 69 m²,Zi. 3,35,3
+7,selObject_44959540,3-ZW mit Fahrstuhl Am Golfpark,"[['Etagenwohnung', '•', 'Fredenbeck', 'Fredenbeck']]","['Balkon', 'EBK']",Miete zzgl. NK 712 €,Wohnfläche ca. 75 m²,Zi. 3,35,3
+8,selObject_44958492,Helle geräumige 2-Zi-Wohnung in Scharnebeck - nur noch...,"[['Erdgeschosswohnung', '•', 'Scharnebeck', 'Scharnebeck']]",['EBK'],Miete zzgl. NK 870 €,Wohnfläche ca. 83 m²,Zi. 2,35,3
+9,selObject_44958281,1-Zimmer Wohnung in OS-Wüste!,"[['Etagenwohnung', '•', 'Osnabrück', 'Wüste']]",[],Miete zzgl. NK 430 €,Wohnfläche ca. 41 m²,Zi. 1,35,3
+10,selObject_44958251,Charmante 3-Zimmer-Wohnung mit Süd-Balkon! Frei zum...,"[['Etagenwohnung', '•', 'Brake', 'Kirchhammelwarden']]",[],Miete zzgl. NK 410 €,Wohnfläche ca. 70 m²,Zi. 3,35,3
+11,selObject_44958168,Brinkum! 4 Zimmer-Maisonette-Wohnung mit Süd-West Balk...,"[['Maisonette', '•', 'Stuhr', 'Brinkum']]",[],Miete zzgl. NK 690 €,Wohnfläche ca. 106 m²,Zi. 4,35,3
+12,selObject_44958145,Objekt Nr: 00/694 Betreutes Wohnen in Barßel - Erstbez...,"[['Dachgeschosswohnung', '•', 'Barßel', 'Barßel']]",[],Miete zzgl. NK 590 €,Wohnfläche ca. 72 m²,Zi. 3,35,3
+13,selObject_44957880,Single-Wohnung mitten in der Stadt,"[['Etagenwohnung', '•', 'Hildesheim', 'Mitte']]",[],Miete zzgl. NK 290 €,Wohnfläche ca. 33 m²,Zi. 1,35,3
+14,selObject_44957147,** ERSTBEZUG nach Sanierung - 3 Zimmer-Wohnung mit...,"[['Erdgeschosswohnung', '•', 'Buxtehude', 'Buxtehude']]","['Balkon', 'EBK']",Miete zzgl. NK 705 €,Wohnfläche ca. 61 m²,Zi. 3,35,3
+15,selObject_44957121,"Helle, moderne 3-Zimmer-Wohnung in 1A-Lage von Syke!","[['Dachgeschosswohnung', '•', 'Syke', 'Syke']]",['EBK'],Miete zzgl. NK 600 €,Wohnfläche ca. 87 m²,Zi. 3,35,3
+16,selObject_44957119,Erstbezug: 2-Zimmer Wohnung in bester Lage mit Balkon...,"[['Wohnung', '•', 'Hannover', 'Calenberger', 'Neustadt']]","['Balkon', 'EBK']",Miete zzgl. NK 790 €,Wohnfläche ca. 51 m²,Zi. 2,35,3
+17,selObject_44957065,6006 - Moderne 2-Zimmer-Wohnung mit Terrasse im Orchid...,"[['Erdgeschosswohnung', '•', 'Westerstede', 'Westerstede']]",['EBK'],Miete zzgl. NK 460 €,Wohnfläche ca. 46 m²,Zi. 2,35,3
+18,selObject_44956908,2-Zi.-Whg. mit Lift und Balkon in Oldenburg,"[['Wohnung', '•', 'Oldenburg', 'Bloherfelde']]",['Balkon'],"Miete zzgl. NK 764,60 €",Wohnfläche ca. 76 m²,Zi. 2,35,3
+19,selObject_44956906,3 Zimmer-Wohnung im Erdgeschoss. Erstbezug nach Renovi...,"[['Erdgeschosswohnung', '•', 'Lüneburg', 'Ebensberg']]","['Garten', 'EBK']",Miete zzgl. NK 675 €,Wohnfläche ca. 75 m²,Zi. 3,35,3
+20,selObject_44956851,Sofort bezugsfrei! Mit Kamin & Balkon.,"[['Etagenwohnung', '•', 'Seevetal', 'Hittfeld']]","['Balkon', 'EBK']",Miete zzgl. NK 880 €,Wohnfläche ca. 79 m²,Zi. 2,35,3
+21,selObject_44956788,Traumhafte 2-Zimmer-Wohnung mit Wintergarten und Dacht...,"[['Etagenwohnung', '•', 'Oldenburg', 'Innenstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 960 €,Wohnfläche ca. 68 m²,"Zi. 2,5",35,3
+22,selObject_44956766,Frisch renovierte helle 2-Zimmer-Wohnung in OS-Fledder,"[['Etagenwohnung', '•', 'Osnabrück', 'Fledder']]",[],Miete zzgl. NK 500 €,Wohnfläche ca. 55 m²,Zi. 2,35,3
+23,selObject_44956603,2 Zimmer Wohnung in Jever ab 01.09.2021 (zentrale Lage...,"[['Wohnung', '•', 'Jever', 'Jever']]",['Balkon'],Miete zzgl. NK 440 €,Wohnfläche ca. 58 m²,Zi. 2,35,3
+24,selObject_44956595,SONNIGE UND FREUNDLICHE 3 ZIMMER WOHNUNG,"[['Dachgeschosswohnung', '•', 'Reppenstedt', 'Reppenstedt']]","['Balkon', 'EBK']",Miete zzgl. NK 675 €,Wohnfläche ca. 69 m²,Zi. 3,35,3
+25,selObject_44956588,"Zu Vermieten - 2,5-Zimmer-Wohnung in Esens - Einziehen...","[['Kein', 'Bild'], ['Wohnung', '•', 'Esens', 'Esens']]",['Garten'],Miete zzgl. NK 415 €,Wohnfläche ca. 62 m²,"Zi. 2,5",35,3
+26,selObject_44956589,2 Zimmer Wohnung in Jever ab sofort (zentrale Lage),"[['Dachgeschosswohnung', '•', 'Jever', 'Jever']]",['Garten'],Miete zzgl. NK 380 €,Wohnfläche ca. 50 m²,Zi. 2,35,3

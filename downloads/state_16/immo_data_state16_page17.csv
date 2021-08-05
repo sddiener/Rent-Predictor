@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44954408,Einzug ab Oktober-voll möbliert,"['Etagenwohnung', '•', 'Meiningen', 'Meiningen']",['EBK'],Miete zzgl. NK 350 €,Wohnfläche ca. 31 m²,Zi. 2,17,16
-1,selObject_44953919,* 3 Raum Wohnung * wir renovieren für Sie! *,"['Etagenwohnung', '•', 'Gera', 'Lusan']",['Balkon'],Miete zzgl. NK 374 €,Wohnfläche ca. 68 m²,Zi. 3,17,16
-2,selObject_44953234,Wohnen in der City,"['Wohnung', '•', 'Erfurt', 'Erfurt-Altstadt']",['Balkon'],Miete zzgl. NK 308 €,Wohnfläche ca. 52 m²,Zi. 2,17,16
-3,selObject_44952659,2-Raum-Wohnung in grüner Lage mit Balkon und Badewanne,"['Etagenwohnung', '•', 'Gera', 'Lusan']",['Balkon'],"Miete zzgl. NK 270,50 €",Wohnfläche ca. 54 m²,Zi. 2,17,16
-4,selObject_44951562,Ruhige DG-Wohnung in guter Lage,"['Wohnung', '•', 'Erfurt', 'Andreasvorstadt']",['EBK'],Miete zzgl. NK 460 €,Wohnfläche ca. 55 m²,Zi. 2,17,16
-5,selObject_44951304,"2,5-Zimmer-Wohnung mit 82 m² Wfl. im 1. Stock - Baujah...","['Apartment', '•', 'Eisenach', 'Eisenach']",['Garten'],Miete zzgl. NK 380 €,Wohnfläche ca. 82 m²,"Zi. 2,5",17,16
-6,selObject_44948482,* Wir renovieren für Sie * 3 Raum Wohnung * mit Dusche...,"['Etagenwohnung', '•', 'Gera', 'Lusan']",['Balkon'],Miete zzgl. NK 394 €,Wohnfläche ca. 68 m²,Zi. 3,17,16
-7,selObject_44948471,* Erstbezug nach renovierung * 4 Raum Wohnung *,"['Etagenwohnung', '•', 'Gera', 'Lusan']",['Balkon'],Miete zzgl. NK 509 €,Wohnfläche ca. 88 m²,Zi. 4,17,16
-8,selObject_44948459,* Wir renovieren für Sie * 3 Raum Wohnung * mit Dusche...,"['Etagenwohnung', '•', 'Gera', 'Lusan']",['Balkon'],Miete zzgl. NK 394 €,Wohnfläche ca. 68 m²,Zi. 3,17,16
-9,selObject_44948444,* Wir renovieren für Sie * 3 Raum Wohnung *,"['Etagenwohnung', '•', 'Gera', 'Lusan']",['Balkon'],Miete zzgl. NK 394 €,Wohnfläche ca. 68 m²,Zi. 3,17,16
-10,selObject_44948429,* Wir renovieren für Sie * schicke 2 Raum Wohnung *,"['Etagenwohnung', '•', 'Gera', 'Lusan']",['Balkon'],"Miete zzgl. NK 313,70 €",Wohnfläche ca. 54 m²,Zi. 2,17,16
-11,selObject_44948121,***Wird das Ihr exklusiver Wohntraum?***,"['Etagenwohnung', '•', 'Tabarz']","['Balkon', 'EBK']",Miete zzgl. NK 550 €,Wohnfläche ca. 69 m²,Zi. 3,17,16
-12,selObject_44947864,3-Zimmer-Wohnung in Gera-Lusan mit Süd Balkon,"['Apartment', '•', 'Gera', 'Lusan']",['Balkon'],Miete zzgl. NK 325 €,Wohnfläche ca. 69 m²,Zi. 3,17,16
-13,selObject_44947737,4-Zimmer-Wohnung in Gera-Lusan mit neuer Einbauküche,"['Apartment', '•', 'Gera', 'Lusan']","['Balkon', 'EBK']",Miete zzgl. NK 430 €,Wohnfläche ca. 82 m²,Zi. 4,17,16
-14,selObject_44947611,3ZKB- DG-Wohnung in repräsentativem Haus am Schlosspar...,"['Dachgeschosswohnung', '•', 'Arnstadt', 'Arnstadt']",[],Miete zzgl. NK 320 €,Wohnfläche ca. 52 m²,Zi. 3,17,16
-15,selObject_44944733,Sanierte 2-Raum-Wohnung mit großem Balkon und Badewann...,"['Etagenwohnung', '•', 'Gera', 'Bieblach-Ost']",['Balkon'],"Miete zzgl. NK 267,74 €",Wohnfläche ca. 49 m²,Zi. 2,17,16
-16,selObject_44944140,sanierte 3-Raum-Wohnung mit grüner Aussicht,"['Erdgeschosswohnung', '•', 'Erfurt', 'Andreasvorstadt']",['Garten'],Miete zzgl. NK 650 €,Wohnfläche ca. 69 m²,Zi. 3,17,16
-17,selObject_44944133,sanierte 3 Raum Wohnung in Erfurt-Süd mit Tageslichtba...,"['Etagenwohnung', '•', 'Erfurt', 'Löbervorstadt']",[],Miete zzgl. NK 780 €,Wohnfläche ca. 84 m²,Zi. 3,17,16
-18,selObject_44943434,2 Raumwohnung mit Balkon- Lassallestraße 17,"['Etagenwohnung', '•', 'Gotha', 'Gotha']",[],Miete zzgl. NK 295 €,Wohnfläche ca. 48 m²,Zi. 2,17,16
-19,selObject_44941661,Großzügige 2-Zimmer-Dachgeschoß-Wohnung mit EBK im...,"['Dachgeschosswohnung', '•', 'Erfurt', 'Brühlervorstadt']",['EBK'],Miete zzgl. NK 475 €,Wohnfläche ca. 58 m²,Zi. 2,17,16
-20,selObject_44940767,Schöne kleine Drei-Zimmer-Wohnung,"['Wohnung', '•', 'Erfurt', 'Johannesvorstadt']",[],Miete zzgl. NK 370 €,Wohnfläche ca. 56 m²,Zi. 3,17,16
-21,selObject_44940740,3-Zi.-Wohnung in Bad Salzungen zu vermieten,"['Wohnung', '•', 'Bad', 'Salzungen', 'Bad', 'Salzungen']","['Garten', 'EBK']",Miete zzgl. NK 640 €,Wohnfläche ca. 84 m²,Zi. 3,17,16
-22,selObject_44940220,Luxuriöse 4-Zimmer-Wohnung inmitten des Schlossparks,"['Maisonette', '•', 'Gotha', 'Gotha']","['Balkon', 'EBK']",Miete zzgl. NK 1.480 €,Wohnfläche ca. 148 m²,Zi. 4,17,16
-23,selObject_44940189,KLEINE 3 Zimmerwohnung (mit Einbauküche) in der Krämpf...,"['Wohnung', '•', 'Erfurt', 'Krämpfervorstadt']","['Garten', 'EBK']",Miete zzgl. NK 480 €,Wohnfläche ca. 64 m²,Zi. 3,17,16
-24,selObject_44940160,antaris Immobilien GmbH ** Einzigartige Villa im Dicht...,"['Etagenwohnung', '•', 'Erfurt', 'Löbervorstadt']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.980 €,Wohnfläche ca. 180 m²,Zi. 6,17,16
-25,selObject_44940037,"Praktische 3-Zi.-Wohnung im 2.OG - Saalfeld, Südstadt","['Wohnung', '•', 'Saalfeld', 'Saalfeld']",[],Miete zzgl. NK 410 €,Wohnfläche ca. 70 m²,Zi. 3,17,16
-26,selObject_44939755,Geräumige 2- Raumwohnung,"['Erdgeschosswohnung', '•', 'Gera', 'Debschwitz']",[],Miete zzgl. NK 230 €,Wohnfläche ca. 46 m²,Zi. 2,17,16
+0,selObject_44978451,"Wer Ruhe mag, wird diese Lage lieben!!!","[['Wohnung', '•', 'Gera', 'Lusan']]",['Balkon'],"Miete zzgl. NK 241,75 €",Wohnfläche ca. 69 m²,Zi. 3,17,16
+1,selObject_44978335,Zimmer in absolut zentraler Lage!,"[['Zimmer', '•', 'Gera', 'Ostviertel']]",['EBK'],"Miete zzgl. NK 116,24 €",Wohnfläche ca. 28 m²,,17,16
+2,selObject_44977475,Zentrumsnahe Dachgeschosswohnung in Erfurt zu vermiete...,"[['Dachgeschosswohnung', '•', 'Erfurt', 'Daberstedt']]",['EBK'],Miete zzgl. NK 351 €,Wohnfläche ca. 39 m²,Zi. 1,17,16
+3,selObject_44977293,"Geschmackvolle 2-Zimmer-Altbauwohnung in ruhiger, zent...","[['Wohnung', '•', 'Gera', 'Innenstadt']]","['Garten', 'EBK']","Miete zzgl. NK 360,43 €",Wohnfläche ca. 55 m²,Zi. 2,17,16
+4,selObject_44977079,3 Zi-Whg im Grünen mit großer Küche und PKW-Stellplatz,"[['Erdgeschosswohnung', '•', 'Mühlhausen', 'Mühlhausen']]",['EBK'],Miete zzgl. NK 455 €,Wohnfläche ca. 72 m²,Zi. 3,17,16
+5,selObject_44977010,Sonnige 2 Zimmer Altbauwohnung,"[['Wohnung', '•', 'Gera', 'Pforten']]",['Garten'],Miete zzgl. NK 380 €,Wohnfläche ca. 75 m²,Zi. 2,17,16
+6,selObject_44976745,Wohnung im Dachgeschoss zum 01.10.2021 neu zu vermiete...,"[['Dachgeschosswohnung', '•', 'Sonneberg', 'Köppelsdorf']]",[],Miete zzgl. NK 395 €,Wohnfläche ca. 57 m²,Zi. 3,17,16
+7,selObject_44976361,Achtung: Frisch gestrichen!,"[['Etagenwohnung', '•', 'Bad', 'Salzungen', 'Bad', 'Salzungen']]",['Balkon'],Miete zzgl. NK 430 €,Wohnfläche ca. 70 m²,Zi. 3,17,16
+8,selObject_44976359,Wohnglück zu vermieten!,"[['Etagenwohnung', '•', 'Bad', 'Salzungen', 'Bad', 'Salzungen']]",['Balkon'],Miete zzgl. NK 420 €,Wohnfläche ca. 66 m²,Zi. 3,17,16
+9,selObject_44976350,Freundliche 3-Zimmer Wohnung mit EBK in Erfurt!,"[['Etagenwohnung', '•', 'Erfurt', 'Rieth']]",['EBK'],Miete zzgl. NK 447 €,Wohnfläche ca. 67 m²,Zi. 3,17,16
+10,selObject_44976188,Gemütliche 3-Zimmer Wohnung auf 67m²,"[['Etagenwohnung', '•', 'Erfurt', 'Rieth']]",[],Miete zzgl. NK 445 €,Wohnfläche ca. 67 m²,Zi. 3,17,16
+11,selObject_44975847,ERSTBEZUG! Moderne 3-Zi.-Whg. in der Innenstadt von...,"[['Dachgeschosswohnung', '•', 'Mühlhausen', 'Mühlhausen']]",[],Miete zzgl. NK 550 €,Wohnfläche ca. 95 m²,Zi. 3,17,16
+12,selObject_44975763,**tolle 3-Raum Wohnung mit Balkon und EBK in Gera-Lusa...,"[['Etagenwohnung', '•', 'Gera', 'Lusan']]",['Balkon'],Miete zzgl. NK 374 €,Wohnfläche ca. 68 m²,Zi. 3,17,16
+13,selObject_44975650,**Achtung !! hübsche 3-Raum Wohnung mit Balkon,"[['Etagenwohnung', '•', 'Gera', 'Lusan']]",['Balkon'],Miete zzgl. NK 374 €,Wohnfläche ca. 68 m²,Zi. 3,17,16
+14,selObject_44975617,+++ 1 Raum-Appartement mit Balkon und Einbauküche +++,"[['Etagenwohnung', '•', 'Jena', 'Lobeda']]","['Balkon', 'EBK']",Miete zzgl. NK 240 €,Wohnfläche ca. 24 m²,Zi. 1,17,16
+15,selObject_44974656,Großzügige 3-Raumwohnung in Gera-Pforten,"[['Etagenwohnung', '•', 'Gera', 'Pforten']]",['Balkon'],Miete zzgl. NK 400 €,Wohnfläche ca. 67 m²,Zi. 3,17,16
+16,selObject_44974647,Gemütliche 3-Zimmer- Wohnung,"[['Etagenwohnung', '•', 'Schwarzburg']]",['Garten'],Miete zzgl. NK 345 €,Wohnfläche ca. 65 m²,Zi. 3,17,16
+17,selObject_44974359,Gemütliche 3 Raum-Maisonette Whg. im 4 Seitenhof mit...,"[['Dachgeschosswohnung', '•', 'Gera', 'Kaimberg']]",[],Miete zzgl. NK 380 €,Wohnfläche ca. 76 m²,Zi. 3,17,16
+18,selObject_44973480,Gemütliche 2-Raum-Wohnung in Hochparterre,"[['Erdgeschosswohnung', '•', 'Erfurt', 'Krämpfervorstadt']]",['Garten'],Miete zzgl. NK 440 €,Wohnfläche ca. 56 m²,Zi. 2,17,16
+19,selObject_44972901,Exquisite 2-Raum-Wohnung in traumhafter Lage - Erstbez...,"[['Etagenwohnung', '•', 'Erfurt', 'Löbervorstadt']]","['Garten', 'EBK']","Miete zzgl. NK 982,80 €",Wohnfläche ca. 70 m²,Zi. 2,17,16
+20,selObject_44972890,30er Jahre Charme: Erstbezug nach hochwertiger Komplet...,"[['Etagenwohnung', '•', 'Erfurt', 'Löbervorstadt']]","['Garten', 'EBK']","Miete zzgl. NK 977,48 €",Wohnfläche ca. 70 m²,Zi. 2,17,16
+21,selObject_44971841,sanierte 3 Zimmer Wohnung zu vermieten,"[['Wohnung', '•', 'Sondershausen', 'Sondershausen']]","['Balkon', 'EBK']",Miete zzgl. NK 908 €,Wohnfläche ca. 92 m²,Zi. 3,17,16
+22,selObject_44971743,Hier warten 90 m² zum Wohlfühlen auf Sie - saniert und...,"[['Wohnung', '•', 'Gera', 'Zwötzen']]",[],Miete zzgl. NK 449 €,Wohnfläche ca. 90 m²,Zi. 4,17,16
+23,selObject_44971446,"Erstbezug nach Komplettsanierung , ankommen und zu...","[['Wohnung', '•', 'Gera', 'Debschwitz']]","['Balkon', 'Garten']",Miete zzgl. NK 330 €,Wohnfläche ca. 60 m²,Zi. 2,17,16
+24,selObject_44970268,Azubis aufgepasst! 2-Zimmer Wohnung in innenstadtnaher...,"[['Etagenwohnung', '•', 'Mühlhausen', 'Mühlhausen']]",['EBK'],Miete zzgl. NK 230 €,Wohnfläche ca. 34 m²,Zi. 2,17,16
+25,selObject_44970162,Frisch Renoviert / Wohnen mit himmelblauen Balkon nahe...,"[['Etagenwohnung', '•', 'Schmalkalden', 'Schmalkalden']]",['Balkon'],Miete zzgl. NK 495 €,Wohnfläche ca. 73 m²,Zi. 2,17,16
+26,selObject_44970146,Idyllsche Erdgeschosswohnung mit grüner Terrasse |Stel...,"[['Etagenwohnung', '•', 'Schmalkalden', 'Schmalkalden']]","['Balkon', 'EBK']",Miete zzgl. NK 485 €,Wohnfläche ca. 70 m²,Zi. 3,17,16

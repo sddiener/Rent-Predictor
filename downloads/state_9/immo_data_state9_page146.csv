@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44698007,"Großzügige, helle 2-Zimmer-Wohnung mit Balkon und Einb...","['Etagenwohnung', '•', 'Coburg', 'Ketschendorf']","['Balkon', 'EBK']",Miete zzgl. NK 530 €,Wohnfläche ca. 72 m²,Zi. 2,146,9
-1,selObject_44697492,"Schöne, komplett modernisierte 2-Zimmer Wohnung im...","['Etagenwohnung', '•', 'Fürth', 'Innenstadt']",['EBK'],Miete zzgl. NK 665 €,Wohnfläche ca. 70 m²,Zi. 2,146,9
-2,selObject_44697483,Große 3-ZKB-Mietwohnung mit Balkon und Garage in Kipfe...,"['Etagenwohnung', '•', 'Kipfenberg', 'Kipfenberg']",['Balkon'],Miete zzgl. NK 690 €,Wohnfläche ca. 105 m²,Zi. 3,146,9
-3,selObject_44697046,Im Nürnbergs Norden - renovierte 1-Zimmer Wohnung!,"['Wohnung', '•', 'Nürnberg', 'St', 'Johannis']",[],"Miete zzgl. NK 376,97 €",Wohnfläche ca. 33 m²,Zi. 1,146,9
-4,selObject_44697045,Schlüssel sucht Bund fürs Leben!,"['Wohnung', '•', 'Nürnberg', 'Gibitzenhof']",[],"Miete zzgl. NK 742,65 €",Wohnfläche ca. 77 m²,Zi. 3,146,9
-5,selObject_44697025,"Ländliche, doch zentrale, neuwertige Dachgeschosswohnu...","['Dachgeschosswohnung', '•', 'Passau', 'Hacklberg']",['EBK'],Miete zzgl. NK 450 €,Wohnfläche ca. 51 m²,Zi. 2,146,9
-6,selObject_44696394,Samstag Besichtigung! Exklusiv möbliertes Apartment in...,"['Etagenwohnung', '•', 'München', 'Laim']",['EBK'],Miete zzgl. NK 800 €,Wohnfläche ca. 26 m²,Zi. 1,146,9
-7,selObject_44696260,"Gauting, Luitpoldstr. NB 2-Zi DG Whg m. EBK, Duschbad","['Dachgeschosswohnung', '•', 'Gauting', 'Gauting']",['EBK'],Miete zzgl. NK 800 €,Wohnfläche ca. 37 m²,Zi. 2,146,9
-8,selObject_44696207,*Erstbezug nach Sanierung* 3-Zi-Wohnung // 1. OG recht...,"['Etagenwohnung', '•', 'Nürnberg', 'Rabus']","['Balkon', 'EBK']",Miete zzgl. NK 936 €,Wohnfläche ca. 72 m²,Zi. 3,146,9
-9,selObject_44695970,Großzügige 2-Zimmer Wohnung in Steinbühl // 5.OG links,"['Etagenwohnung', '•', 'Nürnberg', 'Lichtenhof']",[],Miete zzgl. NK 720 €,Wohnfläche ca. 60 m²,Zi. 2,146,9
-10,selObject_44695969,Bubenreuth: möbliertes 2-Zi-Apartment,"['Erdgeschosswohnung', '•', 'Bubenreuth']","['Balkon', 'EBK']","Miete zzgl. NK 643,22 €",Wohnfläche ca. 44 m²,Zi. 2,146,9
-11,selObject_44695963,*Kernsanierte 3-Zimmer-Altbauwohnung* // 3.OG rechts,"['Wohnung', '•', 'Nürnberg', 'Steinbühl']",[],Miete zzgl. NK 840 €,Wohnfläche ca. 70 m²,Zi. 3,146,9
-12,selObject_44693946,Möbliert: Schöne Dachgeschosswohnung mit 3 Schlafzimme...,"['Wohnung', '•', 'Vaterstetten']",['Balkon'],Miete zzgl. NK 2.080 €,Wohnfläche ca. 121 m²,Zi. 4,146,9
-13,selObject_44693941,Möbliert: Schick möblierte Wohnung im Arabellapark,"['Wohnung', '•', 'München', 'Bogenhausen']",['Balkon'],Miete zzgl. NK 880 €,Wohnfläche ca. 29 m²,Zi. 1,146,9
-14,selObject_44693934,Herrliche 2 Zimmer Wohnung in guter Lage,"['Wohnung', '•', 'Landshut', 'Münchnerau']",['Balkon'],Miete zzgl. NK 880 €,Wohnfläche ca. 71 m²,Zi. 2,146,9
-15,selObject_44690745,+++ Großzügige 4-Zimmer OG Wohnung +++,"['Etagenwohnung', '•', 'Waldkraiburg', 'Waldkraiburg']","['Balkon', 'EBK']",Miete zzgl. NK 890 €,Wohnfläche ca. 101 m²,Zi. 4,146,9
-16,selObject_44688311,Sonnenanbeter aufgepasst! Dieser Balkon wartet auf...,"['Wohnung', '•', 'Bad', 'Kissingen', 'Garitz']",[],Miete zzgl. NK 700 €,Wohnfläche ca. 108 m²,Zi. 3,146,9
-17,selObject_44688195,Indian Summer auf dem eigenen Balkon in Kipfenberg im...,"['Wohnung', '•', 'Kipfenberg', 'Kipfenberg']",['Balkon'],Miete zzgl. NK 900 €,Wohnfläche ca. 90 m²,Zi. 3,146,9
-18,selObject_44687837,Home Essential XS | 29m² 1-Zimmer Wohnung in München,"['Erdgeschosswohnung', '•', 'München', 'Milbertshofen-Am', 'Hart']","['Garten', 'EBK']",Miete zzgl. NK 1.029 €,Wohnfläche ca. 29 m²,Zi. 1,146,9
-19,selObject_44687738,Moderne MWO in Gochsheim inkl. Stellplatz,"['Etagenwohnung', '•', 'Gochsheim', 'Gochsheim']",['Balkon'],Miete zzgl. NK 850 €,Wohnfläche ca. 94 m²,Zi. 4,146,9
-20,selObject_44687251,"Helle 100qm-Wohnung mit Balkon und Gartennutzung, gene...","['Etagenwohnung', '•', 'Karlstadt', 'Karlstadt']","['Balkon', 'Garten']",Miete zzgl. NK 720 €,Wohnfläche ca. 100 m²,Zi. 5,146,9
-21,selObject_44687189,Gepflegte 2 Zimmerwohnung in City Nähe,"['Apartment', '•', 'Nürnberg', 'Großreuth', 'b', 'Schweinau']","['Balkon', 'EBK']",Miete zzgl. NK 480 €,Wohnfläche ca. 64 m²,Zi. 2,146,9
-22,selObject_44687090,Ankommen-Wohlfühlen. Exklusiv komplett ausgestattete...,"['Wohnung', '•', 'München']",['EBK'],Miete zzgl. NK 2.100 €,Wohnfläche ca. 52 m²,Zi. 1,146,9
-23,selObject_44687081,Ankommen-Wohlfühlen. Exklusiv komplett ausgestattetes...,"['Wohnung', '•', 'München']",['EBK'],Miete zzgl. NK 1.600 €,Wohnfläche ca. 39 m²,Zi. 1,146,9
-24,selObject_44687063,Ankommen-Wohlfühlen. Exklusiv komplett ausgestattetes...,"['Wohnung', '•', 'München']","['Balkon', 'EBK']",Miete zzgl. NK 2.200 €,Wohnfläche ca. 55 m²,Zi. 1,146,9
-25,selObject_44686838,Neubau 2-Zimmerwohnung im Dachgeschoss,"['Wohnung', '•', 'München', 'Hadern']",['Balkon'],Miete zzgl. NK 1.370 €,Wohnfläche ca. 66 m²,Zi. 2,146,9
-26,selObject_44686695,Neuwertige Traumwohnung im Herzen der Füssener Altstad...,"['Wohnung', '•', 'Füssen', 'Füssen']","['Balkon', 'EBK']",Miete zzgl. NK 1.200 €,Wohnfläche ca. 140 m²,Zi. 3,146,9
+0,selObject_44724969,4-Zimmer-Wohnung in schöner Wohnlage von Deggendorf,"[['Erdgeschosswohnung', '•', 'Deggendorf', 'Deggendorf']]",['Balkon'],Miete zzgl. NK 910 €,Wohnfläche ca. 99 m²,Zi. 4,146,9
+1,selObject_44724966,Voll möbliertes 21m² Zimmer in großzügiger 5er Wohngem...,"[['Zimmer', '•', 'Nürnberg', 'Rosenau']]","['Garten', 'EBK']",Miete zzgl. NK 460 €,Wohnfläche ca. 21 m²,,146,9
+2,selObject_44724950,Voll möbliertes 24m² Zimmer in großzügiger 5er Wohngem...,"[['Zimmer', '•', 'Nürnberg', 'Rosenau']]","['Garten', 'EBK']",Miete zzgl. NK 480 €,Wohnfläche ca. 24 m²,,146,9
+3,selObject_44724904,Voll möbliertes 21m² Zimmer in großzügiger 5er Wohngem...,"[['Zimmer', '•', 'Nürnberg', 'Rosenau']]","['Garten', 'EBK']",Miete zzgl. NK 460 €,Wohnfläche ca. 21 m²,,146,9
+4,selObject_44724714,Großräumige 4-Zimmer Wohnung in ruhiger Lage,"[['Etagenwohnung', '•', 'Nürnberg', 'Maxfeld']]",['Balkon'],Miete zzgl. NK 880 €,Wohnfläche ca. 107 m²,Zi. 4,146,9
+5,selObject_44724712,Gemütliche 3-Zimmerwohnung im Zentrum von Deggendorf,"[['Etagenwohnung', '•', 'Deggendorf', 'Deggendorf']]","['Balkon', 'EBK']",Miete zzgl. NK 755 €,Wohnfläche ca. 82 m²,Zi. 3,146,9
+6,selObject_44724168,"2,5 ZKB ca.50m² frei 01.01.2022 520,00€ WM 1 Person /...","[['Wohnung', '•', 'Donauwörth', 'Donauwörth']]",[],Miete zzgl. NK 400 €,Wohnfläche ca. 50 m²,Zi. 2,146,9
+7,selObject_44724134,2-Zimmer Wohnung mit Balkon,"[['Wohnung', '•', 'Ismaning', 'Ismaning']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 960 €,Wohnfläche ca. 47 m²,Zi. 2,146,9
+8,selObject_44724107,4-Zimmer Wohnung mit zwei Balkonen,"[['Wohnung', '•', 'Ismaning', 'Ismaning']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 2.010 €,Wohnfläche ca. 116 m²,Zi. 4,146,9
+9,selObject_44723969,WG-Zimmer in 5er-WG in der Fußgängerzone,"[['Wohnung', '•', 'Bayreuth', 'City']]",['EBK'],"Miete zzgl. NK 383,53 €",Wohnfläche ca. 33 m²,Zi. 1,146,9
+10,selObject_44723838,Microloft City View + Wohnen im möblierten Designapart...,"[['Apartment', '•', 'München', 'Schwabing-West']]","['Garten', 'EBK']",Miete zzgl. NK 1.175 €,Wohnfläche ca. 36 m²,Zi. 1,146,9
+11,selObject_44723829,"Sonnige 1 Zi.-Whg. mit ca. 22 m², Südwestbalkon, Roter...","[['Apartment', '•', 'Bayreuth', 'Roter', 'Hügel']]","['Balkon', 'EBK']",Miete zzgl. NK 245 €,Wohnfläche ca. 22 m²,Zi. 1,146,9
+12,selObject_44723579,"Sonnige, absolut ruhig und ländlich gelegene 3-Zimmer-...","[['Etagenwohnung', '•', 'Ainring', 'Berg']]","['Balkon', 'EBK']",Miete zzgl. NK 750 €,Wohnfläche ca. 83 m²,Zi. 3,146,9
+13,selObject_44723479,"Sehr gepflegte 3 Zimmer Wohnung mit EBK, Gäste WC,...","[['Etagenwohnung', '•', 'Röttenbach']]",['EBK'],Miete zzgl. NK 650 €,Wohnfläche ca. 95 m²,Zi. 3,146,9
+14,selObject_44723474,Zweizimmerwohnung mit zusätzlichem Studiozimmer,"[['Etagenwohnung', '•', 'Moosburg']]","['Balkon', 'EBK']",Miete zzgl. NK 520 €,Wohnfläche ca. 55 m²,Zi. 2,146,9
+15,selObject_44723449,Voll möbliertes 16m² Zimmer in großzügiger 5er Wohngem...,"[['Zimmer', '•', 'Nürnberg', 'Rosenau']]","['Garten', 'EBK']",Miete zzgl. NK 420 €,Wohnfläche ca. 16 m²,,146,9
+16,selObject_44723422,3-Zimmer-Dachgeschosswohnung in kleiner Wohnanlage in...,"[['Wohnung', '•', 'Gaimersheim', 'Gaimersheim']]",[],Miete zzgl. NK 625 €,Wohnfläche ca. 42 m²,Zi. 3,146,9
+17,selObject_44723366,3 ZKB Zentrum Vöhringen ab 01.10.20221 zu vermieten,"[['Etagenwohnung', '•', 'Vöhringen', 'Illerberg']]",['EBK'],Miete zzgl. NK 750 €,Wohnfläche ca. 89 m²,Zi. 3,146,9
+18,selObject_44722307,"3,5-Zimmer-Wohnung mit Tiefgaragenstellplatz","[['Wohnung', '•', 'Weißenburg', 'Weißenburg']]",['Balkon'],Miete zzgl. NK 670 €,Wohnfläche ca. 83 m²,"Zi. 3,5",146,9
+19,selObject_44722297,Neuwertige 3-Zimmer Wohnung in Wassertrüdingen zu verm...,"[['Etagenwohnung', '•', 'Wassertrüdingen', 'Wassertrüdingen']]",[],Miete zzgl. NK 775 €,Wohnfläche ca. 86 m²,Zi. 3,146,9
+20,selObject_44722284,Wohnen in historischer sanierter Stadtvilla in Coburg...,"[['Apartment', '•', 'Coburg', 'Coburg']]",[],Miete zzgl. NK 1.500 €,Wohnfläche ca. 126 m²,Zi. 5,146,9
+21,selObject_44721934,*** MODERNE 2-ZIMMERWOHNUNG MIT EINBAUKÜCHE IN BEVORZU...,"[['Wohnung', '•', 'Aschaffenburg', 'Innenstadt']]",[],Miete zzgl. NK 770 €,Wohnfläche ca. 78 m²,Zi. 2,146,9
+22,selObject_44721931,***MÖBLIERTES APARTMENT IN BAHNHOFSNÄHE*** IDEALE PEND...,"[['Wohnung', '•', 'Aschaffenburg', 'Damm']]",[],Miete zzgl. NK 540 €,Wohnfläche ca. 38 m²,Zi. 1,146,9
+23,selObject_44721921,3-Zi.-Wohnung mit Balkon und Aufzug,"[['Etagenwohnung', '•', 'Mainaschaff']]",['Balkon'],Miete zzgl. NK 630 €,Wohnfläche ca. 76 m²,Zi. 3,146,9
+24,selObject_44721878,Möblierte 2-Zimmerwohnung in Würzburg/Mainviertel mit...,"[['Wohnung', '•', 'Würzburg', 'Altstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 955 €,Wohnfläche ca. 50 m²,Zi. 2,146,9
+25,selObject_44721848,Wohntraum in der Rosenheimer Innenstadt - großzügige...,"[['Etagenwohnung', '•', 'Rosenheim', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 1.500 €,Wohnfläche ca. 160 m²,"Zi. 3,5",146,9
+26,selObject_44721146,2-Zimmer-Wohnung Fürth Nordstadt,"[['Wohnung', '•', 'Fürth', 'Nordstadt']]",[],Miete zzgl. NK 550 €,Wohnfläche ca. 70 m²,Zi. 2,146,9

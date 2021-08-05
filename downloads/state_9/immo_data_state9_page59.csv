@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44971827,Möbliertes Wohnen mit Service (Pauschalmiete),"['Etagenwohnung', '•', 'München', 'Milbertshofen-Am', 'Hart']",[],Miete zzgl. NK 850 €,Wohnfläche ca. 25 m²,Zi. 1,59,9
-1,selObject_44971644,"Freundliche, ruhige 3-Zimmer Wohnung in unverbaubarer...","['Wohnung', '•', 'Elchingen', 'Oberelchingen']","['Balkon', 'EBK']",Miete zzgl. NK 740 €,Wohnfläche ca. 73 m²,Zi. 3,59,9
-2,selObject_44971570,"3,5 Zimmer Wohnung mit Garten in Haar","['Wohnung', '•', 'Haar', 'Haar']","['Garten', 'EBK']",Miete zzgl. NK 1.300 €,Wohnfläche ca. 120 m²,"Zi. 3,5",59,9
-3,selObject_44971486,1-Zi.-Altbauwohnung frisch renoviert,"['Apartment', '•', 'Erlangen', 'Innenstadt']",['EBK'],Miete zzgl. NK 350 €,Wohnfläche ca. 33 m²,Zi. 1,59,9
-4,selObject_44971456,Schöne 1-Zi-Wohnung im 1. OG,"['Etagenwohnung', '•', 'Landshut', 'West']","['Balkon', 'EBK']",Miete zzgl. NK 450 €,Wohnfläche ca. 44 m²,Zi. 1,59,9
-5,selObject_44971453,Schöne Altbau-Wohnung in Landshut - Zentrum - Fußgänge...,"['Wohnung', '•', 'Landshut', 'Altstadt']","['Balkon', 'EBK']",Miete zzgl. NK 790 €,Wohnfläche ca. 103 m²,Zi. 5,59,9
-6,selObject_44970976,"Lichtdurchflutetes Penthouse, 2 Dachterrassen mit Weit...","['Penthouse', '•', 'Zirndorf', 'Weiherhof']",['EBK'],Miete zzgl. NK 1.050 €,Wohnfläche ca. 81 m²,"Zi. 2,5",59,9
-7,selObject_44970975,"Moderne, helle 3,5-Zi.-Maisonette Wohnung mit großer...","['Wohnung', '•', 'München', 'Bogenhausen']","['Balkon', 'EBK']",Miete zzgl. NK 1.700 €,Wohnfläche ca. 105 m²,"Zi. 3,5",59,9
-8,selObject_44970962,**Kuscheliges Nest** Großzügige neu renovierte 2-Zimme...,"['Wohnung', '•', 'München', 'Milbertshofen-Am', 'Hart']",[],Miete zzgl. NK 1.140 €,Wohnfläche ca. 67 m²,Zi. 2,59,9
-9,selObject_44970867,Kinderfreundliche Lage! Helle und große 4-Zi.-Maisonet...,"['Maisonette', '•', 'Dorfen', 'Dorfen']","['Balkon', 'EBK']",Miete zzgl. NK 1.140 €,Wohnfläche ca. 90 m²,Zi. 4,59,9
-10,selObject_44970781,4- Zimmer-Terrassenwohnung in idealer Lage,"['Erdgeschosswohnung', '•', 'Herzogenaurach', 'Herzogenaurach']","['Garten', 'EBK']",Miete zzgl. NK 1.240 €,Wohnfläche ca. 118 m²,Zi. 4,59,9
-11,selObject_44970704,"Kleines 2-Zimmer-Apartment mit Küche, Balkon und Stell...","['Dachgeschosswohnung', '•', 'Schonungen', 'Mainberg']","['Balkon', 'EBK']",Miete zzgl. NK 295 €,Wohnfläche ca. 32 m²,Zi. 1,59,9
-12,selObject_44970668,4-Zimmerwohnung der Luxusklasse,"['Wohnung', '•', 'Herzogenaurach', 'Herzogenaurach']","['Garten', 'EBK']",Miete zzgl. NK 1.320 €,Wohnfläche ca. 136 m²,Zi. 4,59,9
-13,selObject_44970657,Sehr schöne 3-4 Zimmerwohnung in Ainring/Mitterfelden...,"['Wohnung', '•', 'Ainring', 'Mitterfelden']","['Balkon', 'EBK']",Miete zzgl. NK 750 €,Wohnfläche ca. 94 m²,Zi. 4,59,9
-14,selObject_44970655,Familien aufgepasst: helle und geräumige 4-Zimmer-Wohn...,"['Apartment', '•', 'Nürnberg', 'Ziegelstein']",['Balkon'],"Miete zzgl. NK 899,31 €",Wohnfläche ca. 93 m²,Zi. 4,59,9
-15,selObject_44970600,"* 2021 renovierte, möblierte Wohnung in Augsburg Lechh...","['Wohnung', '•', 'Augsburg', 'Lechhausen']",['EBK'],Miete zzgl. NK 780 €,Wohnfläche ca. 53 m²,Zi. 2,59,9
-16,selObject_44970583,"2,5-Zimmer Obergeschosswohnung mit Balkon und Galeriez...","['Etagenwohnung', '•', 'Ingolstadt', 'Ingolstadt']","['Balkon', 'EBK']",Miete zzgl. NK 660 €,Wohnfläche ca. 65 m²,"Zi. 2,5",59,9
-17,selObject_44970535,Top Lage mit Balkon ins Grüne sucht nette Nachmieter,"['Wohnung', '•', 'Nürnberg', 'Schoppershof']","['Balkon', 'EBK']",Miete zzgl. NK 1.200 €,Wohnfläche ca. 120 m²,"Zi. 5,5",59,9
-18,selObject_44970527,"Zentrumsnahe, schöne 3-Zimmerwohnung mit Balkon und TG","['Wohnung', '•', 'Ingolstadt', 'Ingolstadt']","['Balkon', 'EBK']",Miete zzgl. NK 880 €,Wohnfläche ca. 70 m²,,59,9
-19,selObject_44970463,1-Zi.-Apartment in Würzburg-Lengfeld,"['Apartment', '•', 'Würzburg', 'Lengfeld']","['Balkon', 'EBK']",Miete zzgl. NK 330 €,Wohnfläche ca. 33 m²,Zi. 1,59,9
-20,selObject_44970433,NEUFAHRN in NB | ERSTBEZUG zum 01.10. | Barrierefreie...,"['Etagenwohnung', '•', 'Neufahrn', 'Neufahrn']",['Balkon'],Miete zzgl. NK 628 €,Wohnfläche ca. 68 m²,Zi. 2,59,9
-21,selObject_44970427,Sanierte Wohnung sucht einen neuen Mieter!,"['Wohnung', '•', 'Ansbach', 'Ansbach']",['Balkon'],"Miete zzgl. NK 501,70 €",Wohnfläche ca. 67 m²,Zi. 3,59,9
-22,selObject_44970249,Erstbezug nach Sanierung - Schöne 2-Zimmer-Wohnung in...,"['Etagenwohnung', '•', 'München', 'Ramersdorf-Perlach']",['Balkon'],Miete zzgl. NK 970 €,Wohnfläche ca. 63 m²,Zi. 2,59,9
-23,selObject_44970197,großzügige 1 Zimmer Wohnung in der Sanderau,"['Wohnung', '•', 'Würzburg', 'Sanderau']",['EBK'],Miete zzgl. NK 530 €,Wohnfläche ca. 43 m²,Zi. 1,59,9
-24,selObject_44970184,Neubau-2-Zimmer-Wohnung mit Garten und Einbauküche,"['Wohnung', '•', 'Nürnberg', 'Seeleinsbühl']","['Garten', 'EBK']",Miete zzgl. NK 950 €,Wohnfläche ca. 70 m²,Zi. 2,59,9
-25,selObject_44970127,"Traumhafte 2,5-Zimmer-Neubauwohnung mit großzügigen...","['Etagenwohnung', '•', 'Neustadt', 'Bad', 'Gögging']",['Balkon'],Miete zzgl. NK 790 €,Wohnfläche ca. 93 m²,"Zi. 2,5",59,9
-26,selObject_44970007,"Helle, ruhige 3-Zimmer-Wohnung in bester Lage von Bad...","['Wohnung', '•', 'Bad', 'Füssing', 'Bad', 'Füssing']","['Balkon', 'EBK']",Miete zzgl. NK 950 €,Wohnfläche ca. 100 m²,Zi. 3,59,9
+0,selObject_44994555,"NEU Frei ab 01.09.2021: 3-Zimmer, Küche, Bad, Balkon, Kell...","[['Souterrainwohnung', '•', 'Bad', 'Brückenau', 'Bad', 'Brückenau']]","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 370 €,Wohnfläche ca. 85 m²,Zi. 3,59,9
+1,selObject_44994483,NEU Lichtdurchflutete 2-Zimmerwohnung in zentraler Lage,"[['Etagenwohnung', '•', 'Würzburg', 'Zellerau']]","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 590 €,Wohnfläche ca. 54 m²,Zi. 2,59,9
+2,selObject_44994475,"NEU Das kann sich sehen lassen! Stilvolle 4,5-Zimmer-Mais...","[['Maisonette', '•', 'Landshut', 'Achdorf']]","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 1.485 €,Wohnfläche ca. 135 m²,"Zi. 4,5",59,9
+3,selObject_44994448,NEU Ein Wohntraum mit Garten! Neubau: moderne 2-Zimmer-Woh...,"[['Erdgeschosswohnung', '•', 'Vaterstetten']]","['NEU', 'NEU']",Miete zzgl. NK 980 €,Wohnfläche ca. 60 m²,Zi. 2,59,9
+4,selObject_44994447,NEU Viel Platz und Raum zum Leben! Neubau: Sonnige 4-Zimme...,"[['Etagenwohnung', '•', 'Vaterstetten']]","['NEU', 'NEU']",Miete zzgl. NK 1.700 €,Wohnfläche ca. 106 m²,Zi. 4,59,9
+5,selObject_44994446,NEU Sonne auf der Dachterrasse genießen! Neubau: großzügig...,"[['Dachgeschosswohnung', '•', 'Vaterstetten']]","['NEU', 'NEU']",Miete zzgl. NK 1.250 €,Wohnfläche ca. 72 m²,Zi. 2,59,9
+6,selObject_44994437,NEU Modernes Penthouse mit großer Dachterrasse in ruhiger...,"[['Penthouse', '•', 'München', 'Ramersdorf-Perlach']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 1.660 €,Wohnfläche ca. 89 m²,Zi. 3,59,9
+7,selObject_44994430,"NEU 2 Zi. Dachterrassen-Wohnung mit Wintergarten, neue...","[['Dachgeschosswohnung', '•', 'Ingolstadt', 'Ingolstadt']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 870 €,Wohnfläche ca. 74 m²,Zi. 2,59,9
+8,selObject_44994396,NEU Gemütliche 2-Zimmerwohnung in Deisenhofen,"[['Etagenwohnung', '•', 'Deisenhofen']]","['NEU', 'NEU', 'EBK']","Miete zzgl. NK 852,50 €",Wohnfläche ca. 55 m²,Zi. 2,59,9
+9,selObject_44994286,"NEU Geräumige 1,5-Zimmer-Wohnung in der Rosenau","[['Erdgeschosswohnung', '•', 'Nürnberg', 'Rosenau']]","['NEU', 'NEU']",Miete zzgl. NK 360 €,Wohnfläche ca. 41 m²,"Zi. 1,5",59,9
+10,selObject_44994261,"NEU Einziehen und Genießen, Neubau Erstbezug ab November...","[['Etagenwohnung', '•', 'Bayreuth', 'Altstadt']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 1.020 €,Wohnfläche ca. 90 m²,Zi. 3,59,9
+11,selObject_44994211,NEU * Wunderschöne 3 Zi. - Dachgeschoss Wohnung *,"[['Wohnung', '•', 'Nürnberg', 'Gärten', 'h', 'd', 'Veste']]","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 820 €,Wohnfläche ca. 71 m²,Zi. 3,59,9
+12,selObject_44994195,NEU 2-Zi.-Wohnung in Bad Bayersoien zu vermieten,"[['Wohnung', '•', 'Bad', 'Bayersoien', 'Bad', 'Bayersoien']]","['NEU', 'NEU', 'Garten']",Miete inkl. NK 1.300 €,Wohnfläche ca. 90 m²,Zi. 2,59,9
+13,selObject_44994183,NEU Ruhige 5-Zimmer-Wohnung mit Balkonen und Gartenhaus,"[['Wohnung', '•', 'Untermerzbach', 'Obermerzbach']]","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 690 €,Wohnfläche ca. 145 m²,Zi. 5,59,9
+14,selObject_44994156,NEU 2 Zimmer-Mietwohnung mit TG- und PKW-Stellplatz.,"[['Etagenwohnung', '•', 'Rieden', 'b', 'Kaufbeuren', 'Rieden']]","['NEU', 'NEU']",Miete zzgl. NK 660 €,Wohnfläche ca. 61 m²,Zi. 2,59,9
+15,selObject_44994130,NEU Renovierte 4 - Zimmer Wohnung mit Balkon in modernisie...,"[['Etagenwohnung', '•', 'Passau', 'Haidenhof-Nord']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 716,42 €",Wohnfläche ca. 70 m²,Zi. 4,59,9
+16,selObject_44994090,NEU Studentenapartment nur an Frau: 2 Zimmer mit eigener...,"[['Wohnung', '•', 'Erlangen', 'Innenstadt']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 425 €,Wohnfläche ca. 36 m²,Zi. 2,59,9
+17,selObject_44994085,NEU Gemütliche 2 Zimmerwohnung mit Balkon für freundliches...,"[['Etagenwohnung', '•', 'Nürnberg', 'Steinbühl']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 591,46 €",Wohnfläche ca. 59 m²,Zi. 2,59,9
+18,selObject_44994021,NEU Schmuckstück mit 2 Balkonen-4-Zimmer Familienwohnung...,"[['Erdgeschosswohnung', '•', 'Kempten', 'St', 'Mang']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 739,73 €",Wohnfläche ca. 84 m²,Zi. 4,59,9
+19,selObject_44993967,"NEU Gepflegte, helle 3,5 Zi. Wohnung mit schönem Bad und...","[['Wohnung', '•', 'Schwebheim']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 720 €,Wohnfläche ca. 95 m²,"Zi. 3,5",59,9
+20,selObject_44993951,NEU Verfügbar ab sofort! 4-Zi.-Whg.,"[['Wohnung', '•', 'Pegnitz', 'Trockau']]","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 890 €,Wohnfläche ca. 136 m²,Zi. 4,59,9
+21,selObject_44993854,NEU Miltenberg Erdgeschosswohnung 3ZKB zu vermieten ab...,"[['Kein', 'Bild'], ['Wohnung', '•', 'Miltenberg', 'Miltenberg']]","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 433 €,Wohnfläche ca. 96 m²,Zi. 3,59,9
+22,selObject_44993847,NEU Perfekte Aufteilung auf 32 m² und 1 Zimmer. Hier ist...,"[['Wohnung', '•', 'Wettstetten', 'Wettstetten']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete inkl. NK 570 €,Wohnfläche ca. 32 m²,Zi. 1,59,9
+23,selObject_44993824,NEU Nachmieter für 5-Raum-Maisonette-Wohnung mit Balkon...,"[['Maisonette', '•', 'Coburg', 'Scheuerfeld']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 828,36 €",Wohnfläche ca. 101 m²,Zi. 5,59,9
+24,selObject_44993745,NEU gepflegte 3 Zimmer Wohnung ** Balkon mit Blick auf die...,"[['Wohnung', '•', 'Kronach', 'Kronach']]","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 450 €,Wohnfläche ca. 64 m²,Zi. 3,59,9
+25,selObject_44993531,"NEU Schöner Wohnen in München - Balkon, Einbauküche und 1...","[['Apartment', '•', 'München', 'Bogenhausen']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 750 €,Wohnfläche ca. 31 m²,Zi. 1,59,9
+26,selObject_44993292,"NEU Möblierte, ruhig gelegene 3-Zimmer-Wohnung mit 2 Balko...","[['Apartment', '•', 'München', 'Laim']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete inkl. NK 2.200 €,Wohnfläche ca. 81 m²,Zi. 3,59,9

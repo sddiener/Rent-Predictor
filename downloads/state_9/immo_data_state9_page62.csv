@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44967533,Befristete 1 Zimmerwohnung - ideal für Pendler,"['Etagenwohnung', '•', 'Deisenhofen']",['EBK'],Miete zzgl. NK 650 €,Wohnfläche ca. 31 m²,Zi. 1,62,9
-1,selObject_44967436,"Renovierte, vollmöbilisierte 1-Zimmer-Wohnung in Pasin...","['Wohnung', '•', 'München', 'Pasing-Obermenzing']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 750 €,Wohnfläche ca. 32 m²,Zi. 1,62,9
-2,selObject_44967409,"Ruhige 2 Zimmerwohnung im Souterrain, mit Blick ins...","['Wohnung', '•', 'Erlangen', 'Sieglitzhof']",['EBK'],Miete zzgl. NK 695 €,Wohnfläche ca. 67 m²,Zi. 2,62,9
-3,selObject_44967340,"Erstbezug ! Komplett Möbliert , Attraktiv und...","['Wohnung', '•', 'Obermichelbach', 'Obermichelbach']",['EBK'],Miete zzgl. NK 420 €,Wohnfläche ca. 42 m²,Zi. 1,62,9
-4,selObject_44967246,Gemütliches Apartment mit Balkon und TG-Stellplatz,"['Apartment', '•', 'Bayreuth', 'St.', 'Georgen']","['Balkon', 'EBK']",Miete zzgl. NK 250 €,Wohnfläche ca. 24 m²,Zi. 1,62,9
-5,selObject_44967244,IHRE CHANCE-1. MONAT MIETFREI | WG- / Homeoffice |...,"['Etagenwohnung', '•', 'Oberasbach', 'Kreutles']","['Balkon', 'EBK']",Miete zzgl. NK 1.376 €,Wohnfläche ca. 111 m²,Zi. 4,62,9
-6,selObject_44967211,"Großes 1-Zi App. in Ansbach von Privat, Top-Innenstadt...","['Wohnung', '•', 'Ansbach', 'Ansbach']",['EBK'],Miete zzgl. NK 370 €,Wohnfläche ca. 45 m²,Zi. 1,62,9
-7,selObject_44967202,WOW | 4-Zi.Wohnung mit zwei separaten Bereichen | 2...,"['Etagenwohnung', '•', 'Oberasbach', 'Kreutles']","['Balkon', 'EBK']",Miete zzgl. NK 1.378 €,Wohnfläche ca. 112 m²,Zi. 4,62,9
-8,selObject_44967196,Dachgeschoss Wohnung / Atelier in außergewöhnlicher...,"['Penthouse', '•', 'Pähl', 'Fischen']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.950 €,Wohnfläche ca. 247 m²,"Zi. 3,5",62,9
-9,selObject_44967171,MÜNCHNER MODELL - 4 Zimmer Wohnung,"['Erdgeschosswohnung', '•', 'München', 'Trudering-Riem']",[],"Miete zzgl. NK 960,29 €",Wohnfläche ca. 83 m²,Zi. 4,62,9
-10,selObject_44967170,2-Zi.-Wohnung mit Terrasse,"['Wohnung', '•', 'München', 'Thalk.Obersendl.-Forsten-Fürstenr.-Solln']",['Garten'],Miete zzgl. NK 1.300 €,Wohnfläche ca. 62 m²,Zi. 2,62,9
-11,selObject_44967168,Voll möblierte Altbauwohnung mit wunderbaren Flair,"['Etagenwohnung', '•', 'Nürnberg', 'Lichtenhof']",[],Miete inkl. NK 925 €,Wohnfläche ca. 71 m²,Zi. 2,62,9
-12,selObject_44967163,WALSER: Phantastische 3-Zimmer-Terrassenwohnung direkt...,"['Erdgeschosswohnung', '•', 'München', 'Untergiesing-Harlaching']",['EBK'],Miete zzgl. NK 2.360 €,Wohnfläche ca. 86 m²,Zi. 3,62,9
-13,selObject_44967157,WALSER: Komplett möbliertes Cityapartment in Schwabing...,"['Etagenwohnung', '•', 'München', 'Milbertshofen-Am', 'Hart']","['Balkon', 'EBK']",Miete zzgl. NK 1.270 €,Wohnfläche ca. 34 m²,Zi. 1,62,9
-14,selObject_44967126,Moderne 3 Zimmer-Wohnung am Waldrand,"['Wohnung', '•', 'Hemhofen', 'Hemhofen']","['Balkon', 'EBK']",Miete zzgl. NK 700 €,Wohnfläche ca. 89 m²,Zi. 3,62,9
-15,selObject_44967106,Moderne 1-Zimmer Wohnung in Schwabing,"['Wohnung', '•', 'München', 'Schwabing-Freimann']","['Garten', 'EBK']",Miete zzgl. NK 710 €,Wohnfläche ca. 32 m²,Zi. 1,62,9
-16,selObject_44967101,Wohntraum auf 2. Etagen für höchste Ansprüche! 4-Zimme...,"['Maisonette', '•', 'Passau', 'Grubweg']","['Balkon', 'EBK']",Miete zzgl. NK 1.090 €,Wohnfläche ca. 120 m²,Zi. 4,62,9
-17,selObject_44967086,Loft im Schaeffler-Areal mit 3 Zimmer und traumhafter...,"['Loft-Studio-Atelier', '•', 'Bamberg', 'Gartenstadt']",['EBK'],Miete zzgl. NK 900 €,Wohnfläche ca. 89 m²,Zi. 3,62,9
-18,selObject_44967042,1-Zimmer Wohnung mit Balkon und Stellplatz in Nürnberg...,"['Etagenwohnung', '•', 'Nürnberg', 'Altenfurt']","['Balkon', 'EBK']",Miete zzgl. NK 420 €,Wohnfläche ca. 33 m²,Zi. 1,62,9
-19,selObject_44967041,Ihr neues Zuhause - 4 Zimmer im 1. OG mit Südbalkon!,"['Wohnung', '•', 'Kirchweidach', 'Kirchweidach']","['Balkon', 'EBK']",Miete zzgl. NK 890 €,Wohnfläche ca. 99 m²,Zi. 4,62,9
-20,selObject_44967025,Gemütliches Appartement in Pappenheim zur Miete,"['Wohnung', '•', 'Pappenheim', 'Pappenheim']","['Garten', 'EBK']",Miete zzgl. NK 160 €,Wohnfläche ca. 20 m²,Zi. 1,62,9
-21,selObject_44967013,Geräumige 2-Zimmer-DG-Wohnung mit Balkon (U/S-Bahn...,"['Wohnung', '•', 'München', 'Feldmoching-Hasenbergl']","['Balkon', 'EBK']",Miete zzgl. NK 1.150 €,Wohnfläche ca. 75 m²,Zi. 2,62,9
-22,selObject_44966976,***Heike Borchers Immobilien***Das gute Gefühl hier zu...,"['Etagenwohnung', '•', 'Unterhaching']","['Balkon', 'EBK']",Miete zzgl. NK 820 €,Wohnfläche ca. 53 m²,Zi. 2,62,9
-23,selObject_44966955,OPENING - Brasilianisches Lebensgefühl im Herzen von...,"['Apartment', '•', 'München', 'Thalk.Obersendl.-Forsten-Fürstenr.-Solln']","['Balkon', 'EBK']",Miete inkl. NK 749 €,Wohnfläche ca. 25 m²,Zi. 1,62,9
-24,selObject_44966949,Erstbezug nach Neubau - 2-Zimmer-Terrassen-Wohnung im...,"['Apartment', '•', 'Stein', 'Bertelsdorf']",['Garten'],Miete zzgl. NK 880 €,Wohnfläche ca. 61 m²,Zi. 2,62,9
-25,selObject_44966939,Tolle 3-Zimmer-Dachgeschosswohnung mit Balkon und Gara...,"['Etagenwohnung', '•', 'Dörfles-Esbach']",['Balkon'],Miete zzgl. NK 550 €,Wohnfläche ca. 81 m²,Zi. 3,62,9
-26,selObject_44966926,Sehr schöne 70 m² 2 ZimmerWohnung mit Balkon im Rain,"['Wohnung', '•', 'Rain', 'Rain']",['Balkon'],Miete zzgl. NK 650 €,Wohnfläche ca. 70 m²,Zi. 2,62,9
+0,selObject_44987957,90768 Fürth-Dambach - Pfiffige 2-Zimmer-Maisonette-Woh...,"[['Maisonette', '•', 'Fürth', 'Dambach']]","['Balkon', 'EBK']",Miete zzgl. NK 695 €,Wohnfläche ca. 63 m²,Zi. 2,62,9
+1,selObject_44987943,Erstbezug nach Sanierung! 2-Zi.-Gartenwohnung,"[['Erdgeschosswohnung', '•', 'Neusäß', 'Täfertingen']]","['Garten', 'EBK']",Miete zzgl. NK 760 €,Wohnfläche ca. 67 m²,Zi. 2,62,9
+2,selObject_44987922,3 Zimmer Maisonettewohnung mit Balkon in Hadern,"[['Maisonette', '•', 'München', 'Hadern']]",['Balkon'],Miete zzgl. NK 1.450 €,Wohnfläche ca. 89 m²,Zi. 3,62,9
+3,selObject_44987869,Rarität - Wunderschöne Neubauwohnung mit offenem Dachs...,"[['Wohnung', '•', 'Kaufbeuren', 'Kaufbeuren']]",[],Miete zzgl. NK 980 €,Wohnfläche ca. 93 m²,"Zi. 2,5",62,9
+4,selObject_44987772,Teilmöblierte 2 Zimmer-Wohnung für Referendar(e) zur...,"[['Wohnung', '•', 'Nürnberg', 'Thon']]","['Balkon', 'EBK']",Miete zzgl. NK 500 €,Wohnfläche ca. 60 m²,Zi. 2,62,9
+5,selObject_44987770,"Absolut ruhige 1,5-Zimmer-Garten-Wohnung UBahn-BMW-Näh...","[['Apartment', '•', 'München', 'Milbertshofen-Am', 'Hart']]","['Garten', 'EBK']",Miete zzgl. NK 970 €,Wohnfläche ca. 34 m²,Zi. 1,62,9
+6,selObject_44987479,So modern wohnt man in Vaterstetten! Neubau: tolle...,"[['Etagenwohnung', '•', 'Vaterstetten']]",[],Miete zzgl. NK 990 €,Wohnfläche ca. 58 m²,Zi. 2,62,9
+7,selObject_44987478,Hell - freundlich - großzügig ! Neubau: Sonnige 3-Zim...,"[['Etagenwohnung', '•', 'Vaterstetten']]",[],Miete zzgl. NK 1.320 €,Wohnfläche ca. 80 m²,Zi. 3,62,9
+8,selObject_44987467,Sonnenuntergang inklusive. 3-Zimmer-Neubauwohnung mit...,"[['Wohnung', '•', 'München', 'Aubing-Lochhausen-Langwied']]","['Balkon', 'Garten']","Miete zzgl. NK 1.776,84 €",Wohnfläche ca. 91 m²,Zi. 3,62,9
+9,selObject_44987425,1.4 Miete AB SOFORT SERVICE-WOHNEN OSTHEIM VOR DER...,"[['Erdgeschosswohnung', '•', 'Ostheim', 'Oberwaldbehrungen']]","['Balkon', 'EBK']",Preis Auf Anfrage,Wohnfläche ca. 53 m²,Zi. 2,62,9
+10,selObject_44987422,1.5 Miete AB SOFORT SERVICE-WOHNEN OSTHEIM VOR DER...,"[['Erdgeschosswohnung', '•', 'Ostheim', 'Oberwaldbehrungen']]","['Balkon', 'EBK']",Preis Auf Anfrage,Wohnfläche ca. 65 m²,Zi. 2,62,9
+11,selObject_44987415,Schwabing - Gemütliches Ambiente mit ruhigem Innenhofb...,"[['Etagenwohnung', '•', 'München', 'Schwabing-West']]","['Balkon', 'EBK']",Miete zzgl. NK 1.220 €,Wohnfläche ca. 51 m²,Zi. 2,62,9
+12,selObject_44987410,1.11 Miete AB SOFORT SERVICE-WOHNEN OSTHEIM VOR DER...,"[['Erdgeschosswohnung', '•', 'Ostheim', 'Oberwaldbehrungen']]","['Balkon', 'EBK']",Preis Auf Anfrage,Wohnfläche ca. 79 m²,Zi. 2,62,9
+13,selObject_44987408,1.6 Miete AB SOFORT SERVICE-WOHNEN OSTHEIM VOR DER...,"[['Erdgeschosswohnung', '•', 'Ostheim', 'Oberwaldbehrungen']]","['Balkon', 'EBK']",Preis Auf Anfrage,Wohnfläche ca. 81 m²,Zi. 2,62,9
+14,selObject_44987404,1.12 Miete AB SOFORT SERVICE-WOHNEN OSTHEIM VOR DER...,"[['Erdgeschosswohnung', '•', 'Ostheim', 'Oberwaldbehrungen']]","['Balkon', 'EBK']",Preis Auf Anfrage,Wohnfläche ca. 80 m²,Zi. 2,62,9
+15,selObject_44987398,Aufwändig sanierte 3-Zimmer Wohnung mit Einbauküche...,"[['Etagenwohnung', '•', 'Coburg', 'Coburg']]",['EBK'],Miete zzgl. NK 800 €,Wohnfläche ca. 100 m²,Zi. 3,62,9
+16,selObject_44987391,1.3 Miete AB SOFORT SERVICE-WOHNEN OSTHEIM VOR DER...,"[['Erdgeschosswohnung', '•', 'Ostheim', 'Oberwaldbehrungen']]","['Balkon', 'EBK']",Preis Auf Anfrage,Wohnfläche ca. 59 m²,Zi. 2,62,9
+17,selObject_44987335,ERSTBEZUG ab sofort MIETE WOHNUNG 2.06 - SERVICE-WOHNE...,"[['Erdgeschosswohnung', '•', 'Leinach']]","['Balkon', 'EBK']",Preis Auf Anfrage,Wohnfläche ca. 46 m²,Zi. 2,62,9
+18,selObject_44987321,ERSTBEZUG ab sofort MIETE WOHNUNG 2.12 - SERVICE-WOHNE...,"[['Erdgeschosswohnung', '•', 'Leinach']]","['Balkon', 'EBK']",Preis Auf Anfrage,Wohnfläche ca. 44 m²,Zi. 1,62,9
+19,selObject_44987295,Ihre eigene DG-Wohnung mit Blick ins Grüne,"[['Dachgeschosswohnung', '•', 'Dorfen', 'Grüntegernbach']]",[],Miete zzgl. NK 690 €,Wohnfläche ca. 66 m²,Zi. 3,62,9
+20,selObject_44987294,Hochwertig und in ruhiger Lage - 35 Minuten nach Münch...,"[['Erdgeschosswohnung', '•', 'Dorfen', 'Grüntegernbach']]",[],Miete zzgl. NK 1.080 €,Wohnfläche ca. 103 m²,Zi. 3,62,9
+21,selObject_44987293,TOP-Neubau in erholsamer Lage,"[['Dachgeschosswohnung', '•', 'Dorfen', 'Grüntegernbach']]",[],Miete zzgl. NK 945 €,Wohnfläche ca. 90 m²,Zi. 3,62,9
+22,selObject_44987263,Exklusives 2-Zimmer-Dachgeschossapartment,"[['Dachgeschosswohnung', '•', 'Würzburg', 'Lengfeld']]","['Garten', 'EBK']",Miete zzgl. NK 650 €,Wohnfläche ca. 65 m²,Zi. 2,62,9
+23,selObject_44987254,Renovierte Wohnung im 2. Obergeschoss mit Balkon,"[['Kein', 'Bild'], ['Wohnung', '•', 'München']]","['Balkon', 'Garten']",Miete inkl. NK 1.050 €,Wohnfläche ca. 92 m²,"Zi. 1,5",62,9
+24,selObject_44987229,Gemütliche 3-Zimmer-Dachgeschoss-Mietwohnung in ruhige...,"[['Wohnung', '•', 'Röttenbach']]",['EBK'],Miete zzgl. NK 625 €,Wohnfläche ca. 78 m²,Zi. 3,62,9
+25,selObject_44987174,Perfekte Aufteilung auf 50 m² und 2 Zimmer. Hier ist...,"[['Wohnung', '•', 'Nürnberg', 'Gleißhammer']]",['EBK'],Miete zzgl. NK 420 €,Wohnfläche ca. 50 m²,Zi. 2,62,9
+26,selObject_44987170,Helles lichtdurchflutetes Appartment nach Sanierung in...,"[['Etagenwohnung', '•', 'Unterhaching']]","['Balkon', 'EBK']",Miete zzgl. NK 850 €,Wohnfläche ca. 40 m²,Zi. 1,62,9

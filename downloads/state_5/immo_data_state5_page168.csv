@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44708725,Schöne und Zentrale 2 Zimmer-Wohnung,"['Etagenwohnung', '•', 'Dortmund', 'Mitte']",[],Miete zzgl. NK 338 €,Wohnfläche ca. 45 m²,Zi. 2,168,5
-1,selObject_44708723,Schöne 4-Zimmer-Wohnung in Kamener Innenstadt,"['Etagenwohnung', '•', 'Kamen', 'Kamen-Mitte']",[],Miete zzgl. NK 485 €,Wohnfläche ca. 74 m²,Zi. 4,168,5
-2,selObject_44708714,Frisch renovierte 2-Zimmer-Wohnung in zentraler Lage,"['Wohnung', '•', 'Gummersbach', 'Gummersbach']",[],Miete zzgl. NK 360 €,Wohnfläche ca. 52 m²,Zi. 2,168,5
-3,selObject_44707780,Optimal für Jung und Alt: Barrierearme 2-Zimmer-Neubau...,"['Etagenwohnung', '•', 'Langenfeld', 'Berghausen']",['Balkon'],Miete zzgl. NK 930 €,Wohnfläche ca. 78 m²,Zi. 2,168,5
-4,selObject_44707649,Senioren Service-Wohnung Erstbezug,"['Erdgeschosswohnung', '•', 'Lippstadt', 'Bökenförde']","['Garten', 'EBK']",Miete inkl. NK 690 €,Wohnfläche ca. 60 m²,Zi. 2,168,5
-5,selObject_44707647,Senioren Service-Wohnung Erstbezug,"['Erdgeschosswohnung', '•', 'Lippstadt', 'Bökenförde']","['Garten', 'EBK']",Miete inkl. NK 690 €,Wohnfläche ca. 60 m²,Zi. 2,168,5
-6,selObject_44707646,Senioren Service-Wohnung Erstbezug,"['Erdgeschosswohnung', '•', 'Lippstadt', 'Bökenförde']","['Garten', 'EBK']",Miete inkl. NK 690 €,Wohnfläche ca. 60 m²,Zi. 2,168,5
-7,selObject_44707642,Senioren Service-Wohnung Erstbezug,"['Erdgeschosswohnung', '•', 'Lippstadt', 'Bökenförde']","['Garten', 'EBK']",Miete inkl. NK 690 €,Wohnfläche ca. 60 m²,Zi. 2,168,5
-8,selObject_44707640,Senioren Service-Wohnung Erstbezug,"['Erdgeschosswohnung', '•', 'Lippstadt', 'Bökenförde']","['Garten', 'EBK']",Miete inkl. NK 690 €,Wohnfläche ca. 60 m²,Zi. 2,168,5
-9,selObject_44707638,Senioren Service-Wohnung Erstbezug,"['Erdgeschosswohnung', '•', 'Lippstadt', 'Bökenförde']","['Garten', 'EBK']",Miete inkl. NK 690 €,Wohnfläche ca. 60 m²,Zi. 2,168,5
-10,selObject_44707637,Senioren Service-Wohnung Erstbezug,"['Erdgeschosswohnung', '•', 'Lippstadt', 'Bökenförde']","['Garten', 'EBK']",Miete inkl. NK 690 €,Wohnfläche ca. 60 m²,Zi. 2,168,5
-11,selObject_44707423,Renovierte 3 Zimmer-Wohnung in 32369 Rahden zu vermiet...,"['Etagenwohnung', '•', 'Rahden', 'Tonnenheide']",['Garten'],Miete zzgl. NK 430 €,Wohnfläche ca. 85 m²,Zi. 3,168,5
-12,selObject_44707387,1-Zimmer-Wohnung in Mülheim-Stadtmitte,"['Etagenwohnung', '•', 'Mülheim', 'Mitte']",[],"Miete zzgl. NK 379,08 €",Wohnfläche ca. 58 m²,Zi. 1,168,5
-13,selObject_44707285,Wuppertal - Elberfeld - Dachgeschosswohnung Nähe Luise...,"['Etagenwohnung', '•', 'Wuppertal', 'Elberfeld']",['Garten'],Miete zzgl. NK 390 €,Wohnfläche ca. 39 m²,Zi. 2,168,5
-14,selObject_44707272,Wuppertal - Elberfeld - Dachgeschosswohnung Nähe Luise...,"['Etagenwohnung', '•', 'Wuppertal', 'Elberfeld']",['Garten'],Miete zzgl. NK 480 €,Wohnfläche ca. 48 m²,Zi. 2,168,5
-15,selObject_44707100,"Holweide 3 Zimmerloftwohnung, Wohnen auf zwei Ebenen","['Wohnung', '•', 'Köln', 'Holweide']",[],"Miete zzgl. NK 869,50 €",Wohnfläche ca. 94 m²,Zi. 3,168,5
-16,selObject_44707086,"Renovierte, helle 4-Zimmer-Wohnung","['Etagenwohnung', '•', 'Hagen', 'Eilpe']",[],Miete zzgl. NK 495 €,Wohnfläche ca. 84 m²,Zi. 4,168,5
-17,selObject_44706912,Erstbezug - Großzügige seniorengerechte 3-Zimmerwohnun...,"['Etagenwohnung', '•', 'Geldern', 'Geldern']","['Balkon', 'EBK']",Miete zzgl. NK 899 €,Wohnfläche ca. 100 m²,Zi. 3,168,5
-18,selObject_44706907,Gemütliche 1 Zimmerwohnung mit tollen Balkon neben der...,"['Wohnung', '•', 'Paderborn', 'Kernstadt']","['Balkon', 'EBK']",Miete zzgl. NK 275 €,Wohnfläche ca. 28 m²,Zi. 1,168,5
-19,selObject_44706901,Großzügige 2 Zimmer-Wohnung mit schönem Balkon,"['Etagenwohnung', '•', 'Paderborn', 'Kernstadt']",['Balkon'],Miete zzgl. NK 750 €,Wohnfläche ca. 87 m²,Zi. 2,168,5
-20,selObject_44706873,Mülheim-Speldorf - 2 1/2 Raum Wohnung komplett möblier...,"['Wohnung', '•', 'Mülheim', 'Speldorf']","['Balkon', 'EBK']",Miete inkl. NK 850 €,Wohnfläche ca. 64 m²,Zi. 3,168,5
-21,selObject_44706731,SCHICKES APARTMENT IN ERKRATH - MIT EINBAUKÜCHE UND...,"['Erdgeschosswohnung', '•', 'Erkrath', 'Erkrath']","['Balkon', 'EBK']",Miete zzgl. NK 425 €,Wohnfläche ca. 40 m²,Zi. 1,168,5
-22,selObject_44706569,KR - direkt am Rhein! 150 m² Luxus-Wohnung mit Rheinbl...,"['Etagenwohnung', '•', 'Krefeld', 'Uerdingen']",[],Miete zzgl. NK 1.500 €,Wohnfläche ca. 151 m²,Zi. 3,168,5
-23,selObject_44706486,"Wuppertal-Wichlinghausen, 1-Raum-Wohnung mit Balkon ab...","['Apartment', '•', 'Wuppertal', 'Barmen']","['Balkon', 'Garten']",Miete zzgl. NK 266 €,Wohnfläche ca. 38 m²,Zi. 1,168,5
-24,selObject_44706389,"Renovierte Etagenwohnung mit Loggia in Hagen, Boeler...","['Etagenwohnung', '•', 'Hagen', 'Altenhagen']",[],Miete zzgl. NK 445 €,Wohnfläche ca. 75 m²,Zi. 3,168,5
-25,selObject_44706298,Schöne Wohnung sucht Mieter: günstige 2-Zimmer-Wohnung,"['Erdgeschosswohnung', '•', 'Essen', 'Frohnhausen']",[],Miete zzgl. NK 490 €,Wohnfläche ca. 61 m²,Zi. 2,168,5
-26,selObject_44706294,Sparen und genießen: Wärmedämmung und sanierte Balkone...,"['Erdgeschosswohnung', '•', 'Recklinghausen', 'Ost']",['Balkon'],"Miete zzgl. NK 448,81 €",Wohnfläche ca. 61 m²,"Zi. 4,5",168,5
+0,selObject_44726209,Helle und freundliche 3-Zimmer-Wohnung in zentraler...,"[['Erdgeschosswohnung', '•', 'Bielefeld', 'Innenstadt']]",[],Miete zzgl. NK 570 €,Wohnfläche ca. 75 m²,Zi. 3,168,5
+1,selObject_44726116,"""renovierte 3 Raumwohnung auf 67m² mit Balkon"" zu verm...","[['Etagenwohnung', '•', 'Wuppertal', 'Barmen']]",['Balkon'],Miete zzgl. NK 440 €,Wohnfläche ca. 67 m²,Zi. 3,168,5
+2,selObject_44726097,"""schicke 3 Raumwohnung auf 67m² mit Balkon"" zu vermiet...","[['Etagenwohnung', '•', 'Wuppertal', 'Barmen']]",['Balkon'],Miete zzgl. NK 440 €,Wohnfläche ca. 67 m²,Zi. 3,168,5
+3,selObject_44726088,2-Zimmer-Wohnung im 1. OG wartet auf neue Mieter,"[['Wohnung', '•', 'Recklinghausen', 'Suderwich']]",[],Miete zzgl. NK 360 €,Wohnfläche ca. 46 m²,Zi. 2,168,5
+4,selObject_44726058,"gepflegte Erdgeschosswohnung auf 78m²"" absofort zu...","[['Erdgeschosswohnung', '•', 'Wuppertal', 'Barmen']]",['Garten'],Miete zzgl. NK 520 €,Wohnfläche ca. 78 m²,Zi. 4,168,5
+5,selObject_44725954,Erstbezug: moderne Neubauwohnung in Ahaus-Alstätte,"[['Wohnung', '•', 'Ahaus', 'Alstätte']]",['Balkon'],Miete zzgl. NK 510 €,Wohnfläche ca. 59 m²,Zi. 2,168,5
+6,selObject_44725953,Erstbezug: moderne Neubauwohnung in Ahaus-Alstätte,"[['Wohnung', '•', 'Ahaus', 'Alstätte']]",[],Miete zzgl. NK 525 €,Wohnfläche ca. 61 m²,Zi. 2,168,5
+7,selObject_44725947,Erstbezug: moderne Neubauwohnung in Ahaus-Alstätte,"[['Wohnung', '•', 'Ahaus', 'Alstätte']]",['Balkon'],Miete zzgl. NK 665 €,Wohnfläche ca. 80 m²,Zi. 3,168,5
+8,selObject_44725948,Erstbezug: moderne Neubauwohnung in Ahaus-Alstätte,"[['Wohnung', '•', 'Ahaus', 'Alstätte']]",[],Miete zzgl. NK 710 €,Wohnfläche ca. 85 m²,Zi. 3,168,5
+9,selObject_44725951,Erstbezug: moderne Neubauwohnung in Ahaus-Alstätte,"[['Wohnung', '•', 'Ahaus', 'Alstätte']]",['Balkon'],Miete zzgl. NK 675 €,Wohnfläche ca. 81 m²,Zi. 3,168,5
+10,selObject_44725608,"Wohnen auf 2 Etagen, macht Eindruck, und schenkt Weitb...","[['Etagenwohnung', '•', 'Aachen', 'Aachen']]",['Balkon'],Miete zzgl. NK 1.250 €,Wohnfläche ca. 116 m²,Zi. 5,168,5
+11,selObject_44725350,"Ronovierte 3,5-Zimmer-Wohnung mit Balkon - PROVISIONSF...","[['Etagenwohnung', '•', 'Dinslaken', 'Innenstadt']]","['Balkon', 'Garten']",Miete zzgl. NK 390 €,Wohnfläche ca. 72 m²,Zi. 3,168,5
+12,selObject_44725349,Hier werden Träume wahr. Exklusive Penthousewohnung in...,"[['Etagenwohnung', '•', 'Würselen', 'Würselen']]",[],Miete zzgl. NK 1.140 €,Wohnfläche ca. 95 m²,Zi. 3,168,5
+13,selObject_44725332,"Schöne 2,5 Zimmer DG-Wohnung ca. 70 qm² für Sie, Ihn...","[['Dachgeschosswohnung', '•', 'Duisburg', 'Hochheide']]",[],Miete zzgl. NK 395 €,Wohnfläche ca. 70 m²,"Zi. 2,5",168,5
+14,selObject_44725275,Wohnung für Selbstrenovierer | 6 Monate ohne Kaltmiete...,"[['Etagenwohnung', '•', 'Bochum', 'Hofstede']]",[],Miete zzgl. NK 545 €,Wohnfläche ca. 78 m²,Zi. 2,168,5
+15,selObject_44725233,Gut aufgeteilte 3-Zimmer-Wohnung mit Terrasse nahe...,"[['Etagenwohnung', '•', 'Krefeld', 'Cracau']]",[],Miete zzgl. NK 525 €,Wohnfläche ca. 71 m²,Zi. 3,168,5
+16,selObject_44725212,2 Zimmer Wohnung nur mit Wohnberechtigungsschein,"[['Erdgeschosswohnung', '•', 'Windeck', 'Dattenfeld']]","['Garten', 'EBK']","Miete zzgl. NK 258,50 €",Wohnfläche ca. 47 m²,Zi. 2,168,5
+17,selObject_44724830,Interessant in Niederseßmar,"[['Dachgeschosswohnung', '•', 'Gummersbach', 'Niederseßmar']]",[],Miete zzgl. NK 512 €,Wohnfläche ca. 82 m²,Zi. 3,168,5
+18,selObject_44724765,"! KOMPLETT MÖBLIERT ! Derendorf, sehr schöne 2-Zimmer...","[['Etagenwohnung', '•', 'Düsseldorf', 'Derendorf']]","['Balkon', 'EBK']",Miete inkl. NK 950 €,Wohnfläche ca. 58 m²,Zi. 2,168,5
+19,selObject_44724654,"2,5 Zimmer Wohnung","[['Etagenwohnung', '•', 'Schwerte', 'Ergste']]",[],Miete zzgl. NK 260 €,Wohnfläche ca. 45 m²,Zi. 2,168,5
+20,selObject_44724635,Praktisch geschnittene 4-Zimmer-Wohnung zum Erstbezug...,"[['Etagenwohnung', '•', 'Düsseldorf', 'Heerdt']]",['Balkon'],Miete zzgl. NK 1.600 €,Wohnfläche ca. 107 m²,Zi. 4,168,5
+21,selObject_44724101,LUXUS WOHNEN ZUM ECONOMY PREIS! 500€ Prämie und 3 Mona...,"[['Etagenwohnung', '•', 'Dortmund', 'Wickede']]",['Balkon'],Miete zzgl. NK 629 €,Wohnfläche ca. 79 m²,Zi. 3,168,5
+22,selObject_44723744,2-Zimmer-Wohnung in Mülheim-Dümpten,"[['Etagenwohnung', '•', 'Mülheim', 'Dümpten']]",[],Miete zzgl. NK 496 €,Wohnfläche ca. 62 m²,Zi. 2,168,5
+23,selObject_44723297,Exklusiver Wohntraum: 3-Zimmer Wohnung über den Dächer...,"[['Etagenwohnung', '•', 'Aachen', 'Aachen']]",['EBK'],"Miete zzgl. NK 1.399,48 €",Wohnfläche ca. 102 m²,Zi. 3,168,5
+24,selObject_44723237,"DU - W`ort, Fischerstr. 93, 2. OG, 95 m², 3 Zimmer,...","[['Etagenwohnung', '•', 'Duisburg', 'Wanheimerort']]",['Balkon'],Miete zzgl. NK 500 €,Wohnfläche ca. 95 m²,Zi. 3,168,5
+25,selObject_44722241,"Komplett renovierte 3,5 Raum Wohnung in Rentfort-Nord,...","[['Wohnung', '•', 'Gladbeck', 'Rentfort-Nord']]",['Balkon'],Miete zzgl. NK 480 €,Wohnfläche ca. 69 m²,"Zi. 3,5",168,5
+26,selObject_44721859,MG -Rheydt-Centrum 2-Zimmer mit Balkon,"[['Etagenwohnung', '•', 'Mönchengladbach', 'Rheydt']]",['Balkon'],Miete zzgl. NK 440 €,Wohnfläche ca. 59 m²,Zi. 2,168,5

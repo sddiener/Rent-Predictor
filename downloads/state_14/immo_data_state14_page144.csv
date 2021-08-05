@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44807456,Top Sanierte 2-Raum Wohnung in schöner Lage in Chemnit...,"['Etagenwohnung', '•', 'Chemnitz', 'Hilbersdorf']",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 48 m²,Zi. 2,144,14
-1,selObject_44807426,Neu Sanierte 3-Raum Wohnung mit Balkon in ruhiger Lage...,"['Etagenwohnung', '•', 'Chemnitz', 'Hilbersdorf']",['Balkon'],Miete zzgl. NK 480 €,Wohnfläche ca. 79 m²,Zi. 3,144,14
-2,selObject_44807410,-- 2 Zimmer Wohnung mit Balkon--,"['Dachgeschosswohnung', '•', 'Leipzig', 'Reudnitz-Thonberg']",['Balkon'],"Miete zzgl. NK 546,30 €",Wohnfläche ca. 64 m²,Zi. 2,144,14
-3,selObject_44807405,Charmante Dachgeschosswohnung in ruhiger Lage in Chemn...,"['Etagenwohnung', '•', 'Chemnitz', 'Hilbersdorf']",[],Miete zzgl. NK 290 €,Wohnfläche ca. 58 m²,Zi. 2,144,14
-4,selObject_44807402,2 Raum Wohnung in der Nähe vom Wildpark - Neubau -,"['Etagenwohnung', '•', 'Leipzig', 'Connewitz']",['EBK'],Miete zzgl. NK 880 €,Wohnfläche ca. 100 m²,Zi. 2,144,14
-5,selObject_44807387,Neu Renovierte 2-Raum Wohnung mit Einbauküche in Chemn...,"['Etagenwohnung', '•', 'Chemnitz', 'Hilbersdorf']",['EBK'],Miete zzgl. NK 335 €,Wohnfläche ca. 60 m²,Zi. 2,144,14
-6,selObject_44807360,Kleine Wohnung im Stadtzentrum,"['Etagenwohnung', '•', 'Zittau', 'Zittau']",[],Miete zzgl. NK 225 €,Wohnfläche ca. 35 m²,Zi. 1,144,14
-7,selObject_44807344,3-Raum-Wohnung in Waltersdorf,"['Etagenwohnung', '•', 'Waltersdorf', 'Waltersdorf']",[],Miete zzgl. NK 316 €,Wohnfläche ca. 64 m²,Zi. 3,144,14
-8,selObject_44807299,"4-Raum-WE (Erstbezug nach Topsanierung + Umzugsbonus),...","['Etagenwohnung', '•', 'Lengenfeld', 'Lengenfeld']",['Garten'],Miete zzgl. NK 622 €,Wohnfläche ca. 106 m²,Zi. 4,144,14
-9,selObject_44807270,Freundliche 2-Raum Wohnung in einem ruhigen Wohncarreé...,"['Etagenwohnung', '•', 'Chemnitz', 'Hilbersdorf']",[],Miete zzgl. NK 300 €,Wohnfläche ca. 59 m²,Zi. 2,144,14
-10,selObject_44807178,Erstbezug nach Renovierung: 3-Raum-Wohnung am Stadtran...,"['Wohnung', '•', 'Riesa', 'Altriesa']",['Balkon'],Miete zzgl. NK 294 €,Wohnfläche ca. 60 m²,Zi. 3,144,14
-11,selObject_44807150,"1,5-Raum-Maisonettewohnung mit EBK in ruhiger Lage","['Etagenwohnung', '•', 'Zittau', 'Zittau']",['EBK'],Miete zzgl. NK 230 €,Wohnfläche ca. 48 m²,Zi. 2,144,14
-12,selObject_44806612,Elegante Maisonette Dachgeschosswohnung mit Tageslicht...,"['Dachgeschosswohnung', '•', 'Wurzen', 'Wurzen']",[],Miete zzgl. NK 440 €,Wohnfläche ca. 84 m²,Zi. 4,144,14
-13,selObject_44806609,Neu sanierte 2 Zimmer Wohnung im beliebten Connewitz,"['Wohnung', '•', 'Leipzig', 'Connewitz']",['Garten'],Miete zzgl. NK 480 €,Wohnfläche ca. 64 m²,Zi. 2,144,14
-14,selObject_44806580,Helle 1-Raumwohnung ohne Balkon,"['Wohnung', '•', 'Grimma', 'Grimma']",[],Miete zzgl. NK 154 €,Wohnfläche ca. 28 m²,Zi. 1,144,14
-15,selObject_44806578,Erstbezug nach Sanierung - mit Blick ins Grüne!,"['Wohnung', '•', 'Grimma', 'Wetteritz']",['Balkon'],"Miete zzgl. NK 350,81 €",Wohnfläche ca. 61 m²,Zi. 3,144,14
-16,selObject_44806553,Gemütliche 2-Raum-Wohnung mit Einbauküche in elegantem...,"['Etagenwohnung', '•', 'Leipzig', 'Gohlis-Mitte']","['Garten', 'EBK']",Miete zzgl. NK 350 €,Wohnfläche ca. 42 m²,Zi. 2,144,14
-17,selObject_44806524,Kleine Wohnung mit Singleküche - Marienthal,"['Wohnung', '•', 'Zwickau', 'Marienthal']",['EBK'],Miete zzgl. NK 165 €,Wohnfläche ca. 29 m²,Zi. 1,144,14
-18,selObject_44806521,schöne Dachgeschosswohnung mit Terrasse - zentrumsnah,"['Dachgeschosswohnung', '•', 'Zwickau', 'Bahnhofsvorstadt']",['Balkon'],Miete zzgl. NK 255 €,Wohnfläche ca. 49 m²,Zi. 1,144,14
-19,selObject_44806508,Geräumige 2-Raumwohnung mit Balkon,"['Etagenwohnung', '•', 'Hartha', 'Hartha']",['Balkon'],"Miete zzgl. NK 355,95 €",Wohnfläche ca. 51 m²,Zi. 2,144,14
-20,selObject_44806505,2-Raum-Wohnung mit Aufzug und Balkon,"['Etagenwohnung', '•', 'Hartha', 'Hartha']",['Balkon'],"Miete zzgl. NK 367,21 €",Wohnfläche ca. 51 m²,Zi. 2,144,14
-21,selObject_44806504,3-Raumwohnung - sofortiger Bezug möglich,"['Etagenwohnung', '•', 'Leipzig', 'Lößnig']",[],"Miete zzgl. NK 396,43 €",Wohnfläche ca. 55 m²,Zi. 3,144,14
-22,selObject_44806489,Modernisiert und bezugsfertig!,"['Etagenwohnung', '•', 'Hartha', 'Hartha']",['Balkon'],"Miete zzgl. NK 380,48 €",Wohnfläche ca. 51 m²,Zi. 2,144,14
-23,selObject_44806487,Frisch sanierte 4-Raumwohnung,"['Etagenwohnung', '•', 'Leipzig', 'Lößnig']",['Balkon'],"Miete zzgl. NK 549,29 €",Wohnfläche ca. 70 m²,Zi. 4,144,14
-24,selObject_44806475,2-Raum-Wohnung mit Balkon,"['Etagenwohnung', '•', 'Leipzig', 'Grünau-Ost']",['Balkon'],"Miete zzgl. NK 285,60 €",Wohnfläche ca. 47 m²,Zi. 2,144,14
-25,selObject_44806467,"Grün, grüner, Grünau","['Etagenwohnung', '•', 'Leipzig', 'Grünau-Nord']",['Balkon'],"Miete zzgl. NK 322,92 €",Wohnfläche ca. 49 m²,Zi. 2,144,14
-26,selObject_44806450,3-RWE mit kurzen Wegen - Sie können malern? Dann freu...,"['Etagenwohnung', '•', 'Leipzig', 'Paunsdorf']",['Balkon'],"Miete zzgl. NK 362,15 €",Wohnfläche ca. 62 m²,Zi. 3,144,14
+0,selObject_44844272,"Erstbezug, Singlewohnung mit Blick, sowie hervorragend...","[['Etagenwohnung', '•', 'Dresden', 'Prohlis-Süd']]",[],Miete zzgl. NK 190 €,Wohnfläche ca. 27 m²,Zi. 1,144,14
+1,selObject_44844238,//ERSTBEZUG (WBS) * Dachgeschoss-Familienwohnung mit...,"[['Etagenwohnung', '•', 'Leipzig', 'Leutzsch']]",['Balkon'],Miete zzgl. NK 487 €,Wohnfläche ca. 75 m²,Zi. 3,144,14
+2,selObject_44844230,//ERSTBEZUG (WBS) * Dachgeschoss-Wohnung mit sonnigem...,"[['Etagenwohnung', '•', 'Leipzig', 'Leutzsch']]",['Balkon'],"Miete zzgl. NK 276,50 €",Wohnfläche ca. 42 m²,Zi. 2,144,14
+3,selObject_44844228,//ERSTBEZUG (WBS) * 4-Zimmer im Dachgeschoss mit Aufzu...,"[['Etagenwohnung', '•', 'Leipzig', 'Leutzsch']]",['Balkon'],"Miete zzgl. NK 549,50 €",Wohnfläche ca. 85 m²,Zi. 4,144,14
+4,selObject_44844220,//ERSTBEZUG (WBS) * moderne Ausstattung und praktische...,"[['Etagenwohnung', '•', 'Leipzig', 'Leutzsch']]",[],Miete zzgl. NK 382 €,Wohnfläche ca. 59 m²,Zi. 2,144,14
+5,selObject_44844215,Altersgerechte 2- Raumwohnung mit Balkon,"[['Etagenwohnung', '•', 'Reichenbach', 'Reichenbach']]","['Balkon', 'Garten']",Miete zzgl. NK 456 €,Wohnfläche ca. 57 m²,Zi. 2,144,14
+6,selObject_44844207,"//ERSTBEZUG (WBS) * Familienfreundliche, helle 3-Zimme...","[['Etagenwohnung', '•', 'Leipzig', 'Leutzsch']]",[],"Miete zzgl. NK 481,50 €",Wohnfläche ca. 74 m²,Zi. 3,144,14
+7,selObject_44844201,//ERSTBEZUG (WBS) * Familien aufgepasst! 4 Zimmer mit...,"[['Etagenwohnung', '•', 'Leipzig', 'Leutzsch']]",['Balkon'],"Miete zzgl. NK 552,50 €",Wohnfläche ca. 85 m²,Zi. 4,144,14
+8,selObject_44844200,//ERSTBEZUG (WBS) * 2 Zimmer mit Blick zum Innenhof//,"[['Erdgeschosswohnung', '•', 'Leipzig', 'Leutzsch']]",['Balkon'],Miete zzgl. NK 383 €,Wohnfläche ca. 59 m²,Zi. 2,144,14
+9,selObject_44844198,//ERSTBEZUG (WBS) * tolle Familienwohnung mit vielen...,"[['Etagenwohnung', '•', 'Leipzig', 'Leutzsch']]",['Balkon'],Miete zzgl. NK 550 €,Wohnfläche ca. 85 m²,Zi. 4,144,14
+10,selObject_44844197,//ERSTBEZUG (WBS) * Singelwohnung mit Balkon zum Innen...,"[['Erdgeschosswohnung', '•', 'Leipzig', 'Leutzsch']]",['Balkon'],"Miete zzgl. NK 260,50 €",Wohnfläche ca. 40 m²,Zi. 2,144,14
+11,selObject_44844189,"Wohnen in ruhiger, grüner Lage !","[['Wohnung', '•', 'Zwickau', 'Crossen']]",[],Miete zzgl. NK 246 €,Wohnfläche ca. 50 m²,Zi. 2,144,14
+12,selObject_44844180,schöne helle 3 Raumwohnung im Erdgeschoss mit bodengle...,"[['Wohnung', '•', 'Lichtenstein', 'Lichtenstein']]",[],"Miete zzgl. NK 345,71 €",Wohnfläche ca. 64 m²,Zi. 3,144,14
+13,selObject_44844179,Schöne helle Zweiraumwohnung mit moderner Einbauküche!...,"[['Wohnung', '•', 'Lichtenstein', 'Lichtenstein']]","['Balkon', 'EBK']","Miete zzgl. NK 277,28 €",Wohnfläche ca. 50 m²,Zi. 2,144,14
+14,selObject_44844177,schöne 2-Raumwohnung mit Balkon und Abstellraum,"[['Wohnung', '•', 'Lichtenstein', 'Lichtenstein']]",['Balkon'],Miete zzgl. NK 217 €,Wohnfläche ca. 47 m²,Zi. 2,144,14
+15,selObject_44844178,Wohnung in Lichtenstein (Sachsen),"[['Wohnung', '•', 'Lichtenstein', 'Lichtenstein']]",['Balkon'],"Miete zzgl. NK 258,06 €",Wohnfläche ca. 51 m²,Zi. 2,144,14
+16,selObject_44844176,schöne altersgerechte Wohnung mit Fahrstuhl im Haus,"[['Wohnung', '•', 'Lichtenstein', 'Lichtenstein']]",[],"Miete zzgl. NK 319,36 €",Wohnfläche ca. 63 m²,Zi. 2,144,14
+17,selObject_44844175,schöne Zweiraumwohnung im Dachgeschoss,"[['Wohnung', '•', 'Lichtenstein', 'Lichtenstein']]",[],"Miete zzgl. NK 263,67 €",Wohnfläche ca. 56 m²,Zi. 2,144,14
+18,selObject_44844174,großzügige 4 Raumwohnung mit NEUER EINBAUKÜCHE und...,"[['Wohnung', '•', 'Lichtenstein', 'Lichtenstein']]","['Balkon', 'EBK']","Miete zzgl. NK 521,50 €",Wohnfläche ca. 90 m²,Zi. 4,144,14
+19,selObject_44844171,helle 2-Raumwohnung mit Balkon,"[['Wohnung', '•', 'Lichtenstein', 'Lichtenstein']]",['Balkon'],"Miete zzgl. NK 258,06 €",Wohnfläche ca. 51 m²,Zi. 2,144,14
+20,selObject_44844172,"schöne große 3 Raumwohnung mit NEUER EINBAUKÜCHE, 1.Mo...","[['Wohnung', '•', 'Lichtenstein', 'Lichtenstein']]","['Balkon', 'EBK']",Miete zzgl. NK 390 €,Wohnfläche ca. 71 m²,Zi. 3,144,14
+21,selObject_44844146,//ERSTBEZUG (WBS) * Familienwohnung mit moderner Ausst...,"[['Erdgeschosswohnung', '•', 'Leipzig', 'Leutzsch']]",['Balkon'],"Miete zzgl. NK 487,50 €",Wohnfläche ca. 75 m²,Zi. 3,144,14
+22,selObject_44844144,"2,0-Zimmerwohnung","[['Dachgeschosswohnung', '•', 'Zwickau', 'Pölbitz']]",[],Miete zzgl. NK 299 €,Wohnfläche ca. 49 m²,Zi. 2,144,14
+23,selObject_44844124,"Erstbezug, Singlewohnung mit Pentryküche und Blick,...","[['Etagenwohnung', '•', 'Dresden', 'Prohlis-Süd']]",[],Miete zzgl. NK 190 €,Wohnfläche ca. 27 m²,Zi. 1,144,14
+24,selObject_44844091,"Erstbezug, Singlewohnung mit Balkon und Blick, sowie...","[['Etagenwohnung', '•', 'Dresden', 'Prohlis-Süd']]",['Balkon'],Miete zzgl. NK 160 €,Wohnfläche ca. 26 m²,Zi. 1,144,14
+25,selObject_44844078,Perfekter Start - 1-Raum Wohnung auf der Fr.-Wolf-Stra...,"[['Wohnung', '•', 'Bautzen', 'Bautzen']]",['Balkon'],"Miete zzgl. NK 164,27 €",Wohnfläche ca. 32 m²,Zi. 1,144,14
+26,selObject_44844063,"Erstbezug, Singlewohnung mit Blick, sowie hervorragend...","[['Etagenwohnung', '•', 'Dresden', 'Prohlis-Süd']]",['Balkon'],Miete zzgl. NK 209 €,Wohnfläche ca. 26 m²,Zi. 1,144,14

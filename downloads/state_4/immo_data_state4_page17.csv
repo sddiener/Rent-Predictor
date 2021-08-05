@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44633689,Leben im Neubau: Traumhafte 2-Zi.-Whg. mit 2 Bädern...,"['Erdgeschosswohnung', '•', 'Bremen', 'Handelshäfen']",['EBK'],"Miete zzgl. NK 878,90 €",Wohnfläche ca. 88 m²,Zi. 2,17,4
-1,selObject_44621186,Blick ins Grüne: 2-Zimmer-Wohnung mit Loggia direkt am...,"['Etagenwohnung', '•', 'Bremen', 'Sodenmatt']",['EBK'],Miete zzgl. NK 480 €,Wohnfläche ca. 59 m²,Zi. 2,17,4
-2,selObject_44620094,Ruhige Lage - gut geschnitten - mit Fahrstuhl!,"['Erdgeschosswohnung', '•', 'Bremen', 'Barkhof']","['Balkon', 'EBK']",Miete zzgl. NK 775 €,Wohnfläche ca. 80 m²,Zi. 3,17,4
-3,selObject_44619544,"""An der Allee"" Helle Stadtvillawohnung mit Fussbodenhe...","['Etagenwohnung', '•', 'Bremerhaven', 'Mitte']",[],Miete zzgl. NK 695 €,Wohnfläche ca. 88 m²,Zi. 4,17,4
-4,selObject_44617191,Gepflegte 2-Zimmer Wohnung nahe der Bremerhavener Inne...,"['Etagenwohnung', '•', 'Bremerhaven', 'Mitte']","['Balkon', 'EBK']",Miete zzgl. NK 440 €,Wohnfläche ca. 63 m²,Zi. 2,17,4
-5,selObject_44615746,"Klein, fein, meins! 1-Zimmer-Wohnung ab sofort!","['Wohnung', '•', 'Bremerhaven', 'Geestemünde']",[],Miete zzgl. NK 272 €,Wohnfläche ca. 34 m²,Zi. 1,17,4
-6,selObject_44615677,Mehr braucht man nicht! 2-Zimmer-Wohnung mit Balkon ab...,"['Etagenwohnung', '•', 'Bremerhaven', 'Geestemünde']",['Balkon'],Miete zzgl. NK 345 €,Wohnfläche ca. 63 m²,Zi. 2,17,4
-7,selObject_44615654,Zwischen Moderne und Tradition,"['Wohnung', '•', 'Bremerhaven', 'Lehe']",[],Miete zzgl. NK 271 €,Wohnfläche ca. 57 m²,Zi. 2,17,4
-8,selObject_44613372,Wunderschöne Single-Wohnung in beliebter Innenstadtlag...,"['Wohnung', '•', 'Bremerhaven', 'Mitte']",['EBK'],Miete zzgl. NK 315 €,Wohnfläche ca. 41 m²,Zi. 2,17,4
-9,selObject_44612087,3-Zimmer-Wohnung mit Balkon in schöner Umgebung,"['Erdgeschosswohnung', '•', 'Bremen', 'St.', 'Magnus']",['Balkon'],"Miete zzgl. NK 534,75 €",Wohnfläche ca. 71 m²,Zi. 3,17,4
-10,selObject_44611479,Zentral gelegen,"['Wohnung', '•', 'Bremerhaven', 'Lehe']",[],Miete zzgl. NK 418 €,Wohnfläche ca. 62 m²,Zi. 3,17,4
-11,selObject_44611471,Ideal für Familien mit Kindern.,"['Wohnung', '•', 'Bremen', 'Lüssum-Bockhorn']",[],Miete zzgl. NK 324 €,Wohnfläche ca. 54 m²,Zi. 2,17,4
-12,selObject_44606643,Wohnen auf dem Stadtwerder - 3 Zimmerwohnung,"['Wohnung', '•', 'Bremen', 'Alte', 'Neustadt']",[],Miete zzgl. NK 1.302 €,Wohnfläche ca. 101 m²,Zi. 3,17,4
-13,selObject_44603421,Humboldtstr.: Angenehm wohnen,"['Wohnung', '•', 'Bremen', 'Fesenfeld']",['EBK'],Miete zzgl. NK 537 €,Wohnfläche ca. 42 m²,Zi. 2,17,4
-14,selObject_44600844,Hochwertig wohnen im Kastanienhof: Moderne 2-Zimmer-Wo...,"['Etagenwohnung', '•', 'Bremen', 'Blockdiek']","['Balkon', 'EBK']",Miete zzgl. NK 845 €,Wohnfläche ca. 55 m²,Zi. 2,17,4
-15,selObject_44600766,Neubau / Erstzbezug: Hochwertige & rollstuhlgerechte...,"['Etagenwohnung', '•', 'Bremen', 'Blockdiek']","['Balkon', 'EBK']",Miete zzgl. NK 995 €,Wohnfläche ca. 72 m²,Zi. 2,17,4
-16,selObject_44600746,Schöne 3-Zimmer Mietwohnung in ruhiger Lage von Geeste...,"['Etagenwohnung', '•', 'Bremerhaven', 'Geestemünde']",['Balkon'],Miete zzgl. NK 1.150 €,Wohnfläche ca. 107 m²,Zi. 3,17,4
-17,selObject_44598993,Bremen Huchting - gemütliche Wohnung in ruhiger Lage...,"['Etagenwohnung', '•', 'Bremen', 'Kirchhuchting']","['Balkon', 'EBK']",Miete zzgl. NK 550 €,Wohnfläche ca. 79 m²,"Zi. 3,5",17,4
-18,selObject_44597254,Wohngemeinschaften aufgepasst ! Wunderschön sanierte...,"['Etagenwohnung', '•', 'Bremen', 'Kattenturm']",['EBK'],Miete zzgl. NK 890 €,Wohnfläche ca. 87 m²,Zi. 3,17,4
-19,selObject_44596943,"Walle, Vegesacker Str. 1 Zi.-Whg. mit Balkon","['Apartment', '•', 'Bremen', 'Westend']",['Balkon'],Miete zzgl. NK 220 €,Wohnfläche ca. 27 m²,Zi. 1,17,4
-20,selObject_44591255,Bremen | Schwachhausen - Frisch sanierte EG-Wohnung,"['Erdgeschosswohnung', '•', 'Bremen', 'Radio', 'Bremen']",[],Miete zzgl. NK 400 €,,Zi. 1,17,4
-21,selObject_44588791,Moderne 3-Zimmer-Wohnung in zentraler Lage Schwachhaus...,"['Etagenwohnung', '•', 'Bremen', 'Riensberg']","['Balkon', 'EBK']",Miete zzgl. NK 730 €,Wohnfläche ca. 73 m²,Zi. 3,17,4
-22,selObject_44586311,Toller Ausblick in Sonnenuntergang - an Berufstätige...,"['Apartment', '•', 'Bremen', 'Gröpelingen']",[],Miete zzgl. NK 570 €,Wohnfläche ca. 60 m²,Zi. 2,17,4
-23,selObject_44585987,Gemütliche 2-Zimmer-Wohnung in Bremerhaven-Lehe,"['Wohnung', '•', 'Bremerhaven', 'Lehe']",['Balkon'],Miete zzgl. NK 270 €,Wohnfläche ca. 51 m²,Zi. 2,17,4
-24,selObject_44585983,Tolle 2-Zimmer-Wohnung in Bremerhaven-Lehe,"['Wohnung', '•', 'Bremerhaven', 'Lehe']",[],Miete zzgl. NK 340 €,Wohnfläche ca. 62 m²,Zi. 2,17,4
-25,selObject_27436479,2-Zimmer Wohnung,"['Wohnung', '•', 'Bremerhaven', 'Lehe']",[],Miete zzgl. NK 400 €,Wohnfläche ca. 63 m²,Zi. 2,17,4
-26,selObject_44584135,Bremen - Alt-Osterholz | Souterrainzimmer (OHNE Küche),"['Souterrainwohnung', '•', 'Bremen', 'Ellener', 'Feld']",[],Miete zzgl. NK 230 €,,Zi. 1,17,4
+0,selObject_44659259,Das macht strahlend gute Laune: Willkommen im neuen...,"[['Etagenwohnung', '•', 'Bremen', 'Lehesterdeich']]",['Balkon'],"Miete zzgl. NK 712,26 €",Wohnfläche ca. 79 m²,Zi. 3,17,4
+1,selObject_44659104,Die gefällt mir: günstig geschnittene 3-Zimmer-Wohnung,"[['Etagenwohnung', '•', 'Bremen', 'Lehesterdeich']]",['Balkon'],"Miete zzgl. NK 666,54 €",Wohnfläche ca. 74 m²,Zi. 3,17,4
+2,selObject_44648632,3-ZKB und Balkon mit Stellplatz und Gartennutzung -...,"[['Dachgeschosswohnung', '•', 'Bremerhaven', 'Lehe']]","['Garten', 'EBK']",Miete zzgl. NK 620 €,Wohnfläche ca. 85 m²,Zi. 3,17,4
+3,selObject_44646230,Ruhiges und stadtnahes Wohnen!,"[['Etagenwohnung', '•', 'Bremen', 'Gartenstadt', 'Süd']]",['Balkon'],Miete zzgl. NK 549 €,Wohnfläche ca. 62 m²,"Zi. 1,5",17,4
+4,selObject_44645497,Zwei-Zimmer-Wohnung in ruhiger Lage nahe Waller Park,"[['Etagenwohnung', '•', 'Bremen', 'Blockland']]","['Balkon', 'EBK']",Miete zzgl. NK 590 €,Wohnfläche ca. 64 m²,Zi. 2,17,4
+5,selObject_44642565,Erstbezug nach Sanierung: Ansprechende 2-Zimmer Wohnun...,"[['Etagenwohnung', '•', 'Bremen', 'Arbergen']]",['EBK'],Miete zzgl. NK 500 €,Wohnfläche ca. 51 m²,Zi. 2,17,4
+6,selObject_44640683,"Schöne 2,5 Zi Wohnung mitten in Vegesack!","[['Etagenwohnung', '•', 'Bremen', 'Vegesack']]","['Balkon', 'EBK']",Miete zzgl. NK 685 €,Wohnfläche ca. 80 m²,"Zi. 2,5",17,4
+7,selObject_44640674,Traumhafte Loftwohnung in der Überseestadt zu vermiete...,"[['Loft-Studio-Atelier', '•', 'Bremen', 'Handelshäfen']]",['EBK'],Miete zzgl. NK 2.500 €,Wohnfläche ca. 193 m²,Zi. 4,17,4
+8,selObject_44640555,"Schöne 2-Zimmerwohnung, zentral gelegen in der Zollstr...","[['Etagenwohnung', '•', 'Bremen', 'Vegesack']]","['Balkon', 'EBK']",Miete zzgl. NK 520 €,Wohnfläche ca. 60 m²,Zi. 2,17,4
+9,selObject_44640387,Helle 3 Zimmerwohnung im Herzen von Schönebeck mit...,"[['Etagenwohnung', '•', 'Bremen', 'Schönebeck']]",['Balkon'],Miete zzgl. NK 550 €,Wohnfläche ca. 65 m²,Zi. 3,17,4
+10,selObject_44639477,PURNHAGEN-IMMOBILIEN - 3-Zimmer-Wohnung im Vegesacker...,"[['Etagenwohnung', '•', 'Bremen', 'Vegesack']]",['EBK'],Miete zzgl. NK 450 €,Wohnfläche ca. 64 m²,Zi. 3,17,4
+11,selObject_44638383,Barrierefreie 3 Zimmer Wohnung im Erdgeschoss mit...,"[['Wohnung', '•', 'Bremen', 'Mahndorf']]","['Balkon', 'EBK']",Miete zzgl. NK 775 €,Wohnfläche ca. 81 m²,Zi. 3,17,4
+12,selObject_44636300,Ruhige Lage,"[['Wohnung', '•', 'Bremerhaven', 'Wulsdorf']]",['Balkon'],Miete zzgl. NK 178 €,Wohnfläche ca. 32 m²,Zi. 1,17,4
+13,selObject_44634204,Top sanierte und renovierte 2 Zimmerwohnung in zentral...,"[['Etagenwohnung', '•', 'Bremen', 'Fesenfeld']]",['EBK'],Miete zzgl. NK 485 €,Wohnfläche ca. 45 m²,Zi. 2,17,4
+14,selObject_44633689,Leben im Neubau: Traumhafte 2-Zi.-Whg. mit 2 Bädern...,"[['Erdgeschosswohnung', '•', 'Bremen', 'Handelshäfen']]",['EBK'],"Miete zzgl. NK 878,90 €",Wohnfläche ca. 88 m²,Zi. 2,17,4
+15,selObject_44621186,Blick ins Grüne: 2-Zimmer-Wohnung mit Loggia direkt am...,"[['Etagenwohnung', '•', 'Bremen', 'Sodenmatt']]",['EBK'],Miete zzgl. NK 480 €,Wohnfläche ca. 59 m²,Zi. 2,17,4
+16,selObject_44620094,Ruhige Lage - gut geschnitten - mit Fahrstuhl!,"[['Erdgeschosswohnung', '•', 'Bremen', 'Barkhof']]","['Balkon', 'EBK']",Miete zzgl. NK 775 €,Wohnfläche ca. 80 m²,Zi. 3,17,4
+17,selObject_44619544,"""An der Allee"" Helle Stadtvillawohnung mit Fussbodenhe...","[['Etagenwohnung', '•', 'Bremerhaven', 'Mitte']]",[],Miete zzgl. NK 695 €,Wohnfläche ca. 88 m²,Zi. 4,17,4
+18,selObject_44617191,Gepflegte 2-Zimmer Wohnung nahe der Bremerhavener Inne...,"[['Etagenwohnung', '•', 'Bremerhaven', 'Mitte']]","['Balkon', 'EBK']",Miete zzgl. NK 440 €,Wohnfläche ca. 63 m²,Zi. 2,17,4
+19,selObject_44615746,"Klein, fein, meins! 1-Zimmer-Wohnung ab sofort!","[['Wohnung', '•', 'Bremerhaven', 'Geestemünde']]",[],Miete zzgl. NK 272 €,Wohnfläche ca. 34 m²,Zi. 1,17,4
+20,selObject_44615677,Mehr braucht man nicht! 2-Zimmer-Wohnung mit Balkon ab...,"[['Etagenwohnung', '•', 'Bremerhaven', 'Geestemünde']]",['Balkon'],Miete zzgl. NK 345 €,Wohnfläche ca. 63 m²,Zi. 2,17,4
+21,selObject_44615654,Zwischen Moderne und Tradition,"[['Wohnung', '•', 'Bremerhaven', 'Lehe']]",[],Miete zzgl. NK 271 €,Wohnfläche ca. 57 m²,Zi. 2,17,4
+22,selObject_44613372,Wunderschöne Single-Wohnung in beliebter Innenstadtlag...,"[['Wohnung', '•', 'Bremerhaven', 'Mitte']]",['EBK'],Miete zzgl. NK 315 €,Wohnfläche ca. 41 m²,Zi. 2,17,4
+23,selObject_44612087,3-Zimmer-Wohnung mit Balkon in schöner Umgebung,"[['Erdgeschosswohnung', '•', 'Bremen', 'St.', 'Magnus']]",['Balkon'],"Miete zzgl. NK 534,75 €",Wohnfläche ca. 71 m²,Zi. 3,17,4
+24,selObject_44611479,Zentral gelegen,"[['Wohnung', '•', 'Bremerhaven', 'Lehe']]",[],Miete zzgl. NK 418 €,Wohnfläche ca. 62 m²,Zi. 3,17,4
+25,selObject_44611471,Ideal für Familien mit Kindern.,"[['Wohnung', '•', 'Bremen', 'Lüssum-Bockhorn']]",[],Miete zzgl. NK 324 €,Wohnfläche ca. 54 m²,Zi. 2,17,4
+26,selObject_44606643,Wohnen auf dem Stadtwerder - 3 Zimmerwohnung,"[['Wohnung', '•', 'Bremen', 'Alte', 'Neustadt']]",[],Miete zzgl. NK 1.302 €,Wohnfläche ca. 101 m²,Zi. 3,17,4

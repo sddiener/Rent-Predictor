@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44838450,Pfiffikuss-Aktionswohnung! Wohnen in der Familiengenos...,"['Etagenwohnung', '•', 'Magdeburg', 'Stadtfeld', 'West']",['Balkon'],"Miete zzgl. NK 329,39 €",Wohnfläche ca. 59 m²,Zi. 3,45,15
-1,selObject_44838448,Mich zieht es nach Stadtfeld Ost,"['Etagenwohnung', '•', 'Magdeburg', 'Stadtfeld', 'Ost']",[],"Miete zzgl. NK 248,94 €",Wohnfläche ca. 46 m²,Zi. 2,45,15
-2,selObject_44838281,Einziehen und Wohlfühlen! Moderne Wohnung Nahe Heide-S...,"['Wohnung', '•', 'Halle', 'Nördliche', 'Neustadt']",['Balkon'],Miete zzgl. NK 263 €,Wohnfläche ca. 57 m²,Zi. 3,45,15
-3,selObject_44837472,"In der Herrichtung! Im Süden, tolle Infrastruktur +...","['Etagenwohnung', '•', 'Halle', 'Südstadt']",['Balkon'],Miete zzgl. NK 365 €,Wohnfläche ca. 60 m²,Zi. 3,45,15
-4,selObject_44835098,FamilienWohnung,"['Etagenwohnung', '•', 'Halle', 'Heide', 'Nord']",['Balkon'],"Miete zzgl. NK 496,53 €",Wohnfläche ca. 94 m²,Zi. 5,45,15
-5,selObject_44835095,2-Raum-Wohnung in zentraler Südstadtlage,"['Etagenwohnung', '•', 'Halle', 'Südstadt']",['Balkon'],"Miete zzgl. NK 327,16 €",Wohnfläche ca. 50 m²,Zi. 2,45,15
-6,selObject_44835097,Erstbezug nach Sanierung - schon jetzt besichtigen,"['Etagenwohnung', '•', 'Halle', 'Südstadt']",['Balkon'],"Miete zzgl. NK 415,22 €",Wohnfläche ca. 59 m²,Zi. 3,45,15
-7,selObject_44833608,"Queis : Helle, moderne Dachgeschosswohnung","['Etagenwohnung', '•', 'Landsberg', 'Queis']",['Balkon'],Miete zzgl. NK 470 €,Wohnfläche ca. 77 m²,Zi. 2,45,15
-8,selObject_44833607,Zwischen Amselgrund und Fuchsberg,"['Etagenwohnung', '•', 'Halle', 'Kröllwitz']",[],Miete zzgl. NK 400 €,Wohnfläche ca. 40 m²,Zi. 2,45,15
-9,selObject_44832634,Kurzexposé 1406/1/6,"['Erdgeschosswohnung', '•', 'Stendal', 'Stendal']",[],"Miete zzgl. NK 742,98 €",Wohnfläche ca. 106 m²,Zi. 4,45,15
-10,selObject_44831832,Ruhig gelegene 2-Zimmer-Wohnung mit offener Küche,"['Dachgeschosswohnung', '•', 'Zeitz', 'Zeitz']",[],Miete zzgl. NK 250 €,Wohnfläche ca. 50 m²,Zi. 2,45,15
-11,selObject_44831615,"Nachmieter gesucht schöne 3-R.Wohnung, ca.74,09m²,im...","['Etagenwohnung', '•', 'Magdeburg', 'Leipziger', 'Str.']","['Balkon', 'EBK']",Miete zzgl. NK 425 €,Wohnfläche ca. 74 m²,Zi. 3,45,15
-12,selObject_44831276,altersgerechte 3 RW in der R.- Breitscheid- Straße,"['Erdgeschosswohnung', '•', 'Sangerhausen', 'Sangerhausen']",[],Miete zzgl. NK 585 €,Wohnfläche ca. 90 m²,Zi. 3,45,15
-13,selObject_44831172,Maisonettewohnung mit Balkon in Sangerhausen,"['Maisonette', '•', 'Sangerhausen', 'Sangerhausen']",['Balkon'],Miete zzgl. NK 359 €,Wohnfläche ca. 60 m²,Zi. 2,45,15
-14,selObject_44831126,2 - Zimmer nur für Sie!,"['Wohnung', '•', 'Bernburg', 'Bernburg']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 251 €,Wohnfläche ca. 49 m²,Zi. 2,45,15
-15,selObject_44831086,Moderne 3-RW mit Balkon und Tageslichtbad!,"['Etagenwohnung', '•', 'Halle', 'Südstadt']","['Balkon', 'Garten']",Miete zzgl. NK 350 €,Wohnfläche ca. 60 m²,Zi. 3,45,15
-16,selObject_44830171,++ Schöne 3-Zimmer-Wohnung mit Balkon ++ und KÜCHE,"['Etagenwohnung', '•', 'Halberstadt', 'Halberstadt']",['Balkon'],Miete zzgl. NK 438 €,Wohnfläche ca. 74 m²,Zi. 3,45,15
-17,selObject_44828990,"Merseburg - absolut ruhige 2-Zimmer-Wohnung mit Lift,...","['Etagenwohnung', '•', 'Merseburg', 'Merseburg']","['Balkon', 'Garten']",Miete zzgl. NK 340 €,Wohnfläche ca. 51 m²,Zi. 2,45,15
-18,selObject_44828914,Kleine 3 Zi. - DG - Wohnung mit Balkon***1 Monat kaltm...,"['Dachgeschosswohnung', '•', 'Zeitz', 'Zeitz']",['Balkon'],Miete zzgl. NK 300 €,Wohnfläche ca. 64 m²,Zi. 3,45,15
-19,selObject_44828913,2-Zimmer-Wohnung in Magdeburg bezugsfertig ab 01.10.20...,"['Wohnung', '•', 'Magdeburg', 'Sudenburg']",['Balkon'],"Miete zzgl. NK 479,88 €",Wohnfläche ca. 53 m²,Zi. 2,45,15
-20,selObject_44828898,Gemütliche Abende am Kamin verbringen,"['Erdgeschosswohnung', '•', 'Köthen']",[],Miete zzgl. NK 337 €,Wohnfläche ca. 73 m²,Zi. 3,45,15
-21,selObject_44828878,Schicke Dreiraumwohnung mit Einbauküche,"['Etagenwohnung', '•', 'Glauzig', 'Glauzig']",['EBK'],Miete zzgl. NK 440 €,Wohnfläche ca. 85 m²,Zi. 3,45,15
-22,selObject_44828871,Erstbezug nach aufwendiger Sanierung*3Raum*Balkon*absc...,"['Wohnung', '•', 'Dessau-Roßlau', 'Innenstadt']",['Balkon'],Miete zzgl. NK 495 €,Wohnfläche ca. 66 m²,Zi. 3,45,15
-23,selObject_44828695,gemütliche 2 Zimmer Wohnung mit Küche,"['Etagenwohnung', '•', 'Schönebeck', 'Schönebeck']",['Garten'],Miete zzgl. NK 230 €,Wohnfläche ca. 46 m²,Zi. 2,45,15
-24,selObject_44828243,3-R-Wohnung sucht neue Mieter,"['Etagenwohnung', '•', 'Mücheln']",['Balkon'],Miete zzgl. NK 300 €,Wohnfläche ca. 59 m²,Zi. 3,45,15
-25,selObject_44828122,Seniorengerechtes Wohnen im Tiergartenviertel - 1-Raum...,"['Erdgeschosswohnung', '•', 'Stendal', 'Stendal']",['Balkon'],"Miete zzgl. NK 280,96 €",Wohnfläche ca. 31 m²,Zi. 1,45,15
-26,selObject_44828116,Wohnen. Leben. Wohlfühlen.,"['Wohnung', '•', 'Stendal', 'Uchtspringe']",[],"Miete zzgl. NK 310,75 €",Wohnfläche ca. 62 m²,Zi. 2,45,15
+0,selObject_44855222,schöne 1 Raum Wohnung in bester Lage von Bernburg,"[['Erdgeschosswohnung', '•', 'Bernburg', 'Bernburg']]","['Garten', 'EBK']",Miete zzgl. NK 270 €,Wohnfläche ca. 35 m²,Zi. 1,45,15
+1,selObject_44855010,Schöner wohnen: 2-Zimmerwohnung mit Dachterrasse,"[['Dachgeschosswohnung', '•', 'Naumburg', 'Naumburg']]",[],"Miete zzgl. NK 399,57 €",Wohnfläche ca. 63 m²,Zi. 2,45,15
+2,selObject_44854807,Begehrte Altstadtlage,"[['Etagenwohnung', '•', 'Naumburg', 'Bad', 'Kösen']]",[],Miete zzgl. NK 290 €,Wohnfläche ca. 48 m²,Zi. 2,45,15
+3,selObject_44854295,1-Zimmerwohnung direkt am Markt!,"[['Etagenwohnung', '•', 'Halle', 'Altstadt']]",['Balkon'],Miete zzgl. NK 325 €,Wohnfläche ca. 45 m²,Zi. 1,45,15
+4,selObject_44854232,sonnige 2-Raum-Wohnung mit Balkon und Stellplatz in...,"[['Etagenwohnung', '•', 'Calbe', 'Calbe']]",['Balkon'],Miete zzgl. NK 280 €,Wohnfläche ca. 52 m²,Zi. 2,45,15
+5,selObject_44853917,"4-Zimmer,Viel Platz für Ihre Familie","[['Etagenwohnung', '•', 'Weißenfels', 'Weißenfels']]",[],Miete zzgl. NK 350 €,Wohnfläche ca. 80 m²,Zi. 4,45,15
+6,selObject_44853907,2-Zimmer-Wohnung,"[['Wohnung', '•', 'Staßfurt', 'Staßfurt']]",['Garten'],Miete zzgl. NK 220 €,Wohnfläche ca. 41 m²,Zi. 2,45,15
+7,selObject_44853754,Studio-Apartment mit Einbauküche in zentraler Lage,"[['Etagenwohnung', '•', 'Halle', 'Paulusviertel']]",['EBK'],Miete zzgl. NK 312 €,Wohnfläche ca. 29 m²,Zi. 1,45,15
+8,selObject_44853703,Jetzt zuschlagen: Kompaktes Single-Apartment nahe der...,"[['Etagenwohnung', '•', 'Halle', 'Paulusviertel']]",['EBK'],Miete zzgl. NK 291 €,Wohnfläche ca. 27 m²,Zi. 1,45,15
+9,selObject_44853071,Familienwohnung wie für Sie gemacht,"[['Wohnung', '•', 'Bernburg', 'Bernburg']]",[],Miete zzgl. NK 380 €,Wohnfläche ca. 74 m²,Zi. 4,45,15
+10,selObject_44852914,Perfekt für Zwei!,"[['Wohnung', '•', 'Bernburg', 'Bernburg']]",[],Miete zzgl. NK 276 €,Wohnfläche ca. 46 m²,Zi. 2,45,15
+11,selObject_44852771,"Ihr neues Zuhause, frisch renovierte, gut geschnittene...","[['Erdgeschosswohnung', '•', 'Magdeburg', 'Alte', 'Neustadt']]",['Balkon'],Miete zzgl. NK 325 €,Wohnfläche ca. 50 m²,Zi. 2,45,15
+12,selObject_44852655,Schöne Einraumwohnung in südlicher Innenstadt,"[['Etagenwohnung', '•', 'Halle', 'Innenstadt']]",[],Miete zzgl. NK 379 €,Wohnfläche ca. 59 m²,Zi. 2,45,15
+13,selObject_44852590,Schöne 2- Zimmerwohnung im Zentrum Naumburgs mit Parke...,"[['Wohnung', '•', 'Naumburg', 'Naumburg']]",[],Miete zzgl. NK 295 €,Wohnfläche ca. 49 m²,Zi. 2,45,15
+14,selObject_44852391,...2 Monate Kaltmietfrei...,"[['Etagenwohnung', '•', 'Aschersleben', 'Aschersleben']]",['EBK'],Miete zzgl. NK 202 €,Wohnfläche ca. 38 m²,Zi. 2,45,15
+15,selObject_44852358,Schicke DG- Wohnung mit sonnigem Balkon und EBK,"[['Maisonette', '•', 'Plötzkau', 'Bründel']]",['EBK'],Miete zzgl. NK 275 €,Wohnfläche ca. 55 m²,Zi. 2,45,15
+16,selObject_44852180,schöne helle modernisierte 3 Zimmerwohnung im Zentrum...,"[['Etagenwohnung', '•', 'Stendal', 'Stendal']]",['Garten'],Miete zzgl. NK 330 €,Wohnfläche ca. 60 m²,Zi. 3,45,15
+17,selObject_44852132,++ Geräumige 2-Zimmer-Wohnung in Top Lage ++,"[['Erdgeschosswohnung', '•', 'Zeitz', 'Zeitz']]",['Balkon'],Miete zzgl. NK 485 €,Wohnfläche ca. 78 m²,Zi. 2,45,15
+18,selObject_44852078,Kurzexposé 1021/2/16,"[['Erdgeschosswohnung', '•', 'Zeitz', 'Zeitz']]",['Balkon'],"Miete zzgl. NK 300,10 €",Wohnfläche ca. 63 m²,Zi. 3,45,15
+19,selObject_44852076,Kurzexposé 2364/1/7,"[['Wohnung', '•', 'Zeitz', 'Zeitz']]",['Balkon'],"Miete zzgl. NK 257,50 €",Wohnfläche ca. 52 m²,Zi. 2,45,15
+20,selObject_44852077,Kurzexposé 2249/1/3,"[['Wohnung', '•', 'Zeitz', 'Zeitz']]",['Balkon'],"Miete zzgl. NK 289,44 €",Wohnfläche ca. 60 m²,Zi. 2,45,15
+21,selObject_44852075,Kurzexposé 1007/3/29,"[['Wohnung', '•', 'Zeitz', 'Zeitz']]",['Balkon'],"Miete zzgl. NK 314,40 €",Wohnfläche ca. 66 m²,Zi. 2,45,15
+22,selObject_44852046,sofort zu haben!,"[['Erdgeschosswohnung', '•', 'Bernburg', 'Bernburg']]","['Garten', 'EBK']",Miete zzgl. NK 230 €,Wohnfläche ca. 47 m²,Zi. 2,45,15
+23,selObject_44852032,Ein neuer Balkon wartet auf Genießer,"[['Wohnung', '•', 'Bad', 'Dürrenberg', 'Bad', 'Dürrenberg']]",['Balkon'],Miete zzgl. NK 266 €,Wohnfläche ca. 43 m²,Zi. 2,45,15
+24,selObject_44852030,Zentral Wohnen mit schönem Badezimmer und sonnigem...,"[['Wohnung', '•', 'Bad', 'Dürrenberg', 'Bad', 'Dürrenberg']]",['Balkon'],"Miete zzgl. NK 363,18 €",Wohnfläche ca. 61 m²,Zi. 3,45,15
+25,selObject_44852029,"Gemütlich, klein, fein und mein","[['Wohnung', '•', 'Bad', 'Dürrenberg', 'Bad', 'Dürrenberg']]",['Balkon'],Miete zzgl. NK 200 €,Wohnfläche ca. 32 m²,Zi. 1,45,15
+26,selObject_44852026,Dein neues Zuhause - tolle 2-Raumwohnung mit Balkon,"[['Wohnung', '•', 'Bad', 'Dürrenberg', 'Bad', 'Dürrenberg']]",['Balkon'],Miete zzgl. NK 275 €,Wohnfläche ca. 49 m²,Zi. 2,45,15

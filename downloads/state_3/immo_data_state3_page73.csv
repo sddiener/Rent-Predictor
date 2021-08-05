@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44679171,Helle und moderne 3-Zimmer Wohnung mit Einbauküche!,"['Dachgeschosswohnung', '•', 'Wathlingen', 'Wathlingen']","['Garten', 'EBK']",Miete zzgl. NK 944 €,Wohnfläche ca. 119 m²,Zi. 3,73,3
-1,selObject_44678180,Schicke 2-Zimmer-Wohnung mit Balkon und Tagslichtbad,"['Erdgeschosswohnung', '•', 'Seelze', 'Seelze']",['Balkon'],"Miete zzgl. NK 593,51 €",Wohnfläche ca. 60 m²,Zi. 2,73,3
-2,selObject_44678179,Lust auf Veränderung - Moderne 3-Zimmer-Wohnung mit...,"['Etagenwohnung', '•', 'Hannover', 'Stöcken']",['Balkon'],"Miete zzgl. NK 654,18 €",Wohnfläche ca. 65 m²,Zi. 3,73,3
-3,selObject_44678162,"Viel Platz, barrierearm und in bester Lage - Ihr neues...","['Erdgeschosswohnung', '•', 'Braunschweig', 'Braunschweig']",[],"Miete zzgl. NK 493,82 €",Wohnfläche ca. 63 m²,Zi. 3,73,3
-4,selObject_44677842,**ERSTBEZUG**TOP LAGE**PENTHOUSE mit großer Dachterras...,"['Penthouse', '•', 'Weyhe', 'Leeste']",['EBK'],Miete zzgl. NK 1.550 €,Wohnfläche ca. 141 m²,Zi. 3,73,3
-5,selObject_44676228,Maisonettewohnung im Zentrum mit Aufzug und Tiefgarage...,"['Maisonette', '•', 'Meppen', 'Altstadt']","['Balkon', 'EBK']",Miete zzgl. NK 650 €,Wohnfläche ca. 94 m²,Zi. 3,73,3
-6,selObject_44675310,geräumige DREI-ZIMMER-WOHNUNG in Stade-Ottenbeck,"['Wohnung', '•', 'Stade', 'Stade']","['Balkon', 'EBK']",Miete zzgl. NK 665 €,Wohnfläche ca. 96 m²,Zi. 3,73,3
-7,selObject_44673529,Schick renoviert: 2-Zimmer-Dachgeschosswohnung (2. OG),"['Dachgeschosswohnung', '•', 'Braunschweig', 'Querum']",[],"Miete zzgl. NK 441,61 €",Wohnfläche ca. 43 m²,Zi. 2,73,3
-8,selObject_44669345,Gepflegte 2 ZKB mit Stellplatz in Staufenberg-Uschlag,"['Dachgeschosswohnung', '•', 'Staufenberg', 'Uschlag']",[],Miete zzgl. NK 330 €,Wohnfläche ca. 43 m²,Zi. 2,73,3
-9,selObject_44668583,Großzügige Obergeschosswohnung mit Einbauküche in der...,"['Etagenwohnung', '•', 'Friesoythe', 'Kampe']",['EBK'],Miete inkl. NK 750 €,Wohnfläche ca. 130 m²,Zi. 4,73,3
-10,selObject_44667480,Geräumige Dachgeschosswohnung in toller Lage,"['Dachgeschosswohnung', '•', 'Ostrhauderfehn', 'Idafehn']",['EBK'],Miete zzgl. NK 550 €,Wohnfläche ca. 68 m²,Zi. 3,73,3
-11,selObject_44667230,LESSINGHÖFE! Großzügige 2 Zimmer im ERSTBEZUG!,"['Wohnung', '•', 'Neu', 'Wulmstorf', 'Elstorf']","['Balkon', 'EBK']",Miete zzgl. NK 885 €,Wohnfläche ca. 77 m²,Zi. 2,73,3
-12,selObject_44667162,2-Zi.-Wohnung am Mittellandkanal | Constantin Quartier,"['Etagenwohnung', '•', 'Hannover', 'List']",['EBK'],Miete zzgl. NK 900 €,Wohnfläche ca. 59 m²,Zi. 2,73,3
-13,selObject_44666890,"Großzügige 4 Zi.-Whg. mit 2 Bädern, Aufzug, Südbalkon...","['Etagenwohnung', '•', 'Hannover', 'List']",['EBK'],Miete zzgl. NK 1.480 €,Wohnfläche ca. 108 m²,Zi. 4,73,3
-14,selObject_44666247,Gemütliche 2-Zimmer-DG-Whg. in der Hauptstraße von Neu...,"['Dachgeschosswohnung', '•', 'Neu', 'Wulmstorf', 'Neu', 'Wulmstorf']",['EBK'],Miete zzgl. NK 650 €,Wohnfläche ca. 73 m²,Zi. 2,73,3
-15,selObject_44666143,Helle 4-Zimmer- Maisonette-Wohnung in Achim ab sofort...,"['Maisonette', '•', 'Achim', 'Achim']",['Balkon'],Miete zzgl. NK 790 €,Wohnfläche ca. 88 m²,Zi. 4,73,3
-16,selObject_44665803,"Frisch renovierte, zentral gelegene 4-Zimmerwohnung in...","['Etagenwohnung', '•', 'Buchholz', 'Buchholz']","['Balkon', 'EBK']",Miete zzgl. NK 850 €,Wohnfläche ca. 95 m²,Zi. 4,73,3
-17,selObject_44665165,Ruhig aber zentral mitten in Hameln-City! Schönes Denk...,"['Wohnung', '•', 'Hameln', 'Innenstadt']","['Balkon', 'EBK']",Miete zzgl. NK 940 €,Wohnfläche ca. 130 m²,"Zi. 3,5",73,3
-18,selObject_44663860,"Möblierte, gepflegte Appartements in (Studenten)-Wohnh...","['Etagenwohnung', '•', 'Elsfleth', 'Elsfleth']",['Garten'],Miete inkl. NK 290 €,Wohnfläche ca. 17 m²,Zi. 1,73,3
-19,selObject_44663353,"Kuschelige und moderne 2,5 Zimmerwohnung im Zentrum","['Dachgeschosswohnung', '•', 'Göttingen', 'Göttingen']","['Garten', 'EBK']",Miete zzgl. NK 800 €,Wohnfläche ca. 65 m²,"Zi. 2,5",73,3
-20,selObject_44662834,2 Zimmer Wohnung zu sofort,"['Dachgeschosswohnung', '•', 'Stemshorn']",['EBK'],Miete zzgl. NK 350 €,Wohnfläche ca. 42 m²,Zi. 2,73,3
-21,selObject_44662729,Schöne 2 Zimmer Oberwohnung mit Loggia in Collinghorst...,"['Etagenwohnung', '•', 'Rhauderfehn', 'Collinghorst']",['Balkon'],Miete zzgl. NK 425 €,Wohnfläche ca. 85 m²,Zi. 2,73,3
-22,selObject_44662557,4 Zimmer Dachgeschoss mit Balkon und separaten Eingan...,"['Dachgeschosswohnung', '•', 'Rosdorf', 'Mengershausen']",['Balkon'],Miete zzgl. NK 820 €,Wohnfläche ca. 100 m²,Zi. 4,73,3
-23,selObject_44661729,2-Zimmer Wohnung,"['Etagenwohnung', '•', 'Hannover', 'Kirchrode']",['Balkon'],"Miete zzgl. NK 695,87 €",Wohnfläche ca. 54 m²,Zi. 2,73,3
-24,selObject_44661686,gemütliche 3-Zimmer-Wohnung im OG mit Balkon,"['Etagenwohnung', '•', 'Weyhe', 'Dreye']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 580 €,Wohnfläche ca. 70 m²,Zi. 3,73,3
-25,selObject_44661645,"Seniorenwohnung im Gesundheitszentrum ""Amtsbrunnen"",...","['Wohnung', '•', 'Sögel', 'Sögel']",[],Miete zzgl. NK 500 €,Wohnfläche ca. 72 m²,Zi. 2,73,3
-26,selObject_44661392,Frisch für Sie renoviert! Kurzfristiger Bezug wäre...,"['Etagenwohnung', '•', 'Wilhelmshaven', 'Fedderwardergroden']",[],Miete zzgl. NK 372 €,Wohnfläche ca. 60 m²,Zi. 2,73,3
+0,selObject_44710734,5783 - Single-Appartement gegenüber der Polizeiakademi...,"[['Etagenwohnung', '•', 'Oldenburg', 'Bloherfelde']]",['EBK'],Miete zzgl. NK 299 €,Wohnfläche ca. 29 m²,Zi. 1,73,3
+1,selObject_44710655,4 Zimmer Erdgeschosswohnung in der Südstadt,"[['Erdgeschosswohnung', '•', 'Hannover', 'Mitte']]",[],"Miete zzgl. NK 1.143,11 €",Wohnfläche ca. 105 m²,Zi. 4,73,3
+2,selObject_44710486,2-Zimmer-Wohnung mit Aussicht,"[['Etagenwohnung', '•', 'Hannover', 'Linden-Mitte']]",['EBK'],"Miete zzgl. NK 512,47 €",Wohnfläche ca. 60 m²,Zi. 2,73,3
+3,selObject_44710444,Erstbezug - Zweizimmerwohnung mit Balkon und idealer...,"[['Erdgeschosswohnung', '•', 'Wiesmoor', 'Wiesederfehn']]","['Balkon', 'EBK']",Miete zzgl. NK 850 €,Wohnfläche ca. 80 m²,Zi. 2,73,3
+4,selObject_44710195,2-Zimmer-Wohnung in Salzgitter-Lebenstedt,"[['Erdgeschosswohnung', '•', 'Salzgitter', 'Lebenstedt']]",[],Miete zzgl. NK 277 €,Wohnfläche ca. 50 m²,Zi. 2,73,3
+5,selObject_44709767,Schöne Altbauwohnung im denkmalgeschütztem Haus,"[['Etagenwohnung', '•', 'Hildesheim', 'Mitte']]","['Balkon', 'Garten']",Miete zzgl. NK 700 €,Wohnfläche ca. 90 m²,"Zi. 3,5",73,3
+6,selObject_44707944,Viel Platz für die Familie,"[['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']]",[],Miete zzgl. NK 344 €,Wohnfläche ca. 62 m²,Zi. 3,73,3
+7,selObject_44707925,Schöne 2-Zimmer-Wohnung in ruhiger Lage,"[['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']]",[],Miete zzgl. NK 287 €,Wohnfläche ca. 54 m²,Zi. 2,73,3
+8,selObject_44707924,Gepflegte 3-Zimmer-Wohnung mit Duschbad,"[['Erdgeschosswohnung', '•', 'Salzgitter', 'Lebenstedt']]",[],Miete zzgl. NK 329 €,Wohnfläche ca. 57 m²,Zi. 3,73,3
+9,selObject_44707921,Singlewohnung mit großer Wohnküche,"[['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']]",[],Miete zzgl. NK 250 €,Wohnfläche ca. 37 m²,Zi. 1,73,3
+10,selObject_44707920,Gemütliche 3-Zimmer-Wohnung,"[['Erdgeschosswohnung', '•', 'Salzgitter', 'Lebenstedt']]",[],Miete zzgl. NK 321 €,Wohnfläche ca. 60 m²,Zi. 3,73,3
+11,selObject_44707917,2-Zimmer Im Erdgeschoss mit großer Küche,"[['Erdgeschosswohnung', '•', 'Salzgitter', 'Lebenstedt']]",[],Miete zzgl. NK 315 €,Wohnfläche ca. 59 m²,Zi. 2,73,3
+12,selObject_44707916,Helle 2-Zimmer-Wohnung in Stadtnähe,"[['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']]",[],Miete zzgl. NK 290 €,Wohnfläche ca. 55 m²,Zi. 2,73,3
+13,selObject_44707913,Offener Wohnbereich,"[['Wohnung', '•', 'Salzgitter', 'Lebenstedt']]",[],Miete zzgl. NK 270 €,Wohnfläche ca. 48 m²,Zi. 2,73,3
+14,selObject_44707908,Modernisierte 2-Zimmer-Wohnung im Erdgeschoss,"[['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']]",[],Miete zzgl. NK 270 €,Wohnfläche ca. 47 m²,Zi. 2,73,3
+15,selObject_44707910,Frisch renoviert!,"[['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']]",[],Miete zzgl. NK 324 €,Wohnfläche ca. 59 m²,Zi. 3,73,3
+16,selObject_44707906,2-Zimmer-Wohnung mit viel Platz!,"[['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']]",[],Miete zzgl. NK 300 €,Wohnfläche ca. 55 m²,Zi. 2,73,3
+17,selObject_44707813,Renovierte 3-Zimmer-Wohnung,"[['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']]",['Balkon'],Miete zzgl. NK 322 €,Wohnfläche ca. 47 m²,Zi. 3,73,3
+18,selObject_44707811,3-Zimmer-Wohnung mit kleinem Balkon,"[['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']]",['Balkon'],Miete zzgl. NK 326 €,Wohnfläche ca. 59 m²,Zi. 3,73,3
+19,selObject_44707809,Do it yourself! Selbst renovieren und 2 NKM sparen,"[['Wohnung', '•', 'Salzgitter', 'Lebenstedt']]",[],Miete zzgl. NK 378 €,Wohnfläche ca. 66 m²,Zi. 4,73,3
+20,selObject_44707808,Baumarkt-/ oder Umzugsgutschein kassieren!!,"[['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']]",[],Miete zzgl. NK 321 €,Wohnfläche ca. 58 m²,Zi. 3,73,3
+21,selObject_44707770,Renovierte 3-Zimmer-Wohnung mit Balkon,"[['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']]",['Balkon'],Miete zzgl. NK 381 €,Wohnfläche ca. 74 m²,Zi. 3,73,3
+22,selObject_44707767,-Maisonette-Wohnung-,"[['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']]",['Balkon'],Miete zzgl. NK 373 €,Wohnfläche ca. 72 m²,Zi. 3,73,3
+23,selObject_44707763,Citynähe! 3-Zimmer-Balkonwohnung,"[['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']]",['Balkon'],Miete zzgl. NK 350 €,Wohnfläche ca. 60 m²,Zi. 3,73,3
+24,selObject_44707764,Bis Ende Juli anmieten und 3 KM frei erhalten,"[['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']]",['Balkon'],Miete zzgl. NK 381 €,Wohnfläche ca. 73 m²,Zi. 3,73,3
+25,selObject_44707760,*WOW! Ihre Traumwohnung*,"[['Erdgeschosswohnung', '•', 'Salzgitter', 'Hallendorf']]",[],Miete zzgl. NK 305 €,Wohnfläche ca. 58 m²,Zi. 3,73,3
+26,selObject_44707731,Schöne 3-Zimmer-Wohnung im Erdgeschoss,"[['Erdgeschosswohnung', '•', 'Salzgitter', 'Lebenstedt']]",[],Miete zzgl. NK 345 €,Wohnfläche ca. 60 m²,Zi. 3,73,3

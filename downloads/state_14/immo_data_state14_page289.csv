@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44255623,Große 2-Raum-Wohnung im Chemnitzer Zentrum,"['Etagenwohnung', '•', 'Chemnitz', 'Zentrum']",[],Miete zzgl. NK 273 €,Wohnfläche ca. 61 m²,Zi. 2,289,14
-1,selObject_44255621,Verkehrsgünstig gelegene 1-Raum-Wohnung mit Balkon,"['Etagenwohnung', '•', 'Chemnitz', 'Zentrum']",['Balkon'],Miete zzgl. NK 205 €,Wohnfläche ca. 36 m²,Zi. 1,289,14
-2,selObject_44255205,"viel Platz zum Leben, moderne 2-Raum-Wohnung in Chemn...","['Etagenwohnung', '•', 'Chemnitz', 'Altendorf']",['Balkon'],Miete zzgl. NK 319 €,Wohnfläche ca. 64 m²,Zi. 2,289,14
-3,selObject_44255195,2-Raum Wohnung in Chemnitz Balkon saniert Einbauküc...,"['Wohnung', '•', 'Chemnitz', 'Ebersdorf']","['Balkon', 'EBK']",Miete zzgl. NK 350 €,Wohnfläche ca. 68 m²,Zi. 2,289,14
-4,selObject_44255171,Kleines Nest mit Kinderzimmer,"['Erdgeschosswohnung', '•', 'Limbach-Oberfrohna', 'Limbach-Oberfrohna']",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 55 m²,Zi. 3,289,14
-5,selObject_44255160,Für Treppensteiger: Wohnung mit Balkon und Aussicht!,"['Wohnung', '•', 'Limbach-Oberfrohna', 'Limbach-Oberfrohna']",['Balkon'],Miete zzgl. NK 250 €,Wohnfläche ca. 48 m²,Zi. 2,289,14
-6,selObject_44255137,Extravagante Räume - Genialer Ausblick!,"['Wohnung', '•', 'Dresden', 'Innere', 'Altstadt']",[],Miete zzgl. NK 1.348 €,Wohnfläche ca. 120 m²,Zi. 3,289,14
-7,selObject_44255118,West-Balkon mit Fernblick ... in Bestlage!,"['Wohnung', '•', 'Dresden', 'Innere', 'Altstadt']",['Balkon'],Miete zzgl. NK 1.050 €,Wohnfläche ca. 104 m²,Zi. 2,289,14
-8,selObject_44255045,"Milkau, Geringswalder Str. 7 Traumhafte Wohnung in...","['Erdgeschosswohnung', '•', 'Erlau', 'Milkau']",['Balkon'],Miete zzgl. NK 300 €,Wohnfläche ca. 60 m²,Zi. 3,289,14
-9,selObject_44254955,3-Zimmer-Wohnung am Markt von Annaberg,"['Wohnung', '•', 'Annaberg-Buchholz', 'Annaberg']",[],Miete zzgl. NK 530 €,Wohnfläche ca. 92 m²,Zi. 3,289,14
-10,selObject_44254902,3-Zimmer-Wohnung mit Dachterrasse am Markt von Annaber...,"['Wohnung', '•', 'Annaberg-Buchholz', 'Annaberg']",[],Miete zzgl. NK 660 €,Wohnfläche ca. 131 m²,Zi. 3,289,14
-11,selObject_44254350,+++Die perfekte Familien-Wohnung+++EBK möglich+++günst...,"['Etagenwohnung', '•', 'Bad', 'Düben', 'Bad', 'Düben']",['EBK'],Miete zzgl. NK 340 €,Wohnfläche ca. 60 m²,Zi. 3,289,14
-12,selObject_44253878,Betreutes Wohnen in Eilenburg Ost 1 & 2 Raum Wohnunge...,"['Dachgeschosswohnung', '•', 'Eilenburg', 'Eilenburg']","['Garten', 'EBK']",Miete zzgl. NK 330 €,Wohnfläche ca. 22 m²,Zi. 1,289,14
-13,selObject_44253876,Betreutes Wohnen in Eilenburg Ost 1 & 2 Raum Wohnunge...,"['Dachgeschosswohnung', '•', 'Eilenburg', 'Eilenburg']","['Garten', 'EBK']",Miete zzgl. NK 540 €,Wohnfläche ca. 44 m²,Zi. 2,289,14
-14,selObject_44250682,Moderne Zweiraumwohnung in der Stadtmitte!,"['Dachgeschosswohnung', '•', 'Meißen']",[],Miete zzgl. NK 288 €,Wohnfläche ca. 48 m²,Zi. 2,289,14
-15,selObject_44248928,"Neues Glück in 3,5 Raum Terrassen Maisonette Wohnung...","['Souterrainwohnung', '•', 'Bennewitz', 'Bennewitz']",['Garten'],Miete zzgl. NK 795 €,Wohnfläche ca. 122 m²,"Zi. 3,5",289,14
-16,selObject_44247381,1.000 € Startkapital! 2-Zimmer mit Balkon in Freiberg,"['Erdgeschosswohnung', '•', 'Freiberg,', 'Sachs', 'Freiberg']",['Balkon'],Miete zzgl. NK 320 €,Wohnfläche ca. 60 m²,Zi. 2,289,14
-17,selObject_44247241,Über Leipzigs Dächern wohnen I 5-Raumwohnung I Parkett...,"['Dachgeschosswohnung', '•', 'Leipzig', 'Gohlis-Nord']",[],Miete zzgl. NK 2.255 €,Wohnfläche ca. 205 m²,Zi. 5,289,14
-18,selObject_44247213,ERSTBEZUG I 4-Raumwohnung mit Weitblick I Parkett I...,"['Dachgeschosswohnung', '•', 'Leipzig', 'Gohlis-Nord']",[],Miete zzgl. NK 2.150 €,Wohnfläche ca. 196 m²,Zi. 4,289,14
-19,selObject_44247163,ERSTBEZUG I 4-Raumwohnung mit viel Platz zum Wohlfühle...,"['Etagenwohnung', '•', 'Leipzig', 'Gohlis-Nord']",['Balkon'],Miete zzgl. NK 1.220 €,Wohnfläche ca. 127 m²,Zi. 4,289,14
-20,selObject_44247148,Traumhafte 4-RW in Gohlis I Parkett I Balkon I 2 Bäder...,"['Etagenwohnung', '•', 'Leipzig', 'Gohlis-Nord']",['Balkon'],Miete zzgl. NK 1.200 €,Wohnfläche ca. 126 m²,Zi. 4,289,14
-21,selObject_44247143,ERSTBEZUG I Modernes Wohnen in Gohlis I Parkett I Terr...,"['Erdgeschosswohnung', '•', 'Leipzig', 'Gohlis-Nord']",[],Miete zzgl. NK 1.301 €,Wohnfläche ca. 130 m²,Zi. 4,289,14
-22,selObject_44245383,in Grüner Umgebung in Kleinstadt Roßwein wohnen,"['Erdgeschosswohnung', '•', 'Roßwein', 'Roßwein']",[],Miete zzgl. NK 270 €,Wohnfläche ca. 66 m²,"Zi. 2,5",289,14
-23,selObject_44244579,Wir sanieren für sie eine schöne 3 Zimmerwohnung mit...,"['Etagenwohnung', '•', 'Dresden', 'Seidnitz/Dobritz']",['Balkon'],Miete zzgl. NK 404 €,Wohnfläche ca. 58 m²,Zi. 3,289,14
-24,selObject_44243542,Naturnahes Wohnen am Baggersee,"['Erdgeschosswohnung', '•', 'Leipzig', 'Thekla']",['Balkon'],"Miete zzgl. NK 396,37 €",Wohnfläche ca. 61 m²,Zi. 3,289,14
-25,selObject_44243543,Naturnahes Wohnen am Baggersee,"['Wohnung', '•', 'Leipzig', 'Thekla']",['Balkon'],"Miete zzgl. NK 341,49 €",Wohnfläche ca. 61 m²,Zi. 3,289,14
-26,selObject_44243540,Ihr neues Zuhause in Mockau!,"['Wohnung', '•', 'Leipzig', 'Mockau-Nord']",[],"Miete zzgl. NK 260,23 €",Wohnfläche ca. 48 m²,Zi. 2,289,14
+0,selObject_44294250,Dachgeschosswohnung in der Meißner Altstadt,"[['Dachgeschosswohnung', '•', 'Meißen']]",[],Miete zzgl. NK 375 €,Wohnfläche ca. 75 m²,Zi. 2,289,14
+1,selObject_44294138,renovierte 3-Raum-Wohnung,"[['Etagenwohnung', '•', 'Meißen']]",[],Miete zzgl. NK 330 €,Wohnfläche ca. 64 m²,Zi. 3,289,14
+2,selObject_44293983,3-Raum-Wohnung zum Verlieben in Schellerhau - Erstbezu...,"[['Etagenwohnung', '•', 'Altenberg', 'Schellerhau']]",['Garten'],Miete zzgl. NK 390 €,Wohnfläche ca. 65 m²,Zi. 3,289,14
+3,selObject_44293979,Zu Fuß in die City! // Voll möblierte 3-Zimmer-Wohnung...,"[['Etagenwohnung', '•', 'Leipzig', 'Neustadt-Neuschönefeld']]","['Balkon', 'EBK']","Miete zzgl. NK 820,80 €",Wohnfläche ca. 68 m²,Zi. 3,289,14
+4,selObject_44293659,Anschauen lohnt sich! // Hochwertig ausgestattetes...,"[['Etagenwohnung', '•', 'Leipzig', 'Neustadt-Neuschönefeld']]","['Balkon', 'EBK']",Miete zzgl. NK 846 €,Wohnfläche ca. 70 m²,Zi. 3,289,14
+5,selObject_44293460,Möbliertes 3-Zimmer-Apartment mit Wohlfühlfaktor! //...,"[['Etagenwohnung', '•', 'Leipzig', 'Neustadt-Neuschönefeld']]","['Balkon', 'EBK']",Miete zzgl. NK 828 €,Wohnfläche ca. 69 m²,Zi. 3,289,14
+6,selObject_44293397,Großer Wohn-Essbereich...Vinylbelag...Balkon...,"[['Etagenwohnung', '•', 'Chemnitz', 'Schloßchemnitz']]",['Garten'],Miete zzgl. NK 279 €,Wohnfläche ca. 57 m²,Zi. 2,289,14
+7,selObject_44293128,Erste gemeinsame Wohnung - sofort bezugsfertig und mit...,"[['Wohnung', '•', 'Chemnitz', 'Markersdorf']]","['Balkon', 'EBK']",Miete zzgl. NK 312 €,Wohnfläche ca. 61 m²,Zi. 2,289,14
+8,selObject_44292427,Bezugsfertig und ruhig!,"[['Wohnung', '•', 'Löbau', 'Löbau']]",['Balkon'],Miete zzgl. NK 315 €,Wohnfläche ca. 70 m²,Zi. 3,289,14
+9,selObject_44292388,* Über den Dächern von Wurzen * Dachterrasse * Zweit...,"[['Dachgeschosswohnung', '•', 'Wurzen', 'Wurzen']]",['Garten'],Miete zzgl. NK 305 €,Wohnfläche ca. 39 m²,Zi. 2,289,14
+10,selObject_44292351,Frisch renoviert *1 Kaltmiete geschenkt!,"[['Wohnung', '•', 'Leipzig', 'Schönefeld-Abtnaundorf']]",[],Miete zzgl. NK 460 €,Wohnfläche ca. 67 m²,Zi. 3,289,14
+11,selObject_44292230,+++gemütliche Wohnung mit Balkon+++,"[['Etagenwohnung', '•', 'Chemnitz', 'Sonnenberg']]",['Balkon'],Miete zzgl. NK 209 €,Wohnfläche ca. 40 m²,Zi. 1,289,14
+12,selObject_44292156,Helle 3 - Zimmer - Wohnung in Schwarzenberg,"[['Wohnung', '•', 'Schwarzenberg', 'Schwarzenberg']]",['Garten'],Miete zzgl. NK 270 €,Wohnfläche ca. 57 m²,Zi. 3,289,14
+13,selObject_44292086,"Großzügige 2-Zimmer-Dachgeschosswohnung, mit EINBAUKÜC...","[['Dachgeschosswohnung', '•', 'Chemnitz', 'Gablenz']]",['EBK'],Miete zzgl. NK 335 €,Wohnfläche ca. 67 m²,Zi. 2,289,14
+14,selObject_44291981,Schöne Drei-Raum-Wohnung in ruhiger Lage Chemnitz-Neuk...,"[['Etagenwohnung', '•', 'Neukirchen']]",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 56 m²,Zi. 3,289,14
+15,selObject_44291968,Schöne große 2-Raum Wohnung Chemnitz Kaßberg mit Aufzu...,"[['Etagenwohnung', '•', 'Chemnitz', 'Kaßberg']]",[],Miete zzgl. NK 280 €,Wohnfläche ca. 70 m²,Zi. 2,289,14
+16,selObject_44291885,Modernes Wohnen in ruhiger Lage,"[['Etagenwohnung', '•', 'Johanngeorgenstadt']]",['Garten'],Miete zzgl. NK 299 €,Wohnfläche ca. 61 m²,Zi. 2,289,14
+17,selObject_44291887,Schicke 3-Raum-Wohnung in Beierfeld zu vermieten !!!,"[['Etagenwohnung', '•', 'Grünhain-Beierfeld', 'Beierfeld']]",['Garten'],Miete zzgl. NK 320 €,Wohnfläche ca. 70 m²,Zi. 3,289,14
+18,selObject_44291868,Große 3-Raum-Wohnung in ruhiger Lage,"[['Erdgeschosswohnung', '•', 'Johanngeorgenstadt']]",['Garten'],"Miete zzgl. NK 377,40 €",Wohnfläche ca. 87 m²,Zi. 3,289,14
+19,selObject_44291867,Großzügige 4-Raum-Wohnung in Beierfeld zu vermieten!,"[['Etagenwohnung', '•', 'Grünhain-Beierfeld', 'Beierfeld']]",['Garten'],Miete zzgl. NK 390 €,Wohnfläche ca. 92 m²,Zi. 4,289,14
+20,selObject_44291855,Schicke 2-Raum-Wohnung in Niederwürschnitz zu vermiete...,"[['Etagenwohnung', '•', 'Niederwürschnitz']]",[],Miete zzgl. NK 280 €,Wohnfläche ca. 56 m²,Zi. 2,289,14
+21,selObject_44291856,Luxus Pur - Altersgerechtes Wohnen mit Stil im Grünen,"[['Erdgeschosswohnung', '•', 'Breitenbrunn', 'Rittersgrün']]","['Garten', 'EBK']",Miete zzgl. NK 819 €,Wohnfläche ca. 117 m²,Zi. 2,289,14
+22,selObject_44291850,Gepflegte 3-Raum-Wohnung in Beierfeld,"[['Etagenwohnung', '•', 'Grünhain-Beierfeld', 'Beierfeld']]",['Garten'],Miete zzgl. NK 288 €,Wohnfläche ca. 64 m²,Zi. 3,289,14
+23,selObject_44291849,Große 4-Raum-Wohnung mit Balkon in Aue,"[['Dachgeschosswohnung', '•', 'Aue']]","['Balkon', 'EBK']",Miete zzgl. NK 532 €,Wohnfläche ca. 118 m²,Zi. 4,289,14
+24,selObject_44291848,Erstbezug nach Renovierung! Schicke 3-Raum-Wohnung in...,"[['Erdgeschosswohnung', '•', 'Johanngeorgenstadt']]",['Garten'],"Miete zzgl. NK 288,42 €",Wohnfläche ca. 67 m²,Zi. 3,289,14
+25,selObject_44291846,Gemütliche 3-Raum-Wohnung in Beierfeld,"[['Etagenwohnung', '•', 'Grünhain-Beierfeld', 'Beierfeld']]",['Garten'],"Miete zzgl. NK 270,60 €",Wohnfläche ca. 66 m²,Zi. 3,289,14
+26,selObject_44291845,"Traumhafte, moderne 4-Raum-Wohnung in ruhiger Lage","[['Etagenwohnung', '•', 'Johanngeorgenstadt']]","['Balkon', 'Garten']",Miete zzgl. NK 599 €,Wohnfläche ca. 122 m²,Zi. 4,289,14

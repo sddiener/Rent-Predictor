@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44411677,Single-Wohnung mitten in der Stadt,"['Erdgeschosswohnung', '•', 'Coburg', 'Coburg']",['EBK'],Miete zzgl. NK 290 €,Wohnfläche ca. 27 m²,Zi. 1,171,9
-1,selObject_44411644,3-Zimmer Dachgeschosswohnung in Altdorf,"['Dachgeschosswohnung', '•', 'Altdorf', 'Altdorf']",[],Miete zzgl. NK 610 €,Wohnfläche ca. 73 m²,Zi. 3,171,9
-2,selObject_44411412,Für ein Paar über 45: 3-Zimmer-Etage im besten Neukefe...,"['Wohnung', '•', 'Grasbrunn', 'Neukeferloh']","['Balkon', 'EBK']",Miete zzgl. NK 1.100 €,Wohnfläche ca. 82 m²,Zi. 3,171,9
-3,selObject_44411021,*MIETWOHNUNG* Wohnpark Trostberg Haus B - 2.06,"['Etagenwohnung', '•', 'Trostberg', 'Trostberg']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 586 €,Wohnfläche ca. 59 m²,Zi. 2,171,9
-4,selObject_44410441,"Attraktive Neubau-Mietwohnung im Baugebiet ""Aumühle""","['Etagenwohnung', '•', 'Abensberg', 'Abensberg']","['Garten', 'EBK']",Miete zzgl. NK 820 €,Wohnfläche ca. 83 m²,"Zi. 2,5",171,9
-5,selObject_44410198,Große 4 Zimmer Dachgeschoßwohnung in Burglengenfeld,"['Dachgeschosswohnung', '•', 'Burglengenfeld', 'Burglengenfeld']",[],Miete zzgl. NK 590 €,Wohnfläche ca. 112 m²,Zi. 4,171,9
-6,selObject_44410039,Neubau(t)raum!,"['Etagenwohnung', '•', 'Randersacker', 'Randersacker']","['Balkon', 'EBK']",Miete zzgl. NK 1.130 €,Wohnfläche ca. 91 m²,Zi. 3,171,9
-7,selObject_44409764,Moderne und hochwertige Erdgeschoss-Wohnung ++Robert...,"['Etagenwohnung', '•', 'Velden', 'Velden']","['Garten', 'EBK']",Miete zzgl. NK 720 €,Wohnfläche ca. 85 m²,Zi. 3,171,9
-8,selObject_44409133,Zentrale 3 Zimmer Wohnung,"['Etagenwohnung', '•', 'Ingolstadt', 'Ingolstadt']",['EBK'],Miete zzgl. NK 834 €,Wohnfläche ca. 76 m²,Zi. 3,171,9
-9,selObject_44408456,"Großzügige 3-Zim.-Wohnung, Vollbad, Abstell-u. Kellerr...","['Etagenwohnung', '•', 'Röthenbach', 'Röthenbach']",[],Miete zzgl. NK 754 €,Wohnfläche ca. 91 m²,Zi. 3,171,9
-10,selObject_44406555,**ERSTBEZUG** Exklusive 3 Zimmer Wohnung mit einzigart...,"['Etagenwohnung', '•', 'Regensburg', 'Innenstadt']",[],Miete zzgl. NK 1.149 €,Wohnfläche ca. 71 m²,Zi. 3,171,9
-11,selObject_44406554,**ERSTBEZUG** Erstklassige 3 Zimmer Wohnung mit Anklei...,"['Etagenwohnung', '•', 'Regensburg', 'Innenstadt']",[],Miete zzgl. NK 1.599 €,Wohnfläche ca. 91 m²,Zi. 4,171,9
-12,selObject_44404814,WG Zimmer in Weidenbach zu vermieten,"['Zimmer', '•', 'Weidenbach', 'Weidenbach']",['EBK'],Miete zzgl. NK 190 €,Wohnfläche ca. 14 m²,,171,9
-13,selObject_44404720,Exklusives Penthouse mit 268 m² - in bester Lage,"['Penthouse', '•', 'Fürth', 'Dambach']",[],Miete zzgl. NK 3.900 €,Wohnfläche ca. 268 m²,"Zi. 4,5",171,9
-14,selObject_44404708,Exklusives Penthouse mit 240 m² - in bester Lage,"['Penthouse', '•', 'Fürth', 'Dambach']",['EBK'],Miete zzgl. NK 3.500 €,Wohnfläche ca. 240 m²,"Zi. 4,5",171,9
-15,selObject_44402812,*Schöne helle 75 qm DG-Wohnung in 86562 Berg im Gau,"['Wohnung', '•', 'Berg', 'im', 'Gau', 'Siefhofen']","['Garten', 'EBK']",Miete zzgl. NK 590 €,Wohnfläche ca. 75 m²,Zi. 3,171,9
-16,selObject_44400793,Erstbezug nach Renovierung - einfach einziehen und...,"['Wohnung', '•', 'Nürnberg', 'Steinbühl']",['Balkon'],Miete zzgl. NK 670 €,Wohnfläche ca. 70 m²,Zi. 3,171,9
-17,selObject_44399975,Dachterrassen-Wohnung (Erstbezug) in repräs. Jugendsti...,"['Dachgeschosswohnung', '•', 'München', 'Altstadt-Lehel']",['EBK'],Miete zzgl. NK 4.842 €,Wohnfläche ca. 183 m²,Zi. 5,171,9
-18,selObject_44398493,ERSTBEZUG : Attraktive Wohnung auf 2. Ebenen,"['Etagenwohnung', '•', 'München', 'Thalk.Obersendl.-Forsten-Fürstenr.-Solln']",[],"Miete inkl. NK 1.082,25 €",Wohnfläche ca. 33 m²,Zi. 1,171,9
-19,selObject_44396528,Möbliert: Geschmackvoll möblierte 3-Zimmer-Wohnung,"['Wohnung', '•', 'München', 'Thalk.Obersendl.-Forsten-Fürstenr.-Solln']",['Balkon'],Miete zzgl. NK 1.600 €,Wohnfläche ca. 60 m²,Zi. 3,171,9
-20,selObject_44395393,FRISCH RENOVIERTE WOHNUNG MIT SÜD-OST BALKON,"['Wohnung', '•', 'Haibach', 'Grünmorsbach']",[],Miete zzgl. NK 950 €,Wohnfläche ca. 114 m²,"Zi. 3,5",171,9
-21,selObject_44394547,"Exklusive, barrierefreie Penthouse Wohnung","['Penthouse', '•', 'Hemau', 'Hemau']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.200 €,Wohnfläche ca. 150 m²,"Zi. 4,5",171,9
-22,selObject_44390859,Erstbezug: Gut geschnittene 2-Zimmer-Wohnung mit Balko...,"['Wohnung', '•', 'München', 'Pasing-Obermenzing']","['Balkon', 'EBK']",Miete zzgl. NK 1.350 €,Wohnfläche ca. 63 m²,Zi. 2,171,9
-23,selObject_44390127,Gemütliche 3-Zimmer Maisonettewohnung mit Einbauküche!,"['Dachgeschosswohnung', '•', 'Salz']","['Balkon', 'EBK']",Miete zzgl. NK 750 €,Wohnfläche ca. 99 m²,Zi. 3,171,9
-24,selObject_44390022,SIE SUCHEN ? --- WIR FINDEN ! / 1-2-3-4- ZIMMER WOHNUN...,"['Wohnung', '•', 'Memmingen', 'Memmingen']",[],Preis Auf Anfrage,Wohnfläche ca. 1 m²,Zi. 1,171,9
-25,selObject_44390009,1-2-3-4- ZIMMER WOHNUNGEN - MEMMINGEN STADT UND UMKREI...,"['Wohnung', '•', 'Memmingen', 'Memmingen']",[],Preis Auf Anfrage,Wohnfläche ca. 1 m²,Zi. 1,171,9
-26,selObject_44389656,Den Morgenespresso genießen auf einem herrlichen Balko...,"['Dachgeschosswohnung', '•', 'Ingolstadt', 'Ingolstadt']",[],Miete zzgl. NK 760 €,Wohnfläche ca. 75 m²,Zi. 2,171,9
+0,selObject_44441776,MODERN & HOCHWERTIG MÖBLIERTES 2-ZIMMER-PENTHOUSE MIT...,"[['Dachgeschosswohnung', '•', 'Sengenthal', 'Sengenthal']]",['EBK'],Miete zzgl. NK 1.200 €,Wohnfläche ca. 99 m²,Zi. 2,171,9
+1,selObject_44440713,KOMPLETT MÖBLIERTES 2-ZIMMER-PENTHOUSE MIT GROSSER...,"[['Dachgeschosswohnung', '•', 'Sengenthal', 'Sengenthal']]",['EBK'],Miete zzgl. NK 1.200 €,Wohnfläche ca. 94 m²,Zi. 2,171,9
+2,selObject_44440512,Lichtdurchflutete 2-Zimmer-Wohnung mit Loggia,"[['Wohnung', '•', 'Regensburg', 'Innenstadt']]","['Garten', 'EBK']",Miete zzgl. NK 975 €,Wohnfläche ca. 70 m²,Zi. 2,171,9
+3,selObject_44440466,Helle 3- Zimmer-Dachgeschoss-Wohnung mit Balkon,"[['Etagenwohnung', '•', 'Ornbau', 'Ornbau']]","['Balkon', 'EBK']",Miete zzgl. NK 480 €,Wohnfläche ca. 85 m²,Zi. 3,171,9
+4,selObject_44439638,"Schöne 3-Zi.-Wo in BUL mit Wintergarten, Abstellraum...","[['Etagenwohnung', '•', 'Burglengenfeld', 'Burglengenfeld']]",['EBK'],Miete zzgl. NK 570 €,Wohnfläche ca. 75 m²,Zi. 3,171,9
+5,selObject_44439183,"Über den Dächern der Stadt Pocking: Helle, gut geschni...","[['Etagenwohnung', '•', 'Pocking', 'Pocking']]","['Balkon', 'EBK']",Miete zzgl. NK 430 €,Wohnfläche ca. 65 m²,Zi. 2,171,9
+6,selObject_44439129,Erstbezug: Hochwertige Wohnung mit Alpenblick in moder...,"[['Etagenwohnung', '•', 'München', 'Aubing-Lochhausen-Langwied']]",['Balkon'],Miete zzgl. NK 1.049 €,Wohnfläche ca. 42 m²,Zi. 2,171,9
+7,selObject_44439128,Erstbezug: Helle und exklusive Wohnung mit großer Logg...,"[['Etagenwohnung', '•', 'München', 'Aubing-Lochhausen-Langwied']]",['Balkon'],Miete zzgl. NK 970 €,Wohnfläche ca. 39 m²,Zi. 2,171,9
+8,selObject_44439116,3-Zimmer-Wohnung mit Balkon in Schweinfurt ab sofort...,"[['Wohnung', '•', 'Schweinfurt', 'Hochfeld-Steinberg']]",['Balkon'],Miete zzgl. NK 478 €,Wohnfläche ca. 76 m²,Zi. 3,171,9
+9,selObject_44438531,Münchner Immobilien MUC Unterschleißheim- Wunderschöne...,"[['Etagenwohnung', '•', 'Unterschleißheim', 'Lohhof']]",['EBK'],Miete zzgl. NK 800 €,Wohnfläche ca. 48 m²,Zi. 2,171,9
+10,selObject_44438521,GROßZÜGIGE UND MODERNISIERTE 3-ZIMMERWOHNUNG MIT EINBA...,"[['Wohnung', '•', 'Haibach', 'Haibach']]",[],Miete zzgl. NK 960 €,Wohnfläche ca. 120 m²,Zi. 3,171,9
+11,selObject_44438473,1-Zimmer Studentapartment in der Erlanger Altstadt,"[['Wohnung', '•', 'Erlangen', 'Erlangen-Nord']]",[],Miete zzgl. NK 420 €,Wohnfläche ca. 26 m²,Zi. 1,171,9
+12,selObject_44438275,Kleine 4-Zimmerwohnung im Dachgeschoss,"[['Wohnung', '•', 'Neustadt', 'Neustadt']]",[],Miete zzgl. NK 330 €,Wohnfläche ca. 61 m²,Zi. 4,171,9
+13,selObject_44438215,3-Zimmer-Wohnung mit Balkon in Schweinfurt zu vermiete...,"[['Wohnung', '•', 'Schweinfurt', 'Hochfeld-Steinberg']]",['Balkon'],Miete zzgl. NK 478 €,Wohnfläche ca. 76 m²,Zi. 3,171,9
+14,selObject_44437538,KOMPLETT RENOVIERTES APARTMENT IN UNINÄHE ZU MIETEN,"[['Etagenwohnung', '•', 'Passau', 'Haidenhof-Süd']]",['Balkon'],Miete zzgl. NK 320 €,Wohnfläche ca. 24 m²,Zi. 1,171,9
+15,selObject_44437160,mitten in der Stadt-1 Zimmer-Wohnung für Wochenendehei...,"[['Etagenwohnung', '•', 'Ansbach', 'Ansbach']]",['EBK'],Miete zzgl. NK 290 €,Wohnfläche ca. 12 m²,Zi. 1,171,9
+16,selObject_44437074,3 Zimmer-Obergeschosswohnung - in Bahnhofsnähe,"[['Etagenwohnung', '•', 'Heilsbronn', 'Heilsbronn']]",['Balkon'],Miete zzgl. NK 750 €,Wohnfläche ca. 85 m²,Zi. 3,171,9
+17,selObject_44437054,Mitten in der Stadt - junges wohnen,"[['Etagenwohnung', '•', 'Ansbach', 'Ansbach']]","['Balkon', 'EBK']",Miete zzgl. NK 650 €,Wohnfläche ca. 90 m²,"Zi. 2,5",171,9
+18,selObject_44436760,Zweizimmerwohnung mit Einbauküche,"[['Etagenwohnung', '•', 'Freising', 'Lerchenfeld']]",[],Miete zzgl. NK 600 €,Wohnfläche ca. 50 m²,Zi. 2,171,9
+19,selObject_44435508,absolut ruhige teil-möbl. 1-Zi.-Whg. in ER - Zentrum -...,"[['Etagenwohnung', '•', 'Erlangen', 'Innenstadt']]",['EBK'],Miete zzgl. NK 320 €,Wohnfläche ca. 21 m²,Zi. 1,171,9
+20,selObject_44433251,4-Zimmer-Wohnung zur Vermietung in zentraler Lage,"[['Wohnung', '•', 'Ansbach', 'Ansbach']]","['Balkon', 'EBK']",Miete zzgl. NK 780 €,Wohnfläche ca. 105 m²,Zi. 4,171,9
+21,selObject_44430130,Möbliert: Zentrale Lage im Glockenbachviertel,"[['Wohnung', '•', 'München', 'Ludwigsvorstadt-Isarvorstadt']]",['Balkon'],Miete zzgl. NK 1.328 €,Wohnfläche ca. 50 m²,Zi. 1,171,9
+22,selObject_44430124,Möbliert: Wohnen in sehr ruhiger Lage,"[['Wohnung', '•', 'München', 'Berg', 'am', 'Laim']]",['Balkon'],Miete zzgl. NK 1.000 €,Wohnfläche ca. 37 m²,Zi. 1,171,9
+23,selObject_44427036,4 Zi. 1.OG (DG) Wohnung mit und Balkon und Garage,"[['Wohnung', '•', 'Mühlhausen', 'Mühlhausen']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 650 €,Wohnfläche ca. 96 m²,Zi. 4,171,9
+24,selObject_44427033,"3 Zi. Neubauwohnung ((Nr. 3), behinderten- /seniorenge...","[['Wohnung', '•', 'Pommersfelden', 'Pommersfelden']]","['Balkon', 'EBK']",Miete zzgl. NK 850 €,Wohnfläche ca. 107 m²,Zi. 3,171,9
+25,selObject_44427022,4 Zi. - 1.OG (DG) Mietwohnung mit Garten (auf Wunsch),"[['Wohnung', '•', 'Adelsdorf', 'Neuhaus']]",['Garten'],Miete zzgl. NK 870 €,Wohnfläche ca. 121 m²,Zi. 4,171,9
+26,selObject_44426206,Seniorengerechte Erdgeschosswohnung mit Loggia,"[['Erdgeschosswohnung', '•', 'Kist']]",['Garten'],Miete zzgl. NK 760 €,Wohnfläche ca. 64 m²,Zi. 2,171,9

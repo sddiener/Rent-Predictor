@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_45023962,NEU 3-Zimmer-Wohnung in Rostock-Schmarl,"['Wohnung', '•', 'Rostock', 'Schmarl']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 331 €,Wohnfläche ca. 60 m²,Zi. 3,2,13
-1,selObject_45023885,NEU Eine beliebte Etagenlage,"['Etagenwohnung', '•', 'Neubrandenburg', 'Südstadt']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 345 €,Wohnfläche ca. 60 m²,Zi. 3,2,13
-2,selObject_45023883,NEU Barrierefreie 2-Zimmer-Wohnung mit Einbauküche und...,"['Etagenwohnung', '•', 'Greifswald', 'Fleischervorstadt']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 750 €,Wohnfläche ca. 85 m²,Zi. 2,2,13
-3,selObject_45023879,NEU Nachmieter - Gemütliche Seniorenwohnung,"['Etagenwohnung', '•', 'Neubrandenburg', 'Südstadt']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 335 €,Wohnfläche ca. 52 m²,Zi. 2,2,13
-4,selObject_45023824,NEU Geräumige 3-Raum-Wohnung im Wohnpark Panoramablick,"['Wohnung', '•', 'Bad', 'Sülze', 'Bad', 'Sülze']","['NEU', 'NEU']",Miete zzgl. NK 365 €,Wohnfläche ca. 70 m²,Zi. 3,2,13
-5,selObject_45023653,NEU Sonstige Wohnung in Ludwigslust zu vermieten.,"['Wohnung', '•', 'Ludwigslust', 'Ludwigslust']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 375 €,Wohnfläche ca. 79 m²,Zi. 3,2,13
-6,selObject_45023528,NEU 2 R. schöne Lage Boizenburg/ OT Schwartow,"['Wohnung', '•', 'Boizenburg', 'Schwartow']","['NEU', 'NEU']","Miete zzgl. NK 305,34 €",Wohnfläche ca. 51 m²,Zi. 2,2,13
-7,selObject_45023188,NEU Per Rad ins Zentrum von Greifswald: Sanierte 2-Raum-Wo...,"['Wohnung', '•', 'Wackerow', 'Wackerow']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 350 €,Wohnfläche ca. 46 m²,Zi. 2,2,13
-8,selObject_45023157,NEU 2-Zimmer-Wohnung im Obergeschoss in Grabow Stadtzentru...,"['Etagenwohnung', '•', 'Grabow']","['NEU', 'NEU', 'EBK']","Miete zzgl. NK 385,20 €",Wohnfläche ca. 62 m²,Zi. 2,2,13
-9,selObject_45022463,NEU helle 3 Zimmer-Wohnung in Bad Kleinen,"['Etagenwohnung', '•', 'Bad', 'Kleinen']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 410 €,Wohnfläche ca. 65 m²,Zi. 3,2,13
-10,selObject_45022365,NEU Ideale 2-Raumwohnung für den Start in einen neuen Lebe...,"['Etagenwohnung', '•', 'Bad', 'Sülze', 'Bad', 'Sülze']","['NEU', 'NEU']",Miete zzgl. NK 245 €,Wohnfläche ca. 48 m²,Zi. 2,2,13
-11,selObject_45022209,NEU große 1-Zimmer-Wohnung direkt in der Stralsunder Altst...,"['Wohnung', '•', 'Stralsund', 'Altstadt']","['NEU', 'NEU']",Miete zzgl. NK 380 €,Wohnfläche ca. 50 m²,Zi. 1,2,13
-12,selObject_45021525,NEU Attraktive 3-Zimmer Wohnung am Marienplatz mit ca. 20...,"['Etagenwohnung', '•', 'Schwerin', 'Altstadt']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 901 €,Wohnfläche ca. 100 m²,Zi. 3,2,13
-13,selObject_45021509,NEU 3 Raumwohnung mit Blick ins Grüne!,"['Etagenwohnung', '•', 'Schwerin', 'Mueßer', 'Holz']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 316 €,Wohnfläche ca. 57 m²,Zi. 3,2,13
-14,selObject_45021218,NEU Wohnung in Rostock,"['Wohnung', '•', 'Rostock', 'Lütten', 'Klein']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 335 €,Wohnfläche ca. 54 m²,Zi. 2,2,13
-15,selObject_45015121,"NEU ~ hochwertige, möblierte 1,5-Zimmer Wohnung mit Balkon...","['Apartment', '•', 'Schwerin', 'Feldstadt']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 620 €,Wohnfläche ca. 44 m²,"Zi. 1,5",2,13
-16,selObject_45014626,NEU 2- Zimmerwohnung im 2. OG mit Balkon eines gepflegten...,"['Wohnung', '•', 'Ludwigslust', 'Ludwigslust']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 440 €,Wohnfläche ca. 60 m²,Zi. 2,2,13
-17,selObject_45014420,NEU Schöne 3-Raumwohnung in gepflegter und ruhiger Wohnlag...,"['Etagenwohnung', '•', 'Bad', 'Sülze', 'Bad', 'Sülze']","['NEU', 'NEU']",Miete zzgl. NK 335 €,Wohnfläche ca. 61 m²,Zi. 3,2,13
-18,selObject_45014394,NEU 2-Zimmerwohnung im 1.OG mit Stellplatz -sehr gute Lage...,"['Kein', 'Bild']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 520 €,Wohnfläche ca. 62 m²,Zi. 2,2,13
-19,selObject_45014248,NEU Single-Wohnung sucht Nachmieter!,"['Etagenwohnung', '•', 'Schwerin', 'Mueßer', 'Holz']","['NEU', 'NEU']",Miete zzgl. NK 173 €,Wohnfläche ca. 22 m²,Zi. 1,2,13
-20,selObject_45014175,NEU Freundlich helle 3 Zimmer Wohnung,"['Erdgeschosswohnung', '•', 'Ziegendorf']","['NEU', 'NEU', 'EBK']","Miete zzgl. NK 248,72 €",Wohnfläche ca. 62 m²,Zi. 3,2,13
-21,selObject_45014074,NEU Viel Platz für Ihre kleine Familie!,"['Etagenwohnung', '•', 'Schwerin', 'Mueßer', 'Holz']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 316 €,Wohnfläche ca. 57 m²,Zi. 3,2,13
-22,selObject_45013948,NEU Großeräumige 3-Zimmer-Wohnung in der Werdervorstadt zu...,"['Etagenwohnung', '•', 'Schwerin', 'Werdervorstadt']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 815 €,Wohnfläche ca. 95 m²,Zi. 3,2,13
-23,selObject_45013569,NEU Kleine 3 Zimmer-Wohnung in ruhiger Lage der Feldstadt...,"['Etagenwohnung', '•', 'Schwerin', 'Feldstadt']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 412 €,Wohnfläche ca. 55 m²,Zi. 3,2,13
-24,selObject_45013560,NEU Geräumige 2-Zimmer-Wohnung in der Schelfstadt zu miete...,"['Dachgeschosswohnung', '•', 'Schwerin', 'Schelfstadt']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 495 €,Wohnfläche ca. 71 m²,Zi. 2,2,13
-25,selObject_45013517,NEU Attraktive 2-Zimmer-Wohnung mit großzügigen Balkon zu...,"['Dachgeschosswohnung', '•', 'Schwerin', 'Altstadt']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 480 €,Wohnfläche ca. 60 m²,Zi. 2,2,13
-26,selObject_45013331,NEU Geräumige 2 Zimmer-Wohnung mit Garage in der Altstadt...,"['Etagenwohnung', '•', 'Ludwigslust', 'Ludwigslust']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 470 €,Wohnfläche ca. 72 m²,Zi. 2,2,13
+0,selObject_45041973,"NEU 1-Zimmer-Wohnung mit 40 m² Wfl. im 1. OG, Bj. 2020","[['Wohnung', '•', 'Boizenburg', 'Schwartow']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 320 €,Wohnfläche ca. 40 m²,Zi. 1,2,13
+1,selObject_45041662,NEU Familienwohnung zum Wohlfühlen!,"[['Etagenwohnung', '•', 'Schwerin', 'Mueßer', 'Holz']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 382 €,Wohnfläche ca. 72 m²,Zi. 4,2,13
+2,selObject_45041605,NEU 2 Zimmerwohnung mit Balkon in Putbus zu vermieten,"[['Etagenwohnung', '•', 'Putbus', 'Putbus']]","['NEU', 'NEU']",Miete zzgl. NK 350 €,Wohnfläche ca. 45 m²,Zi. 2,2,13
+3,selObject_45041390,NEU Planen Sie Ihren Einzug mit uns!,"[['Wohnung', '•', 'Schwerin', 'Großer', 'Dreesch']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 300 €,Wohnfläche ca. 47 m²,Zi. 2,2,13
+4,selObject_45041389,NEU Altersgerechte Wohnung bezugsbereit ab Oktober 2021,"[['Erdgeschosswohnung', '•', 'Schwerin', 'Großer', 'Dreesch']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 390 €,Wohnfläche ca. 58 m²,Zi. 3,2,13
+5,selObject_45041113,NEU Hier wohnen Sie 2 Monate Kaltmietfrei! 2-Zimmer-Wohnun...,"[['Etagenwohnung', '•', 'Pragsdorf', 'Pragsdorf']]","['NEU', 'NEU']",Miete zzgl. NK 215 €,Wohnfläche ca. 53 m²,Zi. 2,2,13
+6,selObject_45040820,NEU Frisch gestrichen! 3-Zimmer-Wohnung in Rostock-Lütten...,"[['Etagenwohnung', '•', 'Rostock', 'Lütten', 'Klein']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 342 €,Wohnfläche ca. 55 m²,Zi. 3,2,13
+7,selObject_45040796,NEU Raus aus der Stadt? 2-Raum-Wohnung im schönen Pragsdor...,"[['Etagenwohnung', '•', 'Pragsdorf', 'Pragsdorf']]","['NEU', 'NEU']",Miete zzgl. NK 215 €,Wohnfläche ca. 53 m²,Zi. 2,2,13
+8,selObject_45040638,NEU Wohnen auf dem Lande - 3-Zimmer-Wohnung in 17094 Prags...,"[['Etagenwohnung', '•', 'Pragsdorf', 'Pragsdorf']]","['NEU', 'NEU']",Miete zzgl. NK 240 €,Wohnfläche ca. 67 m²,Zi. 3,2,13
+9,selObject_45040580,NEU Wohnen auf dem Lande - 2-Zimmer-Wohnung zum 01.11.2021,"[['Etagenwohnung', '•', 'Pragsdorf', 'Pragsdorf']]","['NEU', 'NEU']",Miete zzgl. NK 215 €,Wohnfläche ca. 53 m²,Zi. 2,2,13
+10,selObject_45040557,NEU Ihre ersten eigenen vier Wände? 2-Zimmer-Wohnung zum...,"[['Etagenwohnung', '•', 'Pragsdorf', 'Pragsdorf']]","['NEU', 'NEU']",Miete zzgl. NK 215 €,Wohnfläche ca. 53 m²,Zi. 2,2,13
+11,selObject_45040176,NEU *NEUBAU-Erstbezug* - möbliertes Appartement mit EBK+Au...,"[['Apartment', '•', 'Wismar', 'Wismar-West']]","['NEU', 'NEU', 'EBK']","Miete zzgl. NK 397,89 €",Wohnfläche ca. 21 m²,Zi. 1,2,13
+12,selObject_45040174,NEU *NEUBAU-Erstbezug* - modernes geräumiges Appartement...,"[['Apartment', '•', 'Wismar', 'Wismar-West']]","['NEU', 'NEU', 'EBK']","Miete zzgl. NK 673,03 €",Wohnfläche ca. 39 m²,Zi. 1,2,13
+13,selObject_45040143,NEU Kleine 1-Raumwohnung am Kagenmarkt sucht Nachmieter,"[['Etagenwohnung', '•', 'Wismar', 'Wismar-Ost']]","['NEU', 'NEU']","Miete zzgl. NK 189,75 €",Wohnfläche ca. 25 m²,Zi. 1,2,13
+14,selObject_45040142,NEU 4-Raum-Wohnung für Ihr Familienglück,"[['Etagenwohnung', '•', 'Wismar', 'Friedenshof']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 471,61 €",Wohnfläche ca. 70 m²,Zi. 4,2,13
+15,selObject_45039851,"NEU 2,0 Raumwohnung in ländlicher Gegend","[['Wohnung', '•', 'Hanshagen']]","['NEU', 'NEU']",Miete zzgl. NK 278 €,Wohnfläche ca. 53 m²,Zi. 2,2,13
+16,selObject_45039818,NEU 4-Raum WE in ländlicher Gegend,"[['Wohnung', '•', 'Neu', 'Boltenhagen', 'Neu', 'Boltenhagen']]","['NEU', 'NEU']",Miete zzgl. NK 358 €,Wohnfläche ca. 74 m²,Zi. 4,2,13
+17,selObject_45039707,"NEU inmitten des Trubels ausgezeichnete, strandnahe Lage","[['Wohnung', '•', 'Ostseebad', 'Binz', 'Binz']]","['NEU', 'NEU']",Miete zzgl. NK 510 €,,Zi. 2,2,13
+18,selObject_45039031,NEU Schöne 2-Raumwohnung in Rostock - Lütten Klein!,"[['Etagenwohnung', '•', 'Rostock', 'Lütten', 'Klein']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 313 €,Wohnfläche ca. 45 m²,Zi. 2,2,13
+19,selObject_45038949,NEU Wohnung in Rostock,"[['Wohnung', '•', 'Rostock', 'Lütten', 'Klein']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 315 €,Wohnfläche ca. 55 m²,Zi. 3,2,13
+20,selObject_45038950,NEU Neubau+++Balkon+++Aufzug,"[['Wohnung', '•', 'Rostock', 'Dierkow-Neu']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 285 €,Wohnfläche ca. 33 m²,Zi. 1,2,13
+21,selObject_45038952,NEU Außenring in der obersten Etage,"[['Wohnung', '•', 'Rostock', 'Dierkow-Neu']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 273 €,Wohnfläche ca. 52 m²,Zi. 2,2,13
+22,selObject_45038947,NEU Wohnung in Rostock,"[['Wohnung', '•', 'Rostock', 'Reutershagen']]","['NEU', 'NEU']",Miete zzgl. NK 285 €,Wohnfläche ca. 39 m²,Zi. 2,2,13
+23,selObject_45038948,NEU schöne 2 Raumwohnung in ruhiger Lage,"[['Wohnung', '•', 'Rostock', 'Reutershagen']]","['NEU', 'NEU']",Miete zzgl. NK 326 €,Wohnfläche ca. 47 m²,Zi. 2,2,13
+24,selObject_45038888,"NEU Top DG- Whg im BHV, 2 Zi. m. Lam., Kü. m. EBK, Du....","[['Dachgeschosswohnung', '•', 'Rostock', 'Stadtmitte']]","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']",Miete zzgl. NK 355 €,Wohnfläche ca. 44 m²,Zi. 2,2,13
+25,selObject_45038873,NEU Moderne 2 RW im Stadtzentrum mit Balkon,"[['Wohnung', '•', 'Güstrow', 'Güstrow']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 391 €,Wohnfläche ca. 60 m²,Zi. 2,2,13
+26,selObject_45038869,NEU Zentrale 2 RW mit grünem Innenhof und eigener Zufahrt,"[['Dachgeschosswohnung', '•', 'Güstrow', 'Güstrow']]","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 360 €,Wohnfläche ca. 63 m²,Zi. 2,2,13

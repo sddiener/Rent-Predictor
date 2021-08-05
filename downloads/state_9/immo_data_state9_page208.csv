@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_41174364,SAM Studio Apartments: Hochwertiges 33m² Apartment in...,"['Apartment', '•', 'München', 'Thalk.Obersendl.-Forsten-Fürstenr.-Solln']","['Balkon', 'EBK']",Miete zzgl. NK 940 €,Wohnfläche ca. 33 m²,Zi. 1,208,9
-1,selObject_41174351,Exzellentes Apartment: Möbliert | Prime Location |...,"['Apartment', '•', 'München', 'Thalk.Obersendl.-Forsten-Fürstenr.-Solln']",['EBK'],Miete zzgl. NK 825 €,Wohnfläche ca. 28 m²,Zi. 1,208,9
-2,selObject_41174336,SAM Studio Apartments: Exklusives und modernes Apartme...,"['Apartment', '•', 'München', 'Thalk.Obersendl.-Forsten-Fürstenr.-Solln']",['EBK'],Miete zzgl. NK 735 €,Wohnfläche ca. 24 m²,Zi. 1,208,9
-3,selObject_41174025,"SAM - OLYMPIA TOWER: Furnished bright Apartment, Prime...","['Apartment', '•', 'München', 'Milbertshofen-Am', 'Hart']",['EBK'],Miete zzgl. NK 965 €,Wohnfläche ca. 40 m²,Zi. 1,208,9
-4,selObject_41173969,SAM - OLYMPIA TOWER: Lichtdurchflutetes Apartment zum...,"['Apartment', '•', 'München', 'Milbertshofen-Am', 'Hart']",['EBK'],Miete zzgl. NK 825 €,Wohnfläche ca. 29 m²,Zi. 1,208,9
-5,selObject_41173847,Fantastisch möbliertes Apartment: Prime Location |...,"['Apartment', '•', 'München', 'Milbertshofen-Am', 'Hart']",['EBK'],Miete zzgl. NK 785 €,Wohnfläche ca. 32 m²,Zi. 1,208,9
-6,selObject_41173091,SAM - OLYMPIA TOWER: Business Apartment mit Alpenblick...,"['Apartment', '•', 'München', 'Milbertshofen-Am', 'Hart']",['EBK'],Miete zzgl. NK 680 €,Wohnfläche ca. 24 m²,Zi. 1,208,9
-7,selObject_41172717,Großzügige 4-Zimmer-Wohnung mit Balkon,"['Etagenwohnung', '•', 'Ebnath', 'Ebnath']",['Balkon'],Miete zzgl. NK 630 €,Wohnfläche ca. 155 m²,Zi. 4,208,9
-8,selObject_41166255,Großzügige 1 Zimmer Wohnung komplett saniert!,"['Etagenwohnung', '•', 'Nürnberg', 'Seeleinsbühl']","['Balkon', 'EBK']",Miete zzgl. NK 455 €,Wohnfläche ca. 38 m²,Zi. 1,208,9
-9,selObject_41151575,Betreutes Wohnen im Rottal,"['Apartment', '•', 'Hebertsfelden', 'Hebertsfelden']","['Balkon', 'Garten', 'EBK']",Preis Auf Anfrage,Wohnfläche ca. 58 m²,Zi. 2,208,9
-10,selObject_41148308,"Möbliert: 1-Zimmer-Wohnung in Solln, südlich von Münch...","['Wohnung', '•', 'München', 'Thalk.Obersendl.-Forsten-Fürstenr.-Solln']",['Balkon'],Miete zzgl. NK 760 €,Wohnfläche ca. 28 m²,Zi. 1,208,9
-11,selObject_41074947,Hatz & Team - Einzelnes WG Zimmer in 3er WG! Top Adres...,"['Etagenwohnung', '•', 'Passau', 'Haidenhof-Süd']",['EBK'],Miete zzgl. NK 330 €,Wohnfläche ca. 25 m²,Zi. 1,208,9
-12,selObject_41074943,Hatz & Team - WG taugliche Wohnung mitten in der Stadt...,"['Etagenwohnung', '•', 'Passau', 'Haidenhof-Nord']",['EBK'],Miete zzgl. NK 795 €,Wohnfläche ca. 88 m²,Zi. 2,208,9
-13,selObject_41074836,Hatz & Team- Appartement im 27th Living!,"['Etagenwohnung', '•', 'Passau', 'Haidenhof-Nord']",['EBK'],Miete zzgl. NK 490 €,Wohnfläche ca. 46 m²,Zi. 1,208,9
-14,selObject_41056303,Studenten und Auszubildende aufgepasst! Einzelzimmer...,"['Etagenwohnung', '•', 'Coburg', 'Coburg']",['EBK'],Miete zzgl. NK 200 €,Wohnfläche ca. 9 m²,Zi. 1,208,9
-15,selObject_41025328,Helle 3-Zimmer-Wohnung mit Einbauküche,"['Wohnung', '•', 'Regensburg', 'Innenstadt']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.080 €,Wohnfläche ca. 68 m²,Zi. 3,208,9
-16,selObject_40967305,voll möblierte City-Apartments,"['Apartment', '•', 'Ansbach', 'Ansbach']",['EBK'],Miete zzgl. NK 750 €,Wohnfläche ca. 36 m²,Zi. 1,208,9
-17,selObject_40893612,Wohnen im begehrten Münchner Viertel Schwabing-West!,"['Wohnung', '•', 'München', 'Schwabing-West']",['EBK'],Miete zzgl. NK 1.090 €,Wohnfläche ca. 43 m²,Zi. 1,208,9
-18,selObject_40621276,Moderne 2-Zimmer-Wohnung zum Erstbezug,"['Erdgeschosswohnung', '•', 'Regensburg', 'Innenstadt']","['Garten', 'EBK']",Miete zzgl. NK 1.050 €,Wohnfläche ca. 72 m²,Zi. 2,208,9
-19,selObject_40554426,Erstbezug! Top 2- Zimmer Neubau Dachgeschoss Wohnung...,"['Etagenwohnung', '•', 'Oberostendorf', 'Oberostendorf']",['Balkon'],Miete zzgl. NK 1.100 €,Wohnfläche ca. 137 m²,Zi. 2,208,9
-20,selObject_40385094,Tolle 2 Zimmer-Wohnung in ruhiger Wohngegend mit guter...,"['Etagenwohnung', '•', 'Neuburg', 'Neuburg']",['Balkon'],Miete zzgl. NK 550 €,Wohnfläche ca. 55 m²,Zi. 2,208,9
-21,selObject_40377000,Moderne Studentenappartements,"['Apartment', '•', 'Ingolstadt', 'Ingolstadt']",['Balkon'],Miete inkl. NK 530 €,Wohnfläche ca. 22 m²,Zi. 1,208,9
-22,selObject_40376968,Moderne Studentenappartements,"['Apartment', '•', 'Ingolstadt', 'Ingolstadt']",['Balkon'],Miete inkl. NK 530 €,Wohnfläche ca. 22 m²,Zi. 1,208,9
-23,selObject_40376967,Moderne Studentenappartements,"['Apartment', '•', 'Ingolstadt', 'Ingolstadt']",['Balkon'],Miete inkl. NK 530 €,Wohnfläche ca. 21 m²,Zi. 1,208,9
-24,selObject_40376458,Moderne Studentenappartements,"['Apartment', '•', 'Ingolstadt', 'Ingolstadt']",['Balkon'],Miete inkl. NK 530 €,Wohnfläche ca. 21 m²,Zi. 1,208,9
-25,selObject_40376076,Moderne Studentenappartements,"['Apartment', '•', 'Ingolstadt', 'Ingolstadt']",['Balkon'],Miete inkl. NK 530 €,Wohnfläche ca. 21 m²,Zi. 1,208,9
-26,selObject_40376073,Moderne Studentenappartements,"['Apartment', '•', 'Ingolstadt', 'Ingolstadt']",['Balkon'],Miete inkl. NK 550 €,Wohnfläche ca. 22 m²,Zi. 1,208,9
+0,selObject_41383121,3-Zimmer PENTHOUSE mit Balkon!,"[['Etagenwohnung', '•', 'Aschaffenburg', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 714 €,Wohnfläche ca. 102 m²,Zi. 3,208,9
+1,selObject_41351235,"WG geeignete, geräumige u. ruhige 2 Zimmer.-Wohnung ...","[['Etagenwohnung', '•', 'München', 'Bogenhausen']]",['EBK'],Miete zzgl. NK 1.380 €,Wohnfläche ca. 70 m²,Zi. 2,208,9
+2,selObject_41332064,WOHNPARK AN DER WIESENT: Wir bieten schöne Wohnungen...,"[['Erdgeschosswohnung', '•', 'Wörth', 'Oberachdorf']]",['Balkon'],"Miete zzgl. NK 220,75 €",Wohnfläche ca. 39 m²,"Zi. 1,5",208,9
+3,selObject_41329241,Exklusive 3-Zimmer-Wohnung in Penthouse-Lage in Grassa...,"[['Wohnung', '•', 'Grassau', 'Grassau']]","['Balkon', 'EBK']",Miete zzgl. NK 1.855 €,Wohnfläche ca. 103 m²,Zi. 3,208,9
+4,selObject_41329137,!Neubau! 2-Zimmer-Wohnung mit Balkon im Betreuten Wohn...,"[['Wohnung', '•', 'Grassau', 'Grassau']]",['Balkon'],Miete zzgl. NK 965 €,Wohnfläche ca. 62 m²,Zi. 2,208,9
+5,selObject_41328512,!Neubau! 1-Zimmer-Appartement mit Balkon im Betreuten...,"[['Wohnung', '•', 'Grassau', 'Grassau']]",['Balkon'],Miete zzgl. NK 640 €,Wohnfläche ca. 41 m²,Zi. 1,208,9
+6,selObject_41297436,"Möblierte, helle 2-Zimmer-Wohnung. Einbauküche inklusi...","[['Dachgeschosswohnung', '•', 'München', 'Bogenhausen']]",['EBK'],Miete zzgl. NK 1.725 €,Wohnfläche ca. 75 m²,Zi. 2,208,9
+7,selObject_41256581,HEGERICH: Erstbezug mit traumhaftem Blick über München,"[['Etagenwohnung', '•', 'München', 'Bogenhausen']]",['EBK'],Miete zzgl. NK 1.238 €,Wohnfläche ca. 75 m²,Zi. 2,208,9
+8,selObject_41198606,Möbliertes 1-Zi. Apartment in Großmehring *NEUBAU*,"[['Wohnung', '•', 'Großmehring', 'Großmehring']]","['Balkon', 'EBK']",Miete zzgl. NK 435 €,Wohnfläche ca. 24 m²,Zi. 1,208,9
+9,selObject_41198474,!Neubau! 3-Zimmer Wohnung im Betreuten Wohnen in Großm...,"[['Wohnung', '•', 'Großmehring', 'Großmehring']]",['Balkon'],Miete zzgl. NK 975 €,Wohnfläche ca. 73 m²,Zi. 3,208,9
+10,selObject_41198227,!ERSTBEZUG! 2-Zimmer Wohnung im Betreuten Wohnen in...,"[['Etagenwohnung', '•', 'Großmehring', 'Großmehring']]",['Balkon'],Miete zzgl. NK 840 €,Wohnfläche ca. 63 m²,Zi. 2,208,9
+11,selObject_41187189,SAM Studio Apartments: DIREKT an der ISAR - Modernes...,"[['Apartment', '•', 'München', 'Thalk.Obersendl.-Forsten-Fürstenr.-Solln']]","['Balkon', 'Garten']",Miete zzgl. NK 815 €,Wohnfläche ca. 26 m²,Zi. 1,208,9
+12,selObject_41174364,SAM Studio Apartments: Hochwertiges 33m² Apartment in...,"[['Apartment', '•', 'München', 'Thalk.Obersendl.-Forsten-Fürstenr.-Solln']]","['Balkon', 'EBK']",Miete zzgl. NK 950 €,Wohnfläche ca. 33 m²,Zi. 1,208,9
+13,selObject_41174351,Exzellentes Apartment: Möbliert | Prime Location |...,"[['Apartment', '•', 'München', 'Thalk.Obersendl.-Forsten-Fürstenr.-Solln']]",['EBK'],Miete zzgl. NK 835 €,Wohnfläche ca. 28 m²,Zi. 1,208,9
+14,selObject_41174336,SAM Studio Apartments: Exklusives und modernes Apartme...,"[['Apartment', '•', 'München', 'Thalk.Obersendl.-Forsten-Fürstenr.-Solln']]",['EBK'],Miete zzgl. NK 745 €,Wohnfläche ca. 24 m²,Zi. 1,208,9
+15,selObject_41174025,"SAM - OLYMPIA TOWER: Furnished bright Apartment, Prime...","[['Apartment', '•', 'München', 'Milbertshofen-Am', 'Hart']]",['EBK'],Miete zzgl. NK 975 €,Wohnfläche ca. 40 m²,Zi. 1,208,9
+16,selObject_41173969,SAM - OLYMPIA TOWER: Lichtdurchflutetes Apartment zum...,"[['Apartment', '•', 'München', 'Milbertshofen-Am', 'Hart']]",['EBK'],Miete zzgl. NK 835 €,Wohnfläche ca. 29 m²,Zi. 1,208,9
+17,selObject_41173847,Fantastisch möbliertes Apartment: Prime Location |...,"[['Apartment', '•', 'München', 'Milbertshofen-Am', 'Hart']]",['EBK'],Miete zzgl. NK 795 €,Wohnfläche ca. 32 m²,Zi. 1,208,9
+18,selObject_41173091,SAM - OLYMPIA TOWER: Business Apartment mit Alpenblick...,"[['Apartment', '•', 'München', 'Milbertshofen-Am', 'Hart']]",['EBK'],Miete zzgl. NK 690 €,Wohnfläche ca. 24 m²,Zi. 1,208,9
+19,selObject_41172717,Großzügige 4-Zimmer-Wohnung mit Balkon,"[['Etagenwohnung', '•', 'Ebnath', 'Ebnath']]",['Balkon'],Miete zzgl. NK 630 €,Wohnfläche ca. 155 m²,Zi. 4,208,9
+20,selObject_41166255,Großzügige 1 Zimmer Wohnung komplett saniert!,"[['Etagenwohnung', '•', 'Nürnberg', 'Seeleinsbühl']]","['Balkon', 'EBK']",Miete zzgl. NK 455 €,Wohnfläche ca. 38 m²,Zi. 1,208,9
+21,selObject_41151575,Betreutes Wohnen im Rottal,"[['Apartment', '•', 'Hebertsfelden', 'Hebertsfelden']]","['Balkon', 'Garten', 'EBK']",Preis Auf Anfrage,Wohnfläche ca. 58 m²,Zi. 2,208,9
+22,selObject_41148308,"Möbliert: 1-Zimmer-Wohnung in Solln, südlich von Münch...","[['Wohnung', '•', 'München', 'Thalk.Obersendl.-Forsten-Fürstenr.-Solln']]",['Balkon'],Miete zzgl. NK 760 €,Wohnfläche ca. 28 m²,Zi. 1,208,9
+23,selObject_41074947,Hatz & Team - Einzelnes WG Zimmer in 3er WG! Top Adres...,"[['Etagenwohnung', '•', 'Passau', 'Haidenhof-Süd']]",['EBK'],Miete zzgl. NK 330 €,Wohnfläche ca. 25 m²,Zi. 1,208,9
+24,selObject_41074943,Hatz & Team - WG taugliche Wohnung mitten in der Stadt...,"[['Etagenwohnung', '•', 'Passau', 'Haidenhof-Nord']]",['EBK'],Miete zzgl. NK 795 €,Wohnfläche ca. 88 m²,Zi. 2,208,9
+25,selObject_41074836,Hatz & Team- Appartement im 27th Living!,"[['Etagenwohnung', '•', 'Passau', 'Haidenhof-Nord']]",['EBK'],Miete zzgl. NK 490 €,Wohnfläche ca. 46 m²,Zi. 1,208,9
+26,selObject_41056303,Studenten und Auszubildende aufgepasst! Einzelzimmer...,"[['Etagenwohnung', '•', 'Coburg', 'Coburg']]",['EBK'],Miete zzgl. NK 200 €,Wohnfläche ca. 9 m²,Zi. 1,208,9

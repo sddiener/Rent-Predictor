@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44310889,Schnuggelige Wohnung in belebter Südvorstadt,"['Wohnung', '•', 'Leipzig', 'Südvorstadt']",['Garten'],Miete zzgl. NK 450 €,Wohnfläche ca. 55 m²,Zi. 2,279,14
-1,selObject_44310857,++Schöne Wohnung in guter Lage++,"['Wohnung', '•', 'Werdau', 'Werdau']",['Balkon'],Miete zzgl. NK 288 €,Wohnfläche ca. 64 m²,Zi. 2,279,14
-2,selObject_44310755,Neu und Top sanierte Dachgeschoss Wohnung in Chemnitz...,"['Etagenwohnung', '•', 'Chemnitz', 'Altchemnitz']",[],Miete zzgl. NK 227 €,Wohnfläche ca. 45 m²,Zi. 1,279,14
-3,selObject_44310736,"luxuriöse Penthousewohnung - 4-Raum, Balkon mit Weitbl...","['Dachgeschosswohnung', '•', 'Radebeul']",['Balkon'],"Miete zzgl. NK 2.214,80 €",Wohnfläche ca. 170 m²,Zi. 4,279,14
-4,selObject_44310720,Appartementwohnung in UNI- Nähe,"['Wohnung', '•', 'Dresden', 'Löbtau-Nord']",[],Miete zzgl. NK 350 €,Wohnfläche ca. 38 m²,Zi. 1,279,14
-5,selObject_44310705,NEUBAU + 3 Zimmer + Echtholzparkett + Balkon + Fußbode...,"['Etagenwohnung', '•', 'Leipzig', 'Connewitz']","['Balkon', 'Garten']","Miete zzgl. NK 750,50 €",Wohnfläche ca. 69 m²,Zi. 3,279,14
-6,selObject_44310643,NEU: Ihre neue Erholungsoase!,"['Erdgeschosswohnung', '•', 'Leipzig', 'Neustadt-Neuschönefeld']","['Balkon', 'EBK']",Miete zzgl. NK 852 €,Wohnfläche ca. 71 m²,Zi. 2,279,14
-7,selObject_44310515,"Schön renovierte, helle und bezugsfertige 1,5 Zimmer-W...","['Wohnung', '•', 'Wilkau-Haßlau', 'Silberstraße']",[],Miete zzgl. NK 210 €,Wohnfläche ca. 39 m²,"Zi. 1,5",279,14
-8,selObject_44310421,*Großzügige 3-Raumwohnung mit EBK*,"['Dachgeschosswohnung', '•', 'Radebeul']",['EBK'],Miete zzgl. NK 660 €,Wohnfläche ca. 92 m²,Zi. 3,279,14
-9,selObject_44310412,// 3 Zimmer mit Balkon im Erstbezug // Schnell sein!...,"['Erdgeschosswohnung', '•', 'Wurzen', 'Wurzen']","['Balkon', 'Garten']","Miete zzgl. NK 417,12 €",Wohnfläche ca. 52 m²,Zi. 3,279,14
-10,selObject_44310385,NEU: Für Ihren perfekten Start in Leipzig!,"['Etagenwohnung', '•', 'Leipzig', 'Neustadt-Neuschönefeld']","['Balkon', 'EBK']","Miete zzgl. NK 921,60 €",Wohnfläche ca. 77 m²,Zi. 2,279,14
-11,selObject_44310378,NEU: Kennen Sie diese hier schon?,"['Etagenwohnung', '•', 'Leipzig', 'Neustadt-Neuschönefeld']","['Balkon', 'EBK']",Miete zzgl. NK 828 €,Wohnfläche ca. 69 m²,Zi. 3,279,14
-12,selObject_44310375,NEU: Werden Sie zum echten Leipziger!,"['Etagenwohnung', '•', 'Leipzig', 'Neustadt-Neuschönefeld']","['Balkon', 'EBK']","Miete zzgl. NK 723,60 €",Wohnfläche ca. 60 m²,Zi. 2,279,14
-13,selObject_44310374,NEU: Das einzige was noch fehlt - sind Sie!,"['Etagenwohnung', '•', 'Leipzig', 'Neustadt-Neuschönefeld']","['Balkon', 'EBK']","Miete zzgl. NK 758,40 €",Wohnfläche ca. 63 m²,Zi. 2,279,14
-14,selObject_44310364,NEU: Hier fehlt es an nichts - nur Sie fehlen!,"['Etagenwohnung', '•', 'Leipzig', 'Neustadt-Neuschönefeld']","['Balkon', 'EBK']","Miete zzgl. NK 904,80 €",Wohnfläche ca. 75 m²,Zi. 2,279,14
-15,selObject_44310245,NEU: Das lohnt sich!,"['Erdgeschosswohnung', '•', 'Leipzig', 'Neustadt-Neuschönefeld']",['EBK'],"Miete zzgl. NK 466,80 €",Wohnfläche ca. 39 m²,Zi. 1,279,14
-16,selObject_44310202,Erstbezug nach Sanierung - Traumhaft erholsame 2-Zimme...,"['Etagenwohnung', '•', 'Wilsdruff']",['EBK'],Miete zzgl. NK 399 €,Wohnfläche ca. 61 m²,Zi. 2,279,14
-17,selObject_44310158,"Stötteritz - schöne 3-Zimmer-Wohnung mit Laminat, Wann...","['Etagenwohnung', '•', 'Leipzig', 'Stötteritz']","['Balkon', 'Garten']",Miete zzgl. NK 410 €,Wohnfläche ca. 59 m²,Zi. 3,279,14
-18,selObject_44310046,"Schöne 2-Zi-DG-Whg. mit viel Stellfläche, Bad mit Dusc...","['Wohnung', '•', 'Dresden', 'Striesen-Ost']",['Garten'],Miete zzgl. NK 480 €,Wohnfläche ca. 60 m²,Zi. 2,279,14
-19,selObject_44309955,Zentrumsnahe 3-Raumwohnung mit Sonnenterrasse,"['Etagenwohnung', '•', 'Bautzen', 'Bautzen']",[],Miete zzgl. NK 440 €,Wohnfläche ca. 66 m²,Zi. 3,279,14
-20,selObject_44309801,Single gesucht!,"['Dachgeschosswohnung', '•', 'Freiberg,', 'Sachs', 'Freiberg']",[],Miete zzgl. NK 220 €,Wohnfläche ca. 36 m²,"Zi. 1,5",279,14
-21,selObject_44309532,**Seniorenfreundliche 1-Raumwohnung mit Balkon**,"['Wohnung', '•', 'Radebeul']",[],Miete zzgl. NK 366 €,Wohnfläche ca. 43 m²,Zi. 1,279,14
-22,selObject_44308367,Ihr neues Zuhause in Grünau / 2-Raum-Wohnung mit Balko...,"['Wohnung', '•', 'Leipzig', 'Grünau-Ost']",['Balkon'],Miete zzgl. NK 280 €,Wohnfläche ca. 50 m²,Zi. 2,279,14
-23,selObject_44308339,Geldbeutel leer? Kein Problem! Wir schenken 2 Monate...,"['Wohnung', '•', 'Chemnitz', 'Zentrum']","['Garten', 'EBK']",Miete zzgl. NK 180 €,Wohnfläche ca. 32 m²,Zi. 1,279,14
-24,selObject_44308118,Wohnen in der Gartenstadt Königshufen,"['Etagenwohnung', '•', 'Görlitz', 'Königshufen']",['Balkon'],Miete zzgl. NK 406 €,Wohnfläche ca. 70 m²,Zi. 3,279,14
-25,selObject_44306336,Top renovierte 3-Zimmerwohnung in zentraler und elbnah...,"['Wohnung', '•', 'Meißen']",[],Miete zzgl. NK 359 €,Wohnfläche ca. 68 m²,Zi. 3,279,14
-26,selObject_44302424,Wunderschöne Maisonette-Wohnung mit 2 Bädern,"['Maisonette', '•', 'Chemnitz', 'Borna-Heinersdorf']",['Balkon'],Miete zzgl. NK 1.075 €,Wohnfläche ca. 163 m²,Zi. 6,279,14
+0,selObject_44366409,JETZT MIETEN UND BONUS* KASSIEREN! Schnucklige 2-Zimme...,"[['Etagenwohnung', '•', 'Chemnitz', 'Bernsdorf']]",['EBK'],Miete zzgl. NK 250 €,Wohnfläche ca. 45 m²,Zi. 2,279,14
+1,selObject_44366188,4-Raum Wohnung im Erdgeschoss - Langenhessen in ruhige...,"[['Erdgeschosswohnung', '•', 'Werdau', 'Langenhessen']]",['Garten'],Miete zzgl. NK 455 €,Wohnfläche ca. 101 m²,Zi. 4,279,14
+2,selObject_44366183,** Zentrum-Nordwest: großzügige 2-Zimmer-Wohnung mit...,"[['Wohnung', '•', 'Leipzig', 'Zentrum-Nordwest']]",['EBK'],Miete zzgl. NK 700 €,Wohnfläche ca. 88 m²,Zi. 2,279,14
+3,selObject_44366139,"Südvorstadt Leipzig DG Maisonette mit Aufzug, Gäste...","[['Maisonette', '•', 'Leipzig', 'Südvorstadt']]",['EBK'],"Miete zzgl. NK 590,40 €",Wohnfläche ca. 82 m²,"Zi. 2,5",279,14
+4,selObject_44366117,1-Raum-Wohnung mit Einbauküche An der Kippe 37,"[['Etagenwohnung', '•', 'Regis-Breitingen', 'Regis-Breitingen']]",['EBK'],Miete zzgl. NK 175 €,Wohnfläche ca. 31 m²,Zi. 1,279,14
+5,selObject_44366074,"2-Zimmer-Wohnung in Leutzsch, Balkon, Wanne, Einbauküc...","[['Etagenwohnung', '•', 'Leipzig', 'Leutzsch']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 485 €,Wohnfläche ca. 65 m²,Zi. 2,279,14
+6,selObject_44366072,"2 Raum Wohnung! WG-geeignet! Laminatfußboden, Tageslic...","[['Etagenwohnung', '•', 'Leipzig', 'Stötteritz']]",[],Miete zzgl. NK 490 €,Wohnfläche ca. 71 m²,Zi. 2,279,14
+7,selObject_44366028,*** 2 Zimmer mit Balkon in Schloßchemnitz ***,"[['Etagenwohnung', '•', 'Chemnitz', 'Schloßchemnitz']]",['Balkon'],Miete zzgl. NK 245 €,Wohnfläche ca. 47 m²,Zi. 2,279,14
+8,selObject_44365887,+++ iQ Apartments - Microliving in Zentrumsnähe +++,"[['Etagenwohnung', '•', 'Leipzig', 'Reudnitz-Thonberg']]",['EBK'],Miete zzgl. NK 324 €,Wohnfläche ca. 22 m²,Zi. 1,279,14
+9,selObject_44365587,"Wohnen auf zwei Etagen, Traumhafte Dachgeschosswohnung","[['Dachgeschosswohnung', '•', 'Döbeln', 'Döbeln']]",['Garten'],Miete zzgl. NK 495 €,Wohnfläche ca. 107 m²,Zi. 4,279,14
+10,selObject_44365527,Frisch Renoviert! Besondere 2-Raumwohnung mit Balkon...,"[['Wohnung', '•', 'Radebeul']]","['Garten', 'EBK']",Miete zzgl. NK 900 €,Wohnfläche ca. 75 m²,Zi. 2,279,14
+11,selObject_44365275,schicke Dachgeschoßwohnung im Bachviertel,"[['Dachgeschosswohnung', '•', 'Leipzig', 'Zentrum-West']]",[],Miete zzgl. NK 690 €,Wohnfläche ca. 93 m²,Zi. 2,279,14
+12,selObject_44365078,Clever geschnittene Dachgeschosswohnung in sehr ruhige...,"[['Dachgeschosswohnung', '•', 'Dresden', 'Naußlitz']]",[],Miete zzgl. NK 309 €,Wohnfläche ca. 41 m²,Zi. 2,279,14
+13,selObject_44364859,Süße Singlewohnung im Lutherviertel,"[['Etagenwohnung', '•', 'Chemnitz', 'Lutherviertel']]",['EBK'],Miete zzgl. NK 230 €,Wohnfläche ca. 46 m²,Zi. 2,279,14
+14,selObject_44364727,Schöne 2-Zimmer-Dachgeschosswohnung in ruhiger Lage in...,"[['Dachgeschosswohnung', '•', 'Dresden', 'Mickten']]",[],Miete zzgl. NK 448 €,Wohnfläche ca. 66 m²,Zi. 2,279,14
+15,selObject_44364716,Kleine 1-Raum-Wohnung mit großer Wohnküche,"[['Etagenwohnung', '•', 'Zwickau', 'Bahnhofsvorstadt']]",[],Miete zzgl. NK 179 €,Wohnfläche ca. 35 m²,Zi. 1,279,14
+16,selObject_44364704,STUDENTEN WILLKOMMEN! Appartement mit Singleküche!,"[['Wohnung', '•', 'Dresden', 'Räcknitz/Zschertnitz']]","['Garten', 'EBK']",Miete zzgl. NK 328 €,Wohnfläche ca. 30 m²,Zi. 1,279,14
+17,selObject_44364705,STUDIERENDE WILLKOMMEN! 1-Raum-Wohnung mit Singleküche,"[['Wohnung', '•', 'Dresden', 'Räcknitz/Zschertnitz']]",['EBK'],Miete zzgl. NK 390 €,Wohnfläche ca. 35 m²,Zi. 1,279,14
+18,selObject_44364702,STUDIERENDE AUFGEPASST! 1-Raum-Apartment mit Singleküc...,"[['Wohnung', '•', 'Dresden', 'Räcknitz/Zschertnitz']]",[],Miete zzgl. NK 370 €,Wohnfläche ca. 34 m²,Zi. 1,279,14
+19,selObject_44364653,Wohnen mit Service in Falkenstein I wunderschöne 2-Zim...,"[['Erdgeschosswohnung', '•', 'Falkenstein', 'Falkenstein']]",['EBK'],Miete inkl. NK 985 €,Wohnfläche ca. 71 m²,Zi. 2,279,14
+20,selObject_44364626,geräumige Wohnung in ruhiger Lage WE007,"[['Wohnung', '•', 'Döbeln', 'Döbeln']]",[],Miete zzgl. NK 260 €,Wohnfläche ca. 56 m²,Zi. 2,279,14
+21,selObject_44364625,geräumige Wohnung in ruhiger Lage WE006,"[['Wohnung', '•', 'Döbeln', 'Döbeln']]",[],Miete zzgl. NK 270 €,Wohnfläche ca. 58 m²,Zi. 2,279,14
+22,selObject_44364608,geräumige Wohnung in ruhiger Lage WE008,"[['Wohnung', '•', 'Döbeln', 'Döbeln']]",[],Miete zzgl. NK 300 €,Wohnfläche ca. 60 m²,Zi. 2,279,14
+23,selObject_44364520,Am Stresemannplatz: Hochparterre + Wohnküche + Terrass...,"[['Erdgeschosswohnung', '•', 'Dresden', 'Striesen-Süd']]",['Garten'],Miete zzgl. NK 677 €,Wohnfläche ca. 75 m²,Zi. 2,279,14
+24,selObject_44364417,2-Raum-Wohnung mit Balkon und Aufzug,"[['Erdgeschosswohnung', '•', 'Chemnitz', 'Adelsberg']]",[],"Miete zzgl. NK 240,73 €",Wohnfläche ca. 45 m²,Zi. 2,279,14
+25,selObject_44364412,Großer Westbalkon,"[['Etagenwohnung', '•', 'Chemnitz', 'Gablenz']]",[],"Miete zzgl. NK 334,48 €",Wohnfläche ca. 59 m²,Zi. 3,279,14
+26,selObject_44364348,**Wohnen im Schloss** geräumige 2 Zimmerwohnung,"[['Erdgeschosswohnung', '•', 'Klipphausen', 'Weistropp']]",['EBK'],Miete zzgl. NK 531 €,Wohnfläche ca. 74 m²,Zi. 2,279,14

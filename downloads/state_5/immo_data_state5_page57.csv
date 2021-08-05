@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44978105,NEU Singlewohung in ruhiger Lage,"['Dachgeschosswohnung', '•', 'Rheinberg', 'Ossenberg']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 250 €,Wohnfläche ca. 32 m²,"Zi. 1,5",57,5
-1,selObject_44977769,NEU Obergeschosswohnung mit Balkon im Zentrum von Dülmen!,"['Wohnung', '•', 'Dülmen', 'Dülmen']","['NEU', 'NEU']",Miete zzgl. NK 915 €,Wohnfläche ca. 87 m²,Zi. 3,57,5
-2,selObject_44977766,NEU Erdgeschosswohnung mit Terrasse im Zentrum von Dülmen!,"['Wohnung', '•', 'Dülmen', 'Dülmen']","['NEU', 'NEU']",Miete zzgl. NK 665 €,Wohnfläche ca. 63 m²,Zi. 2,57,5
-3,selObject_44977663,"NEU Extravagante 3,5 Zimmer-Wohnung mit Aufzug mitten im...","['Apartment', '•', 'Köln', 'Neustadt-Nord']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 1.500 €,Wohnfläche ca. 124 m²,"Zi. 3,5",57,5
-4,selObject_44977599,"NEU Helle, große 3 bis 4 -Zimmer Wohnung in bester Lage...","['Etagenwohnung', '•', 'Paderborn', 'Kernstadt']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 875 €,Wohnfläche ca. 116 m²,Zi. 4,57,5
-5,selObject_44977568,NEU ***Perfekt für die kleine Familie***,"['Etagenwohnung', '•', 'Essen', 'Kettwig']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 610,50 €",Wohnfläche ca. 74 m²,Zi. 3,57,5
-6,selObject_44977304,NEU Frisch saniert - Erstbezug nach Sanierung!,"['Wohnung', '•', 'Essen', 'Kray']","['NEU', 'NEU']",Miete zzgl. NK 360 €,Wohnfläche ca. 51 m²,Zi. 3,57,5
-7,selObject_44977229,"NEU Sehr schöne Stadt-Wohnung mit Terrasse, Balkon und EBK","['Dachgeschosswohnung', '•', 'Mönchengladbach', 'Beltinghoven']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 550 €,Wohnfläche ca. 63 m²,Zi. 2,57,5
-8,selObject_44977210,NEU Neu sanierte Altbauwohnung (Singel-Appartment) im 1....,"['Apartment', '•', 'Unna', 'Unna']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 430 €,Wohnfläche ca. 58 m²,Zi. 1,57,5
-9,selObject_44977175,NEU Smarter Wohnen! Gemütliche 3-Zimmerwohnung in der Nähe...,"['Etagenwohnung', '•', 'Essen', 'Holsterhausen']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 610 €,Wohnfläche ca. 78 m²,Zi. 3,57,5
-10,selObject_44977169,NEU 3 Zimmer Wohnung mit Gartennutzung,"['Etagenwohnung', '•', 'Solingen', 'Höhscheid']","['NEU', 'NEU']",Miete zzgl. NK 400 €,Wohnfläche ca. 75 m²,Zi. 3,57,5
-11,selObject_44977050,NEU Neu renovierte 4-Zimmer-Wohnung zu vermieten!,"['Etagenwohnung', '•', 'Hellenthal', 'Rescheid']","['NEU', 'NEU']",Miete zzgl. NK 500 €,Wohnfläche ca. 90 m²,Zi. 4,57,5
-12,selObject_44977036,NEU 3-Zimmer-Wohnung zu vermieten,"['Wohnung', '•', 'Essen', 'Holsterhausen']","['NEU', 'NEU']",Miete zzgl. NK 780 €,Wohnfläche ca. 75 m²,Zi. 3,57,5
-13,selObject_44977024,"NEU 3,5-Zimmer-Wohnung in der 3. Etage wartet auf neue...","['Wohnung', '•', 'Dorsten', 'Holsterhausen']","['NEU', 'NEU']",Miete zzgl. NK 490 €,Wohnfläche ca. 78 m²,"Zi. 3,5",57,5
-14,selObject_44977022,NEU 1-Zimmer-Apartment komplett eingerichtet,"['Apartment', '•', 'Witten', 'Bommern']","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 450 €,Wohnfläche ca. 39 m²,"Zi. 1,5",57,5
-15,selObject_44977019,"NEU Schöne Altbauwohnung, ruhige Lage im 4-Parteienhaus","['Etagenwohnung', '•', 'Krefeld', 'Cracau']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 390 €,Wohnfläche ca. 36 m²,Zi. 2,57,5
-16,selObject_44977011,NEU Stadtmittenah und ruhige Lage - Helle 2-Zi.-Wohnung...,"['Wohnung', '•', 'Essen', 'Südostviertel']","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 350 €,Wohnfläche ca. 53 m²,Zi. 2,57,5
-17,selObject_44977008,NEU großzügige 5-Zimmer-Wohnung mit Balkon,"['Wohnung', '•', 'Essen', 'Südviertel']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 986 €,Wohnfläche ca. 116 m²,Zi. 5,57,5
-18,selObject_44977006,NEU Kernsanierte hochwertig ausgestattete DG Wohnung in...,"['Wohnung', '•', 'Essen', 'Huttrop']","['NEU', 'NEU']",Miete zzgl. NK 380 €,Wohnfläche ca. 40 m²,Zi. 2,57,5
-19,selObject_44976990,NEU Ein Steinwurf bis zur Innenstadt!,"['Wohnung', '•', 'Essen', 'Stoppenberg']","['NEU', 'NEU']",Miete zzgl. NK 418 €,Wohnfläche ca. 64 m²,Zi. 2,57,5
-20,selObject_44976973,NEU Exclusive Maisonettewohnung in Palenberg,"['Dachgeschosswohnung', '•', 'Übach-Palenberg', 'Palenberg']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 600 €,Wohnfläche ca. 108 m²,Zi. 3,57,5
-21,selObject_44976919,NEU Lich-Steinstraß: modernisierte EG-Wohnung mit Garten!,"['Etagenwohnung', '•', 'Jülich', 'Lich-Steinstraß']","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 930 €,Wohnfläche ca. 100 m²,Zi. 3,57,5
-22,selObject_44976880,NEU Großzügig geschnittene Wohnung im 1. OG mit Balkon in...,"['Wohnung', '•', 'Moers', 'Moers-Mitte']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 650 €,Wohnfläche ca. 106 m²,Zi. 3,57,5
-23,selObject_44976861,"NEU Unser modernes, voll möbliertes 2-Zimmer- Apartment in...","['Apartment', '•', 'Mönchengladbach', 'Wolfsittard']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 580 €,Wohnfläche ca. 44 m²,Zi. 2,57,5
-24,selObject_44976856,NEU Hier werden Wohnträume erfüllt: neuwertige 3-Zimmer-Pe...,"['Penthouse', '•', 'Bünde', 'Ennigloh']","['NEU', 'NEU']",Miete zzgl. NK 1.200 €,Wohnfläche ca. 102 m²,Zi. 3,57,5
-25,selObject_44976761,NEU 3-Zimmer-Wohnung in Mülheim-Broich,"['Etagenwohnung', '•', 'Mülheim', 'Broich']","['NEU', 'NEU']","Miete zzgl. NK 540,26 €",Wohnfläche ca. 77 m²,Zi. 3,57,5
-26,selObject_44976729,NEU 1-Zimmer-Wohnung in Mülheim-Broich,"['Etagenwohnung', '•', 'Mülheim', 'Broich']","['NEU', 'NEU']","Miete zzgl. NK 231,76 €",Wohnfläche ca. 37 m²,Zi. 1,57,5
+0,selObject_44999169,"NEU Helle 3 Zimmer Wohnung in bester Lage ""Bunter Garten""","[['Dachgeschosswohnung', '•', 'Mönchengladbach', 'Windberg']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 608 €,Wohnfläche ca. 80 m²,Zi. 3,57,5
+1,selObject_44999166,NEU Geräumige 1-Zimmer-Wohnung im Herzen der Stadt,"[['Wohnung', '•', 'Wuppertal', 'Elberfeld']]","['NEU', 'NEU']",Miete zzgl. NK 295 €,Wohnfläche ca. 48 m²,Zi. 1,57,5
+2,selObject_44999015,NEU Exklusive Maisonettewohnung in Palenberg,"[['Maisonette', '•', 'Übach-Palenberg', 'Palenberg']]","['NEU', 'NEU']",Miete zzgl. NK 600 €,Wohnfläche ca. 108 m²,Zi. 3,57,5
+3,selObject_44999008,NEU Möblierte Wohnung mit eigenem Gartenanteil im Zooviert...,"[['Wohnung', '•', 'Düsseldorf', 'Düsseltal']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 996 €,,Zi. 2,57,5
+4,selObject_44999001,NEU Moderne 3 Zimmer Wohnung (EG),"[['Wohnung', '•', 'Bad', 'Salzuflen', 'Schötmar']]","['NEU', 'NEU', 'Garten']","Miete zzgl. NK 880,16 €",Wohnfläche ca. 96 m²,Zi. 3,57,5
+5,selObject_44998992,NEU 2-Zimmer-Wohnung mit Wannenbad in Köln-Mülheim ...,"[['Wohnung', '•', 'Köln', 'Mülheim']]","['NEU', 'NEU']",Miete zzgl. NK 623 €,Wohnfläche ca. 67 m²,Zi. 2,57,5
+6,selObject_44998986,NEU Wohnung in Gütersloh,"[['Wohnung', '•', 'Gütersloh', 'Innenstadt']]","['NEU', 'NEU']",Miete zzgl. NK 520 €,Wohnfläche ca. 85 m²,Zi. 3,57,5
+7,selObject_44998929,NEU Essen-Überruhr 3-Zimmer-Wohnung zu vermieten,"[['Wohnung', '•', 'Essen', 'Überruhr-Hinsel']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 640 €,Wohnfläche ca. 83 m²,Zi. 3,57,5
+8,selObject_44998927,NEU Saniertes Studenten-App. in TH-Nähe in Aachen von priv...,"[['Apartment', '•', 'Aachen', 'Aachen']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 320 €,Wohnfläche ca. 24 m²,Zi. 1,57,5
+9,selObject_44998922,NEU 2-Zimmer-Wohnung im Dellviertel zu vermieten,"[['Etagenwohnung', '•', 'Duisburg', 'Dellviertel']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 552 €,Wohnfläche ca. 69 m²,Zi. 2,57,5
+10,selObject_44998833,"NEU Traumhaft große 2,5 -Zimmer Wohnung Im Herzen von Kaar...","[['Etagenwohnung', '•', 'Kaarst', 'Vorst']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 770 €,Wohnfläche ca. 98 m²,"Zi. 2,5",57,5
+11,selObject_44998529,NEU 3 Zimmerwohnung in Wallefeld,"[['Erdgeschosswohnung', '•', 'Engelskirchen', 'Wallefeld']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 600 €,Wohnfläche ca. 80 m²,Zi. 3,57,5
+12,selObject_44998438,"NEU Lage u. Luxus: Barrierearme, elegante PenthouseETW im...","[['Penthouse', '•', 'Gevelsberg', 'Gevelsberg']]","['NEU', 'NEU']",Miete zzgl. NK 1.500 €,Wohnfläche ca. 149 m²,Zi. 4,57,5
+13,selObject_44998372,NEU DO- KREUZVIERTEL! 65qm - 2 Zimmer Wohnung,"[['Etagenwohnung', '•', 'Dortmund', 'Mitte']]","['NEU', 'NEU']",Miete zzgl. NK 510 €,Wohnfläche ca. 65 m²,Zi. 2,57,5
+14,selObject_44998367,NEU Werkerhofplatz! Renovierte 3-Zimmer-Wohnung mit Balkon...,"[['Etagenwohnung', '•', 'Heiligenhaus', 'Mitte']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 560 €,Wohnfläche ca. 66 m²,Zi. 3,57,5
+15,selObject_44998357,NEU Werkerhofplatz! Zwei renovierte Wohnungen auf einer...,"[['Etagenwohnung', '•', 'Heiligenhaus', 'Mitte']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 1.010 €,Wohnfläche ca. 119 m²,Zi. 5,57,5
+16,selObject_44998337,NEU Stilvolle Altbauwohnung in zentraler Innenstadt Lage...,"[['Etagenwohnung', '•', 'Köln', 'Neustadt-Nord']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete inkl. NK 2.990 €,Wohnfläche ca. 120 m²,Zi. 4,57,5
+17,selObject_44998311,"NEU Witten-Sonnenschein: 4,5 Zimmer-Wohnung mit 110m² und...","[['Etagenwohnung', '•', 'Witten', 'Mitte']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 690 €,Wohnfläche ca. 110 m²,"Zi. 4,5",57,5
+18,selObject_44998222,NEU ** Schöne Wohnung nähe Hamborner Altmarkt **,"[['Etagenwohnung', '•', 'Duisburg', 'Alt-Hamborn']]","['NEU', 'NEU']",Miete zzgl. NK 470 €,Wohnfläche ca. 75 m²,Zi. 2,57,5
+19,selObject_44998223,NEU ** Gemütliche Wohnung im 2 Familienhaus..**,"[['Dachgeschosswohnung', '•', 'Duisburg', 'Obermarxloh']]","['NEU', 'NEU']",Miete zzgl. NK 370 €,Wohnfläche ca. 62 m²,Zi. 3,57,5
+20,selObject_44998207,"NEU Wohnen "" An de Bahn"" Obergeschosswohnung in zentraler...","[['Etagenwohnung', '•', 'Steinfurt', 'Borghorst']]","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 740 €,Wohnfläche ca. 82 m²,Zi. 3,57,5
+21,selObject_44998192,"NEU Gepflegte 2-Zimmer-Wohnung im Erdgeschoss, mit Balkon,...","[['Erdgeschosswohnung', '•', 'Bergisch', 'Gladbach', 'Hand']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 550 €,Wohnfläche ca. 55 m²,Zi. 2,57,5
+22,selObject_44998185,"NEU Gepflegte 2-Zimmer-Wohnung mit Balkon, Keller, EBK und...","[['Erdgeschosswohnung', '•', 'Odenthal', 'Glöbusch']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 500 €,Wohnfläche ca. 74 m²,Zi. 2,57,5
+23,selObject_44998165,NEU Gemütliche Dachgeschoss-Wohnung in Zentrumnähe von Epe...,"[['Wohnung', '•', 'Gronau', 'Epe']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 530 €,Wohnfläche ca. 75 m²,Zi. 3,57,5
+24,selObject_44998128,"NEU An berufstätige Mieter: Luxuriöse, helle u. großzügige...","[['Dachgeschosswohnung', '•', 'Gelsenkirchen', 'Resse']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 690 €,Wohnfläche ca. 115 m²,Zi. 5,57,5
+25,selObject_44998116,NEU Exklusives Penthouse in ruhiger zentraler Lage von...,"[['Wohnung', '•', 'Detmold', 'Innenstadt']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 1.150 €,Wohnfläche ca. 115 m²,Zi. 3,57,5
+26,selObject_44998104,NEU Lichtdurchflutete Maisonette-Wohnung,"[['Maisonette', '•', 'Ennigerloh', 'Ennigerloh']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 886,04 €",Wohnfläche ca. 104 m²,"Zi. 3,5",57,5

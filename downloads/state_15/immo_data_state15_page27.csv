@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44939087,*** gemütliche 2 Raum Wohnung in schöner Lage ***,"['Etagenwohnung', '•', 'Weißenfels', 'Weißenfels']",[],Miete zzgl. NK 283 €,Wohnfläche ca. 47 m²,Zi. 2,27,15
-1,selObject_44939017,Frisch gestrichen,"['Etagenwohnung', '•', 'Halle', 'Trotha']",['Balkon'],"Miete zzgl. NK 392,01 €",Wohnfläche ca. 61 m²,Zi. 3,27,15
-2,selObject_44938905,Wohnung in Halle,"['Etagenwohnung', '•', 'Halle', 'Damaschkestraße']",[],Miete zzgl. NK 436 €,Wohnfläche ca. 67 m²,Zi. 2,27,15
-3,selObject_44938900,*TOP SANIERT* mit Balkon+ 400 € Umzug inklusive,"['Etagenwohnung', '•', 'Halle', 'Heide', 'Nord']",['Balkon'],Miete zzgl. NK 260 €,Wohnfläche ca. 50 m²,Zi. 2,27,15
-4,selObject_44938503,Exklusive 3 Zimmerwohnung mit Balkon im beliebten Stad...,"['Etagenwohnung', '•', 'Magdeburg', 'Leipziger', 'Str.']",['Balkon'],Miete zzgl. NK 584 €,Wohnfläche ca. 78 m²,Zi. 3,27,15
-5,selObject_44937997,Mieterticket inklusive! Sofort bezugsfertig.,"['Wohnung', '•', 'Lutherstadt', 'Eisleben', 'Lutherstadt', 'Eisleben']",[],Miete zzgl. NK 225 €,Wohnfläche ca. 45 m²,Zi. 2,27,15
-6,selObject_44937996,Gemütlich und kompakt,"['Wohnung', '•', 'Lutherstadt', 'Eisleben', 'Lutherstadt', 'Eisleben']",[],Miete zzgl. NK 250 €,Wohnfläche ca. 39 m²,Zi. 2,27,15
-7,selObject_44934718,*** ** lichtdurchflutet + attraktiv - 2 Raum Wohnung...,"['Etagenwohnung', '•', 'Weißenfels', 'Weißenfels']",['Balkon'],Miete zzgl. NK 300 €,Wohnfläche ca. 50 m²,Zi. 2,27,15
-8,selObject_44934690,Schöne 3-Raumwohnung mit Stellplatz in der Stadtmitte,"['Apartment', '•', 'Bitterfeld-Wolfen', 'Wolfen']",['Balkon'],Miete zzgl. NK 450 €,Wohnfläche ca. 82 m²,Zi. 3,27,15
-9,selObject_44933868,.... FRISCH RENOVIERT + TAGESLICHTBAD ...,"['Dachgeschosswohnung', '•', 'Gardelegen', 'Gardelegen']",['Garten'],Miete zzgl. NK 360 €,Wohnfläche ca. 52 m²,Zi. 2,27,15
-10,selObject_44933812,"*** helle, geräumige 2 Raum Wohnung mit Balkon ***","['Etagenwohnung', '•', 'Weißenfels', 'Weißenfels']",['Balkon'],Miete zzgl. NK 296 €,Wohnfläche ca. 49 m²,Zi. 2,27,15
-11,selObject_44933182,2-Zi+Küche-Dachgeschosswohnung mit 28qm,"['Wohnung', '•', 'Merseburg', 'Merseburg']",[],Miete zzgl. NK 160 €,Wohnfläche ca. 28 m²,Zi. 2,27,15
-12,selObject_44933132,3-Raum-Wohnung im beliebten Stadtfeld!,"['Wohnung', '•', 'Magdeburg', 'Stadtfeld', 'Ost']",[],"Miete zzgl. NK 347,20 €",Wohnfläche ca. 56 m²,Zi. 3,27,15
-13,selObject_44933026,Single Wohnung mit Balkon,"['Wohnung', '•', 'Aschersleben', 'Aschersleben']",['Balkon'],Miete zzgl. NK 196 €,Wohnfläche ca. 49 m²,Zi. 2,27,15
-14,selObject_44933024,VOLL MÖBLIERT!!!,"['Wohnung', '•', 'Aschersleben', 'Aschersleben']",[],"Miete zzgl. NK 355,08 €",Wohnfläche ca. 59 m²,Zi. 3,27,15
-15,selObject_44932962,Schöne 2 Zimmer-Wohnung in grüner Lage,"['Wohnung', '•', 'Halle', 'Ammendorf-Beesen']",['Balkon'],Miete zzgl. NK 366 €,Wohnfläche ca. 52 m²,Zi. 2,27,15
-16,selObject_44932500,"EBK inklusive, frisch renovierte 3-Raum Wohnung sucht...","['Etagenwohnung', '•', 'Halle', 'Südliche', 'Neustadt']","['Balkon', 'EBK']",Miete zzgl. NK 401 €,Wohnfläche ca. 57 m²,Zi. 3,27,15
-17,selObject_44932499,Mit Balkon! 3-Zimmer-Wohnung,"['Etagenwohnung', '•', 'Halle', 'Südliche', 'Neustadt']",['Balkon'],Miete zzgl. NK 345 €,Wohnfläche ca. 57 m²,Zi. 3,27,15
-18,selObject_44932498,gemütliche 4-Raum Wohnung im Erdgeschoß ab sofort,"['Etagenwohnung', '•', 'Halle', 'Südliche', 'Neustadt']",['Balkon'],Miete zzgl. NK 396 €,Wohnfläche ca. 66 m²,Zi. 4,27,15
-19,selObject_44932495,gemütliche 3-Raum Wohnung sucht Bewohner,"['Erdgeschosswohnung', '•', 'Halle', 'Südliche', 'Neustadt']",['Balkon'],Miete zzgl. NK 345 €,Wohnfläche ca. 57 m²,Zi. 3,27,15
-20,selObject_44929515,Anlegen und Einziehen,"['Wohnung', '•', 'Halle', 'Silberhöhe']",['Balkon'],"Miete zzgl. NK 308,15 €",Wohnfläche ca. 57 m²,Zi. 3,27,15
-21,selObject_44929236,Wunderschöne Altbauwohnung mit großem Balkon in direkt...,"['Wohnung', '•', 'Magdeburg', 'Alte', 'Neustadt']","['Balkon', 'EBK']",Miete zzgl. NK 475 €,Wohnfläche ca. 73 m²,"Zi. 1,5",27,15
-22,selObject_44929229,schöne 3 Zimmer mit Balkon u. Umzugsbonus - bald mit...,"['Etagenwohnung', '•', 'Halle', 'Heide', 'Nord']",['Balkon'],Miete zzgl. NK 298 €,Wohnfläche ca. 57 m²,Zi. 3,27,15
-23,selObject_44928915,Moderne 3 Zi-Whg am Leninplatz,"['Wohnung', '•', 'Könnern', 'Könnern']",['Balkon'],Miete zzgl. NK 375 €,Wohnfläche ca. 76 m²,Zi. 3,27,15
-24,selObject_44928706,Attraktive 1-Raumwohnung,"['Wohnung', '•', 'Magdeburg', 'Neustädter', 'Feld']",['Balkon'],"Miete zzgl. NK 215,80 €",Wohnfläche ca. 38 m²,Zi. 1,27,15
-25,selObject_44928702,Geräumige 2-Raum Wohnung im Stadtzentrum!,"['Etagenwohnung', '•', 'Magdeburg', 'Altstadt']",[],Miete zzgl. NK 498 €,Wohnfläche ca. 83 m²,Zi. 2,27,15
-26,selObject_44928701,Gemütliche 2-Raum Wohnung im Magdeburger Stadtzentrum!,"['Etagenwohnung', '•', 'Magdeburg', 'Altstadt']",[],"Miete zzgl. NK 302,50 €",Wohnfläche ca. 60 m²,Zi. 2,27,15
+0,selObject_44966306,Zentrale Lage im 1. OG 2-Zimmer-Wohnung mit Balkon!,"[['Wohnung', '•', 'Bad', 'Dürrenberg', 'Bad', 'Dürrenberg']]",['Balkon'],Miete zzgl. NK 250 €,Wohnfläche ca. 56 m²,Zi. 2,27,15
+1,selObject_44965560,Zentrumsnahe 3-Zimmer Wohnung sucht Sie!,"[['Etagenwohnung', '•', 'Halle', 'Altstadt']]",['EBK'],"Miete zzgl. NK 618,08 €",Wohnfläche ca. 77 m²,Zi. 3,27,15
+2,selObject_44965421,Wohnen im Zentrum von Eisleben,"[['Dachgeschosswohnung', '•', 'Lutherstadt', 'Eisleben', 'Lutherstadt', 'Eisleben']]",[],Miete zzgl. NK 564 €,Wohnfläche ca. 83 m²,Zi. 3,27,15
+3,selObject_44965242,Mit dem Aufzug zum Weitblick! 2-Zimmer mit Südbalkon...,"[['Etagenwohnung', '•', 'Bad', 'Dürrenberg', 'Bad', 'Dürrenberg']]",['Balkon'],Miete zzgl. NK 277 €,Wohnfläche ca. 46 m²,Zi. 2,27,15
+4,selObject_44965079,Aufzug ab 2021! 4-Zimmer-Wohnung mit Balkon!,"[['Etagenwohnung', '•', 'Bad', 'Dürrenberg', 'Bad', 'Dürrenberg']]",['Balkon'],Miete zzgl. NK 472 €,Wohnfläche ca. 79 m²,Zi. 4,27,15
+5,selObject_44964857,"Kisten auspacken, Möbel rein & wohlfühlen","[['Etagenwohnung', '•', 'Magdeburg', 'Neustädter', 'See']]",[],"Miete zzgl. NK 169,55 €",Wohnfläche ca. 32 m²,Zi. 1,27,15
+6,selObject_44963960,Nachnutzer gesucht! Verkehrsgünstige Innenstadtlage...,"[['Wohnung', '•', 'Halle', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 477 €,Wohnfläche ca. 56 m²,Zi. 2,27,15
+7,selObject_44961316,Tapentenwechsel!,"[['Etagenwohnung', '•', 'Halle', 'Silberhöhe']]",['Balkon'],Miete zzgl. NK 285 €,Wohnfläche ca. 58 m²,Zi. 3,27,15
+8,selObject_44961299,DEIN neues Zuhause!,"[['Etagenwohnung', '•', 'Halle', 'Silberhöhe']]",['Balkon'],Miete zzgl. NK 285 €,Wohnfläche ca. 58 m²,Zi. 3,27,15
+9,selObject_44961280,Perfekt für DICH!,"[['Etagenwohnung', '•', 'Halle', 'Silberhöhe']]",[],Miete zzgl. NK 230 €,Wohnfläche ca. 42 m²,Zi. 2,27,15
+10,selObject_44961221,Hier brauch ich kein Auto,"[['Wohnung', '•', 'Halle', 'Südstadt']]",['Balkon'],"Miete zzgl. NK 343,90 €",Wohnfläche ca. 61 m²,Zi. 3,27,15
+11,selObject_44960894,Wir sanieren für Sie! - 3 Zimmer mit Badewanne ab Herb...,"[['Etagenwohnung', '•', 'Halle', 'Heide', 'Nord']]",['Balkon'],Miete zzgl. NK 318 €,Wohnfläche ca. 57 m²,Zi. 3,27,15
+12,selObject_44960895,Erstbezug! - sanierte 2-R-Wohnung im Erdgeschoss mit...,"[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Halle', 'Heide', 'Nord']]",['Balkon'],Miete zzgl. NK 277 €,Wohnfläche ca. 49 m²,Zi. 2,27,15
+13,selObject_44960896,modern sanierte 2 Zimmer mit tollem Ausblick vom Balko...,"[['Etagenwohnung', '•', 'Halle', 'Heide', 'Nord']]",['Balkon'],Miete zzgl. NK 279 €,Wohnfläche ca. 50 m²,Zi. 2,27,15
+14,selObject_44960487,Der Sonne entgegen wohnen * 3 ZKB * Loggia * Aufzug *...,"[['Etagenwohnung', '•', 'Halle', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 770 €,Wohnfläche ca. 75 m²,Zi. 3,27,15
+15,selObject_44960070,3-Zimmer-Wohnung mit Extra-Komfort * Neubau * Loggia *...,"[['Etagenwohnung', '•', 'Halle', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 800 €,Wohnfläche ca. 75 m²,Zi. 3,27,15
+16,selObject_44960024,Be Smart - 3 ZKB * Loggia * Neubau im Herzen von Halle...,"[['Erdgeschosswohnung', '•', 'Halle', 'Lutherplatz']]",['Balkon'],Miete zzgl. NK 760 €,Wohnfläche ca. 76 m²,Zi. 3,27,15
+17,selObject_44959987,Hübsche 2 Raum Wohnung im Herzen von Quedlinburg,"[['Wohnung', '•', 'Quedlinburg', 'Quedlinburg']]",[],Miete zzgl. NK 485 €,Wohnfläche ca. 70 m²,Zi. 2,27,15
+18,selObject_44959865,3-Zimmer-Wohnung mit Garten in Schkopau Ortsteil Schko...,"[['Wohnung', '•', 'Schkopau', 'Schkopau']]",['Garten'],Miete zzgl. NK 360 €,Wohnfläche ca. 58 m²,Zi. 3,27,15
+19,selObject_44959813,** Klein aber fein - 2 Raum Wohnung im Grünen **,"[['Apartment', '•', 'Hoym']]",[],Miete zzgl. NK 246 €,Wohnfläche ca. 41 m²,Zi. 2,27,15
+20,selObject_44959808,"Ab 01.09.21! Sanierte Altstadt-Wohnung, mit Küche, Bad...","[['Etagenwohnung', '•', 'Halberstadt', 'Halberstadt']]",['EBK'],Miete zzgl. NK 291 €,Wohnfläche ca. 48 m²,Zi. 2,27,15
+21,selObject_44959807,** attraktiv und modernisiert - 4 Raum Wohnung wie im...,"[['Etagenwohnung', '•', 'Hettstedt', 'Hettstedt']]",['Balkon'],Miete zzgl. NK 385 €,Wohnfläche ca. 77 m²,Zi. 4,27,15
+22,selObject_44958475,Top Lage Charlottenviertel 2-Raum Wohnung mit großer...,"[['Etagenwohnung', '•', 'Halle', 'Innenstadt']]",['Balkon'],"Miete zzgl. NK 466,90 €",Wohnfläche ca. 72 m²,Zi. 2,27,15
+23,selObject_44958334,3 Zimmer DG Wohnung im Zentrum nähe Stadtpark,"[['Dachgeschosswohnung', '•', 'Zerbst']]",[],Miete zzgl. NK 400 €,Wohnfläche ca. 70 m²,Zi. 3,27,15
+24,selObject_44958277,2 Zimmer Erdgeschoss Wohnung im Zentrum und nähe Stadt...,"[['Erdgeschosswohnung', '•', 'Zerbst']]",[],Miete zzgl. NK 275 €,Wohnfläche ca. 50 m²,Zi. 2,27,15
+25,selObject_44958249,Ihr neues Zuhause: Helle 3-Raumwohnung mit Balkon,"[['Wohnung', '•', 'Zeitz', 'Zeitz']]",['Balkon'],Miete zzgl. NK 440 €,Wohnfläche ca. 78 m²,Zi. 3,27,15
+26,selObject_44958242,Klein aber fein - 2-Raumwohnung in der Leipziger Straß...,"[['Etagenwohnung', '•', 'Halle', 'Innenstadt']]",[],Miete zzgl. NK 360 €,Wohnfläche ca. 41 m²,Zi. 2,27,15

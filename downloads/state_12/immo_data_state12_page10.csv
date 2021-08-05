@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44968435,Familienfreundliches Zuhause in Cottbus,"['Wohnung', '•', 'Cottbus', 'Schmellwitz']",['Balkon'],"Miete zzgl. NK 344,10 €",Wohnfläche ca. 59 m²,Zi. 3,10,12
-1,selObject_44968432,Perfekt als erste eigene Wohnung,"['Wohnung', '•', 'Cottbus', 'Spremberger', 'Vorstadt']",['Balkon'],Miete zzgl. NK 325 €,Wohnfläche ca. 50 m²,Zi. 2,10,12
-2,selObject_44968431,Perfekt als erste eigene Wohnung,"['Wohnung', '•', 'Cottbus', 'Ströbitz']",['Balkon'],"Miete zzgl. NK 259,02 €",Wohnfläche ca. 45 m²,Zi. 2,10,12
-3,selObject_44968429,Schöne Wohnung mit guter Infrastruktur,"['Wohnung', '•', 'Cottbus', 'Sandow']",['Balkon'],"Miete zzgl. NK 283,58 €",Wohnfläche ca. 58 m²,Zi. 3,10,12
-4,selObject_44968426,Nur wenige Stufen in Ihr neues Zuhause,"['Wohnung', '•', 'Cottbus', 'Spremberger', 'Vorstadt']",['Balkon'],Miete zzgl. NK 345 €,Wohnfläche ca. 50 m²,Zi. 2,10,12
-5,selObject_44968428,Perfekt als erste eigene Wohnung,"['Wohnung', '•', 'Cottbus', 'Mitte']",[],"Miete zzgl. NK 259,69 €",Wohnfläche ca. 50 m²,Zi. 1,10,12
-6,selObject_44968423,Ihre neue Wohnung in Sandow,"['Wohnung', '•', 'Cottbus', 'Sandow']",['Balkon'],"Miete zzgl. NK 361,95 €",Wohnfläche ca. 72 m²,Zi. 4,10,12
-7,selObject_44968422,"Klein, aber fein. Hübsche Single-Wohnung mit Balkon","['Wohnung', '•', 'Cottbus', 'Sandow']",['Balkon'],"Miete zzgl. NK 204,75 €",Wohnfläche ca. 38 m²,Zi. 1,10,12
-8,selObject_44968418,Schöne Wohnung im Erdgeschoss,"['Erdgeschosswohnung', '•', 'Cottbus', 'Mitte']",[],"Miete zzgl. NK 318,87 €",Wohnfläche ca. 67 m²,Zi. 3,10,12
-9,selObject_44968415,Schöne Wohnung mit Stellplatz direkt vor der Tür,"['Wohnung', '•', 'Cottbus', 'Sandow']",['Balkon'],"Miete zzgl. NK 303,94 €",Wohnfläche ca. 58 m²,Zi. 3,10,12
-10,selObject_44968412,Klein und günstig,"['Wohnung', '•', 'Cottbus', 'Mitte']",[],"Miete zzgl. NK 150,38 €",Wohnfläche ca. 23 m²,Zi. 1,10,12
-11,selObject_44968407,Familienfreundliches Zuhause in Cottbus,"['Wohnung', '•', 'Cottbus', 'Ströbitz']",['Balkon'],Miete zzgl. NK 378 €,Wohnfläche ca. 76 m²,Zi. 4,10,12
-12,selObject_44968406,Perfekt als erste eigene Wohnung,"['Wohnung', '•', 'Cottbus', 'Mitte']",[],Miete zzgl. NK 163 €,Wohnfläche ca. 31 m²,Zi. 1,10,12
-13,selObject_44968393,Familienfreundliches Zuhause in Cottbus,"['Wohnung', '•', 'Cottbus', 'Schmellwitz']",['Balkon'],"Miete zzgl. NK 628,66 €",Wohnfläche ca. 114 m²,Zi. 5,10,12
-14,selObject_44968386,Perfekt als erste eigene Wohnung,"['Wohnung', '•', 'Cottbus', 'Mitte']",[],Miete zzgl. NK 130 €,Wohnfläche ca. 23 m²,Zi. 1,10,12
-15,selObject_44968384,Ruhige Wohnung ohne Obermieter,"['Wohnung', '•', 'Cottbus', 'Ströbitz']",['Balkon'],"Miete zzgl. NK 243,45 €",Wohnfläche ca. 49 m²,Zi. 2,10,12
-16,selObject_44968381,Ideale Wohnung mit Raum für Homeoffice,"['Wohnung', '•', 'Cottbus', 'Ströbitz']",['Balkon'],Miete zzgl. NK 331 €,Wohnfläche ca. 66 m²,Zi. 4,10,12
-17,selObject_44968379,Hübsche Single-Wohnung nahe BTU-Campus Süd,"['Erdgeschosswohnung', '•', 'Cottbus', 'Spremberger', 'Vorstadt']",['Balkon'],"Miete zzgl. NK 262,33 €",Wohnfläche ca. 39 m²,Zi. 1,10,12
-18,selObject_44968377,Schöne Wohnung mit Aufzug und Balkon - nahe der Spree,"['Wohnung', '•', 'Cottbus', 'Sandow']",['Balkon'],"Miete zzgl. NK 280,56 €",Wohnfläche ca. 58 m²,Zi. 3,10,12
-19,selObject_44967584,2-Zimmer-Wohnung mit Erker,"['Etagenwohnung', '•', 'Prenzlau', 'Prenzlau']",[],Miete zzgl. NK 320 €,Wohnfläche ca. 53 m²,Zi. 2,10,12
-20,selObject_44967577,MITTENDRIN...,"['Etagenwohnung', '•', 'Prenzlau', 'Prenzlau']",['Balkon'],Miete zzgl. NK 360 €,Wohnfläche ca. 61 m²,Zi. 3,10,12
-21,selObject_44967573,Wohnung sucht Mieter,"['Etagenwohnung', '•', 'Prenzlau', 'Prenzlau']",['Balkon'],Miete zzgl. NK 275 €,Wohnfläche ca. 50 m²,Zi. 2,10,12
-22,selObject_44967575,Tolle 3 Raumwohnung am Marktberg!,"['Etagenwohnung', '•', 'Prenzlau', 'Prenzlau']",['Balkon'],Miete zzgl. NK 435 €,Wohnfläche ca. 70 m²,Zi. 3,10,12
-23,selObject_44966748,RESERVIERT!! Singlewohnung - Kleine Welt ganz groß,"['Wohnung', '•', 'Eberswalde', 'Eberswalde']",[],"Miete zzgl. NK 296,20 €",Wohnfläche ca. 44 m²,Zi. 1,10,12
-24,selObject_44966587,1 Raum Wohnung,"['Wohnung', '•', 'Müncheberg', 'Müncheberg']",[],Miete zzgl. NK 261 €,Wohnfläche ca. 45 m²,Zi. 1,10,12
-25,selObject_44966413,moderne großzügige 4-Raum-Wohnung - Erstbezug,"['Wohnung', '•', 'Forst', 'Forst-Stadt']",[],Miete zzgl. NK 675 €,Wohnfläche ca. 134 m²,Zi. 4,10,12
-26,selObject_44965381,Zwei - Zimmer Wohnung in der 2. Etage mit Balkon,"['Wohnung', '•', 'Potsdam', 'Fahrland']","['Balkon', 'EBK']","Miete zzgl. NK 491,06 €",Wohnfläche ca. 57 m²,Zi. 2,10,12
+0,selObject_44985282,"Wohnen im Stadtzentrum, 2-Raumwohnung mit Einbauküche...","[['Etagenwohnung', '•', 'Neuruppin']]","['Balkon', 'EBK']","Miete zzgl. NK 747,81 €",Wohnfläche ca. 83 m²,Zi. 2,10,12
+1,selObject_44985141,Einzugsfertig! Wohnen an der Insel!,"[['Etagenwohnung', '•', 'Eisenhüttenstadt', 'Eisenhüttenstadt']]",['Balkon'],"Miete zzgl. NK 363,38 €",Wohnfläche ca. 60 m²,Zi. 2,10,12
+2,selObject_44985098,3 Zimmerwohnung in Westend mit Einbauküche,"[['Wohnung', '•', 'Eberswalde', 'Eberswalde']]","['Balkon', 'EBK']",Miete zzgl. NK 490 €,Wohnfläche ca. 61 m²,Zi. 3,10,12
+3,selObject_44983478,4-Zimmer-Wohnung in den Theodor-Fontane-Höfen mit Balk...,"[['Etagenwohnung', '•', 'Schönefeld', 'Waßmannsdorf']]","['Balkon', 'EBK']",Miete zzgl. NK 1.065 €,Wohnfläche ca. 91 m²,Zi. 4,10,12
+4,selObject_44982174,"Anspruchsvolle Wohnlage Wildenbruch, DIREKT am Golf-...","[['Etagenwohnung', '•', 'Michendorf', 'Wildenbruch']]","['Balkon', 'EBK']",Miete zzgl. NK 544 €,Wohnfläche ca. 49 m²,Zi. 2,10,12
+5,selObject_44981625,Wunderschöne Wohnung 1. OG in charmanter Stadtvilla...,"[['Wohnung', '•', 'Glienicke']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.300 €,Wohnfläche ca. 97 m²,Zi. 3,10,12
+6,selObject_44981390,Einzigartige Wohnung in herrschaftlicher Villa,"[['Wohnung', '•', 'Eberswalde', 'Eberswalde']]","['Balkon', 'EBK']",Miete zzgl. NK 1.300 €,Wohnfläche ca. 209 m²,Zi. 5,10,12
+7,selObject_44981368,Das doppelte Lottchen!,"[['Etagenwohnung', '•', 'Wildau']]",['EBK'],"Miete zzgl. NK 355,84 €",Wohnfläche ca. 36 m²,Zi. 1,10,12
+8,selObject_44981318,neue helle 2-Raum Whg. mit Balkon im sanierten Altbau,"[['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']]","['Balkon', 'EBK']","Miete zzgl. NK 329,76 €",Wohnfläche ca. 46 m²,Zi. 2,10,12
+9,selObject_44980079,Wir suchen für die Alex-Sailer-Straße 4 in Luckenwalde...,"[['Wohnung', '•', 'Luckenwalde', 'Luckenwalde']]",[],Preis Auf Anfrage,Wohnfläche ca. 57 m²,Zi. 2,10,12
+10,selObject_44979852,Perfekt für Paare - raffiniert geschnittene 2-Zimmerwo...,"[['Etagenwohnung', '•', 'Schönefeld', 'Waßmannsdorf']]","['Balkon', 'EBK']",Miete zzgl. NK 755 €,Wohnfläche ca. 66 m²,Zi. 2,10,12
+11,selObject_44979837,WWW.SONNENHOEFE-SCHOENEFELD.DE,"[['Etagenwohnung', '•', 'Schönefeld', 'Schönefeld']]","['Balkon', 'EBK']",Miete zzgl. NK 675 €,Wohnfläche ca. 52 m²,Zi. 2,10,12
+12,selObject_44979810,Wunderschöner Neubaukomplex in Schönefeld! Deine 3-Zim...,"[['Etagenwohnung', '•', 'Schönefeld', 'Waßmannsdorf']]","['Balkon', 'EBK']",Miete zzgl. NK 870 €,Wohnfläche ca. 72 m²,Zi. 3,10,12
+13,selObject_44979800,Moderner Erstbezug in Schönefeld,"[['Etagenwohnung', '•', 'Schönefeld', 'Waßmannsdorf']]","['Balkon', 'EBK']",Miete zzgl. NK 865 €,Wohnfläche ca. 72 m²,Zi. 3,10,12
+14,selObject_44979786,Charmante 3-Zimmerwohnung mit moderner Einbauküche und...,"[['Etagenwohnung', '•', 'Schönefeld', 'Schönefeld']]","['Balkon', 'EBK']",Miete zzgl. NK 970 €,Wohnfläche ca. 88 m²,Zi. 3,10,12
+15,selObject_44979623,"Moderne 3-Zimmerwohnung in Schönefeld, inkl. Keller","[['Etagenwohnung', '•', 'Schönefeld', 'Waßmannsdorf']]","['Balkon', 'EBK']",Miete zzgl. NK 885 €,Wohnfläche ca. 72 m²,Zi. 3,10,12
+16,selObject_44979608,WWW.SONNENHOEFE-SCHOENEFELD.DE,"[['Etagenwohnung', '•', 'Schönefeld', 'Waßmannsdorf']]","['Balkon', 'EBK']",Miete zzgl. NK 885 €,Wohnfläche ca. 72 m²,Zi. 3,10,12
+17,selObject_44979569,Sonnenhöfe Schönefeld -Raffiniert geschnittene 2-Zimme...,"[['Etagenwohnung', '•', 'Schönefeld', 'Schönefeld']]","['Balkon', 'EBK']",Miete zzgl. NK 800 €,Wohnfläche ca. 72 m²,Zi. 2,10,12
+18,selObject_44979541,Moderne 2-Zimmerwohnung in den Sonnenhöfen,"[['Etagenwohnung', '•', 'Schönefeld', 'Schönefeld']]","['Balkon', 'EBK']",Miete zzgl. NK 795 €,Wohnfläche ca. 71 m²,Zi. 2,10,12
+19,selObject_44979505,Großzügige 2-Zimmerwohnung mit sofortiger Verfügbarkei...,"[['Etagenwohnung', '•', 'Schönefeld', 'Schönefeld']]","['Balkon', 'EBK']",Miete zzgl. NK 815 €,Wohnfläche ca. 71 m²,Zi. 2,10,12
+20,selObject_44979324,Erstbezug - Großzügige 4 Zimmer Wohnung - barrierefrei...,"[['Apartment', '•', 'Großbeeren', 'Kleinbeeren']]",['Balkon'],"Miete zzgl. NK 1.755,48 €",Wohnfläche ca. 146 m²,Zi. 4,10,12
+21,selObject_44978681,Großzügige Familienwohnung mit großer Terrasse und...,"[['Erdgeschosswohnung', '•', 'Eichwalde']]","['Balkon', 'Garten', 'EBK']","Miete zzgl. NK 858,48 €",Wohnfläche ca. 82 m²,Zi. 3,10,12
+22,selObject_44977364,Wohnen auf Zeit**Komplett möblierte DG-Wohnung am Park...,"[['Wohnung', '•', 'Potsdam', 'Bornstedt']]","['Balkon', 'EBK']",Miete zzgl. NK 1.230 €,Wohnfläche ca. 106 m²,Zi. 4,10,12
+23,selObject_44976692,4-Raum-Wohnung mit Balkon in Bahnhofsnähe,"[['Etagenwohnung', '•', 'Brandenburg', 'Neustadt']]",['Balkon'],Miete zzgl. NK 620 €,Wohnfläche ca. 78 m²,Zi. 4,10,12
+24,selObject_44976383,Penthouse in Neuruppin,"[['Dachgeschosswohnung', '•', 'Neuruppin']]",['EBK'],Miete zzgl. NK 1.692 €,Wohnfläche ca. 141 m²,Zi. 4,10,12
+25,selObject_44975797,Romantische Wohnung auf idyllischem Grundstück in der...,"[['Wohnung', '•', 'Boitzenburger', 'Land', 'Jakobshagen']]","['Garten', 'EBK']",Miete zzgl. NK 700 €,Wohnfläche ca. 103 m²,Zi. 2,10,12
+26,selObject_44974780,Mieter gesucht ! 1-Zimmer Wohnung in Bahnhofsnähe,"[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Brandenburg', 'Neustadt']]",[],Miete zzgl. NK 290 €,Wohnfläche ca. 39 m²,Zi. 1,10,12

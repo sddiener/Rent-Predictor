@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44994178,NEU Neu sanierte Erdgeschosswohnung im Nauwieser Viertel,"['Erdgeschosswohnung', '•', 'Saarbrücken', 'St', 'Johann']","['NEU', 'NEU']",Miete zzgl. NK 650 €,Wohnfläche ca. 89 m²,Zi. 3,4,10
-1,selObject_44989243,NEU Ruhig und gemütlich Wohnen in Saarbrücken - Bischmishe...,"['Dachgeschosswohnung', '•', 'Saarbrücken', 'Bischmisheim']","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 420 €,Wohnfläche ca. 49 m²,Zi. 2,4,10
-2,selObject_44989071,"NEU Singlewohnung, barrierefrei in Haustadt","['Erdgeschosswohnung', '•', 'Beckingen', 'Haustadt']","['NEU', 'NEU']",Miete zzgl. NK 400 €,Wohnfläche ca. 55 m²,Zi. 2,4,10
-3,selObject_44988529,NEU Attraktive 3 ZKB mit Garten in SB/ Nähe St.Arnualer-Ma...,"['Etagenwohnung', '•', 'Saarbrücken', 'St', 'Arnual']","['NEU', 'NEU']",Miete zzgl. NK 560 €,Wohnfläche ca. 75 m²,Zi. 3,4,10
-4,selObject_44988209,NEU 2-Zimmer-Wohnung mit Terrasse,"['Wohnung', '•', 'Saarbrücken', 'Bischmisheim']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 690 €,Wohnfläche ca. 69 m²,Zi. 2,4,10
-5,selObject_44988022,NEU === frisch renovierte 2 ZKB in Alt-Saarbrücken will...,"['Wohnung', '•', 'Saarbrücken', 'Alt-Saarbrücken']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 400 €,Wohnfläche ca. 57 m²,Zi. 2,4,10
-6,selObject_44987395,"NEU 1-Zimmerapp., Pantry Küche, Bad mit Dusche und WC,...","['Apartment', '•', 'Saarbrücken', 'Alt-Saarbrücken']","['NEU', 'NEU']",Miete zzgl. NK 280 €,Wohnfläche ca. 22 m²,Zi. 1,4,10
-7,selObject_44985796,NEU 4 ZKB Saarbrücken Eschberg,"['Etagenwohnung', '•', 'Saarbrücken', 'St', 'Johann']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 675 €,Wohnfläche ca. 91 m²,Zi. 4,4,10
-8,selObject_44981188,NEU Schicke Wohnung in Top Zustand mit langer überdachter...,"['Dachgeschosswohnung', '•', 'St.', 'Ingbert', 'Hassel']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 550 €,Wohnfläche ca. 85 m²,Zi. 3,4,10
-9,selObject_44980291,NEU Große 5 Zimmer-Wohnung,"['Wohnung', '•', 'Merzig', 'Hilbringen']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 985 €,Wohnfläche ca. 153 m²,Zi. 5,4,10
-10,selObject_44979948,NEU Top Zweitwohnung in der St. Wendeler Altstadt,"['Apartment', '•', 'St.', 'Wendel', 'St.', 'Wendel']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 250 €,Wohnfläche ca. 20 m²,Zi. 1,4,10
-11,selObject_44979781,NEU 3 ZBK Saarbrücken Bellevue,"['Wohnung', '•', 'Saarbrücken', 'Alt-Saarbrücken']","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 600 €,Wohnfläche ca. 70 m²,Zi. 3,4,10
-12,selObject_44979701,NEU Ruhig wohnen in Nalbach am Liternont,"['Wohnung', '•', 'Nalbach', 'Nalbach']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 450 €,Wohnfläche ca. 65 m²,"Zi. 2,5",4,10
-13,selObject_44979303,NEU Apartment zu vermieten,"['Kein', 'Bild']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 750 €,Wohnfläche ca. 110 m²,Zi. 4,4,10
-14,selObject_44979014,"NEU Stilvoll eingerichtetes und saniertes Apartment, auch...","['Etagenwohnung', '•', 'Saarbrücken', 'Dudweiler']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 450 €,Wohnfläche ca. 27 m²,Zi. 1,4,10
-15,selObject_44976341,NEU WG-geeignet! 3-Zimmer-Wohnung in Saarbrücken,"['Kein', 'Bild']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 600 €,Wohnfläche ca. 100 m²,Zi. 3,4,10
-16,selObject_44976250,NEU Schicke Wohnung Nähe Caritas Klinik möbliert,"['Dachgeschosswohnung', '•', 'Saarbrücken', 'Malstatt']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 650 €,Wohnfläche ca. 60 m²,Zi. 2,4,10
-17,selObject_44976249,"NEU Helles und ruhig gelegenes 1 Zi. Apartment, zentrums-...","['Apartment', '•', 'Saarbrücken', 'St', 'Johann']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 240 €,Wohnfläche ca. 22 m²,Zi. 1,4,10
-18,selObject_44975705,NEU teilmöblierte 2 ZKB Wohnung in City-SLS,"['Apartment', '•', 'Saarlouis', 'Saarlouis']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 495 €,Wohnfläche ca. 51 m²,Zi. 2,4,10
-19,selObject_44975132,"NEU moderne, gemütliche Wohnung, 66606 St. Wendel, Urweile...","['Erdgeschosswohnung', '•', 'St.', 'Wendel', 'St.', 'Wendel']","['NEU', 'NEU']",Miete zzgl. NK 640 €,Wohnfläche ca. 76 m²,Zi. 2,4,10
-20,selObject_44974669,NEU Attraktiv 2-Zimmer-Wohnung in der 2. Etage neben Johan...,"['Apartment', '•', 'Saarbrücken', 'St', 'Johann']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 450 €,Wohnfläche ca. 47 m²,Zi. 2,4,10
-21,selObject_44973150,*** 2- Zimmer Wohnung mit Terrasse in schöner Wohnlage...,"['Souterrainwohnung', '•', 'Blieskastel', 'Blieskastel']",[],Miete zzgl. NK 550 €,Wohnfläche ca. 56 m²,Zi. 2,4,10
-22,selObject_44971788,"Kleines Appartement im Erdgeschoss, mit Singleküche...","['Erdgeschosswohnung', '•', 'St.', 'Ingbert', 'Hassel']",['EBK'],Miete zzgl. NK 260 €,Wohnfläche ca. 25 m²,Zi. 1,4,10
-23,selObject_44970647,"Helle, freundliche 3-ZKB-Wohnung von privat","['Wohnung', '•', 'Saarbrücken', 'Malstatt']",[],Miete zzgl. NK 450 €,Wohnfläche ca. 75 m²,Zi. 3,4,10
-24,selObject_44969355,"Sonniges Appartment, Nähe Nauwieser Viertel","['Dachgeschosswohnung', '•', 'Saarbrücken', 'St', 'Johann']","['Balkon', 'EBK']",Miete zzgl. NK 335 €,Wohnfläche ca. 26 m²,Zi. 1,4,10
-25,selObject_44969288,HOMBURG-BEEDEN; HELLE 3 ZKB WOHNUNG MIT BALKON IN RUHI...,"['Etagenwohnung', '•', 'Homburg', 'Beeden']",['EBK'],Miete zzgl. NK 540 €,Wohnfläche ca. 60 m²,Zi. 3,4,10
-26,selObject_44967250,"Großzügige 3,5 ZKB Wohnung im 1. Obergeschoss in schön...","['Wohnung', '•', 'Saarbrücken', 'St', 'Johann']",['EBK'],Miete zzgl. NK 849 €,Wohnfläche ca. 95 m²,Zi. 3,4,10
+0,selObject_45012153,NEU Wohnung in Saarbrücken,"[['Dachgeschosswohnung', '•', 'Saarbrücken', 'Alt-Saarbrücken']]","['NEU', 'NEU']",Miete zzgl. NK 450 €,Wohnfläche ca. 60 m²,Zi. 3,4,10
+1,selObject_45011959,NEU Kernsanierte 4 ZKB Wohnung mit Balkon u. Stellplätzen...,"[['Dachgeschosswohnung', '•', 'Schwalbach', 'Knausholz']]","['NEU', 'NEU']",Miete zzgl. NK 720 €,Wohnfläche ca. 90 m²,Zi. 4,4,10
+2,selObject_45011626,NEU Sanierte Wohnung in historischen Gemäuern,"[['Etagenwohnung', '•', 'Saarlouis', 'Saarlouis']]","['NEU', 'NEU']",Miete zzgl. NK 570 €,Wohnfläche ca. 75 m²,Zi. 2,4,10
+3,selObject_45011625,NEU ERSTBEZUG NEUBAU - HOCHWERTIGE 3 ZKB WOHNUNG MIT EBK...,"[['Etagenwohnung', '•', 'Homburg', 'Beeden']]","['NEU', 'NEU']",Miete zzgl. NK 990 €,Wohnfläche ca. 100 m²,Zi. 3,4,10
+4,selObject_45011622,NEU ERSTBEZUG NEUBAU - HOCHWERTIGE 3 ZKB WOHNUNG MIT EBK...,"[['Etagenwohnung', '•', 'Homburg', 'Beeden']]","['NEU', 'NEU']",Miete zzgl. NK 990 €,Wohnfläche ca. 100 m²,Zi. 3,4,10
+5,selObject_45011198,NEU Renovierte DACHGESCHOSSWOHNUNG IM PENTHOUSESTIL FREI...,"[['Dachgeschosswohnung', '•', 'Saarbrücken', 'St', 'Johann']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 670 €,Wohnfläche ca. 96 m²,Zi. 4,4,10
+6,selObject_45011111,NEU Gemütliche 2 ZKB Wohnung auf dem Winterberg,"[['Souterrainwohnung', '•', 'Saarbrücken', 'St', 'Arnual']]","['NEU', 'NEU']",Miete zzgl. NK 350 €,Wohnfläche ca. 40 m²,Zi. 2,4,10
+7,selObject_45010852,"NEU 3-Raum-Wohnung inkl. Einbauküche, Wannenbad und Balkon...","[['Wohnung', '•', 'Losheim', 'Hausbach']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 650 €,Wohnfläche ca. 77 m²,Zi. 3,4,10
+8,selObject_45010803,"NEU Zu vermieten: Merzig Innenstadt, 2 ZKB, 55m², ab 01.08...","[['Wohnung', '•', 'Merzig', 'Merzig']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 450 €,Wohnfläche ca. 55 m²,"Zi. 2,5",4,10
+9,selObject_45009758,NEU Einziehen und wohlfühlen - 2-ZKB Wohnung in St. Wendel...,"[['Etagenwohnung', '•', 'St.', 'Wendel', 'St.', 'Wendel']]","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']",Miete zzgl. NK 450 €,Wohnfläche ca. 46 m²,Zi. 2,4,10
+10,selObject_45008691,NEU Wohnung in Saarbahnnähe,"[['Etagenwohnung', '•', 'Saarbrücken', 'Malstatt']]","['NEU', 'NEU']",Miete zzgl. NK 395 €,Wohnfläche ca. 55 m²,Zi. 2,4,10
+11,selObject_45008610,NEU Studentenappartment,"[['Erdgeschosswohnung', '•', 'Saarbrücken', 'Dudweiler']]","['NEU', 'NEU']",Miete zzgl. NK 230 €,Wohnfläche ca. 25 m²,Zi. 1,4,10
+12,selObject_45005455,NEU Nachmieter für attraktive Drei-Zimmer Wohnung,"[['Wohnung', '•', 'Homburg', 'Schwarzenbach']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 380 €,Wohnfläche ca. 55 m²,Zi. 3,4,10
+13,selObject_45005392,"NEU Wohnung mit Blick über Sulzbachtal, saniert 2018/19","[['Etagenwohnung', '•', 'Friedrichsthal', 'Friedrichsthal']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 460 €,Wohnfläche ca. 62 m²,Zi. 2,4,10
+14,selObject_45005299,NEU Renovierte Wohnung in guter Lage von Saarlouis zu verm...,"[['Wohnung', '•', 'Saarlouis', 'Beaumarais']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 600 €,Wohnfläche ca. 74 m²,"Zi. 2,5",4,10
+15,selObject_45005096,NEU 3 ZKB Altbau mit EBK in Stadtmitte Saarbrücken,"[['Wohnung', '•', 'Saarbrücken', 'St', 'Johann']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 530 €,Wohnfläche ca. 75 m²,Zi. 3,4,10
+16,selObject_45004236,NEU Attraktiv und ruhig wohnen in Nalbach,"[['Wohnung', '•', 'Nalbach', 'Nalbach']]","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 300 €,Wohnfläche ca. 38 m²,Zi. 2,4,10
+17,selObject_45003494,NEU Im Herzen der Ottweiler Altstadt: Wohnen auf Zeit,"[['Etagenwohnung', '•', 'Ottweiler', 'Ottweiler']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 500 €,Wohnfläche ca. 65 m²,Zi. 2,4,10
+18,selObject_45002945,NEU Modern ausgestattete Altbauwohnung mit Stilelementen...,"[['Wohnung', '•', 'Saarbrücken', 'St', 'Arnual']]","['NEU', 'NEU']",Miete zzgl. NK 1.490 €,Wohnfläche ca. 140 m²,Zi. 4,4,10
+19,selObject_45001839,NEU Helle 3 Zimmer Wohnung in Top Lage,"[['Wohnung', '•', 'Wallerfangen', 'Wallerfangen']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 620 €,Wohnfläche ca. 85 m²,Zi. 3,4,10
+20,selObject_45000789,"NEU Großzügige Wohnung in der Saarbrücker City, 80qm /2ZK...","[['Etagenwohnung', '•', 'Saarbrücken', 'St', 'Johann']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 550 €,Wohnfläche ca. 80 m²,Zi. 2,4,10
+21,selObject_45000748,"NEU 2 ½ Zimmer Küche, Bad, Mansarde, 70m² Gasheizung,...","[['Wohnung', '•', 'Saarbrücken', 'Gersweiler']]","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 430 €,Wohnfläche ca. 70 m²,Zi. 2,4,10
+22,selObject_45000723,NEU PETIT PALAIS - Exklusiv Wohnen im Zentrum von Neunkirc...,"[['Etagenwohnung', '•', 'Neunkirchen', 'Innenstadt']]","['NEU', 'NEU']",Miete zzgl. NK 780 €,Wohnfläche ca. 130 m²,Zi. 4,4,10
+23,selObject_44999455,NEU Wohnung gesucht? Diese 3-Raum-Wohnung sucht neue Miete...,"[['Wohnung', '•', 'Saarbrücken', 'Brebach-Fechingen']]","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 490 €,Wohnfläche ca. 65 m²,Zi. 3,4,10
+24,selObject_44999255,NEU Stadtwohnung sucht neue Mieter!,"[['Etagenwohnung', '•', 'Saarbrücken', 'Alt-Saarbrücken']]","['NEU', 'NEU']",Miete zzgl. NK 550 €,Wohnfläche ca. 70 m²,Zi. 2,4,10
+25,selObject_44999041,NEU 1-Zimmer-Wohnung in Innenstadt zu vermieten,"[['Wohnung', '•', 'Saarbrücken', 'St', 'Johann']]","['NEU', 'NEU']",Miete zzgl. NK 230 €,Wohnfläche ca. 27 m²,Zi. 1,4,10
+26,selObject_44998834,NEU Die Citywohnlage: ideal für Studenten und Berufspendl...,"[['Apartment', '•', 'Saarbrücken', 'St', 'Johann']]","['NEU', 'NEU']",Miete zzgl. NK 295 €,Wohnfläche ca. 30 m²,Zi. 1,4,10

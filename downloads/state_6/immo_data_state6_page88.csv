@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44346367,Neu:****Stadtoase in Biebrich - grosszügige Altbauwoh...,"['Wohnung', '•', 'Wiesbaden', 'Biebrich']","['Garten', 'EBK']",Miete zzgl. NK 580 €,Wohnfläche ca. 62 m²,Zi. 2,88,6
-1,selObject_44342728,Gemütliche 3 ZKB im EG mit Garage - Zentrale Lage in...,"['Erdgeschosswohnung', '•', 'Eschwege', 'Eschwege']",[],Miete zzgl. NK 330 €,Wohnfläche ca. 76 m²,Zi. 3,88,6
-2,selObject_44334852,Haus-Charakter: 5 Zimmer-Wohnung mit grandiosem Blick...,"['Maisonette', '•', 'Kelkheim', 'Ruppertshain']","['Balkon', 'EBK']",Miete zzgl. NK 2.180 €,Wohnfläche ca. 230 m²,Zi. 5,88,6
-3,selObject_44333007,* Schön geschnittene 3 Zimmer Wohnung in ruhiger Lage...,"['Etagenwohnung', '•', 'Eschwege', 'Eschwege']","['Balkon', 'EBK']",Miete zzgl. NK 375 €,Wohnfläche ca. 71 m²,Zi. 3,88,6
-4,selObject_44332648,"Exklusive helle 2 Zimmer Whg, Niedrigenergiehaus in...","['Wohnung', '•', 'Langen', 'Langen']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.050 €,Wohnfläche ca. 81 m²,Zi. 2,88,6
-5,selObject_44332616,Entspannt wohnen und rundum wohlfühlen: Willkommen im...,"['Etagenwohnung', '•', 'Kassel', 'Harleshausen']",[],"Miete zzgl. NK 432,65 €",Wohnfläche ca. 60 m²,Zi. 3,88,6
-6,selObject_44332005,"Leben,Wohlfühl-Wohnen im Teichbergstraße 9 , 60 m2 2...","['Dachgeschosswohnung', '•', 'Wolfhagen', 'Wolfhagen']","['Garten', 'EBK']",Miete inkl. NK 790 €,Wohnfläche ca. 60 m²,Zi. 2,88,6
-7,selObject_44328839,Eine wunderschöne Wohnung in der beste Lage von HEF,"['Dachgeschosswohnung', '•', 'Bad', 'Hersfeld', 'Bad', 'Hersfeld']",['EBK'],Miete zzgl. NK 400 €,Wohnfläche ca. 45 m²,Zi. 2,88,6
-8,selObject_44327871,Hübsche 2-Zi.-Wohnung im Nordend (4.5 Sterne),"['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Nordend-West']",[],Miete zzgl. NK 1.090 €,Wohnfläche ca. 50 m²,Zi. 2,88,6
-9,selObject_44327865,Neu möbliertes City-Apartment direkt an der Berger...,"['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Nordend-Ost']",[],Miete zzgl. NK 920 €,Wohnfläche ca. 25 m²,Zi. 1,88,6
-10,selObject_44327562,Gemütliche 3 ZKB mit Garage - Zentrale Lage in Eschweg...,"['Etagenwohnung', '•', 'Eschwege', 'Eschwege']",[],Miete zzgl. NK 330 €,Wohnfläche ca. 74 m²,Zi. 3,88,6
-11,selObject_44326945,WOHNEN ÜBER DEN DÄCHERN DES WESTENS 3 ZIMMER I MAISON...,"['Etagenwohnung', '•', 'Kassel', 'West']",['Balkon'],Miete zzgl. NK 1.057 €,Wohnfläche ca. 151 m²,Zi. 3,88,6
-12,selObject_44326282,Wohnung mit Balkon,"['Wohnung', '•', 'Helsa', 'Eschenstruth']","['Balkon', 'Garten']",Miete zzgl. NK 500 €,Wohnfläche ca. 79 m²,Zi. 3,88,6
-13,selObject_44324598,Großzügige 3-ZKB-Altbauwohnung im Zentrum von Hofgeism...,"['Dachgeschosswohnung', '•', 'Hofgeismar', 'Hofgeismar']",[],Miete zzgl. NK 480 €,Wohnfläche ca. 106 m²,Zi. 3,88,6
-14,selObject_44324575,Gepflegte 3-ZKB-Dachgeschosswohnung unweit des Marktpl...,"['Dachgeschosswohnung', '•', 'Hofgeismar', 'Hofgeismar']",[],Miete zzgl. NK 450 €,Wohnfläche ca. 81 m²,Zi. 3,88,6
-15,selObject_44324262,Vollmöbelierte 2-Zimmer-DG-Wohnung in Künzell Bachrain...,"['Wohnung', '•', 'Künzell', 'Bachrain']","['Garten', 'EBK']",Miete zzgl. NK 700 €,Wohnfläche ca. 59 m²,"Zi. 2,5",88,6
-16,selObject_44324051,Ihr neues Apartment am Westhafen - Nähe HBF!,"['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Gutleutviertel']",['EBK'],Miete zzgl. NK 615 €,Wohnfläche ca. 30 m²,Zi. 1,88,6
-17,selObject_44324050,Starten Sie in Frankfurt mit Ihrem neuen möblierten...,"['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Gutleutviertel']","['Balkon', 'EBK']",Miete zzgl. NK 780 €,Wohnfläche ca. 41 m²,Zi. 2,88,6
-18,selObject_44322887,Auf 142 m² - Traumhaftes Wohnen mit herrlichem Weitbli...,"['Etagenwohnung', '•', 'Weilrod', 'Mauloff']",[],Miete zzgl. NK 920 €,Wohnfläche ca. 142 m²,Zi. 3,88,6
-19,selObject_44322454,3-Zimmer-Wohnung in Künzell Bachrain + Küche + WC Bad...,"['Wohnung', '•', 'Künzell', 'Bachrain']","['Balkon', 'Garten']",Miete zzgl. NK 890 €,Wohnfläche ca. 94 m²,Zi. 3,88,6
-20,selObject_44321916,kurzfristiger Einzug möglich - gemütliches Apartment...,"['Apartment', '•', 'Offenbach', 'am', 'Main', 'Offenbach', 'am', 'Main']",[],Miete zzgl. NK 995 €,Wohnfläche ca. 28 m²,Zi. 1,88,6
-21,selObject_44321914,Stressfrei umziehen in eines unserer voll ausgestattet...,"['Apartment', '•', 'Offenbach', 'am', 'Main', 'Offenbach', 'am', 'Main']",[],Miete zzgl. NK 795 €,Wohnfläche ca. 24 m²,Zi. 1,88,6
-22,selObject_44321900,"LUXURIÖS, BEQUEM & PRAKTISCH - In diesem Apartment...","['Apartment', '•', 'Offenbach', 'am', 'Main', 'Offenbach', 'am', 'Main']",[],Miete zzgl. NK 1.045 €,Wohnfläche ca. 35 m²,Zi. 1,88,6
-23,selObject_44321876,#Sonderpreis!# Frisch renoviertes Apartment mit toller...,"['Apartment', '•', 'Raunheim']",['EBK'],Miete zzgl. NK 575 €,Wohnfläche ca. 26 m²,Zi. 1,88,6
-24,selObject_44321821,Sonderpreis! Kleines Raumwunder - großes Wohnglück!...,"['Apartment', '•', 'Offenbach', 'am', 'Main', 'Offenbach', 'am', 'Main']",[],Miete zzgl. NK 745 €,Wohnfläche ca. 22 m²,Zi. 1,88,6
-25,selObject_44321816,Tolles 1-Zimmer-Apartment voll möbliert & ausgestattet...,"['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Niederrad']",['EBK'],Miete zzgl. NK 850 €,Wohnfläche ca. 24 m²,Zi. 1,88,6
-26,selObject_44311829,2 Zi -Wohnung mit Küche,"['Kein', 'Bild']",[],Miete zzgl. NK 320 €,Wohnfläche ca. 52 m²,,88,6
+0,selObject_44369350,Ab September - möbliertes Zimmer in moderner 3er WG -...,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Bahnhofsviertel']]",['EBK'],Miete zzgl. NK 520 €,Wohnfläche ca. 14 m²,Zi. 1,88,6
+1,selObject_44369349,Ab sofort - möbliertes Zimmer in schöner 6er WG - groß...,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Bahnhofsviertel']]",['EBK'],Miete zzgl. NK 500 €,Wohnfläche ca. 16 m²,Zi. 1,88,6
+2,selObject_44369348,Ab November - Großzügiges 1 Zimmer Appartment mit Balk...,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Ostend']]","['Balkon', 'EBK']",Miete zzgl. NK 800 €,Wohnfläche ca. 32 m²,Zi. 1,88,6
+3,selObject_44369347,Ab sofort - möbliertes Zimmer in moderner 5er WG -...,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Bahnhofsviertel']]",['EBK'],Miete zzgl. NK 500 €,Wohnfläche ca. 18 m²,Zi. 1,88,6
+4,selObject_44369339,Ab sofort - gemütlich möbliertes Zimmer in moderner...,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Bahnhofsviertel']]",['EBK'],Miete zzgl. NK 450 €,Wohnfläche ca. 21 m²,Zi. 1,88,6
+5,selObject_44369338,Ab sofort - schick möbliertes Zimmer in moderner 5er...,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Bahnhofsviertel']]",['EBK'],Miete zzgl. NK 350 €,Wohnfläche ca. 19 m²,Zi. 1,88,6
+6,selObject_44369337,Ab November - gemütlich möbliertes Zimmer in moderner...,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Bahnhofsviertel']]",['EBK'],Miete zzgl. NK 570 €,Wohnfläche ca. 16 m²,Zi. 1,88,6
+7,selObject_44369331,Ab Mitte August - schick möbliertes Zimmer in moderner...,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Bahnhofsviertel']]",['EBK'],Miete zzgl. NK 450 €,Wohnfläche ca. 23 m²,Zi. 1,88,6
+8,selObject_44369329,Ab September - schick möbliertes Zimmer in moderner...,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Bahnhofsviertel']]",['EBK'],Miete zzgl. NK 630 €,Wohnfläche ca. 24 m²,Zi. 1,88,6
+9,selObject_44369328,Ab Oktober - möbliertes Zimmer in moderner 5er WG -...,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Bahnhofsviertel']]",['EBK'],Miete zzgl. NK 360 €,Wohnfläche ca. 9 m²,Zi. 1,88,6
+10,selObject_44369325,Ab Mitte August - gemütlich möbliertes Zimmer in moder...,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Bahnhofsviertel']]",['EBK'],Miete zzgl. NK 570 €,Wohnfläche ca. 15 m²,Zi. 1,88,6
+11,selObject_44369321,Ab sofort - modern möbliertes Zimmer in gemütlicher...,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Bahnhofsviertel']]",['EBK'],Miete zzgl. NK 450 €,Wohnfläche ca. 16 m²,Zi. 1,88,6
+12,selObject_44369320,Ab Mitte August - gemütliches Zimmer in möblierter &...,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Bahnhofsviertel']]","['Balkon', 'EBK']",Miete zzgl. NK 700 €,Wohnfläche ca. 21 m²,Zi. 1,88,6
+13,selObject_44369319,Ab sofort - modern möbliertes Zimmer in gemütlicher...,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Bahnhofsviertel']]",['EBK'],Miete zzgl. NK 450 €,Wohnfläche ca. 17 m²,Zi. 1,88,6
+14,selObject_44369318,Ab September - modern möbliertes 1-Zimmer-Apartment -...,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Bahnhofsviertel']]",['EBK'],Miete zzgl. NK 675 €,Wohnfläche ca. 16 m²,Zi. 1,88,6
+15,selObject_44369317,Ab sofort - modern möbliertes Zimmer in 10er WG - mitt...,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Bahnhofsviertel']]",[],Miete zzgl. NK 450 €,Wohnfläche ca. 19 m²,Zi. 1,88,6
+16,selObject_44369316,Ab September - schickes Zimmer in komplett möblierter...,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Bahnhofsviertel']]",['EBK'],Miete zzgl. NK 600 €,Wohnfläche ca. 13 m²,Zi. 1,88,6
+17,selObject_44369315,Ab September - modern möbliertes Zimmer in schicker...,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Bahnhofsviertel']]",['EBK'],Miete zzgl. NK 600 €,Wohnfläche ca. 13 m²,Zi. 1,88,6
+18,selObject_44369312,Ab sofort - modern möbliertes Zimmer 6er WG - mitten...,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Bahnhofsviertel']]",['EBK'],Miete zzgl. NK 400 €,Wohnfläche ca. 10 m²,Zi. 1,88,6
+19,selObject_44369311,Ab sofort - modern möbliertes Zimmer mit Balkon in 9er...,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Bonames']]","['Balkon', 'EBK']",Miete zzgl. NK 350 €,Wohnfläche ca. 15 m²,Zi. 1,88,6
+20,selObject_44369310,Ab sofort - modern möbliertes Zimmer in 6er WG - mitte...,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Bahnhofsviertel']]",['EBK'],Miete zzgl. NK 400 €,Wohnfläche ca. 10 m²,Zi. 1,88,6
+21,selObject_44369309,Ab Mitte Oktober - modern möbliertes Zimmer in 6er WG...,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Bahnhofsviertel']]",['EBK'],Miete zzgl. NK 600 €,Wohnfläche ca. 16 m²,Zi. 1,88,6
+22,selObject_44369308,Ab September - modern eingerichtetes Zimmer in 9er WG...,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Sachsenhausen']]",['EBK'],Miete zzgl. NK 570 €,Wohnfläche ca. 17 m²,Zi. 1,88,6
+23,selObject_44369307,Ab Mitte August - modern möbliertes Zimmer 6er WG -...,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Bahnhofsviertel']]",['EBK'],Miete zzgl. NK 400 €,Wohnfläche ca. 14 m²,Zi. 1,88,6
+24,selObject_44369305,Ab Juli - modern möbliertes Zimmer mit Balkon in 4er...,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Niederrad']]","['Balkon', 'EBK']",Miete zzgl. NK 450 €,Wohnfläche ca. 14 m²,Zi. 1,88,6
+25,selObject_44369304,Ab November - möbliertes Zimmer in einer gemütlichen...,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Fechenheim']]",['EBK'],Miete zzgl. NK 390 €,Wohnfläche ca. 14 m²,Zi. 1,88,6
+26,selObject_44369247,Ab sofort - modern & hochwertig ausgestattetes Zimmer...,"[['Dachgeschosswohnung', '•', 'Frankfurt', 'am', 'Main', 'Bahnhofsviertel']]",['EBK'],Miete zzgl. NK 530 €,Wohnfläche ca. 24 m²,Zi. 1,88,6

@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_45015224,NEU Singlewohnung mit Einbauküche in Dillingen,"['Etagenwohnung', '•', 'Dillingen', 'Dillingen']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 340 €,Wohnfläche ca. 50 m²,Zi. 2,2,10
-1,selObject_45015219,NEU Penthouse im Zentrum von Dillingen 3 Zimmer/Küche/Bad...,"['Penthouse', '•', 'Dillingen', 'Dillingen']","['NEU', 'NEU']",Miete zzgl. NK 630 €,Wohnfläche ca. 95 m²,Zi. 3,2,10
-2,selObject_45014424,NEU Ottweiler 4-Zimmer-Mietwohnung,"['Wohnung', '•', 'Ottweiler', 'Ottweiler']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 450 €,Wohnfläche ca. 100 m²,Zi. 4,2,10
-3,selObject_45014383,NEU schöne 2 Zimmer Wohnung zu vermieten,"['Erdgeschosswohnung', '•', 'Saarbrücken', 'Malstatt']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 450 €,Wohnfläche ca. 60 m²,Zi. 2,2,10
-4,selObject_45014268,NEU Apartment mit Einbauküche und Balkon in Uninähe,"['Wohnung', '•', 'Saarbrücken', 'St', 'Johann']","['NEU', 'NEU']",Miete zzgl. NK 290 €,Wohnfläche ca. 30 m²,Zi. 1,2,10
-5,selObject_45013796,NEU Wohnen und Arbeiten Am Schloss,"['Loft-Studio-Atelier', '•', 'Saarbrücken', 'Alt-Saarbrücken']","['NEU', 'NEU']",Miete zzgl. NK 1.400 €,Wohnfläche ca. 163 m²,Zi. 3,2,10
-6,selObject_45013672,NEU 2 ZKB-Wohnung mit Balkon in Saarbrücken-Burbach inkl....,"['Etagenwohnung', '•', 'Saarbrücken', 'Burbach']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 450 €,Wohnfläche ca. 60 m²,Zi. 2,2,10
-7,selObject_45013671,NEU Erdgeschosswohnung in Saarbrücken-Burbach,"['Erdgeschosswohnung', '•', 'Saarbrücken', 'Burbach']","['NEU', 'NEU']",Miete zzgl. NK 280 €,Wohnfläche ca. 42 m²,Zi. 2,2,10
-8,selObject_45013015,NEU Klein aber fein!,"['Etagenwohnung', '•', 'Saarbrücken', 'Dudweiler']","['NEU', 'NEU']",Miete zzgl. NK 350 €,Wohnfläche ca. 45 m²,Zi. 2,2,10
-9,selObject_45012978,NEU === Eine Wohnung nach Ihrem Geschmack! Stillvolles...,"['Wohnung', '•', 'Saarbrücken', 'St', 'Johann']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 890 €,Wohnfläche ca. 90 m²,Zi. 3,2,10
-10,selObject_45012976,NEU === Ihr neues Zuhause - 3 Zimmer im 2. Obergeschoss...,"['Wohnung', '•', 'Saarbrücken', 'Alt-Saarbrücken']","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 500 €,Wohnfläche ca. 74 m²,Zi. 3,2,10
-11,selObject_45012799,"NEU Singlewohnung,auch für Gewerbe","['Souterrainwohnung', '•', 'St.', 'Ingbert', 'St.', 'Ingbert']","['NEU', 'NEU']",Miete zzgl. NK 270 €,Wohnfläche ca. 25 m²,Zi. 1,2,10
-12,selObject_45012461,NEU 2 Zimmer-Wohnung in der Fußgängerzone,"['Wohnung', '•', 'Homburg', 'Homburg']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 590 €,Wohnfläche ca. 70 m²,Zi. 2,2,10
-13,selObject_45012153,NEU Wohnung in Saarbrücken,"['Dachgeschosswohnung', '•', 'Saarbrücken', 'Alt-Saarbrücken']","['NEU', 'NEU']",Miete zzgl. NK 450 €,Wohnfläche ca. 60 m²,Zi. 3,2,10
-14,selObject_45011959,NEU Kernsanierte 4 ZKB Wohnung mit Balkon u. Stellplätzen...,"['Dachgeschosswohnung', '•', 'Schwalbach', 'Knausholz']","['NEU', 'NEU']",Miete zzgl. NK 720 €,Wohnfläche ca. 90 m²,Zi. 4,2,10
-15,selObject_45011626,NEU Sanierte Wohnung in historischen Gemäuern,"['Etagenwohnung', '•', 'Saarlouis', 'Saarlouis']","['NEU', 'NEU']",Miete zzgl. NK 570 €,Wohnfläche ca. 75 m²,Zi. 2,2,10
-16,selObject_45011625,NEU ERSTBEZUG NEUBAU - HOCHWERTIGE 3 ZKB WOHNUNG MIT EBK...,"['Etagenwohnung', '•', 'Homburg', 'Beeden']","['NEU', 'NEU']",Miete zzgl. NK 990 €,Wohnfläche ca. 100 m²,Zi. 3,2,10
-17,selObject_45011622,NEU ERSTBEZUG NEUBAU - HOCHWERTIGE 3 ZKB WOHNUNG MIT EBK...,"['Etagenwohnung', '•', 'Homburg', 'Beeden']","['NEU', 'NEU']",Miete zzgl. NK 990 €,Wohnfläche ca. 100 m²,Zi. 3,2,10
-18,selObject_45011198,NEU Renovierte DACHGESCHOSSWOHNUNG IM PENTHOUSESTIL FREI...,"['Dachgeschosswohnung', '•', 'Saarbrücken', 'St', 'Johann']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 670 €,Wohnfläche ca. 96 m²,Zi. 4,2,10
-19,selObject_45011111,NEU Gemütliche 2 ZKB Wohnung auf dem Winterberg,"['Souterrainwohnung', '•', 'Saarbrücken', 'St', 'Arnual']","['NEU', 'NEU']",Miete zzgl. NK 350 €,Wohnfläche ca. 40 m²,Zi. 2,2,10
-20,selObject_45010852,"NEU 3-Raum-Wohnung inkl. Einbauküche, Wannenbad und Balkon...","['Wohnung', '•', 'Losheim', 'Hausbach']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 650 €,Wohnfläche ca. 77 m²,Zi. 3,2,10
-21,selObject_45010803,"NEU Zu vermieten: Merzig Innenstadt, 2 ZKB, 55m², ab 01.08...","['Wohnung', '•', 'Merzig', 'Merzig']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 450 €,Wohnfläche ca. 55 m²,"Zi. 2,5",2,10
-22,selObject_45009758,NEU Einziehen und wohlfühlen - 2-ZKB Wohnung in St. Wendel...,"['Etagenwohnung', '•', 'St.', 'Wendel', 'St.', 'Wendel']","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']",Miete zzgl. NK 450 €,Wohnfläche ca. 46 m²,Zi. 2,2,10
-23,selObject_45008691,NEU Wohnung in Saarbahnnähe,"['Etagenwohnung', '•', 'Saarbrücken', 'Malstatt']","['NEU', 'NEU']",Miete zzgl. NK 395 €,Wohnfläche ca. 55 m²,Zi. 2,2,10
-24,selObject_45008610,NEU Studentenappartment,"['Erdgeschosswohnung', '•', 'Saarbrücken', 'Dudweiler']","['NEU', 'NEU']",Miete zzgl. NK 230 €,Wohnfläche ca. 25 m²,Zi. 1,2,10
-25,selObject_45005455,NEU Nachmieter für attraktive Drei-Zimmer Wohnung,"['Wohnung', '•', 'Homburg', 'Schwarzenbach']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 380 €,Wohnfläche ca. 55 m²,Zi. 3,2,10
-26,selObject_45005392,"NEU Wohnung mit Blick über Sulzbachtal, saniert 2018/19","['Etagenwohnung', '•', 'Friedrichsthal', 'Friedrichsthal']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 460 €,Wohnfläche ca. 62 m²,Zi. 2,2,10
+0,selObject_45040394,NEU Barriefreie Einliegerwohnung - Ideal für ältere Mietin...,"[['Souterrainwohnung', '•', 'Quierschied', 'Göttelborn']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 480 €,Wohnfläche ca. 78 m²,Zi. 2,2,10
+1,selObject_45040335,NEU REMAX: Top Mietwohnung gehobene Ausstattung Erstbezu...,"[['Etagenwohnung', '•', 'Saarlouis', 'Saarlouis']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 750 €,Wohnfläche ca. 92 m²,Zi. 3,2,10
+2,selObject_45040070,NEU 2-Zimmer-Apartment zum Wohlfühlen in Saarbrücken,"[['Apartment', '•', 'Saarbrücken', 'St', 'Johann']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 400 €,Wohnfläche ca. 61 m²,Zi. 2,2,10
+3,selObject_45039819,NEU Wohnen wie im eigenem Haus.Schöne Maisonnette Wohnung...,"[['Maisonette', '•', 'Saarlouis', 'Beaumarais']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 700 €,Wohnfläche ca. 100 m²,,2,10
+4,selObject_45037575,"NEU Stadtteil Burbach ,wenige Minuten vom Herzen Saarbrück...","[['Wohnung', '•', 'Saarbrücken', 'Burbach']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 530 €,Wohnfläche ca. 85 m²,Zi. 3,2,10
+5,selObject_45037561,NEU Großzügige Wohnung in Zweifamilienhaus,"[['Dachgeschosswohnung', '•', 'Wadgassen', 'Werbeln']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 620 €,Wohnfläche ca. 94 m²,Zi. 3,2,10
+6,selObject_45037552,NEU Sanierte 2-ZKB-Wohnung im Dachgeschoss,"[['Wohnung', '•', 'Kleinblittersdorf', 'Kleinblittersdorf']]","['NEU', 'NEU']",Miete zzgl. NK 535 €,Wohnfläche ca. 65 m²,Zi. 2,2,10
+7,selObject_45037234,NEU Haustierfreundliche 2 ZKB Wohnung in Nunkirchen,"[['Wohnung', '•', 'Wadern', 'Nunkirchen']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 570 €,Wohnfläche ca. 86 m²,Zi. 2,2,10
+8,selObject_45035227,"NEU 75 m², 2-Zimmer-Wohnung","[['Wohnung', '•', 'Saarbrücken', 'Burbach']]","['NEU', 'NEU']",Miete zzgl. NK 450 €,Wohnfläche ca. 67 m²,Zi. 2,2,10
+9,selObject_45034165,NEU 4 ZKB Balkon Keller Kammer EG in SB-Rodenhof zu vermie...,"[['Wohnung', '•', 'Saarbrücken', 'Malstatt']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 600 €,Wohnfläche ca. 94 m²,Zi. 4,2,10
+10,selObject_45032630,NEU 3ZKB in Rehlingen,"[['Wohnung', '•', 'Rehlingen-Siersburg', 'Rehlingen']]","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 400 €,Wohnfläche ca. 61 m²,Zi. 3,2,10
+11,selObject_45032581,NEU Penthouse möbliert mit spektakulärer Dachterasse SB...,"[['Dachgeschosswohnung', '•', 'Saarbrücken', 'St', 'Johann']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 2.158 €,Wohnfläche ca. 204 m²,Zi. 4,2,10
+12,selObject_45032391,NEU 4-Zimmer-Wohnung auf dem Rastpfuhl sucht Sie als Miete...,"[['Kein', 'Bild'], ['Wohnung', '•', 'Saarbrücken', 'Malstatt']]","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']",Miete zzgl. NK 660 €,Wohnfläche ca. 82 m²,Zi. 4,2,10
+13,selObject_45031661,NEU Schöne helle 3ZKB Dachgeschosswohnung mit Balkon Saarl...,"[['Wohnung', '•', 'Saarlouis', 'Beaumarais']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 620 €,Wohnfläche ca. 65 m²,Zi. 3,2,10
+14,selObject_45030508,NEU NICHTS WIE REIN - Studentenwohnung in Homburg zu vermi...,"[['Erdgeschosswohnung', '•', 'Homburg', 'Homburg']]","['NEU', 'NEU']",Miete zzgl. NK 200 €,Wohnfläche ca. 25 m²,Zi. 1,2,10
+15,selObject_45029573,NEU Die Doppelhausvilla in Wadgassen - als TOP Alternative...,"[['Maisonette', '•', 'Wadgassen', 'Wadgassen']]","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 1.180 €,Wohnfläche ca. 135 m²,"Zi. 4,5",2,10
+16,selObject_45027340,NEU Schicke Dachgeschosswohnung (DG / 2 OG) mit langer...,"[['Dachgeschosswohnung', '•', 'St.', 'Ingbert', 'Hassel']]","['NEU', 'NEU']",Miete zzgl. NK 450 €,Wohnfläche ca. 75 m²,Zi. 3,2,10
+17,selObject_45027244,"NEU Saarlouis- Citynah, geräumige 3ZKB im 1.OG mit Gartenb...","[['Etagenwohnung', '•', 'Saarlouis', 'Saarlouis']]","['NEU', 'NEU']",Miete zzgl. NK 710 €,Wohnfläche ca. 108 m²,Zi. 3,2,10
+18,selObject_45027171,NEU 2 Zimmer-Single-Wohnung ca. 45 qm mit Terrasse - 1...,"[['Kein', 'Bild'], ['Wohnung', '•', 'Beckingen', 'Düppenweiler']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 300 €,Wohnfläche ca. 45 m²,Zi. 2,2,10
+19,selObject_45027140,NEU Maisonette-Wohnung - Wohnen auf 2 Etagen,"[['Kein', 'Bild'], ['Maisonette', '•', 'Schwalbach', 'Derlen']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 580 €,Wohnfläche ca. 82 m²,Zi. 3,2,10
+20,selObject_45026660,NEU Helle 3-Zimmer-Souterrain-Wohnung auf dem Eschberg mit...,"[['Wohnung', '•', 'Saarbrücken', 'Eschberg']]","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 450 €,Wohnfläche ca. 74 m²,Zi. 3,2,10
+21,selObject_45026654,NEU Renovierte 2 ZKB-Wohnung mit Balkon im Dachgeschoss,"[['Dachgeschosswohnung', '•', 'Völklingen', 'Heidstock']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 330 €,Wohnfläche ca. 49 m²,Zi. 2,2,10
+22,selObject_45025482,NEU Schöne DG-Wohnung nähe Riegelsberghalle in verkehrsber...,"[['Dachgeschosswohnung', '•', 'Riegelsberg', 'Riegelsberg']]","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 460 €,Wohnfläche ca. 65 m²,Zi. 2,2,10
+23,selObject_45025477,NEU Wohnen in ruhiger Wohnlage im Zweifamilienhaus,"[['Etagenwohnung', '•', 'Püttlingen', 'Püttlingen']]","['NEU', 'NEU']",Miete zzgl. NK 490 €,Wohnfläche ca. 80 m²,Zi. 3,2,10
+24,selObject_45024151,NEU Nähe Kaufland,"[['Wohnung', '•', 'St.', 'Ingbert', 'Hassel']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 490 €,Wohnfläche ca. 83 m²,Zi. 3,2,10
+25,selObject_45024115,NEU Nähe Sechs-Eichen und Rischbachschule,"[['Wohnung', '•', 'St.', 'Ingbert', 'Hassel']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 490 €,Wohnfläche ca. 83 m²,Zi. 3,2,10
+26,selObject_45024114,NEU Nähe Sechs-Eichen und Rischbachschule,"[['Wohnung', '•', 'St.', 'Ingbert', 'Hassel']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 440 €,Wohnfläche ca. 83 m²,Zi. 3,2,10

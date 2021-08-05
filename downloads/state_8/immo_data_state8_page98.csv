@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44106539,Hirschberg: Helle 2-Zimmer Wohnung,"['Wohnung', '•', 'Hirschberg', 'Leutershausen']",['Garten'],Miete zzgl. NK 620 €,Wohnfläche ca. 45 m²,Zi. 2,98,8
-1,selObject_44102641,Grenznahe 1-Zimmer-Wohnung in Hohentengen zu vermieten...,"['Etagenwohnung', '•', 'Hohentengen', 'Hohentengen']",['EBK'],Miete zzgl. NK 450 €,Wohnfläche ca. 41 m²,Zi. 1,98,8
-2,selObject_44091948,Sanierte 3-Zimmer Wohnung,"['Wohnung', '•', 'Heidenheim', 'Innenstadt']",['Balkon'],Miete zzgl. NK 724 €,Wohnfläche ca. 85 m²,Zi. 3,98,8
-3,selObject_44087211,Mitten im Zentrum und frisch renoviert!,"['Etagenwohnung', '•', 'Heidenheim', 'Innenstadt']",['Balkon'],"Miete zzgl. NK 747,85 €",Wohnfläche ca. 84 m²,Zi. 3,98,8
-4,selObject_44083987,"**Erstbezug** attraktive 4,5 Zimmer Wohnung mit Küche,...","['Dachgeschosswohnung', '•', 'Heilbronn', 'Biberach']","['Balkon', 'EBK']",Miete zzgl. NK 1.550 €,Wohnfläche ca. 123 m²,"Zi. 4,5",98,8
-5,selObject_44077996,"Atmosphäre zum Wohlfühlen! ***4,5 Zimmer Wohnung***...","['Dachgeschosswohnung', '•', 'Heilbronn', 'Biberach']","['Balkon', 'EBK']",Miete zzgl. NK 1.700 €,Wohnfläche ca. 138 m²,"Zi. 4,5",98,8
-6,selObject_44076816,Schöne 3-Zimmer Wohung,"['Kein', 'Bild']",['Balkon'],Miete zzgl. NK 528 €,Wohnfläche ca. 62 m²,Zi. 3,98,8
-7,selObject_44076810,Schöne 3-Zimmer- Wohnung,"['Wohnung', '•', 'Heidenheim', 'Innenstadt']",['Balkon'],Miete zzgl. NK 549 €,Wohnfläche ca. 65 m²,Zi. 3,98,8
-8,selObject_44071186,"Helle, moderne 2-Zimmer","['Etagenwohnung', '•', 'Heilbronn', 'Heilbronn']","['Balkon', 'EBK']",Miete zzgl. NK 711 €,Wohnfläche ca. 56 m²,Zi. 2,98,8
-9,selObject_44070647,Zentrale 2-Zi.Wohnung mit Balkon,"['Etagenwohnung', '•', 'Stuttgart', 'Mitte']","['Balkon', 'EBK']",Miete zzgl. NK 1.600 €,Wohnfläche ca. 108 m²,Zi. 2,98,8
-10,selObject_44070159,"Moderne, kernsanierte 2-Zimmer City-Wohnungen in Stutt...","['Etagenwohnung', '•', 'Stuttgart', 'Mitte']",['EBK'],Miete zzgl. NK 1.460 €,Wohnfläche ca. 73 m²,Zi. 2,98,8
-11,selObject_44070071,"Schicke, kernsanierte 2-Zimmer City-Wohnungen in Stutt...","['Etagenwohnung', '•', 'Stuttgart', 'Mitte']",['EBK'],Miete zzgl. NK 1.360 €,Wohnfläche ca. 68 m²,Zi. 2,98,8
-12,selObject_44069943,Luxus-Villenwohnung in einem bekannten Villenanwesen...,"['Maisonette', '•', 'Baden-Baden', 'Innenstadt']",['EBK'],Miete zzgl. NK 2.400 €,Wohnfläche ca. 189 m²,Zi. 6,98,8
-13,selObject_44064766,Möblierte 2-ZW mit Balkon KA-Weststadt,"['Etagenwohnung', '•', 'Karlsruhe', 'Mühlburg']","['Balkon', 'EBK']",Miete zzgl. NK 700 €,Wohnfläche ca. 58 m²,Zi. 2,98,8
-14,selObject_44064217,Gemütlich wohnen in Lörrach-Hauingen,"['Dachgeschosswohnung', '•', 'Lörrach', 'Hauingen']","['Garten', 'EBK']",Miete zzgl. NK 685 €,Wohnfläche ca. 76 m²,Zi. 3,98,8
-15,selObject_44063759,Seniorenzentrum Im Welvert - Betreutes Wohnen Beispiel,"['Etagenwohnung', '•', 'Villingen-Schwenningen', 'Villingen']","['Balkon', 'Garten', 'EBK']",Preis Auf Anfrage,Wohnfläche ca. 72 m²,Zi. 2,98,8
-16,selObject_44062249,MÖBLIERT - VCHARMANT UND PRAKTISCH - Kleines Apartment...,"['Wohnung', '•', 'Sindelfingen', 'Mitte']",[],Miete zzgl. NK 700 €,Wohnfläche ca. 25 m²,Zi. 1,98,8
-17,selObject_44061522,Neubau: Möblierte Komfort L-Apartments mit Balkon -...,"['Apartment', '•', 'Heilbronn', 'Heilbronn']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 520 €,Wohnfläche ca. 28 m²,Zi. 1,98,8
-18,selObject_44059187,Erstbezug nach Sanierung - Schöne 3 - Zimmer Wohnung,"['Wohnung', '•', 'Heidenheim', 'Innenstadt']",['Balkon'],Miete zzgl. NK 589 €,Wohnfläche ca. 68 m²,Zi. 3,98,8
-19,selObject_44057057,Erdgeschossmaisonette mit Terrasse in VS-Nordstetten,"['Erdgeschosswohnung', '•', 'Villingen-Schwenningen', 'Villingen']","['Garten', 'EBK']",Miete zzgl. NK 850 €,Wohnfläche ca. 80 m²,"Zi. 3,5",98,8
-20,selObject_44052811,"Hochwertige Neubauwohnungen, Erstbezug, hell und offen...","['Wohnung', '•', 'Empfingen', 'Empfingen']",['Balkon'],"Miete zzgl. NK 8,50 €",Wohnfläche ca. 94 m²,"Zi. 3,5",98,8
-21,selObject_44051846,Außergewöhnlicher Ausblick: 2-Zimmer-Wohnung im höchst...,"['Etagenwohnung', '•', 'Stuttgart', 'Nord']",['EBK'],Miete zzgl. NK 1.200 €,Wohnfläche ca. 54 m²,Zi. 2,98,8
-22,selObject_44051783,Modern möbliertes 1-Zimmer-Apartment,"['Apartment', '•', 'Stuttgart']","['Balkon', 'EBK']",Miete zzgl. NK 920 €,Wohnfläche ca. 36 m²,Zi. 1,98,8
-23,selObject_44050979,Jetzt Frei - Voll möbliertes und ausgestattetes 2 Zimm...,"['Wohnung', '•', 'Böblingen', 'Böblingen']",['EBK'],Miete zzgl. NK 1.200 €,Wohnfläche ca. 68 m²,Zi. 2,98,8
-24,selObject_44050868,Moderne 3-Zimmer-Maisonettewohnung zur Miete in Todtmo...,"['Maisonette', '•', 'Todtmoos', 'Au']","['Balkon', 'EBK']",Miete zzgl. NK 510 €,Wohnfläche ca. 90 m²,Zi. 3,98,8
-25,selObject_44050011,Helle und gemütliche 3 Zi.-DG-Wohnung in Bernhausen...,"['Dachgeschosswohnung', '•', 'Filderstadt', 'Bernhausen']",['EBK'],Miete zzgl. NK 920 €,Wohnfläche ca. 64 m²,Zi. 3,98,8
-26,selObject_44049473,"""Friedrichspark"": Unverbaubarer Parkblick, großer Balk...","['Wohnung', '•', 'Villingen-Schwenningen', 'Villingen']",['Balkon'],Miete zzgl. NK 900 €,Wohnfläche ca. 88 m²,Zi. 3,98,8
+0,selObject_44273120,"Penthouse Wohnung in Wehr - 5 Zimmer, hochwertig und...","[['Penthouse', '•', 'Wehr', 'Wehr']]",['EBK'],Miete zzgl. NK 1.440 €,Wohnfläche ca. 188 m²,Zi. 5,98,8
+1,selObject_44271508,Schöne 2 Zimmer Einliegerwohnung in Lottstetten oberha...,"[['Wohnung', '•', 'Lottstetten', 'Lottstetten']]","['Garten', 'EBK']",Miete zzgl. NK 550 €,Wohnfläche ca. 48 m²,Zi. 2,98,8
+2,selObject_44271293,4-Zimmer-Wohnung im 1. OG,"[['Wohnung', '•', 'Lörrach', 'Lörrach']]","['Balkon', 'EBK']",Miete zzgl. NK 1.700 €,Wohnfläche ca. 139 m²,Zi. 4,98,8
+3,selObject_44271220,3 Zimmer Attika-Wohnung im 4. Obergeschoss in Lottstet...,"[['Penthouse', '•', 'Lottstetten', 'Lottstetten']]","['Balkon', 'EBK']",Miete zzgl. NK 900 €,Wohnfläche ca. 90 m²,"Zi. 3,5",98,8
+4,selObject_44270241,- Moderne 4 Zimmer-Wohnung mit Einbauküche - 360°...,"[['Maisonette', '•', 'Weil', 'am', 'Rhein', 'Weil', 'am', 'Rhein']]",['Balkon'],Miete zzgl. NK 1.320 €,Wohnfläche ca. 115 m²,Zi. 4,98,8
+5,selObject_44264026,* Sonnige 2-Zimmer-Wohnung im 1.OG mit TG-Stellplatz *,"[['Wohnung', '•', 'Sigmaringen', 'Sigmaringen']]",['Balkon'],Miete zzgl. NK 495 €,Wohnfläche ca. 59 m²,Zi. 2,98,8
+6,selObject_44260123,Charmante Wohnung mit sehr großem Garten und toller...,"[['Erdgeschosswohnung', '•', 'Lörrach', 'Tüllingen']]",[],Miete zzgl. NK 1.420 €,Wohnfläche ca. 107 m²,Zi. 4,98,8
+7,selObject_44257554,"+++ 4,5 Zimmerwohnung in ruhigem Neubaugebiet mit...","[['Erdgeschosswohnung', '•', 'Bad', 'Rappenau', 'Babstadt']]",['Balkon'],Miete zzgl. NK 1.700 €,Wohnfläche ca. 138 m²,"Zi. 4,5",98,8
+8,selObject_44256747,Wohnen in Ravensburg City! EG in Villa - 7 Zimmer mit...,"[['Wohnung', '•', 'Ravensburg', 'Innenstadt']]","['Garten', 'EBK']",Miete zzgl. NK 1.950 €,Wohnfläche ca. 225 m²,Zi. 7,98,8
+9,selObject_44256525,Vollmöblierte Doppel-Apartments (2er WG) - Fußläufig...,"[['Apartment', '•', 'Schwäbisch', 'Gmünd', 'Schwäbisch', 'Gmünd']]","['Garten', 'EBK']",Miete zzgl. NK 680 €,Wohnfläche ca. 36 m²,Zi. 3,98,8
+10,selObject_44247428,EINZIMMERWOHNUNG IN HEILBRONN,"[['Apartment', '•', 'Heilbronn', 'Heilbronn']]",['Balkon'],Miete zzgl. NK 729 €,Wohnfläche ca. 35 m²,Zi. 1,98,8
+11,selObject_44247165,STUDENTEN AUFGEPASST,"[['Apartment', '•', 'Heilbronn', 'Heilbronn']]",[],Miete zzgl. NK 423 €,Wohnfläche ca. 21 m²,Zi. 1,98,8
+12,selObject_44245339,Schöne 3-Zimmer Maisonette-Wohnung mit drei Balkonen...,"[['Maisonette', '•', 'Bad', 'Bellingen', 'Rheinweiler']]","['Balkon', 'EBK']",Miete zzgl. NK 895 €,Wohnfläche ca. 75 m²,Zi. 3,98,8
+13,selObject_44240172,Komfortwohnung der EXTRA-Klasse für verwöhnte Wohngeni...,"[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Sulzfeld']]",['Balkon'],Miete zzgl. NK 813 €,Wohnfläche ca. 81 m²,"Zi. 3,5",98,8
+14,selObject_44238679,3- Zimmer-Dachgeschoss-Wohnung zu vermieten,"[['Dachgeschosswohnung', '•', 'Eberstadt', 'Eberstadt']]",[],Miete zzgl. NK 584 €,Wohnfläche ca. 80 m²,Zi. 3,98,8
+15,selObject_44236983,Nähe Nationaltheater - Schick möblierte Citywohnung...,"[['Etagenwohnung', '•', 'Mannheim', 'Innenstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 1.100 €,Wohnfläche ca. 56 m²,Zi. 2,98,8
+16,selObject_44236494,Studentenzimmer in Freiburg - Frauen-WG,"[['Zimmer', '•', 'Freiburg', 'Waldsee']]",['EBK'],Miete zzgl. NK 450 €,Wohnfläche ca. 15 m²,,98,8
+17,selObject_44234209,Neubau 3-Zi.-Wohnung mit Balkon,"[['Wohnung', '•', 'Kehl', 'Kehl']]",['Balkon'],Miete zzgl. NK 750 €,Wohnfläche ca. 75 m²,Zi. 3,98,8
+18,selObject_44234194,"3,5 Zimmer-Maisonette-Neubau-Wohnung in schöner Lage...","[['Dachgeschosswohnung', '•', 'Bissingen', 'Bissingen']]",[],Miete zzgl. NK 1.130 €,Wohnfläche ca. 98 m²,"Zi. 3,5",98,8
+19,selObject_44229800,***2-Zi.-Whg. mit Garten direkt am Neckar***,"[['Erdgeschosswohnung', '•', 'Heilbronn', 'Heilbronn']]","['Garten', 'EBK']",Miete zzgl. NK 790 €,Wohnfläche ca. 54 m²,Zi. 2,98,8
+20,selObject_44229657,"BAD: Gepflegte, großzügige 2,5-Zi-DG-Wohnung mit Balko...","[['Dachgeschosswohnung', '•', 'Baden-Baden', 'Lichtental']]",['EBK'],Miete zzgl. NK 850 €,Wohnfläche ca. 110 m²,"Zi. 2,5",98,8
+21,selObject_44228129,"Schöne, moderne 2 Zimmer Wohnung zentral in Lörrach","[['Wohnung', '•', 'Lörrach', 'Lörrach']]",['EBK'],Miete zzgl. NK 1.370 €,Wohnfläche ca. 60 m²,Zi. 2,98,8
+22,selObject_44227414,2 Zimmer Wohnung zu vermieten mit Galerie,"[['Wohnung', '•', 'Hohenstein', 'Bernloch']]",[],Miete zzgl. NK 480 €,Wohnfläche ca. 42 m²,Zi. 2,98,8
+23,selObject_44227387,Erstbezug in den Quadraten! Moderne 2-Zimmer-Wohnung...,"[['Wohnung', '•', 'Mannheim', 'Quadrate']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.250 €,Wohnfläche ca. 80 m²,Zi. 2,98,8
+24,selObject_44227369,Erstbezug in den Quadraten! Moderne 2-Zimmer-Wohnung...,"[['Wohnung', '•', 'Mannheim', 'Quadrate']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 870 €,Wohnfläche ca. 53 m²,Zi. 2,98,8
+25,selObject_44227355,Penthouse in den Quadraten! Moderne 2-Zimmer-Wohnung...,"[['Wohnung', '•', 'Mannheim', 'Quadrate']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.636 €,Wohnfläche ca. 94 m²,Zi. 2,98,8
+26,selObject_44227335,"Modernes Wohnen, Einbauküche, Balkon!","[['Etagenwohnung', '•', 'Trossingen', 'Trossingen']]","['Balkon', 'EBK']",Miete zzgl. NK 700 €,Wohnfläche ca. 72 m²,"Zi. 2,5",98,8

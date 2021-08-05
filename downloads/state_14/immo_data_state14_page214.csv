@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44618359,3-Raumwohnung in 09623 Rechenberg-Bienenmühle,"['Erdgeschosswohnung', '•', 'Rechenberg-Bienenmühle', 'Rechenberg-Bienenmühle']",['Garten'],Miete zzgl. NK 257 €,Wohnfläche ca. 58 m²,Zi. 3,214,14
-1,selObject_44618343,"SCHÖNER HELLER FUSSBODEN! 1,5-Raumwohnung","['Etagenwohnung', '•', 'Drebach', 'Drebach']",[],Miete zzgl. NK 164 €,Wohnfläche ca. 40 m²,Zi. 1,214,14
-2,selObject_44618339,TOLLE AUSSICHT! 3-Raumwohnung,"['Etagenwohnung', '•', 'Drebach', 'Drebach']",['Balkon'],Miete zzgl. NK 260 €,Wohnfläche ca. 62 m²,Zi. 3,214,14
-3,selObject_44618337,TAGESLICHTBAD! 3-Raumwohnung,"['Etagenwohnung', '•', 'Drebach', 'Drebach']",['Balkon'],Miete zzgl. NK 261 €,Wohnfläche ca. 62 m²,Zi. 3,214,14
-4,selObject_44618321,Schöne 1-Raum Wohnung mit Blick ins Grüne!,"['Etagenwohnung', '•', 'Drebach', 'Drebach']",[],Miete zzgl. NK 164 €,Wohnfläche ca. 40 m²,Zi. 1,214,14
-5,selObject_44618317,HIER DÜRFEN SIE SELBER GESTALTEN! 1-Raumwohnung in...,"['Etagenwohnung', '•', 'Hermsdorf']",['Garten'],Miete zzgl. NK 152 €,Wohnfläche ca. 38 m²,Zi. 1,214,14
-6,selObject_44618316,DIE NATUR VOR DER HAUSTÜRE! 1-Raumwohnung in 01776...,"['Erdgeschosswohnung', '•', 'Hermsdorf']",['Garten'],Miete zzgl. NK 180 €,Wohnfläche ca. 38 m²,Zi. 1,214,14
-7,selObject_44618304,zentrale Lage - 2 Raumwohnung,"['Etagenwohnung', '•', 'Reichenbach', 'Reichenbach']",[],Miete zzgl. NK 220 €,Wohnfläche ca. 60 m²,Zi. 2,214,14
-8,selObject_44618303,GEMÜTLICH IN ZENTRUMSNÄHE! 1-Raumwohnung,"['Erdgeschosswohnung', '•', 'Aue']",[],Miete zzgl. NK 230 €,Wohnfläche ca. 40 m²,Zi. 1,214,14
-9,selObject_44618301,GERÄUMIGE UND HELLE 3-RAUMWOHNUNG!,"['Etagenwohnung', '•', 'Limbach-Oberfrohna', 'Limbach-Oberfrohna']",['Garten'],Miete zzgl. NK 260 €,Wohnfläche ca. 62 m²,Zi. 3,214,14
-10,selObject_44618293,3-RAUMWOHNUNG MIT TAGESLICHTBAD!,"['Etagenwohnung', '•', 'Reichenbach', 'Reichenbach']",[],Miete zzgl. NK 299 €,Wohnfläche ca. 75 m²,Zi. 3,214,14
-11,selObject_44618279,2 Kaltmieten geschenkt!,"['Dachgeschosswohnung', '•', 'Annaberg-Buchholz', 'Annaberg']",['Garten'],Miete zzgl. NK 260 €,Wohnfläche ca. 63 m²,Zi. 2,214,14
-12,selObject_44618277,IM ERDGESCHOSS MIT TAGESLICHTBAD! 2- Raumwohnung,"['Erdgeschosswohnung', '•', 'Annaberg-Buchholz', 'Annaberg']",['Garten'],Miete zzgl. NK 250 €,Wohnfläche ca. 52 m²,Zi. 2,214,14
-13,selObject_44618276,ZENTRUMSNAH ABER DOCH IM GRÜNEN! 3-Raumwohnung,"['Etagenwohnung', '•', 'Annaberg-Buchholz', 'Annaberg']",['Garten'],Miete zzgl. NK 345 €,Wohnfläche ca. 91 m²,Zi. 3,214,14
-14,selObject_44618274,PERFEKT ALS ERSTE EIGENE WOHNUNG! 2-Raumwohnung,"['Dachgeschosswohnung', '•', 'Chemnitz', 'Altchemnitz']",[],Miete zzgl. NK 250 €,Wohnfläche ca. 41 m²,Zi. 2,214,14
-15,selObject_44618245,Moderne Wohnung für Familien im Zentrum,"['Apartment', '•', 'Chemnitz', 'Zentrum']",['Balkon'],Miete zzgl. NK 459 €,Wohnfläche ca. 70 m²,Zi. 3,214,14
-16,selObject_44618233,Im Herzen der Altstadt!,"['Etagenwohnung', '•', 'Annaberg-Buchholz', 'Annaberg']",[],"Miete zzgl. NK 198,50 €",Wohnfläche ca. 39 m²,Zi. 2,214,14
-17,selObject_44618231,2-Raumwohnung in Cranzahl,"['Erdgeschosswohnung', '•', 'Sehmatal-Sehma']",[],"Miete zzgl. NK 229,86 €",Wohnfläche ca. 47 m²,Zi. 2,214,14
-18,selObject_44618230,Stilvoller Erstbezug! 2-Raumwohnung mit Balkon!,"['Etagenwohnung', '•', 'Ehrenfriedersdorf']",['Balkon'],"Miete zzgl. NK 637,50 €",Wohnfläche ca. 72 m²,Zi. 2,214,14
-19,selObject_44618227,ETWAS GANZ BESONDERES! 3-Raumwohnung,"['Etagenwohnung', '•', 'Annaberg-Buchholz', 'Annaberg']",[],Miete zzgl. NK 370 €,Wohnfläche ca. 75 m²,Zi. 3,214,14
-20,selObject_44618226,Gemütliche 2-R.-Wohnung i.EHRENFRIEDERDORF MARKT FREI!,"['Etagenwohnung', '•', 'Ehrenfriedersdorf']",['Garten'],Miete zzgl. NK 230 €,Wohnfläche ca. 69 m²,Zi. 2,214,14
-21,selObject_44618220,2-Zimmer-Wohnung mit großer Küche und EBK auf Wunsch,"['Wohnung', '•', 'Leipzig', 'Grünau-Nord']",[],Miete zzgl. NK 398 €,Wohnfläche ca. 72 m²,Zi. 2,214,14
-22,selObject_44618200,Zentrumsnahe Dachgeschosswohnung,"['Dachgeschosswohnung', '•', 'Annaberg-Buchholz', 'Annaberg']",['Garten'],Miete zzgl. NK 315 €,Wohnfläche ca. 75 m²,Zi. 3,214,14
-23,selObject_44618195,GROßZÜGIGE 6-Raumwohnung mit Einbauküche,"['Etagenwohnung', '•', 'Lauter-Bernsbach', 'Bernsbach']","['Garten', 'EBK']",Miete zzgl. NK 599 €,Wohnfläche ca. 130 m²,Zi. 7,214,14
-24,selObject_44618172,IM HERZEN DER ALTSTADT MIT FAHRSTUHL!,"['Etagenwohnung', '•', 'Annaberg-Buchholz', 'Annaberg']",[],Miete zzgl. NK 250 €,Wohnfläche ca. 55 m²,Zi. 2,214,14
-25,selObject_44618171,ZENTRUMSNAH UND GARTENNUTZUNG! 3-Raumwohnung,"['Etagenwohnung', '•', 'Annaberg-Buchholz', 'Annaberg']",['Garten'],Miete zzgl. NK 320 €,Wohnfläche ca. 71 m²,Zi. 3,214,14
-26,selObject_44618170,ZENTRUMSNAH UND DOCH RUHIG! 2-Raumwohnung,"['Etagenwohnung', '•', 'Annaberg-Buchholz', 'Annaberg']",[],Miete zzgl. NK 264 €,Wohnfläche ca. 55 m²,Zi. 2,214,14
+0,selObject_44642712,... mit Balkon in ruhiger und grüner Lage auf dem Plos...,"[['Etagenwohnung', '•', 'Meißen']]",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 50 m²,Zi. 2,214,14
+1,selObject_44642711,1-Raum-Wohnung mit Aufzug und Weitblick,"[['Etagenwohnung', '•', 'Pirna', 'Pirna']]",['Balkon'],"Miete zzgl. NK 159,96 €",Wohnfläche ca. 26 m²,Zi. 1,214,14
+2,selObject_44642667,Hochwertige 2-Raumwohnung auf dem Kaßberg - Stellplatz...,"[['Etagenwohnung', '•', 'Chemnitz', 'Kaßberg']]",['Garten'],Miete zzgl. NK 320 €,Wohnfläche ca. 45 m²,Zi. 2,214,14
+3,selObject_44642520,Ruhige und grüne Lage am Stadtrand --- individuelles...,"[['Erdgeschosswohnung', '•', 'Meißen']]",['Balkon'],"Miete zzgl. NK 319,52 €",Wohnfläche ca. 60 m²,Zi. 2,214,14
+4,selObject_44642398,2 Zimmer Wohnung auf dem Sonnenbeg,"[['Etagenwohnung', '•', 'Chemnitz', 'Sonnenberg']]","['Balkon', 'Garten']",Miete zzgl. NK 240 €,Wohnfläche ca. 53 m²,Zi. 2,214,14
+5,selObject_44642396,Gemütliche 3-Zimmer-Dachgeschosswohnung mit Balkon,"[['Etagenwohnung', '•', 'Limbach-Oberfrohna', 'Limbach-Oberfrohna']]","['Balkon', 'Garten']",Miete zzgl. NK 359 €,Wohnfläche ca. 61 m²,Zi. 3,214,14
+6,selObject_44642044,Hier hast Du die besten Aussichten und ein schönes...,"[['Etagenwohnung', '•', 'Chemnitz', 'Markersdorf']]",['Balkon'],Miete zzgl. NK 217 €,Wohnfläche ca. 36 m²,Zi. 1,214,14
+7,selObject_44641928,Hereinspaziert - gemütliche 2-Raum-Wohnung mit Balkon,"[['Etagenwohnung', '•', 'Chemnitz', 'Adelsberg']]",['Balkon'],Miete zzgl. NK 247 €,Wohnfläche ca. 46 m²,Zi. 2,214,14
+8,selObject_44641827,+++EXKLUSIVE 3-RAUMWOHNUNG im ERDGESCHOSS mit BALKON++...,"[['Erdgeschosswohnung', '•', 'Kamenz', 'Kamenz']]",['Balkon'],Miete zzgl. NK 360 €,Wohnfläche ca. 59 m²,Zi. 3,214,14
+9,selObject_44641748,"STARK! DG-Maisonette Wohnung, EBK, Stellplatz: frei...","[['Dachgeschosswohnung', '•', 'Plauen', 'Südvorstadt']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 420 €,Wohnfläche ca. 73 m²,Zi. 2,214,14
+10,selObject_44641626,"LAUSEN / NEUBAU MIT TIEFGARAGE, WANNENBAD UND SONNIGEM...","[['Etagenwohnung', '•', 'Leipzig', 'Lausen-Grünau']]",['Balkon'],Miete zzgl. NK 557 €,Wohnfläche ca. 66 m²,Zi. 2,214,14
+11,selObject_44641615,Schöne 2 Raumwohnung zentral in Dresden,"[['Wohnung', '•', 'Dresden', 'Friedrichstadt']]",[],Miete zzgl. NK 520 €,Wohnfläche ca. 60 m²,Zi. 2,214,14
+12,selObject_44641489,+++SCHÖNE 3-RAUMWOHNUNG im DACHGESCHOSS+++,"[['Dachgeschosswohnung', '•', 'Bautzen', 'Bautzen']]",[],Miete zzgl. NK 360 €,Wohnfläche ca. 60 m²,Zi. 3,214,14
+13,selObject_44641483,Neu sanierter Dreiseitenhof in idyllischer Lage am...,"[['Etagenwohnung', '•', 'Dresden', 'Gohlis']]",['Balkon'],Garagen-/Stellplatzmiete 50 €,Wohnfläche ca. 115 m²,Zi. 4,214,14
+14,selObject_44641397,Helle Maisonette-Wohnung - frisch renoviert,"[['Maisonette', '•', 'Chemnitz', 'Lutherviertel']]",[],Miete zzgl. NK 335 €,Wohnfläche ca. 61 m²,"Zi. 2,5",214,14
+15,selObject_44641362,LIVIA-IMMO.DE :-) +IHRE GUTE ADRESSE...WINTERGARTENPAL...,"[['Etagenwohnung', '•', 'Leipzig', 'Zentrum-Ost']]","['Balkon', 'EBK']",Miete zzgl. NK 750 €,Wohnfläche ca. 69 m²,Zi. 2,214,14
+16,selObject_44640947,// Gemütliche 3-Zimmer-Wohnung in Wurzen //,"[['Etagenwohnung', '•', 'Wurzen', 'Wurzen']]",[],Miete zzgl. NK 350 €,Wohnfläche ca. 75 m²,Zi. 3,214,14
+17,selObject_44640914,+++SCHÖNE 3-RAUMWOHNUNG mit BALKON + 300 EUR Gutschein...,"[['Wohnung', '•', 'Kamenz', 'Kamenz']]",['Balkon'],Miete zzgl. NK 340 €,Wohnfläche ca. 59 m²,Zi. 3,214,14
+18,selObject_44640875,Helle 2-Raum-Wohnung mit Balkon,"[['Erdgeschosswohnung', '•', 'Freital', 'Freital']]",['Balkon'],Miete zzgl. NK 310 €,Wohnfläche ca. 48 m²,Zi. 2,214,14
+19,selObject_44640808,Schöne 3 Raumwohnung in der Südstadt,"[['Wohnung', '•', 'Görlitz', 'Südstadt']]",['Balkon'],Miete zzgl. NK 400 €,Wohnfläche ca. 89 m²,Zi. 3,214,14
+20,selObject_44640806,+++RENOVIERTE 3-RAUMWOHNUNG MIT BALKON + 500 EUR Gutsc...,"[['Wohnung', '•', 'Kamenz', 'Kamenz']]",['Balkon'],Miete zzgl. NK 360 €,Wohnfläche ca. 60 m²,Zi. 3,214,14
+21,selObject_44640784,// Gemütliche 3-Raum-Wohnung //,"[['Etagenwohnung', '•', 'Wurzen', 'Wurzen']]",['Balkon'],Miete zzgl. NK 340 €,Wohnfläche ca. 61 m²,Zi. 3,214,14
+22,selObject_44640767,Zentrumsnahe 2-Raum Wohnung mit Wohnküche und Loggia...,"[['Wohnung', '•', 'Waldheim', 'Waldheim']]",['Garten'],Miete zzgl. NK 270 €,Wohnfläche ca. 60 m²,Zi. 2,214,14
+23,selObject_44640751,+++GROßE 2-RAUMWOHNUNG mit ABSTELLKAMMER + 500 EUR...,"[['Wohnung', '•', 'Kamenz', 'Kamenz']]",[],Miete zzgl. NK 350 €,Wohnfläche ca. 62 m²,Zi. 2,214,14
+24,selObject_44640691,Industrieflair*** Top sanierte 3-Raum-Wohnung mit Balk...,"[['Wohnung', '•', 'Chemnitz', 'Zentrum']]",['Balkon'],"Miete zzgl. NK 485,94 €",Wohnfläche ca. 75 m²,Zi. 3,214,14
+25,selObject_44640627,+++HALT STOP! WUNDERSCHÖNE 3-RAUMWOHUNG mit BALKON +++,"[['Wohnung', '•', 'Kamenz', 'Kamenz']]",['Balkon'],Miete zzgl. NK 360 €,Wohnfläche ca. 60 m²,Zi. 3,214,14
+26,selObject_44640623,Zu Fuß in die Leipziger Innenstadt! // Hochwertig möbl...,"[['Etagenwohnung', '•', 'Leipzig', 'Zentrum-Südost']]",['EBK'],Miete zzgl. NK 465 €,Wohnfläche ca. 31 m²,Zi. 1,214,14

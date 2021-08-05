@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44144916,Renovierte 3 Zimmer Wohnung mit Gartennutzung,"['Etagenwohnung', '•', 'Solingen', 'Solingen-Mitte']",['Garten'],Miete zzgl. NK 580 €,Wohnfläche ca. 85 m²,Zi. 3,233,5
-1,selObject_44144706,Duisburg-Meiderich! Renovierte 3-Zimmer-Wohnung zu...,"['Etagenwohnung', '•', 'Duisburg', 'Untermeiderich']",[],Miete zzgl. NK 480 €,Wohnfläche ca. 72 m²,Zi. 3,233,5
-2,selObject_44141445,Köln Westhoven - sanierte 3-Zimmerwohnung zum Erstbezu...,"['Etagenwohnung', '•', 'Köln', 'Westhoven']","['Balkon', 'Garten']",Miete zzgl. NK 1.120 €,Wohnfläche ca. 102 m²,Zi. 3,233,5
-3,selObject_44140755,Die letzte Neubauwohnung in Kreuzau,"['Etagenwohnung', '•', 'Kreuzau', 'Stockheim']",['Balkon'],Miete zzgl. NK 850 €,Wohnfläche ca. 96 m²,Zi. 3,233,5
-4,selObject_44140039,Neu sanierte 2-Zi.-DG-Appartment mit Klimaanlage in...,"['Apartment', '•', 'Herne', 'Wanne']",['Balkon'],Miete zzgl. NK 400 €,Wohnfläche ca. 60 m²,Zi. 2,233,5
-5,selObject_44140037,Hübsch - Hell - Renoviert - 2 Raum - Küche mit Einbaus...,"['Etagenwohnung', '•', 'Oberhausen', 'Stadtmitte']",[],Miete zzgl. NK 350 €,Wohnfläche ca. 57 m²,Zi. 2,233,5
-6,selObject_44139728,3 1/2 Raum Wohnung sucht Hausmeister ! Wir suchen für...,"['Erdgeschosswohnung', '•', 'Gelsenkirchen', 'Beckhausen']","['Balkon', 'Garten']","Miete zzgl. NK 418,11 €",Wohnfläche ca. 82 m²,"Zi. 3,5",233,5
-7,selObject_44139233,Pontviertel: Neuwertige und helle 2-Zimmer-Etagenwohnu...,"['Etagenwohnung', '•', 'Aachen', 'Aachen']","['Balkon', 'EBK']","Miete zzgl. NK 986,58 €",Wohnfläche ca. 68 m²,Zi. 2,233,5
-8,selObject_44139232,Pontviertel: 2-Zimmer-Wohnung mit Einbauküche und mode...,"['Etagenwohnung', '•', 'Aachen', 'Aachen']","['Balkon', 'Garten', 'EBK']","Miete zzgl. NK 808,38 €",Wohnfläche ca. 56 m²,Zi. 2,233,5
-9,selObject_44138896,"WG-Zimmer mit Loggia für Studierende, Azubis und Schül...","['Wohnung', '•', 'Bielefeld', 'Innenstadt']",['EBK'],"Miete inkl. NK 245,55 €",Wohnfläche ca. 22 m²,Zi. 1,233,5
-10,selObject_44136927,ERSTBEZUG - Exklusive 3-Zimmer-Wohnung zum Wohlfühlen,"['Etagenwohnung', '•', 'Düsseldorf', 'Stadtmitte']",['Balkon'],Miete zzgl. NK 1.500 €,Wohnfläche ca. 87 m²,Zi. 3,233,5
-11,selObject_44136751,Erstbezug nach Sanierung - AC-Burtscheid: Schöne helle...,"['Etagenwohnung', '•', 'Aachen', 'Aachen']",['Balkon'],"Miete zzgl. NK 786,66 €",Wohnfläche ca. 75 m²,Zi. 3,233,5
-12,selObject_44136272,Ihre Zukunft - Ihre Wohnung: 1-Zimmer-Citywohnung,"['Etagenwohnung', '•', 'Aachen', 'Aachen']",[],"Miete zzgl. NK 398,84 €",Wohnfläche ca. 35 m²,Zi. 1,233,5
-13,selObject_44136021,"Wohnglück - günstige 2,5-Zimmer-Wohnung","['Erdgeschosswohnung', '•', 'Dortmund', 'Eving']",['Balkon'],Miete zzgl. NK 390 €,Wohnfläche ca. 44 m²,"Zi. 2,5",233,5
-14,selObject_44135354,*Hier endet Ihre Suche*,"['Wohnung', '•', 'Düsseldorf', 'Rath']",[],Miete zzgl. NK 475 €,Wohnfläche ca. 31 m²,Zi. 1,233,5
-15,selObject_44135301,Gemütliche Dachgeschosswohnung in bester Altstadtlage,"['Dachgeschosswohnung', '•', 'Duisburg', 'Dellviertel']",[],"Miete zzgl. NK 313,14 €",Wohnfläche ca. 52 m²,Zi. 2,233,5
-16,selObject_44135040,Anschauen: wird komplett für Sie renoviert!,"['Etagenwohnung', '•', 'Gelsenkirchen', 'Buer']",['Garten'],Miete zzgl. NK 339 €,Wohnfläche ca. 52 m²,Zi. 2,233,5
-17,selObject_44130428,Wunderschöne 2 Zimmer Wohnung mit Blick über Düsseldor...,"['Dachgeschosswohnung', '•', 'Düsseldorf', 'Oberbilk']",[],Miete zzgl. NK 628 €,Wohnfläche ca. 70 m²,Zi. 2,233,5
-18,selObject_44130306,3 Zimmer in Dortmund,"['Etagenwohnung', '•', 'Dortmund', 'Mitte']",['EBK'],Miete zzgl. NK 560 €,Wohnfläche ca. 76 m²,Zi. 3,233,5
-19,selObject_44129477,"Wir suchen SIE.... 3,5 Zimmer Wohnung mit Balkon am...","['Etagenwohnung', '•', 'Dorsten', 'Wulfen']",['Balkon'],"Miete zzgl. NK 424,21 €",Wohnfläche ca. 73 m²,"Zi. 3,5",233,5
-20,selObject_44128967,Traumhafte DG Innenstadtwohnung mit Balkon (Erstbezug),"['Dachgeschosswohnung', '•', 'Lengerich', 'Lengerich']",['Balkon'],Miete zzgl. NK 700 €,Wohnfläche ca. 120 m²,Zi. 3,233,5
-21,selObject_44128966,Liebhaber Wohnung im Herzen von Lengerich mit Einbaukü...,"['Etagenwohnung', '•', 'Lengerich', 'Lengerich']",['EBK'],Miete zzgl. NK 590 €,Wohnfläche ca. 97 m²,Zi. 3,233,5
-22,selObject_44128068,2 ZKB Wohnung in Bad Laasphe-Altstadt zu vermieten.,"['Etagenwohnung', '•', 'Bad', 'Laasphe', 'Bad', 'Laasphe']",[],Miete zzgl. NK 335 €,Wohnfläche ca. 60 m²,Zi. 2,233,5
-23,selObject_44127690,Vollmöbliertes 1-Zimmer-Apartment mit Balkon in Paderb...,"['Wohnung', '•', 'Paderborn', 'Kernstadt']","['Balkon', 'EBK']",Miete zzgl. NK 354 €,Wohnfläche ca. 27 m²,Zi. 1,233,5
-24,selObject_44127063,LUXUS WOHNEN ZUM ECONOMY PREIS! 500€ Prämie und 3 Mona...,"['Etagenwohnung', '•', 'Spenge', 'Spenge']",['Balkon'],Miete zzgl. NK 649 €,Wohnfläche ca. 81 m²,Zi. 3,233,5
-25,selObject_44127031,LUXUS WOHNEN ZUM ECONOMY PREIS! 500€ Prämie und 3 Mona...,"['Etagenwohnung', '•', 'Spenge', 'Spenge']",['Balkon'],Miete zzgl. NK 499 €,Wohnfläche ca. 63 m²,Zi. 2,233,5
-26,selObject_44126997,LUXUS WOHNEN ZUM ECONOMY PREIS! 500€ Prämie und 3 Mona...,"['Etagenwohnung', '•', 'Spenge', 'Spenge']",['Balkon'],Miete zzgl. NK 539 €,Wohnfläche ca. 67 m²,Zi. 2,233,5
+0,selObject_44154163,Singleapartment m. Einbauküche in Duisburg,"[['Dachgeschosswohnung', '•', 'Duisburg', 'Altstadt']]",['EBK'],Miete zzgl. NK 300 €,Wohnfläche ca. 43 m²,Zi. 1,233,5
+1,selObject_44154121,Großzügige Penthouse-Wohnung (H1/W7) mit Traumausblick...,"[['Penthouse', '•', 'Schwerte', 'Ergste']]",['Balkon'],"Miete zzgl. NK 1.367,16 €",Wohnfläche ca. 100 m²,Zi. 2,233,5
+2,selObject_44154098,Absolute Traum-Wohnung als Penthouse (H3/W5) mit gigan...,"[['Penthouse', '•', 'Schwerte', 'Ergste']]",['Balkon'],"Miete zzgl. NK 1.888,32 €",Wohnfläche ca. 157 m²,Zi. 3,233,5
+3,selObject_44154027,Modern aufgeteilte Neubauwohnung (H1/W5) mit schönem...,"[['Etagenwohnung', '•', 'Schwerte', 'Ergste']]",['Balkon'],"Miete zzgl. NK 1.016,83 €",Wohnfläche ca. 91 m²,Zi. 3,233,5
+4,selObject_44153958,Optimal aufgeteilte Neubauwohnung (H1/W3) mit schönem...,"[['Erdgeschosswohnung', '•', 'Schwerte', 'Ergste']]",['Balkon'],"Miete zzgl. NK 1.022,81 €",Wohnfläche ca. 91 m²,Zi. 3,233,5
+5,selObject_44153892,Innenstadt | Personen-Aufzug | Nur 3 Wohn-Parteien im...,"[['Etagenwohnung', '•', 'Recklinghausen', 'Stadtmitte']]",[],"Miete zzgl. NK 487,60 €",Wohnfläche ca. 92 m²,Zi. 3,233,5
+6,selObject_44151970,3 Zimmer Komfort Wohnung,"[['Etagenwohnung', '•', 'Düsseldorf', 'Golzheim']]",[],Miete zzgl. NK 777 €,Wohnfläche ca. 84 m²,Zi. 3,233,5
+7,selObject_44150363,Großzügig aufgeteilte Neubauwohnung (H2/W2) mit schöne...,"[['Erdgeschosswohnung', '•', 'Schwerte', 'Ergste']]","['Balkon', 'Garten']","Miete zzgl. NK 1.141,69 €",Wohnfläche ca. 104 m²,Zi. 3,233,5
+8,selObject_44150362,Modern aufgeteilte Neubauwohnung (H1/W1) mit schöner...,"[['Erdgeschosswohnung', '•', 'Schwerte', 'Ergste']]","['Balkon', 'Garten']","Miete zzgl. NK 999,31 €",Wohnfläche ca. 90 m²,Zi. 3,233,5
+9,selObject_44150361,Modern aufgeteilte Neubauwohnung (H1/W2) mit schöner...,"[['Erdgeschosswohnung', '•', 'Schwerte', 'Ergste']]","['Balkon', 'Garten']","Miete zzgl. NK 962,15 €",Wohnfläche ca. 86 m²,Zi. 3,233,5
+10,selObject_44149057,Moderne Drei-Zimmer-Wohnung mit Einbauküche auf der...,"[['Wohnung', '•', 'Aachen']]",['EBK'],Miete zzgl. NK 850 €,Wohnfläche ca. 72 m²,Zi. 3,233,5
+11,selObject_44148672,Top 1-Zimmer Appartement im Kölner Stadtzentrum Mühlhe...,"[['Wohnung', '•', 'Köln', 'Mülheim']]",['EBK'],Miete zzgl. NK 880 €,Wohnfläche ca. 31 m²,Zi. 1,233,5
+12,selObject_44148265,Etagenwohnung mit großer Küche,"[['Etagenwohnung', '•', 'Mönchengladbach', 'Rheydt']]",[],Miete zzgl. NK 391 €,Wohnfläche ca. 68 m²,Zi. 2,233,5
+13,selObject_44147852,AC-Zentrum (Jakobsviertel): Schöne helle 3-Zi.-Whg. in...,"[['Etagenwohnung', '•', 'Aachen', 'Aachen']]",[],"Miete zzgl. NK 622,70 €",Wohnfläche ca. 62 m²,Zi. 2,233,5
+14,selObject_44147789,Schöne Maisonette-Wohnung! WBS für 2 Personen erforder...,"[['Dachgeschosswohnung', '•', 'Essen', 'Schonnebeck']]",['Balkon'],"Miete zzgl. NK 306,86 €",Wohnfläche ca. 65 m²,"Zi. 2,5",233,5
+15,selObject_44147771,Bezugsfertige und sanierte Wohnung in Bahnhofsnähe,"[['Etagenwohnung', '•', 'Aachen', 'Aachen']]",['Balkon'],"Miete zzgl. NK 631,50 €",Wohnfläche ca. 63 m²,Zi. 2,233,5
+16,selObject_44147742,Wer will mich!? 3-Zimmer-Wohnung in Stadtlage,"[['Etagenwohnung', '•', 'Lüdenscheid', 'Lüdenscheid']]",['Balkon'],Miete zzgl. NK 465 €,Wohnfläche ca. 66 m²,Zi. 3,233,5
+17,selObject_44147733,Hier lässt es sich aushalten: 2-Zi.- Citywohnung,"[['Etagenwohnung', '•', 'Aachen', 'Aachen']]",[],"Miete zzgl. NK 489,60 €",Wohnfläche ca. 46 m²,Zi. 2,233,5
+18,selObject_44147731,Nette Nachbarn gesucht: individuelle 2-Zimmer-Wohnung,"[['Etagenwohnung', '•', 'Essen', 'Katernberg']]",[],Miete zzgl. NK 349 €,Wohnfläche ca. 44 m²,Zi. 3,233,5
+19,selObject_44147696,FRISCH renovierte 3-Zimmer Wohnung,"[['Etagenwohnung', '•', 'Dortmund', 'Westerfilde']]",['Balkon'],Miete zzgl. NK 599 €,Wohnfläche ca. 79 m²,"Zi. 3,5",233,5
+20,selObject_44147661,"Ankommen, Einziehen & Wohlfühlen: Ihr neues Zuhause -...","[['Etagenwohnung', '•', 'Essen', 'Katernberg']]","['Balkon', 'EBK']",Miete zzgl. NK 498 €,Wohnfläche ca. 51 m²,"Zi. 2,5",233,5
+21,selObject_44147656,Bei Anmietung bis zum 31.05.21 stellen wir drei Grundm...,"[['Dachgeschosswohnung', '•', 'Dortmund', 'Kirchlinde']]",['Balkon'],Miete zzgl. NK 589 €,Wohnfläche ca. 73 m²,"Zi. 2,5",233,5
+22,selObject_44147637,"AC-Zentrum/Burtscheid: Schöne große 2,5-Zi-DG-Whg. mit...","[['Etagenwohnung', '•', 'Aachen', 'Aachen']]",[],Miete zzgl. NK 479 €,Wohnfläche ca. 48 m²,Zi. 2,233,5
+23,selObject_44146825,"Moderne 2,5-Zimmer Wohnung mit Ankleidezimmer!","[['Wohnung', '•', 'Lüdenscheid', 'Lüdenscheid']]",[],Miete zzgl. NK 429 €,Wohnfläche ca. 100 m²,"Zi. 2,5",233,5
+24,selObject_44145090,Mitten im Grünen,"[['Wohnung', '•', 'Minden', 'Innenstadt']]","['Balkon', 'Garten']",Miete zzgl. NK 470 €,Wohnfläche ca. 70 m²,Zi. 3,233,5
+25,selObject_44145085,Perfekte WG Wohnung,"[['Wohnung', '•', 'Minden', 'Innenstadt']]",['Garten'],Miete zzgl. NK 420 €,Wohnfläche ca. 60 m²,Zi. 2,233,5
+26,selObject_44145082,Neu,"[['Wohnung', '•', 'Minden', 'Innenstadt']]",['Garten'],Miete zzgl. NK 370 €,Wohnfläche ca. 28 m²,Zi. 1,233,5

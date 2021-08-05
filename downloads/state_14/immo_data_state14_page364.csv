@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_43563780,Barrierefreie 2-Raum-Wohnung mit Balkon und offenen...,"['Etagenwohnung', '•', 'Chemnitz', 'Zentrum']","['Balkon', 'Garten']","Miete zzgl. NK 366,86 €",Wohnfläche ca. 56 m²,Zi. 2,364,14
-1,selObject_43562791,1-Raum-Wohnung im Oschatzer Stadtkern,"['Dachgeschosswohnung', '•', 'Oschatz', 'Oschatz']",[],Miete zzgl. NK 180 €,Wohnfläche ca. 37 m²,Zi. 1,364,14
-2,selObject_43562480,+++ WG-Gemeinschaft sucht dich! Zentrumsnahes möbliert...,"['Wohnung', '•', 'Leipzig', 'Neustadt-Neuschönefeld']",['EBK'],Miete zzgl. NK 300 €,Wohnfläche ca. 18 m²,Zi. 1,364,14
-3,selObject_43562188,Jetzt mieten und einen 250 Euro Einkaufsgutschein sich...,"['Wohnung', '•', 'Chemnitz', 'Lutherviertel']","['Balkon', 'EBK']",Miete zzgl. NK 399 €,Wohnfläche ca. 80 m²,Zi. 3,364,14
-4,selObject_43562170,www.r-o.de +++ Wohnen im Erlweinhof - Helle 2-Zimmerwo...,"['Wohnung', '•', 'Dresden', 'Pieschen-Süd']",['Balkon'],Miete zzgl. NK 570 €,Wohnfläche ca. 63 m²,Zi. 2,364,14
-5,selObject_43562168,www.r-o.de +++ Ideal für Hobbyköche - 2-Zimmerwohnung...,"['Wohnung', '•', 'Dresden', 'Pieschen-Süd']",['Balkon'],Miete zzgl. NK 604 €,Wohnfläche ca. 67 m²,Zi. 2,364,14
-6,selObject_43560672,"2 Mon. km-frei! Großzügige 2-Zimmer mit Laminat, Dusch...","['Etagenwohnung', '•', 'Chemnitz', 'Gablenz']",[],Miete zzgl. NK 260 €,Wohnfläche ca. 65 m²,Zi. 2,364,14
-7,selObject_43560633,"Große 2-Zi. mit Wanne, Dusche und Laminat in guter...","['Etagenwohnung', '•', 'Chemnitz', 'Zentrum']",['EBK'],Miete zzgl. NK 275 €,Wohnfläche ca. 69 m²,Zi. 2,364,14
-8,selObject_43560630,*** Gemütliche DG 3-Zimmer mit Wannenbad und EBK im...,"['Dachgeschosswohnung', '•', 'Chemnitz', 'Schloßchemnitz']",[],Miete zzgl. NK 275 €,Wohnfläche ca. 58 m²,Zi. 2,364,14
-9,selObject_43559742,3 Zimmer Dachgeschosswohnung Innenstadt Freiberg (nähe...,"['Dachgeschosswohnung', '•', 'Freiberg,', 'Sachs', 'Freiberg']",[],Miete zzgl. NK 550 €,Wohnfläche ca. 100 m²,Zi. 3,364,14
-10,selObject_43559737,2-Zimmer-Wohnung mit Balkon in Halsbrücke,"['Etagenwohnung', '•', 'Halsbrücke', 'Halsbrücke']",['Garten'],Miete zzgl. NK 250 €,Wohnfläche ca. 44 m²,Zi. 2,364,14
-11,selObject_43559716,2-Zimmer Wohnung Renovierung in Eigenleistung 4 Monate...,"['Etagenwohnung', '•', 'Freiberg,', 'Sachs', 'Freiberg']",['Garten'],Miete zzgl. NK 275 €,Wohnfläche ca. 52 m²,Zi. 2,364,14
-12,selObject_43559715,"kleine 2-Zimmer Erdgeschosswohnung mit Pantry-Küche,...","['Erdgeschosswohnung', '•', 'Freiberg,', 'Sachs', 'Freiberg']",[],Miete zzgl. NK 220 €,Wohnfläche ca. 39 m²,Zi. 2,364,14
-13,selObject_43559711,2-Zimmer Erdgeschosswohnung mit Balkon,"['Erdgeschosswohnung', '•', 'Freiberg,', 'Sachs', 'Freiberg']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 335 €,Wohnfläche ca. 56 m²,Zi. 2,364,14
-14,selObject_43559697,3-Zimmer Wohnung nach umfangreicher Sanierung,"['Etagenwohnung', '•', 'Freiberg,', 'Sachs', 'Freiberg']",['Garten'],Miete zzgl. NK 399 €,Wohnfläche ca. 69 m²,Zi. 3,364,14
-15,selObject_43559696,Ihre 2-Zimmer Traumwohnung in Langenau,"['Etagenwohnung', '•', 'Brand-Erbisdorf', 'Langenau']",['Garten'],Miete zzgl. NK 325 €,Wohnfläche ca. 53 m²,Zi. 2,364,14
-16,selObject_43559692,"All Inklusive, 1 Zimmer mit gemeinsamer Küche Direkt...","['Etagenwohnung', '•', 'Freiberg,', 'Sachs', 'Freiberg']",[],Miete zzgl. NK 160 €,Wohnfläche ca. 22 m²,Zi. 1,364,14
-17,selObject_43559684,2-Zimmer-Erdgeschosswohnung mit Balkon in Halsbrücke,"['Erdgeschosswohnung', '•', 'Halsbrücke', 'Halsbrücke']","['Balkon', 'Garten']",Miete zzgl. NK 240 €,Wohnfläche ca. 44 m²,Zi. 2,364,14
-18,selObject_43559681,2-Zimmer-Wohnung mit Balkon in Halsbrücke,"['Etagenwohnung', '•', 'Halsbrücke', 'Halsbrücke']",['Garten'],Miete zzgl. NK 240 €,Wohnfläche ca. 44 m²,Zi. 2,364,14
-19,selObject_43559678,"All Inklusive, 1 Zimmer in einer 2-Zimmer WE mit gem....","['Etagenwohnung', '•', 'Freiberg,', 'Sachs', 'Freiberg']",[],Miete zzgl. NK 145 €,Wohnfläche ca. 19 m²,Zi. 1,364,14
-20,selObject_43559671,"All Inklusive, 1 Zimmer mit gemeinsamer Küche Direkt...","['Etagenwohnung', '•', 'Freiberg,', 'Sachs', 'Freiberg']",[],Miete zzgl. NK 215 €,Wohnfläche ca. 28 m²,Zi. 1,364,14
-21,selObject_43559667,2-Zimmer-Erdgeschosswohnung mit Balkon in Halsbrücke,"['Erdgeschosswohnung', '•', 'Halsbrücke', 'Halsbrücke']",['Garten'],Miete zzgl. NK 240 €,Wohnfläche ca. 44 m²,Zi. 2,364,14
-22,selObject_43559657,Ihre 3-Dachgeschoss Traumwohnung in Langenau,"['Dachgeschosswohnung', '•', 'Brand-Erbisdorf', 'Langenau']",['Garten'],Miete zzgl. NK 570 €,Wohnfläche ca. 87 m²,Zi. 3,364,14
-23,selObject_43559107,gz-i.de: Gemütliches Apartment mit Badewanne in der...,"['Wohnung', '•', 'Dresden', 'Leipziger', 'Vorstadt']","['Garten', 'EBK']",Miete zzgl. NK 310 €,Wohnfläche ca. 29 m²,Zi. 1,364,14
-24,selObject_43558744,4 Zimmerwohnung im Dachgeschoß,"['Dachgeschosswohnung', '•', 'Bad', 'Lausick', 'Bad', 'Lausick']",['Balkon'],Miete zzgl. NK 860 €,Wohnfläche ca. 108 m²,Zi. 4,364,14
-25,selObject_43558742,2 Zimmerwohnung direkt am Markt,"['Etagenwohnung', '•', 'Borna', 'Borna']",[],Miete zzgl. NK 300 €,Wohnfläche ca. 48 m²,Zi. 2,364,14
-26,selObject_43558730,geräumige 2 Zimmerwohnung in Borna inkl. Carport,"['Etagenwohnung', '•', 'Borna', 'Borna']",['EBK'],Miete zzgl. NK 300 €,Wohnfläche ca. 57 m²,Zi. 2,364,14
+0,selObject_43620791,geräumige Dachgeschoßwohnung im Grünen,"[['Dachgeschosswohnung', '•', 'Bad', 'Lausick', 'Ebersbach']]",['Garten'],Miete zzgl. NK 230 €,Wohnfläche ca. 54 m²,Zi. 2,364,14
+1,selObject_43620680,2 RW mit Wohnküche*ERSTBEZUG nach Sanierung*,"[['Wohnung', '•', 'Leipzig', 'Grünau-Siedlung']]",[],Miete zzgl. NK 440 €,Wohnfläche ca. 58 m²,Zi. 2,364,14
+2,selObject_43620459,2 RW in Randlage von Dippoldiswalde gesucht-Behinderte...,"[['Wohnung', '•', 'Dippoldiswalde', 'Dippoldiswalde']]",[],Miete zzgl. NK 321 €,Wohnfläche ca. 58 m²,Zi. 2,364,14
+3,selObject_43619678,I großzügige 2-RW in Lindenau I Dachgeschoss I Wannenb...,"[['Dachgeschosswohnung', '•', 'Leipzig', 'Leutzsch']]",[],"Miete zzgl. NK 592,35 €",Wohnfläche ca. 91 m²,Zi. 2,364,14
+4,selObject_43617831,"+++ 2 Raumwohnung mit Balkon, Stellplatz kostenfrei ...","[['Wohnung', '•', 'Plauen', 'Stadtmitte']]",['Balkon'],Miete zzgl. NK 292 €,Wohnfläche ca. 65 m²,Zi. 2,364,14
+5,selObject_43617714,"Zentrum Ost - kleine 3-Zi-Wohnung mit Ausblick, Balkon...","[['Etagenwohnung', '•', 'Leipzig', 'Zentrum-Südost']]",['Balkon'],Miete zzgl. NK 489 €,Wohnfläche ca. 57 m²,Zi. 3,364,14
+6,selObject_43617496,"Reudnitz Thonberg - zu Fuß in die City, günstige klein...","[['Etagenwohnung', '•', 'Leipzig', 'Zentrum-Ost']]",[],Miete zzgl. NK 399 €,Wohnfläche ca. 43 m²,Zi. 1,364,14
+7,selObject_43613694,großzügige 3 RW in Kleinzschocher,"[['Etagenwohnung', '•', 'Leipzig', 'Kleinzschocher']]",[],Miete zzgl. NK 640 €,Wohnfläche ca. 90 m²,Zi. 3,364,14
+8,selObject_43612709,MODERNES WOHNEN IN FAMILIENFREUNDLICHER LAGE!,"[['Etagenwohnung', '•', 'Reichenbach', 'Reichenbach']]",[],Miete zzgl. NK 545 €,Wohnfläche ca. 128 m²,Zi. 3,364,14
+9,selObject_43602583,Jetzt online Besichtigungstermin vereinbaren! Wohnunge...,"[['Wohnung', '•', 'Leipzig', 'Zentrum-Ost']]",['Balkon'],Miete zzgl. NK 620 €,Wohnfläche ca. 56 m²,Zi. 2,364,14
+10,selObject_43596072,STARK! DG-3-Raum ! Frisch renoviert! Neues Vinyl-Lamin...,"[['Dachgeschosswohnung', '•', 'Plauen', 'Preißelpöhl']]",['EBK'],Miete zzgl. NK 330 €,Wohnfläche ca. 66 m²,Zi. 3,364,14
+11,selObject_43595676,Neubau-Erstbezug! Wasserblick garantiert - www.lido-le...,"[['Etagenwohnung', '•', 'Leipzig', 'Leutzsch']]","['Balkon', 'EBK']",Miete zzgl. NK 890 €,Wohnfläche ca. 77 m²,Zi. 3,364,14
+12,selObject_43595346,+Erstbezug+sonnige 3-Raum-Wohnung mit Balkon-Einbauküc...,"[['Dachgeschosswohnung', '•', 'Chemnitz', 'Sonnenberg']]","['Balkon', 'EBK']",Miete zzgl. NK 460 €,Wohnfläche ca. 74 m²,Zi. 3,364,14
+13,selObject_43595302,In der Maximilianresidenz wohnen und sehr gut leben......,"[['Erdgeschosswohnung', '•', 'Chemnitz', 'Altchemnitz']]",['Balkon'],Miete zzgl. NK 400 €,Wohnfläche ca. 69 m²,Zi. 2,364,14
+14,selObject_43595133,Helles Apartment in zentraler Lage,"[['Apartment', '•', 'Dresden', 'Innere', 'Neustadt']]",['EBK'],Miete zzgl. NK 409 €,Wohnfläche ca. 26 m²,Zi. 1,364,14
+15,selObject_43595031,Hier könnte Euer neues Wohndomizil sein,"[['Etagenwohnung', '•', 'Chemnitz', 'Kapellenberg']]",['Balkon'],Miete zzgl. NK 339 €,Wohnfläche ca. 62 m²,Zi. 2,364,14
+16,selObject_43594859,Nido I All-inclusive Wohnen - Early Bird Aktion!,"[['Apartment', '•', 'Dresden', 'Innere', 'Neustadt']]",['EBK'],Miete zzgl. NK 339 €,Wohnfläche ca. 20 m²,Zi. 1,364,14
+17,selObject_43594812,"*GÜNSTIG MIETEN* geräumige, helle 1-Raum-Wohnung in...","[['Wohnung', '•', 'Plauen', 'Preißelpöhl']]",[],Miete zzgl. NK 144 €,Wohnfläche ca. 48 m²,Zi. 1,364,14
+18,selObject_43594791,2 RW im DG in Rauschwalde,"[['Dachgeschosswohnung', '•', 'Görlitz', 'Rauschwalde']]",[],Miete zzgl. NK 322 €,Wohnfläche ca. 70 m²,Zi. 2,364,14
+19,selObject_43594772,Nido I All-inclusive Möbliertes Wohnen - Early Bird...,"[['Apartment', '•', 'Dresden', 'Innere', 'Neustadt']]",['EBK'],Miete zzgl. NK 305 €,Wohnfläche ca. 19 m²,Zi. 1,364,14
+20,selObject_43594760,Singlewohnung mit Balkon nahe Zentrum,"[['Etagenwohnung', '•', 'Chemnitz', 'Zentrum']]",['Balkon'],Miete zzgl. NK 160 €,Wohnfläche ca. 28 m²,Zi. 1,364,14
+21,selObject_43594689,*** SOMMERAKTION - 3 Monate mietfrei *** Helle ruhige...,"[['Etagenwohnung', '•', 'Chemnitz', 'Bernsdorf']]","['Balkon', 'Garten']",Miete zzgl. NK 280 €,Wohnfläche ca. 53 m²,Zi. 2,364,14
+22,selObject_43594439,"*Jetzt 1000,00€ Einzugsbonus sichern!*","[['Etagenwohnung', '•', 'Döbeln', 'Döbeln']]",['Garten'],Miete zzgl. NK 380 €,Wohnfläche ca. 77 m²,Zi. 3,364,14
+23,selObject_43594262,Bequem im Erdgeschoss!,"[['Erdgeschosswohnung', '•', 'Limbach-Oberfrohna', 'Limbach-Oberfrohna']]",[],Miete zzgl. NK 315 €,Wohnfläche ca. 58 m²,Zi. 3,364,14
+24,selObject_43594261,Kleine Wohnung unterm Dach!,"[['Wohnung', '•', 'Limbach-Oberfrohna', 'Limbach-Oberfrohna']]",[],Miete zzgl. NK 250 €,Wohnfläche ca. 44 m²,Zi. 2,364,14
+25,selObject_43594254,"Wohnung in grüner, ruhiger Lage mit Balkon!","[['Wohnung', '•', 'Limbach-Oberfrohna', 'Limbach-Oberfrohna']]",['Balkon'],Miete zzgl. NK 315 €,Wohnfläche ca. 62 m²,Zi. 3,364,14
+26,selObject_43594225,2 RW im DG in Rauschwalde,"[['Dachgeschosswohnung', '•', 'Görlitz', 'Rauschwalde']]",[],Miete zzgl. NK 200 €,Wohnfläche ca. 37 m²,Zi. 2,364,14

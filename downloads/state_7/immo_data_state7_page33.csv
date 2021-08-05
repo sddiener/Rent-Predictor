@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44225256,Eigenes Haus mit Kamin und Garten! Hell und einladend...,"['Etagenwohnung', '•', 'Bruttig-Fankel', 'Fankel']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 730 €,Wohnfläche ca. 140 m²,Zi. 5,33,7
-1,selObject_44225193,schöne 2 Zimmer Wohnung in der Innenstadt,"['Wohnung', '•', 'Trier', 'Innenstadt']",[],Miete zzgl. NK 470 €,Wohnfläche ca. 56 m²,Zi. 2,33,7
-2,selObject_44219507,Wohnung im 1. OG (nur in Verbindung mit Hausmeistertät...,"['Wohnung', '•', 'Katzweiler']",['EBK'],Miete zzgl. NK 650 €,Wohnfläche ca. 100 m²,Zi. 4,33,7
-3,selObject_44216124,NEUBAU ! Penthousewohnung in Nittel zu vermieten ! AB...,"['Penthouse', '•', 'Nittel', 'Nittel']","['Balkon', 'EBK']","Miete zzgl. NK 1.271,40 €",Wohnfläche ca. 98 m²,"Zi. 2,5",33,7
-4,selObject_44214951,schöne Wohnung mit Balkon,"['Etagenwohnung', '•', 'Rohrbach']",['Balkon'],Miete zzgl. NK 830 €,Wohnfläche ca. 99 m²,Zi. 4,33,7
-5,selObject_44213936,ab dem 01.06. verfügbar APARTMENT in Trier,"['Apartment', '•', 'Trier', 'Trier-West-Pallien']",['EBK'],Miete zzgl. NK 390 €,Wohnfläche ca. 25 m²,Zi. 1,33,7
-6,selObject_44213500,Bad Marienberg - zentral - 2 ZKDB alles auf einer Eben...,"['Erdgeschosswohnung', '•', 'Bad', 'Marienberg', 'Bad', 'Marienberg']",['EBK'],Miete zzgl. NK 575 €,Wohnfläche ca. 76 m²,Zi. 2,33,7
-7,selObject_44199558,Wenn es etwas besonders sein soll...,"['Etagenwohnung', '•', 'Pirmasens', 'Innenstadt']",['Balkon'],Miete zzgl. NK 550 €,Wohnfläche ca. 96 m²,Zi. 3,33,7
-8,selObject_44188193,Wohnen im YOUNIQ-Apartmenthaus in Mainz!,"['Etagenwohnung', '•', 'Mainz', 'Hartenberg/Münchfeld']","['Garten', 'EBK']","Miete zzgl. NK 598,99 €",Wohnfläche ca. 33 m²,Zi. 2,33,7
-9,selObject_44181074,"Schöne, neu renovierte 3-Zimmer-Wohnung in zentraler...","['Erdgeschosswohnung', '•', 'Höhr-Grenzhausen']","['Balkon', 'EBK']",Miete zzgl. NK 720 €,Wohnfläche ca. 89 m²,Zi. 3,33,7
-10,selObject_44171336,Geräumige Wohnung in Niederlahnstein,"['Wohnung', '•', 'Lahnstein', 'Niederlahnstein']",['Balkon'],Miete zzgl. NK 510 €,Wohnfläche ca. 80 m²,Zi. 2,33,7
-11,selObject_44170336,***3-ZKB mit Balkon im 12. OG***,"['Etagenwohnung', '•', 'Mainz', 'Oberstadt']","['Balkon', 'EBK']",Miete zzgl. NK 870 €,Wohnfläche ca. 72 m²,Zi. 3,33,7
-12,selObject_44168418,Mombacher 2 Zimmer Wohnung! 1 Monat Mietfrei,"['Etagenwohnung', '•', 'Mainz', 'Mombach']",['EBK'],"Miete zzgl. NK 754,29 €",Wohnfläche ca. 61 m²,Zi. 2,33,7
-13,selObject_44160829,Fast herrschaftlich - In alten Gemäuern mit separatem...,"['Etagenwohnung', '•', 'Germersheim', 'Sondernheim']",['Balkon'],Miete zzgl. NK 1.255 €,Wohnfläche ca. 132 m²,"Zi. 3,5",33,7
-14,selObject_44147024,Neubau für Anspruchsvolle,"['Etagenwohnung', '•', 'Kettig']",['Balkon'],Miete zzgl. NK 1.200 €,Wohnfläche ca. 119 m²,Zi. 4,33,7
-15,selObject_44140927,4-Zi. Erdgeschoss-Wohnung in Bad Neuenahr,"['Wohnung', '•', 'Bad', 'Neuenahr-Ahrweiler', 'Bad', 'Neuenahr']",['Balkon'],Miete zzgl. NK 1.150 €,Wohnfläche ca. 133 m²,Zi. 4,33,7
-16,selObject_44112373,Neubau für Anspruchsvolle,"['Dachgeschosswohnung', '•', 'Kettig']",['Balkon'],Miete zzgl. NK 1.000 €,Wohnfläche ca. 97 m²,Zi. 3,33,7
-17,selObject_44112181,Große Dachgeschosswohnung mit großer Terrasse,"['Dachgeschosswohnung', '•', 'Speicher']",['Balkon'],Miete zzgl. NK 800 €,Wohnfläche ca. 120 m²,Zi. 4,33,7
-18,selObject_44111093,Helle Dachgeschosswohnung in Kusel zu vermieten,"['Dachgeschosswohnung', '•', 'Kusel', 'Kusel']",[],Miete zzgl. NK 320 €,Wohnfläche ca. 47 m²,Zi. 1,33,7
-19,selObject_44110748,Neu renovierte helle Wohnung,"['Erdgeschosswohnung', '•', 'Kusel', 'Kusel']","['Balkon', 'Garten']",Miete zzgl. NK 460 €,Wohnfläche ca. 71 m²,Zi. 3,33,7
-20,selObject_44106579,Ludwigshafen-Mundenheim: 2-Zimmer-Wohnung in Ludwigsha...,"['Wohnung', '•', 'Ludwigshafen', 'Rheingönheim']",['Balkon'],Miete zzgl. NK 1.063 €,Wohnfläche ca. 75 m²,Zi. 2,33,7
-21,selObject_44102390,Willkommen in Ihrem neuen Zuhause: Attraktive 2-Zimmer...,"['Etagenwohnung', '•', 'Mainz', 'Altstadt']","['Balkon', 'EBK']",Miete zzgl. NK 880 €,Wohnfläche ca. 62 m²,Zi. 2,33,7
-22,selObject_44089693,Große Wohnung herrlich gelegen am Waldrand,"['Etagenwohnung', '•', 'Kirschweiler']","['Garten', 'EBK']",Miete zzgl. NK 838 €,Wohnfläche ca. 151 m²,Zi. 3,33,7
-23,selObject_44089688,Erdgeschosswohnung mit moderner Einbauküche und Winter...,"['Erdgeschosswohnung', '•', 'Idar-Oberstein']",['EBK'],Miete zzgl. NK 500 €,Wohnfläche ca. 113 m²,Zi. 3,33,7
-24,selObject_44088403,Monzelfeld: -Erstbezug- 4-Zi.-Maisonettewohnung mit...,"['Maisonette', '•', 'Monzelfeld']",[],Miete zzgl. NK 670 €,Wohnfläche ca. 103 m²,Zi. 4,33,7
-25,selObject_44083316,Modern Wohnen: 4-Zimmer Wohnung im Erstbezug mit Einba...,"['Etagenwohnung', '•', 'Mainz', 'Altstadt']","['Balkon', 'EBK']",Miete zzgl. NK 1.185 €,Wohnfläche ca. 91 m²,Zi. 4,33,7
-26,selObject_44083315,Für die ganze Familie: Moderne und helle 5-Zimmer Wohn...,"['Etagenwohnung', '•', 'Mainz', 'Altstadt']","['Balkon', 'EBK']",Miete zzgl. NK 1.510 €,Wohnfläche ca. 112 m²,Zi. 5,33,7
+0,selObject_44225193,schöne 2 Zimmer Wohnung in der Innenstadt,"[['Wohnung', '•', 'Trier', 'Innenstadt']]",[],Miete zzgl. NK 470 €,Wohnfläche ca. 56 m²,Zi. 2,33,7
+1,selObject_44219507,Wohnung im 1. OG (nur in Verbindung mit Hausmeistertät...,"[['Wohnung', '•', 'Katzweiler']]",['EBK'],Miete zzgl. NK 650 €,Wohnfläche ca. 100 m²,Zi. 4,33,7
+2,selObject_44216124,NEUBAU ! Penthousewohnung in Nittel zu vermieten ! AB...,"[['Penthouse', '•', 'Nittel', 'Nittel']]","['Balkon', 'EBK']","Miete zzgl. NK 1.271,40 €",Wohnfläche ca. 98 m²,"Zi. 2,5",33,7
+3,selObject_44214951,schöne Wohnung mit Balkon,"[['Etagenwohnung', '•', 'Rohrbach']]",['Balkon'],Miete zzgl. NK 830 €,Wohnfläche ca. 99 m²,Zi. 4,33,7
+4,selObject_44213936,ab dem 01.06. verfügbar APARTMENT in Trier,"[['Apartment', '•', 'Trier', 'Trier-West-Pallien']]",['EBK'],Miete zzgl. NK 390 €,Wohnfläche ca. 25 m²,Zi. 1,33,7
+5,selObject_44213500,Bad Marienberg - zentral - 2 ZKDB alles auf einer Eben...,"[['Erdgeschosswohnung', '•', 'Bad', 'Marienberg', 'Bad', 'Marienberg']]",['EBK'],Miete zzgl. NK 575 €,Wohnfläche ca. 76 m²,Zi. 2,33,7
+6,selObject_44199558,Wenn es etwas besonders sein soll...,"[['Etagenwohnung', '•', 'Pirmasens', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 550 €,Wohnfläche ca. 96 m²,Zi. 3,33,7
+7,selObject_44188193,Wohnen im YOUNIQ-Apartmenthaus in Mainz!,"[['Etagenwohnung', '•', 'Mainz', 'Hartenberg/Münchfeld']]","['Garten', 'EBK']","Miete zzgl. NK 598,99 €",Wohnfläche ca. 33 m²,Zi. 2,33,7
+8,selObject_44181074,"Schöne, neu renovierte 3-Zimmer-Wohnung in zentraler...","[['Erdgeschosswohnung', '•', 'Höhr-Grenzhausen']]","['Balkon', 'EBK']",Miete zzgl. NK 720 €,Wohnfläche ca. 89 m²,Zi. 3,33,7
+9,selObject_44171336,Geräumige Wohnung in Niederlahnstein,"[['Wohnung', '•', 'Lahnstein', 'Niederlahnstein']]",['Balkon'],Miete zzgl. NK 510 €,Wohnfläche ca. 80 m²,Zi. 2,33,7
+10,selObject_44170336,***3-ZKB mit Balkon im 12. OG***,"[['Etagenwohnung', '•', 'Mainz', 'Oberstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 870 €,Wohnfläche ca. 72 m²,Zi. 3,33,7
+11,selObject_44168418,Mombacher 2 Zimmer Wohnung! 1 Monat Mietfrei,"[['Etagenwohnung', '•', 'Mainz', 'Mombach']]",['EBK'],"Miete zzgl. NK 754,29 €",Wohnfläche ca. 61 m²,Zi. 2,33,7
+12,selObject_44160829,Fast herrschaftlich - In alten Gemäuern mit separatem...,"[['Etagenwohnung', '•', 'Germersheim', 'Sondernheim']]",['Balkon'],Miete zzgl. NK 1.255 €,Wohnfläche ca. 132 m²,"Zi. 3,5",33,7
+13,selObject_44147024,Neubau für Anspruchsvolle,"[['Etagenwohnung', '•', 'Kettig']]",['Balkon'],Miete zzgl. NK 1.200 €,Wohnfläche ca. 119 m²,Zi. 4,33,7
+14,selObject_44140927,4-Zi. Erdgeschoss-Wohnung in Bad Neuenahr,"[['Wohnung', '•', 'Bad', 'Neuenahr-Ahrweiler', 'Bad', 'Neuenahr']]",['Balkon'],Miete zzgl. NK 1.150 €,Wohnfläche ca. 133 m²,Zi. 4,33,7
+15,selObject_44112373,Neubau für Anspruchsvolle,"[['Dachgeschosswohnung', '•', 'Kettig']]",['Balkon'],Miete zzgl. NK 1.000 €,Wohnfläche ca. 97 m²,Zi. 3,33,7
+16,selObject_44112181,Große Dachgeschosswohnung mit großer Terrasse,"[['Dachgeschosswohnung', '•', 'Speicher']]",['Balkon'],Miete zzgl. NK 800 €,Wohnfläche ca. 120 m²,Zi. 4,33,7
+17,selObject_44111093,Helle Dachgeschosswohnung in Kusel zu vermieten,"[['Dachgeschosswohnung', '•', 'Kusel', 'Kusel']]",[],Miete zzgl. NK 320 €,Wohnfläche ca. 47 m²,Zi. 1,33,7
+18,selObject_44110748,Neu renovierte helle Wohnung,"[['Erdgeschosswohnung', '•', 'Kusel', 'Kusel']]","['Balkon', 'Garten']",Miete zzgl. NK 460 €,Wohnfläche ca. 71 m²,Zi. 3,33,7
+19,selObject_44106579,Ludwigshafen-Mundenheim: 2-Zimmer-Wohnung in Ludwigsha...,"[['Wohnung', '•', 'Ludwigshafen', 'Rheingönheim']]",['Balkon'],Miete zzgl. NK 1.063 €,Wohnfläche ca. 75 m²,Zi. 2,33,7
+20,selObject_44102390,Willkommen in Ihrem neuen Zuhause: Attraktive 2-Zimmer...,"[['Etagenwohnung', '•', 'Mainz', 'Altstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 880 €,Wohnfläche ca. 62 m²,Zi. 2,33,7
+21,selObject_44089693,Große Wohnung herrlich gelegen am Waldrand,"[['Etagenwohnung', '•', 'Kirschweiler']]","['Garten', 'EBK']",Miete zzgl. NK 838 €,Wohnfläche ca. 151 m²,Zi. 3,33,7
+22,selObject_44089688,Erdgeschosswohnung mit moderner Einbauküche und Winter...,"[['Erdgeschosswohnung', '•', 'Idar-Oberstein']]",['EBK'],Miete zzgl. NK 500 €,Wohnfläche ca. 113 m²,Zi. 3,33,7
+23,selObject_44088403,Monzelfeld: -Erstbezug- 4-Zi.-Maisonettewohnung mit...,"[['Maisonette', '•', 'Monzelfeld']]",[],Miete zzgl. NK 670 €,Wohnfläche ca. 103 m²,Zi. 4,33,7
+24,selObject_44083316,Modern Wohnen: 4-Zimmer Wohnung im Erstbezug mit Einba...,"[['Etagenwohnung', '•', 'Mainz', 'Altstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 1.185 €,Wohnfläche ca. 91 m²,Zi. 4,33,7
+25,selObject_44083315,Für die ganze Familie: Moderne und helle 5-Zimmer Wohn...,"[['Etagenwohnung', '•', 'Mainz', 'Altstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 1.510 €,Wohnfläche ca. 112 m²,Zi. 5,33,7
+26,selObject_44083313,Ihr neues Zuhause: 3-Zimmer Wohnung mit Einbauküche...,"[['Etagenwohnung', '•', 'Mainz', 'Altstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 1.170 €,Wohnfläche ca. 89 m²,Zi. 3,33,7

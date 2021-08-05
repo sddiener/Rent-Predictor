@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44169483,2-Raum-Wohnung in Chemnitz Hilbersdorf!,"['Dachgeschosswohnung', '•', 'Chemnitz', 'Hilbersdorf']",[],Miete zzgl. NK 289 €,Wohnfläche ca. 58 m²,Zi. 2,304,14
-1,selObject_44169337,+++ Traumwohnung auf dem Kaßberg mit Balkon und Tiefga...,"['Wohnung', '•', 'Chemnitz', 'Kaßberg']",['Balkon'],Miete zzgl. NK 470 €,Wohnfläche ca. 81 m²,Zi. 3,304,14
-2,selObject_44169262,+++AKTION IM JULI-ANMIETUNG OHNE KAUTION+++NEU RENOVIE...,"['Wohnung', '•', 'Hartha', 'Hartha']",['Balkon'],Miete zzgl. NK 365 €,Wohnfläche ca. 70 m²,Zi. 3,304,14
-3,selObject_44169249,+++AKTION IM JULI-EINBAUKÜCHE MÖGLICH+++Gemütliche...,"['Wohnung', '•', 'Hartha', 'Hartha']","['Balkon', 'EBK']",Miete zzgl. NK 365 €,Wohnfläche ca. 70 m²,Zi. 3,304,14
-4,selObject_44168884,Das wird Ihre neue Wohnung - 3-Räume mit Einbauküche...,"['Etagenwohnung', '•', 'Annaberg-Buchholz', 'Annaberg']","['Garten', 'EBK']",Miete zzgl. NK 382 €,Wohnfläche ca. 59 m²,Zi. 3,304,14
-5,selObject_44168554,3-Raumwohnung mit Loggia am Neumarkt in Kirchberg prov...,"['Dachgeschosswohnung', '•', 'Kirchberg', 'Kirchberg']",[],Miete zzgl. NK 499 €,Wohnfläche ca. 70 m²,Zi. 3,304,14
-6,selObject_44168485,Das macht strahlend gute Laune: Willkommen im neuen...,"['Etagenwohnung', '•', 'Leipzig', 'Gohlis-Mitte']","['Balkon', 'EBK']",Miete zzgl. NK 540 €,Wohnfläche ca. 73 m²,Zi. 2,304,14
-7,selObject_44168390,Schöne 3 Raum Wohnung in Oelsnitz,"['Erdgeschosswohnung', '•', 'Oelsnitz', 'Oelsnitz']","['Balkon', 'Garten']",Miete zzgl. NK 325 €,Wohnfläche ca. 65 m²,Zi. 3,304,14
-8,selObject_44168369,+++ Große Familienwohnung mit Balkon +++,"['Erdgeschosswohnung', '•', 'Chemnitz', 'Kappel']","['Balkon', 'Garten']",Miete zzgl. NK 385 €,Wohnfläche ca. 80 m²,Zi. 3,304,14
-9,selObject_44168062,Helle 2-Raumwohnung in ruhiger Lage !!!,"['Wohnung', '•', 'Meißen']",[],Miete zzgl. NK 295 €,Wohnfläche ca. 56 m²,Zi. 2,304,14
-10,selObject_44167315,Zwei Kaltmieten frei*! 3-R.-WE m. Balkon in Löbau!,"['Etagenwohnung', '•', 'Löbau', 'Löbau']",['Balkon'],Miete zzgl. NK 305 €,Wohnfläche ca. 60 m²,Zi. 3,304,14
-11,selObject_44167199,Smarter Wohnen: Interessante 2-Zimmer-Wohnung mit Balk...,"['Etagenwohnung', '•', 'Dresden', 'Leubnitz-Neuostra']",['Balkon'],Miete zzgl. NK 276 €,Wohnfläche ca. 46 m²,Zi. 2,304,14
-12,selObject_44167197,Preisgünstige 1-Zimmer-Single-Wohnung mit Balkon!,"['Etagenwohnung', '•', 'Dresden', 'Prohlis-Süd']",['Balkon'],Miete zzgl. NK 126 €,Wohnfläche ca. 26 m²,Zi. 1,304,14
-13,selObject_44167193,Hübsche 2-Raum-Wohnung am Lutherplatz,"['Etagenwohnung', '•', 'Dresden', 'Äußere', 'Neustadt']",[],Miete zzgl. NK 361 €,Wohnfläche ca. 44 m²,Zi. 2,304,14
-14,selObject_44167177,Schöne Aussicht - Bei Anmietung bis 31.08.2021 gibt...,"['Etagenwohnung', '•', 'Dresden', 'Gorbitz-Süd']",[],Miete zzgl. NK 193 €,Wohnfläche ca. 27 m²,Zi. 1,304,14
-15,selObject_44167171,2-Raum-Wohnung mitten in der Äußeren Neustadt!,"['Etagenwohnung', '•', 'Dresden', 'Äußere', 'Neustadt']",[],Miete zzgl. NK 358 €,Wohnfläche ca. 46 m²,Zi. 2,304,14
-16,selObject_44167166,Für ein tolles Wohngefühl - 3-Zi.-Wohnung in der Südvo...,"['Etagenwohnung', '•', 'Dresden', 'Südvorstadt-West']",['Balkon'],Miete zzgl. NK 425 €,Wohnfläche ca. 59 m²,Zi. 3,304,14
-17,selObject_44167160,Das macht strahlend gute Laune: Willkommen im neuen...,"['Etagenwohnung', '•', 'Dresden', 'Friedrichstadt']",['Balkon'],Miete zzgl. NK 310 €,Wohnfläche ca. 34 m²,Zi. 1,304,14
-18,selObject_44167082,Erstbezug nach Ausbau! Bezugsfertig Juli 2021!,"['Wohnung', '•', 'Leipzig', 'Probstheida']",[],Miete zzgl. NK 344 €,Wohnfläche ca. 51 m²,Zi. 2,304,14
-19,selObject_44167081,Umsorgt Wohnen in den eigenen vier Wänden / Erstbezug...,"['Erdgeschosswohnung', '•', 'Leipzig', 'Probstheida']",['Balkon'],Miete zzgl. NK 373 €,Wohnfläche ca. 53 m²,Zi. 2,304,14
-20,selObject_44167079,Energetisch saniert! 2-Raum-Wohnung mit Balkon,"['Wohnung', '•', 'Leipzig', 'Paunsdorf']",['Balkon'],"Miete zzgl. NK 304,20 €",Wohnfläche ca. 55 m²,Zi. 2,304,14
-21,selObject_44167038,3-Raum-Wohnung mit Aufzug im sanierten Hochhaus,"['Wohnung', '•', 'Leipzig', 'Schönefeld-Ost']",[],Miete zzgl. NK 385 €,Wohnfläche ca. 64 m²,Zi. 3,304,14
-22,selObject_44165724,großzügige 2-Zi-DG-Whg in der Gottschedstraße - frisch...,"['Dachgeschosswohnung', '•', 'Leipzig', 'Zentrum-West']",[],Miete zzgl. NK 615 €,Wohnfläche ca. 77 m²,Zi. 2,304,14
-23,selObject_44165237,"Traumhafter Ausblick - 1,5-Zimmer-Wohnung MIT Einbaukü...","['Wohnung', '•', 'Chemnitz', 'Schloßchemnitz']","['Balkon', 'Garten', 'EBK']","Miete zzgl. NK 382,50 €",Wohnfläche ca. 51 m²,"Zi. 1,5",304,14
-24,selObject_44165227,"Schicke kleine Wohnung im Herzen der Stadt - 1,5-Zimme...","['Wohnung', '•', 'Chemnitz', 'Schloßchemnitz']","['Balkon', 'Garten']","Miete zzgl. NK 307,50 €",Wohnfläche ca. 41 m²,"Zi. 1,5",304,14
-25,selObject_44165217,"Schicke 1,5-Zimmer Wohnung im Zentrum - Balkon- Aufzug...","['Wohnung', '•', 'Chemnitz', 'Schloßchemnitz']","['Balkon', 'Garten']",Miete zzgl. NK 330 €,Wohnfläche ca. 44 m²,"Zi. 1,5",304,14
-26,selObject_44165180,"Helle 1,5 -Zimmer-Wohnung im Herzen von Chemnitz -...","['Wohnung', '•', 'Chemnitz', 'Schloßchemnitz']","['Balkon', 'Garten']",Miete zzgl. NK 330 €,Wohnfläche ca. 44 m²,"Zi. 1,5",304,14
+0,selObject_44197137,Teilsanierte Wohnung in Leipzig-Marienbrunn !,"[['Wohnung', '•', 'Leipzig', 'Marienbrunn']]",[],Miete zzgl. NK 429 €,Wohnfläche ca. 66 m²,Zi. 4,304,14
+1,selObject_44196575,Erstbezug nach Renovierung,"[['Etagenwohnung', '•', 'Hartha', 'Hartha']]",[],"Miete zzgl. NK 261,03 €",Wohnfläche ca. 47 m²,Zi. 2,304,14
+2,selObject_44196577,Netter Nutzer gesucht,"[['Etagenwohnung', '•', 'Hartha', 'Hartha']]",[],Miete zzgl. NK 291 €,Wohnfläche ca. 58 m²,Zi. 3,304,14
+3,selObject_44196564,Modern. Barrierearm. Hochwertig.,"[['Etagenwohnung', '•', 'Leipzig', 'Lausen-Grünau']]","['Balkon', 'EBK']","Miete zzgl. NK 438,59 €",Wohnfläche ca. 49 m²,Zi. 2,304,14
+4,selObject_44196562,Familienfreundlich Wohnen in Schönau,"[['Etagenwohnung', '•', 'Leipzig', 'Schönau']]",['Balkon'],"Miete zzgl. NK 591,04 €",Wohnfläche ca. 91 m²,Zi. 3,304,14
+5,selObject_44196561,Großzügige 3-Raumwohnung,"[['Etagenwohnung', '•', 'Leipzig', 'Schönau']]",['Balkon'],"Miete zzgl. NK 472,84 €",Wohnfläche ca. 91 m²,Zi. 3,304,14
+6,selObject_44196555,Den Überblick behalten,"[['Etagenwohnung', '•', 'Leipzig', 'Schönau']]",['Balkon'],"Miete zzgl. NK 380,32 €",Wohnfläche ca. 70 m²,Zi. 3,304,14
+7,selObject_44196552,2-Raumwohnung mit Terrasse,"[['Etagenwohnung', '•', 'Leipzig', 'Lausen-Grünau']]","['Balkon', 'EBK']","Miete zzgl. NK 410,72 €",Wohnfläche ca. 48 m²,Zi. 2,304,14
+8,selObject_44196548,Single? Dann klingel!,"[['Etagenwohnung', '•', 'Leipzig', 'Grünau-Nord']]",[],"Miete zzgl. NK 215,23 €",Wohnfläche ca. 33 m²,Zi. 1,304,14
+9,selObject_44196545,Natur pur in Grünau,"[['Etagenwohnung', '•', 'Leipzig', 'Schönau']]",['Balkon'],"Miete zzgl. NK 345,11 €",Wohnfläche ca. 69 m²,Zi. 3,304,14
+10,selObject_44196543,Familien aufgepasst!,"[['Etagenwohnung', '•', 'Leipzig', 'Grünau-Ost']]",['Balkon'],"Miete zzgl. NK 364,36 €",Wohnfläche ca. 62 m²,Zi. 3,304,14
+11,selObject_44196538,Highlight Balkon,"[['Etagenwohnung', '•', 'Leipzig', 'Schönau']]",['Balkon'],"Miete zzgl. NK 446,42 €",Wohnfläche ca. 69 m²,Zi. 3,304,14
+12,selObject_44196539,Barrierearme Wohnung mit Terrasse,"[['Etagenwohnung', '•', 'Leipzig', 'Lausen-Grünau']]","['Balkon', 'EBK']","Miete zzgl. NK 412,51 €",Wohnfläche ca. 49 m²,Zi. 2,304,14
+13,selObject_44196536,Attraktive 3-Raumwohnung in Parknähe,"[['Etagenwohnung', '•', 'Leipzig', 'Schönau']]",['Balkon'],"Miete zzgl. NK 401,51 €",Wohnfläche ca. 70 m²,Zi. 3,304,14
+14,selObject_44196533,Highlight Balkon,"[['Etagenwohnung', '•', 'Leipzig', 'Grünau-Ost']]",['Balkon'],"Miete zzgl. NK 355,37 €",Wohnfläche ca. 61 m²,Zi. 3,304,14
+15,selObject_44196530,Single? Dann klingel!,"[['Etagenwohnung', '•', 'Leipzig', 'Lausen-Grünau']]","['Balkon', 'EBK']","Miete zzgl. NK 280,08 €",Wohnfläche ca. 33 m²,Zi. 2,304,14
+16,selObject_44196526,1-RW im schönen Schönau!,"[['Etagenwohnung', '•', 'Leipzig', 'Schönau']]",[],"Miete zzgl. NK 169,57 €",Wohnfläche ca. 33 m²,Zi. 1,304,14
+17,selObject_44196524,Modern. Hell. Rollstuhlgerecht.,"[['Etagenwohnung', '•', 'Leipzig', 'Lausen-Grünau']]","['Balkon', 'EBK']","Miete zzgl. NK 559,84 €",Wohnfläche ca. 67 m²,Zi. 3,304,14
+18,selObject_44196521,Wannenbad und Balkon,"[['Etagenwohnung', '•', 'Leipzig', 'Paunsdorf']]",['Balkon'],"Miete zzgl. NK 392,77 €",Wohnfläche ca. 55 m²,Zi. 2,304,14
+19,selObject_44196520,"Wir bieten Ihnen nicht nur eine Wohnung, sondern ein...","[['Etagenwohnung', '•', 'Leipzig', 'Paunsdorf']]",['Balkon'],"Miete zzgl. NK 468,30 €",Wohnfläche ca. 62 m²,Zi. 3,304,14
+20,selObject_44196511,Kleine gemütliche Wohnung in ruhiger zentraler Lage,"[['Wohnung', '•', 'Limbach-Oberfrohna', 'Limbach-Oberfrohna']]",[],Miete zzgl. NK 188 €,Wohnfläche ca. 47 m²,Zi. 2,304,14
+21,selObject_44196446,Seniorenfreundliche 3-Raumwohnung mit Terrasse,"[['Etagenwohnung', '•', 'Leipzig', 'Lausen-Grünau']]",['Balkon'],"Miete zzgl. NK 553,17 €",Wohnfläche ca. 67 m²,Zi. 3,304,14
+22,selObject_44196427,Moderne Wohnung mit geräumigen Wohn- und Essbereich,"[['Etagenwohnung', '•', 'Leipzig', 'Lausen-Grünau']]",['Balkon'],"Miete zzgl. NK 955,41 €",Wohnfläche ca. 115 m²,Zi. 5,304,14
+23,selObject_44196411,Ihr neues Zuhause mit Balkon und Aufzug,"[['Etagenwohnung', '•', 'Leipzig', 'Lausen-Grünau']]",['Balkon'],"Miete zzgl. NK 556,37 €",Wohnfläche ca. 68 m²,Zi. 3,304,14
+24,selObject_44196402,Lichtdurchflutete 3-Raumwohnung,"[['Etagenwohnung', '•', 'Leipzig', 'Lausen-Grünau']]",['Balkon'],"Miete zzgl. NK 554,89 €",Wohnfläche ca. 68 m²,Zi. 3,304,14
+25,selObject_44196297,Modernisierte Wohnung in ruhiger Lage,"[['Etagenwohnung', '•', 'Leipzig', 'Lausen-Grünau']]","['Balkon', 'EBK']","Miete zzgl. NK 414,80 €",Wohnfläche ca. 49 m²,Zi. 2,304,14
+26,selObject_44196290,Attraktive Single-Wohnung nähe des Kulkwitzer Sees,"[['Etagenwohnung', '•', 'Leipzig', 'Lausen-Grünau']]",[],"Miete zzgl. NK 189,89 €",Wohnfläche ca. 33 m²,Zi. 1,304,14

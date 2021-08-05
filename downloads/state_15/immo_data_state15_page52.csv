@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44782442,3- Raum- Wohnung in Burg,"['Wohnung', '•', 'Burg', 'Burg']",['Balkon'],Miete zzgl. NK 538 €,Wohnfläche ca. 83 m²,Zi. 3,52,15
-1,selObject_44782149,Gemütliche 1-Zimmer-Wohnung mit EBK!,"['Etagenwohnung', '•', 'Magdeburg', 'Sudenburg']",['EBK'],"Miete zzgl. NK 202,98 €",Wohnfläche ca. 34 m²,Zi. 1,52,15
-2,selObject_44781979,"Attraktive 2,5-Raumwohnung!","['Kein', 'Bild']",[],"Miete zzgl. NK 288,90 €",Wohnfläche ca. 58 m²,Zi. 3,52,15
-3,selObject_44781975,Wohnen beim Fairmieter,"['Wohnung', '•', 'Magdeburg', 'Neue', 'Neustadt']",[],"Miete zzgl. NK 273,17 €",Wohnfläche ca. 57 m²,Zi. 3,52,15
-4,selObject_44781933,Frisch renoviert!,"['Etagenwohnung', '•', 'Magdeburg', 'Sudenburg']",[],"Miete zzgl. NK 291,50 €",Wohnfläche ca. 53 m²,Zi. 2,52,15
-5,selObject_44781886,"Ruhig, günstig und frisch renoviert, schnell sein lohn...","['Wohnung', '•', 'Burg', 'Burg']",['Balkon'],"Miete zzgl. NK 283,92 €",Wohnfläche ca. 68 m²,Zi. 3,52,15
-6,selObject_44781884,3-Zimmer-Wohnung in der Ludwig-Bethcke-Straße 5,"['Etagenwohnung', '•', 'Halle', 'Silberhöhe']",['Balkon'],Miete zzgl. NK 310 €,Wohnfläche ca. 61 m²,Zi. 3,52,15
-7,selObject_44781881,"Jetzt bewerben, Ihre Wohnung wartet auf Sie","['Etagenwohnung', '•', 'Halle', 'Silberhöhe']",['Balkon'],Miete zzgl. NK 310 €,Wohnfläche ca. 61 m²,Zi. 3,52,15
-8,selObject_44781879,"3-Zimmer-Wohnung zu vermieten, jetzt Termin machen!","['Etagenwohnung', '•', 'Halle', 'Silberhöhe']",['Balkon'],"Miete zzgl. NK 306,70 €",Wohnfläche ca. 61 m²,Zi. 3,52,15
-9,selObject_44781875,"Neu renovierte 3-Zimmer-Wohnung, jetzt zu vermieten!","['Etagenwohnung', '•', 'Halle', 'Silberhöhe']",['Balkon'],Miete zzgl. NK 310 €,Wohnfläche ca. 61 m²,Zi. 3,52,15
-10,selObject_44781359,Bei GCP können Sie in Ihrer neuen Erdgeschoss-Wohnung...,"['Wohnung', '•', 'Halle', 'Silberhöhe']",['Balkon'],Miete zzgl. NK 335 €,Wohnfläche ca. 61 m²,Zi. 3,52,15
-11,selObject_44781358,"Kleine 2-Zimmer-Wohnung, jetzt hier zu vermieten!","['Wohnung', '•', 'Halle', 'Silberhöhe']",[],"Miete zzgl. NK 247,20 €",Wohnfläche ca. 41 m²,Zi. 2,52,15
-12,selObject_44781251,"3-Zimmer-Wohnung mit 57 m², wartet auf Sie!","['Etagenwohnung', '•', 'Halle', 'Silberhöhe']",['Balkon'],"Miete zzgl. NK 330,50 €",Wohnfläche ca. 57 m²,Zi. 3,52,15
-13,selObject_44781213,Jetzt mieten und die ersten beiden Kaltmieten sparen!,"['Wohnung', '•', 'Magdeburg', 'Leipziger', 'Str.']",['Balkon'],Miete zzgl. NK 300 €,Wohnfläche ca. 57 m²,Zi. 3,52,15
-14,selObject_44781196,"Sehr helle, gemütliche zwei Zimmer Wohnung in Stadtfel...","['Wohnung', '•', 'Magdeburg', 'Stadtfeld', 'Ost']",['Balkon'],Miete zzgl. NK 315 €,Wohnfläche ca. 44 m²,Zi. 2,52,15
-15,selObject_44781163,Studentenbude mit Sonderkonditionen,"['Etagenwohnung', '•', 'Magdeburg', 'Neustädter', 'See']",[],"Miete zzgl. NK 171,29 €",Wohnfläche ca. 32 m²,Zi. 1,52,15
-16,selObject_44781162,So schön kann WOHNEN sein - unweit vom Neustädter See,"['Etagenwohnung', '•', 'Magdeburg', 'Neustädter', 'See']",['Balkon'],"Miete zzgl. NK 259,17 €",Wohnfläche ca. 49 m²,Zi. 2,52,15
-17,selObject_44781161,Mit uns geht es Hoch hinaus,"['Etagenwohnung', '•', 'Magdeburg', 'Neustädter', 'See']",['Balkon'],"Miete zzgl. NK 272,16 €",Wohnfläche ca. 49 m²,Zi. 2,52,15
-18,selObject_44780062,Kleine Familienidylle,"['Wohnung', '•', 'Halle', 'Nördliche', 'Neustadt']",['Balkon'],Miete zzgl. NK 315 €,Wohnfläche ca. 57 m²,Zi. 3,52,15
-19,selObject_44779173,"3 Raumwohnung mit ebenerdiger Dusche, Balkon und Pkw-S...","['Etagenwohnung', '•', 'Calbe', 'Calbe']",['Balkon'],Miete zzgl. NK 599 €,Wohnfläche ca. 100 m²,Zi. 3,52,15
-20,selObject_44777289,Sanierte 3-Zimmer-Wohnung mit Balkon und Carsharing-St...,"['Apartment', '•', 'Halle', 'Südliche', 'Neustadt']",['Balkon'],"Miete zzgl. NK 269,39 €",Wohnfläche ca. 56 m²,Zi. 3,52,15
-21,selObject_44777273,JobCenter geeignete 3-Zi. 70 m² - sofort verfügbar -...,"['Etagenwohnung', '•', 'Magdeburg', 'Neu', 'Olvenstedt']",[],Miete zzgl. NK 288 €,Wohnfläche ca. 70 m²,Zi. 3,52,15
-22,selObject_44777215,ruhig + günstig - 3-Zi. 70 m² - sofort verfügbar -...,"['Etagenwohnung', '•', 'Magdeburg', 'Neu', 'Olvenstedt']",[],Miete zzgl. NK 340 €,Wohnfläche ca. 70 m²,Zi. 3,52,15
-23,selObject_44777176,perfekt für kleine Familien 3-Zi. 70 m² - sofort verfü...,"['Etagenwohnung', '•', 'Magdeburg', 'Neu', 'Olvenstedt']",[],Miete zzgl. NK 340 €,Wohnfläche ca. 70 m²,Zi. 3,52,15
-24,selObject_44776988,Schöne Wohnung im 3. Obergeschoß!,"['Wohnung', '•', 'Stendal', 'Stendal']",['Garten'],Miete zzgl. NK 360 €,Wohnfläche ca. 72 m²,Zi. 3,52,15
-25,selObject_44776736,schöne 2-Raumwohnung in Bernburg,"['Dachgeschosswohnung', '•', 'Bernburg', 'Bernburg']",['Garten'],Miete zzgl. NK 300 €,Wohnfläche ca. 60 m²,Zi. 2,52,15
-26,selObject_44776242,Charmante 2-Raum-Wohnung in der Innenstadt,"['Dachgeschosswohnung', '•', 'Halle', 'Altstadt']",['EBK'],Miete zzgl. NK 295 €,Wohnfläche ca. 34 m²,Zi. 2,52,15
+0,selObject_44798993,Moderne Dachgeschosswohnung mit schönem Balkon,"[['Dachgeschosswohnung', '•', 'Bitterfeld-Wolfen', 'Reuden', 'a', 'd', 'Fuhne']]",['Balkon'],Miete zzgl. NK 415 €,Wohnfläche ca. 59 m²,Zi. 2,52,15
+1,selObject_44798821,Schöne 2-Raum-Dachgeschosswohnung,"[['Dachgeschosswohnung', '•', 'Salzatal', 'Schiepzig']]",[],Miete zzgl. NK 280 €,Wohnfläche ca. 43 m²,Zi. 2,52,15
+2,selObject_44797923,"Großer Komfort, durch Aufzug und Balkon! Jetzt 500 EUR...","[['Etagenwohnung', '•', 'Halle', 'Westliche', 'Neustadt']]",['Balkon'],Miete zzgl. NK 374 €,Wohnfläche ca. 73 m²,Zi. 4,52,15
+3,selObject_44797406,Sehr schöne kleine preiswerte 2-R-Wohnung in Magdebur...,"[['Etagenwohnung', '•', 'Magdeburg', 'Leipziger', 'Str.']]",[],"Miete zzgl. NK 225,50 €",Wohnfläche ca. 41 m²,Zi. 2,52,15
+4,selObject_44797392,frisch renoviert *1 MONAT KALTMIETFREI* 1 -Raumwohnung...,"[['Etagenwohnung', '•', 'Magdeburg', 'Sudenburg']]",['EBK'],Miete zzgl. NK 195 €,Wohnfläche ca. 28 m²,Zi. 1,52,15
+5,selObject_44797324,Stilvolle 2-Zimmer-Wohnung in Magdeburg mit Sonnenbalk...,"[['Wohnung', '•', 'Magdeburg', 'Werder']]",['Balkon'],Miete zzgl. NK 740 €,Wohnfläche ca. 70 m²,Zi. 2,52,15
+6,selObject_44797134,"Nachmieter gesucht ! 3-R-Wohnung, in MD-Stadtfeld Ost...","[['Etagenwohnung', '•', 'Magdeburg', 'Altstadt']]",['Balkon'],Miete zzgl. NK 490 €,Wohnfläche ca. 88 m²,Zi. 3,52,15
+7,selObject_44796767,Im 2.OG Wird was frei!!!,"[['Wohnung', '•', 'Halle', 'Südliche', 'Neustadt']]",['Balkon'],Miete zzgl. NK 316 €,Wohnfläche ca. 61 m²,Zi. 3,52,15
+8,selObject_44796201,2 - Zi. mit Balkon in Bestlage zu vermieten,"[['Wohnung', '•', 'Zerbst']]","['Balkon', 'EBK']",Miete zzgl. NK 356 €,Wohnfläche ca. 55 m²,Zi. 2,52,15
+9,selObject_44796146,Ruhige Lage und günstige Miete!,"[['Wohnung', '•', 'Dessau-Roßlau', 'Roßlau']]",[],Miete zzgl. NK 227 €,Wohnfläche ca. 50 m²,Zi. 2,52,15
+10,selObject_44796144,Günstige Zwei-Zimmer-Wohnung in Roßlau!,"[['Wohnung', '•', 'Dessau-Roßlau', 'Roßlau']]",[],Miete zzgl. NK 233 €,Wohnfläche ca. 51 m²,Zi. 2,52,15
+11,selObject_44796143,Angebot 3 für 2 nutzen!! - 4. OG rechts,"[['Etagenwohnung', '•', 'Sangerhausen', 'Sangerhausen']]",['Balkon'],Miete zzgl. NK 319 €,Wohnfläche ca. 60 m²,Zi. 3,52,15
+12,selObject_44796142,Ruhige Erdgeschosswohnung in Roßlau,"[['Wohnung', '•', 'Dessau-Roßlau', 'Roßlau']]",[],Miete zzgl. NK 293 €,Wohnfläche ca. 56 m²,Zi. 3,52,15
+13,selObject_44796041,***Großzügige Familienwohnung im DG***1 Monat kaltmiet...,"[['Dachgeschosswohnung', '•', 'Zeitz', 'Zeitz']]",['Balkon'],Miete zzgl. NK 350 €,Wohnfläche ca. 74 m²,Zi. 4,52,15
+14,selObject_44795987,Schick sanierte 3 Zimmer - EG links,"[['Etagenwohnung', '•', 'Sangerhausen', 'Sangerhausen']]",['Balkon'],Miete zzgl. NK 335 €,Wohnfläche ca. 60 m²,Zi. 3,52,15
+15,selObject_44795979,Schicke 2 Raumwohnung! - 4. OG rechts,"[['Etagenwohnung', '•', 'Sangerhausen', 'Sangerhausen']]",['Balkon'],Miete zzgl. NK 303 €,Wohnfläche ca. 51 m²,Zi. 2,52,15
+16,selObject_44795520,***Große 6-Zimmer Familienwohnung***1 Monat kaltmietfr...,"[['Dachgeschosswohnung', '•', 'Zeitz', 'Zeitz']]",['Balkon'],Miete zzgl. NK 585 €,Wohnfläche ca. 125 m²,Zi. 6,52,15
+17,selObject_44795180,Schöne Erdgeschosswohnung mit Dusche,"[['Erdgeschosswohnung', '•', 'Bitterfeld-Wolfen', 'Bitterfeld']]",[],Miete zzgl. NK 230 €,Wohnfläche ca. 42 m²,Zi. 2,52,15
+18,selObject_44795013,3-Raum-Wohnung - Erstbezug nach Modernisierung - 1....,"[['Erdgeschosswohnung', '•', 'Blankenburg', 'Blankenburg']]",['Balkon'],Miete zzgl. NK 360 €,Wohnfläche ca. 65 m²,Zi. 3,52,15
+19,selObject_44794542,Wohnen auf dem Lande,"[['Wohnung', '•', 'Kalbe', 'Jeetze']]",['Garten'],Miete zzgl. NK 242 €,Wohnfläche ca. 62 m²,Zi. 3,52,15
+20,selObject_44794541,gemütliche 3-Raumwohnung mit Balkon,"[['Wohnung', '•', 'Hohenberg-Krusemark']]",['Balkon'],Miete zzgl. NK 292 €,Wohnfläche ca. 68 m²,Zi. 3,52,15
+21,selObject_44794378,+++Dachgeschosswohnung mit Balkon in Zentrumsnähe-...,"[['Wohnung', '•', 'Stendal', 'Stendal']]",['Balkon'],Miete zzgl. NK 490 €,Wohnfläche ca. 70 m²,Zi. 2,52,15
+22,selObject_44794342,Top sanierte 2-Raumwohnung mit Einbauküche im Zentrum...,"[['Apartment', '•', 'Halle', 'Innenstadt']]",['EBK'],Miete zzgl. NK 310 €,Wohnfläche ca. 43 m²,Zi. 2,52,15
+23,selObject_44794254,FRISCH RENOVIERTE WOHNUNG in ruhiger Gegend!,"[['Wohnung', '•', 'Stendal', 'Stendal']]",[],Miete zzgl. NK 300 €,Wohnfläche ca. 45 m²,Zi. 2,52,15
+24,selObject_44794077,Für Kreative Köpfe - mit Mietbonus! - 3. OG links,"[['Etagenwohnung', '•', 'Merseburg', 'Merseburg']]",['Balkon'],Miete zzgl. NK 224 €,Wohnfläche ca. 58 m²,Zi. 3,52,15
+25,selObject_44794065,+++ Wohnung mit 2 Bäder und Balkon +++,"[['Wohnung', '•', 'Haldensleben']]",['Balkon'],Miete zzgl. NK 830 €,Wohnfläche ca. 122 m²,"Zi. 4,5",52,15
+26,selObject_44793712,Günstige Miete sichern...!,"[['Wohnung', '•', 'Merseburg', 'Merseburg']]",['Balkon'],Miete zzgl. NK 232 €,Wohnfläche ca. 58 m²,Zi. 3,52,15

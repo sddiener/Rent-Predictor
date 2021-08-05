@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_43935358,Das macht strahlend gute Laune: Willkommen im neuen...,"['Etagenwohnung', '•', 'Bremen', 'Riensberg']",['Balkon'],"Miete zzgl. NK 670,51 €",Wohnfläche ca. 71 m²,Zi. 3,22,4
-1,selObject_43935324,Ihr neues Zuhause: interessante 2-Zimmer-Wohnung (WBS),"['Etagenwohnung', '•', 'Bremen', 'Ohlenhof']",['Balkon'],"Miete zzgl. NK 307,37 €",Wohnfläche ca. 60 m²,Zi. 2,22,4
-2,selObject_43935291,Günstige 2-Zimmer-Wohnung (WBS mit 60 qm),"['Etagenwohnung', '•', 'Bremen', 'Vegesack']",['Balkon'],"Miete zzgl. NK 322,18 €",Wohnfläche ca. 59 m²,Zi. 2,22,4
-3,selObject_43935220,Hier fühlen Sie sich wohl: ansprechende 2-Zimmer-Wohnu...,"['Etagenwohnung', '•', 'Bremen', 'Aumund-Hammersbeck']",['Balkon'],"Miete zzgl. NK 443,98 €",Wohnfläche ca. 57 m²,Zi. 2,22,4
-4,selObject_43935208,Willkommen Zuhause: 2-Zimmer-Wohnung mit WBS (ab 60...,"['Etagenwohnung', '•', 'Bremen', 'Vegesack']",['Balkon'],"Miete zzgl. NK 301,86 €",Wohnfläche ca. 59 m²,Zi. 2,22,4
-5,selObject_43935127,"Ideal für die kleine Familie, frisch renovierte Wohnun...","['Etagenwohnung', '•', 'Bremen', 'St.', 'Magnus']",['Balkon'],"Miete zzgl. NK 534,35 €",Wohnfläche ca. 72 m²,Zi. 3,22,4
-6,selObject_43934917,Helle 2-Zimmer-Wohnung (WBS mit 60 qm),"['Etagenwohnung', '•', 'Bremen', 'Vegesack']",['Balkon'],"Miete zzgl. NK 304,76 €",Wohnfläche ca. 61 m²,Zi. 2,22,4
-7,selObject_43934085,Das macht strahlend gute Laune: Willkommen im neuen...,"['Etagenwohnung', '•', 'Bremen', 'Regensburger', 'Straße']",[],"Miete zzgl. NK 556,95 €",Wohnfläche ca. 70 m²,Zi. 2,22,4
-8,selObject_43933912,Seniorenwohnung ab 60: Schöne 2-Zimmer-Wohnung (WBS),"['Etagenwohnung', '•', 'Bremen', 'Vegesack']",[],"Miete zzgl. NK 261,94 €",Wohnfläche ca. 51 m²,Zi. 2,22,4
-9,selObject_43933711,Tolle 1 Zimmer-Single-Wohnung in zentraler Lage,"['Etagenwohnung', '•', 'Bremen', 'Ostertor']",[],"Miete zzgl. NK 367,47 €",Wohnfläche ca. 33 m²,Zi. 1,22,4
-10,selObject_43933656,Sofort einziehen: Schicke 2-Zimmer-Wohnung,"['Etagenwohnung', '•', 'Bremen', 'Ostertor']",['Balkon'],"Miete zzgl. NK 510,45 €",Wohnfläche ca. 62 m²,Zi. 2,22,4
-11,selObject_43933505,Für Vater - Mutter - Kind: großzügige 3-Zimmer-Wohnung,"['Etagenwohnung', '•', 'Bremen', 'Lehesterdeich']",['Balkon'],"Miete zzgl. NK 666,54 €",Wohnfläche ca. 74 m²,Zi. 3,22,4
-12,selObject_43933223,Tolle 2-Zimmer-Wohnung mit WBS,"['Etagenwohnung', '•', 'Bremen', 'Vegesack']",['Balkon'],"Miete zzgl. NK 328,43 €",Wohnfläche ca. 60 m²,Zi. 2,22,4
-13,selObject_43927500,Ruhiges Umfeld in Wulsdorf,"['Wohnung', '•', 'Bremerhaven', 'Wulsdorf']",[],Miete zzgl. NK 260 €,Wohnfläche ca. 38 m²,Zi. 1,22,4
-14,selObject_43844181,Bremen-Schwachhausen: Moderne und geräumige DG-WHG!...,"['Etagenwohnung', '•', 'Bremen', 'Gete']",['EBK'],Miete zzgl. NK 750 €,Wohnfläche ca. 78 m²,Zi. 2,22,4
-15,selObject_43840156,Warmietpreis I Wunderschönes 2-Zimmer-Apartment Wohnen...,"['Wohnung', '•', 'Bremen', 'Oberneuland']",['EBK'],Miete inkl. NK 1.430 €,Wohnfläche ca. 64 m²,Zi. 2,22,4
-16,selObject_43826749,Bremen-Osterholz: Gepflege 4-Zimmer Hochparterre-Wohnu...,"['Etagenwohnung', '•', 'Bremen', 'Ellenerbrok-Schevemoor']","['Balkon', 'EBK']",Miete zzgl. NK 600 €,Wohnfläche ca. 75 m²,Zi. 4,22,4
-17,selObject_43814067,Erstbezug nach Komplettsanierung - 2-Zimmer-Wohnung...,"['Etagenwohnung', '•', 'Bremen', 'Bahnhofsvorstadt']",['Balkon'],Miete zzgl. NK 1.100 €,Wohnfläche ca. 65 m²,Zi. 2,22,4
-18,selObject_43795224,NEUBAU ERSTBEZUG - ALTENGERECHT!,"['Etagenwohnung', '•', 'Bremen', 'Mittelshuchting']","['Balkon', 'EBK']",Miete zzgl. NK 975 €,Wohnfläche ca. 95 m²,Zi. 3,22,4
-19,selObject_43782452,Betreutes Wohnen mit Terrasse,"['Erdgeschosswohnung', '•', 'Bremen', 'Arsten']","['Garten', 'EBK']",Miete zzgl. NK 840 €,Wohnfläche ca. 55 m²,Zi. 2,22,4
-20,selObject_43770671,Über den Dächern Bremerhavens: Innenstadt 3-Zi. Whg...,"['Wohnung', '•', 'Bremerhaven', 'Mitte']",[],Miete zzgl. NK 440 €,Wohnfläche ca. 77 m²,Zi. 3,22,4
-21,selObject_43764274,Bremen - Überseestadt | Exklusiv ausgestattete 3 Zi.-E...,"['Erdgeschosswohnung', '•', 'Bremen', 'Handelshäfen']",['EBK'],Miete zzgl. NK 1.265 €,Wohnfläche ca. 111 m²,Zi. 3,22,4
-22,selObject_43746408,Mal ganz anders! 3-Zimmer-Wohnung mit Zusatz-Zimmer...,"['Etagenwohnung', '•', 'Bremerhaven', 'Lehe']",['EBK'],Miete zzgl. NK 418 €,Wohnfläche ca. 83 m²,Zi. 3,22,4
-23,selObject_43744704,1 Zi. Arpartm. 30 qm MÖBLIERT inkl. aller Kosten (inkl...,"['Apartment', '•', 'Bremerhaven', 'Geestemünde']",['EBK'],Miete inkl. NK 450 €,Wohnfläche ca. 30 m²,Zi. 1,22,4
-24,selObject_43741419,"Wer nicht will, der hat sie schon! Ein Traum von einer...","['Etagenwohnung', '•', 'Bremerhaven', 'Lehe']",['EBK'],Miete zzgl. NK 425 €,Wohnfläche ca. 85 m²,Zi. 3,22,4
-25,selObject_43723580,"## Arbergen, moderne, helle 3-Zi-Whg., top Zustand, 2...","['Etagenwohnung', '•', 'Bremen', 'Mahndorf']",['EBK'],Miete zzgl. NK 685 €,Wohnfläche ca. 86 m²,Zi. 3,22,4
-26,selObject_43720012,OBEN SEHR GUT AUFGEHOBEN NÄHE BÜRGERPARK!,"['Dachgeschosswohnung', '•', 'Bremen', 'Barkhof']",['Garten'],Miete zzgl. NK 1.300 €,Wohnfläche ca. 162 m²,Zi. 3,22,4
+0,selObject_43935973,Helle 2-Zimmer-Wohnung mit Balkon,"[['Etagenwohnung', '•', 'Bremen', 'Aumund-Hammersbeck']]",['Balkon'],"Miete zzgl. NK 440,78 €",Wohnfläche ca. 57 m²,Zi. 2,22,4
+1,selObject_43935853,Neues Nest unter dem Dach gesucht?,"[['Dachgeschosswohnung', '•', 'Bremen', 'Blumenthal']]",[],"Miete zzgl. NK 407,66 €",Wohnfläche ca. 60 m²,Zi. 3,22,4
+2,selObject_43935848,Senioren ab 60 aufgepasst: Schöne 2-Zimmer-Wohnung mit...,"[['Etagenwohnung', '•', 'Bremen', 'Vegesack']]",[],"Miete zzgl. NK 304,36 €",Wohnfläche ca. 59 m²,Zi. 2,22,4
+3,selObject_43935788,Helle 3-Zimmer-Wohnung mit Loggia in ruhiger Wohnanlag...,"[['Etagenwohnung', '•', 'Bremen', 'St.', 'Magnus']]",['Balkon'],"Miete zzgl. NK 561,38 €",Wohnfläche ca. 78 m²,Zi. 3,22,4
+4,selObject_43935773,"Familienglück: 2,5 Zimmer-Wohnung plus Mansardenzimmer","[['Erdgeschosswohnung', '•', 'Bremen', 'Regensburger', 'Straße']]",[],"Miete zzgl. NK 566,25 €",Wohnfläche ca. 76 m²,"Zi. 3,5",22,4
+5,selObject_43935365,Wir haben Großes vor! Buchen Sie einen Besichtigungste...,"[['Etagenwohnung', '•', 'Bremen', 'Lehesterdeich']]",['Balkon'],"Miete zzgl. NK 712,62 €",Wohnfläche ca. 79 m²,Zi. 3,22,4
+6,selObject_43935358,Das macht strahlend gute Laune: Willkommen im neuen...,"[['Etagenwohnung', '•', 'Bremen', 'Riensberg']]",['Balkon'],"Miete zzgl. NK 670,51 €",Wohnfläche ca. 71 m²,Zi. 3,22,4
+7,selObject_43935324,Ihr neues Zuhause: interessante 2-Zimmer-Wohnung (WBS),"[['Etagenwohnung', '•', 'Bremen', 'Ohlenhof']]",['Balkon'],"Miete zzgl. NK 307,37 €",Wohnfläche ca. 60 m²,Zi. 2,22,4
+8,selObject_43935291,Günstige 2-Zimmer-Wohnung (WBS mit 60 qm),"[['Etagenwohnung', '•', 'Bremen', 'Vegesack']]",['Balkon'],"Miete zzgl. NK 332,68 €",Wohnfläche ca. 59 m²,Zi. 2,22,4
+9,selObject_43935220,Hier fühlen Sie sich wohl: ansprechende 2-Zimmer-Wohnu...,"[['Etagenwohnung', '•', 'Bremen', 'Aumund-Hammersbeck']]",['Balkon'],"Miete zzgl. NK 443,98 €",Wohnfläche ca. 57 m²,Zi. 2,22,4
+10,selObject_43935208,Willkommen Zuhause: 2-Zimmer-Wohnung mit WBS (ab 60...,"[['Etagenwohnung', '•', 'Bremen', 'Vegesack']]",['Balkon'],"Miete zzgl. NK 312,36 €",Wohnfläche ca. 59 m²,Zi. 2,22,4
+11,selObject_43935127,"Ideal für die kleine Familie, frisch renovierte Wohnun...","[['Etagenwohnung', '•', 'Bremen', 'St.', 'Magnus']]",['Balkon'],"Miete zzgl. NK 534,35 €",Wohnfläche ca. 72 m²,Zi. 3,22,4
+12,selObject_43934917,Helle 2-Zimmer-Wohnung (WBS mit 60 qm),"[['Etagenwohnung', '•', 'Bremen', 'Vegesack']]",['Balkon'],"Miete zzgl. NK 304,76 €",Wohnfläche ca. 61 m²,Zi. 2,22,4
+13,selObject_43934085,Das macht strahlend gute Laune: Willkommen im neuen...,"[['Etagenwohnung', '•', 'Bremen', 'Regensburger', 'Straße']]",[],"Miete zzgl. NK 556,95 €",Wohnfläche ca. 70 m²,Zi. 2,22,4
+14,selObject_43933912,Seniorenwohnung ab 60: Schöne 2-Zimmer-Wohnung (WBS),"[['Etagenwohnung', '•', 'Bremen', 'Vegesack']]",[],"Miete zzgl. NK 261,94 €",Wohnfläche ca. 51 m²,Zi. 2,22,4
+15,selObject_43933711,Tolle 1 Zimmer-Single-Wohnung in zentraler Lage,"[['Etagenwohnung', '•', 'Bremen', 'Ostertor']]",[],"Miete zzgl. NK 367,47 €",Wohnfläche ca. 33 m²,Zi. 1,22,4
+16,selObject_43933656,Sofort einziehen: Schicke 2-Zimmer-Wohnung,"[['Etagenwohnung', '•', 'Bremen', 'Ostertor']]",['Balkon'],"Miete zzgl. NK 510,45 €",Wohnfläche ca. 62 m²,Zi. 2,22,4
+17,selObject_43933505,Für Vater - Mutter - Kind: großzügige 3-Zimmer-Wohnung,"[['Etagenwohnung', '•', 'Bremen', 'Lehesterdeich']]",['Balkon'],"Miete zzgl. NK 666,54 €",Wohnfläche ca. 74 m²,Zi. 3,22,4
+18,selObject_43933223,Tolle 2-Zimmer-Wohnung mit WBS,"[['Etagenwohnung', '•', 'Bremen', 'Vegesack']]",['Balkon'],"Miete zzgl. NK 328,43 €",Wohnfläche ca. 60 m²,Zi. 2,22,4
+19,selObject_43927500,Ruhiges Umfeld in Wulsdorf,"[['Wohnung', '•', 'Bremerhaven', 'Wulsdorf']]",[],Miete zzgl. NK 260 €,Wohnfläche ca. 38 m²,Zi. 1,22,4
+20,selObject_43840156,Warmietpreis I Wunderschönes 2-Zimmer-Apartment Wohnen...,"[['Wohnung', '•', 'Bremen', 'Oberneuland']]",['EBK'],Miete inkl. NK 1.430 €,Wohnfläche ca. 64 m²,Zi. 2,22,4
+21,selObject_43826749,Bremen-Osterholz: Gepflege 4-Zimmer Hochparterre-Wohnu...,"[['Etagenwohnung', '•', 'Bremen', 'Ellenerbrok-Schevemoor']]","['Balkon', 'EBK']",Miete zzgl. NK 600 €,Wohnfläche ca. 75 m²,Zi. 4,22,4
+22,selObject_43814067,Erstbezug nach Komplettsanierung - 2-Zimmer-Wohnung...,"[['Etagenwohnung', '•', 'Bremen', 'Bahnhofsvorstadt']]",['Balkon'],Miete zzgl. NK 1.100 €,Wohnfläche ca. 65 m²,Zi. 2,22,4
+23,selObject_43795224,NEUBAU ERSTBEZUG - ALTENGERECHT!,"[['Etagenwohnung', '•', 'Bremen', 'Mittelshuchting']]","['Balkon', 'EBK']",Miete zzgl. NK 975 €,Wohnfläche ca. 95 m²,Zi. 3,22,4
+24,selObject_43770671,Über den Dächern Bremerhavens: Innenstadt 3-Zi. Whg...,"[['Wohnung', '•', 'Bremerhaven', 'Mitte']]",[],Miete zzgl. NK 440 €,Wohnfläche ca. 77 m²,Zi. 3,22,4
+25,selObject_43764274,Bremen - Überseestadt | Exklusiv ausgestattete 3 Zi.-E...,"[['Erdgeschosswohnung', '•', 'Bremen', 'Handelshäfen']]",['EBK'],Miete zzgl. NK 1.265 €,Wohnfläche ca. 111 m²,Zi. 3,22,4
+26,selObject_43746408,Mal ganz anders! 3-Zimmer-Wohnung mit Zusatz-Zimmer...,"[['Etagenwohnung', '•', 'Bremerhaven', 'Lehe']]",['EBK'],Miete zzgl. NK 418 €,Wohnfläche ca. 83 m²,Zi. 3,22,4

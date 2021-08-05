@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44966573,Komplett sanierte 1-Zimmerwohnung in zentraler Lage in...,"['Dachgeschosswohnung', '•', 'Frankfurt', 'am', 'Main', 'Bergen-Enkheim']",['EBK'],Miete zzgl. NK 595 €,Wohnfläche ca. 40 m²,Zi. 1,28,6
-1,selObject_44966549,Idyllische Hochparterre-Wohnung mit Garten zu vermiete...,"['Erdgeschosswohnung', '•', 'Homberg', 'Relbehausen']",['Garten'],Miete zzgl. NK 520 €,Wohnfläche ca. 80 m²,Zi. 3,28,6
-2,selObject_44966401,ruhig gelegene 3 Zimmer Wohnunung in zentraler Lage zu...,"['Wohnung', '•', 'Kassel', 'Unterneustadt']","['Balkon', 'EBK']","Miete zzgl. NK 546,80 €",Wohnfläche ca. 76 m²,Zi. 3,28,6
-3,selObject_44966378,"Galluswarte: Zum Erstbezug nach Sanierung, stilvolle 2...","['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Griesheim']",['EBK'],Miete zzgl. NK 750 €,Wohnfläche ca. 74 m²,"Zi. 2,5",28,6
-4,selObject_44966369,Gemütliche 2 Zimmer Whg. in der Wiesbadener Altstadt,"['Etagenwohnung', '•', 'Wiesbaden', 'Wiesbaden']",['EBK'],Miete zzgl. NK 680 €,Wohnfläche ca. 67 m²,Zi. 2,28,6
-5,selObject_44966366,Schöne 1-ZKB-Wohnung in sehr guter Lage in Linden!,"['Dachgeschosswohnung', '•', 'Linden', 'Großen-Linden']",[],Miete zzgl. NK 420 €,Wohnfläche ca. 45 m²,Zi. 1,28,6
-6,selObject_44966325,Zentrale 3 ZKBB in im Herzen von Kiedrich,"['Etagenwohnung', '•', 'Kiedrich']",['EBK'],Miete zzgl. NK 790 €,Wohnfläche ca. 79 m²,Zi. 3,28,6
-7,selObject_44965559,++++Erstbezug einer schicken 4 Zimmer Whng im Herzen...,"['Etagenwohnung', '•', 'Obertshausen', 'Obertshausen']",[],Miete zzgl. NK 1.200 €,Wohnfläche ca. 92 m²,Zi. 4,28,6
-8,selObject_44965553,"Großwohnung in guter Lage von OF-Bieber, Wohnen wie im...","['Wohnung', '•', 'Offenbach', 'am', 'Main', 'Bieber']","['Balkon', 'EBK']",Miete zzgl. NK 1.400 €,Wohnfläche ca. 180 m²,Zi. 6,28,6
-9,selObject_44965547,Erstbezug nach Kernsanierung,"['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Bergen-Enkheim']",['Balkon'],Miete zzgl. NK 895 €,Wohnfläche ca. 72 m²,Zi. 2,28,6
-10,selObject_44965535,UNSERE ERSTE WOHNUNG,"['Etagenwohnung', '•', 'Fulda', 'Innenstadt']",[],Miete zzgl. NK 460 €,Wohnfläche ca. 51 m²,"Zi. 2,5",28,6
-11,selObject_44965528,Gemütliche Dachgeschosswohnung Nähe Aue,"['Wohnung', '•', 'Kassel', 'Süd']",['EBK'],Miete zzgl. NK 550 €,Wohnfläche ca. 80 m²,Zi. 3,28,6
-12,selObject_44965499,"Top moderne, hochwertige Traumwohnung, 4-Zimmer im 1....","['Wohnung', '•', 'Hanau', 'Großauheim']","['Balkon', 'EBK']",Miete zzgl. NK 1.380 €,Wohnfläche ca. 126 m²,Zi. 4,28,6
-13,selObject_44965459,Achtung! Helle Dachgeschosswohnung mit Sonnenbalkon,"['Dachgeschosswohnung', '•', 'Wiesbaden', 'Biebrich']",['Balkon'],"Miete zzgl. NK 745,28 €",Wohnfläche ca. 63 m²,Zi. 2,28,6
-14,selObject_44965356,TRADITIONELL: SCHICKE WOHNUNG MIT BALKON UND LOGGIA!,"['Wohnung', '•', 'Viernheim']",['Balkon'],Miete zzgl. NK 780 €,Wohnfläche ca. 80 m²,Zi. 3,28,6
-15,selObject_44965298,++++Erstbezug einer schicken 4 Zimmer Whng im Herzen...,"['Etagenwohnung', '•', 'Obertshausen', 'Obertshausen']",[],Miete zzgl. NK 1.200 €,Wohnfläche ca. 92 m²,Zi. 4,28,6
-16,selObject_44965177,Moderne 2-Zimmer-Penthousewohnung mit Eckbalkon,"['Dachgeschosswohnung', '•', 'Frankfurt', 'am', 'Main', 'Schwanheim']","['Balkon', 'EBK']",Miete zzgl. NK 1.090 €,Wohnfläche ca. 75 m²,Zi. 2,28,6
-17,selObject_44965173,Erstbezug in Bornheim mit Einbauküche,"['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Nordend-Ost']","['Balkon', 'EBK']",Miete zzgl. NK 1.165 €,Wohnfläche ca. 52 m²,Zi. 2,28,6
-18,selObject_44965171,3-Zimmer-Wohnung mit großer Dachterrasse,"['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Nordend-Ost']","['Balkon', 'EBK']",Miete zzgl. NK 2.795 €,Wohnfläche ca. 99 m²,Zi. 3,28,6
-19,selObject_44965170,Moderne 2-Zimmerwohnung in Sachsenhausen,"['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Sachsenhausen']","['Balkon', 'EBK']",Miete zzgl. NK 1.175 €,Wohnfläche ca. 69 m²,Zi. 2,28,6
-20,selObject_44965167,NEUBAU: Moderne 1-Zimmer-Wohnung mit Loggia,"['Apartment', '•', 'Darmstadt', 'Darmstadt']","['Balkon', 'EBK']",Miete zzgl. NK 875 €,Wohnfläche ca. 44 m²,Zi. 1,28,6
-21,selObject_44965165,Moderne 2-Zimmer-Wohnung in urbaner Lage,"['Apartment', '•', 'Darmstadt', 'Darmstadt']","['Balkon', 'EBK']",Miete zzgl. NK 1.005 €,Wohnfläche ca. 63 m²,Zi. 2,28,6
-22,selObject_44965159,Platz für die gesamte Familie: 4-Zimmer-Wohnung mit...,"['Erdgeschosswohnung', '•', 'Darmstadt', 'Darmstadt']","['Balkon', 'EBK']",Miete zzgl. NK 1.460 €,Wohnfläche ca. 107 m²,Zi. 4,28,6
-23,selObject_44965152,Moderner Erstbezug mit Einbauküche,"['Erdgeschosswohnung', '•', 'Frankfurt', 'am', 'Main', 'Nordend-Ost']","['Balkon', 'EBK']",Miete zzgl. NK 1.435 €,Wohnfläche ca. 67 m²,Zi. 2,28,6
-24,selObject_44965150,NEUBAU: 1-Zimmer-Wohnung in urbaner Lage,"['Apartment', '•', 'Darmstadt', 'Darmstadt']","['Balkon', 'EBK']",Miete zzgl. NK 665 €,Wohnfläche ca. 34 m²,Zi. 1,28,6
-25,selObject_44965148,Moderne 1-Zimmer-Wohnung mit Terrasse,"['Erdgeschosswohnung', '•', 'Darmstadt', 'Darmstadt']","['Balkon', 'EBK']",Miete zzgl. NK 840 €,Wohnfläche ca. 44 m²,Zi. 1,28,6
-26,selObject_44965147,Erstbezug in Bornheim mit Einbauküche,"['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Nordend-Ost']","['Balkon', 'EBK']",Miete zzgl. NK 1.225 €,Wohnfläche ca. 51 m²,Zi. 2,28,6
+0,selObject_44988000,Attraktive Neubauwohnung in zentraler Lage von Fulda...,"[['Erdgeschosswohnung', '•', 'Fulda', 'Innenstadt']]",['EBK'],Miete zzgl. NK 880 €,Wohnfläche ca. 80 m²,Zi. 3,28,6
+1,selObject_44987995,4 Zimmer -MWG mit Fahrstuhl und Sonnenloggia in Bad...,"[['Wohnung', '•', 'Kassel', 'Bad', 'Wilhelmshöhe']]",[],Miete zzgl. NK 1.100 €,Wohnfläche ca. 114 m²,Zi. 4,28,6
+2,selObject_44987984,Große 3 Zimmer-MWG mit Sonnenbalkon in beliebter Lage...,"[['Wohnung', '•', 'Kassel', 'West']]",['Balkon'],Miete zzgl. NK 1.100 €,Wohnfläche ca. 105 m²,Zi. 3,28,6
+3,selObject_44987980,Erstbezug: moderne 2-Zimmer-Wohnung in zentraler Lage...,"[['Erdgeschosswohnung', '•', 'Fulda', 'Innenstadt']]",['EBK'],Miete zzgl. NK 595 €,Wohnfläche ca. 52 m²,Zi. 2,28,6
+4,selObject_44987956,"2,5-Zi.-Whg. mit 50 m² Balkon","[['Kein', 'Bild'], ['Wohnung', '•', 'Kassel', 'West']]",['Balkon'],Miete zzgl. NK 450 €,Wohnfläche ca. 50 m²,"Zi. 2,5",28,6
+5,selObject_44987878,möblierte 2 Zimmer Wohnung in Frankfurt Ostend,"[['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Ostend']]",['EBK'],Miete zzgl. NK 1.199 €,Wohnfläche ca. 52 m²,Zi. 2,28,6
+6,selObject_44987607,"Bad Homburg: Zentral gelegene 2-Zimmerwohnung, ruhige...","[['Erdgeschosswohnung', '•', 'Bad', 'Homburg', 'Bad', 'Homburg']]",['EBK'],Miete zzgl. NK 820 €,Wohnfläche ca. 50 m²,Zi. 2,28,6
+7,selObject_44987439,2- Zimmer-Wohnung mit Balkon im Herzen Frankfurts,"[['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Bornheim']]","['Balkon', 'EBK']",Miete zzgl. NK 700 €,Wohnfläche ca. 38 m²,Zi. 2,28,6
+8,selObject_44987341,Schöne und moderne Single-Wohnung in Limburg,"[['Etagenwohnung', '•', 'Limburg', 'Limburg']]","['Garten', 'EBK']",Miete zzgl. NK 700 €,Wohnfläche ca. 75 m²,Zi. 2,28,6
+9,selObject_44987309,Wöllstadt: Sehr schöne DG-Whg. in Feldrandlage zum...,"[['Etagenwohnung', '•', 'Wöllstadt', 'Ober-Wöllstadt']]",['Balkon'],Miete zzgl. NK 650 €,Wohnfläche ca. 70 m²,Zi. 2,28,6
+10,selObject_44987238,WRS Immobilien - FFM-Schwanheim - möblierte 2 Zimmer...,"[['Dachgeschosswohnung', '•', 'Frankfurt', 'am', 'Main', 'Schwanheim']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 900 €,Wohnfläche ca. 65 m²,Zi. 2,28,6
+11,selObject_44987237,WRS Immobilien - FFM-Schwanheim - möblierte 2 Zimmer...,"[['Dachgeschosswohnung', '•', 'Frankfurt', 'am', 'Main', 'Schwanheim']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 900 €,Wohnfläche ca. 65 m²,Zi. 2,28,6
+12,selObject_44987235,Dachwohnung in Zentraler Lage Viernheim nähe OEG Bahnh...,"[['Dachgeschosswohnung', '•', 'Viernheim']]",['EBK'],Miete zzgl. NK 670 €,Wohnfläche ca. 67 m²,Zi. 1,28,6
+13,selObject_44986958,Erstbezug nach Renovierung und Möblierung: Apartment...,"[['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Sachsenhausen']]",[],Miete zzgl. NK 795 €,Wohnfläche ca. 35 m²,Zi. 1,28,6
+14,selObject_44986956,Westend: Moderne 3-Zimmer-Wohnung mit Balkon und 2...,"[['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Westend-Süd']]",['Balkon'],Miete zzgl. NK 2.830 €,Wohnfläche ca. 82 m²,Zi. 3,28,6
+15,selObject_44986954,Sanierte 2-Zimmer-Altbauwohnung mit Balkon (6.0 Sterne...,"[['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Ostend']]",['Balkon'],Miete zzgl. NK 1.640 €,Wohnfläche ca. 60 m²,Zi. 2,28,6
+16,selObject_44986944,Hochwertig möbliertes Business-Apartment in ruhiger...,"[['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Westend-Süd']]",[],Miete zzgl. NK 1.190 €,Wohnfläche ca. 30 m²,Zi. 1,28,6
+17,selObject_44986876,Penthouse-Feeling mit Dachterrasse + Balkon: 3 Zimmer...,"[['Etagenwohnung', '•', 'Mühlheim', 'Lämmerspiel']]",['Balkon'],Miete zzgl. NK 1.100 €,Wohnfläche ca. 86 m²,Zi. 3,28,6
+18,selObject_44986823,2 - Zimmer Küche / Bad Wohnung in Malsfeld Voll...,"[['Erdgeschosswohnung', '•', 'Malsfeld', 'Malsfeld']]",['EBK'],Miete zzgl. NK 450 €,Wohnfläche ca. 52 m²,Zi. 2,28,6
+19,selObject_44986756,"Möbliertes WG-Zimmer in HerrenWG mit gr. Garten, Tages...","[['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Dornbusch']]","['Garten', 'EBK']",Miete zzgl. NK 450 €,Wohnfläche ca. 17 m²,Zi. 1,28,6
+20,selObject_44986747,Frankfurt am Main (Nordend); Vollmöbliertes Apartment,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Nordend-West']]",['EBK'],"Miete zzgl. NK 918,33 €",Wohnfläche ca. 46 m²,Zi. 2,28,6
+21,selObject_44986400,"Moderne 2 Zimmerwohnung mit EBK, Citylage","[['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Innenstadt']]",['EBK'],Miete zzgl. NK 990 €,Wohnfläche ca. 55 m²,Zi. 2,28,6
+22,selObject_44986317,Neubau in Ahnatal sucht nette Mieter,"[['Wohnung', '•', 'Ahnatal', 'Weimar']]",['Balkon'],Miete zzgl. NK 805 €,Wohnfläche ca. 85 m²,Zi. 3,28,6
+23,selObject_44986298,Schöne 3 ZKB-Wohnung in Herborn (Stadt),"[['Wohnung', '•', 'Herborn', 'Herborn']]",[],Miete zzgl. NK 610 €,Wohnfläche ca. 85 m²,Zi. 3,28,6
+24,selObject_44986270,4 Zimmer & zwei Dachterrassen// Staffelgeschoss //...,"[['Penthouse', '•', 'Mühlheim', 'Lämmerspiel']]",['Balkon'],Miete zzgl. NK 1.150 €,Wohnfläche ca. 91 m²,Zi. 4,28,6
+25,selObject_44986253,Schöne 2 Zimmer Wohnung in ruhiger Lage,"[['Wohnung', '•', 'Kassel', 'Niederzwehren']]",['Balkon'],Miete zzgl. NK 455 €,Wohnfläche ca. 57 m²,Zi. 2,28,6
+26,selObject_44986205,2-Zimmer-Wohnung im 3. OG mit EBK,"[['Wohnung', '•', 'Darmstadt', 'Darmstadt']]",['EBK'],Miete zzgl. NK 460 €,Wohnfläche ca. 45 m²,Zi. 2,28,6

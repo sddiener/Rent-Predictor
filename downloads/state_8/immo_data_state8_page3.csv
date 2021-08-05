@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_45025442,NEU 2-ZW mit Balkon in Karlsruhe-Südstadt,"['Wohnung', '•', 'Karlsruhe', 'Südstadt']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 630 €,Wohnfläche ca. 62 m²,Zi. 2,3,8
-1,selObject_45025309,NEU 3-Zimmer-Wohnung mit 90 m² Wfl. im 2. Stock,"['Wohnung', '•', 'Hohenstein', 'Bernloch']","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']",Miete zzgl. NK 804 €,Wohnfläche ca. 90 m²,Zi. 3,3,8
-2,selObject_45025253,NEU Stadtwohnung mit viel Platz,"['Etagenwohnung', '•', 'Titisee-Neustadt', 'Neustadt']","['NEU', 'NEU']",Miete zzgl. NK 850 €,Wohnfläche ca. 130 m²,Zi. 4,3,8
-3,selObject_45025172,NEU Schöne 1 Zimmer-Neubauwohnung,"['Kein', 'Bild']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 520 €,Wohnfläche ca. 37 m²,Zi. 1,3,8
-4,selObject_45025162,NEU 2-Zimmer-Seniorenwohnung in perfekter Lage in Spaichin...,"['Erdgeschosswohnung', '•', 'Spaichingen']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 500 €,Wohnfläche ca. 63 m²,Zi. 2,3,8
-5,selObject_45025149,"NEU Ruhig gelegene 2,5 Zimmer Wohnung im begehrten Stadtte...","['Wohnung', '•', 'Neckarsulm', 'Neckarsulm']","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']",Miete zzgl. NK 700 €,Wohnfläche ca. 79 m²,"Zi. 2,5",3,8
-6,selObject_45025095,NEU Zentral Wohnen,"['Kein', 'Bild']","['NEU', 'NEU']",Miete zzgl. NK 900 €,Wohnfläche ca. 119 m²,Zi. 4,3,8
-7,selObject_45025072,NEU Hier warten 57 m² zum Wohlfühlen auf Sie - ab sofort...,"['Wohnung', '•', 'Mannheim', 'Seckenheim']","['NEU', 'NEU']",Miete zzgl. NK 680 €,Wohnfläche ca. 57 m²,"Zi. 2,5",3,8
-8,selObject_45024943,NEU Wohnung im Grünen,"['Erdgeschosswohnung', '•', 'Heidenheim', 'Mergelstetten']","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 700 €,Wohnfläche ca. 78 m²,"Zi. 3,5",3,8
-9,selObject_45024915,"NEU ERSTBEZUG nach Sanierung, Komfortable 3 Zi-Wohnung...","['Etagenwohnung', '•', 'Mannheim', 'Oststadt']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 1.315 €,Wohnfläche ca. 90 m²,Zi. 3,3,8
-10,selObject_45024830,NEU 2 Zimmer- DG Wohnung in Feudenheim in zentraler + ruhi...,"['Wohnung', '•', 'Mannheim', 'Feudenheim']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 525 €,Wohnfläche ca. 68 m²,,3,8
-11,selObject_45024803,"NEU LB-Pflugfelden - Schicke 2,5 Zimmer DG-Wohnung in Stad...","['Dachgeschosswohnung', '•', 'Ludwigsburg', 'West']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 970 €,Wohnfläche ca. 82 m²,"Zi. 2,5",3,8
-12,selObject_45024795,NEU 1 Zimmer Wohnung Fürstenberg/ Wollmatingen,"['Apartment', '•', 'Konstanz', 'Fürstenberg']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 475 €,Wohnfläche ca. 25 m²,Zi. 1,3,8
-13,selObject_45024779,NEU Helle EG-Single-Wohnung mit sonniger Terrasse,"['Wohnung', '•', 'Rheinhausen', 'Oberhausen']","['NEU', 'NEU']",Miete zzgl. NK 400 €,Wohnfläche ca. 46 m²,Zi. 2,3,8
-14,selObject_45024759,NEU KA-Durlach-Bahnhofsnähe / helle & sanierte 3-Zimmer-Wo...,"['Wohnung', '•', 'Karlsruhe', 'Durlach']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 770 €,Wohnfläche ca. 60 m²,,3,8
-15,selObject_45024691,NEU 1-Zimmer-Möblierte Whg. mit Balkon,"['Wohnung', '•', 'Heimsheim']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 600 €,Wohnfläche ca. 34 m²,Zi. 1,3,8
-16,selObject_45024326,NEU Modern möblierte Neubauwohnung mit Terrasse und TG in...,"['Wohnung', '•', 'Ludwigsburg', 'Mitte']","['NEU', 'NEU']",Miete zzgl. NK 1.390 €,Wohnfläche ca. 49 m²,Zi. 2,3,8
-17,selObject_45024321,NEU **Gemütliche 2 Zimmer Balkonwohnung mit Teilrheinblick...,"['Wohnung', '•', 'Büsingen']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 498 €,Wohnfläche ca. 43 m²,Zi. 2,3,8
-18,selObject_45024311,NEU Schön möbliertes Apartment in Stuttgart Mitte,"['Wohnung', '•', 'Stuttgart']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 1.190 €,Wohnfläche ca. 37 m²,Zi. 2,3,8
-19,selObject_45024304,NEU 2 ZKB -Penthousewohnung in Heidelberg-Pfaffengrund,"['Dachgeschosswohnung', '•', 'Heidelberg', 'Pfaffengrund']","['NEU', 'NEU']",Miete zzgl. NK 812 €,Wohnfläche ca. 78 m²,Zi. 2,3,8
-20,selObject_45024174,NEU Zentral gelegene 3-ZKB Wohnung mit Balkon zu vermieten,"['Wohnung', '•', 'Stuttgart', 'Rot']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 665 €,Wohnfläche ca. 61 m²,Zi. 3,3,8
-21,selObject_45024138,"NEU Großzügige 4,5-Zi.-EG-Wohnung mit Garten, EBK, Garage...","['Erdgeschosswohnung', '•', 'Sindelfingen', 'Mitte']","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 1.250 €,Wohnfläche ca. 110 m²,Zi. 4,3,8
-22,selObject_45024118,NEU Gut ausgestattete 2 Zimmerwohnung in Herlikofen,"['Wohnung', '•', 'Schwäbisch', 'Gmünd', 'Herlikofen']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 500 €,Wohnfläche ca. 52 m²,Zi. 2,3,8
-23,selObject_45024099,NEU Gesucht-Gefunden-Gemietet!,"['Etagenwohnung', '•', 'Waldshut-Tiengen', 'Tiengen']","['NEU', 'NEU']",Miete zzgl. NK 850 €,Wohnfläche ca. 90 m²,Zi. 3,3,8
-24,selObject_45024058,"NEU Senioren-Residenz 2,5 Zi. 70 - 84 m² 1.060 € - 2.48...","['Apartment', '•', 'Tübingen', 'Waldhäuser']","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.060 €,Wohnfläche ca. 70 m²,"Zi. 2,5",3,8
-25,selObject_45024051,NEU 3-Zimmer Neubau Wohnung in Schwäbisch Gmünd,"['Wohnung', '•', 'Schwäbisch', 'Gmünd', 'Schwäbisch', 'Gmünd']","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.100 €,Wohnfläche ca. 83 m²,Zi. 3,3,8
-26,selObject_45024013,NEU Senioren-Residenz 1 Zi. 40 - 44 m² 880 € - 1.260 €,"['Apartment', '•', 'Tübingen', 'Waldhäuser']","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']",Miete zzgl. NK 880 €,Wohnfläche ca. 40 m²,Zi. 1,3,8
+0,selObject_45044194,NEU Altbauflair mit Blick aufs Blühende Barock-Schloss.,"[['Dachgeschosswohnung', '•', 'Ludwigsburg', 'Mitte']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 1.470 €,Wohnfläche ca. 113 m²,"Zi. 4,5",3,8
+1,selObject_45044161,"NEU Wohnung zu vermieten, 4-Zimmer","[['Wohnung', '•', 'Pliezhausen', 'Pliezhausen']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 1.200 €,Wohnfläche ca. 113 m²,Zi. 4,3,8
+2,selObject_45044149,NEU Sehr gepflegte große Wohnung in Top Lage in Albstadt-E...,"[['Dachgeschosswohnung', '•', 'Albstadt', 'Ebingen']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 890 €,Wohnfläche ca. 131 m²,Zi. 3,3,8
+3,selObject_45044125,NEU 1- Zimmer Wohnung in Stuttgart West,"[['Apartment', '•', 'Stuttgart', 'Mitte']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 580 €,Wohnfläche ca. 36 m²,Zi. 1,3,8
+4,selObject_45044040,NEU MÖBLIERT - SONNIG UND SCHICK - Tolle Dachgeschosswohnu...,"[['Wohnung', '•', 'Stuttgart', 'Ost']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 1.120 €,Wohnfläche ca. 66 m²,Zi. 2,3,8
+5,selObject_45044037,"NEU 4,0 Zi.- Neubau-Wohnung im 1. OG mit Balkon","[['Wohnung', '•', 'Konstanz', 'Petershausen']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 1.950 €,Wohnfläche ca. 125 m²,Zi. 4,3,8
+6,selObject_45044027,NEU MÖBLIERT - COOLES DESIGN in WEST - Stylische 2-Zimmer-...,"[['Wohnung', '•', 'Stuttgart', 'West']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 1.350 €,Wohnfläche ca. 40 m²,Zi. 2,3,8
+7,selObject_45044000,NEU Attraktiv und ruhig wohnen in Altensteig,"[['Apartment', '•', 'Altensteig', 'Altensteig']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 360 €,Wohnfläche ca. 44 m²,Zi. 1,3,8
+8,selObject_45043904,"NEU F&D | Exquisite 4,5-Zimmer-Wohnung in ruhiger & zentr...","[['Etagenwohnung', '•', 'Tuttlingen', 'Eßlingen']]","['NEU', 'NEU']",Miete zzgl. NK 1.090 €,Wohnfläche ca. 96 m²,"Zi. 4,5",3,8
+9,selObject_45043636,NEU 3-Zimmer Wohnung in nähe der Innenstadt von Breisach!,"[['Wohnung', '•', 'Breisach', 'Breisach']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 820 €,Wohnfläche ca. 92 m²,Zi. 3,3,8
+10,selObject_45043616,NEU Große 4-Zimmer-Maisonette-Wohnung in der Altstadt,"[['Kein', 'Bild'], ['Maisonette', '•', 'Rottweil', 'Rottweil']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 900 €,Wohnfläche ca. 105 m²,Zi. 4,3,8
+11,selObject_45043599,NEU F&D | Exklusive Maisonette-Wohnung in ruhiger & zentra...,"[['Maisonette', '•', 'Tuttlingen', 'Tuttlingen']]","['NEU', 'NEU']",Miete zzgl. NK 1.200 €,Wohnfläche ca. 101 m²,"Zi. 3,5",3,8
+12,selObject_45043589,NEU Helle Einzimmerwohnung,"[['Apartment', '•', 'Holzgerlingen']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 600 €,Wohnfläche ca. 21 m²,Zi. 1,3,8
+13,selObject_45043586,"NEU Sauberes, gepflegtes1-Zimmer Appartement mit Singleküc...","[['Etagenwohnung', '•', 'Karlsruhe', 'Hagsfeld']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 420 €,Wohnfläche ca. 44 m²,Zi. 1,3,8
+14,selObject_45043581,"NEU 2,5 Zimmer Dachgeschoss mit EBK und Garten am Kurpark","[['Dachgeschosswohnung', '•', 'Bad', 'Dürrheim', 'Bad', 'Dürrheim']]","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 600 €,Wohnfläche ca. 87 m²,"Zi. 2,5",3,8
+15,selObject_45043519,NEU Möblierte 1 Zimmer Stadt Wohnung am Karlstor,"[['Apartment', '•', 'Karlsruhe', 'Südweststadt']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 500 €,Wohnfläche ca. 45 m²,Zi. 1,3,8
+16,selObject_45043436,"NEU Großzügige 3,5-Zimmer Wohnung mit Loggia und Speckstei...","[['Dachgeschosswohnung', '•', 'Weikersheim', 'Elpersheim']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 780 €,Wohnfläche ca. 121 m²,"Zi. 3,5",3,8
+17,selObject_45043417,"NEU Nur für Senioren mit Wohnberechtigungsschein! 1,5-Zi....","[['Wohnung', '•', 'Freiburg', 'Zähringen']]","['NEU', 'NEU']",Miete zzgl. NK 337 €,Wohnfläche ca. 45 m²,"Zi. 1,5",3,8
+18,selObject_45043295,NEU Hier wird Entspannung groß geschrieben - Tageslichtbad...,"[['Wohnung', '•', 'Freiburg', 'Altstadt']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 1.750 €,Wohnfläche ca. 116 m²,Zi. 4,3,8
+19,selObject_45043276,NEU Stuttgart-West: 4-Zimmer-Maisonette-Wohnung mit Balkon...,"[['Maisonette', '•', 'Stuttgart', 'West']]","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.890 €,Wohnfläche ca. 124 m²,Zi. 4,3,8
+20,selObject_45043211,NEU Gepflegte 2-Zimmer-DG-Wohnung in Stuttgart-West,"[['Dachgeschosswohnung', '•', 'Stuttgart', 'West']]","['NEU', 'NEU']",Miete zzgl. NK 975 €,Wohnfläche ca. 65 m²,Zi. 2,3,8
+21,selObject_45043174,NEU URBANES LEBEN IN TOP-LAGE,"[['Apartment', '•', 'Heilbronn', 'Heilbronn']]","['NEU', 'NEU']",Miete zzgl. NK 423 €,Wohnfläche ca. 21 m²,Zi. 1,3,8
+22,selObject_45043170,NEU Wunderschöne und modern möblierte Neubauwohnung mit...,"[['Wohnung', '•', 'Gerlingen']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 1.190 €,Wohnfläche ca. 46 m²,Zi. 2,3,8
+23,selObject_45043169,NEU Modern möblierte Wohnung mit Balkon Stuttgart West,"[['Wohnung', '•', 'Stuttgart', 'West']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 1.390 €,Wohnfläche ca. 52 m²,Zi. 2,3,8
+24,selObject_45043159,"NEU 3,0 Zi.- Neubau Wohnung im Erdgeschoss mit Balkon","[['Wohnung', '•', 'Konstanz', 'Petershausen']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 1.590 €,Wohnfläche ca. 98 m²,Zi. 3,3,8
+25,selObject_45043143,"NEU Helle 3,5-Zimmer-Maisonette Wohnung zum Süden hin zent...","[['Maisonette', '•', 'Tuningen']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 920 €,Wohnfläche ca. 118 m²,"Zi. 3,5",3,8
+26,selObject_45043065,NEU 3 Zimmer Neubauwohung mit Balkon,"[['Etagenwohnung', '•', 'Sontheim', 'Sontheim']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 720 €,Wohnfläche ca. 80 m²,Zi. 3,3,8

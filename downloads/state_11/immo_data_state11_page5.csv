@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_45008640,"NEU Nachmieter gesucht: Helle 3,5-Zimmer-Wohnung mit EBK...","['Wohnung', '•', 'Berlin', 'Waidmannslust']","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']","Miete zzgl. NK 736,87 €",Wohnfläche ca. 91 m²,"Zi. 3,5",5,11
-1,selObject_45008457,"NEU 2 Zimmer-Altbauwohnung, modern eingerichtet, in unmitt...","['Wohnung', '•', 'Berlin', 'Charlottenburg']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 1.000 €,Wohnfläche ca. 66 m²,Zi. 2,5,11
-2,selObject_45008057,NEU City-Dachgeschoss in Nachbarschaft des Deutschen Theat...,"['Dachgeschosswohnung', '•', 'Berlin', 'Mitte']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 1.360 €,Wohnfläche ca. 72 m²,Zi. 2,5,11
-3,selObject_45007005,NEU WOHN T RAUM - THE METROPOLITAN PARK IN BERLIN STAAKEN,"['Etagenwohnung', '•', 'Berlin', 'Spandau']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 1.085 €,Wohnfläche ca. 97 m²,Zi. 3,5,11
-4,selObject_45007004,NEU WOHN T RAUM - Leben im Rosenhof in Berlin-Pankow,"['Etagenwohnung', '•', 'Berlin', 'Rosenthal']","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.035 €,Wohnfläche ca. 65 m²,Zi. 2,5,11
-5,selObject_45006107,"NEU Wunderschöne 111 m² Maisonette-Wohnung, möbliert zur...","['Maisonette', '•', 'Berlin', 'Pankow']","['NEU', 'NEU', 'Garten', 'EBK']",Miete inkl. NK 2.500 €,Wohnfläche ca. 111 m²,Zi. 4,5,11
-6,selObject_45003996,NEU Willkommen Zuhause: ansprechende 2-Zimmer-Wohnung,"['Etagenwohnung', '•', 'Berlin', 'Britz']","['NEU', 'NEU', 'Balkon', 'EBK']","Miete zzgl. NK 636,64 €",Wohnfläche ca. 56 m²,Zi. 2,5,11
-7,selObject_45003599,NEU Attraktiv! 3-Zimmer-Wohnung,"['Etagenwohnung', '•', 'Berlin', 'Borsigwalde']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 571,16 €",Wohnfläche ca. 66 m²,Zi. 3,5,11
-8,selObject_45003310,NEU Sofort frei! Schöne Familienwohnung mit Balkon,"['Etagenwohnung', '•', 'Berlin', 'Alt-Hohenschönhausen']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 1.099 €,Wohnfläche ca. 81 m²,Zi. 3,5,11
-9,selObject_45003307,NEU Frisch saniert! Geräumiges Apartment für 2 mit barrier...,"['Erdgeschosswohnung', '•', 'Berlin', 'Hellersdorf']","['NEU', 'NEU']",Miete zzgl. NK 619 €,Wohnfläche ca. 70 m²,Zi. 2,5,11
-10,selObject_45003304,NEU Familienwohnung mit Balkon,"['Etagenwohnung', '•', 'Berlin', 'Alt-Hohenschönhausen']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 1.199 €,Wohnfläche ca. 93 m²,Zi. 4,5,11
-11,selObject_45003302,NEU Süßes Apartment für 2!,"['Etagenwohnung', '•', 'Berlin', 'Hellersdorf']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 619 €,Wohnfläche ca. 56 m²,Zi. 2,5,11
-12,selObject_45003298,NEU Wohnen am Ballonplatz mit traumhaftem Ausblick!,"['Dachgeschosswohnung', '•', 'Berlin', 'Karow']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 699 €,Wohnfläche ca. 56 m²,Zi. 2,5,11
-13,selObject_45003295,"NEU Kleines Apartment nahe Flughafensee, ohne Fahrstuhl...","['Etagenwohnung', '•', 'Berlin', 'Tegel']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 569 €,Wohnfläche ca. 44 m²,"Zi. 1,5",5,11
-14,selObject_45003291,NEU Dachgeschosswohnung zum Wohlfühlen,"['Dachgeschosswohnung', '•', 'Berlin', 'Karow']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 699 €,Wohnfläche ca. 57 m²,Zi. 2,5,11
-15,selObject_45003289,NEU Für Sie saniert! Apartment mit Balkon und Aufzug!,"['Etagenwohnung', '•', 'Berlin', 'Hellersdorf']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 619 €,Wohnfläche ca. 55 m²,Zi. 2,5,11
-16,selObject_45003288,NEU Saniertes Mini-Familienapartment mit Badewanne!,"['Etagenwohnung', '•', 'Berlin', 'Hellersdorf']","['NEU', 'NEU']",Miete zzgl. NK 659 €,Wohnfläche ca. 53 m²,Zi. 3,5,11
-17,selObject_45003287,NEU Die Nr. 1- Wohnung für Alleinstehende!!,"['Dachgeschosswohnung', '•', 'Berlin', 'Hellersdorf']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 459 €,Wohnfläche ca. 41 m²,Zi. 1,5,11
-18,selObject_45003285,NEU Frisch saniert! Apartment für die kleine Familie in...,"['Etagenwohnung', '•', 'Berlin', 'Hellersdorf']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 659 €,Wohnfläche ca. 56 m²,Zi. 3,5,11
-19,selObject_45003283,NEU Single-Apartment mit Aufzug und Balkon!,"['Etagenwohnung', '•', 'Berlin', 'Hellersdorf']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 449 €,Wohnfläche ca. 34 m²,Zi. 1,5,11
-20,selObject_45000732,NEU Nordischer Stil im Süden Berlins,"['Apartment', '•', 'Berlin', 'Buckow']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 1.500 €,Wohnfläche ca. 73 m²,Zi. 3,5,11
-21,selObject_45000392,NEU Eindrucksvolles Stadtdomizil in Berlins Mitte,"['Apartment', '•', 'Berlin', 'Mitte']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 2.350 €,Wohnfläche ca. 153 m²,Zi. 2,5,11
-22,selObject_44999160,NEU Großzügige 2 Zi.Maisonette-Wohnung im Industrie-Denkma...,"['Maisonette', '•', 'Berlin', 'Köpenick']","['NEU', 'NEU']","Miete zzgl. NK 1.128,63 €",Wohnfläche ca. 90 m²,Zi. 2,5,11
-23,selObject_44998844,NEU HOMESK - 4-Zimmer-Wohnung mit 2 Balkons in Niederschön...,"['Etagenwohnung', '•', 'Berlin', 'Niederschöneweide']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 1.470 €,Wohnfläche ca. 100 m²,Zi. 4,5,11
-24,selObject_44998490,"NEU Moderne 2-Raumwohnung, zentral gelegen","['Etagenwohnung', '•', 'Berlin', 'Mitte']","['NEU', 'NEU', 'EBK']","Miete zzgl. NK 681,96 €",Wohnfläche ca. 56 m²,Zi. 2,5,11
-25,selObject_44998348,NEU Carte Blanche - Neubau mit schönem Außenbereich und...,"['Etagenwohnung', '•', 'Berlin', 'Charlottenburg']","['NEU', 'NEU', 'Balkon', 'Garten']","Miete zzgl. NK 1.598,40 €",Wohnfläche ca. 67 m²,"Zi. 2,5",5,11
-26,selObject_44998278,NEU WG´s aufgepasst - 4 Zimmer Traum in Mitte!,"['Etagenwohnung', '•', 'Berlin', 'Mitte']","['NEU', 'NEU']","Miete zzgl. NK 1.986,24 €",Wohnfläche ca. 124 m²,Zi. 4,5,11
+0,selObject_45023216,NEU 4-Zimmer-Wohnung in Berlin Zehlendorf,"[['Etagenwohnung', '•', 'Berlin', 'Nikolassee']]","['NEU', 'NEU', 'Balkon', 'EBK']","Miete zzgl. NK 750,84 €",Wohnfläche ca. 90 m²,Zi. 4,5,11
+1,selObject_45022700,NEU Sonnige 1-Zimmer Wohnung in Steglitz !,"[['Erdgeschosswohnung', '•', 'Berlin', 'Lankwitz']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 541 €,Wohnfläche ca. 54 m²,Zi. 1,5,11
+2,selObject_45022413,NEU Ihr neues Zuhause - 2 Zimmer Wohnung zur Miete mit...,"[['Wohnung', '•', 'Berlin', 'Rudow']]","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.100 €,Wohnfläche ca. 56 m²,Zi. 2,5,11
+3,selObject_45021904,NEU NEUBAU - ERSTBEZUG - 2 ZIMMER WOHNUNG - EINBAUKÜCHE -...,"[['Etagenwohnung', '•', 'Berlin', 'Prenzlauer', 'Berg']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 999 €,Wohnfläche ca. 43 m²,Zi. 2,5,11
+4,selObject_45021688,NEU NEUBAU - ERSTBEZUG - 2 ZIMMER WOHNUNG - EINBAUKÜCHE -...,"[['Etagenwohnung', '•', 'Berlin', 'Prenzlauer', 'Berg']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 999 €,Wohnfläche ca. 43 m²,Zi. 2,5,11
+5,selObject_45021639,NEU Sanierte 1-Zimmer Wohnung mitten in Prenzlauer Berg!,"[['Etagenwohnung', '•', 'Berlin', 'Prenzlauer', 'Berg']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 880 €,Wohnfläche ca. 40 m²,Zi. 1,5,11
+6,selObject_45021508,"NEU ERSTBEZUG NACH SANIERUNG Schöne, sonnige Wohnung mit...","[['Apartment', '•', 'Berlin', 'Friedrichshain']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 725 €,Wohnfläche ca. 35 m²,Zi. 1,5,11
+7,selObject_45020989,NEU Pärchenwohnung zum Wohlfühlen,"[['Etagenwohnung', '•', 'Berlin', 'Friedrichsfelde']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 699 €,Wohnfläche ca. 60 m²,Zi. 2,5,11
+8,selObject_45020988,NEU Geräumiges Apartment für 2!,"[['Etagenwohnung', '•', 'Berlin', 'Friedrichsfelde']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 669 €,Wohnfläche ca. 57 m²,Zi. 2,5,11
+9,selObject_45020987,NEU Single-Wohnung mit riesen Balkon!,"[['Etagenwohnung', '•', 'Berlin', 'Friedrichsfelde']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 499 €,Wohnfläche ca. 37 m²,Zi. 1,5,11
+10,selObject_45020986,NEU Schöne Pärchenwohnung zum Wohlfühlen!,"[['Etagenwohnung', '•', 'Berlin', 'Friedrichsfelde']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 679 €,Wohnfläche ca. 49 m²,Zi. 2,5,11
+11,selObject_45020985,NEU Süße Singlewohnung mit Balkon! Mit Renovierungskostenz...,"[['Etagenwohnung', '•', 'Berlin', 'Friedrichsfelde']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 549 €,Wohnfläche ca. 42 m²,Zi. 1,5,11
+12,selObject_45017624,NEU MÖBLIERTES LOFT MIT WEITBLICK,"[['Loft-Studio-Atelier', '•', 'Berlin', 'Mitte']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 1.800 €,Wohnfläche ca. 60 m²,Zi. 2,5,11
+13,selObject_45017589,NEU ERSTBEZUG NEUBAUMIT EXKLUSIVER FAHRSTUHL NUTZ.,"[['Dachgeschosswohnung', '•', 'Berlin', 'Tempelhof']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 1.990 €,Wohnfläche ca. 100 m²,Zi. 4,5,11
+14,selObject_45017439,NEU MÖBLIERTE DACHPERLE MIT MODERNER EINBAUKÜCHE,"[['Dachgeschosswohnung', '•', 'Berlin', 'Mitte']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 1.200 €,Wohnfläche ca. 73 m²,Zi. 2,5,11
+15,selObject_45017330,NEU HINGUCKER MIT DACHTERRASSE,"[['Dachgeschosswohnung', '•', 'Berlin', 'Mitte']]","['NEU', 'NEU']",Miete zzgl. NK 2.300 €,Wohnfläche ca. 71 m²,Zi. 2,5,11
+16,selObject_45017320,NEU ERSTBEZUG: MÖBLIERT MIT BALKON UND PANORAMABLICK,"[['Etagenwohnung', '•', 'Berlin', 'Wedding']]","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 1.050 €,Wohnfläche ca. 65 m²,Zi. 1,5,11
+17,selObject_45017282,NEU ALL INKLUSIVE IN ZENTRALER LAGE,"[['Etagenwohnung', '•', 'Berlin', 'Mitte']]","['NEU', 'NEU']",Miete zzgl. NK 1.400 €,Wohnfläche ca. 38 m²,Zi. 1,5,11
+18,selObject_45017223,NEU DACHGESCHOSS MIT WINTERGARTEN UND AUSSICHT,"[['Dachgeschosswohnung', '•', 'Berlin', 'Spandau']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 1.600 €,Wohnfläche ca. 160 m²,Zi. 4,5,11
+19,selObject_45017208,NEU WOHLFÜHLEN IM GRÜNEN BERLIN-MAISONETTE,"[['Maisonette', '•', 'Berlin', 'Dahlem']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 1.635 €,Wohnfläche ca. 136 m²,Zi. 3,5,11
+20,selObject_45017196,NEU ELEGANTE EINRICHTUNG WARTET AUF NEUEN MIETER IN ZENTRA...,"[['Etagenwohnung', '•', 'Berlin', 'Mitte']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 2.200 €,Wohnfläche ca. 74 m²,Zi. 2,5,11
+21,selObject_45017087,NEU ERSTBEZUG UND ZENTRAL,"[['Dachgeschosswohnung', '•', 'Berlin', 'Tempelhof']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 1.950 €,Wohnfläche ca. 95 m²,Zi. 3,5,11
+22,selObject_45016935,NEU PENTHOUSE MIT RUNDUM-TERRASSE UND SPREEBLICK,"[['Penthouse', '•', 'Berlin', 'Charlottenburg']]","['NEU', 'NEU']",Miete zzgl. NK 3.150 €,Wohnfläche ca. 125 m²,"Zi. 3,5",5,11
+23,selObject_45016892,NEU LICHTDURCHFLUTETE PERLE,"[['Etagenwohnung', '•', 'Berlin', 'Mitte']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 1.600 €,Wohnfläche ca. 46 m²,Zi. 1,5,11
+24,selObject_45016862,NEU SONNIGER TERASSENAUSBLICK ALS ERSTBEZUG,"[['Wohnung', '•', 'Berlin', 'Wittenau']]","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 2.200 €,Wohnfläche ca. 90 m²,Zi. 3,5,11
+25,selObject_45016645,NEU PENTHOUSE MIT SONNENTERRASSE - ZENTRAL & RUHIG,"[['Penthouse', '•', 'Berlin', 'Wilmersdorf']]","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 4.700 €,Wohnfläche ca. 140 m²,Zi. 4,5,11
+26,selObject_45016415,NEU Schmargendorf - 2-Zimmer-Wohnung,"[['Etagenwohnung', '•', 'Berlin', 'Schmargendorf']]","['NEU', 'NEU']",Miete zzgl. NK 685 €,Wohnfläche ca. 58 m²,Zi. 2,5,11

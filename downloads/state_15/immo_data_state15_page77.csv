@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44452282,Ein gemütliches Zimmer nahe Uniklinik! Mit Balkon und...,"['Wohnung', '•', 'Magdeburg', 'Leipziger', 'Str.']","['Balkon', 'EBK']",Miete zzgl. NK 190 €,Wohnfläche ca. 25 m²,Zi. 1,77,15
-1,selObject_44452280,"Top Wohnung, jetzt zwei Kaltmieten frei! Drei Zimmer...","['Wohnung', '•', 'Magdeburg', 'Leipziger', 'Str.']",['Balkon'],Miete zzgl. NK 330 €,Wohnfläche ca. 57 m²,Zi. 3,77,15
-2,selObject_44450701,Im Grünen Wohnen mit der HWF,"['Wohnung', '•', 'Halle', 'Heide', 'Nord']",['Balkon'],"Miete zzgl. NK 371,55 €",Wohnfläche ca. 70 m²,Zi. 3,77,15
-3,selObject_44450094,"3,5-Raumwohnung mit Nähe zum Stadtzentrum !","['Etagenwohnung', '•', 'Köthen']",[],Miete zzgl. NK 433 €,Wohnfläche ca. 96 m²,Zi. 4,77,15
-4,selObject_44449832,Erstbezug nach Sanierung - Großzügige Maisonette-Dach...,"['Maisonette', '•', 'Magdeburg', 'Leipziger', 'Str.']",['EBK'],"Miete zzgl. NK 898,89 €",Wohnfläche ca. 108 m²,Zi. 4,77,15
-5,selObject_44449819,Erstbezug nach Sanierung - Großzügige Maisonette-4-Zi...,"['Maisonette', '•', 'Magdeburg', 'Leipziger', 'Str.']",['EBK'],"Miete zzgl. NK 872,33 €",Wohnfläche ca. 105 m²,Zi. 4,77,15
-6,selObject_44449776,Erstbezug nach Sanierung - Kleine 2-Zimmerwohnung mit...,"['Etagenwohnung', '•', 'Magdeburg', 'Leipziger', 'Str.']","['Balkon', 'EBK']","Miete zzgl. NK 425,96 €",Wohnfläche ca. 51 m²,Zi. 2,77,15
-7,selObject_44449676,Erstbezug nach Sanierung - Modernisierte 2-Zimmerwohn...,"['Etagenwohnung', '•', 'Magdeburg', 'Leipziger', 'Str.']","['Balkon', 'EBK']","Miete zzgl. NK 451,94 €",Wohnfläche ca. 54 m²,Zi. 2,77,15
-8,selObject_44449583,Erstbezug nach Sanierung - Attraktive 2-Zimmerwohnung...,"['Etagenwohnung', '•', 'Magdeburg', 'Leipziger', 'Str.']","['Balkon', 'EBK']","Miete zzgl. NK 515,85 €",Wohnfläche ca. 62 m²,Zi. 2,77,15
-9,selObject_44449566,"Grüner Blickwinkel - 2 Zimmer, Badewanne, Dusche, Balk...","['Etagenwohnung', '•', 'Halberstadt', 'Halberstadt']",['Balkon'],Miete zzgl. NK 342 €,Wohnfläche ca. 59 m²,Zi. 2,77,15
-10,selObject_44449565,Modern leben im sanierten Altbau,"['Etagenwohnung', '•', 'Halberstadt', 'Halberstadt']",[],Miete zzgl. NK 430 €,Wohnfläche ca. 61 m²,Zi. 2,77,15
-11,selObject_44449559,"Bestlage, 2-Zi Wohnung im Zentrum mit Tiefgaragenstell...","['Wohnung', '•', 'Zerbst']",[],Miete zzgl. NK 336 €,Wohnfläche ca. 52 m²,Zi. 2,77,15
-12,selObject_44449514,Schöne Wohnung sucht fleißigen Handwerker,"['Wohnung', '•', 'Dessau-Roßlau', 'Innenstadt']",[],Miete zzgl. NK 180 €,Wohnfläche ca. 40 m²,Zi. 2,77,15
-13,selObject_44449502,"Geld gespart, wer´s selber macht!","['Wohnung', '•', 'Dessau-Roßlau', 'Innenstadt']",['Balkon'],Miete zzgl. NK 280 €,Wohnfläche ca. 56 m²,Zi. 3,77,15
-14,selObject_44448492,Renovierte 3-Raum-Wohnung mit Laminat und Balkon!,"['Erdgeschosswohnung', '•', 'Burg', 'Burg']","['Balkon', 'EBK']",Miete zzgl. NK 350 €,Wohnfläche ca. 67 m²,Zi. 3,77,15
-15,selObject_44448298,Die Hochschule direkt um die Ecke!,"['Etagenwohnung', '•', 'Köthen']",[],Miete zzgl. NK 195 €,Wohnfläche ca. 31 m²,Zi. 1,77,15
-16,selObject_44448295,Dreiraumwohnung mit tollem Echtholzparkett,"['Erdgeschosswohnung', '•', 'Köthen']",[],Miete zzgl. NK 495 €,Wohnfläche ca. 97 m²,Zi. 3,77,15
-17,selObject_44448242,WOHNEN MAL ANDERS,"['Wohnung', '•', 'Lutherstadt', 'Wittenberg', 'Lutherstadt', 'Wittenberg']",['Balkon'],Miete zzgl. NK 345 €,Wohnfläche ca. 66 m²,Zi. 3,77,15
-18,selObject_44447905,Gehobenes Wohnen im Bürgergartenviertel + Balkon,"['Etagenwohnung', '•', 'Naumburg', 'Naumburg']",['Balkon'],Miete zzgl. NK 715 €,Wohnfläche ca. 110 m²,"Zi. 3,5",77,15
-19,selObject_44447876,**Schöne Erdgeschosswohnung mit Balkon und Kamin**,"['Erdgeschosswohnung', '•', 'Zeitz', 'Zeitz']",['Balkon'],Miete zzgl. NK 293 €,Wohnfläche ca. 61 m²,Zi. 3,77,15
-20,selObject_44447795,helle und freundl.3 Raumwohnung in Calbe,"['Etagenwohnung', '•', 'Calbe', 'Trabitz']",[],Miete zzgl. NK 415 €,Wohnfläche ca. 92 m²,Zi. 3,77,15
-21,selObject_44447760,++Schön geschnittene Wohnung mit Kamin und Balkon++,"['Etagenwohnung', '•', 'Zeitz', 'Zeitz']",['Balkon'],Miete zzgl. NK 285 €,Wohnfläche ca. 59 m²,Zi. 2,77,15
-22,selObject_44447732,2-Zimmer-Wohnung mit Terasse,"['Wohnung', '•', 'Hecklingen', 'Hecklingen']",[],Miete zzgl. NK 405 €,Wohnfläche ca. 61 m²,Zi. 2,77,15
-23,selObject_44447687,**Geräumige Wohnung mit gemütlichem Kamin und Balkon...,"['Wohnung', '•', 'Zeitz', 'Zeitz']",['Balkon'],Miete zzgl. NK 275 €,Wohnfläche ca. 57 m²,Zi. 2,77,15
-24,selObject_44446727,Gemütliche 2-Raum-Wohnung in Sudenburg!,"['Apartment', '•', 'Magdeburg', 'Sudenburg']",[],Miete zzgl. NK 328 €,Wohnfläche ca. 62 m²,Zi. 2,77,15
-25,selObject_44446597,Geräumige 2-Zimmer-Mietwohnung in ruhiger und grüner...,"['Wohnung', '•', 'Seehausen', 'Behrend']",[],Miete zzgl. NK 250 €,Wohnfläche ca. 54 m²,Zi. 2,77,15
-26,selObject_44446342,"schöne, sanierte 2-Zimmerwohnung in Dessau-Nord","['Etagenwohnung', '•', 'Dessau-Roßlau', 'Innenstadt']",[],"Miete zzgl. NK 366,52 €",Wohnfläche ca. 67 m²,Zi. 2,77,15
+0,selObject_44478153,*1 MONAT KALTMIETFREI* 4-Zimmer-Wohnung mit Einbauküc...,"[['Etagenwohnung', '•', 'Magdeburg', 'Neue', 'Neustadt']]",['EBK'],Miete zzgl. NK 583 €,Wohnfläche ca. 106 m²,Zi. 4,77,15
+1,selObject_44477943,2-Raumwohnung mit Balkon,"[['Wohnung', '•', 'Bad', 'Dürrenberg', 'Bad', 'Dürrenberg']]",['Balkon'],Miete zzgl. NK 280 €,Wohnfläche ca. 48 m²,Zi. 2,77,15
+2,selObject_44477944,3 Räume im Dachgeschoss zum Wohlfühlen,"[['Dachgeschosswohnung', '•', 'Bad', 'Dürrenberg', 'Bad', 'Dürrenberg']]",[],Miete zzgl. NK 300 €,Wohnfläche ca. 55 m²,Zi. 3,77,15
+3,selObject_44477942,Kleine 2 Raumwohnung zum Wohlfühlen,"[['Wohnung', '•', 'Bad', 'Dürrenberg', 'Bad', 'Dürrenberg']]",['Balkon'],Miete zzgl. NK 278 €,Wohnfläche ca. 48 m²,Zi. 2,77,15
+4,selObject_44477931,Frisch renovierte 1-Raumwohnung mit großem Balkon,"[['Wohnung', '•', 'Bad', 'Dürrenberg', 'Bad', 'Dürrenberg']]",['Balkon'],Miete zzgl. NK 200 €,Wohnfläche ca. 32 m²,Zi. 1,77,15
+5,selObject_44474130,! - Dessau-Mitte - günstige 3-Raum-Wohnung - AB SOFORT...,"[['Dachgeschosswohnung', '•', 'Dessau-Roßlau', 'Innenstadt']]",['Garten'],Miete zzgl. NK 285 €,Wohnfläche ca. 50 m²,Zi. 3,77,15
+6,selObject_44474122,Lichtdurchflutete 3-Raum-Wohnung in gefragter Lage!,"[['Wohnung', '•', 'Halle', 'Lutherplatz']]",['Balkon'],Miete zzgl. NK 525 €,Wohnfläche ca. 71 m²,Zi. 3,77,15
+7,selObject_44473862,! - Bitterfeld - günstige 2-Raum-Wohnung - AB SOFORT !...,"[['Erdgeschosswohnung', '•', 'Bitterfeld-Wolfen', 'Bitterfeld']]",[],Miete zzgl. NK 280 €,Wohnfläche ca. 60 m²,Zi. 2,77,15
+8,selObject_44468233,Richtet euch erst mal ein - 2 Monate sind mietfrei!,"[['Etagenwohnung', '•', 'Schönebeck', 'Schönebeck']]",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 49 m²,Zi. 2,77,15
+9,selObject_44466740,"Brauchen Sie Hilfe im Alltag? Genießen Sie den Tag, im...","[['Erdgeschosswohnung', '•', 'Quedlinburg', 'Quedlinburg']]",[],Miete inkl. NK 326 €,Wohnfläche ca. 20 m²,Zi. 1,77,15
+10,selObject_44466274,Nähe Uniklinikum,"[['Etagenwohnung', '•', 'Magdeburg', 'Leipziger', 'Str.']]",['Balkon'],"Miete zzgl. NK 429,72 €",Wohnfläche ca. 67 m²,Zi. 3,77,15
+11,selObject_44465534,Frisch renovierte 2 Zimmer Wohnung mit Balkon!,"[['Wohnung', '•', 'Lutherstadt', 'Wittenberg', 'Lutherstadt', 'Wittenberg']]",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 52 m²,Zi. 2,77,15
+12,selObject_44465528,250€ Gutschein zum Einzug! 3 Zimmer Wohnung mit Bodent...,"[['Wohnung', '•', 'Lutherstadt', 'Wittenberg', 'Lutherstadt', 'Wittenberg']]",[],Miete zzgl. NK 325 €,Wohnfläche ca. 59 m²,Zi. 3,77,15
+13,selObject_44465526,Frisch renovierte 1 Zimmer Wohnung für Singles mit...,"[['Wohnung', '•', 'Lutherstadt', 'Wittenberg', 'Apollensdorf']]",['Balkon'],Miete zzgl. NK 180 €,Wohnfläche ca. 30 m²,Zi. 1,77,15
+14,selObject_44465522,Frisch renovierte 3 Zimmer Wohnung mit Balkon!,"[['Wohnung', '•', 'Bernburg', 'Bernburg']]",['Balkon'],Miete zzgl. NK 330 €,Wohnfläche ca. 58 m²,Zi. 3,77,15
+15,selObject_44465516,250€ Gutschein! Drei Zimmer Wohnung ganz frisch renovi...,"[['Wohnung', '•', 'Lutherstadt', 'Wittenberg', 'Lutherstadt', 'Wittenberg']]",['EBK'],Miete zzgl. NK 330 €,Wohnfläche ca. 60 m²,Zi. 3,77,15
+16,selObject_44465493,Das neue Heim am See mitgestalten!,"[['Etagenwohnung', '•', 'Magdeburg', 'Neustädter', 'See']]",[],"Miete zzgl. NK 192,30 €",Wohnfläche ca. 32 m²,Zi. 1,77,15
+17,selObject_44461455,Mein schickes Single-Reich,"[['Etagenwohnung', '•', 'Halle', 'Silberhöhe']]",['Balkon'],"Miete zzgl. NK 190,56 €",Wohnfläche ca. 31 m²,Zi. 1,77,15
+18,selObject_44461452,"Anschauen, anmieten - einziehen","[['Etagenwohnung', '•', 'Halle', 'Silberhöhe']]",['Balkon'],"Miete zzgl. NK 298,32 €",Wohnfläche ca. 67 m²,Zi. 4,77,15
+19,selObject_44461265,Do it yourself und 3 Monate nur die Nebenkosten zahlen...,"[['Etagenwohnung', '•', 'Halle', 'Silberhöhe']]",[],Miete zzgl. NK 333 €,Wohnfläche ca. 70 m²,Zi. 4,77,15
+20,selObject_44461257,Schöne freundliche helle 3-R-Whg. im 3.OG ca.62 m² in...,"[['Etagenwohnung', '•', 'Magdeburg', 'Leipziger', 'Str.']]",['Balkon'],Miete zzgl. NK 403 €,Wohnfläche ca. 62 m²,Zi. 3,77,15
+21,selObject_44460302,Charmante 3-Zi.-Whg. mit Loggia für Familien und Pärch...,"[['Apartment', '•', 'Magdeburg', 'Brückfeld']]",[],Miete zzgl. NK 356 €,Wohnfläche ca. 58 m²,Zi. 3,77,15
+22,selObject_44460027,Halberstadt: Gemütliche Zwei-Zimmerwohnung mit Balkon...,"[['Erdgeschosswohnung', '•', 'Halberstadt', 'Halberstadt']]",['Balkon'],Miete zzgl. NK 310 €,Wohnfläche ca. 60 m²,Zi. 2,77,15
+23,selObject_44459102,Erstbezug nach Komplettrenovierung in der R.- Breitsch...,"[['Wohnung', '•', 'Sangerhausen', 'Sangerhausen']]",[],Miete zzgl. NK 425 €,Wohnfläche ca. 66 m²,Zi. 3,77,15
+24,selObject_44458207,!Erster Monat mietfrei! Mücheln-Langeneichstädt! Moder...,"[['Etagenwohnung', '•', 'Steigra']]",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 60 m²,Zi. 3,77,15
+25,selObject_44458174,"Der erste Monat ist mietfrei! Mücheln-Langeneichstädt,...","[['Etagenwohnung', '•', 'Steigra']]",['Balkon'],Miete zzgl. NK 270 €,Wohnfläche ca. 60 m²,Zi. 3,77,15
+26,selObject_44458046,"!Der erste Monat ist mietfrei Mücheln-Langeneichstädt,...","[['Etagenwohnung', '•', 'Steigra']]",['Balkon'],Miete zzgl. NK 250 €,Wohnfläche ca. 50 m²,Zi. 2,77,15

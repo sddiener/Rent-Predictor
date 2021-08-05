@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44707006,neu sanierte 3 Raum Wohnung,"['Erdgeschosswohnung', '•', 'Geithain', 'Geithain']",['Balkon'],Miete zzgl. NK 484 €,Wohnfläche ca. 81 m²,Zi. 3,187,14
-1,selObject_44706881,"3 Raum- Wohnung von ca. 79 m² mit Sauna ca. 8 m², fest...","['Wohnung', '•', 'Klingenberg', 'Colmnitz']",[],Miete zzgl. NK 295 €,Wohnfläche ca. 79 m²,Zi. 3,187,14
-2,selObject_44706819,! Klein-Fein-Mein ! hochwertiges 1 Raum Apartment mit...,"['Etagenwohnung', '•', 'Chemnitz', 'Adelsberg']","['Balkon', 'Garten']",Miete zzgl. NK 318 €,Wohnfläche ca. 32 m²,Zi. 1,187,14
-3,selObject_44706813,+++ iQ Apartments - Möbliertes Wohnen in Zentraumsnähe...,"['Wohnung', '•', 'Leipzig', 'Reudnitz-Thonberg']",['EBK'],Miete zzgl. NK 359 €,Wohnfläche ca. 24 m²,Zi. 1,187,14
-4,selObject_44706777,+++ iQ Apartments - Möblierte Business Apartments in...,"['Wohnung', '•', 'Leipzig', 'Reudnitz-Thonberg']",['EBK'],Miete zzgl. NK 343 €,Wohnfläche ca. 23 m²,Zi. 1,187,14
-5,selObject_44706756,2-Zimmer-Wohnung mit Balkon!,"['Etagenwohnung', '•', 'Leipzig', 'Grünau-Nord']",['Balkon'],"Miete zzgl. NK 328,11 €",Wohnfläche ca. 57 m²,Zi. 2,187,14
-6,selObject_44706754,Stielvolle Penthousewohnung hochwertig ausgestattet...,"['Wohnung', '•', 'Leipzig', 'Zentrum-Ost']",['Garten'],Miete zzgl. NK 2.400 €,Wohnfläche ca. 252 m²,Zi. 5,187,14
-7,selObject_44706658,4-Zimmer-Wohnung mit Balkon!,"['Etagenwohnung', '•', 'Leipzig', 'Grünau-Nord']",['Balkon'],"Miete zzgl. NK 496,16 €",Wohnfläche ca. 90 m²,Zi. 4,187,14
-8,selObject_44706615,Sonnige 3-Zimmer-Wohnung mit Balkon!,"['Erdgeschosswohnung', '•', 'Chemnitz', 'Altchemnitz']",['Balkon'],Miete zzgl. NK 330 €,Wohnfläche ca. 70 m²,Zi. 3,187,14
-9,selObject_44706590,"Helle Einraumwohnung, modern geschnitten","['Etagenwohnung', '•', 'Leipzig', 'Lausen-Grünau']",[],"Miete zzgl. NK 189,14 €",Wohnfläche ca. 33 m²,Zi. 1,187,14
-10,selObject_44706561,2 Raumwohnung mit Einbauküche,"['Wohnung', '•', 'Glauchau', 'Niederlungwitz']","['Balkon', 'EBK']",Miete zzgl. NK 285 €,Wohnfläche ca. 53 m²,Zi. 2,187,14
-11,selObject_44706413,helle 3-Raum Wohnung mit Balkon,"['Dachgeschosswohnung', '•', 'Geithain', 'Geithain']",['Garten'],Miete zzgl. NK 440 €,Wohnfläche ca. 81 m²,Zi. 3,187,14
-12,selObject_44706406,Ruhige 4-Raum Wohnung mit Blick ins Grüne,"['Dachgeschosswohnung', '•', 'Erlau', 'Milkau']","['Balkon', 'EBK']",Miete zzgl. NK 370 €,Wohnfläche ca. 72 m²,Zi. 4,187,14
-13,selObject_44706307,Erfüllen Sie sich Ihren Wohntraum in Striesen,"['Etagenwohnung', '•', 'Dresden', 'Striesen-West']",[],Miete zzgl. NK 345 €,Wohnfläche ca. 59 m²,Zi. 2,187,14
-14,selObject_44706269,Wir sanieren für Sie - Hübsche 2-Zimmer-Wohnung mit...,"['Etagenwohnung', '•', 'Dresden', 'Pirnaische', 'Vorstadt']",[],Miete zzgl. NK 430 €,Wohnfläche ca. 58 m²,Zi. 2,187,14
-15,selObject_44706255,Wohnträume in Striesen erfüllen,"['Etagenwohnung', '•', 'Dresden', 'Striesen-West']",[],Miete zzgl. NK 375 €,Wohnfläche ca. 59 m²,Zi. 2,187,14
-16,selObject_44706242,Einbauküche vom Vormieter möglich!,"['Etagenwohnung', '•', 'Dresden', 'Räcknitz/Zschertnitz']",['Balkon'],Miete zzgl. NK 382 €,Wohnfläche ca. 53 m²,Zi. 2,187,14
-17,selObject_44706209,Sanierte 2 Zimmerwohnung in Striesen sucht Sie!,"['Etagenwohnung', '•', 'Dresden', 'Striesen-Süd']",[],Miete zzgl. NK 365 €,Wohnfläche ca. 54 m²,Zi. 2,187,14
-18,selObject_44705613,"Attraktiv! Ansprechende 2,5-Zimmer-Wohnung (WBS)","['Etagenwohnung', '•', 'Dresden', 'Gorbitz-Süd']",['Balkon'],Miete zzgl. NK 252 €,Wohnfläche ca. 44 m²,Zi. 2,187,14
-19,selObject_44705573,Schicke 4-Zimmer-Wohnung ab sofort zu vermieten //...,"['Etagenwohnung', '•', 'Leipzig', 'Grünau-Nord']",['Balkon'],"Miete zzgl. NK 496,16 €",Wohnfläche ca. 90 m²,Zi. 4,187,14
-20,selObject_44705543,Wohlfühloase im Leipziger Westen / frisch saniert bis...,"['Wohnung', '•', 'Leipzig', 'Grünau-Siedlung']",['Balkon'],"Miete zzgl. NK 437,86 €",Wohnfläche ca. 74 m²,Zi. 4,187,14
-21,selObject_44705541,Ihr neues Zuhause in Grünau / 3-Raum-Wohnung mit gr....,"['Erdgeschosswohnung', '•', 'Leipzig', 'Grünau-Siedlung']",['Balkon'],Miete zzgl. NK 334 €,Wohnfläche ca. 63 m²,Zi. 3,187,14
-22,selObject_44705540,Hier läßt es sich prima wohnen!,"['Wohnung', '•', 'Leipzig', 'Südvorstadt']",[],Miete zzgl. NK 292 €,Wohnfläche ca. 25 m²,Zi. 1,187,14
-23,selObject_44705523,NEU ++ 3 Zimmer ++ Gäste WC ++ City Lage ++ Einbauküch...,"['Wohnung', '•', 'Dresden', 'Seevorstadt-Ost/Großer', 'Garten']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 880 €,Wohnfläche ca. 85 m²,Zi. 3,187,14
-24,selObject_44705501,gemütliche 2-Raum-Wohnung im sanierten Altbau mit mode...,"['Dachgeschosswohnung', '•', 'Leipzig', 'Gohlis-Mitte']",[],"Miete zzgl. NK 368,23 €",Wohnfläche ca. 57 m²,Zi. 2,187,14
-25,selObject_44704274,Schöne 2-Raum-Dachgeschoss-Wohnung (~70 qm; Einbauküch...,"['Dachgeschosswohnung', '•', 'Chemnitz', 'Kaßberg']","['Garten', 'EBK']",Miete zzgl. NK 330 €,Wohnfläche ca. 70 m²,Zi. 2,187,14
-26,selObject_44703875,Treppen steigen lohnt sich! - Singlewohnung mit Fernbl...,"['Dachgeschosswohnung', '•', 'Dresden', 'Laubegast']",['Garten'],Miete zzgl. NK 380 €,Wohnfläche ca. 44 m²,"Zi. 1,5",187,14
+0,selObject_44728400,SEHR SCHÖNE 1-ZI. WOHNUNG MIT WINTERGARTEN AM GRÜNEN...,"[['Etagenwohnung', '•', 'Zwickau', 'Bahnhofsvorstadt']]",['Garten'],Miete zzgl. NK 245 €,Wohnfläche ca. 45 m²,Zi. 1,187,14
+1,selObject_44728399,Kleine Wohnung mit großer Küche zum günstigen Preis zu...,"[['Dachgeschosswohnung', '•', 'Hartenstein', 'Hartenstein']]",['Garten'],Miete zzgl. NK 200 €,Wohnfläche ca. 38 m²,Zi. 1,187,14
+2,selObject_44728397,Personenaufzug im Haus +++ GÜNSTIGE Wohnung zu vermiet...,"[['Etagenwohnung', '•', 'Zwickau', 'Innenstadt']]",[],Miete zzgl. NK 399 €,Wohnfläche ca. 82 m²,"Zi. 2,5",187,14
+3,selObject_44728395,"Helle, freundliche 2-Zi. Wohnung mit LAMINAT, EINBAUKÜ...","[['Etagenwohnung', '•', 'Kirchberg', 'Kirchberg']]",['EBK'],Miete zzgl. NK 320 €,Wohnfläche ca. 75 m²,Zi. 2,187,14
+4,selObject_44728393,2-Zi. Wohnung mit Loggia in ruhiger Lage,"[['Etagenwohnung', '•', 'Zwickau', 'Marienthal']]",['Balkon'],Miete zzgl. NK 325 €,Wohnfläche ca. 56 m²,Zi. 2,187,14
+5,selObject_44728389,Top 2-Zi. Wohnung mit großer Küche und Wintergarten in...,"[['Etagenwohnung', '•', 'Zwickau', 'Pölbitz']]","['Balkon', 'Garten']",Miete zzgl. NK 340 €,Wohnfläche ca. 63 m²,Zi. 2,187,14
+6,selObject_44728388,2-Zi. Dachgeschoss-Wohnung mit PKW-Stellplatz in der...,"[['Dachgeschosswohnung', '•', 'Zwickau', 'Pölbitz']]",[],Miete zzgl. NK 290 €,Wohnfläche ca. 59 m²,Zi. 2,187,14
+7,selObject_44728387,Sofort bezugsfähige 2-Zi. Wohnung mit Balkon und Fernb...,"[['Etagenwohnung', '•', 'Zwickau', 'Eckersbach']]",[],Miete zzgl. NK 264 €,Wohnfläche ca. 55 m²,Zi. 2,187,14
+8,selObject_44728385,Ideal für Wohngemeinschaft +++ Hübsche 2-Zi. Wohnung...,"[['Etagenwohnung', '•', 'Zwickau', 'Pölbitz']]",[],Miete zzgl. NK 290 €,Wohnfläche ca. 58 m²,Zi. 2,187,14
+9,selObject_44728383,Erstbezug!!! - Geräumige 2 Zimmer Wohnung im Erdgescho...,"[['Erdgeschosswohnung', '•', 'Kirchberg', 'Kirchberg']]","['Garten', 'EBK']",Miete zzgl. NK 385 €,Wohnfläche ca. 55 m²,Zi. 2,187,14
+10,selObject_44728379,"2-Zi. Wohnung mit Laminat, Balkon sowie Tageslichtbad...","[['Etagenwohnung', '•', 'Zwickau', 'Innenstadt']]",['Balkon'],"Miete zzgl. NK 346,50 €",Wohnfläche ca. 63 m²,Zi. 2,187,14
+11,selObject_44728377,2-Zi. Wohnung mit Wintergarten in ruhiger Lage und...,"[['Etagenwohnung', '•', 'Zwickau', 'Pölbitz']]","['Balkon', 'Garten']",Miete zzgl. NK 410 €,Wohnfläche ca. 66 m²,Zi. 2,187,14
+12,selObject_44728376,... ab ins eigene Zuhause! - Kleine Dachgeschoßwohnung...,"[['Dachgeschosswohnung', '•', 'Kirchberg', 'Kirchberg']]",[],Miete zzgl. NK 250 €,Wohnfläche ca. 50 m²,Zi. 2,187,14
+13,selObject_44728372,"Erstbezug!!! große Maisonettewohnung mit Galerie, Kami...","[['Maisonette', '•', 'Kirchberg', 'Kirchberg']]",['Garten'],Miete zzgl. NK 1.150 €,Wohnfläche ca. 156 m²,Zi. 3,187,14
+14,selObject_44728373,Individuelle 4-Zi. Maisonetten-Dachgeschoss-Wohnung zu...,"[['Maisonette', '•', 'Zwickau', 'Pölbitz']]",['Garten'],Miete zzgl. NK 440 €,Wohnfläche ca. 72 m²,Zi. 4,187,14
+15,selObject_44728370,Schöne 2-Zi. Wohnung mit Personenaufzug im Herzen Zwic...,"[['Etagenwohnung', '•', 'Zwickau', 'Innenstadt']]",[],Miete zzgl. NK 400 €,Wohnfläche ca. 68 m²,Zi. 2,187,14
+16,selObject_44728366,kleine Wohnung für 1-2 Personen zu vermieten,"[['Etagenwohnung', '•', 'Wilkau-Haßlau', 'Silberstraße']]",['Garten'],Miete zzgl. NK 210 €,Wohnfläche ca. 42 m²,Zi. 2,187,14
+17,selObject_44728365,PREISGÜNSTIGE 2-Zi. Wohnung mit BALKON und PKW-Stellpl...,"[['Etagenwohnung', '•', 'Zwickau', 'Pölbitz']]",['Balkon'],Miete zzgl. NK 260 €,Wohnfläche ca. 50 m²,Zi. 2,187,14
+18,selObject_44728364,Günstige 2-Zi. Hochparterre-Wohnung mit Balkon in Mari...,"[['Erdgeschosswohnung', '•', 'Zwickau', 'Marienthal']]","['Balkon', 'Garten']",Miete zzgl. NK 240 €,Wohnfläche ca. 63 m²,Zi. 2,187,14
+19,selObject_44728363,3-Raum-Wohnung mit Balkon am Stadtrand zu vermieten!,"[['Etagenwohnung', '•', 'Kirchberg', 'Kirchberg']]",['Balkon'],Miete zzgl. NK 365 €,Wohnfläche ca. 69 m²,Zi. 3,187,14
+20,selObject_44728345,Zentrumsnahe und gemütliche 2-Zi. Wohnung in Zwickaus...,"[['Dachgeschosswohnung', '•', 'Zwickau', 'Innenstadt']]",[],Miete zzgl. NK 250 €,Wohnfläche ca. 49 m²,Zi. 2,187,14
+21,selObject_44728347,Traumhaft schöne & helle Dachwohnung!!!,"[['Dachgeschosswohnung', '•', 'Zwickau', 'Pölbitz']]",[],Miete zzgl. NK 390 €,Wohnfläche ca. 61 m²,Zi. 2,187,14
+22,selObject_44728343,2-Zi. Wohnung im 3.OG zu vermieten +++ beliebte ruhige...,"[['Dachgeschosswohnung', '•', 'Zwickau', 'Pölbitz']]",[],Miete zzgl. NK 260 €,Wohnfläche ca. 47 m²,Zi. 2,187,14
+23,selObject_44728340,Super Wohnung mit EINBAUKÜCHE & Wintergarten am grünen...,"[['Erdgeschosswohnung', '•', 'Zwickau', 'Bahnhofsvorstadt']]",['Balkon'],Miete zzgl. NK 242 €,Wohnfläche ca. 44 m²,Zi. 1,187,14
+24,selObject_44728332,TOLLE CITY WOHNUNG für Single's,"[['Etagenwohnung', '•', 'Zwickau', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 240 €,Wohnfläche ca. 36 m²,Zi. 2,187,14
+25,selObject_44728328,TOLLE & großzügige 2-Zi. Wohnung günstig zu vermieten!,"[['Etagenwohnung', '•', 'Zwickau', 'Niederplanitz']]",[],Miete zzgl. NK 340 €,Wohnfläche ca. 75 m²,Zi. 2,187,14
+26,selObject_44728327,+++ Sehr schöne 2-Zi. Wohnung mit LOGGIA in einem lieb...,"[['Etagenwohnung', '•', 'Zwickau', 'Pölbitz']]",[],Miete zzgl. NK 330 €,Wohnfläche ca. 55 m²,Zi. 2,187,14

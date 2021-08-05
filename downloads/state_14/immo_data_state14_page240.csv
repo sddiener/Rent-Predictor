@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44506627,"Alles Neu! großzügige "" Zimmer Wohnung - 2 Bädern -...","['Etagenwohnung', '•', 'Chemnitz', 'Sonnenberg']",['Garten'],Miete zzgl. NK 240 €,Wohnfläche ca. 53 m²,Zi. 2,240,14
-1,selObject_44506592,Plagwitz - großzügig geschnittene Wohnung - neben der...,"['Etagenwohnung', '•', 'Leipzig', 'Plagwitz']","['Balkon', 'EBK']",Miete zzgl. NK 475 €,Wohnfläche ca. 63 m²,Zi. 2,240,14
-2,selObject_44506415,"kleine Wohnung, mit Loggia und Balkon","['Wohnung', '•', 'Chemnitz', 'Bernsdorf']",['Balkon'],Miete zzgl. NK 348 €,Wohnfläche ca. 59 m²,Zi. 2,240,14
-3,selObject_44506397,** kleinstrehlen | Erstbezug | offene Küche | Balkon |...,"['Etagenwohnung', '•', 'Dresden', 'Strehlen']",['Balkon'],"Miete zzgl. NK 877,80 €",Wohnfläche ca. 76 m²,Zi. 3,240,14
-4,selObject_44506396,** kleinstrehlen | Erstbezug | Fußbodenheizung | Balko...,"['Etagenwohnung', '•', 'Dresden', 'Strehlen']",['Balkon'],"Miete zzgl. NK 882,40 €",Wohnfläche ca. 77 m²,Zi. 3,240,14
-5,selObject_44506304,+++ Gemütliche 2-Raum-Wohnung mit Balkon +++,"['Etagenwohnung', '•', 'Leipzig', 'Lausen-Grünau']",['Balkon'],Miete zzgl. NK 300 €,Wohnfläche ca. 54 m²,Zi. 2,240,14
-6,selObject_44506286,Helle 4-Raumwohnung mit viel Platz I Einbauküche I...,"['Etagenwohnung', '•', 'Leipzig', 'Zentrum-Ost']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.128 €,Wohnfläche ca. 98 m²,Zi. 4,240,14
-7,selObject_44506216,3RW * SÜD-BALKON * Einbauküche * Bad mit WA + Fenster...,"['Etagenwohnung', '•', 'Chemnitz', 'Hilbersdorf']","['Balkon', 'Garten', 'EBK']","Miete zzgl. NK 353,50 €",Wohnfläche ca. 68 m²,Zi. 3,240,14
-8,selObject_44506080,Südvorstadt - Seniorenwohnung,"['Erdgeschosswohnung', '•', 'Leipzig', 'Südvorstadt']",['Garten'],Miete zzgl. NK 415 €,Wohnfläche ca. 69 m²,Zi. 2,240,14
-9,selObject_44506046,Helle und geräumige 2-Raum-Wohnung mit Balkon im Grüne...,"['Erdgeschosswohnung', '•', 'Leipzig', 'Mölkau']","['Balkon', 'Garten']",Miete zzgl. NK 480 €,Wohnfläche ca. 63 m²,Zi. 2,240,14
-10,selObject_44505818,NEU! EG 2 RAUMWOHNUNG MIT TERRASSE IN PIRNA-COPITZ,"['Erdgeschosswohnung', '•', 'Pirna', 'Pirna']","['Garten', 'EBK']",Miete zzgl. NK 350 €,Wohnfläche ca. 50 m²,Zi. 2,240,14
-11,selObject_44505817,2 Raumwohnung,"['Erdgeschosswohnung', '•', 'Freiberg,', 'Sachs', 'Freiberg']",['Garten'],Miete zzgl. NK 210 €,Wohnfläche ca. 40 m²,Zi. 2,240,14
-12,selObject_44505559,"direkt am Zentrum, ruhige Lage","['Dachgeschosswohnung', '•', 'Crimmitschau', 'Crimmitschau']",[],"Miete zzgl. NK 414,50 €",Wohnfläche ca. 83 m²,Zi. 3,240,14
-13,selObject_44505548,Sehr schicke 2 Raumwohnung in gepflegter Wohngegend,"['Etagenwohnung', '•', 'Zittau', 'Zittau']",[],Miete zzgl. NK 235 €,Wohnfläche ca. 58 m²,Zi. 2,240,14
-14,selObject_44505533,"Top 2-Raumwohnung am Großen Garten, EBK und WG geeigne...","['Etagenwohnung', '•', 'Dresden', 'Seevorstadt-Ost/Großer', 'Garten']","['Garten', 'EBK']",Miete zzgl. NK 800 €,Wohnfläche ca. 46 m²,Zi. 2,240,14
-15,selObject_44505444,großzügige 4 Zimmer Wohnung EG im Zentrum der Silberst...,"['Erdgeschosswohnung', '•', 'Freiberg,', 'Sachs', 'Freiberg']",['Balkon'],Miete zzgl. NK 600 €,Wohnfläche ca. 120 m²,Zi. 4,240,14
-16,selObject_44505385,2-Raum-Wohnung Innenstadt-Lage mit Fahrstuhl und Einba...,"['Etagenwohnung', '•', 'Leipzig', 'Zentrum-Nord']",[],Miete zzgl. NK 400 €,Wohnfläche ca. 57 m²,Zi. 1,240,14
-17,selObject_44505346,Wohnen im Denkmal **Erstbezug im alten Bahnhof**,"['Dachgeschosswohnung', '•', 'Heidenau']",['EBK'],Miete zzgl. NK 444 €,Wohnfläche ca. 49 m²,Zi. 2,240,14
-18,selObject_44505313,Sonnige neu renovierte 3-Zi-Wohnung in Parknähe von...,"['Etagenwohnung', '•', 'Mittweida', 'Mittweida']","['Garten', 'EBK']",Miete zzgl. NK 450 €,Wohnfläche ca. 82 m²,Zi. 3,240,14
-19,selObject_44505243,* 2-Raum Wohnung mit Balkon und Fahrstuhl nach Sanieru...,"['Apartment', '•', 'Leipzig', 'Zentrum-Nord']",['Balkon'],Miete zzgl. NK 488 €,Wohnfläche ca. 50 m²,Zi. 2,240,14
-20,selObject_44505150,2-Zimmer-Wohnung-Küche-Bad/WC zu vermieten,"['Kein', 'Bild']",[],Miete zzgl. NK 194 €,Wohnfläche ca. 44 m²,Zi. 2,240,14
-21,selObject_44505058,3-Zimmer-Wohnung-Küche-Bad/WC in Aue (2x vorhanden),"['Kein', 'Bild']",['Garten'],Miete zzgl. NK 270 €,Wohnfläche ca. 60 m²,Zi. 3,240,14
-22,selObject_44504498,Halloooo!! Sanierte 2-Raum-Wohnung mieten,"['Wohnung', '•', 'Chemnitz', 'Zentrum']",['Garten'],Miete zzgl. NK 235 €,Wohnfläche ca. 47 m²,Zi. 2,240,14
-23,selObject_44504431,Bärenstein 2-Raum Wohnung,"['Erdgeschosswohnung', '•', 'Bärenstein', 'Bärenstein']",['Garten'],Miete zzgl. NK 250 €,Wohnfläche ca. 49 m²,Zi. 2,240,14
-24,selObject_44504423,Klein und Mein! 1-Raumwohnung in Colditz.,"['Etagenwohnung', '•', 'Colditz', 'Colditz']",[],Miete zzgl. NK 140 €,Wohnfläche ca. 24 m²,Zi. 1,240,14
-25,selObject_44503808,Maxim-Gorki-Straße: DG + Wanne + Vinylboden,"['Dachgeschosswohnung', '•', 'Pirna', 'Pirna']",['Garten'],Miete zzgl. NK 380 €,Wohnfläche ca. 65 m²,Zi. 3,240,14
-26,selObject_44503723,3-Raumwohnung zu vermieten,"['Dachgeschosswohnung', '•', 'Niederwiesa', 'Niederwiesa']",[],Miete zzgl. NK 480 €,Wohnfläche ca. 75 m²,Zi. 3,240,14
+0,selObject_44556337,"Traumhafte Wohnung mit schönem Balkon, Bad mit Wanne...","[['Wohnung', '•', 'Pirna', 'Pirna']]",['Balkon'],Miete zzgl. NK 750 €,Wohnfläche ca. 100 m²,Zi. 4,240,14
+1,selObject_44556322,Exklusiv und himmlisch Wohnen über den Dächern der...,"[['Wohnung', '•', 'Pirna', 'Pirna']]",['Balkon'],Miete zzgl. NK 743 €,Wohnfläche ca. 99 m²,Zi. 4,240,14
+2,selObject_44556274,Großzügiger WG-Traum in zentraler Lage! Separate Küche...,"[['Wohnung', '•', 'Dresden', 'Wilsdruffer', 'Vorstadt/Seevorstadt-West']]",[],Miete zzgl. NK 695 €,Wohnfläche ca. 79 m²,Zi. 3,240,14
+3,selObject_44556273,Hübsche 3-Zimmer-Wohnung in idyllischer Lage,"[['Wohnung', '•', 'Dorfhain']]",['Garten'],Miete zzgl. NK 340 €,Wohnfläche ca. 59 m²,Zi. 3,240,14
+4,selObject_44556263,"Zentral gelegene Wohnung mit Balkon, Wannenbad und...","[['Wohnung', '•', 'Freital', 'Freital']]",['Balkon'],Miete zzgl. NK 396 €,Wohnfläche ca. 71 m²,Zi. 3,240,14
+5,selObject_44556137,großzügige 3 RW in Möckern,"[['Etagenwohnung', '•', 'Leipzig', 'Gohlis-Süd']]",[],Miete zzgl. NK 450 €,Wohnfläche ca. 73 m²,Zi. 3,240,14
+6,selObject_44554078,"Neues Glück in gemütlicher, neu renovierter Dachgescho...","[['Dachgeschosswohnung', '•', 'Leipzig', 'Böhlitz-Ehrenberg']]",['Balkon'],Miete zzgl. NK 540 €,Wohnfläche ca. 65 m²,Zi. 2,240,14
+7,selObject_44554061,"***2 Zimmer mit Balkon, neuer EBK inkl. Spülmaschine,...","[['Etagenwohnung', '•', 'Chemnitz', 'Ebersdorf']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 370 €,Wohnfläche ca. 71 m²,Zi. 2,240,14
+8,selObject_44554051,"***Großzügige 2 Zimmerwohnung mit Balkon, EBK inkl....","[['Etagenwohnung', '•', 'Chemnitz', 'Ebersdorf']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 350 €,Wohnfläche ca. 71 m²,Zi. 2,240,14
+9,selObject_44554035,2-Zimmer-Wohnung,"[['Etagenwohnung', '•', 'Dresden', 'Löbtau-Süd']]",['Balkon'],Miete zzgl. NK 405 €,Wohnfläche ca. 52 m²,Zi. 2,240,14
+10,selObject_44554015,Studenten aufgepasst! Wochenend- und Livebesichtigunge...,"[['Etagenwohnung', '•', 'Görlitz', 'Südstadt']]",[],Miete zzgl. NK 210 €,Wohnfläche ca. 34 m²,Zi. 1,240,14
+11,selObject_44553847,Erstbezug nach Sanierung - großzügige Wohnung mit Tage...,"[['Etagenwohnung', '•', 'Dresden', 'Leipziger', 'Vorstadt']]",['EBK'],Miete zzgl. NK 480 €,Wohnfläche ca. 48 m²,Zi. 1,240,14
+12,selObject_44553163,attraktive 2 Zi-Wohnung im Herzen von Löbau,"[['Wohnung', '•', 'Löbau', 'Löbau']]",[],Miete zzgl. NK 295 €,Wohnfläche ca. 61 m²,Zi. 2,240,14
+13,selObject_44553149,Sie wollen hoch hinaus? Schicke 1-Zimmer-Wohnung im...,"[['Apartment', '•', 'Dresden']]","['Balkon', 'EBK']",Miete zzgl. NK 540 €,Wohnfläche ca. 50 m²,Zi. 1,240,14
+14,selObject_44553027,"Familien willkommen, Erstbezug geräumige Wohnung mit...","[['Etagenwohnung', '•', 'Dresden', 'Prohlis-Süd']]",['Balkon'],"Miete zzgl. NK 401,24 €",Wohnfläche ca. 79 m²,Zi. 3,240,14
+15,selObject_44552850,"Erstbezug, Singlewohnung mit Blick, sowie hervorragend...","[['Etagenwohnung', '•', 'Dresden', 'Prohlis-Süd']]",[],"Miete zzgl. NK 147,09 €",Wohnfläche ca. 27 m²,Zi. 1,240,14
+16,selObject_44552724,++ URBAN BASE + Möblierte Apartments im Herzen von...,"[['Etagenwohnung', '•', 'Dresden', 'Pirnaische', 'Vorstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 361 €,Wohnfläche ca. 32 m²,Zi. 1,240,14
+17,selObject_44552348,"Erstbezug, Singlewohnung mit Balkon und Blick, sowie...","[['Etagenwohnung', '•', 'Dresden', 'Prohlis-Süd']]",['Balkon'],Miete zzgl. NK 206 €,Wohnfläche ca. 26 m²,Zi. 1,240,14
+18,selObject_44552327,Neubau - Erstbezug! Idealer Grundriss für die ganze...,"[['Etagenwohnung', '•', 'Leipzig', 'Leutzsch']]",['EBK'],Miete zzgl. NK 1.030 €,Wohnfläche ca. 100 m²,Zi. 4,240,14
+19,selObject_44552312,Neubau-Erstbezug! Ideal für Singles oder Paare,"[['Etagenwohnung', '•', 'Leipzig', 'Leutzsch']]",['EBK'],Miete zzgl. NK 630 €,Wohnfläche ca. 53 m²,Zi. 2,240,14
+20,selObject_44552204,Klassische 2 Zimmer-WE in ruhiger Lage ! PERFEKT WG...,"[['Dachgeschosswohnung', '•', 'Dresden']]",[],Miete zzgl. NK 450 €,Wohnfläche ca. 62 m²,Zi. 2,240,14
+21,selObject_44552201,"Perfekt WG geeignet, Bad mit Wanne, Abstellkammer","[['Wohnung', '•', 'Dresden', 'Briesnitz']]",[],Miete zzgl. NK 695 €,Wohnfläche ca. 80 m²,Zi. 3,240,14
+22,selObject_44552078,"4-Raum-Wohnung mit großem Süd-Balkon, Bad mit Fenster,...","[['Erdgeschosswohnung', '•', 'Werdau', 'Werdau']]","['Balkon', 'Garten']",Miete zzgl. NK 470 €,Wohnfläche ca. 94 m²,Zi. 4,240,14
+23,selObject_44552070,Hochparterre mit neuem Laminat am Stadtpark... großer...,"[['Etagenwohnung', '•', 'Chemnitz', 'Kapellenberg']]",['Garten'],Miete zzgl. NK 300 €,Wohnfläche ca. 60 m²,Zi. 3,240,14
+24,selObject_44552049,Super Lage am Stadtpark... Laminat... Balkon...,"[['Etagenwohnung', '•', 'Chemnitz', 'Kapellenberg']]",['Garten'],Miete zzgl. NK 320 €,Wohnfläche ca. 60 m²,Zi. 3,240,14
+25,selObject_44552048,Super Lage am Stadtpark... neues Laminat... großer...,"[['Etagenwohnung', '•', 'Chemnitz', 'Kapellenberg']]",['Garten'],Miete zzgl. NK 290 €,Wohnfläche ca. 60 m²,Zi. 3,240,14
+26,selObject_44551881,Süße Wohnung sucht liebe Familie,"[['Etagenwohnung', '•', 'Chemnitz', 'Hutholz']]",['Balkon'],Miete zzgl. NK 240 €,Wohnfläche ca. 55 m²,Zi. 3,240,14

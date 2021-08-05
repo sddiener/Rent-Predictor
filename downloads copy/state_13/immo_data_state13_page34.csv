@@ -1,0 +1,28 @@
+,id,title,bullets,tags,price,area,rooms,page,state
+0,selObject_44156107,+++1-Zimmer Wohnung in Anklam+++,"['Etagenwohnung', '•', 'Anklam', 'Anklam']",[],Miete zzgl. NK 220 €,Wohnfläche ca. 33 m²,Zi. 1,34,13
+1,selObject_44140614,"Dachgeschoss 2-Zi. Whg. Paulsstadt, EBK, 350 m zum HBF","['Dachgeschosswohnung', '•', 'Schwerin', 'Paulsstadt']",['EBK'],"Miete zzgl. NK 496,65 €",Wohnfläche ca. 66 m²,Zi. 2,34,13
+2,selObject_44140613,"großzügige 2-Zi. Whg. Paulsstadt, EBK, 350 m zum HBF","['Etagenwohnung', '•', 'Schwerin', 'Paulsstadt']",['EBK'],"Miete zzgl. NK 562,50 €",Wohnfläche ca. 75 m²,Zi. 2,34,13
+3,selObject_44139547,~ Traumwohnung - 5 Zimmer im Herzen von Schwerin ~,"['Erdgeschosswohnung', '•', 'Schwerin', 'Paulsstadt']",['Garten'],Miete zzgl. NK 1.840 €,Wohnfläche ca. 184 m²,Zi. 5,34,13
+4,selObject_44130039,Wohnen auf dem Lande,"['Wohnung', '•', 'Obere', 'Warnow']",[],Miete zzgl. NK 190 €,Wohnfläche ca. 37 m²,Zi. 1,34,13
+5,selObject_44129884,Wohnen auf dem Lande,"['Wohnung', '•', 'Obere', 'Warnow']",[],Miete zzgl. NK 310 €,Wohnfläche ca. 74 m²,Zi. 4,34,13
+6,selObject_44129445,Wohnen auf dem Lande,"['Wohnung', '•', 'Obere', 'Warnow']",['EBK'],Miete zzgl. NK 310 €,Wohnfläche ca. 63 m²,Zi. 3,34,13
+7,selObject_44128979,Mien Hüsung - altengerechtes Wohnen in Bad Kleinen,"['Dachgeschosswohnung', '•', 'Bad', 'Kleinen']",[],"Miete zzgl. NK 327,92 €",Wohnfläche ca. 62 m²,Zi. 2,34,13
+8,selObject_44128862,Große 2-2/2-Raumwohnung mit Badewanne und Balkon,"['Etagenwohnung', '•', 'Stralsund', 'Vogelsang']",['Balkon'],Miete zzgl. NK 344 €,Wohnfläche ca. 79 m²,Zi. 4,34,13
+9,selObject_44128841,2-1/2 Zimmer mit Badewanne und Balkon,"['Etagenwohnung', '•', 'Stralsund', 'Vogelsang']",['Balkon'],Miete zzgl. NK 329 €,Wohnfläche ca. 66 m²,Zi. 3,34,13
+10,selObject_44128586,Gemütliche Single-Wohnung mit Badewanne und Aufzug,"['Etagenwohnung', '•', 'Stralsund', 'Vogelsang']",[],Miete zzgl. NK 238 €,Wohnfläche ca. 32 m²,Zi. 1,34,13
+11,selObject_44128311,2-1/2 Zimmer mit Badewanne und verglasten Balkon,"['Etagenwohnung', '•', 'Stralsund', 'Grünthal-Viermorgen']",['Balkon'],Miete zzgl. NK 332 €,Wohnfläche ca. 66 m²,Zi. 3,34,13
+12,selObject_44126822,Nette Nachbarn gesucht!,"['Etagenwohnung', '•', 'Schwerin', 'Mueßer', 'Holz']","['Balkon', 'EBK']",Miete zzgl. NK 346 €,Wohnfläche ca. 65 m²,Zi. 4,34,13
+13,selObject_44120835,Freundliche Wohnung sucht freundliche Mieter,"['Etagenwohnung', '•', 'Wolgast', 'Wolgast']","['Balkon', 'EBK']",Miete zzgl. NK 479 €,Wohnfläche ca. 87 m²,Zi. 4,34,13
+14,selObject_44118303,Ruhiges Wohnen auf dem Dorf,"['Etagenwohnung', '•', 'Brunn', 'Brunn']",['Balkon'],Miete zzgl. NK 230 €,Wohnfläche ca. 46 m²,Zi. 2,34,13
+15,selObject_44112583,"Schönes Studentenzimmer mit Aufzug, Balkon und EBK in...","['Etagenwohnung', '•', 'Stralsund', 'Altstadt']","['Balkon', 'EBK']",Miete zzgl. NK 180 €,Wohnfläche ca. 24 m²,Zi. 1,34,13
+16,selObject_44109590,2 Zimmerwohnung,"['Wohnung', '•', 'Schwerin', 'Mueß']",[],Miete zzgl. NK 350 €,Wohnfläche ca. 40 m²,Zi. 2,34,13
+17,selObject_44109228,Genießen Sie hier den Ausblick!,"['Etagenwohnung', '•', 'Schwerin', 'Mueßer', 'Holz']","['Balkon', 'EBK']",Miete zzgl. NK 303 €,Wohnfläche ca. 57 m²,Zi. 3,34,13
+18,selObject_44101359,3R-Wohnung in Ivenack bei Stavenhagen zu vermieten,"['Wohnung', '•', 'Ivenack', 'Ivenack']",[],Miete zzgl. NK 300 €,Wohnfläche ca. 60 m²,Zi. 3,34,13
+19,selObject_44098071,Wohnen auf dem Lande,"['Erdgeschosswohnung', '•', 'Neuenkirchen', 'Ihlenfeld']",['Balkon'],Miete zzgl. NK 300 €,Wohnfläche ca. 60 m²,Zi. 3,34,13
+20,selObject_44097757,Wohnen auf dem Lande,"['Etagenwohnung', '•', 'Blankenhof', 'Chemnitz']",['Garten'],Miete zzgl. NK 300 €,Wohnfläche ca. 57 m²,Zi. 3,34,13
+21,selObject_44082304,Stadtwohnung ~ Gemütlichkeit auf 2-Zimmer mit Duschbad...,"['Dachgeschosswohnung', '•', 'Schwerin', 'Paulsstadt']",['EBK'],Miete zzgl. NK 543 €,Wohnfläche ca. 54 m²,Zi. 2,34,13
+22,selObject_44072400,2-Raumwohnung im Stadtzentrum mit EBK ab 01.09.2021 zu...,"['Etagenwohnung', '•', 'Neustadt-Glewe', 'Neustadt-Glewe']",['EBK'],"Miete zzgl. NK 321,90 €",Wohnfläche ca. 42 m²,Zi. 2,34,13
+23,selObject_44069535,"Wohnen ""Zur Yachtwerft""! Neubau! Exklusive 2-Raum-DG-W...","['Dachgeschosswohnung', '•', 'Rostock', 'Gehlsdorf']",[],Miete zzgl. NK 810 €,Wohnfläche ca. 62 m²,Zi. 2,34,13
+24,selObject_44068021,Wohnen auf dem Lande in ruhiger Lage mit viel Natur,"['Wohnung', '•', 'Karlsburg', 'Karlsburg']",['Balkon'],Miete zzgl. NK 316 €,Wohnfläche ca. 67 m²,Zi. 3,34,13
+25,selObject_44064181,2 Raum-Wohnung mit Balkon,"['Wohnung', '•', 'Anklam', 'Anklam']",['Balkon'],"Miete zzgl. NK 256,19 €",Wohnfläche ca. 69 m²,Zi. 3,34,13
+26,selObject_44051902,Nachhaltig und modern wohnen im Bioniq - Warmmiete...,"['Etagenwohnung', '•', 'Greifswald', 'Fettenvorstadt']",[],Miete inkl. NK 395 €,Wohnfläche ca. 23 m²,Zi. 1,34,13

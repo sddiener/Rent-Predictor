@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44224607,1-Zimmer-Wohnung in Seniorenwohnanlage,"['Etagenwohnung', '•', 'Boxberg', 'Boxberg']","['Balkon', 'EBK']",Miete zzgl. NK 340 €,Wohnfläche ca. 40 m²,Zi. 1,96,8
-1,selObject_44220356,Ferienwohnung mit Basis-Küche in Freiburg/Reute,"['Apartment', '•', 'Reute']",[],Miete inkl. NK 950 €,Wohnfläche ca. 39 m²,Zi. 2,96,8
-2,selObject_44217080,Wohnen am Rhein,"['Etagenwohnung', '•', 'Laufenburg', 'Hauenstein']","['Balkon', 'EBK']",Miete zzgl. NK 900 €,Wohnfläche ca. 105 m²,"Zi. 4,5",96,8
-3,selObject_44213996,Gut aufgeteilte 4 Zimmer-Dachgeschoßwohnung mit Balkon...,"['Dachgeschosswohnung', '•', 'Stuttgart', 'Möhringen']",['Balkon'],Miete zzgl. NK 980 €,Wohnfläche ca. 95 m²,Zi. 4,96,8
-4,selObject_44213953,"Renovierte,homeofficetaugliche 5-Zimmer-Altbauwohnung...","['Wohnung', '•', 'Bad', 'Säckingen', 'Bad', 'Säckingen']",['Balkon'],Miete zzgl. NK 1.150 €,Wohnfläche ca. 125 m²,Zi. 5,96,8
-5,selObject_44213297,1-Zimmer-Wohnung in der Seniorenwohnanlage Niederstett...,"['Etagenwohnung', '•', 'Niederstetten', 'Niederstetten']","['Balkon', 'EBK']","Miete zzgl. NK 190,70 €",Wohnfläche ca. 36 m²,Zi. 1,96,8
-6,selObject_44208007,Mannheim-Neckarau - Schöne 5-Zi.-Whg./ Einfamilienhaus...,"['Wohnung', '•', 'Mannheim', 'Neckarau']",['Balkon'],Miete zzgl. NK 1.420 €,Wohnfläche ca. 132 m²,Zi. 5,96,8
-7,selObject_44199657,Herrschaftlich Wohnen im Herzen Müllheims! Traumwohnun...,"['Etagenwohnung', '•', 'Müllheim', 'Britzingen']",['Balkon'],Miete zzgl. NK 1.380 €,Wohnfläche ca. 162 m²,"Zi. 4,5",96,8
-8,selObject_44198767,Luxus pur - möbliertes Loft mitten in Stuttgart,"['Loft-Studio-Atelier', '•', 'Stuttgart', 'Süd']",['EBK'],Miete zzgl. NK 3.700 €,Wohnfläche ca. 250 m²,Zi. 2,96,8
-9,selObject_44198389,Schöne Wohnung in Hohentengen-Herdern,"['Etagenwohnung', '•', 'Hohentengen', 'Herdern']",['EBK'],Miete zzgl. NK 680 €,Wohnfläche ca. 89 m²,"Zi. 3,5",96,8
-10,selObject_44198218,"Möblierte wunderschöne 2,5-Zimmer-Wohnung in Radolfzel...","['Wohnung', '•', 'Radolfzell', 'Radolfzell']","['Balkon', 'EBK']",Miete zzgl. NK 800 €,Wohnfläche ca. 57 m²,"Zi. 2,5",96,8
-11,selObject_44190214,Erstbezug: Helle Mietwohnungen im betreuten Wohnen W10,"['Etagenwohnung', '•', 'Engen', 'Anselfingen']",['EBK'],"Miete zzgl. NK 1.208,90 €",Wohnfläche ca. 88 m²,"Zi. 3,5",96,8
-12,selObject_44189955,VON POLL IMMOBILIEN Neubau- Erstbezug elegantes Wohnen...,"['Wohnung', '•', 'Sinsheim', 'Sinsheim']",[],Miete zzgl. NK 1.650 €,Wohnfläche ca. 110 m²,,96,8
-13,selObject_44189416,Großzügige 3-Zimmer-Wohnung in sonniger Lage von Dette...,"['Wohnung', '•', 'Dettenhausen']","['Balkon', 'EBK']",Miete zzgl. NK 1.100 €,Wohnfläche ca. 114 m²,Zi. 3,96,8
-14,selObject_44188837,EINFACH EINZIEHEN UND WOHLFÜHLEN ! 1x WG-Appartement...,"['Apartment', '•', 'Villingen-Schwenningen', 'Villingen']",['EBK'],Miete zzgl. NK 385 €,Wohnfläche ca. 16 m²,Zi. 1,96,8
-15,selObject_44188827,"**Ab sofort **Helle große 2,5 Zimmer Wohnung in Schwen...","['Wohnung', '•', 'Villingen-Schwenningen', 'Schwenningen']",['EBK'],Miete zzgl. NK 650 €,Wohnfläche ca. 90 m²,Zi. 3,96,8
-16,selObject_44182179,"Ruhige 3-Zimmer Dachgeschoss Wohnung, befristet","['Wohnung', '•', 'Binzen']","['Balkon', 'EBK']",Miete zzgl. NK 1.200 €,Wohnfläche ca. 72 m²,Zi. 3,96,8
-17,selObject_44175952,PLZ 79686 möblierte Apartmentwohnungen mit Lift in...,"['Dachgeschosswohnung', '•', 'Hasel']",['EBK'],Miete inkl. NK 630 €,Wohnfläche ca. 38 m²,Zi. 1,96,8
-18,selObject_44175944,NEUBAU! Studenten-Apartments in Freiburg-Wiehre,"['Apartment', '•', 'Freiburg', 'Herdern']",['Balkon'],Miete zzgl. NK 460 €,Wohnfläche ca. 23 m²,Zi. 1,96,8
-19,selObject_44173091,Studentenzimmer in FH-Nähe in Reutlingen,"['Wohnung', '•', 'Reutlingen', 'Hohbuch']",[],Miete zzgl. NK 255 €,Wohnfläche ca. 15 m²,Zi. 1,96,8
-20,selObject_44172400,Drei-Zimmer-City-Wohnung mit gigantischer Aussicht,"['Wohnung', '•', 'Stuttgart', 'Ost']","['Balkon', 'EBK']",Miete zzgl. NK 1.928 €,Wohnfläche ca. 97 m²,Zi. 3,96,8
-21,selObject_44172398,Neubau-Erstbezug einer 2 Zimmer-Wohnung mit herrlichem...,"['Etagenwohnung', '•', 'Stuttgart', 'Ost']","['Balkon', 'EBK']",Miete zzgl. NK 1.998 €,Wohnfläche ca. 97 m²,Zi. 2,96,8
-22,selObject_44172263,"Möblierte 2,5 Zimmer Wohnung in Weil am Rhein","['Wohnung', '•', 'Weil', 'am', 'Rhein', 'Weil', 'am', 'Rhein']",['EBK'],Miete zzgl. NK 905 €,Wohnfläche ca. 63 m²,"Zi. 2,5",96,8
-23,selObject_44172074,3-Zimmer-Mietwohnung in Rheinfelden / Stadtgebiet mit...,"['Etagenwohnung', '•', 'Rheinfelden', 'Rheinfelden']",['Balkon'],Miete zzgl. NK 900 €,Wohnfläche ca. 84 m²,Zi. 3,96,8
-24,selObject_44167815,Großzügige 2 Zimmer - sehr ruhig und trotzdem verkehrs...,"['Etagenwohnung', '•', 'Stuttgart', 'Süd']","['Balkon', 'EBK']",Miete zzgl. NK 875 €,Wohnfläche ca. 67 m²,"Zi. 2,5",96,8
-25,selObject_44161904,"Möblierte 1,5-Zimmer Wohnung in Weinsberg","['Etagenwohnung', '•', 'Weinsberg', 'Weinsberg']",[],Miete zzgl. NK 700 €,Wohnfläche ca. 32 m²,Zi. 2,96,8
-26,selObject_44161766,Moderne 3-Zimmerwohnungen,"['Etagenwohnung', '•', 'Kehl', 'Auenheim']","['Balkon', 'EBK']",Miete zzgl. NK 778 €,Wohnfläche ca. 86 m²,Zi. 3,96,8
+0,selObject_44355690,"Schöne, lichtdurchflutete 2- Zimmer Wohnung in Grenzac...","[['Wohnung', '•', 'Grenzach-Wyhlen', 'Grenzach']]","['Garten', 'EBK']",Miete zzgl. NK 960 €,Wohnfläche ca. 60 m²,Zi. 2,96,8
+1,selObject_44355686,"Möblierte 3-Zimmerwohnung in Kandern, befristet","[['Wohnung', '•', 'Kandern', 'Kandern']]","['Garten', 'EBK']",Miete zzgl. NK 850 €,Wohnfläche ca. 50 m²,Zi. 3,96,8
+2,selObject_44355147,Hellauf begeistert: zentral & gemütlich - 2-Zimmer-DG-...,"[['Dachgeschosswohnung', '•', 'Korntal-Münchingen', 'Korntal']]","['Balkon', 'EBK']",Miete zzgl. NK 870 €,Wohnfläche ca. 74 m²,Zi. 2,96,8
+3,selObject_44352265,"Mannheim P2 6, 1.OG links hinten; geräumige und gepfl...","[['Etagenwohnung', '•', 'Mannheim', 'Quadrate']]","['Balkon', 'EBK']",Miete zzgl. NK 748 €,Wohnfläche ca. 68 m²,Zi. 2,96,8
+4,selObject_44351500,"Klein aber fein, Wochenendheimfahrer gesucht !","[['Souterrainwohnung', '•', 'Rottenburg', 'Rottenburg']]",[],Miete zzgl. NK 370 €,Wohnfläche ca. 24 m²,Zi. 1,96,8
+5,selObject_44350694,4 Zimmer Wohnung im Stadtzentrum/Lörrach,"[['Etagenwohnung', '•', 'Lörrach', 'Lörrach']]","['Balkon', 'EBK']",Miete zzgl. NK 1.100 €,Wohnfläche ca. 75 m²,Zi. 4,96,8
+6,selObject_44346440,* Penthouse-Wohnung mit 90 m² großer Terrasse im schön...,"[['Penthouse', '•', 'Bad', 'Herrenalb', 'Bad', 'Herrenalb']]","['Balkon', 'EBK']",Miete zzgl. NK 1.150 €,Wohnfläche ca. 120 m²,"Zi. 3,5",96,8
+7,selObject_44342604,Befristete Vermietung von 2 Zi Neubau Whg bis max....,"[['Wohnung', '•', 'Owingen', 'Owingen']]",['Balkon'],Miete zzgl. NK 717 €,Wohnfläche ca. 64 m²,Zi. 2,96,8
+8,selObject_44337078,Hatz Areal - Das Tor zur Innenstadt,"[['Etagenwohnung', '•', 'Rastatt', 'Rastatt']]",[],Miete zzgl. NK 1.200 €,Wohnfläche ca. 112 m²,Zi. 4,96,8
+9,selObject_44337070,Neubau-Erstbezug - Moderne 3-Zimmer-Wohnung mit 2 Logg...,"[['Etagenwohnung', '•', 'Rastatt', 'Rastatt']]",[],Miete zzgl. NK 970 €,Wohnfläche ca. 89 m²,Zi. 3,96,8
+10,selObject_44337068,Neubau-Erstbezug - Moderne 3-Zimmer-Wohnung mit 2 Logg...,"[['Etagenwohnung', '•', 'Rastatt', 'Rastatt']]",[],Miete zzgl. NK 970 €,Wohnfläche ca. 89 m²,Zi. 3,96,8
+11,selObject_44336962,Hirschberg: Helle 2-Zimmer Wohnung,"[['Wohnung', '•', 'Hirschberg', 'Leutershausen']]",['Garten'],Miete zzgl. NK 620 €,Wohnfläche ca. 45 m²,Zi. 2,96,8
+12,selObject_44336926,Hirschberg: Helle 2-Zimmer Wohnung,"[['Wohnung', '•', 'Hirschberg', 'Leutershausen']]",['Garten'],Miete zzgl. NK 620 €,Wohnfläche ca. 45 m²,Zi. 2,96,8
+13,selObject_44327565,"Große sonnige 4,5-Zimmer Erdgeschosswohnung mit Einbau...","[['Erdgeschosswohnung', '•', 'Riedhausen']]",['EBK'],Miete zzgl. NK 790 €,Wohnfläche ca. 132 m²,"Zi. 4,5",96,8
+14,selObject_44324346,"Schöne 2,5 Zimmer Dachwohnung in ruhiger Wohngegend in...","[['Wohnung', '•', 'Weil', 'am', 'Rhein', 'Haltingen']]","['Balkon', 'EBK']",Miete zzgl. NK 1.020 €,Wohnfläche ca. 85 m²,"Zi. 2,5",96,8
+15,selObject_44324088,"LAHR-ZENTRUM, 4-Zimmerwohnung mit Wintergarten über...","[['Etagenwohnung', '•', 'Lahr', 'Hugsweier']]",['EBK'],Miete zzgl. NK 1.165 €,Wohnfläche ca. 179 m²,Zi. 4,96,8
+16,selObject_44323433,5-6 Zimmerwohnung in der Stadt renovierungsbedürftig...,"[['Etagenwohnung', '•', 'Bad', 'Mergentheim', 'Bad', 'Mergentheim']]",[],Miete zzgl. NK 700 €,Wohnfläche ca. 100 m²,Zi. 5,96,8
+17,selObject_44322166,~~ DACHGESCHOSS MIT 40 QM TERRASSE IN GEHOBENER AUSTAT...,"[['Dachgeschosswohnung', '•', 'Waghäusel', 'Kirrlach']]",['EBK'],Miete zzgl. NK 1.200 €,Wohnfläche ca. 130 m²,"Zi. 3,5",96,8
+18,selObject_44321100,Genial zentral,"[['Etagenwohnung', '•', 'Mannheim', 'Jungbusch']]",['Balkon'],"Miete zzgl. NK 767,66 €",Wohnfläche ca. 73 m²,Zi. 3,96,8
+19,selObject_44321094,1 Zimmer Studio Stutensee-Büchig mit tollem Fernblick,"[['Etagenwohnung', '•', 'Stutensee', 'Blankenloch']]","['Balkon', 'EBK']",Miete zzgl. NK 440 €,Wohnfläche ca. 40 m²,Zi. 1,96,8
+20,selObject_44312491,Neubau* Gemütliche 2-Zimmer Wohnung mit Terrasse und...,"[['Erdgeschosswohnung', '•', 'Lörrach', 'Brombach']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 965 €,Wohnfläche ca. 61 m²,Zi. 2,96,8
+21,selObject_44311996,***Schöne 4-Zimmer Wohnung mitten in der Stadt***,"[['Dachgeschosswohnung', '•', 'Pforzheim', 'Innenstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 790 €,Wohnfläche ca. 110 m²,Zi. 4,96,8
+22,selObject_44310882,Auf Dauer oder als Zweitwohnsitz: Komfortable 2 Zimmer...,"[['Erdgeschosswohnung', '•', 'Breitnau']]","['Garten', 'EBK']",Miete zzgl. NK 800 €,Wohnfläche ca. 70 m²,"Zi. 2,5",96,8
+23,selObject_44310010,Modern - Das seh' ich gern!,"[['Etagenwohnung', '•', 'Esslingen', 'Stadtmitte']]",[],Miete zzgl. NK 1.366 €,Wohnfläche ca. 137 m²,Zi. 4,96,8
+24,selObject_44309993,ab 01.07.2021 - 2 Zimmer Wohnung in Balingen - Dürrwan...,"[['Dachgeschosswohnung', '•', 'Balingen', 'Dürrwangen']]",['EBK'],Miete zzgl. NK 690 €,Wohnfläche ca. 60 m²,Zi. 2,96,8
+25,selObject_44306143,Ein tolles Wohngefühl - 1 Zimmerwohnung in Haltingen,"[['Etagenwohnung', '•', 'Weil', 'am', 'Rhein', 'Haltingen']]",[],Miete zzgl. NK 650 €,Wohnfläche ca. 34 m²,Zi. 1,96,8
+26,selObject_44304310,5-Zimmerwohnung in Crailsheim,"[['Etagenwohnung', '•', 'Crailsheim', 'Crailsheim']]",[],Miete zzgl. NK 810 €,Wohnfläche ca. 109 m²,Zi. 5,96,8

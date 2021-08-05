@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44785513,Diese tolle 4-Zimmerwohnung mit Balkon wartet auf Sie!,"['Etagenwohnung', '•', 'Teuchern', 'Teuchern']",['Balkon'],"Miete zzgl. NK 301,50 €",Wohnfläche ca. 67 m²,Zi. 4,51,15
-1,selObject_44785442,Perfekt für jedes Alter: Exklusives Wohnen im sanierte...,"['Etagenwohnung', '•', 'Halle', 'Altstadt']",['Balkon'],"Miete zzgl. NK 1.698,30 €",Wohnfläche ca. 166 m²,Zi. 3,51,15
-2,selObject_44785232,Klein und fein - hier wartet deine erste eigene Wohnun...,"['Etagenwohnung', '•', 'Salzatal', 'Schiepzig']",[],Miete zzgl. NK 180 €,Wohnfläche ca. 25 m²,Zi. 1,51,15
-3,selObject_44785223,"** lichtdurchflutet, attraktiv, geräumig - 3 Raum Wohn...","['Apartment', '•', 'Frose']",[],Miete zzgl. NK 336 €,Wohnfläche ca. 56 m²,Zi. 3,51,15
-4,selObject_44785049,3-Raum-Wohnung mit Balkon zu vermieten!,"['Wohnung', '•', 'Bad', 'Dürrenberg', 'Bad', 'Dürrenberg']","['Balkon', 'EBK']",Miete zzgl. NK 327 €,Wohnfläche ca. 61 m²,Zi. 3,51,15
-5,selObject_44785048,"3 Zimmer im Erdgeschoss zum Wohlfühlen, ein Balkon zum...","['Erdgeschosswohnung', '•', 'Bad', 'Dürrenberg', 'Bad', 'Dürrenberg']",['Balkon'],Miete zzgl. NK 381 €,Wohnfläche ca. 60 m²,Zi. 3,51,15
-6,selObject_44785047,"Ihr neues Zu Hause, tolle 2-R-Wohnung mit Balkon","['Wohnung', '•', 'Bad', 'Dürrenberg', 'Bad', 'Dürrenberg']",['Balkon'],Miete zzgl. NK 266 €,Wohnfläche ca. 48 m²,Zi. 2,51,15
-7,selObject_44785044,2-Raumwohnung mit Dusche und Balkon,"['Erdgeschosswohnung', '•', 'Zeitz', 'Zeitz']",['Balkon'],Miete zzgl. NK 351 €,Wohnfläche ca. 59 m²,Zi. 2,51,15
-8,selObject_44785042,Wohnen auf dem Land!,"['Erdgeschosswohnung', '•', 'Elsteraue', 'Profen']",[],Miete zzgl. NK 306 €,Wohnfläche ca. 66 m²,Zi. 3,51,15
-9,selObject_44784892,Mietwohnung in Halle (S.) - Giebichensteinviertel,"['Etagenwohnung', '•', 'Halle', 'Giebichenstein']",[],"Miete zzgl. NK 591,26 €",Wohnfläche ca. 71 m²,Zi. 2,51,15
-10,selObject_44784873,Zentrale 3-Raum-Wohnung - frei ab sofort,"['Wohnung', '•', 'Salzwedel', 'Salzwedel']",[],Miete zzgl. NK 360 €,Wohnfläche ca. 66 m²,Zi. 3,51,15
-11,selObject_44784791,6 Raumwohnung mit Balkon!!! - EG,"['Erdgeschosswohnung', '•', 'Merseburg', 'Merseburg']",['Balkon'],Miete zzgl. NK 643 €,Wohnfläche ca. 117 m²,Zi. 6,51,15
-12,selObject_44784345,** 3 Raum Wohnung im Grünen **,"['Apartment', '•', 'Frose']",['Garten'],Miete zzgl. NK 370 €,Wohnfläche ca. 62 m²,Zi. 3,51,15
-13,selObject_44783709,Merseburg Fliegerstädtchen - ruhige und geräumige 2-Zi...,"['Etagenwohnung', '•', 'Merseburg', 'Merseburg']","['Balkon', 'Garten']",Miete zzgl. NK 415 €,Wohnfläche ca. 60 m²,Zi. 2,51,15
-14,selObject_44783635,2- Raum- Wohnung in Burg bei Magdeburg,"['Wohnung', '•', 'Burg', 'Burg']",['Balkon'],Miete zzgl. NK 365 €,Wohnfläche ca. 65 m²,Zi. 2,51,15
-15,selObject_44783626,Großzügig geschnittene 4-Raumwohnung im Dachgeschoss I...,"['Dachgeschosswohnung', '•', 'Bitterfeld-Wolfen', 'Bitterfeld']",[],Miete zzgl. NK 515 €,Wohnfläche ca. 95 m²,Zi. 4,51,15
-16,selObject_44783599,Merseburg-Süd - Über den Dächern von Merseburg - schön...,"['Etagenwohnung', '•', 'Merseburg', 'Merseburg']","['Balkon', 'Garten']",Miete zzgl. NK 480 €,Wohnfläche ca. 80 m²,Zi. 2,51,15
-17,selObject_44783536,Merseburg-Süd: geräumige 3-Zimmer-Wohnung mit Weitblic...,"['Etagenwohnung', '•', 'Merseburg', 'Merseburg']","['Balkon', 'Garten']",Miete zzgl. NK 550 €,Wohnfläche ca. 85 m²,Zi. 3,51,15
-18,selObject_44783498,EG- Wohnung mit Balkon zu vermieten!,"['Erdgeschosswohnung', '•', 'Magdeburg', 'Leipziger', 'Str.']",['Balkon'],Miete zzgl. NK 370 €,Wohnfläche ca. 59 m²,Zi. 3,51,15
-19,selObject_44783464,+++ Sehr attraktive 2-Zi.-Mietwohnung im Stadtkern+++,"['Wohnung', '•', 'Seehausen', 'Behrend']",[],Miete zzgl. NK 270 €,Wohnfläche ca. 43 m²,Zi. 2,51,15
-20,selObject_44783459,RENOVIERUNG hat begonnen! Großzügige 5-RW mit Garten...,"['Erdgeschosswohnung', '•', 'Halle', 'Innenstadt']",['Garten'],Miete zzgl. NK 1.400 €,Wohnfläche ca. 210 m²,Zi. 5,51,15
-21,selObject_44783454,große 2- Raum- Wohnung mit Studio in Burg bei Magdebur...,"['Wohnung', '•', 'Burg', 'Burg']",['EBK'],Miete zzgl. NK 390 €,Wohnfläche ca. 78 m²,Zi. 2,51,15
-22,selObject_44782590,Gemütliche Wohnung für Wohnungsanfänger in waldreicher...,"['Wohnung', '•', 'Dessau-Roßlau', 'Roßlau']",['EBK'],Miete zzgl. NK 170 €,Wohnfläche ca. 34 m²,Zi. 2,51,15
-23,selObject_44782543,Großzügiger Wohn-Essbereich & offene Küche * 2 ZKB...,"['Etagenwohnung', '•', 'Halle', 'Innenstadt']",['Balkon'],Miete zzgl. NK 620 €,Wohnfläche ca. 62 m²,Zi. 2,51,15
-24,selObject_44782535,"Kleines Schmuckstück auf dem Werder, mit Balkon, Einba...","['Etagenwohnung', '•', 'Magdeburg', 'Werder']",['Balkon'],Miete zzgl. NK 449 €,Wohnfläche ca. 53 m²,Zi. 2,51,15
-25,selObject_44782493,2- Raum- Wohnung im Dachgeschoss mit großer Küche in...,"['Dachgeschosswohnung', '•', 'Burg', 'Burg']",['Balkon'],Miete zzgl. NK 433 €,Wohnfläche ca. 69 m²,Zi. 2,51,15
-26,selObject_44782477,1-Raumwohnung zentral gelegen in Bitterfeld,"['Erdgeschosswohnung', '•', 'Bitterfeld-Wolfen', 'Bitterfeld']",['Garten'],Miete zzgl. NK 200 €,Wohnfläche ca. 33 m²,Zi. 1,51,15
+0,selObject_44806707,2-Zimmer-Dachgeschosswohnung im Hinterhaus zu vermiete...,"[['Dachgeschosswohnung', '•', 'Halle', 'Lutherplatz']]",[],Miete zzgl. NK 280 €,Wohnfläche ca. 57 m²,Zi. 2,51,15
+1,selObject_44806283,kleine 3-Raum-Wohnung im Altneubau,"[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Blankenburg', 'Blankenburg']]",['Balkon'],Miete zzgl. NK 329 €,Wohnfläche ca. 59 m²,Zi. 3,51,15
+2,selObject_44806281,Sanierte 3-Raum-Wohnung in zentraler Lage,"[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Blankenburg', 'Blankenburg']]",['Balkon'],Miete zzgl. NK 373 €,Wohnfläche ca. 65 m²,Zi. 3,51,15
+3,selObject_44805632,Moderne 3-Raum-Wohnung - Erdgeschoss,"[['Kein', 'Bild'], ['Erdgeschosswohnung', '•', 'Blankenburg', 'Blankenburg']]",['Balkon'],Miete zzgl. NK 341 €,Wohnfläche ca. 65 m²,Zi. 3,51,15
+4,selObject_44805546,Hier finden Sie Ihr neues Zuhause,"[['Etagenwohnung', '•', 'Naumburg', 'Naumburg']]",[],Miete zzgl. NK 260 €,Wohnfläche ca. 50 m²,Zi. 2,51,15
+5,selObject_44805545,Großzügige Dachgeschosswohnung,"[['Dachgeschosswohnung', '•', 'Naumburg', 'Bad', 'Kösen']]",[],Miete zzgl. NK 350 €,Wohnfläche ca. 69 m²,Zi. 2,51,15
+6,selObject_44805330,Schöne 2-Zimmer-Wohnung mit Waldblick,"[['Wohnung', '•', 'Dessau-Roßlau', 'Kochstedt']]",[],Miete zzgl. NK 386 €,Wohnfläche ca. 68 m²,Zi. 2,51,15
+7,selObject_44805311,+++ 2 Raumwohnung in Großkugel +++,"[['Wohnung', '•', 'Kabelsketal', 'Großkugel']]",[],Miete zzgl. NK 300 €,Wohnfläche ca. 51 m²,Zi. 2,51,15
+8,selObject_44805272,1-Raum-Wohnung mit eigenem Eingang,"[['Wohnung', '•', 'Bismark', 'Bismark']]",[],Miete zzgl. NK 250 €,Wohnfläche ca. 47 m²,Zi. 1,51,15
+9,selObject_44805247,Studenten aufgepasst!!,"[['Etagenwohnung', '•', 'Magdeburg', 'Alte', 'Neustadt']]",['Balkon'],"Miete zzgl. NK 361,95 €",Wohnfläche ca. 38 m²,Zi. 1,51,15
+10,selObject_44803973,Jede Menge Platz! Großer Balkon! 3-Zimmer in super...,"[['Wohnung', '•', 'Dessau-Roßlau', 'Innenstadt']]",[],Miete zzgl. NK 750 €,Wohnfläche ca. 125 m²,Zi. 3,51,15
+11,selObject_44803943,Mich zieht es nach Stadtfeld West!,"[['Etagenwohnung', '•', 'Magdeburg', 'Diesdorf']]",['Balkon'],"Miete zzgl. NK 292,26 €",Wohnfläche ca. 49 m²,Zi. 2,51,15
+12,selObject_44803941,Einfach einziehen & glücklich werden,"[['Etagenwohnung', '•', 'Magdeburg', 'Neustädter', 'See']]",[],"Miete zzgl. NK 359,10 €",Wohnfläche ca. 65 m²,Zi. 2,51,15
+13,selObject_44803938,Jeden m² ganz individuell gestalten,"[['Etagenwohnung', '•', 'Magdeburg', 'Neustädter', 'See']]",['Balkon'],"Miete zzgl. NK 268,79 €",Wohnfläche ca. 49 m²,Zi. 2,51,15
+14,selObject_44803937,Traumhafte Wohnung in ruhiger Lage mit großzügigem...,"[['Etagenwohnung', '•', 'Magdeburg', 'Stadtfeld', 'West']]",['Balkon'],"Miete zzgl. NK 344,19 €",Wohnfläche ca. 60 m²,Zi. 3,51,15
+15,selObject_44801375,"Schöner Wohnen in Barleben OT Ebendorf - Balkon, Einba...","[['Dachgeschosswohnung', '•', 'Barleben', 'Ebendorf']]","['Balkon', 'EBK']",Miete zzgl. NK 495 €,Wohnfläche ca. 74 m²,Zi. 2,51,15
+16,selObject_44800735,"WIR SANIEREN FÜR SIE! 2 Zimmer mit Balkon , ab Herbst...","[['Etagenwohnung', '•', 'Halle', 'Heide', 'Nord']]",['Balkon'],Miete zzgl. NK 291 €,Wohnfläche ca. 49 m²,Zi. 2,51,15
+17,selObject_44800333,Kleines Reich mit kurzen Wegen,"[['Erdgeschosswohnung', '•', 'Halle', 'Südliche', 'Neustadt']]",['Balkon'],Miete zzgl. NK 252 €,Wohnfläche ca. 42 m²,Zi. 2,51,15
+18,selObject_44800332,Gemütliches Studentenapartment,"[['Erdgeschosswohnung', '•', 'Halle', 'Nördliche', 'Neustadt']]","['Balkon', 'EBK']",Miete zzgl. NK 154 €,Wohnfläche ca. 27 m²,Zi. 1,51,15
+19,selObject_44800123,Junges Wohnen,"[['Wohnung', '•', 'Dessau-Roßlau', 'Innenstadt']]",[],Miete zzgl. NK 260 €,Wohnfläche ca. 33 m²,Zi. 1,51,15
+20,selObject_44800120,Erdgeschoß-Wohnung,"[['Wohnung', '•', 'Dessau-Roßlau', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 535 €,Wohnfläche ca. 54 m²,Zi. 2,51,15
+21,selObject_44800119,*Sanierte Familienwohnung sucht DICH*,"[['Wohnung', '•', 'Dessau-Roßlau', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 315 €,Wohnfläche ca. 56 m²,Zi. 3,51,15
+22,selObject_44800118,Bezugsfertiger Wohnraum,"[['Wohnung', '•', 'Dessau-Roßlau', 'Innenstadt']]",[],Miete zzgl. NK 320 €,Wohnfläche ca. 44 m²,Zi. 2,51,15
+23,selObject_44800117,Familienwohnung,"[['Wohnung', '•', 'Dessau-Roßlau', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 335 €,Wohnfläche ca. 57 m²,Zi. 3,51,15
+24,selObject_44800116,Kurzexposé 36/795,"[['Wohnung', '•', 'Dessau-Roßlau', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 370 €,Wohnfläche ca. 57 m²,Zi. 3,51,15
+25,selObject_44799026,Schön geschnittene 2-Raumwohnung,"[['Etagenwohnung', '•', 'Bitterfeld-Wolfen', 'Bitterfeld']]",[],Miete zzgl. NK 230 €,Wohnfläche ca. 42 m²,Zi. 2,51,15
+26,selObject_44799022,Großzügig geschnittene 1-Raumwohnung I mit Tageslichtb...,"[['Erdgeschosswohnung', '•', 'Bitterfeld-Wolfen', 'Bitterfeld']]",[],Miete zzgl. NK 260 €,Wohnfläche ca. 47 m²,Zi. 1,51,15

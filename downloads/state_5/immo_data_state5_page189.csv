@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44599790,STADTNAHE Maisonette - Wohnung mit BLICK INS GRÜNE!,"['Maisonette', '•', 'Hamm']","['Balkon', 'EBK']",Miete zzgl. NK 930 €,Wohnfläche ca. 155 m²,Zi. 3,189,5
-1,selObject_44599328,"***Krefeld Zentrum - 2,5 Zimmer mit Dachterrasse***","['Wohnung', '•', 'Krefeld', 'Stadtmitte']",[],Miete zzgl. NK 450 €,Wohnfläche ca. 45 m²,,189,5
-2,selObject_44598766,Nähe Uni! 2 Zimmer DG-Wohnung mit kleinem Balkon in...,"['Etagenwohnung', '•', 'Duisburg', 'Neudorf-Nord']",['Balkon'],Miete zzgl. NK 320 €,Wohnfläche ca. 60 m²,Zi. 2,189,5
-3,selObject_44598406,"Aachen-Forst, Trierer Straße: Gemütliches Einraum-Apar...","['Dachgeschosswohnung', '•', 'Aachen', 'Aachen']",[],Miete zzgl. NK 350 €,Wohnfläche ca. 22 m²,Zi. 1,189,5
-4,selObject_44598355,Geräumige 2 Zimmerwohnung mit Balkon in Hürth-Hermülhe...,"['Wohnung', '•', 'Hürth', 'Hermülheim']",['Balkon'],Miete zzgl. NK 565 €,Wohnfläche ca. 63 m²,Zi. 2,189,5
-5,selObject_44598255,"Aachen-Forst: 4 ZKDB, G-Wc, Abst.-Raum, Balkon - 2. OG...","['Etagenwohnung', '•', 'Aachen', 'Aachen']",['Balkon'],Miete zzgl. NK 880 €,Wohnfläche ca. 88 m²,Zi. 4,189,5
-6,selObject_44597829,**Helle und frisch renovierte 2-Zimmer Wohnung in Alte...,"['Etagenwohnung', '•', 'Hagen', 'Altenhagen']",[],Miete zzgl. NK 325 €,Wohnfläche ca. 54 m²,Zi. 2,189,5
-7,selObject_44597188,1 Monat mietfreie Zeit* - 2-Zi-Wohnung mit Balkon -...,"['Wohnung', '•', 'Gelsenkirchen', 'Altstadt']",['Balkon'],Miete zzgl. NK 430 €,Wohnfläche ca. 58 m²,Zi. 2,189,5
-8,selObject_44596893,"1 R KDB, 41 m², Einbauküche, Komfort-Duschbad, Rundum-...","['Apartment', '•', 'Essen', 'Südostviertel']",['EBK'],Miete zzgl. NK 410 €,Wohnfläche ca. 41 m²,Zi. 1,189,5
-9,selObject_44596669,Ihre Zukunft - Ihre Wohnung: 3-Zimmer-Wohnung,"['Etagenwohnung', '•', 'Leverkusen', 'Steinbüchel']",['Balkon'],"Miete zzgl. NK 599,76 €",Wohnfläche ca. 71 m²,Zi. 3,189,5
-10,selObject_44596655,"Klasse 3-Zimmer-Wohnung ,vollständig renoviert! Jetzt...","['Dachgeschosswohnung', '•', 'Essen', 'Altendorf']",[],"Miete zzgl. NK 604,58 €",Wohnfläche ca. 68 m²,"Zi. 3,5",189,5
-11,selObject_44596628,"Wir haben, was Sie möchten: gemütliche 2 Zimmer Wohnun...","['Etagenwohnung', '•', 'Recklinghausen', 'Ost']",['Balkon'],"Miete zzgl. NK 421,98 €",Wohnfläche ca. 65 m²,"Zi. 2,5",189,5
-12,selObject_44596606,Stop! Günstige 2-Zimmer-Wohnung,"['Etagenwohnung', '•', 'Recklinghausen', 'Ost']",['Balkon'],"Miete zzgl. NK 519,41 €",Wohnfläche ca. 70 m²,Zi. 2,189,5
-13,selObject_44596455,Schöne Wohnung: ansprechende 2-Zimmer-Wohnung,"['Erdgeschosswohnung', '•', 'Recklinghausen', 'Ost']",[],"Miete zzgl. NK 328,77 €",Wohnfläche ca. 51 m²,Zi. 2,189,5
-14,selObject_44596376,Ihre Zukunft - Ihre Wohnung: interessante 2-Zimmer-Woh...,"['Erdgeschosswohnung', '•', 'Hattingen', 'Welper']",[],"Miete zzgl. NK 384,29 €",Wohnfläche ca. 46 m²,Zi. 2,189,5
-15,selObject_44596349,Renovierte 3-Zimmerwohnung in Sieker zu vermieten.,"['Etagenwohnung', '•', 'Bielefeld', 'Innenstadt']",['Balkon'],"Miete zzgl. NK 584,67 €",Wohnfläche ca. 66 m²,Zi. 3,189,5
-16,selObject_44596286,"Jetzt zugreifen: Gemütliche 2,5-Zimmer-Wohnung mit...","['Erdgeschosswohnung', '•', 'Leverkusen', 'Küppersteg']",['Balkon'],"Miete zzgl. NK 576,74 €",Wohnfläche ca. 56 m²,"Zi. 2,5",189,5
-17,selObject_44596171,"Nimm mich! Individuelle 3,5-Zimmer-Wohnung","['Etagenwohnung', '•', 'Herten', 'Bertlich']",['Balkon'],"Miete zzgl. NK 407,30 €",Wohnfläche ca. 65 m²,"Zi. 3,5",189,5
-18,selObject_44595175,Stopp! Kleine 3-Zimmer-Wohnung zum guten Preis!,"['Etagenwohnung', '•', 'Gelsenkirchen', 'Hassel']",[],Miete zzgl. NK 299 €,Wohnfläche ca. 51 m²,Zi. 3,189,5
-19,selObject_44595170,Ruhig gelegene EG-Wohnung mit Duschbad sucht neue Miet...,"['Erdgeschosswohnung', '•', 'Herne', 'Unser', 'Fritz']",[],Miete zzgl. NK 389 €,Wohnfläche ca. 54 m²,Zi. 3,189,5
-20,selObject_44595159,2-Raum-Wohnung mit Mediaanschluss ab sofort zu mieten...,"['Etagenwohnung', '•', 'Bad', 'Oeynhausen', 'Eidinghausen']",['Balkon'],"Miete zzgl. NK 318,93 €",Wohnfläche ca. 58 m²,Zi. 2,189,5
-21,selObject_44595087,+++ IBF Immo +++ Wohnquartier Alsdorf am Weiher! Die...,"['Etagenwohnung', '•', 'Alsdorf', 'Ofden']","['Balkon', 'EBK']","Miete zzgl. NK 907,98 €",Wohnfläche ca. 75 m²,Zi. 3,189,5
-22,selObject_44594863,+++ IBF Immo +++ Wohnquartier Alsdorf am Weiher! Die...,"['Etagenwohnung', '•', 'Alsdorf', 'Ofden']","['Balkon', 'EBK']","Miete zzgl. NK 1.289,62 €",Wohnfläche ca. 107 m²,Zi. 4,189,5
-23,selObject_44592256,"2,5-Zimmer-Wohnung mit Terrasse","['Wohnung', '•', 'Düsseldorf', 'Wersten']",[],Miete zzgl. NK 585 €,Wohnfläche ca. 55 m²,"Zi. 2,5",189,5
-24,selObject_44592029,"Helle und geräumige Etagen-Wohnung - Aachen, Adalberts...","['Etagenwohnung', '•', 'Aachen', 'Aachen']",['Balkon'],Miete zzgl. NK 572 €,Wohnfläche ca. 88 m²,Zi. 3,189,5
-25,selObject_44591257,"Technologieparknähe, GL-Moitzfeld, möblierte EG-2- Zi...","['Erdgeschosswohnung', '•', 'Bergisch', 'Gladbach', 'Moitzfeld']","['Garten', 'EBK']",Miete zzgl. NK 1.150 €,Wohnfläche ca. 51 m²,Zi. 2,189,5
-26,selObject_44590592,Schöne Seniorenwohnung ab 60 Jahren!!!,"['Etagenwohnung', '•', 'Herne', 'Baukau-Ost']","['Balkon', 'Garten', 'EBK']","Miete zzgl. NK 315,65 €",Wohnfläche ca. 59 m²,"Zi. 2,5",189,5
+0,selObject_44626469,Bei VIVAWEST die Sonnenstrahlen auf dem eigenen Balkon...,"[['Etagenwohnung', '•', 'Gelsenkirchen', 'Ückendorf']]",['Balkon'],"Miete zzgl. NK 310,68 €",Wohnfläche ca. 58 m²,"Zi. 2,5",189,5
+1,selObject_44626453,Hier schlägt besonders das Herz für Singles und Paare,"[['Etagenwohnung', '•', 'Duisburg', 'Fahrn']]",['Balkon'],Miete zzgl. NK 359 €,Wohnfläche ca. 54 m²,"Zi. 3,5",189,5
+2,selObject_44623036,Zwei Zimmer Wohnung Lintertstr. 54 im 3.OG links,"[['Etagenwohnung', '•', 'Aachen', 'Aachen']]",[],Miete zzgl. NK 440 €,Wohnfläche ca. 50 m²,Zi. 2,189,5
+3,selObject_44622626,"Kleine, zentral gelegene Wohnung mit neuem Tageslichtb...","[['Etagenwohnung', '•', 'Hagen', 'Altenhagen']]",['Garten'],Miete zzgl. NK 325 €,Wohnfläche ca. 49 m²,Zi. 2,189,5
+4,selObject_44622407,"Nähe Bahnhof Essen-Süd, schönes großes Dach-Studio","[['Wohnung', '•', 'Essen', 'Bergerhausen']]",[],Miete zzgl. NK 510 €,Wohnfläche ca. 68 m²,"Zi. 2,5",189,5
+5,selObject_44622299,Wunderschönes Apartment in einer ruhigen denkmalgeschü...,"[['Apartment', '•', 'Krefeld', 'Traar']]",[],Miete zzgl. NK 335 €,Wohnfläche ca. 35 m²,Zi. 1,189,5
+6,selObject_44622297,Zentrale 3 Zimmer-Wohnung,"[['Etagenwohnung', '•', 'Krefeld', 'Cracau']]",[],Miete zzgl. NK 430 €,Wohnfläche ca. 72 m²,Zi. 3,189,5
+7,selObject_44622121,"Kleine Wohnung bestehend aus 1 Schlafzimmer, Wohnküche...","[['Wohnung', '•', 'Emmerich', 'Emmerich']]",['Balkon'],Miete zzgl. NK 395 €,Wohnfläche ca. 60 m²,Zi. 2,189,5
+8,selObject_44621972,"Originelle Wohnung, großes Wohnzimmer, Dachterrasse !","[['Etagenwohnung', '•', 'Oberhausen', 'Stadtmitte']]",[],Miete zzgl. NK 650 €,Wohnfläche ca. 101 m²,"Zi. 3,5",189,5
+9,selObject_44621864,"Bad Salzuflen, sonnige Dachgeschosswohnung mit Gartena...","[['Etagenwohnung', '•', 'Bad', 'Salzuflen', 'Innenstadt']]","['Garten', 'EBK']",Miete zzgl. NK 520 €,Wohnfläche ca. 65 m²,Zi. 3,189,5
+10,selObject_44621812,Wohnen in der Nähe vom Niederfeldsee!,"[['Erdgeschosswohnung', '•', 'Essen', 'Altendorf']]",['Balkon'],"Miete zzgl. NK 360,80 €",Wohnfläche ca. 59 m²,Zi. 2,189,5
+11,selObject_44621644,IN FAMILIENFREUNDLICHER WOHNANLAGE - GROßE 4-ZIMMERWOH...,"[['Etagenwohnung', '•', 'Menden', 'Mitte']]",[],Miete zzgl. NK 438 €,Wohnfläche ca. 81 m²,Zi. 4,189,5
+12,selObject_44621614,2-ZIMMER-WOHNUNG MIT BALKON IN SUNDERN,"[['Etagenwohnung', '•', 'Sundern', 'Sundern']]",['Balkon'],Miete zzgl. NK 390 €,Wohnfläche ca. 68 m²,Zi. 2,189,5
+13,selObject_44621602,Kernsanierte Stadtwohnung im 1. Obergeschoss mit Süd-/...,"[['Etagenwohnung', '•', 'Halver', 'Anschlag']]",['Balkon'],Miete zzgl. NK 721 €,Wohnfläche ca. 103 m²,Zi. 3,189,5
+14,selObject_44621451,"wer gut wohnt, studiert besser","[['Etagenwohnung', '•', 'Aachen', 'Aachen']]",['EBK'],"Miete zzgl. NK 775,44 €",Wohnfläche ca. 65 m²,Zi. 2,189,5
+15,selObject_44621449,Große 4 Zimmer Maisonettewohnung in der Innenstadt von...,"[['Maisonette', '•', 'Wülfrath', 'Innenstadt']]",[],Miete zzgl. NK 990 €,Wohnfläche ca. 110 m²,Zi. 4,189,5
+16,selObject_44621448,"Wohn(t)räume, für Sie in bester Lage","[['Apartment', '•', 'Aachen', 'Aachen']]",[],Miete zzgl. NK 950 €,Wohnfläche ca. 100 m²,,189,5
+17,selObject_44621057,Sehr schöne 3-Raumwohnung mit Balkon in Duisburg Zentr...,"[['Etagenwohnung', '•', 'Duisburg', 'Dellviertel']]",['Balkon'],Miete zzgl. NK 441 €,Wohnfläche ca. 63 m²,Zi. 3,189,5
+18,selObject_44620835,"Ideal für Senioren-Im Zentrum von Bad Salzuflen, 2....","[['Etagenwohnung', '•', 'Bad', 'Salzuflen', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 560 €,Wohnfläche ca. 65 m²,Zi. 3,189,5
+19,selObject_44620670,Gemütliche 3-Zimmer Wohnung in Dormagen Horrem,"[['Etagenwohnung', '•', 'Dormagen', 'Horrem']]",['Balkon'],Miete zzgl. NK 532 €,Wohnfläche ca. 76 m²,Zi. 3,189,5
+20,selObject_44620667,Schicke 3 -Zimmer Wohnung mit Sonnenbalkon in Dormagen...,"[['Etagenwohnung', '•', 'Dormagen', 'Horrem']]",['Balkon'],Miete zzgl. NK 456 €,Wohnfläche ca. 67 m²,Zi. 3,189,5
+21,selObject_44620665,Schöner 3 Zimmer Wohnung mit Sonnenbalkon in Dormagen...,"[['Etagenwohnung', '•', 'Dormagen', 'Horrem']]",['Balkon'],Miete zzgl. NK 494 €,Wohnfläche ca. 76 m²,Zi. 3,189,5
+22,selObject_44620646,Große 2 Zimmer Wohnung im EG mit Terrasse nur mit WBS,"[['Erdgeschosswohnung', '•', 'Duisburg', 'Marxloh']]",[],"Miete zzgl. NK 355,69 €",Wohnfläche ca. 75 m²,Zi. 2,189,5
+23,selObject_44620282,TOP ...Helle 2-Raum Wohnung in bevorzugter Lage!,"[['Wohnung', '•', 'Essen', 'Werden']]",[],Miete zzgl. NK 529 €,Wohnfläche ca. 62 m²,"Zi. 2,5",189,5
+24,selObject_44620061,Erstbezug | Parkett | Gäste-WC| AR | großräumiger Balk...,"[['Etagenwohnung', '•', 'Dortmund', 'Brünninghausen']]",['Balkon'],"Miete zzgl. NK 1.377,81 €",Wohnfläche ca. 102 m²,Zi. 3,189,5
+25,selObject_44620058,Erstbezug | Parkett | Gäste-WC| AR,"[['Etagenwohnung', '•', 'Dortmund', 'Brünninghausen']]",[],"Miete zzgl. NK 1.540,48 €",Wohnfläche ca. 114 m²,Zi. 3,189,5
+26,selObject_44619887,Hier werden Träume wahr. Exklusive Erdgeschosswohnung...,"[['Etagenwohnung', '•', 'Würselen', 'Würselen']]",[],Miete zzgl. NK 1.070 €,Wohnfläche ca. 107 m²,Zi. 4,189,5

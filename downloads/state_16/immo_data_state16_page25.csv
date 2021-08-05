@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44908062,3-Raumwohnung nähe Stadtwald in Debschwitz,"['Etagenwohnung', '•', 'Gera', 'Debschwitz']",[],Miete zzgl. NK 300 €,Wohnfläche ca. 60 m²,Zi. 3,25,16
-1,selObject_44908060,geräumige 2-Raumwohnung in Stadtwaldnähe,"['Etagenwohnung', '•', 'Gera', 'Debschwitz']",[],Miete zzgl. NK 300 €,Wohnfläche ca. 60 m²,Zi. 2,25,16
-2,selObject_44908059,zentrales Wohnen mit Klimaanlage - 2 Raumwohnung,"['Wohnung', '•', 'Gera', 'Innenstadt']",[],Miete zzgl. NK 299 €,Wohnfläche ca. 65 m²,Zi. 2,25,16
-3,selObject_44908055,3-Raumwohnung mit separatem WC in Debschwitz,"['Etagenwohnung', '•', 'Gera', 'Debschwitz']",[],Miete zzgl. NK 250 €,Wohnfläche ca. 60 m²,Zi. 3,25,16
-4,selObject_44908053,ZENTRUMSNAH - Große 3 Zimmer-Wohnung mit Balkon und...,"['Wohnung', '•', 'Erfurt', 'Krämpfervorstadt']",['Balkon'],Miete zzgl. NK 760 €,Wohnfläche ca. 95 m²,Zi. 3,25,16
-5,selObject_44908011,Ihre Wohnung im Stadtzentrum von Gera,"['Dachgeschosswohnung', '•', 'Gera', 'Innenstadt']",['Garten'],Miete zzgl. NK 555 €,Wohnfläche ca. 113 m²,Zi. 3,25,16
-6,selObject_44908008,Ihre Wohnung im Stadtzentrum von Gera,"['Dachgeschosswohnung', '•', 'Gera', 'Innenstadt']",['Garten'],Miete zzgl. NK 575 €,Wohnfläche ca. 117 m²,Zi. 3,25,16
-7,selObject_44907957,Dachgschoss-Wohnung im sanierten Altbau,"['Dachgeschosswohnung', '•', 'Nordhausen', 'Nordhausen']","['Balkon', 'EBK']",Miete zzgl. NK 595 €,Wohnfläche ca. 85 m²,Zi. 3,25,16
-8,selObject_44907943,Dachgeschoss mit Einbauküche,"['Dachgeschosswohnung', '•', 'Greiz', 'Greiz']",['EBK'],Miete zzgl. NK 260 €,Wohnfläche ca. 52 m²,Zi. 2,25,16
-9,selObject_44907942,leben und wohnen in mitten Natur,"['Erdgeschosswohnung', '•', 'Greiz', 'Greiz']",['Balkon'],Miete zzgl. NK 460 €,Wohnfläche ca. 90 m²,Zi. 3,25,16
-10,selObject_44907939,**schöne großzügige 3-Raum-DG-Wohnung in Greiz**,"['Dachgeschosswohnung', '•', 'Greiz', 'Greiz']",[],Miete zzgl. NK 410 €,Wohnfläche ca. 88 m²,Zi. 3,25,16
-11,selObject_44907937,Sonnige 1-Raum Wohnung in ruhiger Lage,"['Erdgeschosswohnung', '•', 'Greiz', 'Greiz']",[],Miete zzgl. NK 210 €,Wohnfläche ca. 42 m²,Zi. 1,25,16
-12,selObject_44907786,**Schicke & lichtdurchflutete DG-Wohnung in bevorzugte...,"['Dachgeschosswohnung', '•', 'Mühlhausen', 'Mühlhausen']",['EBK'],Miete zzgl. NK 440 €,Wohnfläche ca. 82 m²,"Zi. 3,5",25,16
-13,selObject_44907707,Zentral - exklusives Einzeldenkmal - Erstbezug nach...,"['Wohnung', '•', 'Greiz', 'Greiz']",['EBK'],Miete zzgl. NK 379 €,Wohnfläche ca. 60 m²,Zi. 2,25,16
-14,selObject_44907549,Gewerbeeinheit Erdgeschoss Cafe Begegnungsstätte Gera...,"['Wohnung', '•', 'Gera', 'Innenstadt']",[],Miete zzgl. NK 370 €,Wohnfläche ca. 185 m²,,25,16
-15,selObject_44907545,Wohnen mit allen Extras am Reuß-Park! Moderne 3 Zimmer...,"['Wohnung', '•', 'Gera', 'Innenstadt']","['Balkon', 'EBK']",Miete zzgl. NK 935 €,Wohnfläche ca. 106 m²,Zi. 3,25,16
-16,selObject_44907438,"Geräumige helle 3-Raum-Wohnung, Aufgang Pohlitz","['Wohnung', '•', 'Greiz', 'Greiz']",[],Miete zzgl. NK 350 €,Wohnfläche ca. 76 m²,Zi. 3,25,16
-17,selObject_44907434,moderne helle 3-Raum-Wohnung,"['Wohnung', '•', 'Greiz', 'Greiz']",[],Miete zzgl. NK 325 €,Wohnfläche ca. 71 m²,Zi. 3,25,16
-18,selObject_44907410,Do it yourself! 3-Raumwohnung mit Balkon im Zentrum...,"['Wohnung', '•', 'Herbsleben', 'Herbsleben']",[],Miete zzgl. NK 315 €,Wohnfläche ca. 60 m²,Zi. 3,25,16
-19,selObject_44907405,Singlewohnung in ruhiger Lage,"['Wohnung', '•', 'Eisenach', 'Stockhausen']",[],Miete zzgl. NK 300 €,Wohnfläche ca. 40 m²,Zi. 1,25,16
-20,selObject_44907407,Singles aufgepasst! 2-Raumwohnung mit Balkon im Zentru...,"['Kein', 'Bild']",['Balkon'],Miete zzgl. NK 240 €,Wohnfläche ca. 46 m²,Zi. 2,25,16
-21,selObject_44907408,Klein aber fein- schöne 1-Raumwohnung mit Balkon im...,"['Wohnung', '•', 'Herbsleben', 'Herbsleben']",['Balkon'],Miete zzgl. NK 170 €,Wohnfläche ca. 32 m²,Zi. 1,25,16
-22,selObject_44907322,3-Raum-Wohnung mit Einbauküche - auch für eine Wohngem...,"['Wohnung', '•', 'Erfurt', 'Kerspleben']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 800 €,Wohnfläche ca. 75 m²,Zi. 3,25,16
-23,selObject_44906966,Reihenendhaus Ambiente in 3- Zimmer-Wohnung für unabhä...,"['Wohnung', '•', 'Apolda', 'Apolda']","['Balkon', 'Garten']",Miete zzgl. NK 770 €,Wohnfläche ca. 81 m²,Zi. 3,25,16
-24,selObject_44906967,3-Zimmer-Wohnung in der 2. Etage in Apolda zu vermiete...,"['Wohnung', '•', 'Apolda', 'Apolda']","['Balkon', 'Garten']",Miete zzgl. NK 700 €,,Zi. 3,25,16
-25,selObject_44906965,Anschauen und verlieben! 4-Zimmer-Wohnung mit grandios...,"['Wohnung', '•', 'Apolda', 'Apolda']","['Balkon', 'Garten']",Miete zzgl. NK 995 €,Wohnfläche ca. 106 m²,Zi. 4,25,16
-26,selObject_44906821,Uni-Nahe 3-Raumwohnung für Studenten (WG geeignet),"['Wohnung', '•', 'Ilmenau', 'Ilmenau']",[],Miete zzgl. NK 480 €,Wohnfläche ca. 60 m²,,25,16
+0,selObject_44917421,Perfekte Singlewohnung mit Balkon im schönen Untermhau...,"[['Wohnung', '•', 'Gera', 'Untermhaus']]",['Balkon'],Miete zzgl. NK 260 €,Wohnfläche ca. 47 m²,Zi. 1,25,16
+1,selObject_44917345,Bezugsfertige 3-Raum-Wohnung in ruhiger Lage,"[['Wohnung', '•', 'Wurzbach', 'Wurzbach']]",[],Miete zzgl. NK 325 €,Wohnfläche ca. 60 m²,Zi. 3,25,16
+2,selObject_44916925,Charmante 2-Raum-Wohnung,"[['Etagenwohnung', '•', 'Bad', 'Langensalza', 'Bad', 'Langensalza']]",[],Miete zzgl. NK 275 €,Wohnfläche ca. 53 m²,Zi. 2,25,16
+3,selObject_44916828,Einzeldenkmal -­ Erstbezug nach Komplettsanierung DG­-...,"[['Dachgeschosswohnung', '•', 'Weimar', 'Westvorstadt']]",['Garten'],"Miete zzgl. NK 648,70 €",Wohnfläche ca. 65 m²,Zi. 2,25,16
+4,selObject_44916102,2-Raum-Wohnung direkt am Hofwiesenpark in Gera,"[['Etagenwohnung', '•', 'Gera', 'Innenstadt']]",[],"Miete zzgl. NK 225,70 €",Wohnfläche ca. 43 m²,Zi. 2,25,16
+5,selObject_44916101,2-Raum-Wohnung mit bodengleicher Dusche und Balkon in...,"[['Etagenwohnung', '•', 'Gera', 'Zwötzen']]",['Balkon'],"Miete zzgl. NK 278,05 €",Wohnfläche ca. 49 m²,Zi. 2,25,16
+6,selObject_44916100,Gemütliche 2-Raum-Wohnung in Lusan mit Badewanne und...,"[['Etagenwohnung', '•', 'Gera', 'Lusan']]",['Balkon'],"Miete zzgl. NK 270,50 €",Wohnfläche ca. 54 m²,Zi. 2,25,16
+7,selObject_44916099,3-Raum-Wohnung in Debschwitz mit Wanne,"[['Etagenwohnung', '•', 'Gera', 'Debschwitz']]",[],"Miete zzgl. NK 298,48 €",Wohnfläche ca. 57 m²,Zi. 3,25,16
+8,selObject_44916097,WohnPLUS-Apartments im WeidenCarré - Glücklich wohnen...,"[['Erdgeschosswohnung', '•', 'Gera', 'Lusan']]",['Balkon'],Miete zzgl. NK 765 €,Wohnfläche ca. 42 m²,Zi. 2,25,16
+9,selObject_44916095,Sanierte 3-Raum-Wohnung mit Badewanne und Balkon,"[['Etagenwohnung', '•', 'Gera', 'Lusan']]",['Balkon'],"Miete zzgl. NK 326,26 €",Wohnfläche ca. 68 m²,Zi. 3,25,16
+10,selObject_44916093,WohnPLUS-Apartments im WeidenCarré - Glücklich wohnen...,"[['Erdgeschosswohnung', '•', 'Gera', 'Lusan']]",['Balkon'],Miete zzgl. NK 540 €,Wohnfläche ca. 25 m²,Zi. 1,25,16
+11,selObject_44916091,Sanierte 3-Raum-Wohnung mit bodengleicher Dusche und...,"[['Etagenwohnung', '•', 'Gera', 'Bieblach']]",['Balkon'],"Miete zzgl. NK 342,44 €",Wohnfläche ca. 61 m²,Zi. 3,25,16
+12,selObject_44916086,3-Raum-Wohnung im WeidenCarré - Glücklich Wohnen am...,"[['Etagenwohnung', '•', 'Gera', 'Lusan']]",['Balkon'],"Miete zzgl. NK 1.134,20 €",Wohnfläche ca. 113 m²,Zi. 3,25,16
+13,selObject_44916085,3-Raum-Wohnung im WeidenCarré - Glücklich Wohnen am...,"[['Etagenwohnung', '•', 'Gera', 'Lusan']]",['Balkon'],"Miete zzgl. NK 806,40 €",Wohnfläche ca. 81 m²,Zi. 3,25,16
+14,selObject_44916084,Sanierte 2-Raum-Wohnung mit Einbauküche und Dusche,"[['Etagenwohnung', '•', 'Gera', 'Debschwitz']]",['EBK'],"Miete zzgl. NK 239,82 €",Wohnfläche ca. 46 m²,Zi. 2,25,16
+15,selObject_44916082,Günstiges WG-Zimmer in der Nähe der DHGE,"[['Etagenwohnung', '•', 'Gera', 'Bieblach']]",[],"Miete zzgl. NK 131,01 €",Wohnfläche ca. 24 m²,Zi. 1,25,16
+16,selObject_44916081,Sanierte 2-Raum-Wohnung mit Badewanne und Balkon,"[['Etagenwohnung', '•', 'Gera', 'Lusan']]",['Balkon'],Miete zzgl. NK 308 €,Wohnfläche ca. 55 m²,Zi. 2,25,16
+17,selObject_44916080,Sanierte 3-Raum-Wohnung mit Dusche und tollem Ausblick...,"[['Etagenwohnung', '•', 'Gera', 'Bieblach']]",['Balkon'],"Miete zzgl. NK 342,44 €",Wohnfläche ca. 61 m²,Zi. 3,25,16
+18,selObject_44916077,2-Raum-Wohnung im WeidenCarré - Glücklich Wohnen am...,"[['Etagenwohnung', '•', 'Gera', 'Lusan']]",['Balkon'],"Miete zzgl. NK 691,90 €",Wohnfläche ca. 69 m²,Zi. 2,25,16
+19,selObject_44916075,2-Raum-Wohnung im WeidenCarré - Glücklich Wohnen am...,"[['Etagenwohnung', '•', 'Gera', 'Lusan']]",['Balkon'],Miete zzgl. NK 544 €,Wohnfläche ca. 54 m²,Zi. 2,25,16
+20,selObject_44916074,2-Raum-Wohnung im WeidenCarré - Glücklich Wohnen am...,"[['Etagenwohnung', '•', 'Gera', 'Lusan']]",['Balkon'],Miete zzgl. NK 544 €,Wohnfläche ca. 54 m²,Zi. 2,25,16
+21,selObject_44915625,3-Raum-Wohnung im WeidenCarré - Glücklich Wohnen am...,"[['Etagenwohnung', '•', 'Gera', 'Lusan']]",['Balkon'],"Miete zzgl. NK 990,30 €",Wohnfläche ca. 99 m²,Zi. 3,25,16
+22,selObject_44915624,Hallo Studenten und Azubis,"[['Etagenwohnung', '•', 'Gera', 'Bieblach']]",[],"Miete zzgl. NK 108,36 €",Wohnfläche ca. 22 m²,Zi. 1,25,16
+23,selObject_44915622,Sanierte 2-Raum-Wohnung in Debschwitz mit Badewanne...,"[['Etagenwohnung', '•', 'Gera', 'Debschwitz']]",['Balkon'],"Miete zzgl. NK 268,40 €",Wohnfläche ca. 49 m²,Zi. 2,25,16
+24,selObject_44915619,3-Raum-Wohnung im WeidenCarré - Glücklich Wohnen am...,"[['Etagenwohnung', '•', 'Gera', 'Lusan']]",['Balkon'],"Miete zzgl. NK 990,30 €",Wohnfläche ca. 99 m²,Zi. 3,25,16
+25,selObject_44915618,Barrierearme und geräumige 3-Raum-Wohnung mit Aufzug...,"[['Etagenwohnung', '•', 'Gera', 'Lusan']]",['Balkon'],"Miete zzgl. NK 507,87 €",Wohnfläche ca. 89 m²,Zi. 3,25,16
+26,selObject_44915616,Gemütliche 2-Raum-Wohnung mit Dusche und Balkon,"[['Etagenwohnung', '•', 'Gera', 'Innenstadt']]",['Balkon'],"Miete zzgl. NK 282,04 €",Wohnfläche ca. 51 m²,Zi. 2,25,16

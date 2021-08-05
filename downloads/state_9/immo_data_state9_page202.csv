@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_42768645,Geräumige 3-Zimmer-Wohnung mit Balkon zum Erstbezug,"['Dachgeschosswohnung', '•', 'Regensburg', 'Westenviertel']","['Balkon', 'Garten']",Miete zzgl. NK 1.150 €,Wohnfläche ca. 79 m²,Zi. 3,202,9
-1,selObject_42767131,+++ Möbliertes Apartment im schönen Bad Steben! +++,"['Apartment', '•', 'Bad', 'Steben', 'Bad', 'Steben']",[],Miete zzgl. NK 206 €,Wohnfläche ca. 27 m²,Zi. 2,202,9
-2,selObject_42759812,"Citynahe, voll möblierte 2 Zimmer-EG-Wohnung mit Terra...","['Erdgeschosswohnung', '•', 'Ingolstadt', 'Ingolstadt']","['Garten', 'EBK']",Miete zzgl. NK 1.000 €,Wohnfläche ca. 65 m²,Zi. 2,202,9
-3,selObject_42754638,Hatz & Team - Modernes Wohnen im Zentrum! Auch 2er WG...,"['Etagenwohnung', '•', 'Passau', 'Haidenhof-Nord']",['EBK'],Miete zzgl. NK 800 €,Wohnfläche ca. 81 m²,Zi. 3,202,9
-4,selObject_42736930,Erstklassige Neubauwohnung mit 3 Zimmern zum Erstbezug,"['Wohnung', '•', 'Regensburg', 'Innenstadt']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.130 €,Wohnfläche ca. 71 m²,Zi. 3,202,9
-5,selObject_42724723,"Wohnraum-Wunder in der Altstadt WG-Geeignete, frisch...","['Etagenwohnung', '•', 'Passau', 'Altstadt']",['EBK'],Miete zzgl. NK 2.415 €,Wohnfläche ca. 240 m²,Zi. 6,202,9
-6,selObject_42724467,Nahe am Geschehen | Perfekt aufgeteilte 3-Zimmer-Wohnu...,"['Etagenwohnung', '•', 'Passau', 'Haidenhof-Nord']","['Balkon', 'EBK']",Miete zzgl. NK 735 €,Wohnfläche ca. 92 m²,Zi. 3,202,9
-7,selObject_42724352,Passau Spitalhofstraße | 4-Zimmer-Wohnung mit Tageslic...,"['Etagenwohnung', '•', 'Passau', 'Haidenhof-Nord']","['Balkon', 'EBK']",Miete zzgl. NK 855 €,Wohnfläche ca. 107 m²,Zi. 4,202,9
-8,selObject_42723994,Leben in der Passauer Altstadt 2-Zimmer-Wohnung mit...,"['Etagenwohnung', '•', 'Passau', 'Altstadt']",['EBK'],Miete zzgl. NK 615 €,Wohnfläche ca. 60 m²,Zi. 2,202,9
-9,selObject_42722439,Wohnen wo andere Urlaub machen mit See und Bergblick!,"['Dachgeschosswohnung', '•', 'Wasserburg', 'Hege']","['Balkon', 'EBK']",Miete zzgl. NK 1.480 €,Wohnfläche ca. 180 m²,"Zi. 4,5",202,9
-10,selObject_42711967,ERSTBEZUG - Moderne 2-Zi.-Whg. im Zentrum,"['Erdgeschosswohnung', '•', 'Straubing', 'Straubing']",[],Miete zzgl. NK 615 €,Wohnfläche ca. 68 m²,Zi. 2,202,9
-11,selObject_42701757,Neu-Ulm 2 Zim Whg. Zuvermieten,"['Kein', 'Bild']",['EBK'],Miete zzgl. NK 700 €,Wohnfläche ca. 50 m²,Zi. 2,202,9
-12,selObject_42694771,Ruhige 2-Zimmer Wohnung in der Altstadt unterhalb der...,"['Wohnung', '•', 'Nürnberg', 'Sebald']",['EBK'],Miete zzgl. NK 600 €,Wohnfläche ca. 45 m²,Zi. 2,202,9
-13,selObject_42680921,"Ruhige, helle 1-Zimmer-Wohnung im Dachgeschoss","['Dachgeschosswohnung', '•', 'Bamberg', 'Bamberg']",[],Miete zzgl. NK 325 €,Wohnfläche ca. 26 m²,Zi. 1,202,9
-14,selObject_42675755,"2,5 Zimmerwohnung mit 2 Balkonen 88 qm","['Wohnung', '•', 'Ansbach', 'Eyb']",[],Miete zzgl. NK 598 €,Wohnfläche ca. 88 m²,"Zi. 2,5",202,9
-15,selObject_42672406,Freundliche 2-Zim. Neubauwohnung,"['Etagenwohnung', '•', 'Simbach', 'Simbach']",['EBK'],Miete zzgl. NK 666 €,Wohnfläche ca. 67 m²,Zi. 2,202,9
-16,selObject_42671763,Geräumige 2-Zim. Wohnung (Erstbezug),"['Etagenwohnung', '•', 'Simbach', 'Simbach']","['Balkon', 'EBK']",Miete zzgl. NK 637 €,Wohnfläche ca. 68 m²,Zi. 2,202,9
-17,selObject_42671133,Großzügige 1-Zim. Terrassenwohnung (Neubau!!),"['Wohnung', '•', 'Simbach', 'Simbach']","['Garten', 'EBK']",Miete zzgl. NK 532 €,Wohnfläche ca. 57 m²,Zi. 1,202,9
-18,selObject_42667666,"Kösching Eixelberg, 2 Zimmerwohnung in ruhiger sonnige...","['Souterrainwohnung', '•', 'Kösching', 'Bettbrunn']",['Garten'],Miete zzgl. NK 600 €,Wohnfläche ca. 58 m²,Zi. 2,202,9
-19,selObject_42659715,Renovierte Wohnung in zentraler Lage,"['Etagenwohnung', '•', 'Nürnberg', 'Lorenz']",[],Miete zzgl. NK 790 €,Wohnfläche ca. 79 m²,Zi. 2,202,9
-20,selObject_42651795,Zweigeschossige Vierzimmerwohnung im Niedrigenergiehau...,"['Wohnung', '•', 'Moosburg', 'Moosburg']",[],Miete zzgl. NK 1.160 €,Wohnfläche ca. 126 m²,Zi. 4,202,9
-21,selObject_42644011,Sehr gepflegte Wohnung in Dillingen zu vermieten,"['Etagenwohnung', '•', 'Dillingen', 'Dillingen']","['Balkon', 'EBK']",Miete zzgl. NK 700 €,Wohnfläche ca. 84 m²,"Zi. 3,5",202,9
-22,selObject_42640339,Attraktive Wohnung am Halser Marktplatz 2-Zimmer-Dachg...,"['Dachgeschosswohnung', '•', 'Passau', 'Hals']",['EBK'],Miete zzgl. NK 450 €,Wohnfläche ca. 52 m²,Zi. 2,202,9
-23,selObject_42623687,Wohlfühlen in exklusiver Neubau-Penthousewohnung mit...,"['Penthouse', '•', 'Obernburg', 'Obernburg']","['Balkon', 'EBK']",Miete zzgl. NK 1.800 €,Wohnfläche ca. 119 m²,Zi. 4,202,9
-24,selObject_42614466,KLOSTERGÄRTEN - Service-Wohnen für Senioren,"['Etagenwohnung', '•', 'Neumarkt', 'Neumarkt']",[],Miete zzgl. NK 606 €,Wohnfläche ca. 46 m²,Zi. 2,202,9
-25,selObject_42614458,KLOSTERGÄRTEN - Service-Wohnen für Senioren,"['Dachgeschosswohnung', '•', 'Neumarkt', 'Neumarkt']",[],Miete zzgl. NK 775 €,Wohnfläche ca. 46 m²,Zi. 2,202,9
-26,selObject_42614455,KLOSTERGÄRTEN - Service-Wohnen für Senioren,"['Etagenwohnung', '•', 'Neumarkt', 'Neumarkt']",[],Miete zzgl. NK 747 €,Wohnfläche ca. 49 m²,Zi. 2,202,9
+0,selObject_42880567,"Möbliert: Attraktive Wohnung, direkt am Ungerer Bad &...","[['Wohnung', '•', 'München', 'Schwabing-Freimann']]",['Balkon'],Miete zzgl. NK 832 €,Wohnfläche ca. 24 m²,Zi. 1,202,9
+1,selObject_42875471,Großzügige 3-Zimmer-Dachgeschosswohnung für Senioren,"[['Dachgeschosswohnung', '•', 'Zirndorf', 'Zirndorf']]",['Balkon'],Miete zzgl. NK 949 €,Wohnfläche ca. 73 m²,Zi. 3,202,9
+2,selObject_42875469,Moderne 3-Zimmer-Dachgeschosswohnung für Senioren,"[['Etagenwohnung', '•', 'Zirndorf', 'Zirndorf']]",['Balkon'],Miete zzgl. NK 922 €,Wohnfläche ca. 71 m²,Zi. 3,202,9
+3,selObject_42854287,!ERSTBEZUG! 2-Zimmer Wohnung in Großmehring,"[['Etagenwohnung', '•', 'Großmehring', 'Großmehring']]",['Balkon'],Miete zzgl. NK 845 €,Wohnfläche ca. 67 m²,Zi. 2,202,9
+4,selObject_42853798,Günstige zentrumsnahe 1-Zimmer-Wohnung,"[['Etagenwohnung', '•', 'Nürnberg', 'Bleiweiß']]",[],Miete zzgl. NK 325 €,Wohnfläche ca. 25 m²,Zi. 1,202,9
+5,selObject_42853169,Neubau Appartements in Straubing ++Timber Town Living+...,"[['Etagenwohnung', '•', 'Straubing', 'Straubing']]",['EBK'],Miete zzgl. NK 295 €,Wohnfläche ca. 25 m²,Zi. 1,202,9
+6,selObject_42852600,"Möblierte 1-Zimmerwohnung, nahe der Bundesagentur und...","[['Wohnung', '•', 'Nürnberg', 'St', 'Peter']]",[],Miete zzgl. NK 355 €,Wohnfläche ca. 20 m²,Zi. 1,202,9
+7,selObject_42835300,"Auf die Plätze, FERTIG, LOS!! Ziehen Sie jetzt ein!!...","[['Etagenwohnung', '•', 'Nürnberg', 'St', 'Johannis']]",[],Miete zzgl. NK 700 €,Wohnfläche ca. 62 m²,Zi. 2,202,9
+8,selObject_42832894,"1-Zi-Apartment im Nürnberger Zentrum - vollmöbliert,...","[['Wohnung', '•', 'Nürnberg', 'Muggenhof']]",['EBK'],Miete zzgl. NK 533 €,Wohnfläche ca. 36 m²,Zi. 1,202,9
+9,selObject_42828686,Hochwertig mobiliertes Apartment mit Blick in die Alpe...,"[['Apartment', '•', 'München', 'Thalk.Obersendl.-Forsten-Fürstenr.-Solln']]","['Balkon', 'Garten']",Miete zzgl. NK 770 €,Wohnfläche ca. 36 m²,Zi. 1,202,9
+10,selObject_42819996,"Münchner Immobilien MUC Wunderschöne, ruhige 2-Zi.-Woh...","[['Etagenwohnung', '•', 'München', 'Moosach']]","['Balkon', 'EBK']",Miete zzgl. NK 1.350 €,Wohnfläche ca. 56 m²,Zi. 2,202,9
+11,selObject_42819883,MÖBLIERT-Zentrales Apartment,"[['Wohnung', '•', 'Nürnberg', 'Gibitzenhof']]",['EBK'],Miete zzgl. NK 620 €,Wohnfläche ca. 26 m²,Zi. 1,202,9
+12,selObject_42790560,3-Zi-Wohnung mit gemeinsam genutzten Garten,"[['Wohnung', '•', 'Altdorf', 'Röthenbach']]",[],Miete zzgl. NK 690 €,Wohnfläche ca. 76 m²,Zi. 3,202,9
+13,selObject_42790526,*** EXKLUSIV *** BÜRO-/PRAXISRÄUME IN TOPLAGE NEUÖTTIN...,"[['Wohnung', '•', 'Neuötting', 'Neuötting']]",[],Miete zzgl. NK 1.640 €,Wohnfläche ca. 205 m²,Zi. 7,202,9
+14,selObject_42772700,Sanierte 3-Zimmer-Wohnung in Hof zu vermieten,"[['Wohnung', '•', 'Hof', 'Haidt']]",['Balkon'],Miete zzgl. NK 450 €,Wohnfläche ca. 78 m²,Zi. 3,202,9
+15,selObject_42768645,Geräumige 3-Zimmer-Wohnung mit Balkon zum Erstbezug,"[['Dachgeschosswohnung', '•', 'Regensburg', 'Westenviertel']]","['Balkon', 'Garten']",Miete zzgl. NK 1.150 €,Wohnfläche ca. 79 m²,Zi. 3,202,9
+16,selObject_42767131,+++ Möbliertes Apartment im schönen Bad Steben! +++,"[['Apartment', '•', 'Bad', 'Steben', 'Bad', 'Steben']]",[],Miete zzgl. NK 206 €,Wohnfläche ca. 27 m²,Zi. 2,202,9
+17,selObject_42759812,"Citynahe, voll möblierte 2 Zimmer-EG-Wohnung mit Terra...","[['Erdgeschosswohnung', '•', 'Ingolstadt', 'Ingolstadt']]","['Garten', 'EBK']",Miete zzgl. NK 1.000 €,Wohnfläche ca. 65 m²,Zi. 2,202,9
+18,selObject_42754638,Hatz & Team - Modernes Wohnen im Zentrum! Auch 2er WG...,"[['Etagenwohnung', '•', 'Passau', 'Haidenhof-Nord']]",['EBK'],Miete zzgl. NK 800 €,Wohnfläche ca. 81 m²,Zi. 3,202,9
+19,selObject_42736930,Erstklassige Neubauwohnung mit 3 Zimmern zum Erstbezug,"[['Wohnung', '•', 'Regensburg', 'Innenstadt']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.130 €,Wohnfläche ca. 71 m²,Zi. 3,202,9
+20,selObject_42724723,"Wohnraum-Wunder in der Altstadt WG-Geeignete, frisch...","[['Etagenwohnung', '•', 'Passau', 'Altstadt']]",['EBK'],Miete zzgl. NK 2.415 €,Wohnfläche ca. 240 m²,Zi. 6,202,9
+21,selObject_42724467,Nahe am Geschehen | Perfekt aufgeteilte 3-Zimmer-Wohnu...,"[['Etagenwohnung', '•', 'Passau', 'Haidenhof-Nord']]","['Balkon', 'EBK']",Miete zzgl. NK 735 €,Wohnfläche ca. 92 m²,Zi. 3,202,9
+22,selObject_42724352,Passau Spitalhofstraße | 4-Zimmer-Wohnung mit Tageslic...,"[['Etagenwohnung', '•', 'Passau', 'Haidenhof-Nord']]","['Balkon', 'EBK']",Miete zzgl. NK 855 €,Wohnfläche ca. 107 m²,Zi. 4,202,9
+23,selObject_42723994,Leben in der Passauer Altstadt 2-Zimmer-Wohnung mit...,"[['Etagenwohnung', '•', 'Passau', 'Altstadt']]",['EBK'],Miete zzgl. NK 615 €,Wohnfläche ca. 60 m²,Zi. 2,202,9
+24,selObject_42722439,Wohnen wo andere Urlaub machen mit See und Bergblick!,"[['Dachgeschosswohnung', '•', 'Wasserburg', 'Hege']]","['Balkon', 'EBK']",Miete zzgl. NK 1.480 €,Wohnfläche ca. 180 m²,"Zi. 4,5",202,9
+25,selObject_42711967,ERSTBEZUG - Moderne 2-Zi.-Whg. im Zentrum,"[['Erdgeschosswohnung', '•', 'Straubing', 'Straubing']]",[],Miete zzgl. NK 615 €,Wohnfläche ca. 68 m²,Zi. 2,202,9
+26,selObject_42701757,Neu-Ulm 2 Zim Whg. Zuvermieten,"[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Neu-Ulm', 'Offenhausen']]",['EBK'],Miete zzgl. NK 700 €,Wohnfläche ca. 50 m²,Zi. 2,202,9

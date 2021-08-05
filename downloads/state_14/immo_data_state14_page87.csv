@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44922069,Große Wohnung mit Loggia!!!,"['Etagenwohnung', '•', 'Leipzig', 'Eutritzsch']",['Balkon'],Miete zzgl. NK 745 €,Wohnfläche ca. 110 m²,Zi. 3,87,14
-1,selObject_44921867,Sonnige Dachwohnung mit EBK/Loggia/Tageslichtbad in...,"['Dachgeschosswohnung', '•', 'Heidenau']","['Garten', 'EBK']",Miete zzgl. NK 589 €,Wohnfläche ca. 78 m²,Zi. 3,87,14
-2,selObject_44921575,"Riesiges Wohnzimmer - günstige 2-Zi-Whg mit BALKON,...","['Wohnung', '•', 'Leipzig', 'Altlindenau']","['Balkon', 'Garten']",Miete zzgl. NK 380 €,Wohnfläche ca. 58 m²,Zi. 2,87,14
-3,selObject_44921295,***Wohnen am Stadtpark in Top Lage - Zentrumnah***,"['Etagenwohnung', '•', 'Thalheim']",[],Miete zzgl. NK 190 €,Wohnfläche ca. 35 m²,Zi. 1,87,14
-4,selObject_44921291,Oberwiesenthal/Aussichtstraum/600 Euro Umzugsprämie!!/...,"['Etagenwohnung', '•', 'Kurort', 'Oberwiesenthal', 'Oberwiesenthal']","['Balkon', 'EBK']",Miete zzgl. NK 300 €,Wohnfläche ca. 61 m²,Zi. 3,87,14
-5,selObject_44921290,* 2 Zimmer * Wohnung * Balkon * Fußbodenheizung * toll...,"['Etagenwohnung', '•', 'Leipzig', 'Lindenau']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 662 €,Wohnfläche ca. 63 m²,Zi. 2,87,14
-6,selObject_44921280,*** Helle 3 Zi- Wohnung / Tageslichtbad / Tiefgaragens...,"['Etagenwohnung', '•', 'Thalheim']",[],Miete zzgl. NK 400 €,Wohnfläche ca. 70 m²,Zi. 3,87,14
-7,selObject_44921271,Schöne 2 Zimmmer Wohnung mit Tageslichtbad und Gartenn...,"['Erdgeschosswohnung', '•', 'Oberlungwitz']",['Garten'],Miete zzgl. NK 270 €,Wohnfläche ca. 52 m²,Zi. 2,87,14
-8,selObject_44921267,"schöne helle 2 Raum Wohnung mit Südbalkon,Keller- Troc...","['Etagenwohnung', '•', 'Gornsdorf']",['Balkon'],Miete zzgl. NK 320 €,Wohnfläche ca. 57 m²,Zi. 2,87,14
-9,selObject_44920956,**tolle 3 Raum Wohnung mit großer Wohnküche in zentrum...,"['Etagenwohnung', '•', 'Glauchau', 'Glauchau']",[],Miete zzgl. NK 459 €,Wohnfläche ca. 77 m²,Zi. 3,87,14
-10,selObject_44920924,4-Raumwohnung in Grünau-Mitte sucht Familienanschluss!,"['Etagenwohnung', '•', 'Leipzig', 'Grünau-Mitte']",[],"Miete zzgl. NK 433,50 €",Wohnfläche ca. 87 m²,Zi. 4,87,14
-11,selObject_44920923,3-Raumwohnung im ruhiger Lage in Großzschocher sucht...,"['Etagenwohnung', '•', 'Leipzig', 'Großzschocher']",['Balkon'],"Miete zzgl. NK 373,65 €",Wohnfläche ca. 58 m²,Zi. 3,87,14
-12,selObject_44920899,Wohnen am City Bogen - 4-Raum-Wohnung mit 2 Bädern,"['Etagenwohnung', '•', 'Chemnitz', 'Zentrum']",[],Miete zzgl. NK 524 €,Wohnfläche ca. 96 m²,Zi. 4,87,14
-13,selObject_44920891,Bezugsfertige 3-Raum-Wohnung im Erdgeschoss,"['Erdgeschosswohnung', '•', 'Chemnitz', 'Gablenz']",['Balkon'],Miete zzgl. NK 360 €,Wohnfläche ca. 70 m²,Zi. 3,87,14
-14,selObject_44920788,2-Raum-Wohnung in begrünter Umgebung,"['Etagenwohnung', '•', 'Chemnitz', 'Kapellenberg']",[],Miete zzgl. NK 229 €,Wohnfläche ca. 46 m²,Zi. 2,87,14
-15,selObject_44920749,Helle 5-Raum-Maisonettewohnung mit 2 Bädern,"['Etagenwohnung', '•', 'Chemnitz', 'Zentrum']",[],Miete zzgl. NK 523 €,Wohnfläche ca. 104 m²,Zi. 5,87,14
-16,selObject_44920721,Schicke 2-Zimmer-Wohnung in der Dresdner Innenstadt!,"['Etagenwohnung', '•', 'Dresden', 'Wilsdruffer', 'Vorstadt/Seevorstadt-West']",['EBK'],Miete zzgl. NK 475 €,Wohnfläche ca. 56 m²,Zi. 2,87,14
-17,selObject_44920705,Verträumte Dachwohnung mit separater Küche in Heidenau...,"['Dachgeschosswohnung', '•', 'Heidenau']",[],Miete zzgl. NK 215 €,Wohnfläche ca. 34 m²,Zi. 2,87,14
-18,selObject_44920683,WG-geeignete Dachgeschosswohnung in ruhiger Lage!,"['Dachgeschosswohnung', '•', 'Dresden', 'Mickten']",['Garten'],Miete zzgl. NK 395 €,Wohnfläche ca. 54 m²,Zi. 2,87,14
-19,selObject_44920681,Idyllisch Wohnen in Dresden-Tolkewitz! Tageslichtbad...,"['Wohnung', '•', 'Dresden', 'Tolkewitz/Seidnitz-Nord']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 425 €,Wohnfläche ca. 57 m²,Zi. 2,87,14
-20,selObject_44920656,Charmante Dachwohnung mit viel Platz zum Wohlfühlen!,"['Dachgeschosswohnung', '•', 'Dresden', 'Briesnitz']",['Garten'],Miete zzgl. NK 430 €,Wohnfläche ca. 58 m²,Zi. 1,87,14
-21,selObject_44920654,Stilvoll Leben unter´m Dach in Dresden-Cotta!,"['Dachgeschosswohnung', '•', 'Dresden', 'Cotta']",['Garten'],Miete zzgl. NK 394 €,Wohnfläche ca. 53 m²,Zi. 2,87,14
-22,selObject_44920605,Kleine Wohnung in der Eisenbahnersiedlung,"['Etagenwohnung', '•', 'Wülknitz']",[],Miete zzgl. NK 245 €,Wohnfläche ca. 48 m²,Zi. 2,87,14
-23,selObject_44920602,Schöne 3-Zimmer Dachgeschosswohnung im Zentrum,"['Dachgeschosswohnung', '•', 'Riesa', 'Innenstadt']",[],Miete zzgl. NK 322 €,Wohnfläche ca. 78 m²,Zi. 3,87,14
-24,selObject_44920554,Endlich zu Hause ankommen - tolle 3 Zimmerwohnung mit...,"['Wohnung', '•', 'Meißen']",['Balkon'],Miete zzgl. NK 432 €,Wohnfläche ca. 66 m²,Zi. 3,87,14
-25,selObject_44920099,Wohnung mit Balkon im 2. Stock,"['Maisonette', '•', 'Dresden', 'Leubnitz-Neuostra']","['Balkon', 'EBK']",Miete zzgl. NK 1.750 €,Wohnfläche ca. 204 m²,Zi. 5,87,14
-26,selObject_44919794,+++BELIEBTE LAGE+++BALKON+++AUFZUG+++TOP GRUNDRISS+++B...,"['Wohnung', '•', 'Leipzig', 'Engelsdorf']","['Balkon', 'Garten']",Miete zzgl. NK 550 €,Wohnfläche ca. 65 m²,Zi. 2,87,14
+0,selObject_44952118,GERÄUMIGE 2-Zimmer-Wohnung mieten in ZWICKAU mit GARAG...,"[['Etagenwohnung', '•', 'Zwickau', 'Oberplanitz']]",['Balkon'],Miete zzgl. NK 440 €,Wohnfläche ca. 80 m²,Zi. 2,87,14
+1,selObject_44952117,3-Raum-Wohnung mieten in Neuwürschnitz mit TERRASSE!,"[['Souterrainwohnung', '•', 'Oelsnitz', 'Neuwürschnitz']]",[],Miete zzgl. NK 430 €,Wohnfläche ca. 68 m²,Zi. 3,87,14
+2,selObject_44952114,3-Zimmer-Wohnung mit BALKON und GARAGE im StadtZENTRUM...,"[['Etagenwohnung', '•', 'Chemnitz', 'Zentrum']]",['Balkon'],Miete zzgl. NK 330 €,Wohnfläche ca. 60 m²,Zi. 3,87,14
+3,selObject_44952113,2-Zimmer-DG-Wohnung mieten in Schloßchemnitz!,"[['Dachgeschosswohnung', '•', 'Chemnitz', 'Schloßchemnitz']]",[],Miete zzgl. NK 270 €,Wohnfläche ca. 62 m²,Zi. 2,87,14
+4,selObject_44952111,2-ZIMMER-DG-TRAUM mieten auf dem KAßBERG l BALKON,"[['Dachgeschosswohnung', '•', 'Chemnitz', 'Kaßberg']]",[],Miete zzgl. NK 360 €,Wohnfläche ca. 65 m²,Zi. 2,87,14
+5,selObject_44952109,!!! Individuelle 3-Zimmer-Maisonette-Wohnung im Zentru...,"[['Dachgeschosswohnung', '•', 'Chemnitz', 'Zentrum']]",['EBK'],Miete zzgl. NK 500 €,Wohnfläche ca. 81 m²,Zi. 3,87,14
+6,selObject_44952110,1-Raumwohnung mieten mit BALKON in Gablenz,"[['Erdgeschosswohnung', '•', 'Chemnitz', 'Gablenz']]",['Balkon'],Miete zzgl. NK 230 €,Wohnfläche ca. 41 m²,Zi. 1,87,14
+7,selObject_44952108,3-Zimmer-Wohnung in KAPPEL mit BALKON mieten!,"[['Etagenwohnung', '•', 'Chemnitz', 'Kappel']]",[],Miete zzgl. NK 260 €,Wohnfläche ca. 58 m²,Zi. 3,87,14
+8,selObject_44952107,4-ZIMMER-WOHNUNG im ERSTBEZUG nach SANIERUNG in MITTWE...,"[['Dachgeschosswohnung', '•', 'Mittweida', 'Ringethal']]",['Balkon'],Miete zzgl. NK 945 €,Wohnfläche ca. 105 m²,Zi. 4,87,14
+9,selObject_44952106,2-Raumwohnung mieten mit Balkon in Gablenz!,"[['Erdgeschosswohnung', '•', 'Chemnitz', 'Gablenz']]",['Balkon'],Miete zzgl. NK 310 €,Wohnfläche ca. 62 m²,Zi. 2,87,14
+10,selObject_44952105,4 ZIMMER-WOHNUNG im ERSTBEZUG nach SANIERUNG in MITTWE...,"[['Etagenwohnung', '•', 'Mittweida', 'Ringethal']]",['Balkon'],Miete zzgl. NK 1.170 €,Wohnfläche ca. 130 m²,Zi. 4,87,14
+11,selObject_44952104,Gemütliche 1-RAUM-SINGLE-Wohnung in Gablenz mit BALKON...,"[['Erdgeschosswohnung', '•', 'Chemnitz', 'Gablenz']]",[],Miete zzgl. NK 220 €,Wohnfläche ca. 39 m²,Zi. 1,87,14
+12,selObject_44952102,2-ZIMMER-SINGLE-WOHNUNG mieten in ruhiger Lage von...,"[['Etagenwohnung', '•', 'Chemnitz', 'Gablenz']]",['Garten'],Miete zzgl. NK 200 €,Wohnfläche ca. 33 m²,Zi. 2,87,14
+13,selObject_44952100,2-ZIMMER-SINGLE-WOHNUNG mieten in ruhiger Lage von...,"[['Dachgeschosswohnung', '•', 'Chemnitz', 'Gablenz']]",['Garten'],Miete zzgl. NK 200 €,Wohnfläche ca. 33 m²,Zi. 2,87,14
+14,selObject_44952098,2-ZIMMER DG-WOHNUNG mieten in ALTENDORF + EBK-OPTION!,"[['Dachgeschosswohnung', '•', 'Chemnitz', 'Altendorf']]",['EBK'],Miete zzgl. NK 210 €,Wohnfläche ca. 44 m²,Zi. 2,87,14
+15,selObject_44952097,2 Zimmer-Wohnung mieten mit Balkon und Fußbodenheizung...,"[['Etagenwohnung', '•', 'Chemnitz', 'Zentrum']]","['Balkon', 'Garten']",Miete zzgl. NK 310 €,Wohnfläche ca. 53 m²,Zi. 2,87,14
+16,selObject_44952096,3-Zimmer-Wohnung mieten mit großem Balkon am Fuße des...,"[['Etagenwohnung', '•', 'Chemnitz', 'Altendorf']]",['Balkon'],Miete zzgl. NK 370 €,Wohnfläche ca. 71 m²,Zi. 3,87,14
+17,selObject_44952094,3-ZIMMER-Wohnung im GRÜNen im Zentrum mit BALKON miete...,"[['Etagenwohnung', '•', 'Chemnitz', 'Zentrum']]",['Balkon'],Miete zzgl. NK 335 €,Wohnfläche ca. 61 m²,Zi. 3,87,14
+18,selObject_44952092,3-Raumwohnung mieten in ruhiger Zentrumsnaher Lage mit...,"[['Dachgeschosswohnung', '•', 'Chemnitz', 'Sonnenberg']]",[],Miete zzgl. NK 395 €,Wohnfläche ca. 71 m²,Zi. 3,87,14
+19,selObject_44952091,3-ZIMMER-WOHNUNG im Zentrum mieten l BALKON l STELLPLA...,"[['Dachgeschosswohnung', '•', 'Chemnitz', 'Zentrum']]",['Balkon'],Miete zzgl. NK 320 €,Wohnfläche ca. 58 m²,Zi. 3,87,14
+20,selObject_44952090,2-Raum-Wohnung auf dem KAßBERG mit BALKON zur MIETE!,"[['Etagenwohnung', '•', 'Chemnitz', 'Kaßberg']]",['Balkon'],Miete zzgl. NK 370 €,Wohnfläche ca. 62 m²,Zi. 2,87,14
+21,selObject_44952088,2-Raum-Wohnung mieten in GABLENZ mit BALKON!,"[['Etagenwohnung', '•', 'Chemnitz', 'Sonnenberg']]",['Balkon'],Miete zzgl. NK 280 €,Wohnfläche ca. 51 m²,Zi. 2,87,14
+22,selObject_44951832,Wohnen im Neubau in Anger-Crottendorf,"[['Etagenwohnung', '•', 'Leipzig', 'Anger-Crottendorf']]","['Balkon', 'Garten']",Miete zzgl. NK 400 €,Wohnfläche ca. 69 m²,Zi. 3,87,14
+23,selObject_44951831,Nachmieter gesucht.,"[['Etagenwohnung', '•', 'Delitzsch', 'Delitzsch']]","['Balkon', 'EBK']",Miete zzgl. NK 699 €,Wohnfläche ca. 83 m²,Zi. 3,87,14
+24,selObject_44951703,"2-Zi.-Whg., möbl., in Chemnitz","[['Wohnung', '•', 'Chemnitz', 'Kaßberg']]","['Balkon', 'EBK']",Miete zzgl. NK 275 €,Wohnfläche ca. 62 m²,Zi. 2,87,14
+25,selObject_44951684,"Neu renovierte, möblierte , süße Altbauwohnung ( Erdge...","[['Erdgeschosswohnung', '•', 'Leipzig', 'Gohlis-Süd']]",['EBK'],Miete zzgl. NK 380 €,Wohnfläche ca. 28 m²,Zi. 1,87,14
+26,selObject_44951670,Moderne 3-Zi Wohnung auf Wunsch mit kleinen Gartenante...,"[['Etagenwohnung', '•', 'Zwickau', 'Niederplanitz']]",['Garten'],Miete zzgl. NK 320 €,Wohnfläche ca. 60 m²,Zi. 3,87,14

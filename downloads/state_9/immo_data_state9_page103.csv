@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44884966,"* SUPER 1,5 Zi. - Wohnung * für 1 Personenhaushalt - ...","['Wohnung', '•', 'Nürnberg', 'Glockenhof']",['EBK'],Miete zzgl. NK 520 €,Wohnfläche ca. 46 m²,"Zi. 1,5",103,9
-1,selObject_44884945,Sonnenterrasse gefällig? Neubau: moderne 3-Zimmer-Dach...,"['Dachgeschosswohnung', '•', 'Vaterstetten']",[],Miete zzgl. NK 1.490 €,Wohnfläche ca. 88 m²,Zi. 3,103,9
-2,selObject_44884944,Chillen auf der eigenen Dachterrasse! Neubau: helle...,"['Dachgeschosswohnung', '•', 'Vaterstetten']",[],Miete zzgl. NK 1.150 €,Wohnfläche ca. 66 m²,Zi. 2,103,9
-3,selObject_44884926,Wohlfühl-Wohnung in Vaterstetten ! Neubau: moderne...,"['Etagenwohnung', '•', 'Vaterstetten']",[],Miete zzgl. NK 1.320 €,Wohnfläche ca. 80 m²,Zi. 3,103,9
-4,selObject_44884924,Gartenwohnung mit praktischem Grundriss! Neubau: Sonni...,"['Erdgeschosswohnung', '•', 'Vaterstetten']",[],Miete zzgl. NK 980 €,Wohnfläche ca. 59 m²,Zi. 2,103,9
-5,selObject_44884749,Nürnberg GoHo: Erstbezug einer exklusiven DG-Wohnung /...,"['Dachgeschosswohnung', '•', 'Nürnberg', 'Gostenhof']",['EBK'],Miete zzgl. NK 1.540 €,Wohnfläche ca. 121 m²,Zi. 3,103,9
-6,selObject_44884681,GOTTSMANN Immobilien - 2 ZW in Fürth - Südstadt,"['Erdgeschosswohnung', '•', 'Fürth', 'Südstadt']",[],Miete zzgl. NK 480 €,Wohnfläche ca. 60 m²,"Zi. 2,5",103,9
-7,selObject_44884511,"GOTTSMANN-Immobilienn - kleinere 2 Zimmerwohnung Nbg.,...","['Wohnung', '•', 'Nürnberg', 'Glockenhof']",[],Miete zzgl. NK 440 €,Wohnfläche ca. 42 m²,Zi. 2,103,9
-8,selObject_44884486,"GOTTSMANN-Immobilienn - 2 Zimmerwohnung in Nbg., Gloc...","['Wohnung', '•', 'Nürnberg', 'Glockenhof']",[],Miete zzgl. NK 520 €,Wohnfläche ca. 47 m²,Zi. 2,103,9
-9,selObject_44884040,Erstbezug nach Sanierung: Exklusive Villen-Maisonette...,"['Erdgeschosswohnung', '•', 'München', 'Pasing-Obermenzing']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 7.450 €,Wohnfläche ca. 266 m²,Zi. 5,103,9
-10,selObject_44883939,2Raum + EBK + frisch saniertes Bad + Traumblick,"['Erdgeschosswohnung', '•', 'Riedenburg', 'Riedenburg']",['EBK'],Miete zzgl. NK 595 €,Wohnfläche ca. 73 m²,Zi. 2,103,9
-11,selObject_44883847,3 Zimmer EG-Wohnung Südbalkon mit Einbauküche in Vilse...,"['Erdgeschosswohnung', '•', 'Vilseck', 'Vilseck']",['EBK'],Miete zzgl. NK 660 €,Wohnfläche ca. 87 m²,Zi. 3,103,9
-12,selObject_44883821,1 Zimmerwohnung in der Stadt nahe LMU,"['Etagenwohnung', '•', 'München', 'Maxvorstadt']",[],Miete zzgl. NK 900 €,Wohnfläche ca. 22 m²,Zi. 1,103,9
-13,selObject_44883484,"BLÜMM IMMOBILIEN: Cadolzburg: Großes, helles 1-Zimmer-...","['Souterrainwohnung', '•', 'Cadolzburg', 'Wachendorf']",['EBK'],Miete zzgl. NK 500 €,Wohnfläche ca. 56 m²,Zi. 1,103,9
-14,selObject_44883450,2 ZW am Ortseingang von Lauf in gepflegtem MFH,"['Wohnung', '•', 'Lauf', 'Lauf']",['Balkon'],Miete zzgl. NK 585 €,Wohnfläche ca. 65 m²,Zi. 2,103,9
-15,selObject_44883422,2 Zi.-Wohnung in Waldbüttelbrunn - DG mit Südbalkon -...,"['Wohnung', '•', 'Waldbüttelbrunn', 'Waldbüttelbrunn']",['Balkon'],Miete zzgl. NK 420 €,Wohnfläche ca. 50 m²,Zi. 2,103,9
-16,selObject_44883412,2 1/2-Zi.-DG-Whg. in ruhiger Lage an Mieter mittleren...,"['Dachgeschosswohnung', '•', 'Nürnberg', 'Eibach']",['EBK'],Miete zzgl. NK 560 €,Wohnfläche ca. 60 m²,"Zi. 2,5",103,9
-17,selObject_44883273,Moderne 1 Zimmer Wohnung auf 33 m² in Nürnberg mit...,"['Erdgeschosswohnung', '•', 'Nürnberg', 'St', 'Peter']","['Balkon', 'EBK']",Miete zzgl. NK 390 €,Wohnfläche ca. 33 m²,Zi. 1,103,9
-18,selObject_44882746,Wohnung in Schweinfurt,"['Etagenwohnung', '•', 'Schweinfurt', 'Musikerviertel', 'und', 'amerik.', 'Siedlung']",[],"Miete zzgl. NK 312,40 €",Wohnfläche ca. 55 m²,Zi. 2,103,9
-19,selObject_44882748,Wohnung in Schweinfurt,"['Erdgeschosswohnung', '•', 'Schweinfurt', 'Altstadt']",[],"Miete zzgl. NK 347,80 €",Wohnfläche ca. 51 m²,Zi. 2,103,9
-20,selObject_44881985,"Möbliert: Möblierte 1,5-Zi-Wohnung mit idealer Raumauf...","['Wohnung', '•', 'München', 'Milbertshofen-Am', 'Hart']",['Balkon'],Miete zzgl. NK 1.040 €,Wohnfläche ca. 48 m²,"Zi. 1,5",103,9
-21,selObject_44881949,Möbliert: Helles Apartment mit Dachterrasse,"['Wohnung', '•', 'München', 'Ramersdorf-Perlach']",['Balkon'],Miete zzgl. NK 880 €,Wohnfläche ca. 25 m²,Zi. 1,103,9
-22,selObject_44881932,Möbliert: Premiumwohnung für höchste Ansprüche,"['Wohnung', '•', 'München', 'Maxvorstadt']",[],Miete zzgl. NK 1.080 €,Wohnfläche ca. 31 m²,Zi. 1,103,9
-23,selObject_44881931,Möbliert: Sonnige 1-Zimmer Wohnung mit Westbalkon,"['Wohnung', '•', 'München', 'Pasing-Obermenzing']",['Balkon'],Miete zzgl. NK 1.184 €,Wohnfläche ca. 48 m²,"Zi. 1,5",103,9
-24,selObject_44881930,Möbliert: Möblierte Wohnung in Neuhausen,"['Wohnung', '•', 'München', 'Neuhausen-Nymphenburg']",['Balkon'],Miete zzgl. NK 920 €,Wohnfläche ca. 33 m²,Zi. 1,103,9
-25,selObject_44881928,Möbliert: Sehr schöne möblierte Wohnung in Obergiesing,"['Wohnung', '•', 'München', 'Obergiesing']",['Balkon'],Miete zzgl. NK 1.296 €,Wohnfläche ca. 52 m²,Zi. 2,103,9
-26,selObject_44881916,Möbliert: Premium Apartment - Stilvoll und elegant...,"['Wohnung', '•', 'München', 'Neuhausen-Nymphenburg']",[],Miete zzgl. NK 1.192 €,Wohnfläche ca. 37 m²,Zi. 1,103,9
+0,selObject_44908017,Neubau - modern gestaltete 2-Zimmer Wohnung im Münchne...,"[['Kein', 'Bild'], ['Etagenwohnung', '•', 'München', 'Sendling-Westpark']]","['Balkon', 'EBK']",Miete zzgl. NK 1.490 €,Wohnfläche ca. 64 m²,Zi. 2,103,9
+1,selObject_44908019,Neubau - modern gestaltete 2-Zimmer Wohnung im Münchne...,"[['Kein', 'Bild'], ['Etagenwohnung', '•', 'München', 'Sendling-Westpark']]","['Balkon', 'EBK']",Miete zzgl. NK 1.520 €,Wohnfläche ca. 63 m²,Zi. 2,103,9
+2,selObject_44908013,Dachterrasse und Alpenblick | Neubau 2-Zimmer Wohnung...,"[['Etagenwohnung', '•', 'München', 'Sendling-Westpark']]","['Balkon', 'EBK']",Miete zzgl. NK 1.490 €,Wohnfläche ca. 57 m²,Zi. 2,103,9
+3,selObject_44908009,Neubau - modern gestaltete 2-Zimmer Wohnung im Münchne...,"[['Kein', 'Bild'], ['Etagenwohnung', '•', 'München', 'Sendling-Westpark']]","['Balkon', 'EBK']",Miete zzgl. NK 2.290 €,Wohnfläche ca. 89 m²,Zi. 3,103,9
+4,selObject_44908010,Dachterrasse und Einbauküche | Neubau 1 Zi. Wohnung im...,"[['Etagenwohnung', '•', 'München', 'Sendling-Westpark']]","['Balkon', 'EBK']",Miete zzgl. NK 1.230 €,Wohnfläche ca. 47 m²,Zi. 1,103,9
+5,selObject_44907981,Großzügige 3 Zi. DG-Wohnung mit Balkon in Goldbach!,"[['Dachgeschosswohnung', '•', 'Goldbach', 'Goldbach']]",['EBK'],Miete zzgl. NK 800 €,Wohnfläche ca. 94 m²,Zi. 3,103,9
+6,selObject_44907950,3 Zimmer-Wohnung mit Carport in zentrumsnaher Lage,"[['Etagenwohnung', '•', 'Straubing', 'Straubing']]","['Balkon', 'EBK']",Miete zzgl. NK 600 €,Wohnfläche ca. 85 m²,Zi. 3,103,9
+7,selObject_44907888,Helle und freundliche 3 Zimmer-Wohnung mit Altbaucharm...,"[['Wohnung', '•', 'Nürnberg', 'Gostenhof']]",['EBK'],Miete zzgl. NK 590 €,Wohnfläche ca. 63 m²,Zi. 3,103,9
+8,selObject_44907873,"Schöne, renovierte Altbauwohnung - Wohnen mitten im...","[['Etagenwohnung', '•', 'Neumarkt', 'Neumarkt']]","['Balkon', 'EBK']",Miete zzgl. NK 712 €,Wohnfläche ca. 89 m²,Zi. 4,103,9
+9,selObject_44907854,"Charmante 4 Zi, Garten, EBK und vieles mehr ++Robert...","[['Etagenwohnung', '•', 'Vogtareuth', 'Vogtareuth']]","['Garten', 'EBK']",Miete zzgl. NK 1.280 €,Wohnfläche ca. 98 m²,Zi. 4,103,9
+10,selObject_44907817,"Neubau*3,5-Zimmer-Wohnung*Vierparteienhaus*überdachte...","[['Wohnung', '•', 'Petersdorf', 'Gebersdorf']]",[],Miete zzgl. NK 1.190 €,Wohnfläche ca. 121 m²,"Zi. 3,5",103,9
+11,selObject_44907796,Großzügige 2-Zimmer-Neubauwohnung im Zentrum,"[['Etagenwohnung', '•', 'Kempten', 'Kempten']]","['Balkon', 'Garten']",Miete zzgl. NK 975 €,Wohnfläche ca. 72 m²,Zi. 2,103,9
+12,selObject_44907738,2-Zimmer-Wohnung - Saniertes MFH in Fürther Innenstadt...,"[['Erdgeschosswohnung', '•', 'Fürth', 'Innenstadt']]","['Garten', 'EBK']",Miete zzgl. NK 550 €,Wohnfläche ca. 45 m²,Zi. 2,103,9
+13,selObject_44907725,Außergewöhnliche Wohnung mit Dachterrasse ab 01.09.202...,"[['Etagenwohnung', '•', 'München', 'Milbertshofen-Am', 'Hart']]",['EBK'],Miete zzgl. NK 1.800 €,Wohnfläche ca. 118 m²,Zi. 3,103,9
+14,selObject_44907719,Erstbezug*3 Zimmer*Neubau*Küche*Balkon*Vierparteienhau...,"[['Wohnung', '•', 'Petersdorf', 'Gebersdorf']]","['Balkon', 'EBK']",Miete zzgl. NK 1.100 €,Wohnfläche ca. 113 m²,Zi. 3,103,9
+15,selObject_44907708,"Erstbezug: Hochwertige 2 Zi-Wohnung, EBK, Südloggia,...","[['Wohnung', '•', 'München', 'Aubing-Lochhausen-Langwied']]","['Balkon', 'EBK']",Miete zzgl. NK 1.345 €,Wohnfläche ca. 59 m²,Zi. 2,103,9
+16,selObject_44907636,Wohnen im Dachgeschoss mit geräumigen Zimmern und Balk...,"[['Dachgeschosswohnung', '•', 'Schwandorf', 'Schwandorf']]","['Balkon', 'EBK']",Miete zzgl. NK 600 €,Wohnfläche ca. 91 m²,Zi. 2,103,9
+17,selObject_44907634,Wohnen im Dachgeschoss mit geräumigen Zimmern und Balk...,"[['Dachgeschosswohnung', '•', 'Schwandorf', 'Schwandorf']]","['Balkon', 'EBK']",Miete zzgl. NK 508 €,Wohnfläche ca. 85 m²,Zi. 2,103,9
+18,selObject_44907563,"Wohlfühloase auf 92 qm, mit großem Balkon, EBK","[['Etagenwohnung', '•', 'München', 'Ramersdorf-Perlach']]","['Balkon', 'EBK']","Miete zzgl. NK 1.561,18 €",Wohnfläche ca. 92 m²,Zi. 3,103,9
+19,selObject_44907523,4-Zi.-Wohnung sucht einen neuen Mieter,"[['Wohnung', '•', 'Alteglofsheim']]","['Balkon', 'EBK']",Miete zzgl. NK 1.000 €,Wohnfläche ca. 130 m²,Zi. 4,103,9
+20,selObject_44907524,3-Zimmer-Wohnung im 2. Obergeschoss in Alteglofsheim...,"[['Wohnung', '•', 'Alteglofsheim']]",['EBK'],Miete zzgl. NK 750 €,Wohnfläche ca. 90 m²,Zi. 3,103,9
+21,selObject_44907521,Helle 3-Zimmer Wohnung mit Balkon in ruhiger Lage,"[['Wohnung', '•', 'Bergtheim', 'Bergtheim']]","['Balkon', 'Garten']",Miete zzgl. NK 535 €,Wohnfläche ca. 62 m²,Zi. 3,103,9
+22,selObject_44907349,4-Zimmer Wohnung 97 m² Unterspiesheim,"[['Etagenwohnung', '•', 'Kolitzheim', 'Unterspiesheim']]",['Balkon'],Miete zzgl. NK 660 €,Wohnfläche ca. 97 m²,Zi. 4,103,9
+23,selObject_44907331,Neubau 2-Zimmer-Obergeschosswohnung Nr. 5 in Gerolsbac...,"[['Wohnung', '•', 'Gerolsbach', 'Aichmühle']]",[],Miete zzgl. NK 470 €,Wohnfläche ca. 46 m²,Zi. 2,103,9
+24,selObject_44907329,Spitzen 2-Zimmer-Neubau-OG-Wohnung Nr. 4 in Gerolsbach...,"[['Wohnung', '•', 'Gerolsbach', 'Aichmühle']]",[],Miete zzgl. NK 470 €,Wohnfläche ca. 46 m²,Zi. 2,103,9
+25,selObject_44907330,Helle 4-Zimmer-Neubau-Obergeschosswohnung Nr. 3 in...,"[['Wohnung', '•', 'Gerolsbach', 'Aichmühle']]",[],Miete zzgl. NK 1.050 €,Wohnfläche ca. 103 m²,Zi. 4,103,9
+26,selObject_44906956,"sehr ruhige 3 Zimmer Wohnung in Emmering zu vermieten,...","[['Apartment', '•', 'Emmering']]","['Garten', 'EBK']",Miete zzgl. NK 1.180 €,Wohnfläche ca. 67 m²,Zi. 3,103,9

@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_43577990,°machen Sie es sich gemütlich unter´m Dach° wir haben...,"['Wohnung', '•', 'Duisburg', 'Alt-Hamborn']",[],"Miete zzgl. NK 417,14 €",Wohnfläche ca. 62 m²,Zi. 3,260,5
-1,selObject_43577818,"Wohnen mal ganz anders + EINZUGSBONUS! Pfiffige, helle...","['Maisonette', '•', 'Bielefeld', 'Innenstadt']",['EBK'],Miete zzgl. NK 590 €,Wohnfläche ca. 60 m²,Zi. 2,260,5
-2,selObject_43577119,schöne 3-Zi-Dachgeschoss-Wohnung mit Ausblick. Ideal...,"['Dachgeschosswohnung', '•', 'Wuppertal']",[],Miete zzgl. NK 350 €,Wohnfläche ca. 57 m²,Zi. 3,260,5
-3,selObject_43574860,Barrierearme helle 2- Zimmerwohnung im Herzen Krefelds...,"['Etagenwohnung', '•', 'Krefeld', 'Cracau']",['Balkon'],Miete zzgl. NK 590 €,Wohnfläche ca. 81 m²,Zi. 2,260,5
-4,selObject_43574666,2-Zimmerwohnung mit eigenem Eingang und Terrasse,"['Erdgeschosswohnung', '•', 'Meinerzhagen', 'Meinerzhagen']","['Garten', 'EBK']",Miete zzgl. NK 310 €,Wohnfläche ca. 40 m²,Zi. 2,260,5
-5,selObject_43573073,Einziehen und wohlfühlen - Unser Quartier Citywohnpark,"['Etagenwohnung', '•', 'Duisburg', 'Dellviertel']",['Balkon'],Miete zzgl. NK 348 €,Wohnfläche ca. 61 m²,Zi. 2,260,5
-6,selObject_43568479,Zentrale Lage zum Klinikum - 2-Raum Wohnung bezugsfrei,"['Kein', 'Bild']",['Balkon'],Miete zzgl. NK 600 €,Wohnfläche ca. 68 m²,Zi. 2,260,5
-7,selObject_43567635,Schöne 3 Zimmer Wohnung in einer ruhigen Lage Edisonst...,"['Wohnung', '•', 'Hamm', 'Pelkum']",['Balkon'],Miete zzgl. NK 530 €,Wohnfläche ca. 81 m²,Zi. 3,260,5
-8,selObject_43564813,Schöne 2-Zimmer-Wohnung in kleiner Wohneinheit in Herd...,"['Etagenwohnung', '•', 'Herdecke', 'Herdecke']",[],Miete zzgl. NK 290 €,Wohnfläche ca. 38 m²,Zi. 2,260,5
-9,selObject_43562218,Ganz Oben ! Schön hell und freundlich *****,"['Wohnung', '•', 'Essen', 'Freisenbruch']",['Balkon'],Miete zzgl. NK 420 €,Wohnfläche ca. 71 m²,Zi. 3,260,5
-10,selObject_43561371,Schönes Wohnen in Bo-Dahlhausen ...,"['Etagenwohnung', '•', 'Bochum', 'Dahlhausen']",[],"Miete zzgl. NK 359,24 €",Wohnfläche ca. 76 m²,"Zi. 2,5",260,5
-11,selObject_43561345,Gut geschnittene 3-Zimmer-Wohnung mit Tageslichtbad in...,"['Erdgeschosswohnung', '•', 'Herne', 'Crange']",[],Miete zzgl. NK 399 €,Wohnfläche ca. 50 m²,Zi. 3,260,5
-12,selObject_43561218,Für die kleine Familie,"['Wohnung', '•', 'Minden', 'Innenstadt']","['Balkon', 'Garten']",Miete zzgl. NK 450 €,Wohnfläche ca. 67 m²,Zi. 3,260,5
-13,selObject_43557685,DG Wohnung Essen Frohnhausen zentral gelegen,"['Dachgeschosswohnung', '•', 'Essen', 'Frohnhausen']",[],Miete zzgl. NK 415 €,Wohnfläche ca. 60 m²,Zi. 2,260,5
-14,selObject_43554747,2 Zimmer Wohnung in Düsseldorf zu vermieten,"['Etagenwohnung', '•', 'Düsseldorf', 'Oberbilk']",[],Miete zzgl. NK 555 €,Wohnfläche ca. 66 m²,Zi. 2,260,5
-15,selObject_43553806,"Neubau! Wohnen im Ortskern von Borken-Weseke, 3-Zimmer...","['Etagenwohnung', '•', 'Borken', 'Weseke']",['Balkon'],Miete zzgl. NK 720 €,Wohnfläche ca. 90 m²,Zi. 3,260,5
-16,selObject_43553650,"Sehr schöne, helle 3-Zimmer Wohnung mit Balkon in Duis...","['Dachgeschosswohnung', '•', 'Duisburg', 'Dellviertel']",['Balkon'],Miete zzgl. NK 558 €,Wohnfläche ca. 112 m²,Zi. 3,260,5
-17,selObject_43553016,"1,5-Zimmer-Appartement in zentraler Lage in Herne-City...","['Wohnung', '•', 'Herne', 'Herne-Mitte']",[],Miete zzgl. NK 250 €,Wohnfläche ca. 38 m²,Zi. 2,260,5
-18,selObject_43551733,Neugebaute 1-Zimmer-Apartments im Zentrum Aachens,"['Dachgeschosswohnung', '•', 'Aachen', 'Aachen']",['Balkon'],Miete zzgl. NK 370 €,Wohnfläche ca. 25 m²,Zi. 1,260,5
-19,selObject_43549677,Helle und barrierefreie 2-Zimmer-Wohnung in Ennepetal-...,"['Wohnung', '•', 'Ennepetal', 'Voerde']",['Balkon'],"Miete zzgl. NK 312,26 €",Wohnfläche ca. 61 m²,Zi. 2,260,5
-20,selObject_43549130,Frisch renoviert und mitten im Zentrum von Bochum,"['Wohnung', '•', 'Bochum', 'Innenstadt']",[],Miete zzgl. NK 540 €,Wohnfläche ca. 77 m²,"Zi. 3,5",260,5
-21,selObject_43548735,Hier macht Wohnen Spaß !,"['Erdgeschosswohnung', '•', 'Herscheid', 'Herscheid']",['Balkon'],Miete zzgl. NK 309 €,Wohnfläche ca. 51 m²,Zi. 3,260,5
-22,selObject_43548344,LUXUS WOHNEN ZUM ECONOMY PREIS! 500€ Prämie und 3 Mona...,"['Etagenwohnung', '•', 'Unna', 'Massen']",[],Miete zzgl. NK 609 €,Wohnfläche ca. 76 m²,Zi. 3,260,5
-23,selObject_43544001,*IHRE FAMILIENWOHNUNG MIT SÜDBALKON! Helle 3-Zimmer-Wo...,"['Etagenwohnung', '•', 'Lüdenscheid', 'Freisenberg']",[],"Miete zzgl. NK 432,25 €",Wohnfläche ca. 66 m²,Zi. 3,260,5
-24,selObject_43543779,"Aachen-Zentrum, Nähe RWTH - Zimmer in 3-er WG ... 28...","['Zimmer', '•', 'Aachen', 'Aachen']",['EBK'],Miete zzgl. NK 374 €,Wohnfläche ca. 28 m²,,260,5
-25,selObject_43542920,Kuscheliges Appartement mit kleiner Küchenzeile in...,"['Etagenwohnung', '•', 'Leverkusen', 'Opladen']",[],Miete zzgl. NK 250 €,Wohnfläche ca. 22 m²,Zi. 1,260,5
-26,selObject_43542108,Sichern Sie sich jetzt diese tolle Wohnung...! 3 Zimme...,"['Wohnung', '•', 'Hagen', 'Hochschulviertel']",[],Miete zzgl. NK 483 €,Wohnfläche ca. 69 m²,Zi. 3,260,5
+0,selObject_43578159,Wohnen in der JUPP Siedlung im Dachgeschoss °°°°für...,"[['Wohnung', '•', 'Duisburg', 'Alt-Hamborn']]",[],"Miete zzgl. NK 390,22 €",Wohnfläche ca. 62 m²,Zi. 2,260,5
+1,selObject_43577990,°machen Sie es sich gemütlich unter´m Dach° wir haben...,"[['Wohnung', '•', 'Duisburg', 'Alt-Hamborn']]",[],"Miete zzgl. NK 417,14 €",Wohnfläche ca. 62 m²,Zi. 3,260,5
+2,selObject_43577818,"Wohnen mal ganz anders + EINZUGSBONUS! Pfiffige, helle...","[['Maisonette', '•', 'Bielefeld', 'Innenstadt']]",['EBK'],Miete zzgl. NK 590 €,Wohnfläche ca. 60 m²,Zi. 2,260,5
+3,selObject_43577119,schöne 3-Zi-Dachgeschoss-Wohnung mit Ausblick. Ideal...,"[['Dachgeschosswohnung', '•', 'Wuppertal']]",[],Miete zzgl. NK 350 €,Wohnfläche ca. 57 m²,Zi. 3,260,5
+4,selObject_43574860,Barrierearme helle 2- Zimmerwohnung im Herzen Krefelds...,"[['Etagenwohnung', '•', 'Krefeld', 'Cracau']]",['Balkon'],Miete zzgl. NK 590 €,Wohnfläche ca. 81 m²,Zi. 2,260,5
+5,selObject_43574666,2-Zimmerwohnung mit eigenem Eingang und Terrasse,"[['Erdgeschosswohnung', '•', 'Meinerzhagen', 'Meinerzhagen']]","['Garten', 'EBK']",Miete zzgl. NK 310 €,Wohnfläche ca. 40 m²,Zi. 2,260,5
+6,selObject_43573073,Einziehen und wohlfühlen - Unser Quartier Citywohnpark,"[['Etagenwohnung', '•', 'Duisburg', 'Dellviertel']]",['Balkon'],Miete zzgl. NK 348 €,Wohnfläche ca. 61 m²,Zi. 2,260,5
+7,selObject_43568479,Zentrale Lage zum Klinikum - 2-Raum Wohnung bezugsfrei,"[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Essen', 'Holsterhausen']]",['Balkon'],Miete zzgl. NK 600 €,Wohnfläche ca. 68 m²,Zi. 2,260,5
+8,selObject_43567635,Schöne 3 Zimmer Wohnung in einer ruhigen Lage Edisonst...,"[['Wohnung', '•', 'Hamm', 'Pelkum']]",['Balkon'],Miete zzgl. NK 530 €,Wohnfläche ca. 81 m²,Zi. 3,260,5
+9,selObject_43561371,Schönes Wohnen in Bo-Dahlhausen ...,"[['Etagenwohnung', '•', 'Bochum', 'Dahlhausen']]",[],"Miete zzgl. NK 359,24 €",Wohnfläche ca. 76 m²,"Zi. 2,5",260,5
+10,selObject_43561345,Gut geschnittene 3-Zimmer-Wohnung mit Tageslichtbad in...,"[['Erdgeschosswohnung', '•', 'Herne', 'Crange']]",[],Miete zzgl. NK 399 €,Wohnfläche ca. 50 m²,Zi. 3,260,5
+11,selObject_43561218,Für die kleine Familie,"[['Wohnung', '•', 'Minden', 'Innenstadt']]","['Balkon', 'Garten']",Miete zzgl. NK 450 €,Wohnfläche ca. 67 m²,Zi. 3,260,5
+12,selObject_43557685,DG Wohnung Essen Frohnhausen zentral gelegen,"[['Dachgeschosswohnung', '•', 'Essen', 'Frohnhausen']]",[],Miete zzgl. NK 415 €,Wohnfläche ca. 60 m²,Zi. 2,260,5
+13,selObject_43554747,2 Zimmer Wohnung in Düsseldorf zu vermieten,"[['Etagenwohnung', '•', 'Düsseldorf', 'Oberbilk']]",[],Miete zzgl. NK 555 €,Wohnfläche ca. 66 m²,Zi. 2,260,5
+14,selObject_43553806,"Neubau! Wohnen im Ortskern von Borken-Weseke, 3-Zimmer...","[['Etagenwohnung', '•', 'Borken', 'Weseke']]",['Balkon'],Miete zzgl. NK 720 €,Wohnfläche ca. 90 m²,Zi. 3,260,5
+15,selObject_43553650,"Sehr schöne, helle 3-Zimmer Wohnung mit Balkon in Duis...","[['Dachgeschosswohnung', '•', 'Duisburg', 'Dellviertel']]",['Balkon'],Miete zzgl. NK 558 €,Wohnfläche ca. 112 m²,Zi. 3,260,5
+16,selObject_43553016,"1,5-Zimmer-Appartement in zentraler Lage in Herne-City...","[['Wohnung', '•', 'Herne', 'Herne-Mitte']]",[],Miete zzgl. NK 250 €,Wohnfläche ca. 38 m²,Zi. 2,260,5
+17,selObject_43551733,Neugebaute 1-Zimmer-Apartments im Zentrum Aachens,"[['Dachgeschosswohnung', '•', 'Aachen', 'Aachen']]",['Balkon'],Miete zzgl. NK 370 €,Wohnfläche ca. 25 m²,Zi. 1,260,5
+18,selObject_43549677,Helle und barrierefreie 2-Zimmer-Wohnung in Ennepetal-...,"[['Wohnung', '•', 'Ennepetal', 'Voerde']]",['Balkon'],"Miete zzgl. NK 312,26 €",Wohnfläche ca. 61 m²,Zi. 2,260,5
+19,selObject_43549130,Frisch renoviert und mitten im Zentrum von Bochum,"[['Wohnung', '•', 'Bochum', 'Innenstadt']]",[],Miete zzgl. NK 540 €,Wohnfläche ca. 77 m²,"Zi. 3,5",260,5
+20,selObject_43548735,Hier macht Wohnen Spaß !,"[['Erdgeschosswohnung', '•', 'Herscheid', 'Herscheid']]",['Balkon'],Miete zzgl. NK 309 €,Wohnfläche ca. 51 m²,Zi. 3,260,5
+21,selObject_43548344,LUXUS WOHNEN ZUM ECONOMY PREIS! 500€ Prämie und 3 Mona...,"[['Etagenwohnung', '•', 'Unna', 'Massen']]",[],Miete zzgl. NK 609 €,Wohnfläche ca. 76 m²,Zi. 3,260,5
+22,selObject_43544001,*IHRE FAMILIENWOHNUNG MIT SÜDBALKON! Helle 3-Zimmer-Wo...,"[['Etagenwohnung', '•', 'Lüdenscheid', 'Freisenberg']]",[],"Miete zzgl. NK 432,25 €",Wohnfläche ca. 66 m²,Zi. 3,260,5
+23,selObject_43543779,"Aachen-Zentrum, Nähe RWTH - Zimmer in 3-er WG ... 28...","[['Zimmer', '•', 'Aachen', 'Aachen']]",['EBK'],Miete zzgl. NK 374 €,Wohnfläche ca. 28 m²,,260,5
+24,selObject_43542920,Kuscheliges Appartement mit kleiner Küchenzeile in...,"[['Etagenwohnung', '•', 'Leverkusen', 'Opladen']]",[],Miete zzgl. NK 250 €,Wohnfläche ca. 22 m²,Zi. 1,260,5
+25,selObject_43541470,Wohnen im Zentrum von Lübbecke *provisionsfrei*,"[['Etagenwohnung', '•', 'Lübbecke', 'Lübbecke']]",[],Miete zzgl. NK 665 €,Wohnfläche ca. 102 m²,Zi. 4,260,5
+26,selObject_43541043,"So geht schönes Wohnen.. °3 Zimmer im EG, Balkon und...","[['Wohnung', '•', 'Hagen', 'Hohenlimburg']]",['Balkon'],"Miete zzgl. NK 399,90 €",Wohnfläche ca. 62 m²,Zi. 3,260,5

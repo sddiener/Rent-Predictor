@@ -1,7 +1,15 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_38387149,Citynah leben im Alter : Victor´s Residenz Saarlouis,"['Etagenwohnung', '•', 'Saarlouis', 'Roden']",['Garten'],Miete zzgl. NK 1.348 €,Wohnfläche ca. 55 m²,Zi. 2,17,10
-1,selObject_37811608,VOLLAUSSTATTUNG - möblierte Mietwohnung mit Balkon in...,"['Erdgeschosswohnung', '•', 'Neunkirchen', 'Wellesweiler']","['Balkon', 'EBK']",Miete zzgl. NK 700 €,Wohnfläche ca. 137 m²,Zi. 4,17,10
-2,selObject_34301020,Helle 2 ZKB in SB/ Nähe Rastpfuhl-Klinik mit guter...,"['Etagenwohnung', '•', 'Saarbrücken', 'Malstatt']",[],Miete zzgl. NK 350 €,Wohnfläche ca. 52 m²,Zi. 2,17,10
-3,selObject_24787554,"Komplett sanierte, bezugsfertige, großzügige 3-ZKB...","['Apartment', '•', 'Eppelborn', 'Wiesbach']",['Balkon'],Miete zzgl. NK 650 €,Wohnfläche ca. 98 m²,Zi. 3,17,10
-4,selObject_13372558,Die Wohnung mit Flair und einem liebevollen Ambiente....,"['Erdgeschosswohnung', '•', 'Saarbrücken', 'Malstatt']","['Garten', 'EBK']",Miete zzgl. NK 710 €,Wohnfläche ca. 86 m²,Zi. 3,17,10
-5,selObject_12515730,"Sonniger Balkon mit großer Wirkung, direkt am Staden","['Wohnung', '•', 'Saarbrücken', 'St', 'Johann']","['Balkon', 'Garten']",Miete zzgl. NK 590 €,Wohnfläche ca. 78 m²,Zi. 3,17,10
+0,selObject_40799095,Wohnen in direkter City-Lage am St. Johanner Markt,"[['Wohnung', '•', 'Saarbrücken', 'St', 'Johann']]",[],Miete zzgl. NK 460 €,Wohnfläche ca. 51 m²,Zi. 2,17,10
+1,selObject_40747620,"66740 Saarlouis Innenstadt 2 ZKB ca. 60,00 m2 Einbaukü...","[['Kein', 'Bild'], ['Dachgeschosswohnung', '•', 'Saarlouis', 'Saarlouis']]",['EBK'],Miete zzgl. NK 440 €,Wohnfläche ca. 60 m²,Zi. 2,17,10
+2,selObject_40593592,"SB-City, Nähe St. Johanner Markt + Fußgängerzone","[['Wohnung', '•', 'Saarbrücken', 'St', 'Johann']]",[],Miete zzgl. NK 695 €,Wohnfläche ca. 74 m²,Zi. 2,17,10
+3,selObject_40038610,HOMBURG-OT; GROßZÜGIGE 3 ZKB WOHNUNG MIT TG-STELLPLATZ,"[['Etagenwohnung', '•', 'Homburg', 'Erbach']]",['EBK'],Miete zzgl. NK 750 €,Wohnfläche ca. 116 m²,Zi. 3,17,10
+4,selObject_39941267,"66117 Saarbrücken, 2 ZKB 55 m2 Balkon 410 € + NK","[['Kein', 'Bild'], ['Wohnung', '•', 'Saarbrücken', 'Alt-Saarbrücken']]",['Balkon'],Miete zzgl. NK 410 €,Wohnfläche ca. 55 m²,Zi. 2,17,10
+5,selObject_39667694,DUDWEILER SÜD - Kernsanierte 2ZKB Dachgeschosswohnung...,"[['Dachgeschosswohnung', '•', 'Saarbrücken', 'Dudweiler']]",['Garten'],Miete zzgl. NK 580 €,Wohnfläche ca. 60 m²,Zi. 2,17,10
+6,selObject_38781641,"Wunderschöne, zentrale Dachgeschosswohnung - sofort...","[['Dachgeschosswohnung', '•', 'Völklingen', 'Stadtmitte']]",[],Miete zzgl. NK 430 €,Wohnfläche ca. 78 m²,Zi. 2,17,10
+7,selObject_38387352,Helle Seniorenwohnung in SB-Nähe Rastpfuhlklinik,"[['Etagenwohnung', '•', 'Saarbrücken', 'Malstatt']]","['Balkon', 'Garten']",Miete zzgl. NK 340 €,Wohnfläche ca. 42 m²,"Zi. 1,5",17,10
+8,selObject_38387149,Citynah leben im Alter : Victor´s Residenz Saarlouis,"[['Etagenwohnung', '•', 'Saarlouis', 'Roden']]",['Garten'],Miete zzgl. NK 1.348 €,Wohnfläche ca. 55 m²,Zi. 2,17,10
+9,selObject_37811608,VOLLAUSSTATTUNG - möblierte Mietwohnung mit Balkon in...,"[['Erdgeschosswohnung', '•', 'Neunkirchen', 'Wellesweiler']]","['Balkon', 'EBK']",Miete zzgl. NK 700 €,Wohnfläche ca. 137 m²,Zi. 4,17,10
+10,selObject_34301020,Helle 2 ZKB in SB/ Nähe Rastpfuhl-Klinik mit guter...,"[['Etagenwohnung', '•', 'Saarbrücken', 'Malstatt']]",[],Miete zzgl. NK 350 €,Wohnfläche ca. 52 m²,Zi. 2,17,10
+11,selObject_24787554,"Komplett sanierte, bezugsfertige, großzügige 3-ZKB...","[['Apartment', '•', 'Eppelborn', 'Wiesbach']]",['Balkon'],Miete zzgl. NK 650 €,Wohnfläche ca. 98 m²,Zi. 3,17,10
+12,selObject_13372558,Die Wohnung mit Flair und einem liebevollen Ambiente....,"[['Erdgeschosswohnung', '•', 'Saarbrücken', 'Malstatt']]","['Garten', 'EBK']",Miete zzgl. NK 710 €,Wohnfläche ca. 86 m²,Zi. 3,17,10
+13,selObject_12515730,"Sonniger Balkon mit großer Wirkung, direkt am Staden","[['Wohnung', '•', 'Saarbrücken', 'St', 'Johann']]","['Balkon', 'Garten']",Miete zzgl. NK 590 €,Wohnfläche ca. 78 m²,Zi. 3,17,10

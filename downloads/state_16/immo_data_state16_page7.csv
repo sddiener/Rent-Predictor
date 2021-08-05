@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_45004477,NEU Praktische 2-Raum-Wohnung,"['Wohnung', '•', 'Erfurt', 'Johannesvorstadt']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 315 €,Wohnfläche ca. 45 m²,Zi. 2,7,16
-1,selObject_45003956,NEU Sanierte 3 Raumwohnung auf dem Roten Berg!,"['Etagenwohnung', '•', 'Erfurt', 'Roter', 'Berg']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 446,15 €",Wohnfläche ca. 61 m²,Zi. 3,7,16
-2,selObject_45003946,NEU Verkehrsgünstig wohnen mit guter Infrastruktur,"['Etagenwohnung', '•', 'Jena', 'Nord']","['NEU', 'NEU']","Miete zzgl. NK 468,56 €",Wohnfläche ca. 46 m²,Zi. 2,7,16
-3,selObject_45003900,"NEU Helle, freundliche 2 Raumwohnung in Gera","['Dachgeschosswohnung', '•', 'Gera', 'Innenstadt']","['NEU', 'NEU']","Miete zzgl. NK 261,95 €",Wohnfläche ca. 52 m²,Zi. 2,7,16
-4,selObject_45003896,NEU Ruhig gelegene 2 Raumwohnung mit Altbaucharme,"['Etagenwohnung', '•', 'Gera', 'Ostviertel']","['NEU', 'NEU']","Miete zzgl. NK 255,92 €",Wohnfläche ca. 47 m²,Zi. 2,7,16
-5,selObject_45003537,NEU Ruhig Wohnen in Waltershausen,"['Wohnung', '•', 'Waltershausen', 'Waltershausen']","['NEU', 'NEU']",Miete zzgl. NK 460 €,Wohnfläche ca. 83 m²,Zi. 3,7,16
-6,selObject_45003536,NEU Ruhig Wohnen in Waltershausen,"['Wohnung', '•', 'Waltershausen', 'Waltershausen']","['NEU', 'NEU']",Miete zzgl. NK 450 €,Wohnfläche ca. 82 m²,Zi. 4,7,16
-7,selObject_45002115,"NEU Moderne, helle Single-Wohnung in der Gothaer Innenstad...","['Etagenwohnung', '•', 'Gotha', 'Gotha']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 300 €,Wohnfläche ca. 44 m²,Zi. 1,7,16
-8,selObject_45001834,NEU Wohnbauprojekt Lindenallee: 2 -Raum Wohnung im modern...,"['Wohnung', '•', 'Jena', 'Zwätzen']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 790 €,Wohnfläche ca. 63 m²,Zi. 2,7,16
-9,selObject_45001691,NEU Exklusive 4 Raum Wohnung zum Erstbezug,"['Dachgeschosswohnung', '•', 'Umpferstedt']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 1.090 €,Wohnfläche ca. 131 m²,Zi. 4,7,16
-10,selObject_45001587,NEU *** Den Kaffee in Neubauwohnung im stylischen Landhaus...,"['Wohnung', '•', 'Jena', 'Nord']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 1.450 €,Wohnfläche ca. 117 m²,Zi. 4,7,16
-11,selObject_45001216,NEU Singl 2-RW DG ca 71 m² Erfurt 10 min . vom Bahnhof,"['Dachgeschosswohnung', '•', 'Erfurt', 'Brühlervorstadt']","['NEU', 'NEU', 'Garten']","Miete zzgl. NK 532,50 €",Wohnfläche ca. 71 m²,Zi. 2,7,16
-12,selObject_45001150,NEU Gemütliche 2-Raum Wohnung mit Balkon,"['Etagenwohnung', '•', 'Gera', 'Lusan']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 289,59 €",Wohnfläche ca. 54 m²,Zi. 2,7,16
-13,selObject_45001144,NEU Schöne Zweiraumwohnung mit großem Balkon und Aufzug,"['Etagenwohnung', '•', 'Gera', 'Lusan']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 225,16 €",Wohnfläche ca. 43 m²,Zi. 2,7,16
-14,selObject_45000614,"NEU Ganz spezielle 2,5 Raum-Wohnung mit Charm für das Beso...","['Wohnung', '•', 'Gera', 'Bieblach']","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']",Miete zzgl. NK 315 €,Wohnfläche ca. 71 m²,"Zi. 2,5",7,16
-15,selObject_45000151,NEU 1-Zimmer-Wohnung in Gera zu vermieten,"['Wohnung', '•', 'Gera', 'Innenstadt']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 230 €,Wohnfläche ca. 40 m²,Zi. 1,7,16
-16,selObject_44999541,"NEU hochwertige Wohnung mit toller Küche und schönem, groß...","['Wohnung', '•', 'Zöllnitz']","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']",Miete zzgl. NK 580 €,Wohnfläche ca. 66 m²,Zi. 2,7,16
-17,selObject_44999400,NEU Gut geschnittene Zwei-Raumwohnung in Zentrumslage von...,"['Etagenwohnung', '•', 'Eisenberg', 'Eisenberg']","['NEU', 'NEU']",Miete zzgl. NK 390 €,Wohnfläche ca. 67 m²,Zi. 2,7,16
-18,selObject_44999172,NEU Gemütliche Maisonette-Wohnung in Zentrumslage von Eise...,"['Maisonette', '•', 'Eisenberg', 'Eisenberg']","['NEU', 'NEU']",Miete zzgl. NK 385 €,Wohnfläche ca. 66 m²,Zi. 2,7,16
-19,selObject_44999044,"NEU Perfekte Singlewohnung: 1-Zimmer, 32qm","['Etagenwohnung', '•', 'Dachwig']","['NEU', 'NEU']",Miete zzgl. NK 175 €,Wohnfläche ca. 32 m²,Zi. 1,7,16
-20,selObject_44998985,NEU Einziehen und wohlfühlen - 2 ZI auf 52qm,"['Etagenwohnung', '•', 'Dachwig']","['NEU', 'NEU']",Miete zzgl. NK 284 €,Wohnfläche ca. 52 m²,Zi. 2,7,16
-21,selObject_44998928,NEU Jugendstil - Wohnung - Eisenberg - Stadtparkblick /...,"['Wohnung', '•', 'Eisenberg', 'Eisenberg']","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 990 €,Wohnfläche ca. 132 m²,Zi. 4,7,16
-22,selObject_44998796,NEU 3-Zimmer-Wohnung in zentraler Lage,"['Wohnung', '•', 'Gotha', 'Gotha']","['NEU', 'NEU']",Miete zzgl. NK 380 €,Wohnfläche ca. 69 m²,Zi. 3,7,16
-23,selObject_44998455,"NEU ++ Erstbezug nach Sanierung, 3- Raumwohnung mit Balkon...","['Etagenwohnung', '•', 'Friedrichroda', 'Friedrichroda']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 718 €,Wohnfläche ca. 90 m²,Zi. 3,7,16
-24,selObject_44998137,NEU 4-Raum-Wohnung im 2. Obergeschoss,"['Wohnung', '•', 'Erfurt', 'Krämpfervorstadt']","['NEU', 'NEU']",Miete zzgl. NK 690 €,Wohnfläche ca. 96 m²,Zi. 4,7,16
-25,selObject_44998100,NEU 3-Raum-Wohnung mit Renovierung! - optional mit neuem...,"['Dachgeschosswohnung', '•', 'Altenburg', 'Altenburg']","['NEU', 'NEU']",Miete zzgl. NK 280 €,Wohnfläche ca. 60 m²,Zi. 3,7,16
-26,selObject_44998089,NEU Großzügige und renovierte 1-Zimmer-Wohnung mit Fußbode...,"['Etagenwohnung', '•', 'Mohlsdorf-Teichwolframsdorf', 'Reudnitz']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 210 €,Wohnfläche ca. 42 m²,Zi. 1,7,16
+0,selObject_45032018,"NEU 3-Raum-Wohnung, Weimar, Döllstädtstraße 39","[['Wohnung', '•', 'Weimar', 'Nordvorstadt']]","['NEU', 'NEU']",Miete zzgl. NK 465 €,Wohnfläche ca. 63 m²,Zi. 3,7,16
+1,selObject_45031983,NEU Jetzt 850€ SPAREN!,"[['Etagenwohnung', '•', 'Gera', 'Lusan']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 425 €,Wohnfläche ca. 81 m²,Zi. 4,7,16
+2,selObject_45031861,NEU 1 Zimmer Appartement am Beutenberg,"[['Apartment', '•', 'Jena', 'Ammerbach']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 324 €,Wohnfläche ca. 33 m²,Zi. 1,7,16
+3,selObject_45031858,NEU 2-Zi.-Wohnung zentrumsnah mit Stadtpark in der Nähe,"[['Wohnung', '•', 'Saalfeld', 'Saalfeld']]","['NEU', 'NEU']",Miete zzgl. NK 380 €,Wohnfläche ca. 56 m²,Zi. 2,7,16
+4,selObject_45031636,"NEU San., hochw. 3,5 Raum Wohnung , ca.93 m², Terrasse in...","[['Erdgeschosswohnung', '•', 'Weimar', 'Südstadt']]","['NEU', 'NEU']",Miete zzgl. NK 1.165 €,Wohnfläche ca. 93 m²,"Zi. 3,5",7,16
+5,selObject_45031485,"NEU modernes 2-Zimmer-Appartement mit Aufzug, Einbauküche...","[['Etagenwohnung', '•', 'Jena', 'West']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 472 €,Wohnfläche ca. 36 m²,Zi. 2,7,16
+6,selObject_45031279,NEU ruhige 1-Raum-Wohnung +++ mit Einbauküche +++ Gera-Unt...,"[['Wohnung', '•', 'Gera', 'Untermhaus']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 240 €,Wohnfläche ca. 44 m²,Zi. 1,7,16
+7,selObject_45030826,NEU Nachmieter gesucht,"[['Erdgeschosswohnung', '•', 'Gotha', 'Gotha']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 280 €,Wohnfläche ca. 51 m²,Zi. 2,7,16
+8,selObject_45030601,NEU schöne 3 Raumwohnung mit Blick zur Heidecksburg,"[['Dachgeschosswohnung', '•', 'Rudolstadt', 'Zentrum']]","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 450 €,Wohnfläche ca. 71 m²,Zi. 3,7,16
+9,selObject_45030585,NEU CORDULA HÖFER IMMOBILIEN Südbalkon und Garage in Juge...,"[['Etagenwohnung', '•', 'Erfurt', 'Krämpfervorstadt']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 680 €,Wohnfläche ca. 85 m²,Zi. 3,7,16
+10,selObject_45030571,NEU 3-Raum-Wohnung mit Balkon in zentraler Lage von Gorndo...,"[['Wohnung', '•', 'Saalfeld', 'Saalfeld']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 362 €,Wohnfläche ca. 66 m²,Zi. 3,7,16
+11,selObject_45030570,NEU Renovierte 3-Raum-Wohnung mit Balkon,"[['Wohnung', '•', 'Saalfeld', 'Saalfeld']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 291 €,Wohnfläche ca. 59 m²,Zi. 3,7,16
+12,selObject_45030133,"NEU Ruhige, innenstadtnahe 2-Raum-Wohnung ohne Balkon","[['Wohnung', '•', 'Erfurt', 'Erfurt-Altstadt']]","['NEU', 'NEU']","Miete zzgl. NK 585,54 €",Wohnfläche ca. 65 m²,Zi. 2,7,16
+13,selObject_45030091,NEU Wenige Treppen bis zum Wohnglück!,"[['Erdgeschosswohnung', '•', 'Blankenhain', 'Blankenhain']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 180 €,Wohnfläche ca. 34 m²,Zi. 1,7,16
+14,selObject_45029344,NEU Vier Zimmer für Ihre Familie,"[['Wohnung', '•', 'Gotha', 'Gotha']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 410 €,Wohnfläche ca. 72 m²,Zi. 4,7,16
+15,selObject_45029328,NEU Hier lässt es sich Wohnen - 4-Zimmer-Wohnung mit Balko...,"[['Etagenwohnung', '•', 'Jena', 'Lobeda']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 533,03 €",Wohnfläche ca. 73 m²,Zi. 4,7,16
+16,selObject_45029020,NEU 2-Raum-Wohnung mit Balkon + Aufzug,"[['Etagenwohnung', '•', 'Gera', 'Debschwitz']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 296,18 €",Wohnfläche ca. 52 m²,Zi. 2,7,16
+17,selObject_45028646,NEU Über den Dächern: 2-Zimmer-Dachgeschoß-Wohnung mit...,"[['Etagenwohnung', '•', 'Altenburg', 'Altenburg']]","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']",Miete zzgl. NK 340 €,Wohnfläche ca. 58 m²,Zi. 2,7,16
+18,selObject_45028645,NEU ATLAS IMMOBILIEN: Erstbezug nach Renovierung- 2 ZKB in...,"[['Etagenwohnung', '•', 'Erfurt', 'Brühlervorstadt']]","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 510 €,Wohnfläche ca. 60 m²,Zi. 2,7,16
+19,selObject_45028637,NEU WBG UNION eG - Angebot,"[['Wohnung', '•', 'Gera', 'Debschwitz']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 335 €,Wohnfläche ca. 61 m²,Zi. 3,7,16
+20,selObject_45028629,NEU Moderne 2-Raum-Wohnung mit BALKON,"[['Etagenwohnung', '•', 'Altenburg', 'Altenburg']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 340 €,Wohnfläche ca. 57 m²,Zi. 2,7,16
+21,selObject_45028397,"NEU Wohnung in Zeulenroda-Triebes, Stadtteil Zeulenroda,...","[['Wohnung', '•', 'Zeulenroda-Triebes', 'Zeulenroda']]","['NEU', 'NEU']",Miete zzgl. NK 390 €,Wohnfläche ca. 65 m²,Zi. 2,7,16
+22,selObject_45027939,NEU 3-Raum Maisonette Wohnung mit EBK + Balkon,"[['Wohnung', '•', 'Gera', 'Zwötzen']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 600 €,Wohnfläche ca. 90 m²,Zi. 3,7,16
+23,selObject_45027923,"NEU Großzügige, helle 3-Raumwohnung","[['Etagenwohnung', '•', 'Gera', 'Stublach']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 339,30 €",Wohnfläche ca. 62 m²,Zi. 3,7,16
+24,selObject_45027696,NEU Wohnen im Grünen - sonnige 3-Zimmer DG-Wohnung mit...,"[['Wohnung', '•', 'Erfurt', 'Gispersleben']]","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 695 €,Wohnfläche ca. 75 m²,Zi. 3,7,16
+25,selObject_45027478,NEU 4 Zimmer mit Dachterrasse mitten in Altenburg,"[['Maisonette', '•', 'Altenburg', 'Altenburg']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 842 €,Wohnfläche ca. 120 m²,Zi. 4,7,16
+26,selObject_45027290,"NEU von Privat- schöne, helle 1 RWG im Südviertel","[['Erdgeschosswohnung', '•', 'Jena', 'Süd']]","['NEU', 'NEU']",Miete zzgl. NK 395 €,Wohnfläche ca. 38 m²,Zi. 1,7,16

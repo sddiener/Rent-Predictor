@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44630358,Frisch sanierte 2-Zimmer-Wohnung in Rosdorf,"['Wohnung', '•', 'Rosdorf', 'Rosdorf']",[],Miete zzgl. NK 520 €,Wohnfläche ca. 58 m²,Zi. 2,77,3
-1,selObject_44629237,Vollausgestattete Luxus Wohnung im Zentrum von Seelze,"['Etagenwohnung', '•', 'Seelze', 'Seelze']",['Balkon'],Miete zzgl. NK 1.750 €,Wohnfläche ca. 60 m²,Zi. 2,77,3
-2,selObject_44629118,Leben in exklusivem Neubau,"['Etagenwohnung', '•', 'Nordhorn', 'Nordhorn']",['Balkon'],Miete zzgl. NK 722 €,Wohnfläche ca. 73 m²,Zi. 3,77,3
-3,selObject_44629078,3-Zimmer-Wohnung mit Balkon und PKW-Stellplatz in Dens...,"['Etagenwohnung', '•', 'Vechelde', 'Alvesse']",['Balkon'],Miete zzgl. NK 950 €,Wohnfläche ca. 95 m²,Zi. 3,77,3
-4,selObject_44629066,Leben in exklusivem Neubau,"['Erdgeschosswohnung', '•', 'Nordhorn', 'Nordhorn']",['Balkon'],Miete zzgl. NK 734 €,Wohnfläche ca. 73 m²,Zi. 3,77,3
-5,selObject_44629062,Gepflegte Wohnung in bevorzugter Innenstadtlage,"['Etagenwohnung', '•', 'Schüttorf', 'Schüttorf']",['EBK'],Miete zzgl. NK 730 €,Wohnfläche ca. 105 m²,Zi. 3,77,3
-6,selObject_44629060,Leben in exklusivem Neubau,"['Erdgeschosswohnung', '•', 'Nordhorn', 'Nordhorn']",['Balkon'],Miete zzgl. NK 738 €,Wohnfläche ca. 73 m²,Zi. 3,77,3
-7,selObject_44628937,4 Zimmer - Oberwohnung mit Balkon im Zentrum von Weste...,"['Etagenwohnung', '•', 'Westerstede', 'Westerstede']",['Balkon'],Miete zzgl. NK 600 €,Wohnfläche ca. 128 m²,Zi. 4,77,3
-8,selObject_44628935,"Hellwinkel Terrassen! Mitten in der Stadt leben, direk...","['Maisonette', '•', 'Wolfsburg', 'Hellwinkel']","['Balkon', 'EBK']",Miete zzgl. NK 2.195 €,Wohnfläche ca. 147 m²,Zi. 4,77,3
-9,selObject_44628755,Wohntraum mit Flair und Südloggia,"['Dachgeschosswohnung', '•', 'Braunschweig', 'Stöckheim']",[],Miete zzgl. NK 1.500 €,Wohnfläche ca. 168 m²,Zi. 4,77,3
-10,selObject_44622920,Wohnung zum Park mit 2 Einzel-Schlafzimmern,"['Etagenwohnung', '•', 'Bad', 'Bevensen', 'Bad', 'Bevensen']",['EBK'],Miete zzgl. NK 762 €,Wohnfläche ca. 69 m²,"Zi. 3,5",77,3
-11,selObject_44622415,"5 Zimmer, 2 neue Bäder, 2 Balkone, 2 Parkplätze, ca....","['Etagenwohnung', '•', 'Melle', 'Neuenkirchen']","['Balkon', 'EBK']",Miete zzgl. NK 890 €,Wohnfläche ca. 188 m²,Zi. 5,77,3
-12,selObject_44622286,Barrierefreier Neubau Penthouse in Tostedt Ideal für...,"['Wohnung', '•', 'Tostedt', 'Todtglüsingen']","['Balkon', 'EBK']",Miete zzgl. NK 869 €,Wohnfläche ca. 79 m²,Zi. 2,77,3
-13,selObject_44620758,Neubau-Obergeschosswohnung mit Balkon im Kapitänsviert...,"['Etagenwohnung', '•', 'Papenburg', 'Aschendorfermoor']",['EBK'],Miete zzgl. NK 560 €,Wohnfläche ca. 68 m²,Zi. 2,77,3
-14,selObject_44620634,Renovierte Zweizimmerwohnung in der Wüste - auch WG-ge...,"['Etagenwohnung', '•', 'Osnabrück', 'Wüste']",[],Miete zzgl. NK 520 €,Wohnfläche ca. 66 m²,Zi. 2,77,3
-15,selObject_44620632,"Helle, renovierte 3-Zimmer-Wohnung in Bahnhofsnähe!","['Etagenwohnung', '•', 'Hildesheim', 'Nord']","['Balkon', 'Garten']",Miete zzgl. NK 450 €,Wohnfläche ca. 72 m²,Zi. 3,77,3
-16,selObject_44620536,"Wohnen-am-Markt in Achim, Penthouse, 3-Zimmer-Wohnung...","['Dachgeschosswohnung', '•', 'Achim', 'Achim']",['EBK'],Miete zzgl. NK 1.130 €,Wohnfläche ca. 90 m²,Zi. 3,77,3
-17,selObject_44620452,"Wohnen-am-Markt in Achim, 3-Zimmer-Wohnung 1. OG ERSTB...","['Apartment', '•', 'Achim', 'Achim']","['Balkon', 'EBK']",Miete zzgl. NK 1.098 €,Wohnfläche ca. 92 m²,Zi. 3,77,3
-18,selObject_44620219,5 Zimmer-Wohnung,"['Dachgeschosswohnung', '•', 'Goslar', 'Oker']",[],Miete zzgl. NK 450 €,Wohnfläche ca. 120 m²,Zi. 5,77,3
-19,selObject_44618738,Neubau Erstbezug zum 01.10.2021: Vier tolle Mietwohnun...,"['Wohnung', '•', 'Seevetal', 'Hittfeld']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.350 €,Wohnfläche ca. 89 m²,Zi. 3,77,3
-20,selObject_44618398,+ + neu verlieben + +,"['Etagenwohnung', '•', 'Wolfsburg', 'Heiligendorf']","['Garten', 'EBK']",Miete zzgl. NK 980 €,Wohnfläche ca. 100 m²,Zi. 3,77,3
-21,selObject_44617716,5132 - Ansprechendes Single-Appartement direkt am Olde...,"['Etagenwohnung', '•', 'Oldenburg', 'Innenstadt']",[],Miete zzgl. NK 390 €,Wohnfläche ca. 31 m²,Zi. 1,77,3
-22,selObject_44616578,KUNZE: großzügige 4-Zimmer Wohnung in Kirchrode!,"['Etagenwohnung', '•', 'Hannover', 'Kirchrode']","['Balkon', 'EBK']",Miete zzgl. NK 1.417 €,Wohnfläche ca. 130 m²,Zi. 4,77,3
-23,selObject_44616194,Das macht strahlend gute Laune: Willkommen im neuen...,"['Dachgeschosswohnung', '•', 'Osnabrück', 'Schinkel']",[],"Miete zzgl. NK 586,65 €",Wohnfläche ca. 65 m²,"Zi. 4,5",77,3
-24,selObject_44615664,Zum Einzug bereit! Renovierte 3-Zimmerwohnung für Fami...,"['Wohnung', '•', 'Diepholz', 'Diepholz']",['Balkon'],Miete zzgl. NK 459 €,Wohnfläche ca. 74 m²,Zi. 3,77,3
-25,selObject_44615663,Zuhause wohlfühlen! Renovierte 3-Zimmerwohnung mit...,"['Wohnung', '•', 'Diepholz', 'Diepholz']",['Balkon'],Miete zzgl. NK 410 €,Wohnfläche ca. 64 m²,Zi. 3,77,3
-26,selObject_44615660,Erstbezug nach Renovierung! 3-Zimmerwohnung mit Balkon...,"['Wohnung', '•', 'Diepholz', 'Diepholz']",['Balkon'],Miete zzgl. NK 400 €,Wohnfläche ca. 62 m²,Zi. 3,77,3
+0,selObject_44665803,"Frisch renovierte, zentral gelegene 4-Zimmerwohnung in...","[['Etagenwohnung', '•', 'Buchholz', 'Buchholz']]","['Balkon', 'EBK']",Miete zzgl. NK 850 €,Wohnfläche ca. 95 m²,Zi. 4,77,3
+1,selObject_44665165,Ruhig aber zentral mitten in Hameln-City! Schönes Denk...,"[['Wohnung', '•', 'Hameln', 'Innenstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 940 €,Wohnfläche ca. 130 m²,"Zi. 3,5",77,3
+2,selObject_44663860,"Möblierte, gepflegte Appartements in (Studenten)-Wohnh...","[['Etagenwohnung', '•', 'Elsfleth', 'Elsfleth']]",['Garten'],Miete inkl. NK 290 €,Wohnfläche ca. 17 m²,Zi. 1,77,3
+3,selObject_44663353,"Kuschelige und moderne 2,5 Zimmerwohnung im Zentrum","[['Dachgeschosswohnung', '•', 'Göttingen', 'Göttingen']]","['Garten', 'EBK']",Miete zzgl. NK 800 €,Wohnfläche ca. 65 m²,"Zi. 2,5",77,3
+4,selObject_44662834,2 Zimmer Wohnung zu sofort,"[['Dachgeschosswohnung', '•', 'Stemshorn']]",['EBK'],Miete zzgl. NK 350 €,Wohnfläche ca. 42 m²,Zi. 2,77,3
+5,selObject_44662729,Schöne 2 Zimmer Oberwohnung mit Loggia in Collinghorst...,"[['Etagenwohnung', '•', 'Rhauderfehn', 'Collinghorst']]",['Balkon'],Miete zzgl. NK 425 €,Wohnfläche ca. 85 m²,Zi. 2,77,3
+6,selObject_44662557,4 Zimmer Dachgeschoss mit Balkon und separaten Eingan...,"[['Dachgeschosswohnung', '•', 'Rosdorf', 'Mengershausen']]",['Balkon'],Miete zzgl. NK 820 €,Wohnfläche ca. 100 m²,Zi. 4,77,3
+7,selObject_44661729,2-Zimmer Wohnung,"[['Etagenwohnung', '•', 'Hannover', 'Kirchrode']]",['Balkon'],"Miete zzgl. NK 695,87 €",Wohnfläche ca. 54 m²,Zi. 2,77,3
+8,selObject_44661686,gemütliche 3-Zimmer-Wohnung im OG mit Balkon,"[['Etagenwohnung', '•', 'Weyhe', 'Dreye']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 580 €,Wohnfläche ca. 70 m²,Zi. 3,77,3
+9,selObject_44661645,"Seniorenwohnung im Gesundheitszentrum ""Amtsbrunnen"",...","[['Wohnung', '•', 'Sögel', 'Sögel']]",[],Miete zzgl. NK 500 €,Wohnfläche ca. 72 m²,Zi. 2,77,3
+10,selObject_44661392,Frisch für Sie renoviert! Kurzfristiger Bezug wäre...,"[['Etagenwohnung', '•', 'Wilhelmshaven', 'Fedderwardergroden']]",[],Miete zzgl. NK 372 €,Wohnfläche ca. 60 m²,Zi. 2,77,3
+11,selObject_44661170,-- renovierte 2 Zimmer Wohnung mit Balkon ---,"[['Erdgeschosswohnung', '•', 'Hannover', 'Vahrenheide']]",['Balkon'],Miete zzgl. NK 499 €,Wohnfläche ca. 54 m²,Zi. 2,77,3
+12,selObject_44660997,Wolfenbüttel - 2-Raum-Wohnung mit Balkon - Bad mit...,"[['Kein', 'Bild'], ['Apartment', '•', 'Wolfenbüttel', 'Adersheim']]","['Balkon', 'Garten']",Miete zzgl. NK 720 €,Wohnfläche ca. 70 m²,Zi. 2,77,3
+13,selObject_44659317,Modernisierte 2-Zimmer-Wohnung,"[['Etagenwohnung', '•', 'Lehrte', 'Lehrte']]",[],"Miete zzgl. NK 388,20 €",Wohnfläche ca. 45 m²,"Zi. 1,5",77,3
+14,selObject_44659162,Stop! Ansprechende 2-Zimmer-Wohnung (WBS mit mind....,"[['Erdgeschosswohnung', '•', 'Laatzen', 'Laatzen-Mitte']]",[],"Miete zzgl. NK 388,55 €",Wohnfläche ca. 71 m²,Zi. 2,77,3
+15,selObject_44653830,Wohnen am Park: 2-Zimmerwohnung in Hannover-Misburg,"[['Erdgeschosswohnung', '•', 'Hannover', 'Misburg-Nord']]",['Balkon'],Miete zzgl. NK 785 €,Wohnfläche ca. 68 m²,Zi. 2,77,3
+16,selObject_44653213,5693 - Bezugsfrei! 2-Zimmer-Wohnung gegenüber des Haup...,"[['Etagenwohnung', '•', 'Oldenburg', 'Innenstadt']]",[],Miete zzgl. NK 455 €,Wohnfläche ca. 42 m²,Zi. 2,77,3
+17,selObject_44651587,Stufenlos und ruhig in Buchholz,"[['Etagenwohnung', '•', 'Buchholz', 'Buchholz']]","['Balkon', 'EBK']","Miete zzgl. NK 814,06 €",Wohnfläche ca. 63 m²,Zi. 2,77,3
+18,selObject_44651433,3 Zimmerwohnung im Dachgeschoss,"[['Etagenwohnung', '•', 'Aurich', 'Innenstadt']]",['EBK'],Miete zzgl. NK 450 €,Wohnfläche ca. 70 m²,Zi. 3,77,3
+19,selObject_44650946,Erstbezug nach Sanierung 2- Zimmer-Wohnung in Wittmund,"[['Etagenwohnung', '•', 'Wittmund', 'Wittmund']]",[],Miete zzgl. NK 530 €,Wohnfläche ca. 70 m²,Zi. 2,77,3
+20,selObject_44650754,Gepflegte 4 Zimmer Wohnung in Gifhorn,"[['Etagenwohnung', '•', 'Gifhorn', 'Gifhorn']]","['Balkon', 'EBK']",Miete zzgl. NK 780 €,Wohnfläche ca. 104 m²,Zi. 4,77,3
+21,selObject_44650628,Sonnige Wohnung in Rastede! Neubau -KFW 55,"[['Dachgeschosswohnung', '•', 'Rastede', 'Kleinenfelde']]",['Balkon'],Miete zzgl. NK 750 €,Wohnfläche ca. 86 m²,Zi. 3,77,3
+22,selObject_44650626,3 ZKB Wohnung im DG in Bürgerfelde zu vermieten,"[['Dachgeschosswohnung', '•', 'Oldenburg', 'Alexandersfeld']]",[],Miete zzgl. NK 650 €,Wohnfläche ca. 44 m²,Zi. 3,77,3
+23,selObject_44650562,!!!Papenburg-Untenende!!!Obergeschosswohnung!!!,"[['Wohnung', '•', 'Papenburg', 'Papenburg']]",['EBK'],Miete zzgl. NK 430 €,Wohnfläche ca. 61 m²,Zi. 2,77,3
+24,selObject_44650513,Toller Ausblick inklusive - 3-Zimmer-Etagenwohnung mit...,"[['Etagenwohnung', '•', 'Wolfsburg', 'Vorsfelde']]","['Balkon', 'EBK']",Miete zzgl. NK 515 €,Wohnfläche ca. 68 m²,Zi. 3,77,3
+25,selObject_44650005,Schicke 3-Zimmer-Wohnung mit Balkon in Stuhr,"[['Dachgeschosswohnung', '•', 'Stuhr', 'Varrel']]",[],Miete zzgl. NK 560 €,Wohnfläche ca. 75 m²,Zi. 3,77,3
+26,selObject_44649981,"Munster: sanierte 2-Zimmer Wohnung 52,94 m² mit Balkon...","[['Etagenwohnung', '•', 'Munster', 'Munster']]",['Balkon'],Miete zzgl. NK 424 €,Wohnfläche ca. 53 m²,Zi. 2,77,3

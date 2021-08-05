@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44903142,(13110_04) MGN: 2-Zimmer-Wohnung mit Parkett und Einba...,"['Wohnung', '•', 'Meiningen', 'Meiningen']",[],Miete zzgl. NK 330 €,Wohnfläche ca. 63 m²,Zi. 2,27,16
-1,selObject_44902459,Gemütliche 2-Raum-Wohnung im Herzen von Debschwitz,"['Wohnung', '•', 'Gera', 'Debschwitz']",['Balkon'],Miete zzgl. NK 270 €,Wohnfläche ca. 49 m²,Zi. 2,27,16
-2,selObject_44901647,ATLAS IMMOBILIEN: Exklusive Wohnung mit Balkon und...,"['Etagenwohnung', '•', 'Erfurt', 'Andreasvorstadt']","['Balkon', 'Garten', 'EBK']","Miete zzgl. NK 1.189,50 €",Wohnfläche ca. 122 m²,Zi. 4,27,16
-3,selObject_44899108,"Fernblick, Einbauküche und Garage/Stellplatz! Geräumig...","['Dachgeschosswohnung', '•', 'Gera', 'Ostviertel']",['EBK'],Miete zzgl. NK 250 €,Wohnfläche ca. 45 m²,Zi. 1,27,16
-4,selObject_44897924,2-Raum-Wohnung direkt am Park zu vermieten,"['Wohnung', '•', 'Weimar', 'Parkvorstadt']",[],Miete zzgl. NK 400 €,Wohnfläche ca. 49 m²,Zi. 2,27,16
-5,selObject_44897778,"2 -Raum-Wohnung mit Einbauküche, Terrasse, Wanne,SP...","['Wohnung', '•', 'Erfurt', 'Andreasvorstadt']",['EBK'],Miete zzgl. NK 420 €,Wohnfläche ca. 40 m²,Zi. 2,27,16
-6,selObject_44897672,Wohnung in Oberhof,"['Wohnung', '•', 'Oberhof']",[],"Miete zzgl. NK 303,90 €",Wohnfläche ca. 48 m²,Zi. 2,27,16
-7,selObject_44897651,"Renovierte 3 RW mit EBK, Balkon und Garage!","['Wohnung', '•', 'Eisenberg', 'Eisenberg']","['Balkon', 'EBK']",Miete zzgl. NK 379 €,Wohnfläche ca. 68 m²,Zi. 3,27,16
-8,selObject_44897650,moderne 2-Raum-Wohnung mit großer Dachterrasse im Zent...,"['Etagenwohnung', '•', 'Eisenach', 'Eisenach']",['Balkon'],Miete zzgl. NK 470 €,Wohnfläche ca. 71 m²,Zi. 2,27,16
-9,selObject_44897636,Mit dem Aufzug hinauf zur Wohnung,"['Etagenwohnung', '•', 'Erfurt', 'Krämpfervorstadt']",[],Miete zzgl. NK 535 €,Wohnfläche ca. 54 m²,Zi. 2,27,16
-10,selObject_44897592,Große 3-Raumwohnung sucht neuen Mieter mit Wohnberecht...,"['Wohnung', '•', 'Erfurt', 'Berliner', 'Platz']",['Balkon'],Miete zzgl. NK 392 €,Wohnfläche ca. 74 m²,Zi. 3,27,16
-11,selObject_44897572,***Gemütliche 2-Raumwohnung mit Einbauküche in zentral...,"['Etagenwohnung', '•', 'Ilmenau', 'Ilmenau']",['EBK'],Miete zzgl. NK 460 €,Wohnfläche ca. 54 m²,Zi. 2,27,16
-12,selObject_44897391,Neuwertige 4 Raum Wohnung! Bad mit Wanne und Dusche!...,"['Etagenwohnung', '•', 'Gera', 'Ostviertel']",[],Miete zzgl. NK 600 €,Wohnfläche ca. 102 m²,Zi. 4,27,16
-13,selObject_44897327,Ihr neues Zuhause in Ebersdorf,"['Wohnung', '•', 'Saalburg-Ebersdorf', 'Ebersdorf']",[],Miete zzgl. NK 275 €,Wohnfläche ca. 58 m²,Zi. 3,27,16
-14,selObject_44897245,2-Zimmer im Grünen - Werra-Suhl-Tal,"['Wohnung', '•', 'Berka', 'Herda']",[],Miete zzgl. NK 265 €,Wohnfläche ca. 45 m²,Zi. 2,27,16
-15,selObject_44897079,Helle 3-Zimmer-Wohnung mit Balkon,"['Etagenwohnung', '•', 'Sonneberg', 'Sonneberg']",['Balkon'],"Miete zzgl. NK 268,37 €",Wohnfläche ca. 57 m²,Zi. 3,27,16
-16,selObject_44896999,...Wohnen in Campus-Nähe!,"['Kein', 'Bild']","['Garten', 'EBK']",Miete zzgl. NK 340 €,Wohnfläche ca. 57 m²,Zi. 2,27,16
-17,selObject_44896943,Schöne 3-Raum-Wohnung,"['Etagenwohnung', '•', 'Römhild', 'Mendhausen']",[],"Miete zzgl. NK 272,32 €",Wohnfläche ca. 59 m²,Zi. 3,27,16
-18,selObject_44896938,antaris Immobilien GmbH ** Gepflegte 2-Raum-Wohnung in...,"['Wohnung', '•', 'Erfurt', 'Krämpfervorstadt']",[],Miete zzgl. NK 345 €,Wohnfläche ca. 43 m²,Zi. 2,27,16
-19,selObject_44896904,Schön renovierte 3-Zimmer-Wohnung in Suhl,"['Wohnung', '•', 'Suhl', 'Suhl']",[],Miete zzgl. NK 550 €,Wohnfläche ca. 90 m²,Zi. 3,27,16
-20,selObject_44896790,"gemütliche 1,5 Zimmerwohnung, EBK, Dusche, bodentiefe...","['Erdgeschosswohnung', '•', 'Erfurt', 'Johannesvorstadt']",['EBK'],Miete zzgl. NK 329 €,Wohnfläche ca. 39 m²,Zi. 2,27,16
-21,selObject_44896627,3-Zimmer mit Dusche im Erdgeschoss,"['Erdgeschosswohnung', '•', 'Eisenach', 'Eisenach']",[],Miete zzgl. NK 340 €,Wohnfläche ca. 58 m²,Zi. 3,27,16
-22,selObject_44896605,Raus aus Hotel Mama!,"['Erdgeschosswohnung', '•', 'Erfurt', 'Berliner', 'Platz']",['Balkon'],Miete zzgl. NK 185 €,Wohnfläche ca. 31 m²,Zi. 1,27,16
-23,selObject_44896604,geräumige Innenstadt-Wohnung mit Aufzug & Dachterrasse,"['Etagenwohnung', '•', 'Eisenach', 'Eisenach']",[],Miete zzgl. NK 670 €,Wohnfläche ca. 112 m²,Zi. 3,27,16
-24,selObject_44896600,1-Raum Wohnung,"['Etagenwohnung', '•', 'Eisenach', 'Eisenach']",[],Miete zzgl. NK 150 €,Wohnfläche ca. 23 m²,Zi. 1,27,16
-25,selObject_44896528,"3-Raum-Wohnung mit mit großer Wohnküche, Wanne und...","['Wohnung', '•', 'Gera', 'Ostviertel']",['Balkon'],Miete zzgl. NK 410 €,Wohnfläche ca. 68 m²,Zi. 3,27,16
-26,selObject_44896511,Neuer Bewohner gesucht!,"['Etagenwohnung', '•', 'Erfurt', 'Berliner', 'Platz']",['Balkon'],Miete zzgl. NK 230 €,Wohnfläche ca. 40 m²,Zi. 1,27,16
+0,selObject_44915566,Sanierte 1-Raum-Wohnung mit bodengleicher Dusche und...,"[['Etagenwohnung', '•', 'Gera', 'Bieblach']]",['Balkon'],"Miete zzgl. NK 187,94 €",Wohnfläche ca. 34 m²,Zi. 1,27,16
+1,selObject_44915565,Geräumige 4-Raum-Wohnung im sanierten Altbau in der...,"[['Etagenwohnung', '•', 'Gera', 'Innenstadt']]",['Balkon'],"Miete zzgl. NK 581,75 €",Wohnfläche ca. 90 m²,Zi. 4,27,16
+2,selObject_44915564,Sanierte 1-Raum-Wohnung mit bodengleicher Dusche +...,"[['Etagenwohnung', '•', 'Gera', 'Bieblach']]",['Balkon'],"Miete zzgl. NK 187,94 €",Wohnfläche ca. 34 m²,Zi. 1,27,16
+3,selObject_44915561,Barrierefreie 3-Raum-Wohnung mit Dusche und Badewanne...,"[['Etagenwohnung', '•', 'Gera', 'Bieblach']]",['Balkon'],"Miete zzgl. NK 445,54 €",Wohnfläche ca. 82 m²,Zi. 3,27,16
+4,selObject_44915556,WG-Zimmer für Azubis und Studenten in Gera,"[['Etagenwohnung', '•', 'Gera', 'Bieblach']]",[],"Miete zzgl. NK 131,01 €",Wohnfläche ca. 24 m²,Zi. 1,27,16
+5,selObject_44915555,Ein Katzensprung bis zur DHGE - WG perfekt für Student...,"[['Etagenwohnung', '•', 'Gera', 'Bieblach']]",[],"Miete zzgl. NK 118,69 €",Wohnfläche ca. 22 m²,Zi. 1,27,16
+6,selObject_44915474,Da lohnt sich das Treppensteigen!,"[['Etagenwohnung', '•', 'Gera', 'Lusan']]",['Balkon'],"Miete zzgl. NK 276,28 €",Wohnfläche ca. 69 m²,Zi. 3,27,16
+7,selObject_44915435,**hübsche 3-Raum Wohnung mit offener Küche und Balkon*...,"[['Etagenwohnung', '•', 'Gera', 'Lusan']]",['Balkon'],Miete zzgl. NK 374 €,Wohnfläche ca. 68 m²,Zi. 3,27,16
+8,selObject_44915380,**tolle 3-Raum Wohnung mit offener Küche und Balkon**,"[['Etagenwohnung', '•', 'Gera', 'Lusan']]",['Balkon'],Miete zzgl. NK 374 €,Wohnfläche ca. 68 m²,Zi. 3,27,16
+9,selObject_44915317,**hübsche 3-Raum Wohnung mit Balkon und Küche in Gera-...,"[['Etagenwohnung', '•', 'Gera', 'Lusan']]","['Balkon', 'EBK']",Miete zzgl. NK 394 €,Wohnfläche ca. 68 m²,Zi. 3,27,16
+10,selObject_44915258,**tolle 2-Raum Wohnung mit Balkon und Dusche in Gera-L...,"[['Etagenwohnung', '•', 'Gera', 'Lusan']]",['Balkon'],Miete zzgl. NK 319 €,Wohnfläche ca. 54 m²,Zi. 2,27,16
+11,selObject_44915241,Moderne Wohnung mit offener Küche!,"[['Etagenwohnung', '•', 'Gera', 'Lusan']]",['Balkon'],"Miete zzgl. NK 294,59 €",Wohnfläche ca. 62 m²,Zi. 3,27,16
+12,selObject_44915201,**tolle 3-Raum Wohnung mit Balkon und EBK in Gera-Lusa...,"[['Etagenwohnung', '•', 'Gera', 'Lusan']]",['Balkon'],Miete zzgl. NK 455 €,Wohnfläche ca. 81 m²,Zi. 4,27,16
+13,selObject_44915193,kleine Dachgeschoss-Wohnung,"[['Dachgeschosswohnung', '•', 'Hummelshain', 'Hummelshain']]",[],Miete zzgl. NK 190 €,Wohnfläche ca. 30 m²,Zi. 1,27,16
+14,selObject_44914992,Helle 4-Zi-Wohnung in Saalfeld/Gorndorf,"[['Wohnung', '•', 'Saalfeld', 'Saalfeld']]",[],"Miete zzgl. NK 399,13 €",Wohnfläche ca. 78 m²,Zi. 4,27,16
+15,selObject_44914938,Wohnen im sanierten Pfarrhaus,"[['Erdgeschosswohnung', '•', 'Deuna']]",['Garten'],"Miete zzgl. NK 409,20 €",Wohnfläche ca. 66 m²,Zi. 2,27,16
+16,selObject_44914762,1 Zimmer-Appartement,"[['Etagenwohnung', '•', 'Kahla']]","['Balkon', 'EBK']",Miete zzgl. NK 210 €,Wohnfläche ca. 25 m²,Zi. 1,27,16
+17,selObject_44914757,Helle 3-Zi-Wohnung in Saalfeld/Gorndorf,"[['Wohnung', '•', 'Saalfeld', 'Saalfeld']]",[],"Miete zzgl. NK 371,83 €",Wohnfläche ca. 72 m²,Zi. 3,27,16
+18,selObject_44914755,TOLLE 4-R-W mit Balkon im Stadtzentrum,"[['Etagenwohnung', '•', 'Erfurt', 'Johannesvorstadt']]",['Garten'],Miete zzgl. NK 912 €,Wohnfläche ca. 96 m²,Zi. 4,27,16
+19,selObject_44914590,Geräumige 3-R-W mit Balkon im Stadtzentrum,"[['Etagenwohnung', '•', 'Erfurt', 'Johannesvorstadt']]",['Garten'],Miete zzgl. NK 864 €,Wohnfläche ca. 96 m²,Zi. 3,27,16
+20,selObject_44914322,2 Raum Wohnung auf 2 Ebenen neu renoviert in Lehnstedt...,"[['Dachgeschosswohnung', '•', 'Lehnstedt']]",['Garten'],Miete zzgl. NK 369 €,Wohnfläche ca. 55 m²,Zi. 2,27,16
+21,selObject_44914232,Helle sanierte 3-Raum Whg. mit neuem Bad in Kamsdorf,"[['Wohnung', '•', 'Unterwellenborn', 'Unterwellenborn']]",[],"Miete zzgl. NK 306,94 €",Wohnfläche ca. 60 m²,Zi. 3,27,16
+22,selObject_44913929,3-Raum-Wohnung mit Balkon und Gartennutzung in Greiz,"[['Wohnung', '•', 'Greiz', 'Greiz']]",['Balkon'],Miete zzgl. NK 330 €,Wohnfläche ca. 77 m²,Zi. 3,27,16
+23,selObject_44913876,2- Raumwohnung in Oberweißbach,"[['Kein', 'Bild'], ['Wohnung', '•', 'Oberweißbach', 'Oberweißbach']]",[],Miete zzgl. NK 300 €,Wohnfläche ca. 49 m²,Zi. 2,27,16
+24,selObject_44913697,Familienfreundliche 3 Raumwohnung nähe Zoopark!,"[['Etagenwohnung', '•', 'Erfurt', 'Roter', 'Berg']]",['Balkon'],"Miete zzgl. NK 451,10 €",Wohnfläche ca. 61 m²,Zi. 3,27,16
+25,selObject_44913618,++Wunderschöne Dachgeschoß-Wohnung mit Balkon++,"[['Wohnung', '•', 'Gera', 'Innenstadt']]",[],Miete zzgl. NK 435 €,Wohnfläche ca. 69 m²,Zi. 3,27,16
+26,selObject_44913613,2-Raum-Wohnung mit Terrasse u. Gartenanteil,"[['Erdgeschosswohnung', '•', 'Weimar', 'Südstadt']]","['Garten', 'EBK']",Miete zzgl. NK 455 €,Wohnfläche ca. 57 m²,Zi. 2,27,16

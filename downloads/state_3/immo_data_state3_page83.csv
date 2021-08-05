@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44546170,"Stöckheim: Neubau, 2 Zimmer, mit Tiefgarage - HW 9-11 ...","['Etagenwohnung', '•', 'Braunschweig', 'Braunschweig']","['Balkon', 'EBK']","Miete zzgl. NK 746,63 €",Wohnfläche ca. 61 m²,Zi. 2,83,3
-1,selObject_44546127,Exklusive 2-Zi.-Neubauwohnung mit 2 Terrassen und Südg...,"['Wohnung', '•', 'Bad', 'Zwischenahn', 'Specken']",['Garten'],Miete zzgl. NK 985 €,Wohnfläche ca. 76 m²,Zi. 2,83,3
-2,selObject_44545716,Stöckheim: 4 Zimmer warten auf eine Familie! HW 9-11 ...,"['Erdgeschosswohnung', '•', 'Braunschweig', 'Braunschweig']","['Balkon', 'Garten', 'EBK']","Miete zzgl. NK 1.320,83 €",Wohnfläche ca. 107 m²,Zi. 4,83,3
-3,selObject_44545713,Neubau - 2 Zimmer - Dachterrasse - TG - HW 09-11 Whg.2...,"['Dachgeschosswohnung', '•', 'Braunschweig', 'Braunschweig']","['Balkon', 'EBK']","Miete zzgl. NK 667,77 €",Wohnfläche ca. 53 m²,Zi. 2,83,3
-4,selObject_44545704,Stöckheim: Neubau - 1 Zimmer - Dachgeschoss - TG - HW...,"['Dachgeschosswohnung', '•', 'Braunschweig', 'Braunschweig']","['Balkon', 'EBK']","Miete zzgl. NK 499,74 €",Wohnfläche ca. 39 m²,Zi. 1,83,3
-5,selObject_44545680,Stöckheim: Neubau - Erdgeschoss - Terrase - TG - HW...,"['Erdgeschosswohnung', '•', 'Braunschweig', 'Braunschweig']","['Balkon', 'EBK']","Miete zzgl. NK 849,98 €",Wohnfläche ca. 68 m²,Zi. 2,83,3
-6,selObject_44545621,Stöckheim: Toller Schnitt - Neubau - Erdgeschoss - TG...,"['Erdgeschosswohnung', '•', 'Braunschweig', 'Braunschweig']","['Balkon', 'EBK']","Miete zzgl. NK 748,15 €",Wohnfläche ca. 61 m²,Zi. 2,83,3
-7,selObject_44545321,"""Schon mal über 3 Etagen gewohnt?""","['Maisonette', '•', 'Buxtehude', 'Buxtehude']",['EBK'],Miete zzgl. NK 595 €,Wohnfläche ca. 63 m²,Zi. 3,83,3
-8,selObject_44545299,2 Zi.-Wohnung in Neu Wulmstorf - Renoviert!!,"['Etagenwohnung', '•', 'Neu', 'Wulmstorf', 'Neu', 'Wulmstorf']",[],Miete zzgl. NK 500 €,Wohnfläche ca. 50 m²,Zi. 2,83,3
-9,selObject_44545264,2 Zi.-Wohnung in begehrter Wohnlage!,"['Etagenwohnung', '•', 'Buxtehude', 'Buxtehude']",['EBK'],Miete zzgl. NK 500 €,Wohnfläche ca. 45 m²,Zi. 2,83,3
-10,selObject_44545251,Schön geschnittene 60 qm-Wohnung mit Fernblick in Brau...,"['Etagenwohnung', '•', 'Braunschweig', 'Heidberg']",['Balkon'],"Miete zzgl. NK 498,76 €",Wohnfläche ca. 60 m²,Zi. 2,83,3
-11,selObject_44545155,Ruhig und sonnig in absoluter Alleinlage mitten in der...,"['Wohnung', '•', 'Staufenberg', 'Landwehrhagen']","['Balkon', 'Garten']",Miete zzgl. NK 650 €,Wohnfläche ca. 90 m²,Zi. 3,83,3
-12,selObject_44544641,"3-Zi.-Neubauwohnung, Maisonette, Dachgeschoß","['Maisonette', '•', 'Oldenburg', 'Nadorst']","['Balkon', 'EBK']",Miete zzgl. NK 1.040 €,Wohnfläche ca. 87 m²,Zi. 3,83,3
-13,selObject_44544636,2-Zi.-Neubauwohnung,"['Wohnung', '•', 'Oldenburg', 'Nadorst']","['Balkon', 'EBK']",Miete zzgl. NK 800 €,Wohnfläche ca. 74 m²,Zi. 2,83,3
-14,selObject_44542913,Wohnen wie im Eigenheim - Schöne Maisonette-Wohnung...,"['Penthouse', '•', 'Wolfsburg', 'Ehmen']",['EBK'],Miete zzgl. NK 1.150 €,Wohnfläche ca. 114 m²,Zi. 4,83,3
-15,selObject_44542296,Stöckheim: 2 Zimmer - Neubau - EG - TG - HW 9-11 Whg.4,"['Erdgeschosswohnung', '•', 'Braunschweig', 'Braunschweig']","['Balkon', 'EBK']","Miete zzgl. NK 699,75 €",Wohnfläche ca. 56 m²,Zi. 2,83,3
-16,selObject_44541989,Stöckheim: Neubau - 2 Zimmer - toller Schnitt - TG HW...,"['Etagenwohnung', '•', 'Braunschweig', 'Braunschweig']","['Balkon', 'EBK']","Miete zzgl. NK 832,16 €",Wohnfläche ca. 67 m²,Zi. 2,83,3
-17,selObject_44541985,Stöckheim: 4 Zimmer - Neubau - TG HW 9-11 Hs.1 Whg....,"['Etagenwohnung', '•', 'Braunschweig', 'Braunschweig']","['Balkon', 'EBK']","Miete zzgl. NK 1.299,73 €",Wohnfläche ca. 106 m²,Zi. 4,83,3
-18,selObject_44541981,Stöckheim: 2 Zi. - Neubau - Toller Schnitt - TG - HW...,"['Etagenwohnung', '•', 'Braunschweig', 'Braunschweig']","['Balkon', 'EBK']","Miete zzgl. NK 699,91 €",Wohnfläche ca. 56 m²,Zi. 2,83,3
-19,selObject_44541957,Stöckheim: Dachterrasse - 2 Zimmer - Neubau - Toller...,"['Dachgeschosswohnung', '•', 'Braunschweig', 'Braunschweig']","['Balkon', 'EBK']","Miete zzgl. NK 749,90 €",Wohnfläche ca. 59 m²,Zi. 2,83,3
-20,selObject_44541939,Stöckheim: 4 Zimmer - 2 Bäder - Terrasse - EG - Tiefga...,"['Erdgeschosswohnung', '•', 'Braunschweig', 'Braunschweig']","['Garten', 'EBK']","Miete zzgl. NK 1.466,44 €",Wohnfläche ca. 119 m²,Zi. 4,83,3
-21,selObject_44540229,Helle ruhige 3-Zimmer mit Balkon in grüner Lage von...,"['Wohnung', '•', 'Delmenhorst', 'Deichhorst']",['EBK'],Miete zzgl. NK 715 €,Wohnfläche ca. 103 m²,Zi. 3,83,3
-22,selObject_44539878,Etagen-Wohnung in zentraler Lage Bohmte / Osnabrück,"['Etagenwohnung', '•', 'Bohmte', 'Bohmte']",['Garten'],Miete zzgl. NK 595 €,Wohnfläche ca. 68 m²,Zi. 3,83,3
-23,selObject_44536901,Zuhause fühlen - große 3-Zimmer Wohnung mit Balkon,"['Etagenwohnung', '•', 'Braunschweig', 'Weststadt']",['Balkon'],"Miete zzgl. NK 635,78 €",Wohnfläche ca. 82 m²,Zi. 3,83,3
-24,selObject_44532728,ZENTRALGELEGENE DACHGESCHOSSWOHNUNG MITTEN IN REISLING...,"['Etagenwohnung', '•', 'Wolfsburg', 'Reislingen']",['EBK'],Miete zzgl. NK 590 €,Wohnfläche ca. 61 m²,Zi. 2,83,3
-25,selObject_44531363,Schöne Wohnung in Remels mit optimaler Raumaufteilung,"['Erdgeschosswohnung', '•', 'Uplengen', 'Remels']",['EBK'],Miete zzgl. NK 595 €,Wohnfläche ca. 74 m²,Zi. 2,83,3
-26,selObject_44531157,"Bezugsfrei! 2,5 Zimmer Neubaueigentumswohnung - Einbau...","['Etagenwohnung', '•', 'Visbek', 'Visbek']",[],Miete zzgl. NK 800 €,Wohnfläche ca. 101 m²,"Zi. 2,5",83,3
+0,selObject_44588657,Schicke Gartenwohnung mit Carport!,"[['Erdgeschosswohnung', '•', 'Oldenburg', 'Bloherfelde']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 730 €,Wohnfläche ca. 61 m²,Zi. 2,83,3
+1,selObject_44587208,Single-Wohnung * Ihr neues zu Hause wartet auf Sie!,"[['Apartment', '•', 'Stadland', 'Rodenkirchen']]",[],Miete zzgl. NK 175 €,Wohnfläche ca. 32 m²,Zi. 1,83,3
+2,selObject_44586454,"Modernisierte Wohnung zu vermieten, direkt am Wasser!","[['Etagenwohnung', '•', 'Wilhelmshaven', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 713 €,Wohnfläche ca. 70 m²,Zi. 3,83,3
+3,selObject_44585295,Stade-Innenstadtnah: renovierte 3-Zimmer-Wohnung,"[['Wohnung', '•', 'Stade', 'Stade']]",['EBK'],Miete zzgl. NK 480 €,Wohnfläche ca. 64 m²,Zi. 3,83,3
+4,selObject_44585027,Mietwohnung in Nettelkamp,"[['Erdgeschosswohnung', '•', 'Wrestedt', 'Esterholz']]","['Garten', 'EBK']",Miete zzgl. NK 600 €,Wohnfläche ca. 120 m²,"Zi. 4,5",83,3
+5,selObject_44585001,Toplage Hannover-Südstadt!,"[['Etagenwohnung', '•', 'Hannover', 'Bult']]",['Balkon'],Miete zzgl. NK 800 €,Wohnfläche ca. 80 m²,Zi. 3,83,3
+6,selObject_44584948,"""Wohnen Am Stadtpark"" in 1-A-Wohnlage","[['Dachgeschosswohnung', '•', 'Bad', 'Harzburg', 'Bad', 'Harzburg']]",['EBK'],Miete zzgl. NK 420 €,Wohnfläche ca. 74 m²,Zi. 3,83,3
+7,selObject_44584805,Alpers Immobilien: 3 Zimmer / Aufzug / Einbauküche /...,"[['Etagenwohnung', '•', 'Wilhelmshaven', 'Innenstadt']]",[],Miete zzgl. NK 488 €,Wohnfläche ca. 98 m²,Zi. 3,83,3
+8,selObject_44584535,Alpers Immobilien: - 3 Zimmer / Einbauküche / neues...,"[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Wilhelmshaven', 'Bant']]",[],Miete zzgl. NK 355 €,Wohnfläche ca. 64 m²,Zi. 3,83,3
+9,selObject_44584297,Alpers Immobilien: - 3 Zimmer Dachgeschosswohnung mit...,"[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Wilhelmshaven', 'Bant']]",[],Miete zzgl. NK 439 €,Wohnfläche ca. 80 m²,Zi. 3,83,3
+10,selObject_44584202,"Renovierungsbedürftige 2,5-Zimmer-Wohnung","[['Etagenwohnung', '•', 'Elze', 'Mehle']]",['Balkon'],Miete zzgl. NK 397 €,Wohnfläche ca. 107 m²,"Zi. 2,5",83,3
+11,selObject_44582897,Stade: 2-Zimmer-Wohnung im Altländer Viertel (Ruhige...,"[['Wohnung', '•', 'Stade', 'Stade']]","['Balkon', 'EBK']",Miete zzgl. NK 500 €,Wohnfläche ca. 60 m²,Zi. 2,83,3
+12,selObject_44577668,Geräumige Dachgeschosswohnung in zentraler Lage!,"[['Dachgeschosswohnung', '•', 'Hude', 'Hude']]",[],Miete zzgl. NK 420 €,Wohnfläche ca. 60 m²,Zi. 2,83,3
+13,selObject_44577265,"Moderne 3 ZKB-Wohnung im 1. OG in Quakenbrück, Menslag...","[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Quakenbrück', 'Neustadt']]",['Balkon'],Miete zzgl. NK 665 €,Wohnfläche ca. 83 m²,Zi. 3,83,3
+14,selObject_44576997,Vermietet! - 3-Zimmer-Wohnung in Bad Zwischenahn -...,"[['Etagenwohnung', '•', 'Bad', 'Zwischenahn', 'Bad', 'Zwischenahn', 'II']]","['Balkon', 'EBK']",Miete zzgl. NK 620 €,Wohnfläche ca. 75 m²,Zi. 3,83,3
+15,selObject_44576205,Gemütliche 2-Zimmer-DG-Wohnung mit EBK,"[['Dachgeschosswohnung', '•', 'Goslar', 'Altstadt']]",['EBK'],Miete zzgl. NK 320 €,Wohnfläche ca. 48 m²,Zi. 2,83,3
+16,selObject_44575733,+++ Provisionsfrei +++ Neubauwohnung Erstbezug im 1.OG...,"[['Etagenwohnung', '•', 'Emsbüren', 'Leschede']]",['Balkon'],Miete zzgl. NK 825 €,Wohnfläche ca. 104 m²,"Zi. 3,5",83,3
+17,selObject_44575726,Emlichheim | 2 ZKDB | Tolle DG- Wohnung in Kürze frei!,"[['Dachgeschosswohnung', '•', 'Emlichheim', 'Emlichheim']]",['EBK'],Miete zzgl. NK 440 €,Wohnfläche ca. 65 m²,Zi. 2,83,3
+18,selObject_44574715,Wohnen plus Home-Office: 4 - Zimmer-Wohnung im Erdge...,"[['Erdgeschosswohnung', '•', 'Lüneburg', 'Kreideberg']]",[],Miete zzgl. NK 1.180 €,Wohnfläche ca. 108 m²,Zi. 4,83,3
+19,selObject_44574707,"Modernes, energieeffizientes Penthouse am Stadtwald ...","[['Penthouse', '•', 'Oldenburg', 'Eversten']]",['EBK'],Miete zzgl. NK 1.825 €,Wohnfläche ca. 109 m²,Zi. 3,83,3
+20,selObject_44574526,Im Herzen der Altsatdt von Celle!,"[['Dachgeschosswohnung', '•', 'Celle', 'Altstadt']]",['EBK'],Miete zzgl. NK 550 €,Wohnfläche ca. 65 m²,Zi. 2,83,3
+21,selObject_44574282,Charmante 3-Zimmer-Wohnung in verkehrsgünstiger Lage.,"[['Etagenwohnung', '•', 'Winsen', 'Winsen']]",['EBK'],Miete zzgl. NK 700 €,Wohnfläche ca. 81 m²,Zi. 3,83,3
+22,selObject_44573539,Erstbezug | KfW 40+ | Ladesäulen | 3-Zimmer (1.OG),"[['Etagenwohnung', '•', 'Weyhe', 'Kirchweyhe']]",['Balkon'],Miete zzgl. NK 990 €,Wohnfläche ca. 77 m²,Zi. 3,83,3
+23,selObject_44573537,Erstbezug | KfW 40+ | Ladesäulen | 3-Zimmer-EG-Wohnung,"[['Erdgeschosswohnung', '•', 'Weyhe', 'Kirchweyhe']]",['Garten'],Miete zzgl. NK 990 €,Wohnfläche ca. 80 m²,Zi. 3,83,3
+24,selObject_44573536,Erstbezug | KfW 40+ | Ladesäulen | 3-Zimmer (1.OG),"[['Etagenwohnung', '•', 'Weyhe', 'Kirchweyhe']]",['Balkon'],Miete zzgl. NK 990 €,Wohnfläche ca. 78 m²,Zi. 3,83,3
+25,selObject_44573535,Erstbezug | KfW 40+ | Ladesäulen | 3-Zimmer-EG-Wohnung,"[['Erdgeschosswohnung', '•', 'Weyhe', 'Kirchweyhe']]",['Garten'],Miete zzgl. NK 990 €,Wohnfläche ca. 80 m²,Zi. 3,83,3
+26,selObject_44572848,Schicke Neubauwohnung in Hannover Misburg!,"[['Wohnung', '•', 'Hannover', 'Misburg-Nord']]",['EBK'],Miete zzgl. NK 836 €,Wohnfläche ca. 73 m²,Zi. 2,83,3

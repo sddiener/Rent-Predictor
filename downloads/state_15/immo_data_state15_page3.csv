@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_45024093,NEU Azubi/Student gesucht,"['Etagenwohnung', '•', 'Halle', 'Südstadt']","['NEU', 'NEU']",Miete zzgl. NK 262 €,Wohnfläche ca. 40 m²,Zi. 1,3,15
-1,selObject_45024092,NEU WG-geeignet!,"['Etagenwohnung', '•', 'Halle', 'Lutherplatz']","['NEU', 'NEU']",Miete zzgl. NK 445 €,Wohnfläche ca. 70 m²,Zi. 3,3,15
-2,selObject_45024091,NEU 3 Räume mit Balkon,"['Etagenwohnung', '•', 'Halle', 'Innenstadt']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 433 €,Wohnfläche ca. 58 m²,Zi. 3,3,15
-3,selObject_45024082,"NEU 3-R-Wohnung am Theater, Erdgeschoß","['Wohnung', '•', 'Dessau-Roßlau', 'Innenstadt']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 428 €,Wohnfläche ca. 66 m²,Zi. 3,3,15
-4,selObject_45023874,NEU Helle und ruhige Wohnung in gepflegter Wohnanlage I...,"['Erdgeschosswohnung', '•', 'Leuna', 'Günthersdorf']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 488 €,Wohnfläche ca. 75 m²,Zi. 3,3,15
-5,selObject_45023744,NEU Wohnen - 03. OG - mitte - Otto-Nagel-Straße 3,"['Wohnung', '•', 'Halle', 'Südliche', 'Neustadt']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 228 €,Wohnfläche ca. 44 m²,Zi. 2,3,15
-6,selObject_45023681,NEU Wohnen - EG - rechts - Gerberastraße 6,"['Erdgeschosswohnung', '•', 'Halle', 'Nördliche', 'Neustadt']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 320 €,Wohnfläche ca. 59 m²,Zi. 3,3,15
-7,selObject_45023664,"NEU 2,5-Zimmer-Wohnung mit Balkon und Wannenbad","['Wohnung', '•', 'Laucha', 'Laucha']","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 440 €,Wohnfläche ca. 95 m²,"Zi. 2,5",3,15
-8,selObject_45023572,"NEU Mit BALKON im GRÜNEN, 3 Raum Whg.","['Etagenwohnung', '•', 'Thale', 'Thale']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 330 €,Wohnfläche ca. 61 m²,Zi. 3,3,15
-9,selObject_45023531,"NEU Sonnig und hell, 3- Raum-Wohnung saniert, mit Balkon/L...","['Etagenwohnung', '•', 'Wernigerode', 'Wernigerode']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 400 €,Wohnfläche ca. 65 m²,Zi. 3,3,15
-10,selObject_45023351,NEU Preiswertes Wohnen in Nähe der Universität,"['Etagenwohnung', '•', 'Magdeburg', 'Altstadt']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 227,56 €",Wohnfläche ca. 36 m²,Zi. 1,3,15
-11,selObject_45023337,NEU 2-Raumwohnung mit großem Balkon - frei ab Oktober 2021,"['Etagenwohnung', '•', 'Bitterfeld-Wolfen', 'Wolfen']","['NEU', 'NEU']","Miete zzgl. NK 345,11 €",Wohnfläche ca. 55 m²,Zi. 2,3,15
-12,selObject_45023299,NEU Zur Elbe nur über Straße!,"['Etagenwohnung', '•', 'Magdeburg', 'Fermersleben']","['NEU', 'NEU']",Miete zzgl. NK 229 €,Wohnfläche ca. 42 m²,Zi. 2,3,15
-13,selObject_45023238,NEU 2 Räume zum Wohlfühlen!,"['Wohnung', '•', 'Gatersleben']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 227 €,Wohnfläche ca. 48 m²,Zi. 2,3,15
-14,selObject_45022961,"NEU Frisch renovierte Wohnung mit neuem Fußboden, großem...","['Kein', 'Bild']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 339 €,Wohnfläche ca. 57 m²,Zi. 3,3,15
-15,selObject_45022872,NEU 2 Raum zur individuellen Gestaltung,"['Wohnung', '•', 'Magdeburg', 'Stadtfeld', 'Ost']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 268,62 €",Wohnfläche ca. 49 m²,Zi. 2,3,15
-16,selObject_45022873,NEU Attraktive 4- Raumwohnung mit Balkon,"['Wohnung', '•', 'Magdeburg', 'Stadtfeld', 'Ost']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 365 €,Wohnfläche ca. 69 m²,Zi. 4,3,15
-17,selObject_45022874,NEU Hochwertig sanierte 3- Raumwohnung mit Balkon !,"['Kein', 'Bild']","['NEU', 'NEU']","Miete zzgl. NK 354,21 €",Wohnfläche ca. 61 m²,Zi. 3,3,15
-18,selObject_45022871,NEU 3 Zimmer Wohnung mit einzigartigem Brockenblick,"['Wohnung', '•', 'Magdeburg', 'Neustädter', 'Feld']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 371,33 €",Wohnfläche ca. 71 m²,Zi. 3,3,15
-19,selObject_45022679,NEU 3-Raumwohnung mit Balkon in Stadtfeld,"['Wohnung', '•', 'Magdeburg', 'Stadtfeld', 'Ost']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 473 €,Wohnfläche ca. 82 m²,Zi. 3,3,15
-20,selObject_45022631,NEU - Blick ins Grüne -,"['Wohnung', '•', 'Weißenfels', 'Weißenfels']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 310 €,Wohnfläche ca. 60 m²,Zi. 3,3,15
-21,selObject_45022511,NEU Ab sofort bezugsfertig: 1-Zimmer-Wohnung mit Badewanne...,"['Apartment', '•', 'Halle', 'Südliche', 'Neustadt']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 212,10 €",Wohnfläche ca. 30 m²,Zi. 1,3,15
-22,selObject_45022458,NEU Ruhige 3-Raum-Wohnung in Neu Olvenstedt,"['Wohnung', '•', 'Magdeburg', 'Neu', 'Olvenstedt']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 329 €,Wohnfläche ca. 70 m²,Zi. 3,3,15
-23,selObject_45022447,NEU Eine Wanne zum entspannen!,"['Erdgeschosswohnung', '•', 'Magdeburg', 'Sudenburg']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 236 €,Wohnfläche ca. 44 m²,Zi. 2,3,15
-24,selObject_45022446,NEU Mit Balkon und schickem Bad!,"['Wohnung', '•', 'Magdeburg', 'Sudenburg']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 259 €,Wohnfläche ca. 46 m²,Zi. 2,3,15
-25,selObject_45022318,NEU 2-Raumwohnung mit Garage,"['Erdgeschosswohnung', '•', 'Aschersleben', 'Aschersleben']","['NEU', 'NEU']",Miete zzgl. NK 405 €,Wohnfläche ca. 62 m²,Zi. 2,3,15
-26,selObject_45022317,NEU Schicke 3-Zimmer Wohnung mit großem Maisonettebereich,"['Wohnung', '•', 'Aschersleben', 'Aschersleben']","['NEU', 'NEU']",Miete zzgl. NK 525 €,Wohnfläche ca. 98 m²,Zi. 3,3,15
+0,selObject_45040748,NEU 4 Raum Maisonettwohnung in Oscherslbn./ Zentrum- (360...,"[['Maisonette', '•', 'Oschersleben', 'Oschersleben']]","['NEU', 'NEU']",Miete zzgl. NK 578 €,Wohnfläche ca. 97 m²,Zi. 4,3,15
+1,selObject_45040747,NEU 2 Raum Wohnung Oschersleben/ Zentrum (360° Fotoansicht...,"[['Etagenwohnung', '•', 'Oschersleben', 'Oschersleben']]","['NEU', 'NEU']",Miete zzgl. NK 249 €,Wohnfläche ca. 39 m²,Zi. 2,3,15
+2,selObject_45040621,NEU Freier Blick in die Natur,"[['Etagenwohnung', '•', 'Kemberg', 'Bergwitz']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 330 €,Wohnfläche ca. 69 m²,Zi. 4,3,15
+3,selObject_45040537,"NEU Barrierefreie 2-Raumwohnung, altersgerecht in Rottlebe...","[['Wohnung', '•', 'Südharz', 'Rottleberode']]","['NEU', 'NEU']",Miete zzgl. NK 299 €,Wohnfläche ca. 51 m²,Zi. 2,3,15
+4,selObject_45040405,NEU sanierte und renovierte 1-Zimmer-Wohnung mit Einbauküc...,"[['Etagenwohnung', '•', 'Blankenburg', 'Blankenburg']]","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 216 €,Wohnfläche ca. 33 m²,Zi. 1,3,15
+5,selObject_45039982,NEU Kleine Wohnung mit Balkon - ab September zu besichtige...,"[['Wohnung', '•', 'Bitterfeld-Wolfen', 'Wolfen']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 193,54 €",Wohnfläche ca. 31 m²,Zi. 1,3,15
+6,selObject_45039816,NEU schicke 2-Raum-Wohnung im 2.Obergeschoss,"[['Dachgeschosswohnung', '•', 'Magdeburg', 'Alt', 'Olvenstedt']]","['NEU', 'NEU']",Miete zzgl. NK 270 €,Wohnfläche ca. 45 m²,Zi. 2,3,15
+7,selObject_45039797,NEU 2-Raum-Altbauwohnung in bester Lage mit Garten und...,"[['Erdgeschosswohnung', '•', 'Bernburg', 'Bernburg']]","['NEU', 'NEU', 'Balkon', 'Garten']","Miete zzgl. NK 319,26 €",Wohnfläche ca. 53 m²,Zi. 2,3,15
+8,selObject_45039796,NEU 4-Raum-Wohnung mit modernem Badezimmer und Aufzug nach...,"[['Wohnung', '•', 'Bernburg', 'Bernburg']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 422,22 €",Wohnfläche ca. 70 m²,Zi. 4,3,15
+9,selObject_45039792,NEU 3-Raum-Altbauwohnungmit großem Balkon und Gartenblick,"[['Erdgeschosswohnung', '•', 'Bernburg', 'Bernburg']]","['NEU', 'NEU', 'Balkon', 'Garten']","Miete zzgl. NK 358,20 €",Wohnfläche ca. 60 m²,Zi. 3,3,15
+10,selObject_45039419,NEU Schöner Wohnen an der Mulde,"[['Etagenwohnung', '•', 'Dessau-Roßlau', 'Innenstadt']]","['NEU', 'NEU']",Miete zzgl. NK 575 €,Wohnfläche ca. 94 m²,Zi. 3,3,15
+11,selObject_45039081,NEU 2-Raum-Altbauwohnung in bester Lage mit Garten und...,"[['Erdgeschosswohnung', '•', 'Bernburg', 'Bernburg']]","['NEU', 'NEU', 'Balkon', 'Garten']","Miete zzgl. NK 319,26 €",Wohnfläche ca. 53 m²,Zi. 2,3,15
+12,selObject_45038857,NEU Nachmieter ab 01.10.2021 im MWG-Domviertel gesucht !,"[['Wohnung', '•', 'Magdeburg', 'Altstadt']]","['NEU', 'NEU', 'Balkon', 'EBK']","Miete zzgl. NK 873,05 €",Wohnfläche ca. 92 m²,Zi. 3,3,15
+13,selObject_45038858,NEU 13. Etage mit Seeblick!,"[['Etagenwohnung', '•', 'Magdeburg', 'Neustädter', 'See']]","['NEU', 'NEU']","Miete zzgl. NK 365,62 €",Wohnfläche ca. 65 m²,Zi. 3,3,15
+14,selObject_45038856,NEU Leben & Wohlfühlen im Neustädter Feld,"[['Etagenwohnung', '•', 'Magdeburg', 'Neustädter', 'Feld']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 289,83 €",Wohnfläche ca. 56 m²,Zi. 3,3,15
+15,selObject_45038174,NEU 3-Zimmer-Wohnung mit Garten,"[['Wohnung', '•', 'Bad', 'Dürrenberg', 'Goddula']]","['NEU', 'NEU', 'Balkon', 'Garten']","Miete zzgl. NK 685,50 €",Wohnfläche ca. 90 m²,Zi. 3,3,15
+16,selObject_45037481,NEU Sehr schöne preiswerte 2-R-Wohnung im 2.OG ca 53 m ²...,"[['Etagenwohnung', '•', 'Magdeburg', 'Beyendorfer', 'Grund']]","['NEU', 'NEU']",Miete zzgl. NK 290 €,Wohnfläche ca. 53 m²,Zi. 2,3,15
+17,selObject_45036842,"NEU Grundhaft renoviertes 1,5-Zimmer-Apartment mit Einbauk...","[['Apartment', '•', 'Barleben', 'Barleben']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 375 €,Wohnfläche ca. 50 m²,"Zi. 1,5",3,15
+18,selObject_45036821,NEU 2-Raum Wohnung in Zerbst!!,"[['Erdgeschosswohnung', '•', 'Zerbst']]","['NEU', 'NEU']",Miete zzgl. NK 250 €,Wohnfläche ca. 50 m²,Zi. 2,3,15
+19,selObject_45036670,NEU So macht wohnen Spaß,"[['Etagenwohnung', '•', 'Halle', 'Westliche', 'Neustadt']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 290 €,Wohnfläche ca. 61 m²,Zi. 3,3,15
+20,selObject_45036668,NEU Hinein ins eigene Reich!,"[['Etagenwohnung', '•', 'Halle', 'Nördliche', 'Neustadt']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 152 €,Wohnfläche ca. 27 m²,Zi. 1,3,15
+21,selObject_45035470,"NEU 4-Zimmer mit Balkon, EBK und teilmöbliert in Stadtfeld...","[['Etagenwohnung', '•', 'Magdeburg', 'Stadtfeld', 'Ost']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 890 €,Wohnfläche ca. 89 m²,Zi. 4,3,15
+22,selObject_45035408,NEU 3-Raum Wohnung in Zerbst!!,"[['Dachgeschosswohnung', '•', 'Zerbst']]","['NEU', 'NEU']",Miete zzgl. NK 400 €,Wohnfläche ca. 70 m²,Zi. 3,3,15
+23,selObject_45035355,NEU preisgünstige 3- Raum- Wohnung,"[['Wohnung', '•', 'Bismark', 'Bismark']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 250 €,Wohnfläche ca. 59 m²,Zi. 3,3,15
+24,selObject_45035067,NEU Möblierte Wohnungen - Ideal für Studenten!,"[['Wohnung', '•', 'Magdeburg', 'Leipziger', 'Str.']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 189,59 €",Wohnfläche ca. 26 m²,Zi. 1,3,15
+25,selObject_45035064,NEU Ihre neue 4-Raum-Wohnung! Jetzt Termin vereinbaren,"[['Wohnung', '•', 'Magdeburg', 'Leipziger', 'Str.']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 349,43 €",Wohnfläche ca. 65 m²,Zi. 4,3,15
+26,selObject_45035059,NEU Sanierte 2 Raum-Wohnung mit weitem Ausblick!,"[['Wohnung', '•', 'Magdeburg', 'Leipziger', 'Str.']]","['NEU', 'NEU']","Miete zzgl. NK 244,85 €",Wohnfläche ca. 48 m²,Zi. 2,3,15

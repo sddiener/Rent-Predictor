@@ -1,13 +1,9 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_40439584,Wohnen im YOUNIQ-Apartmenthaus in Mainz!,"['Etagenwohnung', '•', 'Mainz', 'Hartenberg/Münchfeld']","['Garten', 'EBK']","Miete zzgl. NK 397,58 €",Wohnfläche ca. 18 m²,Zi. 1,38,7
-1,selObject_40112296,Bernkastel-Kues: Bezugsfertige 4-Zi.-Wohnung mit Mosel...,"['Dachgeschosswohnung', '•', 'Bernkastel-Kues', 'Kues']",[],Miete zzgl. NK 480 €,Wohnfläche ca. 120 m²,Zi. 4,38,7
-2,selObject_40005334,Gelegenheit! Maisonettewohnung (OG + DG) in ruhiger...,"['Maisonette', '•', 'Rheinböllen']",['Balkon'],Miete zzgl. NK 495 €,Wohnfläche ca. 78 m²,Zi. 3,38,7
-3,selObject_38545334,***Miete auf Zeit! - komplett modernisierte und möblie...,"['Erdgeschosswohnung', '•', 'Boppard', 'Weiler']",['EBK'],Miete zzgl. NK 540 €,Wohnfläche ca. 71 m²,Zi. 3,38,7
-4,selObject_37773265,Frisch renovierte 3-Zimmer Wohnung in Kaiserslautern,"['Wohnung', '•', 'Kaiserslautern', 'Innenstadt']",['Balkon'],Miete zzgl. NK 595 €,Wohnfläche ca. 96 m²,Zi. 3,38,7
-5,selObject_37539306,Für Studenten: möbliertes Zimmer in 2er-WG mit Balkon!...,"['Zimmer', '•', 'Mainz', 'Gonsenheim']","['Balkon', 'EBK']",Miete zzgl. NK 399 €,Wohnfläche ca. 21 m²,,38,7
-6,selObject_37225281,Vis-à-vis der Basilika - Wohnen im Herzen der Stadt,"['Etagenwohnung', '•', 'Trier', 'Innenstadt']",['EBK'],Miete zzgl. NK 1.350 €,Wohnfläche ca. 190 m²,"Zi. 3,5",38,7
-7,selObject_36973692,Komplett modernisierte und super geschnittene 2-Zimmer...,"['Wohnung', '•', 'Pirmasens', 'Innenstadt']",['Garten'],Miete zzgl. NK 315 €,Wohnfläche ca. 61 m²,Zi. 2,38,7
-8,selObject_36783650,Gut geschnittene 2-Zimmer-Wohnung mit großem Balkon in...,"['Wohnung', '•', 'Pirmasens', 'Innenstadt']",[],Miete zzgl. NK 315 €,Wohnfläche ca. 61 m²,Zi. 2,38,7
-9,selObject_35485573,Wohnen über den Dächern von Mainz - möblierte 1-Zimmer...,"['Wohnung', '•', 'Mainz', 'Oberstadt']",['EBK'],Miete zzgl. NK 480 €,Wohnfläche ca. 21 m²,Zi. 1,38,7
-10,selObject_34694209,Wittlich-Stadt: Wohnen auf Zeit in möblierten Wohnunge...,"['Apartment', '•', 'Wittlich', 'Wittlich']","['Balkon', 'Garten', 'EBK']",Miete inkl. NK 1.000 €,,Zi. 2,38,7
-11,selObject_34534456,Studentenappartment in Mainz!,"['Apartment', '•', 'Mainz', 'Hartenberg/Münchfeld']","['Balkon', 'EBK']",Miete zzgl. NK 210 €,Wohnfläche ca. 19 m²,Zi. 1,38,7
+0,selObject_37773265,Frisch renovierte 3-Zimmer Wohnung in Kaiserslautern,"[['Wohnung', '•', 'Kaiserslautern', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 595 €,Wohnfläche ca. 96 m²,Zi. 3,38,7
+1,selObject_37539306,Für Studenten: möbliertes Zimmer in 2er-WG mit Balkon!...,"[['Zimmer', '•', 'Mainz', 'Gonsenheim']]","['Balkon', 'EBK']",Miete zzgl. NK 399 €,Wohnfläche ca. 21 m²,,38,7
+2,selObject_37225281,Vis-à-vis der Basilika - Wohnen im Herzen der Stadt,"[['Etagenwohnung', '•', 'Trier', 'Innenstadt']]",['EBK'],Miete zzgl. NK 1.350 €,Wohnfläche ca. 190 m²,"Zi. 3,5",38,7
+3,selObject_36973692,Komplett modernisierte und super geschnittene 2-Zimmer...,"[['Wohnung', '•', 'Pirmasens', 'Innenstadt']]",['Garten'],Miete zzgl. NK 315 €,Wohnfläche ca. 61 m²,Zi. 2,38,7
+4,selObject_36783650,Gut geschnittene 2-Zimmer-Wohnung mit großem Balkon in...,"[['Wohnung', '•', 'Pirmasens', 'Innenstadt']]",[],Miete zzgl. NK 315 €,Wohnfläche ca. 61 m²,Zi. 2,38,7
+5,selObject_35485573,Wohnen über den Dächern von Mainz - möblierte 1-Zimmer...,"[['Wohnung', '•', 'Mainz', 'Oberstadt']]",['EBK'],Miete zzgl. NK 480 €,Wohnfläche ca. 21 m²,Zi. 1,38,7
+6,selObject_34694209,Wittlich-Stadt: Wohnen auf Zeit in möblierten Wohnunge...,"[['Apartment', '•', 'Wittlich', 'Wittlich']]","['Balkon', 'Garten', 'EBK']",Miete inkl. NK 1.000 €,,Zi. 2,38,7
+7,selObject_34534456,Studentenappartment in Mainz!,"[['Apartment', '•', 'Mainz', 'Hartenberg/Münchfeld']]","['Balkon', 'EBK']",Miete zzgl. NK 210 €,Wohnfläche ca. 19 m²,Zi. 1,38,7

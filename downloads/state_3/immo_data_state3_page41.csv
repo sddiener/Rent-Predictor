@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44905586,Luxuriöse Penthouse Wohnung mit 2 Dachterrassen,"['Penthouse', '•', 'Oldenburg', 'Osternburg']","['Balkon', 'EBK']",Miete zzgl. NK 1.170 €,Wohnfläche ca. 106 m²,Zi. 2,41,3
-1,selObject_44905574,"Gesucht, gefunden: Zwei-Zimmer-Dachgeschosswohnung auf...","['Dachgeschosswohnung', '•', 'Wilhelmshaven', 'Siebethsburg']",[],"Miete zzgl. NK 220,10 €",Wohnfläche ca. 42 m²,Zi. 2,41,3
-2,selObject_44905479,Bardowick: 2-Zimmer-Wohnung,"['Etagenwohnung', '•', 'Bardowick']",['EBK'],Miete zzgl. NK 465 €,Wohnfläche ca. 62 m²,Zi. 2,41,3
-3,selObject_44905448,Schicke Dachgeschosswohnung mit Gartennutzung in der...,"['Dachgeschosswohnung', '•', 'Braunschweig', 'Südstadt']","['Garten', 'EBK']",Miete zzgl. NK 840 €,Wohnfläche ca. 100 m²,"Zi. 2,5",41,3
-4,selObject_44905324,Schöne Ferienwohnung im Stadtzentrum,"['Wohnung', '•', 'Wilhelmshaven', 'Bant']",[],Miete zzgl. NK 70 €,Wohnfläche ca. 75 m²,Zi. 4,41,3
-5,selObject_44905161,Wunderschönes seniorengerechtes 2 Zimmer-Apartment in...,"['Wohnung', '•', 'Delmenhorst', 'Schafkoven/Donneresch']",[],Miete zzgl. NK 530 €,Wohnfläche ca. 60 m²,Zi. 2,41,3
-6,selObject_44904935,3 Zimmer EG Wohnung in Göttingen - Weende,"['Erdgeschosswohnung', '•', 'Göttingen', 'Weende']",[],Miete zzgl. NK 630 €,Wohnfläche ca. 65 m²,Zi. 3,41,3
-7,selObject_44904500,"Großzügige 4,5-Zimmer-Wohnung in Hannover-Kirchrode","['Wohnung', '•', 'Hannover', 'Kirchrode']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.150 €,Wohnfläche ca. 103 m²,"Zi. 4,5",41,3
-8,selObject_44904376,Schöne Terrassen-Wohnung mit Garten in Buxtehude/ Ovel...,"['Erdgeschosswohnung', '•', 'Buxtehude', 'Ovelgönne/Ketzendorf']","['Garten', 'EBK']",Miete zzgl. NK 860 €,Wohnfläche ca. 95 m²,Zi. 3,41,3
-9,selObject_44904185,Achtung STUDENTEN - UNINÄHE! - Harrentor Nähe Innensta...,"['Apartment', '•', 'Oldenburg', 'Innenstadt']",['EBK'],Miete zzgl. NK 440 €,Wohnfläche ca. 28 m²,Zi. 1,41,3
-10,selObject_44904153,3-Zimmer Wohnung im Grünen!,"['Etagenwohnung', '•', 'Hannover', 'Misburg-Nord']",['Balkon'],"Miete zzgl. NK 566,01 €",Wohnfläche ca. 82 m²,Zi. 3,41,3
-11,selObject_44904129,714-006 - 3 Zimmer Wohnung,"['Etagenwohnung', '•', 'Braunschweig', 'Innenstadt']",['EBK'],Miete zzgl. NK 480 €,Wohnfläche ca. 70 m²,Zi. 3,41,3
-12,selObject_44904068,Perfekt für eine Person! - Dachgeschosswohnung sucht...,"['Dachgeschosswohnung', '•', 'Vechta', 'Vechta']",['EBK'],Miete zzgl. NK 345 €,Wohnfläche ca. 35 m²,Zi. 2,41,3
-13,selObject_44903646,Schöne Aussichten: Genießen Sie das Leben in Ihrer...,"['Etagenwohnung', '•', 'Göttingen', 'Göttingen']",[],"Miete zzgl. NK 417,48 €",Wohnfläche ca. 40 m²,Zi. 2,41,3
-14,selObject_44903642,Ihre neue Wohnung: günstige 3-Zimmer-Wohnung im Dachge...,"['Dachgeschosswohnung', '•', 'Göttingen', 'Göttingen']",[],"Miete zzgl. NK 413,42 €",Wohnfläche ca. 50 m²,Zi. 3,41,3
-15,selObject_44903609,"Die Gelegenheit: frisch renovierte 2,5-Zimmer-Wohnung...","['Dachgeschosswohnung', '•', 'Buxtehude', 'Buxtehude']",[],"Miete zzgl. NK 704,93 €",Wohnfläche ca. 66 m²,"Zi. 2,5",41,3
-16,selObject_44902857,"Neubau-Erstbezug! KFW 55 - Topmoderne, citynahe Oberw...","['Apartment', '•', 'Cloppenburg', 'Cloppenburg']",[],Miete zzgl. NK 830 €,Wohnfläche ca. 84 m²,Zi. 3,41,3
-17,selObject_44902855,"Neubau-Erstbezug! KFW 55 - Topmoderne, citynahe Erdge...","['Erdgeschosswohnung', '•', 'Cloppenburg', 'Cloppenburg']",[],Miete zzgl. NK 830 €,Wohnfläche ca. 84 m²,Zi. 3,41,3
-18,selObject_44902853,Mein neues Heim - kleine gemütliche 4-Zimmer-Wohnung -...,"['Dachgeschosswohnung', '•', 'Wilhelmshaven', 'Bant']","['Garten', 'EBK']",Miete zzgl. NK 352 €,Wohnfläche ca. 58 m²,Zi. 4,41,3
-19,selObject_44902778,Individuelle Raumaufteilung - kleine 4-Zimmer-Wohnung...,"['Dachgeschosswohnung', '•', 'Wilhelmshaven', 'Bant']",['Garten'],Miete zzgl. NK 375 €,Wohnfläche ca. 62 m²,Zi. 4,41,3
-20,selObject_44902351,Nähe City - top modernisiert 3-Zimmer Wohnung - kurzfr...,"['Erdgeschosswohnung', '•', 'Wilhelmshaven', 'Bant']",[],Miete zzgl. NK 379 €,Wohnfläche ca. 63 m²,Zi. 3,41,3
-21,selObject_44902158,3-Zimmer-Wohnung mit Balkon sucht netten Mieter,"['Wohnung', '•', 'Tostedt', 'Tostedt']","['Balkon', 'EBK']",Miete zzgl. NK 715 €,Wohnfläche ca. 80 m²,Zi. 3,41,3
-22,selObject_44900289,Gemütliche 3-Zimmer-Wohnung - WG-geeignet!,"['Dachgeschosswohnung', '•', 'Göttingen', 'Göttingen']",[],Miete zzgl. NK 465 €,Wohnfläche ca. 44 m²,Zi. 3,41,3
-23,selObject_44899956,Zwei-Zimmerwohnung zu vermieten,"['Wohnung', '•', 'Hildesheim', 'Nord']",['Garten'],Miete zzgl. NK 320 €,Wohnfläche ca. 34 m²,Zi. 2,41,3
-24,selObject_44899564,4-Zimmerwhg. in zentraler Lage!,"['Etagenwohnung', '•', 'Braunschweig', 'Innenstadt']",[],Miete zzgl. NK 450 €,Wohnfläche ca. 74 m²,Zi. 4,41,3
-25,selObject_44898828,Moderne 3-Zimmer-Wohnung im Stadtteil Bürgerfelde,"['Erdgeschosswohnung', '•', 'Oldenburg', 'Alexandersfeld']","['Balkon', 'EBK']",Miete zzgl. NK 1.290 €,Wohnfläche ca. 134 m²,Zi. 3,41,3
-26,selObject_44898644,WG-Zimmer in gemütlicher Haushälfte,"['Zimmer', '•', 'Lüneburg', 'Goseburg-Zeltberg']",['EBK'],Miete zzgl. NK 300 €,Wohnfläche ca. 14 m²,,41,3
+0,selObject_44933262,1-Zimmer-Dachgeschosswohnung mit Küche,"[['Dachgeschosswohnung', '•', 'Braunschweig', 'Braunschweig']]",[],"Miete zzgl. NK 403,10 €",Wohnfläche ca. 38 m²,Zi. 1,41,3
+1,selObject_44933252,Jetzt zuschlagen! Schöne 2-Zimmer-Wohnung zu vergeben!,"[['Etagenwohnung', '•', 'Osnabrück', 'Kalkhügel']]",[],"Miete zzgl. NK 505,14 €",Wohnfläche ca. 59 m²,Zi. 2,41,3
+2,selObject_44933249,Zuhause fühlen: 2-Zimmer-Wohnung mit Ausblick,"[['Dachgeschosswohnung', '•', 'Osnabrück', 'Schinkel']]",[],"Miete zzgl. NK 357,58 €",Wohnfläche ca. 35 m²,Zi. 2,41,3
+3,selObject_44933233,Zuhause fühlen: individuelle 3-Zimmer-Wohnung,"[['Erdgeschosswohnung', '•', 'Lüneburg', 'Kaltenmoor']]",['Balkon'],"Miete zzgl. NK 515,47 €",Wohnfläche ca. 59 m²,Zi. 2,41,3
+4,selObject_44933196,**ERSTBEZUG** wohnen in der Südstadt mit Balkon und...,"[['Wohnung', '•', 'Wilhelmshaven', 'Innenstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 645 €,Wohnfläche ca. 64 m²,"Zi. 2,5",41,3
+5,selObject_44933160,"Barrierefreie, senioren- bzw./und behindertengerechte...","[['Wohnung', '•', 'Oldendorf']]",[],Miete zzgl. NK 610 €,Wohnfläche ca. 68 m²,Zi. 2,41,3
+6,selObject_44933016,"Zentrumsnahe, komplett sanierte 3-Zimmer-Wohnung mit...","[['Wohnung', '•', 'Bad', 'Gandersheim', 'Bad', 'Gandersheim']]","['Balkon', 'Garten']",Miete zzgl. NK 400 €,Wohnfläche ca. 65 m²,Zi. 3,41,3
+7,selObject_44932145,Traumhaft schöne Maisonettewohnung!,"[['Maisonette', '•', 'Sande', 'Sande']]",['Balkon'],Miete zzgl. NK 430 €,Wohnfläche ca. 80 m²,Zi. 2,41,3
+8,selObject_44931839,Traumwohnung in beliebter Lage!,"[['Etagenwohnung', '•', 'Sande', 'Sande']]",['Balkon'],Miete zzgl. NK 412 €,Wohnfläche ca. 75 m²,Zi. 3,41,3
+9,selObject_44931829,Helle und freundliche 4-Zimmer-Erdgeschosswohnung mit...,"[['Erdgeschosswohnung', '•', 'Mariental']]",[],Miete zzgl. NK 888 €,Wohnfläche ca. 137 m²,Zi. 4,41,3
+10,selObject_44931534,Helle Altbauwohnung mit Charme wartet erneut auf neuen...,"[['Wohnung', '•', 'Göttingen', 'Göttingen']]",[],Miete zzgl. NK 1.450 €,Wohnfläche ca. 150 m²,Zi. 5,41,3
+11,selObject_44929594,2-Zimmer-Wohnung mit 50 m² Wfl. im 1. Obergeschoss,"[['Wohnung', '•', 'Ganderkesee', 'Ganderkesee']]",[],Miete zzgl. NK 450 €,Wohnfläche ca. 50 m²,Zi. 2,41,3
+12,selObject_44929526,"1a Lage im Dobbenviertel, Wohnung mit Blick ins Grüne...","[['Wohnung', '•', 'Oldenburg', 'Innenstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 1.590 €,Wohnfläche ca. 135 m²,Zi. 5,41,3
+13,selObject_44929205,Reserviert: 2-Zimmer/Küche/Bad im 1.OG in ruhiger Lage...,"[['Wohnung', '•', 'Delmenhorst', 'Deichhorst']]","['Balkon', 'EBK']",Miete zzgl. NK 375 €,Wohnfläche ca. 58 m²,Zi. 2,41,3
+14,selObject_44928708,Lichtdurchflutete modernisierte 3-Zimmer Wohnung mit...,"[['Wohnung', '•', 'Osnabrück', 'Dodesheide']]","['Balkon', 'Garten']",Miete zzgl. NK 620 €,Wohnfläche ca. 75 m²,Zi. 3,41,3
+15,selObject_44928595,Vechta Stadtmitte Schöne Stadtwohnung auf 2 Etagen,"[['Etagenwohnung', '•', 'Vechta', 'Vechta']]",['EBK'],Miete zzgl. NK 980 €,Wohnfläche ca. 190 m²,Zi. 3,41,3
+16,selObject_44928571,++ DACHGESCHOSSWOHNUNG IM ORTSZENTRUM | RUHIGE LAGE |...,"[['Wohnung', '•', 'Hage', 'Hage']]",[],Miete zzgl. NK 450 €,Wohnfläche ca. 70 m²,Zi. 3,41,3
+17,selObject_44928145,gut geschnittene 2-Zimmer Wohnung in Cloppenburg,"[['Wohnung', '•', 'Cloppenburg', 'Cloppenburg']]","['Balkon', 'EBK']",Miete zzgl. NK 450 €,Wohnfläche ca. 57 m²,Zi. 2,41,3
+18,selObject_44928026,Seniorengerechte 3-Zimmer-Erdgeschosswohnung mit Terra...,"[['Kein', 'Bild'], ['Wohnung', '•', 'Buchholz', 'Buchholz']]","['Garten', 'EBK']",Miete zzgl. NK 1.050 €,Wohnfläche ca. 98 m²,Zi. 3,41,3
+19,selObject_44928025,Kleines Raumwunder! Gemütliche Dachgeschosswohnung mit...,"[['Dachgeschosswohnung', '•', 'Weyhe', 'Hagen']]","['Balkon', 'EBK']",Miete zzgl. NK 610 €,Wohnfläche ca. 65 m²,Zi. 3,41,3
+20,selObject_44927870,Wohnen ab 60 Jahren!,"[['Etagenwohnung', '•', 'Hannover', 'Vahrenheide']]",['Balkon'],"Miete zzgl. NK 190,26 €",Wohnfläche ca. 35 m²,Zi. 1,41,3
+21,selObject_44927826,Neu renovierte 3-Zi.-Wohnung mit Badewanne in der Inne...,"[['Erdgeschosswohnung', '•', 'Bad', 'Gandersheim', 'Bad', 'Gandersheim']]",[],Miete zzgl. NK 349 €,Wohnfläche ca. 75 m²,Zi. 3,41,3
+22,selObject_44927822,** Interessanter Grundriss - Zentrale Lage**,"[['Etagenwohnung', '•', 'Buxtehude', 'Buxtehude']]",['EBK'],Miete zzgl. NK 865 €,Wohnfläche ca. 82 m²,Zi. 3,41,3
+23,selObject_44927787,Neubau: 2 Zimmer in der Natur,"[['Erdgeschosswohnung', '•', 'Hannover', 'Bemerode']]",['Balkon'],"Miete zzgl. NK 512,48 €",Wohnfläche ca. 51 m²,Zi. 2,41,3
+24,selObject_44927778,Individuelle 3-Zimmer-Wohnung mit ausgebautem Dachgesc...,"[['Etagenwohnung', '•', 'Lüneburg', 'Rotes', 'Feld']]",['EBK'],Miete zzgl. NK 1.450 €,Wohnfläche ca. 124 m²,"Zi. 3,5",41,3
+25,selObject_44927734,"Beispiel: 2 Zimmer, rollstuhlgerecht","[['Apartment', '•', 'Hannover', 'Bemerode']]",['Balkon'],"Miete zzgl. NK 594,31 €",Wohnfläche ca. 60 m²,Zi. 2,41,3
+26,selObject_44927584,Neubau: 4 Zimmer im Grünen,"[['Wohnung', '•', 'Hannover', 'Bemerode']]",['Balkon'],"Miete zzgl. NK 1.097,43 €",Wohnfläche ca. 106 m²,Zi. 4,41,3

@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44196183,Das Bauhaus - Ein Klassiker - wiederbelebt von Sir...,"['Apartment', '•', 'Berlin', 'Mitte']",['EBK'],Preis Auf Anfrage,Wohnfläche ca. 301 m²,Zi. 5,19,11
-1,selObject_44195950,"WG-Zimmer für Studierende, Azubis & Praktikanten: All-...","['Apartment', '•', 'Berlin', 'Oberschöneweide']","['Garten', 'EBK']",Miete zzgl. NK 399 €,Wohnfläche ca. 15 m²,Zi. 1,19,11
-2,selObject_44195949,NEUES STUDENTENAPARTMENT NAHE HTW CAMPUS: Möblierte...,"['Apartment', '•', 'Berlin', 'Oberschöneweide']",['EBK'],Miete zzgl. NK 389 €,Wohnfläche ca. 12 m²,Zi. 1,19,11
-3,selObject_44189047,Schicker Alterswohnsitz - aktives Leben direkt am Ku'd...,"['Wohnung', '•', 'Berlin', 'Halensee']","['Balkon', 'EBK']",Miete zzgl. NK 1.457 €,Wohnfläche ca. 34 m²,Zi. 1,19,11
-4,selObject_44185444,Letzte Chance auf eine moderne Neubauwohnung! Modernes...,"['Etagenwohnung', '•', 'Berlin', 'Alt-Hohenschönhausen']",['Balkon'],Miete zzgl. NK 569 €,Wohnfläche ca. 35 m²,Zi. 1,19,11
-5,selObject_44171822,Großstadtflair in exzellenter Lage!,"['Apartment', '•', 'Berlin', 'Tiergarten']",['EBK'],Miete zzgl. NK 1.200 €,Wohnfläche ca. 67 m²,Zi. 2,19,11
-6,selObject_44169367,Möbliert und befristet - Loft in zentraler Lage,"['Loft-Studio-Atelier', '•', 'Berlin', 'Kreuzberg']",['EBK'],Miete zzgl. NK 4.241 €,Wohnfläche ca. 191 m²,Zi. 3,19,11
-7,selObject_44169250,Wunderschöne Dachgeschosswohnung in saniertem Altbau,"['Dachgeschosswohnung', '•', 'Berlin', 'Niederschönhausen']",[],"Miete zzgl. NK 1.434,58 €",Wohnfläche ca. 102 m²,Zi. 3,19,11
-8,selObject_44161908,Dein Zimmer im Studentenwohnheim der besonderen Art,"['Apartment', '•', 'Berlin', 'Lichterfelde']",['EBK'],Miete zzgl. NK 629 €,Wohnfläche ca. 25 m²,Zi. 1,19,11
-9,selObject_44141159,Möbliertes Apartment in Berlin - Furnished Apartment...,"['Apartment', '•', 'Berlin', 'Grunewald']","['Balkon', 'EBK']",Miete zzgl. NK 649 €,Wohnfläche ca. 33 m²,Zi. 1,19,11
-10,selObject_44137452,Wohnen der Extraklasse am Park im Beisheim-Center!,"['Apartment', '•', 'Berlin', 'Tiergarten']","['Balkon', 'EBK']",Miete zzgl. NK 4.940 €,Wohnfläche ca. 260 m²,Zi. 4,19,11
-11,selObject_44130579,Direkt am Wasser 4-Zimmer Penthouse mit zwei Balkonen...,"['Etagenwohnung', '•', 'Berlin', 'Moabit']","['Balkon', 'EBK']","Miete zzgl. NK 2.374,84 €",Wohnfläche ca. 111 m²,Zi. 4,19,11
-12,selObject_44129233,Dachgeschoß Neubau - Erstbezug - Toplage nahe Schönhau...,"['Dachgeschosswohnung', '•', 'Berlin', 'Prenzlauer', 'Berg']",['EBK'],Miete zzgl. NK 1.660 €,Wohnfläche ca. 71 m²,Zi. 2,19,11
-13,selObject_44101781,Exklusives Studio-Apartment mit Rundum-Service - nur 3...,"['Wohnung', '•', 'Berlin', 'Wilmersdorf']",['Balkon'],Miete zzgl. NK 1.000 €,Wohnfläche ca. 30 m²,Zi. 1,19,11
-14,selObject_44098435,Exklusives 2-Zimmer-Studio-Apartment mit Rundum-Servic...,"['Apartment', '•', 'Berlin', 'Wilmersdorf']",['Balkon'],Miete zzgl. NK 1.300 €,Wohnfläche ca. 47 m²,,19,11
-15,selObject_44084844,"Checkpoint Charly - Wohnen wie zu Hause - gemütlich,...","['Wohnung', '•', 'Berlin', 'Mitte']",['EBK'],Miete zzgl. NK 1.000 €,Wohnfläche ca. 60 m²,Zi. 2,19,11
-16,selObject_44042463,Moderner und ruhiger Altbau in der City-West! *Balkon*,"['Etagenwohnung', '•', 'Berlin', 'Charlottenburg']","['Balkon', 'EBK']",Miete zzgl. NK 2.200 €,Wohnfläche ca. 108 m²,Zi. 3,19,11
-17,selObject_44016141,Möblierte Zimmer - Gemeinschaftsbereiche - Early Bird,"['Apartment', '•', 'Berlin', 'Lichterfelde']",['EBK'],Miete zzgl. NK 639 €,Wohnfläche ca. 22 m²,Zi. 1,19,11
-18,selObject_44016122,Möblierte Zimmer - Gemeinschaftsbereiche - Early Bird...,"['Apartment', '•', 'Berlin', 'Lichterfelde']","['Balkon', 'EBK']",Miete zzgl. NK 649 €,Wohnfläche ca. 35 m²,Zi. 1,19,11
-19,selObject_44015943,Möbliertes Apartment in ruhiger zentraler Lage - Early...,"['Apartment', '•', 'Berlin', 'Grunewald']","['Balkon', 'EBK']",Miete zzgl. NK 669 €,Wohnfläche ca. 33 m²,Zi. 1,19,11
-20,selObject_44007260,Traumhaftes 1 Zi. Appartement in Westend,"['Wohnung', '•', 'Berlin', 'Charlottenburg']","['Balkon', 'EBK']",Miete zzgl. NK 866 €,Wohnfläche ca. 50 m²,Zi. 1,19,11
-21,selObject_44004856,"Erstbezug in Ku'Damm-Nähe: Penthouse im Neubau ""Mulber...","['Penthouse', '•', 'Berlin', 'Wilmersdorf']",['EBK'],"Miete zzgl. NK 1.999,75 €",Wohnfläche ca. 80 m²,Zi. 2,19,11
-22,selObject_44004589,5 Apartments (ca.320 qm) für Notunterkunft/Hotel/Hoste...,"['Apartment', '•', 'Berlin', 'Neukölln']",[],"Miete zzgl. NK 5.915,38 €",Wohnfläche ca. 320 m²,Zi. 10,19,11
-23,selObject_43930608,Exklusives Penthouse mit 200m² Dachgarten und Kamin!,"['Penthouse', '•', 'Berlin', 'Charlottenburg']",['EBK'],Miete zzgl. NK 4.069 €,Wohnfläche ca. 179 m²,Zi. 3,19,11
-24,selObject_43907382,All inclusive Miete - voll möbliert - komplett neu mit...,"['Apartment', '•', 'Berlin', 'Friedrichshain']","['Balkon', 'EBK']",Miete zzgl. NK 1.000 €,Wohnfläche ca. 28 m²,"Zi. 1,5",19,11
-25,selObject_43875818,Erstbezug ! Schöne 2 Zimmer-Wohnung in Berlin Steglitz,"['Dachgeschosswohnung', '•', 'Berlin', 'Steglitz']","['Balkon', 'EBK']",Miete zzgl. NK 1.300 €,Wohnfläche ca. 56 m²,Zi. 2,19,11
-26,selObject_43875417,Schöne 2 Zimmer Wohnung am Harminplatz,"['Etagenwohnung', '•', 'Berlin', 'Prenzlauer', 'Berg']",['EBK'],Miete zzgl. NK 900 €,Wohnfläche ca. 68 m²,,19,11
+0,selObject_44185444,Letzte Chance auf eine moderne Neubauwohnung! Modernes...,"[['Etagenwohnung', '•', 'Berlin', 'Alt-Hohenschönhausen']]",['Balkon'],Miete zzgl. NK 569 €,Wohnfläche ca. 35 m²,Zi. 1,19,11
+1,selObject_44171822,Großstadtflair in exzellenter Lage!,"[['Apartment', '•', 'Berlin', 'Tiergarten']]",['EBK'],Miete zzgl. NK 1.200 €,Wohnfläche ca. 67 m²,Zi. 2,19,11
+2,selObject_44169367,Möbliert und befristet - Loft in zentraler Lage,"[['Loft-Studio-Atelier', '•', 'Berlin', 'Kreuzberg']]",['EBK'],Miete zzgl. NK 4.241 €,Wohnfläche ca. 191 m²,Zi. 3,19,11
+3,selObject_44169250,Wunderschöne Dachgeschosswohnung in saniertem Altbau,"[['Dachgeschosswohnung', '•', 'Berlin', 'Niederschönhausen']]",[],"Miete zzgl. NK 1.434,58 €",Wohnfläche ca. 102 m²,Zi. 3,19,11
+4,selObject_44161908,Dein Zimmer im Studentenwohnheim der besonderen Art,"[['Apartment', '•', 'Berlin', 'Lichterfelde']]",['EBK'],Miete zzgl. NK 629 €,Wohnfläche ca. 25 m²,Zi. 1,19,11
+5,selObject_44141159,Möbliertes Apartment in Berlin - Furnished Apartment...,"[['Apartment', '•', 'Berlin', 'Grunewald']]","['Balkon', 'EBK']",Miete zzgl. NK 649 €,Wohnfläche ca. 33 m²,Zi. 1,19,11
+6,selObject_44137452,Wohnen der Extraklasse am Park im Beisheim-Center!,"[['Apartment', '•', 'Berlin', 'Tiergarten']]","['Balkon', 'EBK']",Miete zzgl. NK 4.940 €,Wohnfläche ca. 260 m²,Zi. 4,19,11
+7,selObject_44130579,Direkt am Wasser 4-Zimmer Penthouse mit zwei Balkonen...,"[['Etagenwohnung', '•', 'Berlin', 'Moabit']]","['Balkon', 'EBK']","Miete zzgl. NK 2.374,84 €",Wohnfläche ca. 111 m²,Zi. 4,19,11
+8,selObject_44129233,Dachgeschoß Neubau - Erstbezug - Toplage nahe Schönhau...,"[['Dachgeschosswohnung', '•', 'Berlin', 'Prenzlauer', 'Berg']]",['EBK'],Miete zzgl. NK 1.660 €,Wohnfläche ca. 71 m²,Zi. 2,19,11
+9,selObject_44101781,Exklusives Studio-Apartment mit Rundum-Service - nur 3...,"[['Wohnung', '•', 'Berlin', 'Wilmersdorf']]",['Balkon'],Miete zzgl. NK 1.000 €,Wohnfläche ca. 30 m²,Zi. 1,19,11
+10,selObject_44084844,"Checkpoint Charly - Wohnen wie zu Hause - gemütlich,...","[['Wohnung', '•', 'Berlin', 'Mitte']]",['EBK'],Miete zzgl. NK 1.000 €,Wohnfläche ca. 60 m²,Zi. 2,19,11
+11,selObject_44042463,Moderner und ruhiger Altbau in der City-West! *Balkon*,"[['Etagenwohnung', '•', 'Berlin', 'Charlottenburg']]","['Balkon', 'EBK']",Miete zzgl. NK 2.200 €,Wohnfläche ca. 108 m²,Zi. 3,19,11
+12,selObject_44016141,Möblierte Zimmer - Gemeinschaftsbereiche - Early Bird,"[['Apartment', '•', 'Berlin', 'Lichterfelde']]",['EBK'],Miete zzgl. NK 639 €,Wohnfläche ca. 22 m²,Zi. 1,19,11
+13,selObject_44016122,Möblierte Zimmer - Gemeinschaftsbereiche - Early Bird...,"[['Apartment', '•', 'Berlin', 'Lichterfelde']]","['Balkon', 'EBK']",Miete zzgl. NK 649 €,Wohnfläche ca. 35 m²,Zi. 1,19,11
+14,selObject_44015943,Möbliertes Apartment in ruhiger zentraler Lage - Early...,"[['Apartment', '•', 'Berlin', 'Grunewald']]","['Balkon', 'EBK']",Miete zzgl. NK 669 €,Wohnfläche ca. 33 m²,Zi. 1,19,11
+15,selObject_44007260,Traumhaftes Appartement in Westend,"[['Wohnung', '•', 'Berlin', 'Charlottenburg']]","['Balkon', 'EBK']",Miete zzgl. NK 866 €,Wohnfläche ca. 50 m²,Zi. 1,19,11
+16,selObject_44004856,"Erstbezug in Ku'Damm-Nähe: Penthouse im Neubau ""Mulber...","[['Penthouse', '•', 'Berlin', 'Wilmersdorf']]",['EBK'],"Miete zzgl. NK 1.999,75 €",Wohnfläche ca. 80 m²,Zi. 2,19,11
+17,selObject_44004589,5 Apartments (ca.320 qm) für Notunterkunft/Hotel/Hoste...,"[['Apartment', '•', 'Berlin', 'Neukölln']]",[],"Miete zzgl. NK 5.915,38 €",Wohnfläche ca. 320 m²,Zi. 10,19,11
+18,selObject_43930608,Exklusives Penthouse mit 200m² Dachgarten und Kamin!,"[['Penthouse', '•', 'Berlin', 'Charlottenburg']]",['EBK'],Miete zzgl. NK 4.069 €,Wohnfläche ca. 179 m²,Zi. 3,19,11
+19,selObject_43907382,All inclusive Miete - voll möbliert - komplett neu mit...,"[['Apartment', '•', 'Berlin', 'Friedrichshain']]","['Balkon', 'EBK']",Miete zzgl. NK 1.000 €,Wohnfläche ca. 28 m²,"Zi. 1,5",19,11
+20,selObject_43875818,Erstbezug ! Schöne 2 Zimmer-Wohnung in Berlin Steglitz,"[['Dachgeschosswohnung', '•', 'Berlin', 'Steglitz']]","['Balkon', 'EBK']",Miete zzgl. NK 1.300 €,Wohnfläche ca. 56 m²,Zi. 2,19,11
+21,selObject_43875417,Schöne 2 Zimmer Wohnung am Harminplatz,"[['Etagenwohnung', '•', 'Berlin', 'Prenzlauer', 'Berg']]",['EBK'],Miete zzgl. NK 900 €,Wohnfläche ca. 68 m²,,19,11
+22,selObject_43851605,Familienwohnung mit 360° Aufdachterrasse - Erstbezug!,"[['Apartment', '•', 'Berlin', 'Prenzlauer', 'Berg']]",[],"Miete zzgl. NK 3.000,42 €",Wohnfläche ca. 167 m²,Zi. 3,19,11
+23,selObject_43840071,3 Zimmer Luxus-Dachgeschosswohnung,"[['Wohnung', '•', 'Berlin', 'Lichterfelde']]",[],Miete zzgl. NK 1.720 €,Wohnfläche ca. 106 m²,Zi. 3,19,11
+24,selObject_43815883,"Studierende, Azubis & Praktikanten aufgepasst: möblier...","[['Apartment', '•', 'Berlin', 'Oberschöneweide']]","['Garten', 'EBK']",Miete zzgl. NK 399 €,Wohnfläche ca. 15 m²,Zi. 1,19,11
+25,selObject_43815871,"*ZUHAUSE FÜR STUDIERENDE* WG-Zimmer mit All-In-Miete,...","[['Apartment', '•', 'Berlin', 'Oberschöneweide']]","['Garten', 'EBK']",Miete zzgl. NK 419 €,Wohnfläche ca. 17 m²,Zi. 1,19,11
+26,selObject_43814031,Möblierter Traum im exklusiven Gleispark - Erstbezug!,"[['Apartment', '•', 'Berlin', 'Kreuzberg']]","['Balkon', 'EBK']",Miete zzgl. NK 1.735 €,Wohnfläche ca. 51 m²,Zi. 2,19,11

@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_43772279,RARITÄT: Teil-möbliertes Cityapartment Nähe Sendlinger...,"['Etagenwohnung', '•', 'München', 'Ludwigsvorstadt-Isarvorstadt']",['EBK'],Miete zzgl. NK 800 €,Wohnfläche ca. 27 m²,Zi. 1,191,9
-1,selObject_43771524,Schöne 3-Zimmer-Wohnung in Englschalking,"['Etagenwohnung', '•', 'München', 'Bogenhausen']",['Balkon'],"Miete zzgl. NK 1.509,60 €",Wohnfläche ca. 101 m²,Zi. 3,191,9
-2,selObject_43771133,Möbliertes Apartment in Forchheim,"['Erdgeschosswohnung', '•', 'Forchheim', 'Forchheim']",[],"Miete zzgl. NK 569,18 €",Wohnfläche ca. 34 m²,Zi. 1,191,9
-3,selObject_43771131,Möblierte Handwerkerwohnung,"['Erdgeschosswohnung', '•', 'Forchheim', 'Forchheim']",[],"Miete zzgl. NK 659,15 €",Wohnfläche ca. 40 m²,Zi. 1,191,9
-4,selObject_43771128,Möblierte Handwerkerwohnung,"['Erdgeschosswohnung', '•', 'Forchheim', 'Forchheim']",[],"Miete zzgl. NK 665,62 €",Wohnfläche ca. 40 m²,Zi. 1,191,9
-5,selObject_43771077,Möbliertes Apartment,"['Erdgeschosswohnung', '•', 'Forchheim', 'Forchheim']",[],"Miete zzgl. NK 934,22 €",Wohnfläche ca. 56 m²,Zi. 1,191,9
-6,selObject_43771074,Handwerkerwohnung in Forchheim,"['Erdgeschosswohnung', '•', 'Forchheim', 'Forchheim']",[],"Miete zzgl. NK 765,53 €",Wohnfläche ca. 46 m²,Zi. 1,191,9
-7,selObject_43770166,Schönes neu saniertes 1 Zimmerapartment in Fürth,"['Apartment', '•', 'Fürth', 'Innenstadt']",[],Miete zzgl. NK 360 €,Wohnfläche ca. 30 m²,Zi. 1,191,9
-8,selObject_43770061,4 Zimmerwohnung Ansbach mit Balkon,"['Wohnung', '•', 'Ansbach', 'Eyb']",[],Miete zzgl. NK 760 €,Wohnfläche ca. 108 m²,Zi. 4,191,9
-9,selObject_43769012,Möbliertes Handwerkerapartment,"['Erdgeschosswohnung', '•', 'Forchheim', 'Forchheim']",[],"Miete zzgl. NK 651,86 €",Wohnfläche ca. 39 m²,Zi. 1,191,9
-10,selObject_43768999,"schöne, helle Wohnung","['Wohnung', '•', 'Bayreuth', 'Laineck']",[],Miete zzgl. NK 430 €,Wohnfläche ca. 48 m²,Zi. 2,191,9
-11,selObject_43768983,Möblierte Handwerkerwohnung,"['Erdgeschosswohnung', '•', 'Forchheim', 'Forchheim']",[],"Miete zzgl. NK 538,10 €",Wohnfläche ca. 35 m²,Zi. 1,191,9
-12,selObject_43768981,Handwerkerapartment möbliert,"['Erdgeschosswohnung', '•', 'Forchheim', 'Forchheim']",[],"Miete zzgl. NK 581,61 €",Wohnfläche ca. 35 m²,Zi. 1,191,9
-13,selObject_43768967,Handwerkerwohnung,"['Erdgeschosswohnung', '•', 'Forchheim', 'Forchheim']",[],"Miete zzgl. NK 583,10 €",Wohnfläche ca. 35 m²,Zi. 1,191,9
-14,selObject_43768966,Möbliertes Apartment,"['Erdgeschosswohnung', '•', 'Forchheim', 'Forchheim']",[],"Miete zzgl. NK 580,78 €",Wohnfläche ca. 35 m²,Zi. 1,191,9
-15,selObject_43768956,Handwerkerapartment möbliert,"['Erdgeschosswohnung', '•', 'Forchheim', 'Forchheim']",[],"Miete zzgl. NK 579,64 €",Wohnfläche ca. 35 m²,Zi. 1,191,9
-16,selObject_43768955,Möbliertes Apartment,"['Erdgeschosswohnung', '•', 'Forchheim', 'Forchheim']",[],"Miete zzgl. NK 582,27 €",Wohnfläche ca. 35 m²,Zi. 1,191,9
-17,selObject_43768818,Erstbezug nach Komplettsanierung - Moderne Wohnung in...,"['Etagenwohnung', '•', 'Nürnberg', 'Steinbühl']",[],Miete zzgl. NK 750 €,Wohnfläche ca. 78 m²,Zi. 3,191,9
-18,selObject_43767837,Möbliertes Kleinapartment,"['Erdgeschosswohnung', '•', 'Forchheim', 'Forchheim']",[],"Miete zzgl. NK 582,44 €",Wohnfläche ca. 35 m²,Zi. 1,191,9
-19,selObject_43767831,Möbliertes Handwerkerapartment,"['Erdgeschosswohnung', '•', 'Forchheim', 'Forchheim']",[],"Miete zzgl. NK 580,94 €",Wohnfläche ca. 35 m²,Zi. 1,191,9
-20,selObject_43755501,Neubau - Erstbezug ! Helle Großzügige 3-Zimmer-Wohnung...,"['Wohnung', '•', 'Nürnberg', 'Veilhof']",['EBK'],Miete zzgl. NK 1.350 €,Wohnfläche ca. 85 m²,Zi. 3,191,9
-21,selObject_43748337,Erstbezug nach Sanierung- Mitten in der Altstadt von...,"['Etagenwohnung', '•', 'Dinkelsbühl', 'Dinkelsbühl']",['EBK'],Miete zzgl. NK 900 €,Wohnfläche ca. 110 m²,Zi. 2,191,9
-22,selObject_43747574,1 Zimmer in 3er Wohngemeinschaft in hochwertig saniert...,"['Wohnung', '•', 'München', 'Ludwigsvorstadt-Isarvorstadt']",['EBK'],Miete zzgl. NK 700 €,Wohnfläche ca. 18 m²,Zi. 1,191,9
-23,selObject_43747114,*Bezugsfrei* Modernes 1-Zimmer Apartment komplett möbl...,"['Wohnung', '•', 'Fürth', 'Innenstadt']",['EBK'],Miete zzgl. NK 530 €,Wohnfläche ca. 35 m²,Zi. 1,191,9
-24,selObject_43747049,Frisch renovierte 1-Zimmer-Wohnung in Nürnberg-Nähe...,"['Etagenwohnung', '•', 'Nürnberg', 'Sebald']",[],Miete zzgl. NK 410 €,Wohnfläche ca. 36 m²,Zi. 1,191,9
-25,selObject_43736269,Modernes 1-Zimmer-Apartment mit Terrasse,"['Wohnung', '•', 'München', 'Schwabing-Freimann']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.070 €,Wohnfläche ca. 36 m²,Zi. 1,191,9
-26,selObject_43732190,STUDENTEN/AZUBIS - helles 1 Zimmer Appartment möbliert...,"['Apartment', '•', 'Nürnberg', 'Glockenhof']","['Balkon', 'EBK']",Miete zzgl. NK 545 €,Wohnfläche ca. 36 m²,Zi. 1,191,9
+0,selObject_43842428,Zum Erstbezug: Gehobene 3-Zimmer-Wohnung mit Einbauküc...,"[['Wohnung', '•', 'Regensburg', 'Innenstadt']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.160 €,Wohnfläche ca. 75 m²,Zi. 3,191,9
+1,selObject_43840520,2-Zimmer-Wohnung mit Einbauküche und zwei Terrassen,"[['Erdgeschosswohnung', '•', 'Regensburg', 'Innenstadt']]","['Garten', 'EBK']",Miete zzgl. NK 1.020 €,Wohnfläche ca. 69 m²,Zi. 2,191,9
+2,selObject_43839576,"*Frisch saniert* helle und geräumige 2,5-Zimmer-Wohnun...","[['Apartment', '•', 'Nürnberg', 'Ziegelstein']]",[],"Miete zzgl. NK 694,08 €",Wohnfläche ca. 72 m²,"Zi. 2,5",191,9
+3,selObject_43839561,Geräumige 3 Zimmer Wohnung ab dem 01.05.2021 zu vermie...,"[['Etagenwohnung', '•', 'Erlangen', 'Stadtrandsiedlung']]",['Balkon'],"Miete zzgl. NK 768,60 €",Wohnfläche ca. 85 m²,Zi. 3,191,9
+4,selObject_43839557,Moderne 2- Zimmer Wohnung mit großer Dachterrasse,"[['Dachgeschosswohnung', '•', 'Leiblfing', 'Leiblfing']]",[],Miete zzgl. NK 640 €,Wohnfläche ca. 81 m²,Zi. 2,191,9
+5,selObject_43836837,Hatz & Team- Erstbezug! 2-er WG taugliche Wohnung im...,"[['Etagenwohnung', '•', 'Passau', 'Haidenhof-Nord']]",['EBK'],Miete zzgl. NK 795 €,Wohnfläche ca. 89 m²,Zi. 2,191,9
+6,selObject_43836130,Hier finden Sie Ihr neues Zuhause!,"[['Etagenwohnung', '•', 'Kronach', 'Kronach']]",['Balkon'],Miete zzgl. NK 575 €,Wohnfläche ca. 80 m²,Zi. 3,191,9
+7,selObject_43828557,1 Zimmer Studenten - Appartement Passau-Zentrum,"[['Etagenwohnung', '•', 'Passau', 'Haidenhof-Süd']]","['Balkon', 'EBK']",Miete zzgl. NK 280 €,Wohnfläche ca. 21 m²,Zi. 1,191,9
+8,selObject_43816832,Tip Top ** 4 Zimmer Wohnung ** 1stklassiger Gebäudesta...,"[['Etagenwohnung', '•', 'Kemnath', 'Kemnath']]",['Balkon'],Miete zzgl. NK 900 €,Wohnfläche ca. 114 m²,Zi. 4,191,9
+9,selObject_43816083,Individuelles Wohnen mitten in der City,"[['Etagenwohnung', '•', 'Ingolstadt', 'Ingolstadt']]",[],Miete zzgl. NK 828 €,Wohnfläche ca. 72 m²,Zi. 3,191,9
+10,selObject_43809978,Sie lieben es im Sommer kühl! 3-Zimmer-Wohnung mit...,"[['Souterrainwohnung', '•', 'Sennfeld']]",[],Miete zzgl. NK 1.026 €,Wohnfläche ca. 93 m²,Zi. 3,191,9
+11,selObject_43809454,"ELVIRA! Großhadern/ Hadern, ruhige Lage - Naturnah,...","[['Etagenwohnung', '•', 'München', 'Hadern']]","['Balkon', 'EBK']","Miete zzgl. NK 723,73 €",Wohnfläche ca. 40 m²,Zi. 1,191,9
+12,selObject_43809375,"ELVIRA! Großhadern/ Hadern, ruhige Lage - Naturnah,...","[['Etagenwohnung', '•', 'München', 'Hadern']]",['Balkon'],"Miete zzgl. NK 1.012,73 €",Wohnfläche ca. 58 m²,Zi. 2,191,9
+13,selObject_43804127,1-Zimmer-Apartment möbliert in der Altstadt,"[['Erdgeschosswohnung', '•', 'Neuburg', 'Neuburg']]",['EBK'],Miete zzgl. NK 439 €,Wohnfläche ca. 29 m²,Zi. 1,191,9
+14,selObject_43802663,Erstbezug: Schöne 3-Zimmer-Dachgeschoßwohnung zu vermi...,"[['Wohnung', '•', 'Ingolstadt', 'Ingolstadt']]",[],Miete zzgl. NK 890 €,Wohnfläche ca. 73 m²,Zi. 3,191,9
+15,selObject_43801129,Perfekte Wohnung in bester Lage,"[['Etagenwohnung', '•', 'Ainring', 'Mitterfelden']]",[],Miete zzgl. NK 680 €,Wohnfläche ca. 66 m²,Zi. 3,191,9
+16,selObject_43797412,"2,5-Zi. DG-Wohnung mit Ausblick für 2","[['Wohnung', '•', 'Kumhausen', 'Kumhausen']]","['Balkon', 'EBK']",Miete zzgl. NK 880 €,Wohnfläche ca. 95 m²,"Zi. 2,5",191,9
+17,selObject_43792854,Schickes Nest mit Wohlfühlgarantie,"[['Etagenwohnung', '•', 'Traunreut', 'Traunreut']]",[],Miete zzgl. NK 510 €,Wohnfläche ca. 54 m²,Zi. 2,191,9
+18,selObject_43792828,Besser wohnen muss nicht teuer sein,"[['Etagenwohnung', '•', 'Laufen', 'Laufen']]",['Balkon'],Miete zzgl. NK 520 €,Wohnfläche ca. 60 m²,Zi. 2,191,9
+19,selObject_43790337,Sonniges möbliertes Appartement in ruhiger zentraler...,"[['Apartment', '•', 'Nürnberg', 'Gostenhof']]",['EBK'],Miete zzgl. NK 520 €,Wohnfläche ca. 30 m²,Zi. 1,191,9
+20,selObject_43787374,DG generalsaniert mit 4 Zimmer und zwei Balkonen,"[['Dachgeschosswohnung', '•', 'Tapfheim', 'Tapfheim']]","['Balkon', 'Garten']",Miete zzgl. NK 800 €,Wohnfläche ca. 100 m²,Zi. 4,191,9
+21,selObject_43782515,Kulmbach von oben: Wohnen mit Panoramablick,"[['Etagenwohnung', '•', 'Kulmbach', 'Kulmbach']]",[],Miete zzgl. NK 750 €,Wohnfläche ca. 105 m²,Zi. 4,191,9
+22,selObject_43780809,3 Zimmer Wohnung in Zwiesel,"[['Dachgeschosswohnung', '•', 'Zwiesel', 'Zwiesel']]",['Balkon'],Miete zzgl. NK 370 €,Wohnfläche ca. 64 m²,Zi. 3,191,9
+23,selObject_43772279,RARITÄT: Teil-möbliertes Cityapartment Nähe Sendlinger...,"[['Etagenwohnung', '•', 'München', 'Ludwigsvorstadt-Isarvorstadt']]",['EBK'],Miete zzgl. NK 800 €,Wohnfläche ca. 27 m²,Zi. 1,191,9
+24,selObject_43771524,Schöne 3-Zimmer-Wohnung in Englschalking,"[['Etagenwohnung', '•', 'München', 'Bogenhausen']]",['Balkon'],"Miete zzgl. NK 1.509,60 €",Wohnfläche ca. 101 m²,Zi. 3,191,9
+25,selObject_43771133,Möbliertes Apartment in Forchheim,"[['Erdgeschosswohnung', '•', 'Forchheim', 'Forchheim']]",[],"Miete zzgl. NK 569,18 €",Wohnfläche ca. 34 m²,Zi. 1,191,9
+26,selObject_43771131,Möblierte Handwerkerwohnung,"[['Erdgeschosswohnung', '•', 'Forchheim', 'Forchheim']]",[],"Miete zzgl. NK 659,15 €",Wohnfläche ca. 40 m²,Zi. 1,191,9

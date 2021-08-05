@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44746276,Singles aufgepasst! Appartement in ruhiger Wohnlage...,"['Dachgeschosswohnung', '•', 'Herford', 'Innenstadt']",['Garten'],Miete zzgl. NK 179 €,Wohnfläche ca. 21 m²,Zi. 1,158,5
-1,selObject_44746275,Wohnen in Brackwede,"['Etagenwohnung', '•', 'Bielefeld', 'Brackwede']",['Balkon'],Miete zzgl. NK 439 €,Wohnfläche ca. 62 m²,"Zi. 3,5",158,5
-2,selObject_44746273,Ein neues Wannenbad wartet auf Sie,"['Dachgeschosswohnung', '•', 'Recklinghausen', 'König-Ludwig']",['Garten'],"Miete zzgl. NK 279,93 €",Wohnfläche ca. 67 m²,Zi. 3,158,5
-3,selObject_44746272,Perfekte Lage am Grüngürtel von Sennestadt,"['Etagenwohnung', '•', 'Bielefeld', 'Sennestadt']",['Balkon'],Miete zzgl. NK 469 €,Wohnfläche ca. 67 m²,Zi. 3,158,5
-4,selObject_44746270,*****Über den Dächern von Gelsenkirchen****,"['Etagenwohnung', '•', 'Gelsenkirchen', 'Bulmke-Hüllen']",['Balkon'],Miete zzgl. NK 239 €,Wohnfläche ca. 38 m²,Zi. 1,158,5
-5,selObject_44746269,Erdgeschoßwohnung mit neuem Badezimmer!!!!!,"['Erdgeschosswohnung', '•', 'Dortmund', 'Wickede']",['Balkon'],Miete zzgl. NK 429 €,Wohnfläche ca. 65 m²,Zi. 3,158,5
-6,selObject_44746262,Gemütliche 2-Zimmerwohnung für Sie renoviert.,"['Etagenwohnung', '•', 'Herne', 'Sodingen']",[],Miete zzgl. NK 329 €,Wohnfläche ca. 50 m²,"Zi. 2,5",158,5
-7,selObject_44746263,Familien aufgepasst! Große 3-Zimmer Wohnung mit Balkon,"['Etagenwohnung', '•', 'Mönchengladbach', 'Wickrath']","['Balkon', 'Garten']",Miete zzgl. NK 570 €,Wohnfläche ca. 80 m²,Zi. 3,158,5
-8,selObject_44746261,Sofort frei!,"['Etagenwohnung', '•', 'Mönchengladbach', 'Lürrip']",[],Miete zzgl. NK 369 €,Wohnfläche ca. 50 m²,Zi. 2,158,5
-9,selObject_44746260,Wohnen im Grünen,"['Erdgeschosswohnung', '•', 'Bielefeld', 'Baumheide']",['Balkon'],Miete zzgl. NK 369 €,Wohnfläche ca. 52 m²,"Zi. 2,5",158,5
-10,selObject_44746259,Wohnen im Grünen,"['Etagenwohnung', '•', 'Bielefeld', 'Baumheide']",['Balkon'],Miete zzgl. NK 529 €,Wohnfläche ca. 74 m²,"Zi. 3,5",158,5
-11,selObject_44746258,"Helle, großzügige Wohnung mit Balkon","['Etagenwohnung', '•', 'Bielefeld', 'Sennestadt']","['Balkon', 'Garten']","Miete zzgl. NK 451,50 €",Wohnfläche ca. 62 m²,Zi. 2,158,5
-12,selObject_44746255,Hier können Sie direkt einziehen!!!,"['Etagenwohnung', '•', 'Gelsenkirchen', 'Bulmke-Hüllen']",[],Miete zzgl. NK 329 €,Wohnfläche ca. 55 m²,Zi. 2,158,5
-13,selObject_44746254,Gemütliche Wohnung mit kleinem Garten,"['Erdgeschosswohnung', '•', 'Bielefeld', 'Sennestadt']","['Balkon', 'Garten']",Miete zzgl. NK 389 €,Wohnfläche ca. 53 m²,Zi. 2,158,5
-14,selObject_44746253,Perfekt für Singles,"['Erdgeschosswohnung', '•', 'Mönchengladbach', 'Hermges']",['Balkon'],"Miete zzgl. NK 169,73 €",Wohnfläche ca. 35 m²,Zi. 1,158,5
-15,selObject_44746251,behindertengerecht und frisch saniert - 1 Zimmerwohnun...,"['Erdgeschosswohnung', '•', 'Essen', 'Freisenbruch']",['Balkon'],"Miete zzgl. NK 222,74 €",Wohnfläche ca. 39 m²,Zi. 1,158,5
-16,selObject_44746249,"Alles was man braucht, Balkon, Badewanne und neuer...","['Etagenwohnung', '•', 'Marl', 'Drewer']",['Balkon'],Miete zzgl. NK 479 €,Wohnfläche ca. 74 m²,"Zi. 3,5",158,5
-17,selObject_44746234,Demnächst frei! 3-Zimmer-Wohnung in Essen Kray,"['Erdgeschosswohnung', '•', 'Essen', 'Kray']",['Balkon'],Miete zzgl. NK 401 €,Wohnfläche ca. 61 m²,"Zi. 3,5",158,5
-18,selObject_44746229,"Klein aber fein - Wohnen, wo das Herz schlägt.","['Erdgeschosswohnung', '•', 'Essen', 'Schonnebeck']",[],Miete zzgl. NK 260 €,Wohnfläche ca. 40 m²,"Zi. 2,5",158,5
-19,selObject_44746224,Im besten Alter eine Wohnung bei VIVAWEST - Wohnen ab...,"['Etagenwohnung', '•', 'Lünen', 'Brambauer']",['Balkon'],"Miete zzgl. NK 191,75 €",Wohnfläche ca. 44 m²,"Zi. 2,5",158,5
-20,selObject_44746113,Top gepflegte 2 ZKB Wohnung mit Südbalkon in ruhiger...,"['Etagenwohnung', '•', 'Essen', 'Frohnhausen']","['Balkon', 'EBK']",Miete zzgl. NK 460 €,Wohnfläche ca. 57 m²,Zi. 2,158,5
-21,selObject_44745887,"3,5 Raumwohnung in Gelsenkirchen - Feldmark mit Garten...","['Etagenwohnung', '•', 'Gelsenkirchen', 'Feldmark']",['Garten'],Miete zzgl. NK 460 €,Wohnfläche ca. 70 m²,Zi. 3,158,5
-22,selObject_44745855,2 Zimmerwohnung in Oberhausen Osterfeld mit Gartennutz...,"['Etagenwohnung', '•', 'Oberhausen', 'Borbeck']",['Garten'],Miete zzgl. NK 370 €,Wohnfläche ca. 55 m²,Zi. 2,158,5
-23,selObject_44745831,Möbliert Wohnen auf Zeit,"['Erdgeschosswohnung', '•', 'Bielefeld', 'Senne']",['Balkon'],Miete zzgl. NK 500 €,Wohnfläche ca. 53 m²,Zi. 2,158,5
-24,selObject_44744923,"Ruhige 3,5 Raumwohnung mit Gartennutzung in Essen-Froh...","['Etagenwohnung', '•', 'Essen', 'Frohnhausen']",['Garten'],Miete zzgl. NK 395 €,Wohnfläche ca. 56 m²,Zi. 3,158,5
-25,selObject_44744847,"Kleine, sehr ruhige Balkonwohnung","['Wohnung', '•', 'Solingen', 'Ohligs-Aufderhöhe']",['Balkon'],Miete zzgl. NK 350 €,Wohnfläche ca. 36 m²,"Zi. 1,5",158,5
-26,selObject_44744614,"Schöne helle, ruhige 1,5 Raum Wohnung in Essen-Innenst...","['Etagenwohnung', '•', 'Essen', 'Stadtkern']",[],Miete zzgl. NK 378 €,Wohnfläche ca. 31 m²,Zi. 1,158,5
+0,selObject_44771106,"**TOP**großzügige 2-Zimmer Wohnung, sehr gepflegt!","[['Dachgeschosswohnung', '•', 'Duisburg', 'Buchholz']]",['EBK'],Miete zzgl. NK 390 €,Wohnfläche ca. 60 m²,Zi. 2,158,5
+1,selObject_44770922,Mitten im Geschehen,"[['Dachgeschosswohnung', '•', 'Herne', 'Wanne']]",[],"Miete zzgl. NK 359,36 €",Wohnfläche ca. 67 m²,"Zi. 3,5",158,5
+2,selObject_44770701,Attraktive Wohnung mit Ausblick ins Grüne! - WBS ab 3...,"[['Etagenwohnung', '•', 'Kamen', 'Methler']]",['Balkon'],"Miete zzgl. NK 363,47 €",Wohnfläche ca. 70 m²,Zi. 3,158,5
+3,selObject_44770693,73m² große 3-Zimmer-Wohnung in Kamen-Methler zu vermie...,"[['Etagenwohnung', '•', 'Kamen', 'Methler']]",['Balkon'],Miete zzgl. NK 489 €,Wohnfläche ca. 73 m²,Zi. 3,158,5
+4,selObject_44770691,Gepflegte 2-Zimmer-Erdgeschosswohnung mit Balkon in...,"[['Erdgeschosswohnung', '•', 'Iserlohn', 'Hombruch']]","['Balkon', 'Garten']",Miete zzgl. NK 329 €,Wohnfläche ca. 59 m²,Zi. 2,158,5
+5,selObject_44770684,Renovierte 2 Zimmer im Grünen,"[['Etagenwohnung', '•', 'Remscheid', 'Lüttringhausen']]",['Balkon'],Miete zzgl. NK 339 €,Wohnfläche ca. 54 m²,Zi. 2,158,5
+6,selObject_44770683,* Für die kleine Familie! *,"[['Etagenwohnung', '•', 'Dortmund', 'Kirchlinde']]",[],Miete zzgl. NK 359 €,Wohnfläche ca. 52 m²,Zi. 3,158,5
+7,selObject_44770682,Ihr Neues Zuhause! Schöne 3-Zimmerwohnung mit Duschbad...,"[['Etagenwohnung', '•', 'Mönchengladbach', 'Geneicken']]",['Balkon'],Miete zzgl. NK 449 €,Wohnfläche ca. 67 m²,Zi. 3,158,5
+8,selObject_44770681,Hier steigt Ihnen keiner aufs Dach!,"[['Dachgeschosswohnung', '•', 'Bergkamen', 'Mitte']]",['Balkon'],"Miete zzgl. NK 162,49 €",Wohnfläche ca. 43 m²,"Zi. 2,5",158,5
+9,selObject_44770680,Schicke 2-Zimmer-Wohnung mit Tageslicht-Duschbad in...,"[['Erdgeschosswohnung', '•', 'Herne', 'Wanne']]",[],Miete zzgl. NK 369 €,Wohnfläche ca. 49 m²,Zi. 2,158,5
+10,selObject_44770676,Hier finden sIe Ihr neues Zuhause!,"[['Etagenwohnung', '•', 'Ratingen', 'West']]",['Balkon'],Miete zzgl. NK 689 €,Wohnfläche ca. 79 m²,"Zi. 3,5",158,5
+11,selObject_44770675,Hier steigt Ihnen keiner aufs Dach!,"[['Etagenwohnung', '•', 'Bergkamen', 'Weddinghofen']]",['Balkon'],Miete zzgl. NK 350 €,Wohnfläche ca. 58 m²,"Zi. 2,5",158,5
+12,selObject_44770672,Gemütliche 3-Zimmer Wohnung mit Balkon!,"[['Etagenwohnung', '•', 'Bergkamen', 'Oberaden']]",['Balkon'],Miete zzgl. NK 360 €,Wohnfläche ca. 54 m²,Zi. 3,158,5
+13,selObject_44770669,Familienwohnung! grosszüge 4-Zimmer-Wohnung über 2...,"[['Etagenwohnung', '•', 'Mönchengladbach', 'Odenkirchen']]",['Balkon'],"Miete zzgl. NK 498,67 €",Wohnfläche ca. 103 m²,Zi. 4,158,5
+14,selObject_44770668,Wohnen mit toller Aussicht!,"[['Etagenwohnung', '•', 'Gelsenkirchen', 'Hassel']]",['Balkon'],Miete zzgl. NK 389 €,Wohnfläche ca. 62 m²,Zi. 4,158,5
+15,selObject_44770667,Schöne 3-Zimmer-Wohnung,"[['Erdgeschosswohnung', '•', 'Mönchengladbach', 'Waldhausen']]","['Balkon', 'Garten']",Miete zzgl. NK 450 €,Wohnfläche ca. 62 m²,Zi. 3,158,5
+16,selObject_44770662,So schick mit neuem Bad - große 3-Zimmerwohnung in...,"[['Etagenwohnung', '•', 'Duisburg', 'Wanheimerort']]",['Balkon'],Miete zzgl. NK 539 €,Wohnfläche ca. 79 m²,Zi. 3,158,5
+17,selObject_44770661,*Großzügige 2-Zimmer Wohnung ab September zu vermieten...,"[['Etagenwohnung', '•', 'Castrop-Rauxel', 'Schwerin']]",['Balkon'],"Miete zzgl. NK 289,96 €",Wohnfläche ca. 61 m²,"Zi. 2,5",158,5
+18,selObject_44770543,Charmante 4-Zimmer-Wohnung * Erdgeschoss * Terrasse *...,"[['Erdgeschosswohnung', '•', 'Mönchengladbach', 'Lürrip']]",['Garten'],Miete zzgl. NK 1.600 €,Wohnfläche ca. 161 m²,Zi. 4,158,5
+19,selObject_44767882,Erstbezug zum 01.11.2021!,"[['Etagenwohnung', '•', 'Lübbecke', 'Lübbecke']]",['Balkon'],Miete zzgl. NK 850 €,Wohnfläche ca. 93 m²,Zi. 3,158,5
+20,selObject_44767860,"*ERSBEZUG N. SANIERUNG* Sonnenbalkon, Bad m. Dusche +...","[['Etagenwohnung', '•', 'Willich', 'Willich']]","['Balkon', 'Garten']",Miete zzgl. NK 774 €,Wohnfläche ca. 91 m²,Zi. 4,158,5
+21,selObject_44766571,LUXUS WOHNEN ZUM ECONOMY PREIS! 500€ Prämie und 3 Mona...,"[['Etagenwohnung', '•', 'Hagen', 'Vorhalle']]",['Balkon'],Miete zzgl. NK 569 €,Wohnfläche ca. 90 m²,Zi. 4,158,5
+22,selObject_44766461,LUXUS WOHNEN ZUM ECONOMY PREIS! 500€ Prämie und 3 Mona...,"[['Etagenwohnung', '•', 'Hagen', 'Vorhalle']]",['Balkon'],Miete zzgl. NK 469 €,Wohnfläche ca. 67 m²,Zi. 2,158,5
+23,selObject_44765747,LUXUS WOHNEN ZUM ECONOMY PREIS! 500€ Prämie und 3 Mona...,"[['Etagenwohnung', '•', 'Hagen', 'Vorhalle']]",['Balkon'],Miete zzgl. NK 519 €,Wohnfläche ca. 80 m²,Zi. 3,158,5
+24,selObject_44765702,LUXUS WOHNEN ZUM ECONOMY PREIS! 500€ Prämie und 3 Mona...,"[['Etagenwohnung', '•', 'Dortmund', 'Mitte']]",[],Miete zzgl. NK 689 €,Wohnfläche ca. 80 m²,Zi. 3,158,5
+25,selObject_44765464,Wohnung in Gütersloh,"[['Wohnung', '•', 'Gütersloh', 'Innenstadt']]",[],Miete zzgl. NK 550 €,Wohnfläche ca. 75 m²,Zi. 3,158,5
+26,selObject_44765411,Renov. 3-Zi. Whg. 2 Min. Fußweg vom Limbecker Platz /...,"[['Etagenwohnung', '•', 'Essen', 'Stadtkern']]",[],Miete zzgl. NK 550 €,Wohnfläche ca. 73 m²,Zi. 3,158,5

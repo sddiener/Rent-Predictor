@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44931529,"2 Zimmer-Wohnung, EG, Terasse.","['Wohnung', '•', 'Stadtbergen', 'Stadtbergen']",['EBK'],Miete zzgl. NK 550 €,Wohnfläche ca. 45 m²,Zi. 2,82,9
-1,selObject_44931518,"Saniertes Apartment mit Einbauküche, großer Terrasse...","['Souterrainwohnung', '•', 'Passau', 'Grubweg']",['EBK'],Miete zzgl. NK 590 €,Wohnfläche ca. 60 m²,Zi. 1,82,9
-2,selObject_44931511,5-Zi.-Mietwohnung in Pressig,"['Wohnung', '•', 'Pressig', 'Pressig']",[],Miete zzgl. NK 700 €,Wohnfläche ca. 120 m²,Zi. 5,82,9
-3,selObject_44929583,"Fürth Stadeln - Moderne 2,5 Zimmer Wohnung m. Balkon -...","['Wohnung', '•', 'Fürth', 'Stadeln']","['Balkon', 'EBK']",Miete zzgl. NK 690 €,Wohnfläche ca. 67 m²,"Zi. 2,5",82,9
-4,selObject_44929529,Modernisierte 2 Zimmer Wohnung mit 72qm mit Balkon,"['Wohnung', '•', 'Schweinfurt', 'Altstadt']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 650 €,Wohnfläche ca. 72 m²,Zi. 2,82,9
-5,selObject_44929527,Ruhiges Appartement in einer Villa im Grünen,"['Apartment', '•', 'Hof', 'Innenstadt']","['Balkon', 'EBK']",Miete zzgl. NK 265 €,Wohnfläche ca. 35 m²,Zi. 1,82,9
-6,selObject_44929492,3-Zimmer-Wohnung sucht Sie als Mieter,"['Wohnung', '•', 'München', 'Au-Haidhausen']",[],Miete zzgl. NK 1.700 €,Wohnfläche ca. 80 m²,Zi. 3,82,9
-7,selObject_44929480,"Schönes 1-Zi.-Apartment in einer Studentenanlage, in...","['Apartment', '•', 'Ingolstadt', 'Ingolstadt']","['Balkon', 'EBK']",Miete zzgl. NK 400 €,Wohnfläche ca. 22 m²,Zi. 1,82,9
-8,selObject_44929319,2-Raum-Wohnung in Stadtbergen zu vermieten,"['Wohnung', '•', 'Stadtbergen', 'Stadtbergen']","['Balkon', 'EBK']",Miete zzgl. NK 550 €,Wohnfläche ca. 44 m²,Zi. 2,82,9
-9,selObject_44929266,Attraktive 1-Zimmer-Wohnung,"['Wohnung', '•', 'Regensburg', 'Ostenviertel']",['EBK'],Miete zzgl. NK 350 €,Wohnfläche ca. 25 m²,Zi. 1,82,9
-10,selObject_44929224,Großzügige 3-Zi.-Wohnung mit Dachterrasse und Balkon...,"['Kein', 'Bild']","['Balkon', 'EBK']",Miete zzgl. NK 5.250 €,Wohnfläche ca. 161 m²,Zi. 3,82,9
-11,selObject_44929217,Zentral Leben in der Nürnberger Innenstadt (Altstadt)...,"['Etagenwohnung', '•', 'Nürnberg', 'Lorenz']",['EBK'],Miete zzgl. NK 735 €,Wohnfläche ca. 61 m²,Zi. 3,82,9
-12,selObject_44929214,Helle-Moderne Wohnung im Zentrum !!,"['Etagenwohnung', '•', 'Ingolstadt', 'Ingolstadt']",[],"Miete zzgl. NK 839,50 €",Wohnfläche ca. 73 m²,Zi. 3,82,9
-13,selObject_44929207,Wohntraum in der Altstadtmauer,"['Etagenwohnung', '•', 'Ingolstadt', 'Ingolstadt']",[],Miete zzgl. NK 690 €,Wohnfläche ca. 60 m²,Zi. 2,82,9
-14,selObject_44929022,gepflegte 2-Zimmerwohnung mit überdachtem Südbalkon...,"['Erdgeschosswohnung', '•', 'Zellingen', 'Zellingen']","['Balkon', 'Garten']","Miete zzgl. NK 619,90 €",Wohnfläche ca. 67 m²,Zi. 2,82,9
-15,selObject_44929014,Zwischen Dutzenteich und Wöhrder See: renovierte 2...,"['Wohnung', '•', 'Nürnberg', 'Gleißhammer']",['Balkon'],Miete zzgl. NK 530 €,Wohnfläche ca. 52 m²,Zi. 2,82,9
-16,selObject_44929012,Lauf a.d. Pegn. Erstbezug - Traumhaft ausgestatt. 3-Zi...,"['Erdgeschosswohnung', '•', 'Lauf', 'Kotzenhof']",['Garten'],Miete zzgl. NK 1.250 €,Wohnfläche ca. 107 m²,Zi. 3,82,9
-17,selObject_44928974,Erstbezug mit EBK: moderne und ansprechende 3-Zimmer-W...,"['Wohnung', '•', 'München', 'Allach-Untermenzing']","['Balkon', 'EBK']",Miete zzgl. NK 1.610 €,Wohnfläche ca. 88 m²,Zi. 3,82,9
-18,selObject_44928966,"1-Zimmer-Wohnung - komplett eingerichtet, mit Balkon,...","['Apartment', '•', 'Erlangen', 'Innenstadt']",['Balkon'],Miete zzgl. NK 400 €,Wohnfläche ca. 23 m²,Zi. 1,82,9
-19,selObject_44928897,++ Offene 1-Zimmer Etagenwohnung im Herzen Ingolstadts...,"['Wohnung', '•', 'Ingolstadt', 'Ingolstadt']",['EBK'],Miete zzgl. NK 480 €,Wohnfläche ca. 35 m²,Zi. 1,82,9
-20,selObject_44928796,3-Zi.-Wohnung in zentraler Lage in Wolnzach,"['Etagenwohnung', '•', 'Wolnzach', 'Wolnzach']","['Balkon', 'EBK']",Miete zzgl. NK 720 €,Wohnfläche ca. 78 m²,Zi. 3,82,9
-21,selObject_44928752,Erholung direkt vor der Türe - attraktive 2 ZKB Etage...,"['Wohnung', '•', 'Ingolstadt', 'Ingolstadt']","['Balkon', 'EBK']",Miete zzgl. NK 700 €,Wohnfläche ca. 56 m²,Zi. 2,82,9
-22,selObject_44928709,3 Zimmer-EG-Wohnung in Büchenbach mit Terrasse,"['Wohnung', '•', 'Büchenbach', 'Büchenbach']",[],Miete zzgl. NK 635 €,Wohnfläche ca. 85 m²,Zi. 3,82,9
-23,selObject_44928688,exclusive Studio-Wohnung in Oberndorf (Nähe Donauwörth...,"['Apartment', '•', 'Oberndorf', 'Oberndorf']","['Garten', 'EBK']",Miete zzgl. NK 470 €,Wohnfläche ca. 56 m²,Zi. 1,82,9
-24,selObject_44928573,Single Wohnung sucht einen neuen Mieter/in,"['Wohnung', '•', 'Erlangen', 'Anger']","['Balkon', 'EBK']",Miete zzgl. NK 650 €,Wohnfläche ca. 53 m²,Zi. 2,82,9
-25,selObject_44928224,3-Zi.-Mietwohnung in Aschaffenburg,"['Wohnung', '•', 'Fürth', 'Innenstadt']",['EBK'],Miete zzgl. NK 750 €,Wohnfläche ca. 85 m²,Zi. 3,82,9
-26,selObject_44928204,"* hübsche, möblierte Wohnung in der Jakobervorstadt","['Wohnung', '•', 'Augsburg', 'Innenstadt']","['Balkon', 'EBK']",Miete zzgl. NK 710 €,Wohnfläche ca. 45 m²,Zi. 2,82,9
+0,selObject_44956909,"Neuwertige 2,5Z-DG-Wohnung auf über 100qm Grundfläche...","[['Wohnung', '•', 'Taufkirchen', 'Moosen']]","['Garten', 'EBK']",Miete zzgl. NK 660 €,Wohnfläche ca. 66 m²,"Zi. 2,5",82,9
+1,selObject_44956897,Wohnen mit Ausblick! Modernisierte 4-Zimmer-Wohnung,"[['Dachgeschosswohnung', '•', 'Planegg', 'Planegg']]","['Balkon', 'EBK']",Miete zzgl. NK 1.630 €,Wohnfläche ca. 122 m²,Zi. 4,82,9
+2,selObject_44956892,Großzügige und ruhiges 1-Zimmer-Appartement im Nürnber...,"[['Apartment', '•', 'Nürnberg', 'Gibitzenhof']]",[],Miete zzgl. NK 460 €,Wohnfläche ca. 50 m²,Zi. 1,82,9
+3,selObject_44956891,Top sanierte 3-Zimmer Wohnung im beliebten Nürnberger...,"[['Wohnung', '•', 'Nürnberg', 'Rennweg']]",['Balkon'],Miete zzgl. NK 1.100 €,Wohnfläche ca. 104 m²,Zi. 3,82,9
+4,selObject_44956852,Nürnberg sanierte 3-Zimmer-Wohnung zu vermieten,"[['Apartment', '•', 'Nürnberg', 'Maxfeld']]","['Balkon', 'EBK']",Miete zzgl. NK 800 €,Wohnfläche ca. 70 m²,Zi. 3,82,9
+5,selObject_44956820,möbliertes 1-Zimmer-Apartment in München-Haidhausen,"[['Apartment', '•', 'München', 'Ramersdorf-Perlach']]","['Balkon', 'EBK']",Miete zzgl. NK 730 €,Wohnfläche ca. 25 m²,Zi. 1,82,9
+6,selObject_44956759,Hochwertig möblierte Wohnung an der Alten Mainbrücke...,"[['Wohnung', '•', 'Würzburg', 'Altstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 1.370 €,Wohnfläche ca. 45 m²,Zi. 2,82,9
+7,selObject_44956751,"Technologiepark Seefeld - helles, geräumiges Büro im...","[['Wohnung', '•', 'Seefeld', 'Drößling']]",[],Preis Auf Anfrage,Wohnfläche ca. 139 m²,Zi. 4,82,9
+8,selObject_44956327,"ENGEL & VÖLKERS - Großzügige, helle Wohnung mit Blick...","[['Etagenwohnung', '•', 'München', 'Ramersdorf-Perlach']]","['Balkon', 'EBK']",Miete zzgl. NK 1.275 €,Wohnfläche ca. 77 m²,"Zi. 2,5",82,9
+9,selObject_44956282,"Exkl. DG-Galerie-Whg- Nr. 23 mit Dachterrasse, Balkon...","[['Dachgeschosswohnung', '•', 'München', 'Trudering-Riem']]",['EBK'],Miete zzgl. NK 1.915 €,Wohnfläche ca. 95 m²,Zi. 3,82,9
+10,selObject_44956206,Neubau: Helle 3-Zimmer-OG-Whg Nr. 7 mit 2 Balkonen und...,"[['Etagenwohnung', '•', 'München', 'Trudering-Riem']]","['Balkon', 'EBK']",Miete zzgl. NK 1.795 €,Wohnfläche ca. 91 m²,Zi. 3,82,9
+11,selObject_44956205,Einmaliger Panoramablick: Exkl.Galerie-DG-Whg- Nr. 37:...,"[['Dachgeschosswohnung', '•', 'München', 'Trudering-Riem']]",['EBK'],Miete zzgl. NK 2.365 €,Wohnfläche ca. 126 m²,Zi. 4,82,9
+12,selObject_44956203,Galeriewohnung: 2-Zi.zzgl. Galerie-Whg- Nr. 22 mit...,"[['Dachgeschosswohnung', '•', 'München', 'Trudering-Riem']]",['EBK'],Miete zzgl. NK 1.495 €,Wohnfläche ca. 72 m²,Zi. 2,82,9
+13,selObject_44956117,Großzügige 1 Zimmer Wohnung komplett saniert!,"[['Etagenwohnung', '•', 'Nürnberg', 'Seeleinsbühl']]","['Balkon', 'EBK']",Miete zzgl. NK 460 €,Wohnfläche ca. 38 m²,Zi. 1,82,9
+14,selObject_44956074,Schöne 2 Zimmer Neubauwohnung mit Loggia in Lechhausen...,"[['Dachgeschosswohnung', '•', 'Augsburg', 'Lechhausen']]",['Balkon'],Miete zzgl. NK 795 €,Wohnfläche ca. 57 m²,Zi. 2,82,9
+15,selObject_44955833,4-Zimmer Whg. Altbau renoviert!,"[['Wohnung', '•', 'Roth', 'Roth']]",[],Miete zzgl. NK 600 €,Wohnfläche ca. 80 m²,Zi. 4,82,9
+16,selObject_44955809,Luxuswohnung in Nürnberg-Eibach,"[['Apartment', '•', 'Nürnberg', 'Eibach']]","['Balkon', 'EBK']",Miete zzgl. NK 1.050 €,Wohnfläche ca. 100 m²,Zi. 2,82,9
+17,selObject_44955796,"Schöne, möblierte 1-Zi.-Whg. in München-Bogenhausen zu...","[['Loft-Studio-Atelier', '•', 'München', 'Au-Haidhausen']]",['EBK'],Miete zzgl. NK 780 €,Wohnfläche ca. 26 m²,Zi. 1,82,9
+18,selObject_44955793,Gepflegte 1-Zimmer-Wohnung mit Balkon und EBK in Regen...,"[['Apartment', '•', 'Regensburg', 'Kumpfmühl-Ziegetsdorf-Neuprüll']]","['Balkon', 'EBK']",Miete zzgl. NK 418 €,Wohnfläche ca. 38 m²,Zi. 1,82,9
+19,selObject_44955764,Schöne 4 Zimmerwohnung sucht 3-er WG,"[['Etagenwohnung', '•', 'Regensburg', 'Westenviertel']]",['Balkon'],Miete zzgl. NK 1.320 €,Wohnfläche ca. 92 m²,Zi. 4,82,9
+20,selObject_44955758,Erstbezug nach Sanierung: Moderne 3 ZKB DG Wohnung mit...,"[['Dachgeschosswohnung', '•', 'Höhenkirchen-Siegertsbrunn', 'Siegertsbrunn']]",['EBK'],Miete zzgl. NK 1.410 €,Wohnfläche ca. 89 m²,Zi. 3,82,9
+21,selObject_44955681,Mehr München geht nicht.,"[['Wohnung', '•', 'München', 'Ludwigsvorstadt-Isarvorstadt']]",[],Miete zzgl. NK 1.150 €,Wohnfläche ca. 57 m²,Zi. 2,82,9
+22,selObject_44955640,Moderne 3-Zimmer-Wohnung in bester Rosenheimer Stadtla...,"[['Etagenwohnung', '•', 'Rosenheim', 'Ost']]",[],Miete zzgl. NK 1.350 €,Wohnfläche ca. 108 m²,Zi. 3,82,9
+23,selObject_44955614,5-Zimmer Dachgeschoss-Wohnung,"[['Wohnung', '•', 'Ismaning', 'Ismaning']]","['Garten', 'EBK']",Miete zzgl. NK 1.880 €,Wohnfläche ca. 117 m²,Zi. 5,82,9
+24,selObject_44955604,5-Zimmer Wohnung mit zwei Balkonen,"[['Wohnung', '•', 'Ismaning', 'Ismaning']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 2.050 €,Wohnfläche ca. 124 m²,Zi. 5,82,9
+25,selObject_44955591,4-Zimmer Maisonette-Wohnung mit Blick ins Grüne,"[['Maisonette', '•', 'Ingolstadt', 'Ingolstadt']]",['Balkon'],Miete zzgl. NK 1.000 €,Wohnfläche ca. 84 m²,Zi. 4,82,9
+26,selObject_44955589,3-Zimmer Wohnung mit Terrasse,"[['Wohnung', '•', 'Ismaning', 'Ismaning']]","['Garten', 'EBK']",Miete zzgl. NK 1.518 €,Wohnfläche ca. 77 m²,Zi. 3,82,9

@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_45015085,NEU Wohnung mit Aussicht!,"['Etagenwohnung', '•', 'Altenburg', 'Altenburg']","['NEU', 'NEU']",Miete zzgl. NK 345 €,Wohnfläche ca. 61 m²,Zi. 2,4,16
-1,selObject_45015072,NEU Wohnen im Zentrum Altenburg,"['Wohnung', '•', 'Altenburg', 'Altenburg']","['NEU', 'NEU']",Miete zzgl. NK 299 €,Wohnfläche ca. 53 m²,Zi. 2,4,16
-2,selObject_45015064,NEU Schloßblick aus sanierter Wohnung.,"['Dachgeschosswohnung', '•', 'Altenburg', 'Altenburg']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 639 €,Wohnfläche ca. 121 m²,Zi. 4,4,16
-3,selObject_45015059,NEU Wohnung mit Aussicht!,"['Etagenwohnung', '•', 'Altenburg', 'Altenburg']","['NEU', 'NEU']",Miete zzgl. NK 349 €,Wohnfläche ca. 63 m²,Zi. 2,4,16
-4,selObject_45015046,NEU Schöne Singlewohnung in Altenburg,"['Wohnung', '•', 'Altenburg', 'Altenburg']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 215 €,Wohnfläche ca. 35 m²,Zi. 1,4,16
-5,selObject_45015037,NEU Sanierte Wohnung mit Nähe zum Schlosspark,"['Wohnung', '•', 'Altenburg', 'Altenburg']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 279 €,Wohnfläche ca. 46 m²,Zi. 2,4,16
-6,selObject_45014718,NEU Familienplanung ? Hier sind Sie richtig !,"['Etagenwohnung', '•', 'Altenburg', 'Altenburg']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 439,61 €",Wohnfläche ca. 75 m²,Zi. 4,4,16
-7,selObject_45014682,NEU Sanierte Top-Wohnung,"['Etagenwohnung', '•', 'Altenburg', 'Altenburg']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 384 €,Wohnfläche ca. 59 m²,Zi. 3,4,16
-8,selObject_45014638,NEU Deine erste Wohnung? Jetzt anmelden!,"['Etagenwohnung', '•', 'Altenburg', 'Altenburg']","['NEU', 'NEU', 'EBK']","Miete zzgl. NK 299,98 €",Wohnfläche ca. 48 m²,Zi. 2,4,16
-9,selObject_45014637,"NEU Klein, aber oho ! Erstbezug nach Kernsanierung","['Wohnung', '•', 'Altenburg', 'Altenburg']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 240,65 €",Wohnfläche ca. 33 m²,Zi. 1,4,16
-10,selObject_45014495,NEU 4 Raum-Whg. mit Balkon & Wanne in Pforten. Mit Einbauk...,"['Etagenwohnung', '•', 'Gera', 'Pforten']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 520 €,Wohnfläche ca. 90 m²,Zi. 4,4,16
-11,selObject_45014487,NEU Mitten in der Stadt - direkt am Marktplatz!,"['Etagenwohnung', '•', 'Altenburg', 'Altenburg']","['NEU', 'NEU']",Miete zzgl. NK 655 €,Wohnfläche ca. 182 m²,Zi. 6,4,16
-12,selObject_45014391,NEU Tolle Familienwohnung in Gotha,"['Etagenwohnung', '•', 'Gotha', 'Gotha']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 410 €,Wohnfläche ca. 72 m²,Zi. 3,4,16
-13,selObject_45014207,"NEU Schicke 2 Zimmer Whg. mit Balkon, EBK und großem Miete...","['Wohnung', '•', 'Gera', 'Untermhaus']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 330 €,Wohnfläche ca. 54 m²,Zi. 2,4,16
-14,selObject_45014184,NEU ERFURT SÜD! Schöne 3 Zi.-Wohnung,"['Etagenwohnung', '•', 'Erfurt', 'Löbervorstadt']","['NEU', 'NEU']",Miete zzgl. NK 598 €,Wohnfläche ca. 75 m²,Zi. 3,4,16
-15,selObject_45014020,NEU 1-Zimmer-Wohnung mit Balkon,"['Etagenwohnung', '•', 'Bad', 'Blankenburg', 'Bad', 'Blankenburg']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 230 €,Wohnfläche ca. 34 m²,Zi. 1,4,16
-16,selObject_45013893,NEU Tolle 2 Zi.Whg. mit EBK - Zentrumsnah - NUll Kaution,"['Etagenwohnung', '•', 'Erfurt', 'Johannesvorstadt']","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 510 €,Wohnfläche ca. 57 m²,Zi. 2,4,16
-17,selObject_45013417,NEU 2-Zimmer-Wohnung mit Balkon,"['Wohnung', '•', 'Altenburg', 'Altenburg']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 283,77 €",Wohnfläche ca. 55 m²,Zi. 2,4,16
-18,selObject_45013416,"NEU 2,5-Zimmer-WE mit Balkon - Verfügbar ab September 2021","['Wohnung', '•', 'Altenburg', 'Altenburg']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 338,40 €",Wohnfläche ca. 69 m²,Zi. 3,4,16
-19,selObject_45013381,"NEU Großzügige 3-Zimmer-WE in Top-Lage, Hochwertige Aussta...","['Erdgeschosswohnung', '•', 'Altenburg', 'Altenburg']","['NEU', 'NEU']","Miete zzgl. NK 831,65 €",Wohnfläche ca. 115 m²,Zi. 3,4,16
-20,selObject_45013378,NEU 1-Raum-Wohnung mit Singleküche,"['Wohnung', '•', 'Altenburg', 'Altenburg']","['NEU', 'NEU', 'EBK']","Miete zzgl. NK 173,16 €",Wohnfläche ca. 33 m²,Zi. 1,4,16
-21,selObject_45013156,NEU 3- Raum Wohnung in Eisfeld ab sofort,"['Wohnung', '•', 'Eisfeld', 'Eisfeld']","['NEU', 'NEU']",Miete zzgl. NK 390 €,Wohnfläche ca. 65 m²,Zi. 3,4,16
-22,selObject_45013117,"NEU 1-Raum-Wohnung in Gotha, ruhig und stadtnah","['Wohnung', '•', 'Gotha', 'Gotha']","['NEU', 'NEU']",Miete zzgl. NK 220 €,Wohnfläche ca. 31 m²,Zi. 1,4,16
-23,selObject_45013094,NEU Schöne 2 - Raum - Wohnung in Erfurt,"['Wohnung', '•', 'Erfurt', 'Brühlervorstadt']","['NEU', 'NEU']",Miete zzgl. NK 409 €,Wohnfläche ca. 51 m²,Zi. 2,4,16
-24,selObject_45012986,NEU Erdgeschosswohnung gesucht? Frei ab sofort und Teilsan...,"['Erdgeschosswohnung', '•', 'Erfurt', 'Johannesvorstadt']","['NEU', 'NEU']",Miete zzgl. NK 406 €,Wohnfläche ca. 58 m²,Zi. 3,4,16
-25,selObject_45012948,NEU 2 Raumwohnung Nähe Fachhochschule,"['Wohnung', '•', 'Erfurt', 'Krämpfervorstadt']","['NEU', 'NEU']",Miete zzgl. NK 350 €,Wohnfläche ca. 56 m²,Zi. 2,4,16
-26,selObject_45012924,"NEU 2,5 Raumwohnung im Villenviertel von Bad Blankenburg...","['Dachgeschosswohnung', '•', 'Bad', 'Blankenburg', 'Bad', 'Blankenburg']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 430 €,Wohnfläche ca. 62 m²,"Zi. 2,5",4,16
+0,selObject_45042234,NEU 3-Zimmerwohnung,"[['Wohnung', '•', 'Zella-Mehlis']]","['NEU', 'NEU']",Miete zzgl. NK 360 €,Wohnfläche ca. 65 m²,Zi. 3,4,16
+1,selObject_45042114,NEU Familienfreundliche 100m2 Wohnung !,"[['Erdgeschosswohnung', '•', 'Eisenach', 'Eisenach']]","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 600 €,Wohnfläche ca. 100 m²,Zi. 3,4,16
+2,selObject_45041621,NEU 2-Zimmer-Wohnung mit Terrasse in Erfurt zur Miete,"[['Wohnung', '•', 'Erfurt', 'Erfurt-Altstadt']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 900 €,Wohnfläche ca. 56 m²,Zi. 2,4,16
+3,selObject_45041587,NEU Neubauwohnung mit Loggia - Nähe Uniklinikum,"[['Wohnung', '•', 'Jena', 'Drackendorf']]","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 1.140 €,Wohnfläche ca. 84 m²,"Zi. 2,5",4,16
+4,selObject_45041336,NEU Appartement mit Balkon im 2.OG in Gera - Debschwitz !,"[['Apartment', '•', 'Gera', 'Debschwitz']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 282 €,Wohnfläche ca. 47 m²,Zi. 2,4,16
+5,selObject_45041236,NEU Neubau Erstbezug,"[['Wohnung', '•', 'Erfurt', 'Melchendorf']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 890 €,Wohnfläche ca. 89 m²,Zi. 3,4,16
+6,selObject_45041234,NEU Großzügige Wohnung in der Innenstadt Nähe Markt!,"[['Wohnung', '•', 'Suhl', 'Suhl']]","['NEU', 'NEU']",Miete zzgl. NK 700 €,Wohnfläche ca. 135 m²,Zi. 4,4,16
+7,selObject_45041060,NEU Neubau im Zentrum mit Fahrstuhl und TOP Ausstattung,"[['Wohnung', '•', 'Jena', 'Zentrum']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 590 €,Wohnfläche ca. 46 m²,Zi. 2,4,16
+8,selObject_45041039,NEU Wohnung zu vermieten zum günstigen Mietpreis !,"[['Wohnung', '•', 'Gera', 'Untermhaus']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 360 €,Wohnfläche ca. 66 m²,Zi. 3,4,16
+9,selObject_45041017,NEU Wohnen mit Balkon in Gotha-Siebleben,"[['Wohnung', '•', 'Gotha', 'Siebleben']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 375 €,Wohnfläche ca. 69 m²,Zi. 3,4,16
+10,selObject_45041009,NEU frisch sanierte - 3 Zimmerwohung - 78m2,"[['Dachgeschosswohnung', '•', 'Eisenach', 'Eisenach']]","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 499 €,Wohnfläche ca. 78 m²,Zi. 3,4,16
+11,selObject_45040981,NEU Neu modernisierte 2-Zimmer-Wohnung in ruhiger Stadtlag...,"[['Etagenwohnung', '•', 'Rudolstadt', 'Zentrum']]","['NEU', 'NEU']","Miete zzgl. NK 356,40 €",Wohnfläche ca. 54 m²,Zi. 2,4,16
+12,selObject_45040936,"NEU Traumhafte 3+2 Zi.-Wohnung in Stadtvilla mit Balkon,...","[['Wohnung', '•', 'Saalfeld', 'Saalfeld']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 805 €,Wohnfläche ca. 115 m²,Zi. 3,4,16
+13,selObject_45040888,"NEU Helle 3-Raum-Wohnung mit Balkon, zentrale ruhige Lage","[['Wohnung', '•', 'Bad', 'Liebenstein', 'Bad', 'Liebenstein']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 440 €,Wohnfläche ca. 72 m²,Zi. 3,4,16
+14,selObject_45040831,NEU 3- Raumwohnung in Judenbach,"[['Erdgeschosswohnung', '•', 'Judenbach', 'Judenbach']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 320 €,Wohnfläche ca. 65 m²,Zi. 3,4,16
+15,selObject_45040650,"NEU Moderne lichtdurchflutete 1-Z.-Whg, inkl. EBK, ab 01.0...","[['Etagenwohnung', '•', 'Erfurt', 'Löbervorstadt']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 320 €,Wohnfläche ca. 30 m²,Zi. 1,4,16
+16,selObject_45040623,NEU Teilmöblierte 2-Zimmer-Wohnung im Dachgeschoss!,"[['Dachgeschosswohnung', '•', 'Mühlhausen', 'Mühlhausen']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 370 €,Wohnfläche ca. 65 m²,Zi. 2,4,16
+17,selObject_45039661,NEU Familienfreundliches Wohnen nähe Zoopark!,"[['Etagenwohnung', '•', 'Erfurt', 'Roter', 'Berg']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 360,94 €",Wohnfläche ca. 44 m²,Zi. 2,4,16
+18,selObject_45039450,NEU Wir renovieren Ihre 4-RW mit Balkon bis Anfang August!...,"[['Etagenwohnung', '•', 'Jena', 'Lobeda']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 549 €,Wohnfläche ca. 73 m²,Zi. 4,4,16
+19,selObject_45039156,NEU Wohnung im 1. OG,"[['Wohnung', '•', 'Bad', 'Langensalza', 'Bad', 'Langensalza']]","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 500 €,Wohnfläche ca. 75 m²,Zi. 3,4,16
+20,selObject_45038988,NEU Ruhige 2-Zimmerwohnung mit Balkon,"[['Etagenwohnung', '•', 'Sondershausen', 'Sondershausen']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 380 €,Wohnfläche ca. 62 m²,Zi. 2,4,16
+21,selObject_45038596,NEU 2 Raum Wohnung mit Balkon in der Magdeburger Allee,"[['Wohnung', '•', 'Erfurt', 'Andreasvorstadt']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 315 €,Wohnfläche ca. 42 m²,Zi. 2,4,16
+22,selObject_45038519,NEU *frisch renoviert* 3 Raum Wohnung mit Designbelag /...,"[['Wohnung', '•', 'Erfurt', 'Daberstedt']]","['NEU', 'NEU']",Miete zzgl. NK 550 €,Wohnfläche ca. 69 m²,Zi. 3,4,16
+23,selObject_45037993,NEU Wohnung mit Balkon im 1. Stock,"[['Wohnung', '•', 'Jena', 'Löbstedt']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 750 €,Wohnfläche ca. 61 m²,Zi. 3,4,16
+24,selObject_45037978,NEU *Studentenwohnung* 2 Raum Wohnung mit EBK / Laminat /...,"[['Wohnung', '•', 'Erfurt', 'Johannesvorstadt']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 350 €,Wohnfläche ca. 39 m²,Zi. 2,4,16
+25,selObject_45037904,NEU 3-Zimmer-Wohnung in der Gothaer Innenstadt,"[['Wohnung', '•', 'Gotha', 'Gotha']]","['NEU', 'NEU']",Miete zzgl. NK 440 €,Wohnfläche ca. 73 m²,Zi. 3,4,16
+26,selObject_45037734,NEU Charmante Maisonette-Wohnung mit zwei Balkonen + Wartb...,"[['Maisonette', '•', 'Eisenach', 'Eisenach']]","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 890 €,Wohnfläche ca. 120 m²,Zi. 3,4,16

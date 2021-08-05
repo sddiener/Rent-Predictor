@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44756203,"Algermissen - Frisch renovierte, 5-Zi Maisonette-Wohnu...","['Maisonette', '•', 'Algermissen', 'Bledeln']","['Garten', 'EBK']",Miete zzgl. NK 980 €,Wohnfläche ca. 160 m²,"Zi. 5,5",64,3
-1,selObject_44755076,4-Zimmer-Wohnung in Stade-Bützfleth,"['Erdgeschosswohnung', '•', 'Stade', 'Bützfleth']","['Garten', 'EBK']",Miete zzgl. NK 1.100 €,Wohnfläche ca. 162 m²,Zi. 4,64,3
-2,selObject_44754312,Die etwas andere Dachgeschosswohnung,"['Dachgeschosswohnung', '•', 'Bergen', 'Bergen']",['EBK'],Miete zzgl. NK 420 €,Wohnfläche ca. 68 m²,Zi. 3,64,3
-3,selObject_44753421,Renovierte 2-Zimmer-Wohnung mit Balkon,"['Etagenwohnung', '•', 'Delmenhorst', 'Dwoberg/Ströhen']",['Balkon'],"Miete zzgl. NK 385,43 €",Wohnfläche ca. 51 m²,Zi. 2,64,3
-4,selObject_44751827,"*Isernhagen-NB* Neubau, 90 m² große 3,5-Zi.-Whg. mit...","['Etagenwohnung', '•', 'Isernhagen', 'Isernhagen', 'N.B.']","['Balkon', 'EBK']",Miete zzgl. NK 1.305 €,Wohnfläche ca. 90 m²,"Zi. 3,5",64,3
-5,selObject_44751763,"*Isernhagen-NB* Neubau, 2,5-Zi.-Whg. im 1. OG mit EBK...","['Etagenwohnung', '•', 'Isernhagen', 'Isernhagen', 'N.B.']","['Balkon', 'EBK']","Miete zzgl. NK 1.029,50 €",Wohnfläche ca. 71 m²,"Zi. 2,5",64,3
-6,selObject_44751689,"*Isernhagen-NB* Neubau, 2,5-Zi.-EG-Wohnung mit EBK,...","['Erdgeschosswohnung', '•', 'Isernhagen', 'Isernhagen', 'N.B.']",['EBK'],Miete zzgl. NK 1.100 €,Wohnfläche ca. 76 m²,"Zi. 2,5",64,3
-7,selObject_44751686,"*Isernhagen-NB* Neubau, 3,5-Zi.-EG-Wohnung mit EBK,...","['Erdgeschosswohnung', '•', 'Isernhagen', 'Isernhagen', 'N.B.']",['EBK'],"Miete zzgl. NK 1.319,50 €",Wohnfläche ca. 91 m²,"Zi. 3,5",64,3
-8,selObject_44751609,"*Isernhagen-NB* Neubau, Penthousewohnung mit EBK und 2...","['Penthouse', '•', 'Isernhagen', 'Isernhagen', 'N.B.']",['EBK'],"Miete zzgl. NK 1.928,50 €",Wohnfläche ca. 133 m²,"Zi. 3,5",64,3
-9,selObject_44750271,3-Zimmer-Wohnung mit Terrasse und Wintergarten,"['Wohnung', '•', 'Beckdorf', 'Beckdorf']","['Garten', 'EBK']",Miete zzgl. NK 892 €,Wohnfläche ca. 105 m²,Zi. 3,64,3
-10,selObject_44750172,Wir vermieten gerne an Studenten; WG Zimmer in einer...,"['Etagenwohnung', '•', 'Oldenburg', 'Eversten']","['Garten', 'EBK']",Miete inkl. NK 400 €,Wohnfläche ca. 15 m²,Zi. 1,64,3
-11,selObject_44747966,Gut geschnittene helle 3-Zimmer Wohnung,"['Etagenwohnung', '•', 'Delmenhorst', 'Mitte']",[],Miete zzgl. NK 460 €,Wohnfläche ca. 73 m²,Zi. 3,64,3
-12,selObject_44747930,"3-ZKB, 77 qm, gemütliche EG-Wohnung in DEL-Bungerhof","['Erdgeschosswohnung', '•', 'Delmenhorst', 'Bungerhof']","['Garten', 'EBK']",Miete zzgl. NK 535 €,Wohnfläche ca. 77 m²,Zi. 3,64,3
-13,selObject_44746729,"Renovierte 3 Zimmer Wohnung mit Balkon, Eduard Mörike...","['Wohnung', '•', 'Emden', 'Barenburg']","['Balkon', 'EBK']",Miete zzgl. NK 429 €,Wohnfläche ca. 69 m²,Zi. 3,64,3
-14,selObject_44746303,Renovierte 2 Zimmer Wohnung mit Balkon,"['Etagenwohnung', '•', 'Laatzen', 'Laatzen-Mitte']",['Balkon'],Miete zzgl. NK 380 €,Wohnfläche ca. 58 m²,Zi. 2,64,3
-15,selObject_44746300,Renovierte 2 Zimmer Wohnung mit Balkon,"['Etagenwohnung', '•', 'Laatzen', 'Laatzen-Mitte']",['Balkon'],Miete zzgl. NK 326 €,Wohnfläche ca. 49 m²,Zi. 2,64,3
-16,selObject_44746274,Bezugsfertig,"['Etagenwohnung', '•', 'Braunschweig', 'Weststadt']",['Balkon'],Miete zzgl. NK 496 €,Wohnfläche ca. 77 m²,Zi. 3,64,3
-17,selObject_44746266,Erstbezug nach Modernisierung,"['Etagenwohnung', '•', 'Braunschweig', 'Weststadt']",['Balkon'],Miete zzgl. NK 455 €,Wohnfläche ca. 71 m²,Zi. 3,64,3
-18,selObject_44746264,Erstbezug nach Modernisierung,"['Etagenwohnung', '•', 'Braunschweig', 'Weststadt']",['Balkon'],Miete zzgl. NK 455 €,Wohnfläche ca. 71 m²,Zi. 3,64,3
-19,selObject_44745565,Renovierte 3 Zi-Erdgeschoss-Wohnung in Gifhorn - Nähe-...,"['Erdgeschosswohnung', '•', 'Gifhorn', 'Gifhorn']",['Balkon'],Miete zzgl. NK 750 €,Wohnfläche ca. 70 m²,Zi. 3,64,3
-20,selObject_44745081,2-Zimmer-Penthousewohnung im Neubau,"['Dachgeschosswohnung', '•', 'Soltau', 'Soltau']",['EBK'],Miete zzgl. NK 760 €,Wohnfläche ca. 75 m²,Zi. 2,64,3
-21,selObject_44744707,Altersgerechte 2-Zimmer-Wohnung in Oker,"['Wohnung', '•', 'Goslar', 'Oker']",[],"Miete zzgl. NK 334,60 €",Wohnfläche ca. 50 m²,Zi. 2,64,3
-22,selObject_44743275,Ideal für Singles und Studenten,"['Erdgeschosswohnung', '•', 'Salzgitter', 'Bad']",[],Miete zzgl. NK 216 €,Wohnfläche ca. 41 m²,Zi. 2,64,3
-23,selObject_44742673,Oldenburg: Schöne 2-Zimmer-Dachgeschosswohnung. in...,"['Dachgeschosswohnung', '•', 'Oldenburg', 'Donnerschwee']",['Balkon'],Miete zzgl. NK 650 €,Wohnfläche ca. 66 m²,Zi. 2,64,3
-24,selObject_44742393,Geschmackvoll ausgestattete Erdgeschosswohnung im Fach...,"['Erdgeschosswohnung', '•', 'Hanstedt', 'Hanstedt']",['EBK'],Miete zzgl. NK 960 €,Wohnfläche ca. 78 m²,Zi. 2,64,3
-25,selObject_44742358,*** Modernes Wohnen - Zentraler geht es nicht ***,"['Erdgeschosswohnung', '•', 'Saterland', 'Ramsloh']","['Garten', 'EBK']",Miete zzgl. NK 700 €,Wohnfläche ca. 77 m²,Zi. 2,64,3
-26,selObject_44741660,Hochwertige Wohnung im EG im Zentrum von Ostrhauderfeh...,"['Erdgeschosswohnung', '•', 'Ostrhauderfehn', 'Ostrhauderfehn']",[],Miete zzgl. NK 600 €,Wohnfläche ca. 78 m²,Zi. 3,64,3
+0,selObject_44789630,"Helle, renovierte Dachgeschoss Wohnung in einem 2 Fami...","[['Dachgeschosswohnung', '•', 'Steinkirchen']]",['EBK'],Miete zzgl. NK 540 €,Wohnfläche ca. 74 m²,Zi. 3,64,3
+1,selObject_44788891,Nordenham 1-Raum-Wohnung im 1.OG,"[['Wohnung', '•', 'Nordenham', 'Nordenham']]","['Garten', 'EBK']",Miete zzgl. NK 210 €,Wohnfläche ca. 30 m²,Zi. 1,64,3
+2,selObject_44788768,Neubau/Erstbezug - Wohntraum mit Loggia - www.wulmsto...,"[['Etagenwohnung', '•', 'Neu', 'Wulmstorf', 'Neu', 'Wulmstorf']]",['EBK'],Miete zzgl. NK 750 €,Wohnfläche ca. 63 m²,Zi. 2,64,3
+3,selObject_44788707,Erstbezug - Anspruchsvolles Wohnen in begehrter Lage...,"[['Erdgeschosswohnung', '•', 'Neu', 'Wulmstorf', 'Neu', 'Wulmstorf']]",['EBK'],Miete zzgl. NK 990 €,Wohnfläche ca. 86 m²,Zi. 3,64,3
+4,selObject_44788706,Neubau - modern und barrierefrei Wohnen in Neu Wulmsto...,"[['Etagenwohnung', '•', 'Neu', 'Wulmstorf', 'Neu', 'Wulmstorf']]",['EBK'],Miete zzgl. NK 780 €,Wohnfläche ca. 63 m²,Zi. 2,64,3
+5,selObject_44788705,"Erstbezug/Neubau - Hochwertig ausgestattete Wohnung,...","[['Erdgeschosswohnung', '•', 'Neu', 'Wulmstorf', 'Neu', 'Wulmstorf']]",['EBK'],Miete zzgl. NK 995 €,Wohnfläche ca. 86 m²,Zi. 3,64,3
+6,selObject_44788704,ERSTBEZUG - Wohnglück auf 2 Zimmern mit Terrasse -...,"[['Erdgeschosswohnung', '•', 'Neu', 'Wulmstorf', 'Neu', 'Wulmstorf']]",['EBK'],Miete zzgl. NK 765 €,Wohnfläche ca. 64 m²,Zi. 2,64,3
+7,selObject_44788612,2-Zimmer-Maisonettewohnung mit schönem Ausblick,"[['Dachgeschosswohnung', '•', 'Lüneburg', 'Oedeme']]",['EBK'],Miete zzgl. NK 680 €,Wohnfläche ca. 72 m²,Zi. 2,64,3
+8,selObject_44788013,Helle 2-Zimmer Wohnung mit Balkon,"[['Wohnung', '•', 'Delmenhorst', 'Mitte']]","['Balkon', 'EBK']",Miete zzgl. NK 510 €,Wohnfläche ca. 61 m²,Zi. 2,64,3
+9,selObject_44787540,Nachmieter zum 01.09.2021 gesucht - schöne Etagenwohnu...,"[['Etagenwohnung', '•', 'Wolfsburg', 'Vorsfelde']]","['Balkon', 'EBK']",Miete zzgl. NK 440 €,Wohnfläche ca. 62 m²,Zi. 2,64,3
+10,selObject_44787168,Großzügig geschnittene 3-Zimmerwohnung mit Terrasse,"[['Erdgeschosswohnung', '•', 'Göttingen', 'Weende']]","['Garten', 'EBK']",Miete zzgl. NK 726 €,Wohnfläche ca. 79 m²,Zi. 3,64,3
+11,selObject_44786455,Gemütliche 3-Zimmer-Wohnung zu vermieten!,"[['Wohnung', '•', 'Braunschweig', 'Braunschweig']]","['Garten', 'EBK']",Miete zzgl. NK 700 €,Wohnfläche ca. 75 m²,Zi. 3,64,3
+12,selObject_44786285,Neubau! Erstbezug! 2 ZKB Dachgeschosswohnung mit Dacht...,"[['Dachgeschosswohnung', '•', 'Westerstede', 'Westerstede']]",['Balkon'],Miete zzgl. NK 695 €,Wohnfläche ca. 69 m²,Zi. 2,64,3
+13,selObject_44785931,Hier sind Sie ganz oben!,"[['Etagenwohnung', '•', 'Drochtersen', 'Drochtersen']]",['Balkon'],Miete zzgl. NK 430 €,Wohnfläche ca. 72 m²,Zi. 3,64,3
+14,selObject_44785879,"schöne 2 Zimmerwohnung in guter Lage von Vechta,","[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Vechta', 'Vechta']]",['Balkon'],Miete zzgl. NK 510 €,Wohnfläche ca. 63 m²,Zi. 2,64,3
+15,selObject_44785563,Kleines aber feines Apartment mit Balkon!,"[['Apartment', '•', 'Stadtoldendorf']]",['Balkon'],Miete zzgl. NK 200 €,Wohnfläche ca. 31 m²,Zi. 1,64,3
+16,selObject_44785510,"Schöne 2 ZKB Wohnung, im Erdgeschoss in Menslage, Im...","[['Wohnung', '•', 'Menslage', 'Menslage']]",[],Miete zzgl. NK 550 €,Wohnfläche ca. 76 m²,Zi. 2,64,3
+17,selObject_44785508,"4 Zimmerwohnung im Erdgeschoss mit Garten in Menslage,...","[['Etagenwohnung', '•', 'Menslage', 'Menslage']]",[],Miete zzgl. NK 680 €,Wohnfläche ca. 109 m²,Zi. 4,64,3
+18,selObject_44785215,"schicke 2-Zimmerwohnung in Osnabrück/Haste, Wilhelm-vo...","[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Osnabrück', 'Haste']]",['Balkon'],Miete zzgl. NK 600 €,Wohnfläche ca. 67 m²,Zi. 2,64,3
+19,selObject_44785164,Frisch für Sie renoviert! Kurzfristiger Bezug wäre...,"[['Etagenwohnung', '•', 'Wilhelmshaven', 'Fedderwardergroden']]",['Garten'],Miete zzgl. NK 380 €,Wohnfläche ca. 60 m²,Zi. 3,64,3
+20,selObject_44785132,"2,5 Zimmer-Dachgeschoss -Wohnung in Stadtnähe","[['Wohnung', '•', 'Soltau', 'Soltau']]",['EBK'],Miete zzgl. NK 410 €,Wohnfläche ca. 68 m²,"Zi. 2,5",64,3
+21,selObject_44785079,"3 Zimmer-Wohnung in Essen/Oldenburg, Erdgeschoss, Lang...","[['Etagenwohnung', '•', 'Essen', 'Essen']]",['Balkon'],Miete zzgl. NK 640 €,Wohnfläche ca. 84 m²,Zi. 3,64,3
+22,selObject_44784894,"*Calenberger Str.* renovierte, helle 2,5-Zi.-DG-Wohnun...","[['Dachgeschosswohnung', '•', 'Hannover', 'Calenberger', 'Neustadt']]",['EBK'],Miete zzgl. NK 700 €,Wohnfläche ca. 70 m²,"Zi. 2,5",64,3
+23,selObject_44784740,Einziehen und sich wohlfühlen in einer ruhigen Sackgas...,"[['Dachgeschosswohnung', '•', 'Wilhelmshaven', 'Fedderwardergroden']]",[],"Miete zzgl. NK 307,40 €",Wohnfläche ca. 49 m²,Zi. 2,64,3
+24,selObject_44784726,Modernisierte 4-Zimmer-Wohnung !,"[['Etagenwohnung', '•', 'Zeven', 'Zeven']]",['EBK'],Miete zzgl. NK 635 €,Wohnfläche ca. 81 m²,Zi. 4,64,3
+25,selObject_44784357,Große 3-Zimmer Wohnung mit Balkon!,"[['Etagenwohnung', '•', 'Hannover', 'Wettbergen']]",['Balkon'],"Miete zzgl. NK 639,65 €",Wohnfläche ca. 92 m²,Zi. 3,64,3
+26,selObject_44783861,Ruhige Wohnung nahe der Weser,"[['Erdgeschosswohnung', '•', 'Bodenfelde', 'Wahmbeck']]",['EBK'],Miete zzgl. NK 325 €,Wohnfläche ca. 65 m²,Zi. 3,64,3

@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44928613,"""Mitten im Dorf"" 3 Zimmer auf dem Hövelmarkt","['Kein', 'Bild']",[],Miete zzgl. NK 680 €,Wohnfläche ca. 85 m²,Zi. 3,88,5
-1,selObject_44928577,Perfekte Aufteilung auf 84 m² und 3 Zimmer. Hier ist...,"['Kein', 'Bild']",[],Miete zzgl. NK 360 €,Wohnfläche ca. 84 m²,Zi. 3,88,5
-2,selObject_44928566,Erstklassige Wohnung in zentraler und ruhiger Lage,"['Wohnung', '•', 'Datteln', 'Datteln']",[],Miete zzgl. NK 652 €,Wohnfläche ca. 87 m²,Zi. 3,88,5
-3,selObject_44928556,"Seniorengerechte und barrierefreie 2 Zimmerwohnung,...","['Erdgeschosswohnung', '•', 'Sankt', 'Augustin', 'Mülldorf']",['Garten'],Miete zzgl. NK 900 €,Wohnfläche ca. 79 m²,Zi. 2,88,5
-4,selObject_44928233,LUXUS WOHNEN ZUM ECONOMY PREIS! 500€ Prämie und 3 Mona...,"['Etagenwohnung', '•', 'Wuppertal', 'Vohwinkel']",['Balkon'],Miete zzgl. NK 429 €,Wohnfläche ca. 42 m²,Zi. 2,88,5
-5,selObject_44928225,Wohnfühloase mitten in Friedrichstadt!,"['Etagenwohnung', '•', 'Düsseldorf', 'Friedrichstadt']","['Balkon', 'EBK']",Miete zzgl. NK 945 €,Wohnfläche ca. 67 m²,Zi. 2,88,5
-6,selObject_44928136,LUXUS WOHNEN ZUM ECONOMY PREIS! 500€ Prämie und 3 Mona...,"['Etagenwohnung', '•', 'Wuppertal', 'Vohwinkel']",['Balkon'],Miete zzgl. NK 779 €,Wohnfläche ca. 91 m²,Zi. 4,88,5
-7,selObject_44928119,"Helle, geräumige und zentral gelegene 3 Zimmer-Wohnung...","['Wohnung', '•', 'Düsseldorf', 'Pempelfort']",['Balkon'],Miete zzgl. NK 1.030 €,Wohnfläche ca. 103 m²,Zi. 3,88,5
-8,selObject_44928094,LUXUS WOHNEN ZUM ECONOMY PREIS! 500€ Prämie und 3 Mona...,"['Etagenwohnung', '•', 'Wuppertal', 'Vohwinkel']",['Balkon'],Miete zzgl. NK 709 €,Wohnfläche ca. 83 m²,Zi. 4,88,5
-9,selObject_44928080,LUXUS WOHNEN ZUM ECONOMY PREIS! 500€ Prämie und 3 Mona...,"['Etagenwohnung', '•', 'Wuppertal', 'Vohwinkel']",['Balkon'],Miete zzgl. NK 719 €,Wohnfläche ca. 84 m²,Zi. 4,88,5
-10,selObject_44928027,"freundlich, helle Dachgeschosswohnung","['Dachgeschosswohnung', '•', 'Recklinghausen', 'Süd']",['EBK'],Miete zzgl. NK 430 €,Wohnfläche ca. 62 m²,Zi. 2,88,5
-11,selObject_44928002,1-Zimmer-Wohnung mit Gartenmitbenutzung in Mönchenglad...,"['Kein', 'Bild']",['Garten'],Miete zzgl. NK 330 €,Wohnfläche ca. 45 m²,Zi. 1,88,5
-12,selObject_44927993,Exklusives Penthouse im Wohnquartier le flair blanc...,"['Penthouse', '•', 'Düsseldorf', 'Pempelfort']",['EBK'],Miete zzgl. NK 3.750 €,Wohnfläche ca. 167 m²,Zi. 4,88,5
-13,selObject_44927944,Exklusive Garten-Maisonette-Wohnung mit Einbauküche in...,"['Wohnung', '•', 'Düsseldorf', 'Pempelfort']","['Garten', 'EBK']",Miete zzgl. NK 5.300 €,Wohnfläche ca. 306 m²,Zi. 4,88,5
-14,selObject_44927874,Renovierte 2-Zimmer-Wohnung mit Balkon,"['Etagenwohnung', '•', 'Wuppertal', 'Barmen']",['Balkon'],Miete zzgl. NK 367 €,Wohnfläche ca. 61 m²,Zi. 2,88,5
-15,selObject_44927702,4-Zimmer-Wohnung mit Balkon und Wannenbad,"['Apartment', '•', 'Essen', 'Vogelheim']",['Balkon'],Miete zzgl. NK 884 €,Wohnfläche ca. 104 m²,Zi. 4,88,5
-16,selObject_44927695,exklusive 1 Zimmer-Wohnung mit Einbauküche im Herzen...,"['Apartment', '•', 'Mönchengladbach', 'Rheydt']",['EBK'],Miete zzgl. NK 400 €,Wohnfläche ca. 40 m²,Zi. 1,88,5
-17,selObject_44927677,"Aachen-Eilendorf, ruhige Lage","['Etagenwohnung', '•', 'Aachen', 'Eilendorf']","['Balkon', 'EBK']",Miete zzgl. NK 595 €,Wohnfläche ca. 72 m²,Zi. 2,88,5
-18,selObject_44927668,Loftähnliche 2-Zimmerneubauwohnung mit Guter Ausstattu...,"['Etagenwohnung', '•', 'Engelskirchen', 'Engelskirchen-Hardt']",['EBK'],Miete zzgl. NK 850 €,Wohnfläche ca. 110 m²,Zi. 2,88,5
-19,selObject_44927590,*** Modernisierte 3-Zi-Altbauwohnung mit Balkon! EBK...,"['Wohnung', '•', 'Essen', 'Holsterhausen']",['Balkon'],Miete zzgl. NK 849 €,Wohnfläche ca. 95 m²,Zi. 3,88,5
-20,selObject_44927476,1-Zimmer-Wohnung in Mülheim-Saarn,"['Etagenwohnung', '•', 'Mülheim', 'Saarn/Mintard']",[],"Miete zzgl. NK 327,52 €",Wohnfläche ca. 42 m²,Zi. 1,88,5
-21,selObject_44927405,Aufwendig modernisierte Etagenwohnung mit Tiefgaragens...,"['Etagenwohnung', '•', 'Dortmund', 'Körne']",['Balkon'],Miete zzgl. NK 940 €,Wohnfläche ca. 104 m²,"Zi. 3,5",88,5
-22,selObject_44927355,**3-Raum-Wohnung mit Einbauküche und Balkon im Neheime...,"['Dachgeschosswohnung', '•', 'Arnsberg', 'Neheim-Hüsten']",['EBK'],Miete zzgl. NK 720 €,Wohnfläche ca. 93 m²,Zi. 3,88,5
-23,selObject_44927345,Zentrale Altbauwohnung im 2. OG mit Balkon,"['Wohnung', '•', 'Kamen', 'Kamen-Mitte']",['Balkon'],Miete zzgl. NK 650 €,Wohnfläche ca. 100 m²,Zi. 4,88,5
-24,selObject_44927344,"Nähe Fürstenplatz: ruhige, helle 2-Zi KDB mit Balkon...","['Wohnung', '•', 'Düsseldorf', 'Friedrichstadt']","['Balkon', 'EBK']","Miete zzgl. NK 563,56 €",Wohnfläche ca. 50 m²,Zi. 2,88,5
-25,selObject_44927213,3-Zimmer-Wohnung in Mülheim-Broich,"['Etagenwohnung', '•', 'Mülheim', 'Broich']",[],"Miete zzgl. NK 594,58 €",Wohnfläche ca. 85 m²,Zi. 3,88,5
-26,selObject_44927161,"Witten-Stadtmitte , helle 3 -Zimmer-Wohnung sucht Sie...","['Wohnung', '•', 'Witten', 'Mitte']",[],Miete zzgl. NK 377 €,Wohnfläche ca. 58 m²,Zi. 3,88,5
+0,selObject_44956886,"Möblierte 2,5 Zimmer-Wohnung im Herzen von Golzheim!","[['Etagenwohnung', '•', 'Düsseldorf', 'Golzheim']]","['Balkon', 'EBK']",Miete zzgl. NK 1.500 €,Wohnfläche ca. 85 m²,"Zi. 2,5",88,5
+1,selObject_44956875,"Modernisierte helle 3,5-Zimmer DG-Wohnung, EBK und...","[['Wohnung', '•', 'Wuppertal', 'Barmen']]",['EBK'],Miete zzgl. NK 590 €,Wohnfläche ca. 95 m²,"Zi. 3,5",88,5
+2,selObject_44956861,Gemütliche Single-Wohnung in bester Lage! Komplett...,"[['Wohnung', '•', 'Essen', 'Rüttenscheid']]",[],Miete zzgl. NK 472 €,Wohnfläche ca. 45 m²,Zi. 2,88,5
+3,selObject_44956733,"Komplett renovierte Etagenwohnung für Altbauliebhaber,...","[['Etagenwohnung', '•', 'Lüdenscheid', 'Lüdenscheid']]",[],Miete zzgl. NK 750 €,Wohnfläche ca. 95 m²,Zi. 3,88,5
+4,selObject_44956732,"moderne 2,5-Zimmerwohnung mit kleiner Dachterrasse in...","[['Dachgeschosswohnung', '•', 'Köln', 'Mülheim']]",['EBK'],"Miete zzgl. NK 907,50 €",Wohnfläche ca. 66 m²,"Zi. 2,5",88,5
+5,selObject_44956582,Zuhause in unmittelbarer Rheinnähe- 2 Zimmerwohnung in...,"[['Erdgeschosswohnung', '•', 'Bonn', 'Plittersdorf']]",['Garten'],Miete zzgl. NK 1.300 €,Wohnfläche ca. 100 m²,Zi. 2,88,5
+6,selObject_44956313,2 Z. Wohnung in Glärbach-Wohnanlage m. Balkon (Nr.16-2...,"[['Etagenwohnung', '•', 'Balve', 'Balve']]",['Balkon'],Miete zzgl. NK 335 €,Wohnfläche ca. 63 m²,Zi. 2,88,5
+7,selObject_44956286,"Exklusive Neubauwohnung in Haben-Berchum, TOP-Wohnlage","[['Erdgeschosswohnung', '•', 'Hagen', 'Berchum']]",[],Miete zzgl. NK 707 €,Wohnfläche ca. 67 m²,Zi. 2,88,5
+8,selObject_44956250,"Exklusive Neubauwohnung in Haben-Berchum, TOP-Wohnlage","[['Kein', 'Bild'], ['Erdgeschosswohnung', '•', 'Hagen', 'Berchum']]",[],Miete zzgl. NK 598 €,Wohnfläche ca. 57 m²,Zi. 2,88,5
+9,selObject_44955814,Schöne Terrassenwohnung für die Familie,"[['Erdgeschosswohnung', '•', 'Hagen', 'Berchum']]",[],Miete zzgl. NK 540 €,Wohnfläche ca. 90 m²,Zi. 4,88,5
+10,selObject_44955789,"***helle, gut geschnittene 3,5-Raum-Wohnung mit 2 Balk...","[['Wohnung', '•', 'Kerpen', 'Kerpen']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 590 €,Wohnfläche ca. 84 m²,"Zi. 3,5",88,5
+11,selObject_44955693,Moers Stadtmitte - Schöne Mietwohnung im Erdgeschoss...,"[['Erdgeschosswohnung', '•', 'Moers', 'Moers-Mitte']]",['Garten'],Miete zzgl. NK 690 €,Wohnfläche ca. 68 m²,Zi. 2,88,5
+12,selObject_44955636,"""Exklusive, großzügige Zweizimmerwohnung mit großem...","[['Etagenwohnung', '•', 'Moers', 'Moers-Mitte']]","['Balkon', 'EBK']",Miete zzgl. NK 850 €,Wohnfläche ca. 89 m²,Zi. 2,88,5
+13,selObject_44955564,Wohnung in Hamm,"[['Etagenwohnung', '•', 'Hamm', 'Werries']]",[],Miete zzgl. NK 337 €,Wohnfläche ca. 60 m²,Zi. 2,88,5
+14,selObject_44955527,"18 m², 1-Zimmer-Wohnung, Anfragen bitte mit Kurzprofil","[['Apartment', '•', 'Aachen', 'Aachen']]",['EBK'],Miete zzgl. NK 180 €,Wohnfläche ca. 18 m²,Zi. 1,88,5
+15,selObject_44955512,Möblierte Mietwohnung in außergewöhnlichen Lage,"[['Erdgeschosswohnung', '•', 'Olsberg', 'Bigge']]",[],Miete zzgl. NK 320 €,Wohnfläche ca. 45 m²,Zi. 3,88,5
+16,selObject_44955428,Wohnen mit Altstadt- Flair,"[['Wohnung', '•', 'Dinslaken', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 890 €,Wohnfläche ca. 86 m²,"Zi. 3,5",88,5
+17,selObject_44955413,Lichtdurchflutete Dachgeschoss-Wohnung auf 83qm,"[['Dachgeschosswohnung', '•', 'Gelsenkirchen', 'Altstadt']]",[],"Miete zzgl. NK 459,69 €",Wohnfläche ca. 84 m²,"Zi. 3,5",88,5
+18,selObject_44955321,4-Familienhaus + 1. Etage + teilweise Parkett + ruhige...,"[['Wohnung', '•', 'Essen', 'Kettwig']]",[],Miete zzgl. NK 650 €,Wohnfläche ca. 80 m²,"Zi. 3,5",88,5
+19,selObject_44955309,Schöne 2-Zi. Wohnung im 1.OG mit Balkon,"[['Etagenwohnung', '•', 'Grevenbroich', 'Elsen']]",['Balkon'],Miete zzgl. NK 445 €,Wohnfläche ca. 57 m²,Zi. 2,88,5
+20,selObject_44955274,4-Zimmer-Wohnung in Mülheim-Winkhausen,"[['Etagenwohnung', '•', 'Mülheim', 'Mitte-Ost']]",['Garten'],"Miete zzgl. NK 457,03 €",Wohnfläche ca. 66 m²,Zi. 4,88,5
+21,selObject_44955231,"3 Zimmerwohnung im Zentrum von Würselen, ruhige Lage","[['Wohnung', '•', 'Würselen', 'Würselen']]",['Garten'],Miete zzgl. NK 420 €,Wohnfläche ca. 58 m²,Zi. 3,88,5
+22,selObject_44955214,"Helle, freundliche 2- Raum - Wohnung mit offenem Koch-...","[['Etagenwohnung', '•', 'Wuppertal', 'Barmen']]",['EBK'],Miete zzgl. NK 315 €,Wohnfläche ca. 42 m²,Zi. 2,88,5
+23,selObject_44955205,Helle großzügige Stadtwohnung in Holsterhausen,"[['Etagenwohnung', '•', 'Essen', 'Holsterhausen']]",[],Miete zzgl. NK 800 €,Wohnfläche ca. 84 m²,Zi. 3,88,5
+24,selObject_44955140,"2 Zi-Apartement in Greven Nord-West an alleinstehende,...","[['Apartment', '•', 'Greven', 'Greven']]","['Garten', 'EBK']",Miete zzgl. NK 320 €,Wohnfläche ca. 32 m²,Zi. 2,88,5
+25,selObject_44955133,Erstbezug nach Kernsanierung - Moderne Ergeschosswohnu...,"[['Erdgeschosswohnung', '•', 'Viersen', 'Süchteln']]",[],Miete zzgl. NK 1.035 €,Wohnfläche ca. 115 m²,Zi. 4,88,5
+26,selObject_44955085,Iserlohn-Oestrich: Gepflegte 2-Zimmer-Wohnung mit Balk...,"[['Dachgeschosswohnung', '•', 'Iserlohn', 'Grürmannsheide']]",['Balkon'],Miete zzgl. NK 325 €,Wohnfläche ca. 65 m²,Zi. 2,88,5

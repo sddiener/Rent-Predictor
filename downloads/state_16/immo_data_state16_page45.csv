@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44719933,Hübsche 2-Raum-Wohnung mit Balkon,"['Wohnung', '•', 'Schmölln', 'Bohra']","['Balkon', 'Garten']",Miete zzgl. NK 260 €,Wohnfläche ca. 51 m²,Zi. 2,45,16
-1,selObject_44711719,Sonnige Hochparterrewohnug mit großem Wohnzimmer!,"['Erdgeschosswohnung', '•', 'Eisenach', 'Eisenach']",['Garten'],Miete zzgl. NK 375 €,Wohnfläche ca. 58 m²,Zi. 2,45,16
-2,selObject_44711473,"2-Zimmer-Wohnung mit Terasse in Innenstadt, Weimar","['Kein', 'Bild']",[],Miete zzgl. NK 600 €,Wohnfläche ca. 72 m²,Zi. 2,45,16
-3,selObject_44710382,exquisite 3 Raum Wohnung - Erstbezug nach hochwertiger...,"['Erdgeschosswohnung', '•', 'Erfurt', 'Löbervorstadt']","['Garten', 'EBK']","Miete zzgl. NK 1.511,72 €",Wohnfläche ca. 108 m²,Zi. 3,45,16
-4,selObject_44710265,Ideal für Senioren! 1-Raum Wohnung mit Balkon *Barrier...,"['Wohnung', '•', 'Hermsdorf']",['Balkon'],Miete zzgl. NK 260 €,Wohnfläche ca. 36 m²,Zi. 1,45,16
-5,selObject_44709758,Attraktive Wohnungen in Arnstadt - ERSTBEZUG !,"['Wohnung', '•', 'Arnstadt', 'Arnstadt']",[],"Miete zzgl. NK 512,26 €",Wohnfläche ca. 56 m²,Zi. 2,45,16
-6,selObject_44709752,Ihre schicke 4 Raum Wohnung mit Aufzug ERSTBEZUG,"['Wohnung', '•', 'Arnstadt', 'Arnstadt']",[],"Miete zzgl. NK 982,70 €",Wohnfläche ca. 112 m²,Zi. 4,45,16
-7,selObject_44709748,4-Zimmer-Etagen-Wohnung mit Balkon in Arnstadt Südwest,"['Etagenwohnung', '•', 'Arnstadt', 'Arnstadt']","['Balkon', 'Garten']",Miete zzgl. NK 725 €,Wohnfläche ca. 139 m²,Zi. 4,45,16
-8,selObject_44709715,Rendezvous mit der Sonne!!! JETZT anmieten! 3- Zimmer...,"['Wohnung', '•', 'Hermsdorf']",['Balkon'],Miete zzgl. NK 300 €,Wohnfläche ca. 59 m²,Zi. 3,45,16
-9,selObject_44709668,Apartment möbl. mit EBK zentrale Lage in Stadtvilla,"['Apartment', '•', 'Weimar', 'Westvorstadt']","['Garten', 'EBK']",Miete zzgl. NK 320 €,Wohnfläche ca. 32 m²,Zi. 1,45,16
-10,selObject_44709656,2-Zimmer-Wohnung mit Terrasse und Carport in Erfurt-Ur...,"['Wohnung', '•', 'Erfurt', 'Urbich']",[],Miete zzgl. NK 420 €,Wohnfläche ca. 50 m²,,45,16
-11,selObject_44709337,Höchster Standard für den anspruchsvollen Mieter.........,"['Wohnung', '•', 'Apolda', 'Apolda']",[],Miete zzgl. NK 1.310 €,Wohnfläche ca. 119 m²,Zi. 2,45,16
-12,selObject_44707881,Hochwertige 2-Raum-Wohnung im Rudolstädter Zentrum,"['Erdgeschosswohnung', '•', 'Rudolstadt', 'Zentrum']",[],Miete zzgl. NK 593 €,Wohnfläche ca. 83 m²,Zi. 2,45,16
-13,selObject_44707690,2-Raumwohnung Andreasvorstadt,"['Erdgeschosswohnung', '•', 'Erfurt', 'Andreasvorstadt']",['Garten'],"Miete zzgl. NK 368,71 €",Wohnfläche ca. 53 m²,Zi. 2,45,16
-14,selObject_44707306,kleine 3 Zimmer-DG-Wohnung in der Frankenstraße,"['Dachgeschosswohnung', '•', 'Nordhausen', 'Nordhausen']",['Garten'],Miete zzgl. NK 330 €,Wohnfläche ca. 55 m²,Zi. 3,45,16
-15,selObject_44707249,3-Raum Wohnung mit Einbauküche wartet auf neuen Mieter...,"['Wohnung', '•', 'Hermsdorf']","['Balkon', 'EBK']",Miete zzgl. NK 330 €,Wohnfläche ca. 59 m²,Zi. 3,45,16
-16,selObject_44707243,Ideal für Senioren! 1-Raum Wohnung mit Balkon *barrier...,"['Wohnung', '•', 'Hermsdorf']",['Balkon'],Miete zzgl. NK 260 €,Wohnfläche ca. 36 m²,Zi. 1,45,16
-17,selObject_44707240,Heimwerker gesucht! Wohnung selber renovieren und 1500...,"['Wohnung', '•', 'Hermsdorf']",['Balkon'],Miete zzgl. NK 370 €,Wohnfläche ca. 73 m²,Zi. 4,45,16
-18,selObject_44707241,Ihre neue Wohnung finden!!!,"['Wohnung', '•', 'Hermsdorf']","['Balkon', 'EBK']",Miete zzgl. NK 330 €,Wohnfläche ca. 60 m²,Zi. 3,45,16
-19,selObject_44707237,Saniert ist garantiert!!! Toller Ausblick ins Grüne,"['Wohnung', '•', 'Altenburg', 'Altenburg']",[],Miete zzgl. NK 246 €,Wohnfläche ca. 47 m²,Zi. 2,45,16
-20,selObject_44707230,Balkonwohnung mit Einbauküche!!!,"['Wohnung', '•', 'Hermsdorf']","['Balkon', 'EBK']",Miete zzgl. NK 330 €,Wohnfläche ca. 60 m²,Zi. 3,45,16
-21,selObject_44707228,"MULTITASKING - selber handwerkeln und 1500,00 EUR OBI...","['Wohnung', '•', 'Hermsdorf']",['Balkon'],Miete zzgl. NK 350 €,Wohnfläche ca. 70 m²,Zi. 4,45,16
-22,selObject_44707213,TAG für TAG ein tolles Wohngefühl,"['Wohnung', '•', 'Altenburg', 'Altenburg']",['Balkon'],Miete zzgl. NK 310 €,Wohnfläche ca. 59 m²,Zi. 3,45,16
-23,selObject_44707212,4 Zimmer Wohnung mit Balkon!!!,"['Etagenwohnung', '•', 'Hermsdorf']",['Balkon'],Miete zzgl. NK 350 €,Wohnfläche ca. 70 m²,Zi. 4,45,16
-24,selObject_44707209,TOP Angebot für Selbstrenovierer! 2 Monate Kaltmietfre...,"['Wohnung', '•', 'Hermsdorf']",['Balkon'],Miete zzgl. NK 350 €,Wohnfläche ca. 70 m²,Zi. 4,45,16
-25,selObject_44707210,Erste eigene Wohnung!,"['Wohnung', '•', 'Altenburg', 'Altenburg']",[],Miete zzgl. NK 160 €,Wohnfläche ca. 27 m²,Zi. 1,45,16
-26,selObject_44707205,Schöne 3-Raum Wohnung wartet auf neunen Mieter!,"['Wohnung', '•', 'Hermsdorf']",[],Miete zzgl. NK 285 €,Wohnfläche ca. 57 m²,Zi. 3,45,16
+0,selObject_44754327,Schöne kleine Wohnung mit Einbauküche,"[['Wohnung', '•', 'Greiz', 'Greiz']]","['Garten', 'EBK']",Miete zzgl. NK 255 €,Wohnfläche ca. 44 m²,Zi. 1,45,16
+1,selObject_44754326,Kleine Wohnung über 2 Etagen - Büro im gleichen Haus...,"[['Maisonette', '•', 'Greiz', 'Greiz']]",[],Miete zzgl. NK 258 €,Wohnfläche ca. 52 m²,Zi. 3,45,16
+2,selObject_44754324,Zweizimmerwohnung in solidem Haus!,"[['Wohnung', '•', 'Mohlsdorf-Teichwolframsdorf', 'Teichwolframsdorf']]","['Garten', 'EBK']",Miete inkl. NK 308 €,Wohnfläche ca. 44 m²,Zi. 2,45,16
+3,selObject_44754325,DG über 2 Etagen in Mohlsdorf,"[['Dachgeschosswohnung', '•', 'Mohlsdorf-Teichwolframsdorf', 'Mohlsdorf']]",[],Miete zzgl. NK 295 €,Wohnfläche ca. 60 m²,Zi. 3,45,16
+4,selObject_44754322,Sonnige Zweiraumwohnung,"[['Wohnung', '•', 'Greiz', 'Greiz']]",[],Miete zzgl. NK 270 €,Wohnfläche ca. 65 m²,Zi. 2,45,16
+5,selObject_44754321,"Wohnen mit Einbauküche, Dachschrägen und Sichtbalken","[['Dachgeschosswohnung', '•', 'Greiz', 'Greiz']]","['Garten', 'EBK']",Miete zzgl. NK 325 €,Wohnfläche ca. 65 m²,"Zi. 2,5",45,16
+6,selObject_44754318,3 Zimmer mit Balkon und Einbauküche,"[['Etagenwohnung', '•', 'Greiz', 'Greiz']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 380 €,Wohnfläche ca. 67 m²,Zi. 3,45,16
+7,selObject_44754317,Preiswerte Singlewohnung in Randlage,"[['Erdgeschosswohnung', '•', 'Greiz', 'Greiz']]",[],Miete zzgl. NK 204 €,Wohnfläche ca. 26 m²,Zi. 1,45,16
+8,selObject_44754316,Schöne Etagenwohnung in Randlage,"[['Etagenwohnung', '•', 'Greiz', 'Greiz']]",['Garten'],Miete zzgl. NK 405 €,Wohnfläche ca. 75 m²,Zi. 3,45,16
+9,selObject_44754314,Wohnung mit Südterrasse und Einbauküche,"[['Wohnung', '•', 'Greiz', 'Greiz']]",['EBK'],Miete zzgl. NK 295 €,Wohnfläche ca. 51 m²,Zi. 2,45,16
+10,selObject_44754313,Dreiraumwohnung in Zentrumsnähe,"[['Erdgeschosswohnung', '•', 'Greiz', 'Greiz']]",[],Miete zzgl. NK 332 €,Wohnfläche ca. 74 m²,Zi. 3,45,16
+11,selObject_44749397,Mit angenehmer Nachbarschaft - 2-Z/K/B in Hochparterre...,"[['Wohnung', '•', 'Greiz', 'Greiz']]",['Garten'],Miete zzgl. NK 270 €,Wohnfläche ca. 56 m²,Zi. 2,45,16
+12,selObject_44749396,Bodenständige 3-Zimmer-DG-Wohnung sucht soliden Mieter,"[['Etagenwohnung', '•', 'Greiz', 'Greiz']]",[],Miete zzgl. NK 290 €,Wohnfläche ca. 62 m²,Zi. 3,45,16
+13,selObject_44748090,Tolle 2 Raum Wohnung mit Balkon!,"[['Etagenwohnung', '•', 'Gera', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 385 €,Wohnfläche ca. 70 m²,Zi. 2,45,16
+14,selObject_44745884,Hübsche 2-Raum-Wohnung mit Balkon in zentraler Lage,"[['Wohnung', '•', 'Gera', 'Lusan']]",['Balkon'],Miete zzgl. NK 235 €,Wohnfläche ca. 48 m²,Zi. 2,45,16
+15,selObject_44745604,ATLAS IMMOBILIEN: Sehr zentrales 1-Zimmer-Apartment...,"[['Etagenwohnung', '•', 'Erfurt', 'Erfurt-Altstadt']]",['EBK'],Miete zzgl. NK 315 €,Wohnfläche ca. 35 m²,Zi. 1,45,16
+16,selObject_44745553,GTH - zentrale Lage,"[['Wohnung', '•', 'Gotha', 'Gotha']]",[],Miete zzgl. NK 447 €,Wohnfläche ca. 69 m²,Zi. 3,45,16
+17,selObject_44745550,APD - 3ZKB Balkon - In zentraler Lage - ab 01.06.2021...,"[['Wohnung', '•', 'Apolda', 'Apolda']]",['Balkon'],Miete zzgl. NK 690 €,Wohnfläche ca. 97 m²,Zi. 3,45,16
+18,selObject_44745549,GTH - zentrale Lage,"[['Wohnung', '•', 'Gotha', 'Gotha']]",[],Miete zzgl. NK 421 €,Wohnfläche ca. 65 m²,Zi. 3,45,16
+19,selObject_44744858,"**Achtung !! 1,5 Raum Appartment mit Balkon in Gera-L...","[['Etagenwohnung', '•', 'Gera', 'Lusan']]",['Balkon'],Miete zzgl. NK 189 €,Wohnfläche ca. 34 m²,"Zi. 1,5",45,16
+20,selObject_44744819,"**Achtung !! 1,5 Raum Appartment mit Balkon in Gera-L...","[['Etagenwohnung', '•', 'Gera', 'Lusan']]",['Balkon'],Miete zzgl. NK 189 €,Wohnfläche ca. 34 m²,"Zi. 1,5",45,16
+21,selObject_44744781,"**Achtung !! 1,5 Raum Appartment mit Balkon in Gera-L...","[['Etagenwohnung', '•', 'Gera', 'Lusan']]",['Balkon'],Miete zzgl. NK 189 €,Wohnfläche ca. 34 m²,"Zi. 1,5",45,16
+22,selObject_44742483,Erstbezug nach aufwendiger Renovierung,"[['Etagenwohnung', '•', 'Gera', 'Pforten']]",[],Miete zzgl. NK 350 €,Wohnfläche ca. 58 m²,Zi. 3,45,16
+23,selObject_44741367,Schöne Singlewohnung! 44 m² 2-Raum 1. OG Balkon-EBK-TG,"[['Wohnung', '•', 'Meuselwitz', 'Mumsdorf']]","['Balkon', 'EBK']",Miete zzgl. NK 220 €,Wohnfläche ca. 44 m²,Zi. 2,45,16
+24,selObject_44740611,Renovierte 3-Raum-Wohnung mit Balkon,"[['Etagenwohnung', '•', 'Heilbad', 'Heiligenstadt', 'Heilbad', 'Heiligenstadt']]",['Balkon'],Miete zzgl. NK 230 €,Wohnfläche ca. 53 m²,Zi. 3,45,16
+25,selObject_44740474,2-Raum-Wohnung nach Vollsanierung mit Balkon,"[['Etagenwohnung', '•', 'Heilbad', 'Heiligenstadt', 'Heilbad', 'Heiligenstadt']]",['Balkon'],Miete zzgl. NK 232 €,Wohnfläche ca. 44 m²,Zi. 2,45,16
+26,selObject_44740417,"2-Raum-Wohnung mit Balkon, Laminat und Parkplatz","[['Etagenwohnung', '•', 'Heilbad', 'Heiligenstadt', 'Heilbad', 'Heiligenstadt']]",['Balkon'],Miete zzgl. NK 275 €,Wohnfläche ca. 53 m²,Zi. 2,45,16

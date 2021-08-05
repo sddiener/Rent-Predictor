@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_45012877,NEU ** [B15] neu saniert // funktionaler Grundriss // Süd-...,"['Wohnung', '•', 'Erfurt', 'Andreasvorstadt']","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']",Miete zzgl. NK 595 €,Wohnfläche ca. 56 m²,Zi. 2,5,16
-1,selObject_45012822,NEU Schön sanierte 2-Zimmer Whg. im DG mit Parkett (WE13),"['Dachgeschosswohnung', '•', 'Gera', 'Pforten']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 273 €,Wohnfläche ca. 55 m²,Zi. 2,5,16
-2,selObject_45012800,NEU Hier werden Träume wahr - traumhafte 6 ZKB in TOP Lage,"['Wohnung', '•', 'Mühlhausen', 'Mühlhausen']","['NEU', 'NEU']",Miete zzgl. NK 900 €,Wohnfläche ca. 150 m²,Zi. 6,5,16
-3,selObject_45012781,NEU Aufgepasst- Ein Schnäppchen in der Innenstadt,"['Wohnung', '•', 'Mühlhausen', 'Mühlhausen']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 279 €,Wohnfläche ca. 53 m²,Zi. 2,5,16
-4,selObject_45012761,NEU ZENTRAL UND DENNOCH RUHIG! Grosse 3 Zimmer-Wohnung mit...,"['Wohnung', '•', 'Erfurt', 'Andreasvorstadt']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 730 €,Wohnfläche ca. 86 m²,Zi. 3,5,16
-5,selObject_45012738,"NEU 1-Zimmer-Wohnung im 3. OG mit Balkon, Karl-Matthes...","['Wohnung', '•', 'Gera', 'Lusan']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 170 €,Wohnfläche ca. 35 m²,Zi. 1,5,16
-6,selObject_45012660,NEU große & schicke 2-ZKB inmitten der Innenstadt,"['Dachgeschosswohnung', '•', 'Mühlhausen', 'Mühlhausen']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 385 €,Wohnfläche ca. 70 m²,Zi. 2,5,16
-7,selObject_45012659,"NEU schicke 2-ZKB, viele Einkaufsmöglichkeiten fast nebena...","['Wohnung', '•', 'Mühlhausen', 'Mühlhausen']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 320 €,Wohnfläche ca. 54 m²,Zi. 2,5,16
-8,selObject_45012466,NEU wohnen in einer Villa - TOP Lage,"['Wohnung', '•', 'Mühlhausen', 'Mühlhausen']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 420 €,Wohnfläche ca. 60 m²,Zi. 3,5,16
-9,selObject_45012442,NEU fabelhafte 2 ZKB Maisonettenwohnung mit EBK,"['Maisonette', '•', 'Mühlhausen', 'Mühlhausen']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 480 €,Wohnfläche ca. 95 m²,Zi. 2,5,16
-10,selObject_45012394,NEU charmante Maisonettewohnung - wohnen auf 2 Etagen,"['Maisonette', '•', 'Mühlhausen', 'Mühlhausen']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 420 €,Wohnfläche ca. 85 m²,Zi. 3,5,16
-11,selObject_45012341,"NEU 1,5-Raum-Wohnung in ruhiger Lage","['Wohnung', '•', 'Bad', 'Lobenstein', 'Lobenstein']","['NEU', 'NEU']",Miete zzgl. NK 250 €,Wohnfläche ca. 44 m²,"Zi. 1,5",5,16
-12,selObject_45012289,NEU schicke 3 ZKB in ruhiger Lage - schnell sein lohnt...,"['Wohnung', '•', 'Mühlhausen', 'Mühlhausen']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 475 €,Wohnfläche ca. 70 m²,Zi. 3,5,16
-13,selObject_45012262,NEU exklusive 5-Raum Etagenwohnung,"['Etagenwohnung', '•', 'Jena', 'West']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 1.650 €,Wohnfläche ca. 192 m²,Zi. 5,5,16
-14,selObject_45012193,NEU Wohnen in der Innenstadt? Hier ist es möglich - 3 ZKB...,"['Wohnung', '•', 'Mühlhausen', 'Mühlhausen']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 400 €,Wohnfläche ca. 80 m²,Zi. 3,5,16
-15,selObject_45012144,NEU 2-Zimmer Wohnung mitten im Zentrum inkl. Fahstuhl,"['Wohnung', '•', 'Weida']","['NEU', 'NEU']","Miete zzgl. NK 222,17 €",Wohnfläche ca. 49 m²,Zi. 2,5,16
-16,selObject_45012076,NEU Top 4-ZKB im 1.Obergeschoss in Effelder,"['Wohnung', '•', 'Effelder']","['NEU', 'NEU']",Miete zzgl. NK 695 €,Wohnfläche ca. 150 m²,Zi. 4,5,16
-17,selObject_45012071,"NEU Wohnanlage - Katschmühle - 2 Zimmerwohnung mit 47,63...","['Erdgeschosswohnung', '•', 'Weida']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 214,33 €",Wohnfläche ca. 48 m²,Zi. 2,5,16
-18,selObject_45011940,"NEU Wohnanlage - Katschmühle - 1 Zimmerwohnung mit 39,17...","['Dachgeschosswohnung', '•', 'Weida']","['NEU', 'NEU']","Miete zzgl. NK 176,26 €",Wohnfläche ca. 39 m²,Zi. 1,5,16
-19,selObject_45011941,"NEU Wohnanlage - Katschmühle - 2 Zimmerwohnung mit 59,29...","['Wohnung', '•', 'Weida']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 266,80 €",Wohnfläche ca. 59 m²,Zi. 2,5,16
-20,selObject_45011788,NEU NACHMIETER GESUCHT: Helle und zentrale 2-Zimmer Wohnun...,"['Wohnung', '•', 'Erfurt', 'Andreasvorstadt']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 489 €,Wohnfläche ca. 53 m²,Zi. 2,5,16
-21,selObject_45011763,NEU 2 Zi. Mietwohnung im Zentrum / DG,"['Apartment', '•', 'Friedrichroda', 'Friedrichroda']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 237 €,Wohnfläche ca. 40 m²,Zi. 2,5,16
-22,selObject_45011524,NEU 2 Raum-Wohnung in Erfurt-Daberstedt zu vermieten,"['Wohnung', '•', 'Erfurt', 'Daberstedt']","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 545 €,Wohnfläche ca. 67 m²,Zi. 2,5,16
-23,selObject_45011508,NEU Ziehen Sie mit Ihrer Familie ins frisch gemachte Nest!...,"['Wohnung', '•', 'Gera', 'Innenstadt']","['NEU', 'NEU']",Miete zzgl. NK 359 €,Wohnfläche ca. 60 m²,Zi. 3,5,16
-24,selObject_45011352,NEU Sie suchen - wir bieten: 1-Zimmer-Appartement zu vermi...,"['Apartment', '•', 'Langewiesen']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 200 €,Wohnfläche ca. 24 m²,Zi. 1,5,16
-25,selObject_45011192,NEU Ruhige 3-Zimmer Wohnung in einer Stadtvilla im Erdgesc...,"['Erdgeschosswohnung', '•', 'Arnstadt', 'Arnstadt']","['NEU', 'NEU']",Miete zzgl. NK 485 €,Wohnfläche ca. 69 m²,Zi. 3,5,16
-26,selObject_45010755,NEU 3-Zimmerwohnung Dachgeschoss!,"['Wohnung', '•', 'Suhl', 'Suhl']","['NEU', 'NEU']",Miete zzgl. NK 408 €,Wohnfläche ca. 68 m²,Zi. 3,5,16
+0,selObject_45037720,NEU Altenburg - Leipzig - Luxuswohnung zu vermieten,"[['Etagenwohnung', '•', 'Altenburg', 'Altenburg']]","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']",Preis Auf Anfrage,Wohnfläche ca. 165 m²,Zi. 4,5,16
+1,selObject_45037376,NEU Neu sanierte und freundliche 4 ­Zimmer­-Wohnung mit...,"[['Wohnung', '•', 'Gera', 'Innenstadt']]","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 735 €,Wohnfläche ca. 105 m²,Zi. 4,5,16
+2,selObject_45036438,NEU Große 4-Raum-Wohnung - Blick ins Grüne inklusive!,"[['Etagenwohnung', '•', 'Gera', 'Langenberg']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 375 €,Wohnfläche ca. 70 m²,Zi. 4,5,16
+3,selObject_45036426,"NEU Schöne 4-R-Whg. im 2. OG, Balkon, Stellplatz mgl. in...","[['Wohnung', '•', 'Gera', 'Bieblach']]","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 340 €,Wohnfläche ca. 70 m²,Zi. 4,5,16
+4,selObject_45036375,NEU 2-Raumwohnung mit Balkon sucht neuen Bewohner,"[['Etagenwohnung', '•', 'Stadtilm']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 215 €,Wohnfläche ca. 42 m²,Zi. 2,5,16
+5,selObject_45036351,NEU Dachgeschosswohnung mit toller Aussicht,"[['Dachgeschosswohnung', '•', 'Stadtilm']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 400 €,Wohnfläche ca. 69 m²,Zi. 3,5,16
+6,selObject_45036282,NEU Ruhig und sonnig gelegene 3-Zimmer-Wohnung im 1. Oberg...,"[['Etagenwohnung', '•', 'Auma-Weidatal', 'Göhren-Döhlen']]","['NEU', 'NEU']",Miete zzgl. NK 320 €,Wohnfläche ca. 62 m²,Zi. 3,5,16
+7,selObject_45036100,"NEU Erstbezug nach Sanierung - Schulen, Kindergarten, Ärzt...","[['Etagenwohnung', '•', 'Wutha-Farnroda', 'Wutha-Farnroda']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 312,55 €",Wohnfläche ca. 63 m²,Zi. 3,5,16
+8,selObject_45036096,NEU Erstbezug nach Sanierung - schick & günstig wohnen,"[['Etagenwohnung', '•', 'Wutha-Farnroda', 'Wutha-Farnroda']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 304,90 €",Wohnfläche ca. 61 m²,Zi. 3,5,16
+9,selObject_45036041,NEU Erstbezug nach Sanierung - die ideale Umgebung für...,"[['Etagenwohnung', '•', 'Wutha-Farnroda', 'Wutha-Farnroda']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 304,90 €",Wohnfläche ca. 61 m²,Zi. 3,5,16
+10,selObject_45035922,NEU Gemütliche 2-Zimmer-Dachgeschoßwohnung auf dem Lande,"[['Dachgeschosswohnung', '•', 'Harth-Pöllnitz', 'Neundorf']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 300 €,Wohnfläche ca. 64 m²,Zi. 2,5,16
+11,selObject_45035816,NEU Seniorenwohnung im Betreuten Wohnen,"[['Etagenwohnung', '•', 'Erfurt', 'Herrenberg']]","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 245 €,Wohnfläche ca. 35 m²,"Zi. 1,5",5,16
+12,selObject_45035813,NEU Wohnen im Grünen! 3-R-Whg. im 3.OG li in der J.-R.-Bec...,"[['Wohnung', '•', 'Gera', 'Bieblach']]","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 270 €,Wohnfläche ca. 58 m²,Zi. 3,5,16
+13,selObject_45035807,NEU Schöne 1-Zimmer-Wohnung im EG,"[['Wohnung', '•', 'Gera', 'Untermhaus']]","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 162 €,Wohnfläche ca. 27 m²,Zi. 1,5,16
+14,selObject_45035744,NEU Wohnen - 03. OG - links - Ernst-Abbe-Straße 10,"[['Etagenwohnung', '•', 'Erfurt', 'Melchendorf']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 300 €,Wohnfläche ca. 55 m²,Zi. 3,5,16
+15,selObject_45035504,NEU *Studentenwohnung in Schmalkalden*,"[['Wohnung', '•', 'Schmalkalden', 'Schmalkalden']]","['NEU', 'NEU']",Miete zzgl. NK 198 €,Wohnfläche ca. 33 m²,Zi. 2,5,16
+16,selObject_45035479,NEU nur schriftliche Anfragen!! 2 Raumwohnung mit Balkon...,"[['Dachgeschosswohnung', '•', 'Erfurt', 'Daberstedt']]","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 486 €,Wohnfläche ca. 54 m²,Zi. 2,5,16
+17,selObject_45035457,NEU *Studentenwohnung in Schmalkalden*,"[['Wohnung', '•', 'Schmalkalden', 'Schmalkalden']]","['NEU', 'NEU']",Miete zzgl. NK 228 €,Wohnfläche ca. 38 m²,Zi. 2,5,16
+18,selObject_45035440,NEU Schönes Wohnen in der City,"[['Etagenwohnung', '•', 'Erfurt', 'Erfurt-Altstadt']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 315 €,Wohnfläche ca. 54 m²,Zi. 2,5,16
+19,selObject_45035412,NEU Die ganze Stadt im Blick!,"[['Dachgeschosswohnung', '•', 'Meiningen', 'Meiningen']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 440 €,Wohnfläche ca. 65 m²,Zi. 2,5,16
+20,selObject_45035407,NEU Jetzt umziehen und Ihre neue Wohnung genießen,"[['Wohnung', '•', 'Suhl', 'Suhl']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 312,32 €",Wohnfläche ca. 54 m²,Zi. 3,5,16
+21,selObject_45035409,NEU Wohnung mit zwei Balkonen nach Sanierung,"[['Wohnung', '•', 'Suhl', 'Suhl']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 362,33 €",Wohnfläche ca. 59 m²,Zi. 2,5,16
+22,selObject_45035404,NEU JungesWohnen Angebot,"[['Wohnung', '•', 'Suhl', 'Suhl']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 240,08 €",Wohnfläche ca. 57 m²,Zi. 3,5,16
+23,selObject_45035402,NEU Erstbezug ab November möglich,"[['Wohnung', '•', 'Suhl', 'Suhl']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 306,63 €",Wohnfläche ca. 54 m²,Zi. 3,5,16
+24,selObject_45035401,NEU 3-Zimmer-Wohnung in der ersten Etage,"[['Wohnung', '•', 'Suhl', 'Suhl']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 307,26 €",Wohnfläche ca. 54 m²,Zi. 3,5,16
+25,selObject_45035399,NEU Alles neu macht die AWG,"[['Wohnung', '•', 'Suhl', 'Suhl']]","['NEU', 'NEU']","Miete zzgl. NK 329,39 €",Wohnfläche ca. 54 m²,Zi. 3,5,16
+26,selObject_45035396,"NEU Umzug in drei, zwei, eins...ab November 2021","[['Wohnung', '•', 'Suhl', 'Suhl']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 306,63 €",Wohnfläche ca. 54 m²,Zi. 3,5,16

@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44720057,Perfekt für uns: interessante 3-Zimmer-Wohnung,"['Etagenwohnung', '•', 'Recklinghausen', 'Ost']",[],"Miete zzgl. NK 366,60 €",Wohnfläche ca. 53 m²,Zi. 3,166,5
-1,selObject_44720051,Über den Dächern von Herne - großer sonniger Balkon...,"['Etagenwohnung', '•', 'Herne', 'Wanne-Süd']",['Balkon'],"Miete zzgl. NK 476,66 €",Wohnfläche ca. 76 m²,Zi. 3,166,5
-2,selObject_44720050,"Schöne 3,5-Zimmerwohnung im 1. OG mit neuem Bad und...","['Etagenwohnung', '•', 'Herten', 'Bertlich']",['Balkon'],"Miete zzgl. NK 436,44 €",Wohnfläche ca. 65 m²,Zi. 3,166,5
-3,selObject_44720046,Hier macht wohnen Spaß: günstige 3-Zimmer-Wohnung,"['Etagenwohnung', '•', 'Gelsenkirchen', 'Horst']",[],"Miete zzgl. NK 320,10 €",Wohnfläche ca. 55 m²,Zi. 3,166,5
-4,selObject_44720037,"Möbliertes Studenten Apartment, an der RWTH Aachen","['Etagenwohnung', '•', 'Aachen', 'Aachen']",['EBK'],"Miete zzgl. NK 355,68 €",Wohnfläche ca. 20 m²,Zi. 1,166,5
-5,selObject_44720029,Ihr neues Studentenappartement am der RWTH Aachen,"['Etagenwohnung', '•', 'Aachen', 'Aachen']",['EBK'],"Miete zzgl. NK 304,44 €",Wohnfläche ca. 17 m²,Zi. 1,166,5
-6,selObject_44720023,So macht wohnen Spaß: interessante 3-Zimmer-Wohnung,"['Etagenwohnung', '•', 'Herne', 'Herne-Mitte']",['Balkon'],"Miete zzgl. NK 535,82 €",Wohnfläche ca. 73 m²,Zi. 4,166,5
-7,selObject_44720017,"Smarter Wohnen: 2,5-Zimmer-Wohnung in Stadtlage (WBS)","['Etagenwohnung', '•', 'Bottrop', 'Stadtmitte']",['Balkon'],"Miete zzgl. NK 338,71 €",Wohnfläche ca. 65 m²,"Zi. 2,5",166,5
-8,selObject_44720015,Schöner Wohnen in dieser weitläufigen 3-Zimmer-Wohnung,"['Etagenwohnung', '•', 'Castrop-Rauxel', 'Rauxel']",[],"Miete zzgl. NK 473,35 €",Wohnfläche ca. 72 m²,Zi. 3,166,5
-9,selObject_44720011,Schöner Wohnen: günstig geschnittene 2-Zimmer-Wohnung,"['Etagenwohnung', '•', 'Recklinghausen', 'Ost']",[],"Miete zzgl. NK 236,06 €",Wohnfläche ca. 32 m²,Zi. 2,166,5
-10,selObject_44720004,Ihr neues Zuhause: individuelle 3-Zimmer-Wohnung,"['Etagenwohnung', '•', 'Gelsenkirchen', 'Horst']",['Balkon'],"Miete zzgl. NK 707,62 €",Wohnfläche ca. 112 m²,"Zi. 5,5",166,5
-11,selObject_44719983,Schöne Wohnung in Holsterhausen,"['Etagenwohnung', '•', 'Herne', 'Holsterhausen']",['Balkon'],"Miete zzgl. NK 485,06 €",Wohnfläche ca. 67 m²,Zi. 4,166,5
-12,selObject_44719974,Ihr neues Studentenappartement am der RWTH Aachen,"['Etagenwohnung', '•', 'Aachen', 'Aachen']",['EBK'],"Miete zzgl. NK 364,90 €",Wohnfläche ca. 20 m²,Zi. 1,166,5
-13,selObject_44719970,Attraktiv! Günstig geschnittene 2-Zimmer-Wohnung,"['Etagenwohnung', '•', 'Bielefeld', 'Innenstadt']",['Balkon'],"Miete zzgl. NK 466,83 €",Wohnfläche ca. 57 m²,Zi. 2,166,5
-14,selObject_44719969,Familienfreundlich! Renovierte 3-Zimmer-Wohnung mit...,"['Etagenwohnung', '•', 'Herten', 'Bertlich']",['Balkon'],"Miete zzgl. NK 442,95 €",Wohnfläche ca. 65 m²,Zi. 3,166,5
-15,selObject_44719967,Moltkeviertel: Großzügig geschnittene 3-Zimmer-Wohnung...,"['Etagenwohnung', '•', 'Essen', 'Südviertel']",['Balkon'],"Miete zzgl. NK 930,60 €",Wohnfläche ca. 110 m²,Zi. 3,166,5
-16,selObject_44719960,Ein tolles Wohngefühl: günstiges 1-Zimmer-Single-Appar...,"['Etagenwohnung', '•', 'Aachen', 'Aachen']",['EBK'],"Miete zzgl. NK 358,92 €",Wohnfläche ca. 20 m²,Zi. 1,166,5
-17,selObject_44719959,Ihr neues Zuhause: individuelles 1-Zimmer-Appartment,"['Etagenwohnung', '•', 'Herne', 'Herne-Mitte']",['Balkon'],"Miete zzgl. NK 263,24 €",Wohnfläche ca. 36 m²,Zi. 1,166,5
-18,selObject_44719958,Miet mich - günstige 2-Zimmer-Wohnung,"['Erdgeschosswohnung', '•', 'Gelsenkirchen', 'Bismarck']",['Balkon'],"Miete zzgl. NK 320,78 €",Wohnfläche ca. 43 m²,Zi. 2,166,5
-19,selObject_44719254,Wohlfühlen mit der Familie! **mit Tageslichtbad**,"['Wohnung', '•', 'Gelsenkirchen', 'Schalke']",[],Miete zzgl. NK 389 €,Wohnfläche ca. 67 m²,Zi. 3,166,5
-20,selObject_44719252,Ihr neuer Wohlfühlort!**mit Tageslichtbad**,"['Wohnung', '•', 'Wuppertal', 'Barmen']",[],Miete zzgl. NK 389 €,Wohnfläche ca. 58 m²,Zi. 2,166,5
-21,selObject_44719118,"Für Menschen, die das Außergewöhnliche lieben!","['Maisonette', '•', 'Dörentrup', 'Hillentrup']",['Garten'],Miete zzgl. NK 980 €,Wohnfläche ca. 125 m²,Zi. 4,166,5
-22,selObject_44718985,Einziehen und wohlfühlen,"['Etagenwohnung', '•', 'Herne', 'Wanne-Süd']",['Balkon'],"Miete zzgl. NK 321,15 €",Wohnfläche ca. 61 m²,"Zi. 2,5",166,5
-23,selObject_44718722,Gemütliche 3-Zimmer Wohnung in Lüdenscheid-Brügge ab...,"['Etagenwohnung', '•', 'Lüdenscheid', 'Brügge']",[],Miete zzgl. NK 419 €,Wohnfläche ca. 75 m²,Zi. 3,166,5
-24,selObject_44718720,ruhig Wohnen in Suderwich,"['Dachgeschosswohnung', '•', 'Recklinghausen', 'Suderwich']",['Garten'],"Miete zzgl. NK 314,17 €",Wohnfläche ca. 67 m²,Zi. 3,166,5
-25,selObject_44718708,Anfänger Wohnung mit Balkon!!,"['Etagenwohnung', '•', 'Minden', 'Innenstadt']","['Balkon', 'Garten']","Miete zzgl. NK 266,40 €",Wohnfläche ca. 52 m²,Zi. 1,166,5
-26,selObject_44718707,3- Zimmer Wohnung im Erdgeschoss mit Balkon!,"['Erdgeschosswohnung', '•', 'Minden', 'Innenstadt']","['Balkon', 'Garten']",Miete zzgl. NK 389 €,Wohnfläche ca. 62 m²,Zi. 3,166,5
+0,selObject_44733261,"Hier fühlen Sie sich wohl: günstige 1,5-Zimmer-Wohnung","[['Erdgeschosswohnung', '•', 'Dortmund', 'Westerfilde']]",[],"Miete zzgl. NK 345,71 €",Wohnfläche ca. 41 m²,"Zi. 1,5",166,5
+1,selObject_44733254,"Hochwertig modernisierte 3,5-Zimmer-Wohnung!","[['Dachgeschosswohnung', '•', 'Dortmund', 'Oestrich']]",[],Miete zzgl. NK 530 €,Wohnfläche ca. 70 m²,"Zi. 3,5",166,5
+2,selObject_44733229,"Zentral und doch ruhig! Schöne, renovierte 3-Zimmer-Wo...","[['Etagenwohnung', '•', 'Gelsenkirchen', 'Bulmke-Hüllen']]",[],Miete zzgl. NK 375 €,Wohnfläche ca. 62 m²,Zi. 3,166,5
+3,selObject_44733190,Wohn(t)raum: individuelle 3-Zimmer-Wohnung (WBS),"[['Etagenwohnung', '•', 'Castrop-Rauxel', 'Deininghausen']]",['Balkon'],"Miete zzgl. NK 343,90 €",Wohnfläche ca. 70 m²,Zi. 3,166,5
+4,selObject_44733164,Zentrale 2-Zimmer-Wohnung (Seniorenwohnung mit WBS),"[['Etagenwohnung', '•', 'Bochum', 'Weitmar']]",['Balkon'],"Miete zzgl. NK 334,80 €",Wohnfläche ca. 63 m²,Zi. 2,166,5
+5,selObject_44733139,***Geräumige 2-Raumwohnung renoviert mit Balkon und...,"[['Etagenwohnung', '•', 'Krefeld', 'Oppum']]",['Balkon'],Miete zzgl. NK 549 €,Wohnfläche ca. 65 m²,Zi. 2,166,5
+6,selObject_44732979,"Schöner Wohnen: großzügige 3,5-Zimmer-Wohnung","[['Erdgeschosswohnung', '•', 'Dortmund', 'Eving']]",['Balkon'],Miete zzgl. NK 559 €,Wohnfläche ca. 72 m²,"Zi. 3,5",166,5
+7,selObject_44732925,"Miet mich - interessante 2,5-Zimmer-Wohnung","[['Etagenwohnung', '•', 'Gelsenkirchen', 'Schalke']]",['Balkon'],"Miete zzgl. NK 428,14 €",Wohnfläche ca. 63 m²,"Zi. 2,5",166,5
+8,selObject_44732893,Reinkommen und Wohlfühlen: interessante 2-Zimmer-Wohnu...,"[['Etagenwohnung', '•', 'Gelsenkirchen', 'Schalke']]",['Balkon'],"Miete zzgl. NK 392,72 €",Wohnfläche ca. 68 m²,"Zi. 2,5",166,5
+9,selObject_44732851,"Schöne Wohnung sucht Mieter: günstige 3,5-Zimmer-Wohnu...","[['Etagenwohnung', '•', 'Dortmund', 'Oestrich']]",['Balkon'],Miete zzgl. NK 475 €,Wohnfläche ca. 56 m²,"Zi. 3,5",166,5
+10,selObject_44732800,"Auf gute Nachbarschaft: günstig geschnittene 3,5-Zi.-W...","[['Etagenwohnung', '•', 'Recklinghausen', 'Stadtmitte']]",['Balkon'],"Miete zzgl. NK 483,35 €",Wohnfläche ca. 70 m²,"Zi. 3,5",166,5
+11,selObject_44732697,"Schöne Wohnung sucht Mieter: geräumige 3,5-Zimmer-Wohn...","[['Etagenwohnung', '•', 'Dortmund', 'Eving']]",['Balkon'],Miete zzgl. NK 559 €,Wohnfläche ca. 72 m²,"Zi. 3,5",166,5
+12,selObject_44732659,"Vier Wände zum Wohlfühlen*Modernisierte 3,5 Zi-Whg mit...","[['Wohnung', '•', 'Dinslaken', 'Bruch']]",['Balkon'],Miete zzgl. NK 630 €,Wohnfläche ca. 79 m²,Zi. 3,166,5
+13,selObject_44732047,Seniorenfreundliche Neubauwohnung in zentraler Lage!,"[['Erdgeschosswohnung', '•', 'Recklinghausen', 'Ost']]",[],Miete zzgl. NK 1.140 €,Wohnfläche ca. 103 m²,"Zi. 4,5",166,5
+14,selObject_44732003,End of Summer - jetzt noch mit Sonnenschein ins neue...,"[['Wohnung', '•', 'Marl', 'Marl']]",['Balkon'],Miete zzgl. NK 515 €,Wohnfläche ca. 81 m²,"Zi. 3,5",166,5
+15,selObject_44731748,"ALLES DA! Supermarkt, Ärzte, Banken, Apotheke, Friseur...","[['Etagenwohnung', '•', 'Kamen', 'Methler']]",['Balkon'],"Miete zzgl. NK 361,14 €",Wohnfläche ca. 83 m²,Zi. 3,166,5
+16,selObject_44731747,Kurzfristig verfügbar: 3 Zimmer in Hagen-Boele,"[['Etagenwohnung', '•', 'Hagen', 'Boele']]",['Balkon'],Miete zzgl. NK 419 €,Wohnfläche ca. 64 m²,"Zi. 3,5",166,5
+17,selObject_44731745,Wetter-Wengern: tolle 2 Zimmerwohnung im Erdgeschoss...,"[['Erdgeschosswohnung', '•', 'Wetter', 'Wengern']]",['Balkon'],Miete zzgl. NK 380 €,Wohnfläche ca. 60 m²,Zi. 2,166,5
+18,selObject_44731744,Wohnen am Nußberg- Perfekt für die kleine Familie,"[['Erdgeschosswohnung', '•', 'Iserlohn', 'Nußberg']]",[],Miete zzgl. NK 359 €,Wohnfläche ca. 56 m²,Zi. 3,166,5
+19,selObject_44731740,"Genial, gemütliche 2-Zimmer Wohnung im Ergeschoss!","[['Erdgeschosswohnung', '•', 'Detmold', 'Innenstadt']]",['Garten'],Miete zzgl. NK 349 €,Wohnfläche ca. 50 m²,Zi. 2,166,5
+20,selObject_44731734,Klein aber Mein ...,"[['Erdgeschosswohnung', '•', 'Bochum', 'Wattenscheid']]",['Garten'],Miete zzgl. NK 369 €,Wohnfläche ca. 54 m²,"Zi. 2,5",166,5
+21,selObject_44731727,Gut geschnittene 3 Zimmer Wohnung in Baumberg,"[['Etagenwohnung', '•', 'Monheim', 'Baumberg']]",['Balkon'],Miete zzgl. NK 580 €,Wohnfläche ca. 71 m²,Zi. 3,166,5
+22,selObject_44731720,Attraktive 3-Zimmer-Wohnung in Solingen,"[['Etagenwohnung', '•', 'Solingen', 'Solingen-Mitte']]",[],Miete zzgl. NK 499 €,Wohnfläche ca. 71 m²,Zi. 3,166,5
+23,selObject_44731719,Schickes Appartement für Senioren in Solingen (WBS...,"[['Etagenwohnung', '•', 'Solingen', 'Solingen-Mitte']]","['Balkon', 'EBK']","Miete zzgl. NK 202,61 €",Wohnfläche ca. 43 m²,Zi. 1,166,5
+24,selObject_44731718,Ihr neues Zuhause! Familienwohnung mit Balkon und Aufz...,"[['Etagenwohnung', '•', 'Mönchengladbach', 'Rheydt-West']]","['Balkon', 'Garten']",Miete zzgl. NK 569 €,Wohnfläche ca. 84 m²,Zi. 3,166,5
+25,selObject_44731717,Zentral wohnen in der Südstadt - Wir renovieren für...,"[['Erdgeschosswohnung', '•', 'Wuppertal', 'Elberfeld']]",['Balkon'],Miete zzgl. NK 309 €,Wohnfläche ca. 44 m²,Zi. 2,166,5
+26,selObject_44731716,Schöne 3 Zimmer Wohnung im 1 OG.,"[['Etagenwohnung', '•', 'Monheim', 'Monheim']]",['Balkon'],Miete zzgl. NK 669 €,Wohnfläche ca. 75 m²,Zi. 3,166,5

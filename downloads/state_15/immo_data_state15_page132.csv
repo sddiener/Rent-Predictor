@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_41266828,Einziehen und wohlfühlen,"['Wohnung', '•', 'Dessau-Roßlau', 'Alten']",['Balkon'],Miete zzgl. NK 315 €,Wohnfläche ca. 69 m²,Zi. 3,132,15
-1,selObject_41254778,Wohnung mit Weitblick,"['Kein', 'Bild']",['Balkon'],Miete zzgl. NK 340 €,Wohnfläche ca. 69 m²,Zi. 3,132,15
-2,selObject_41245780,Wohnen in Fermersleben 2-Raum-Wohnung,"['Kein', 'Bild']",[],Miete zzgl. NK 260 €,Wohnfläche ca. 50 m²,Zi. 2,132,15
-3,selObject_41197386,--- Erdgeschosswohnung mit Gartennutzung ---,"['Erdgeschosswohnung', '•', 'Weißenfels', 'Weißenfels']",['Garten'],Miete zzgl. NK 270 €,Wohnfläche ca. 57 m²,Zi. 2,132,15
-4,selObject_41193165,Stendal / Arztpraxis im Ärztezentrum zu vermieten,"['Kein', 'Bild']",[],Miete zzgl. NK 770 €,Wohnfläche ca. 115 m²,,132,15
-5,selObject_41186949,"Helle, sanierte 3-Zimmer-Wohnung","['Wohnung', '•', 'Zeitz', 'Zeitz']",['Garten'],Miete zzgl. NK 280 €,Wohnfläche ca. 60 m²,Zi. 3,132,15
-6,selObject_41186546,"Moderne, frisch sanierte 3-Zimmer-Wohnung","['Wohnung', '•', 'Zeitz', 'Zeitz']",['Garten'],Miete zzgl. NK 350 €,Wohnfläche ca. 75 m²,Zi. 3,132,15
-7,selObject_41184050,Idyllisches Wohnen auf dem Dorf,"['Erdgeschosswohnung', '•', 'Elsteraue', 'Spora']",['EBK'],Miete zzgl. NK 370 €,Wohnfläche ca. 53 m²,Zi. 2,132,15
-8,selObject_41184033,Ländlich gelegene 3 Zimmer Wohnung,"['Wohnung', '•', 'Elsteraue', 'Spora']",[],Miete zzgl. NK 270 €,Wohnfläche ca. 44 m²,Zi. 3,132,15
-9,selObject_41136694,"** Familien aufgepasst!!! helle, renovierte 4 Raum...","['Etagenwohnung', '•', 'Dessau-Roßlau', 'Innenstadt']",[],Miete zzgl. NK 390 €,Wohnfläche ca. 65 m²,Zi. 4,132,15
-10,selObject_41088034,"3-Zimmer-Wohnung, perfekt für Kleinfamilien! 4 Monate...","['Etagenwohnung', '•', 'Halle', 'Westliche', 'Neustadt']",['Balkon'],Miete zzgl. NK 342 €,Wohnfläche ca. 67 m²,Zi. 3,132,15
-11,selObject_41058904,Beyernaumburg: Neu renovierte und helle 3 Raumwohnung...,"['Wohnung', '•', 'Allstedt', 'Beyernaumburg']",['Garten'],Miete zzgl. NK 260 €,Wohnfläche ca. 60 m²,Zi. 3,132,15
-12,selObject_40994452,"zentral gelegenes 1-Zi-Apartment, große Küche, Bad...","['Erdgeschosswohnung', '•', 'Halle', 'Innenstadt']",[],Miete zzgl. NK 270 €,Wohnfläche ca. 30 m²,Zi. 1,132,15
-13,selObject_40988696,Wesselinger Straße - Zweiraumwohnung in der Gartenstad...,"['Erdgeschosswohnung', '•', 'Leuna', 'Leuna']",['Garten'],Miete zzgl. NK 370 €,Wohnfläche ca. 64 m²,Zi. 2,132,15
-14,selObject_40945709,Mieterticket inklusive! Erstbezug nach Sanierung!,"['Wohnung', '•', 'Lutherstadt', 'Eisleben', 'Lutherstadt', 'Eisleben']",['Garten'],Miete zzgl. NK 790 €,Wohnfläche ca. 113 m²,Zi. 4,132,15
-15,selObject_40944255,3-Zimmer-Dachgeschosswohnung mit EBK,"['Dachgeschosswohnung', '•', 'Zeitz', 'Zeitz']",['EBK'],Miete zzgl. NK 330 €,Wohnfläche ca. 75 m²,Zi. 3,132,15
-16,selObject_40929764,Helle 3-Zimmer-Wohnung in Zentrumsnähe,"['Dachgeschosswohnung', '•', 'Zeitz', 'Zeitz']",['Garten'],Miete zzgl. NK 320 €,Wohnfläche ca. 75 m²,Zi. 3,132,15
-17,selObject_40919563,Kurzexposé 4034/1/5,"['Wohnung', '•', 'Zeitz', 'Zeitz']",['Balkon'],"Miete zzgl. NK 253,50 €",Wohnfläche ca. 51 m²,Zi. 2,132,15
-18,selObject_40916467,Fußfreundliche Erdgeschosswohnung!,"['Etagenwohnung', '•', 'Halle', 'Westliche', 'Neustadt']",[],Miete zzgl. NK 200 €,Wohnfläche ca. 34 m²,Zi. 1,132,15
-19,selObject_40916357,Direkt am Neustadt Centrum!,"['Etagenwohnung', '•', 'Halle', 'Südliche', 'Neustadt']",[],Miete zzgl. NK 200 €,Wohnfläche ca. 34 m²,Zi. 1,132,15
-20,selObject_40904307,"Hier wartet eine gut geschnittene 78,5 qm 3 Raum Wohnu...","['Wohnung', '•', 'Staßfurt', 'Staßfurt']",[],Miete zzgl. NK 450 €,Wohnfläche ca. 78 m²,Zi. 3,132,15
-21,selObject_40904028,++ 1 Monat Kaltmietfrei ++ Geräumige 3-Raum Wohnung,"['Wohnung', '•', 'Zeitz', 'Zeitz']",['Garten'],Miete zzgl. NK 385 €,Wohnfläche ca. 96 m²,Zi. 3,132,15
-22,selObject_40858469,1-Raum Wohnung - komplett modernisiert,"['Apartment', '•', 'Lutherstadt', 'Wittenberg', 'Apollensdorf']",['EBK'],Miete zzgl. NK 250 €,Wohnfläche ca. 30 m²,Zi. 1,132,15
-23,selObject_40774972,FRÜHLINSAKTION! Sanierte 4-Raum Wohnung mit Balkon,"['Etagenwohnung', '•', 'Burg', 'Burg']",[],Miete zzgl. NK 343 €,Wohnfläche ca. 69 m²,Zi. 4,132,15
-24,selObject_40774962,ERSTBEZUG nach Sanierung! 4-Raum,"['Etagenwohnung', '•', 'Burg', 'Burg']",['EBK'],Miete zzgl. NK 343 €,Wohnfläche ca. 69 m²,Zi. 4,132,15
-25,selObject_40774595,"+++Wunderschöne, Sanierte 4-Raum Wohnung mit EBK +...","['Etagenwohnung', '•', 'Burg', 'Burg']",['EBK'],Miete zzgl. NK 343 €,Wohnfläche ca. 69 m²,Zi. 4,132,15
-26,selObject_40746692,Aussicht gibt´s gratis!,"['Etagenwohnung', '•', 'Halle', 'Silberhöhe']",['Balkon'],Miete zzgl. NK 302 €,Wohnfläche ca. 61 m²,Zi. 3,132,15
+0,selObject_40532536,Schöne 3-Raum Wohnung + Balkon + EBK,"[['Etagenwohnung', '•', 'Staßfurt', 'Staßfurt']]",[],"Miete zzgl. NK 232,58 €",Wohnfläche ca. 72 m²,Zi. 3,132,15
+1,selObject_40497781,Single-Wohnung im Naturschutzgebiet von Loburg,"[['Etagenwohnung', '•', 'Loburg', 'Loburg']]",['Garten'],Miete zzgl. NK 175 €,Wohnfläche ca. 35 m²,Zi. 1,132,15
+2,selObject_40461745,*BESTPREISGARANTIE* Renovierte Single-Wohnung mit Gart...,"[['Etagenwohnung', '•', 'Klietz', 'Klietz']]",['Garten'],"Miete zzgl. NK 230,47 €",Wohnfläche ca. 50 m²,Zi. 2,132,15
+3,selObject_40461701,*Ruhige Lage* Frisch Renovierte 3 Zimmer Wohnung,"[['Etagenwohnung', '•', 'Klietz', 'Klietz']]",['Garten'],"Miete zzgl. NK 273,64 €",Wohnfläche ca. 60 m²,Zi. 3,132,15
+4,selObject_40460613,*FRISCH RENOVIERTE 3 ZW* Bestpreisgarantie,"[['Etagenwohnung', '•', 'Apenburg-Winterfeld', 'Apenburg']]",['Garten'],"Miete zzgl. NK 259,20 €",Wohnfläche ca. 61 m²,Zi. 3,132,15
+5,selObject_40460611,*BESTPREIS* Frisch Renovierte Single-Wohnung,"[['Wohnung', '•', 'Apenburg-Winterfeld', 'Apenburg']]",['Garten'],"Miete zzgl. NK 224,50 €",Wohnfläche ca. 50 m²,Zi. 2,132,15
+6,selObject_40460610,*Wohlfühloase* Frisch Renovierte Wohnung mit Gemeinsch...,"[['Wohnung', '•', 'Apenburg-Winterfeld', 'Apenburg']]",['Garten'],"Miete zzgl. NK 298,90 €",Wohnfläche ca. 68 m²,Zi. 4,132,15
+7,selObject_40460505,*BESTPREISGARANTIE* Renovierte Single-Wohnung,"[['Wohnung', '•', 'Apenburg-Winterfeld', 'Apenburg']]",['Garten'],"Miete zzgl. NK 224,50 €",Wohnfläche ca. 31 m²,Zi. 1,132,15
+8,selObject_40452829,2-Raum-Wohnung in bester Wohnlage von Sangerhausen,"[['Etagenwohnung', '•', 'Sangerhausen', 'Sangerhausen']]",[],Miete zzgl. NK 450 €,Wohnfläche ca. 73 m²,Zi. 2,132,15
+9,selObject_40423293,NEU: lichtdurchflutetes Wohnglück!,"[['Etagenwohnung', '•', 'Halle', 'Südstadt']]",['Balkon'],Miete zzgl. NK 323 €,Wohnfläche ca. 61 m²,Zi. 3,132,15
+10,selObject_40374523,Mieterticket inklusive! Wohnen mit Service in der Glum...,"[['Wohnung', '•', 'Lutherstadt', 'Eisleben', 'Lutherstadt', 'Eisleben']]","['Balkon', 'EBK']",Miete zzgl. NK 310 €,Wohnfläche ca. 51 m²,Zi. 2,132,15
+11,selObject_40374498,Mieterticket inklusive! Wohnen mit Service,"[['Wohnung', '•', 'Lutherstadt', 'Eisleben', 'Lutherstadt', 'Eisleben']]",['Balkon'],Miete zzgl. NK 320 €,Wohnfläche ca. 53 m²,Zi. 2,132,15
+12,selObject_40373259,"Wunderschöne NEU sanierte 2,5-Raum Wohnung","[['Wohnung', '•', 'Merseburg', 'Merseburg']]","['Balkon', 'Garten']",Miete zzgl. NK 390 €,Wohnfläche ca. 60 m²,"Zi. 2,5",132,15
+13,selObject_40343537,Großzügige 2-Raumwohnung in Naumburg,"[['Wohnung', '•', 'Naumburg', 'Beuditz']]",[],"Miete zzgl. NK 364,50 €",Wohnfläche ca. 66 m²,Zi. 2,132,15
+14,selObject_40322347,nahe des Geiseltalsees gelegene ruhige 2-Zi.-Whg. mit...,"[['Erdgeschosswohnung', '•', 'Mücheln']]",[],Miete zzgl. NK 268 €,Wohnfläche ca. 51 m²,Zi. 2,132,15
+15,selObject_40318689,3 Zi. ruhig mit Blick über die Elbe,"[['Wohnung', '•', 'Magdeburg', 'Salbke']]",['Garten'],Miete zzgl. NK 330 €,Wohnfläche ca. 60 m²,Zi. 2,132,15
+16,selObject_40315676,Renovieren - Einziehen - Fertig,"[['Dachgeschosswohnung', '•', 'Bitterfeld-Wolfen', 'Bitterfeld']]",[],Miete zzgl. NK 330 €,Wohnfläche ca. 68 m²,Zi. 2,132,15
+17,selObject_40305336,**renovierte 3-Raum-Wohnung mit Balkon im Grünen**,"[['Etagenwohnung', '•', 'Dessau-Roßlau', 'Süd']]",['Balkon'],Miete zzgl. NK 288 €,Wohnfläche ca. 57 m²,Zi. 3,132,15
+18,selObject_40305209,** Kleine Familien Wohnung - Sie müssen nur noch einzi...,"[['Apartment', '•', 'Dessau-Roßlau', 'Süd']]",['Balkon'],Miete zzgl. NK 320 €,Wohnfläche ca. 57 m²,Zi. 3,132,15
+19,selObject_40295054,"Neu sanierte schöne 3,5-Raum Wohnung","[['Etagenwohnung', '•', 'Merseburg', 'Merseburg']]","['Balkon', 'Garten']",Miete zzgl. NK 495 €,Wohnfläche ca. 76 m²,"Zi. 3,5",132,15
+20,selObject_40242142,Geräumige 4-Zimmer-Wohnung im Zentrum,"[['Wohnung', '•', 'Zeitz', 'Zeitz']]",[],Miete zzgl. NK 410 €,Wohnfläche ca. 115 m²,Zi. 4,132,15
+21,selObject_40242121,Zeit für die eigenen 4 Wände! + 750 EUR Neumietergutsc...,"[['Etagenwohnung', '•', 'Ausleben', 'Warsleben']]",[],Miete zzgl. NK 225 €,Wohnfläche ca. 50 m²,Zi. 2,132,15
+22,selObject_40242120,Entspanntes Wohnen zum kleinen Preis! + 750 EUR Neumie...,"[['Wohnung', '•', 'Ausleben', 'Warsleben']]",[],Miete zzgl. NK 250 €,Wohnfläche ca. 50 m²,Zi. 2,132,15
+23,selObject_40230089,Schöner wohnen am Rand von Eisleben - mit Gutscheinakt...,"[['Etagenwohnung', '•', 'Lutherstadt', 'Eisleben', 'Lutherstadt', 'Eisleben']]",['Balkon'],Miete zzgl. NK 281 €,Wohnfläche ca. 69 m²,Zi. 3,132,15
+24,selObject_40229663,Ihr neues Zuhause in ruhiger Nachbarschaft - Jetzt...,"[['Etagenwohnung', '•', 'Lutherstadt', 'Eisleben', 'Lutherstadt', 'Eisleben']]",['Balkon'],Miete zzgl. NK 331 €,Wohnfläche ca. 69 m²,Zi. 3,132,15
+25,selObject_40209930,"Wer hier oben wohnt, der wird belohnt!","[['Etagenwohnung', '•', 'Gardelegen', 'Gardelegen']]",['Balkon'],"Miete zzgl. NK 271,94 €",Wohnfläche ca. 60 m²,Zi. 3,132,15
+26,selObject_40209775,Gemütliche Wohnung für Sportler mit Gutschein*,"[['Etagenwohnung', '•', 'Gardelegen', 'Gardelegen']]",['Balkon'],"Miete zzgl. NK 271,94 €",Wohnfläche ca. 60 m²,Zi. 3,132,15

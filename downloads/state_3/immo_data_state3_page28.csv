@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44958168,Brinkum! 4 Zimmer-Maisonette-Wohnung mit Süd-West Balk...,"['Maisonette', '•', 'Stuhr', 'Brinkum']",[],Miete zzgl. NK 690 €,Wohnfläche ca. 106 m²,Zi. 4,28,3
-1,selObject_44958145,Objekt Nr: 00/694 Betreutes Wohnen in Barßel - Erstbez...,"['Dachgeschosswohnung', '•', 'Barßel', 'Barßel']",[],Miete zzgl. NK 590 €,Wohnfläche ca. 72 m²,Zi. 3,28,3
-2,selObject_44957880,Single-Wohnung mitten in der Stadt,"['Etagenwohnung', '•', 'Hildesheim', 'Mitte']",[],Miete zzgl. NK 290 €,Wohnfläche ca. 33 m²,Zi. 1,28,3
-3,selObject_44957397,***3 ZKB - Hochparterre mit Balkon im Orstkern von Bad...,"['Wohnung', '•', 'Bad', 'Zwischenahn', 'Bad', 'Zwischenahn', 'I']",['Balkon'],Miete zzgl. NK 650 €,Wohnfläche ca. 76 m²,Zi. 3,28,3
-4,selObject_44957147,** ERSTBEZUG nach Sanierung - 3 Zimmer-Wohnung mit...,"['Erdgeschosswohnung', '•', 'Buxtehude', 'Buxtehude']","['Balkon', 'EBK']",Miete zzgl. NK 705 €,Wohnfläche ca. 61 m²,Zi. 3,28,3
-5,selObject_44957121,"Helle, moderne 3-Zimmer-Wohnung in 1A-Lage von Syke!","['Dachgeschosswohnung', '•', 'Syke', 'Syke']",['EBK'],Miete zzgl. NK 600 €,Wohnfläche ca. 87 m²,Zi. 3,28,3
-6,selObject_44957119,Erstbezug: 2-Zimmer Wohnung in bester Lage mit Balkon...,"['Wohnung', '•', 'Hannover', 'Calenberger', 'Neustadt']","['Balkon', 'EBK']",Miete zzgl. NK 790 €,Wohnfläche ca. 51 m²,Zi. 2,28,3
-7,selObject_44957065,6006 - Moderne 2-Zimmer-Wohnung mit Terrasse im Orchid...,"['Erdgeschosswohnung', '•', 'Westerstede', 'Westerstede']",['EBK'],Miete zzgl. NK 460 €,Wohnfläche ca. 46 m²,Zi. 2,28,3
-8,selObject_44956908,2-Zi.-Whg. mit Lift und Balkon in Oldenburg,"['Wohnung', '•', 'Oldenburg', 'Bloherfelde']",['Balkon'],"Miete zzgl. NK 764,60 €",Wohnfläche ca. 76 m²,Zi. 2,28,3
-9,selObject_44956906,3 Zimmer-Wohnung im Erdgeschoss. Erstbezug nach Renovi...,"['Erdgeschosswohnung', '•', 'Lüneburg', 'Ebensberg']","['Garten', 'EBK']",Miete zzgl. NK 675 €,Wohnfläche ca. 75 m²,Zi. 3,28,3
-10,selObject_44956851,Sofort bezugsfrei! Mit Kamin & Balkon.,"['Etagenwohnung', '•', 'Seevetal', 'Hittfeld']","['Balkon', 'EBK']",Miete zzgl. NK 880 €,Wohnfläche ca. 79 m²,Zi. 2,28,3
-11,selObject_44956788,Traumhafte 2-Zimmer-Wohnung mit Wintergarten und Dacht...,"['Etagenwohnung', '•', 'Oldenburg', 'Innenstadt']","['Balkon', 'EBK']",Miete zzgl. NK 960 €,Wohnfläche ca. 68 m²,"Zi. 2,5",28,3
-12,selObject_44956766,Frisch renovierte helle 2-Zimmer-Wohnung in OS-Fledder,"['Etagenwohnung', '•', 'Osnabrück', 'Fledder']",[],Miete zzgl. NK 500 €,Wohnfläche ca. 55 m²,Zi. 2,28,3
-13,selObject_44956603,2 Zimmer Wohnung in Jever ab 01.09.2021 (zentrale Lage...,"['Wohnung', '•', 'Jever', 'Jever']",['Balkon'],Miete zzgl. NK 440 €,Wohnfläche ca. 58 m²,Zi. 2,28,3
-14,selObject_44956595,SONNIGE UND FREUNDLICHE 3 ZIMMER WOHNUNG,"['Dachgeschosswohnung', '•', 'Reppenstedt', 'Reppenstedt']","['Balkon', 'EBK']",Miete zzgl. NK 675 €,Wohnfläche ca. 69 m²,Zi. 3,28,3
-15,selObject_44956588,"Zu Vermieten - 2,5-Zimmer-Wohnung in Esens - Einziehen...","['Kein', 'Bild']",['Garten'],Miete zzgl. NK 415 €,Wohnfläche ca. 62 m²,"Zi. 2,5",28,3
-16,selObject_44956589,2 Zimmer Wohnung in Jever ab sofort (zentrale Lage),"['Dachgeschosswohnung', '•', 'Jever', 'Jever']",['Garten'],Miete zzgl. NK 380 €,Wohnfläche ca. 50 m²,Zi. 2,28,3
-17,selObject_44956540,"REPPENSTEDT-SONNIGE 1,5 ZIMMER WOHNUNG","['Etagenwohnung', '•', 'Reppenstedt', 'Dachtmissen']",['EBK'],Miete zzgl. NK 440 €,Wohnfläche ca. 43 m²,"Zi. 1,5",28,3
-18,selObject_44956536,3 Zimmer Wohnung mit Loggia in ruhiger Wohnlage,"['Etagenwohnung', '•', 'Reppenstedt', 'Reppenstedt']","['Balkon', 'EBK']",Miete zzgl. NK 645 €,Wohnfläche ca. 70 m²,Zi. 3,28,3
-19,selObject_44956533,WINSEN - WOHNEN UNMITTELBAR AM ZENTRUMSRAND,"['Etagenwohnung', '•', 'Winsen', 'Winsen']","['Balkon', 'EBK']",Miete zzgl. NK 950 €,Wohnfläche ca. 122 m²,Zi. 5,28,3
-20,selObject_44956404,"4,5-Zimmer Wohnung, 108qm, mit Blick über Göttingen,...","['Wohnung', '•', 'Göttingen', 'Göttingen']","['Balkon', 'EBK']",Miete zzgl. NK 980 €,Wohnfläche ca. 108 m²,"Zi. 4,5",28,3
-21,selObject_44956385,!!!Dreiraumwohnung im Obergeschoss inkl. Einbauküche!!...,"['Etagenwohnung', '•', 'Papenburg', 'Papenburg']",['EBK'],Miete zzgl. NK 390 €,Wohnfläche ca. 75 m²,Zi. 3,28,3
-22,selObject_44956338,+ 1 Zimmer mit Balkon +,"['Erdgeschosswohnung', '•', 'Salzgitter', 'Lebenstedt']",['Balkon'],Miete zzgl. NK 242 €,Wohnfläche ca. 37 m²,Zi. 1,28,3
-23,selObject_44956069,Gemütliche Wohnung zum 01.09. beziehbar,"['Dachgeschosswohnung', '•', 'Schneverdingen', 'Schneverdingen']",['EBK'],Miete zzgl. NK 357 €,Wohnfläche ca. 42 m²,Zi. 2,28,3
-24,selObject_44956045,Wohnen zwischen Apfel- und Zwetschgenbäumen,"['Etagenwohnung', '•', 'Jork', 'Jork']","['Garten', 'EBK']",Miete zzgl. NK 590 €,Wohnfläche ca. 80 m²,"Zi. 3,5",28,3
-25,selObject_44956043,Stilvoll wohnen mit Dachterrasse,"['Etagenwohnung', '•', 'Buxtehude', 'Buxtehude']","['Balkon', 'EBK']",Miete zzgl. NK 645 €,Wohnfläche ca. 77 m²,Zi. 2,28,3
-26,selObject_44956040,Exklusive und hochwertige Neubauwohnungen,"['Erdgeschosswohnung', '•', 'Buxtehude', 'Hedendorf']","['Balkon', 'EBK']",Miete zzgl. NK 1.040 €,Wohnfläche ca. 92 m²,Zi. 3,28,3
+0,selObject_44985996,*1 Kaltmiete geschenkt* - Moderne 2-Zi.-Wohnung mit...,"[['Apartment', '•', 'Celle', 'Blumlage']]",['Balkon'],Miete zzgl. NK 390 €,Wohnfläche ca. 51 m²,Zi. 2,28,3
+1,selObject_44985993,Maisonette - Wohnung mit 4 Zimmern,"[['Dachgeschosswohnung', '•', 'Ronnenberg', 'Empelde']]",['Balkon'],Miete zzgl. NK 1.019 €,Wohnfläche ca. 104 m²,Zi. 4,28,3
+2,selObject_44985963,Moderne 3-Zi.-Wohnung mit Terrasse,"[['Erdgeschosswohnung', '•', 'Lüneburg', 'Ebensberg']]",['EBK'],Miete zzgl. NK 920 €,Wohnfläche ca. 74 m²,Zi. 3,28,3
+3,selObject_44985809,Renovierte Dachgeschosswohnung in Bant zu vermieten!,"[['Dachgeschosswohnung', '•', 'Wilhelmshaven', 'Bant']]",[],Miete zzgl. NK 280 €,Wohnfläche ca. 46 m²,Zi. 2,28,3
+4,selObject_44985651,Schöne 3-Zimmer-Erdgeschosswohnung in zentraler Lage,"[['Erdgeschosswohnung', '•', 'Soltau', 'Soltau']]","['Garten', 'EBK']",Miete zzgl. NK 390 €,Wohnfläche ca. 60 m²,Zi. 3,28,3
+5,selObject_44985593,TOPMODERN - Neubau-Erstbezug in Zeven !,"[['Erdgeschosswohnung', '•', 'Zeven', 'Zeven']]",['EBK'],Miete zzgl. NK 440 €,Wohnfläche ca. 32 m²,Zi. 1,28,3
+6,selObject_44985590,TOPMODERN - Neubau-Erstbezug in Zeven !,"[['Erdgeschosswohnung', '•', 'Zeven', 'Zeven']]",['EBK'],Miete zzgl. NK 445 €,Wohnfläche ca. 32 m²,Zi. 1,28,3
+7,selObject_44985588,TOPMODERN - Neubau-Erstbezug in Zeven !,"[['Erdgeschosswohnung', '•', 'Zeven', 'Zeven']]",['EBK'],Miete zzgl. NK 455 €,Wohnfläche ca. 33 m²,Zi. 1,28,3
+8,selObject_44985587,TOPMODERN - Neubau-Erstbezug in Zeven !,"[['Erdgeschosswohnung', '•', 'Zeven', 'Zeven']]",['EBK'],Miete zzgl. NK 515 €,Wohnfläche ca. 38 m²,Zi. 1,28,3
+9,selObject_44985561,TOPMODERN - Neubau-Erstbezug in Zeven !,"[['Erdgeschosswohnung', '•', 'Zeven', 'Zeven']]",['EBK'],Miete zzgl. NK 445 €,Wohnfläche ca. 32 m²,Zi. 1,28,3
+10,selObject_44985557,TOPMODERN - Neubau-Erstbezug in Zeven !,"[['Erdgeschosswohnung', '•', 'Zeven', 'Zeven']]",['EBK'],Miete zzgl. NK 445 €,Wohnfläche ca. 32 m²,Zi. 1,28,3
+11,selObject_44985555,TOPMODERN - Neubau-Erstbezug in Zeven !,"[['Erdgeschosswohnung', '•', 'Zeven', 'Zeven']]",['EBK'],Miete zzgl. NK 450 €,Wohnfläche ca. 32 m²,Zi. 1,28,3
+12,selObject_44985552,TOPMODERN - Neubau-Erstbezug in Zeven !,"[['Erdgeschosswohnung', '•', 'Zeven', 'Zeven']]",['EBK'],Miete zzgl. NK 445 €,Wohnfläche ca. 32 m²,Zi. 1,28,3
+13,selObject_44985498,"Für 1,5 Jahre-Neubauwhg mit dem besonderen Flair eines...","[['Etagenwohnung', '•', 'Stuhr', 'Varrel']]","['Balkon', 'EBK']",Miete zzgl. NK 890 €,Wohnfläche ca. 90 m²,Zi. 3,28,3
+14,selObject_44985472,Helle und großzügige Wohnung mit Garage in Hannover...,"[['Etagenwohnung', '•', 'Hannover', 'Mitte']]","['Balkon', 'EBK']",Miete zzgl. NK 1.100 €,Wohnfläche ca. 100 m²,Zi. 2,28,3
+15,selObject_44985352,Schöne 2-Zimmer-Erdgeschosswohnung mit Terrasse und...,"[['Erdgeschosswohnung', '•', 'Oldenburg', 'Kreyenbrück']]",['Garten'],Miete zzgl. NK 517 €,Wohnfläche ca. 62 m²,Zi. 2,28,3
+16,selObject_44985341,Schöne 2-Zimmerwohnung in zentrumsnaher Lage von Jever,"[['Erdgeschosswohnung', '•', 'Jever', 'Jever']]",[],Miete zzgl. NK 350 €,Wohnfläche ca. 50 m²,Zi. 2,28,3
+17,selObject_44985182,Sanierte Altbauwohnung Wohnung im Herzen Jevers inkl....,"[['Etagenwohnung', '•', 'Jever', 'Jever']]",['EBK'],Miete zzgl. NK 625 €,Wohnfläche ca. 85 m²,Zi. 2,28,3
+18,selObject_44985132,NEUBAU: Moderne Wohnungen mit tollen Einbauküchen! EG...,"[['Dachgeschosswohnung', '•', 'Lastrup', 'Lastrup']]",[],Miete zzgl. NK 550 €,Wohnfläche ca. 50 m²,Zi. 2,28,3
+19,selObject_44985065,Helle 3-Zimmer Dachgeschoßwohnung mit ca.66m² in 37120...,"[['Dachgeschosswohnung', '•', 'Bovenden', 'Harste']]","['Garten', 'EBK']",Miete zzgl. NK 535 €,Wohnfläche ca. 66 m²,Zi. 3,28,3
+20,selObject_44985044,°Schicke Penthouse-Wohnung° mit herrlicher Sonnendacht...,"[['Penthouse', '•', 'Lüneburg', 'Lüne-Moorfeld']]",['EBK'],Miete zzgl. NK 1.056 €,Wohnfläche ca. 100 m²,Zi. 3,28,3
+21,selObject_44984860,3 Zimmer Whg. in Bookholzberg! Von Privat,"[['Erdgeschosswohnung', '•', 'Ganderkesee', 'Bookholzberg']]",['Garten'],Miete zzgl. NK 680 €,Wohnfläche ca. 77 m²,Zi. 3,28,3
+22,selObject_44984600,3-Zi-Whg. in Stelle zu vermieten,"[['Wohnung', '•', 'Stelle', 'Stelle']]","['Balkon', 'EBK']","Miete zzgl. NK 902,44 €",Wohnfläche ca. 82 m²,Zi. 3,28,3
+23,selObject_44984588,2-Zi.-Wohnung im 2.OG in guter Lage von Wilhelmshaven,"[['Etagenwohnung', '•', 'Wilhelmshaven', 'Innenstadt']]",['EBK'],Miete zzgl. NK 230 €,Wohnfläche ca. 33 m²,Zi. 2,28,3
+24,selObject_44984586,"3-Zi.-Obergeschosswohnung mit Balkon, Stellplatz &...","[['Etagenwohnung', '•', 'Oldenburg', 'Kreyenbrück']]",['EBK'],Miete zzgl. NK 840 €,Wohnfläche ca. 84 m²,Zi. 3,28,3
+25,selObject_44984505,"charmante Altbauwohnung mit Loggia, modern renoviert...","[['Etagenwohnung', '•', 'Osnabrück', 'Schölerberg']]","['Balkon', 'EBK']",Miete zzgl. NK 890 €,Wohnfläche ca. 90 m²,Zi. 3,28,3
+26,selObject_44984455,Neubauwohnung - Hochwertige 2-Zimmer Wohnung in Oldenb...,"[['Etagenwohnung', '•', 'Oldenburg', 'Osternburg']]",['Balkon'],Miete zzgl. NK 755 €,Wohnfläche ca. 72 m²,Zi. 2,28,3

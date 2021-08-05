@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_45008030,NEU 1 Zimmer-Appartment mit Aussicht,"['Etagenwohnung', '•', 'Norderstedt', 'Garstedt']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 383,35 €",Wohnfläche ca. 35 m²,Zi. 1,6,1
-1,selObject_45007763,NEU Zentral gelegene 3 Zimmer Wohnung,"['Wohnung', '•', 'Lübeck', 'St.', 'Jürgen']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 625 €,Wohnfläche ca. 67 m²,Zi. 3,6,1
-2,selObject_45007570,"NEU 1,5-Zimmer-Wohnung mit Einbauküche und Balkon","['Apartment', '•', 'Sierksdorf', 'Sierksdorf']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 435 €,Wohnfläche ca. 42 m²,"Zi. 1,5",6,1
-3,selObject_45007542,NEU Miete! Erdgeschosswohnung in bester Wohnlage von Flens...,"['Erdgeschosswohnung', '•', 'Flensburg', 'Westliche', 'Höhe']","['NEU', 'NEU']",Miete zzgl. NK 1.330 €,Wohnfläche ca. 148 m²,"Zi. 3,5",6,1
-4,selObject_45007394,NEU Schicke 3 Zimmerwohnung in ruhiger Gegend,"['Dachgeschosswohnung', '•', 'Itzehoe']","['NEU', 'NEU']","Miete zzgl. NK 377,87 €",Wohnfläche ca. 60 m²,Zi. 3,6,1
-5,selObject_45007021,"NEU Erkerwohnung, 2-Zimmer,Tiefgarage","['Apartment', '•', 'Neumünster', 'Innenstadt']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 459 €,Wohnfläche ca. 55 m²,Zi. 2,6,1
-6,selObject_45006936,NEU Ihr neues Zuhause: 2-Zimmer-Wohnung,"['Etagenwohnung', '•', 'Elmshorn']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 448,21 €",Wohnfläche ca. 53 m²,Zi. 2,6,1
-7,selObject_45006880,NEU Modernisierte 3 Zi.Whg. mit Aufzug und Balkon ab 02.09...,"['Etagenwohnung', '•', 'Altenholz', 'Klausdorf']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 631 €,Wohnfläche ca. 78 m²,Zi. 3,6,1
-8,selObject_45006860,"NEU Frischer Wind, frische Farben: Gestalten Sie Ihr neues...","['Etagenwohnung', '•', 'Kaltenkirchen']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 335,02 €",Wohnfläche ca. 48 m²,"Zi. 1,5",6,1
-9,selObject_45006834,NEU Ob jung oder jung geblieben: Genießen Sie die Vorzüge...,"['Erdgeschosswohnung', '•', 'Kiel', 'Schilksee']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 653 €,Wohnfläche ca. 77 m²,Zi. 3,6,1
-10,selObject_45006769,"NEU Renovierte 2,5 Zimmer Wohnung sucht neue Mieter!","['Wohnung', '•', 'Flensburg', 'Südstadt']","['NEU', 'NEU']",Miete zzgl. NK 455 €,Wohnfläche ca. 56 m²,"Zi. 2,5",6,1
-11,selObject_45005834,"NEU Modernes Wohnen: ""Exklusive barrierearme und energieef...","['Erdgeschosswohnung', '•', 'Reinbek']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 1.050 €,Wohnfläche ca. 76 m²,Zi. 3,6,1
-12,selObject_45005835,"NEU Modernes Wohnen: ""Exklusive barrierearme und energieef...","['Etagenwohnung', '•', 'Reinbek']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 870 €,Wohnfläche ca. 62 m²,Zi. 2,6,1
-13,selObject_45005833,"NEU Modernes Wohnen: ""Exklusive barrierearme und energieef...","['Etagenwohnung', '•', 'Reinbek']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 1.060 €,Wohnfläche ca. 75 m²,Zi. 3,6,1
-14,selObject_45005443,NEU Schöne Erdgeschoss 2-Zimmer Wohnung mit Terrasse und...,"['Erdgeschosswohnung', '•', 'Malente', 'Benz']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 640 €,Wohnfläche ca. 60 m²,Zi. 2,6,1
-15,selObject_45005387,NEU Lübeck 2-Zimmer-Wohnung zu vermieten,"['Wohnung', '•', 'Lübeck', 'Buntekuh']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 440 €,Wohnfläche ca. 50 m²,Zi. 2,6,1
-16,selObject_45005314,NEU helle 2-Zimmer-Erdgeschoss-Wohnung in S-Bahn-Nähe,"['Erdgeschosswohnung', '•', 'Pinneberg']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 540 €,Wohnfläche ca. 60 m²,Zi. 2,6,1
-17,selObject_45005294,NEU 2-Raum-Wohnung - Bezugsfertig ab sofort,"['Wohnung', '•', 'Elmshorn']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 600 €,Wohnfläche ca. 55 m²,Zi. 2,6,1
-18,selObject_45005272,NEU Attraktive Neubauwohnung - Balkon - Top-Ausstattung,"['Wohnung', '•', 'Schenefeld']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 895 €,Wohnfläche ca. 69 m²,Zi. 3,6,1
-19,selObject_45004997,NEU 3 Zimmer Wohnung in Leck mit 2 Duschbädern und Einbauk...,"['Etagenwohnung', '•', 'Leck', 'Leck']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 480 €,Wohnfläche ca. 77 m²,Zi. 3,6,1
-20,selObject_45004917,NEU ERSTBEZUG NACH UMPFANGREICHEN ARBEITEN,"['Etagenwohnung', '•', 'Wedel']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 931 €,Wohnfläche ca. 74 m²,Zi. 3,6,1
-21,selObject_45004293,NEU Erstbezug nach Sanierung! Möblierte 2 ZKB Balkon in...,"['Etagenwohnung', '•', 'Reinbek']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 870 €,Wohnfläche ca. 58 m²,Zi. 2,6,1
-22,selObject_45004009,NEU Hier findet jeder seinen Platz: geräumige 3-Zimmer-Woh...,"['Erdgeschosswohnung', '•', 'Klein', 'Pampau']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 575 €,Wohnfläche ca. 79 m²,Zi. 3,6,1
-23,selObject_45003987,NEU Gelegenheit: ansprechende 2-Zimmer-Wohnung,"['Etagenwohnung', '•', 'Kiel', 'Neumühlen-Dietrichsdorf']","['NEU', 'NEU']",Miete zzgl. NK 350 €,Wohnfläche ca. 39 m²,Zi. 2,6,1
-24,selObject_45003979,NEU Perfekt für uns: individuelle 2-Zimmer-Wohnung,"['Etagenwohnung', '•', 'Kiel', 'Mettenhof']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 439 €,Wohnfläche ca. 59 m²,Zi. 2,6,1
-25,selObject_45003976,NEU Günstige Wohnung - ideal für Rentner oder Studenten,"['Erdgeschosswohnung', '•', 'Kiel', 'Ellerbek']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 389 €,Wohnfläche ca. 40 m²,Zi. 1,6,1
-26,selObject_45003898,NEU Gemütliche Wohnung in Seniorenwohnanlage zu vermieten,"['Erdgeschosswohnung', '•', 'Altenholz', 'Stift']","['NEU', 'NEU']",Miete zzgl. NK 425 €,Wohnfläche ca. 54 m²,Zi. 2,6,1
+0,selObject_45026384,NEU Schöne 2-Zimmer-Wohnung im Herzen Rendsburgs,"[['Etagenwohnung', '•', 'Rendsburg']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 486 €,Wohnfläche ca. 54 m²,Zi. 2,6,1
+1,selObject_45026362,"NEU 3-Zimmer-Erdgeschosswohnung, Am Brautsee 20, Schleswig","[['Erdgeschosswohnung', '•', 'Schleswig']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 375 €,Wohnfläche ca. 67 m²,Zi. 3,6,1
+2,selObject_45026105,"NEU 2-Zi.-Wohnung, Hafendamm 53, Flensburg","[['Dachgeschosswohnung', '•', 'Flensburg', 'Jürgensby']]","['NEU', 'NEU']",Miete zzgl. NK 320 €,Wohnfläche ca. 45 m²,Zi. 2,6,1
+3,selObject_45025455,NEU TFI: Sonnige 3 Zimmer Wohnung in Flensburg Mürwik!,"[['Etagenwohnung', '•', 'Flensburg', 'Mürwik']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 490 €,Wohnfläche ca. 66 m²,Zi. 3,6,1
+4,selObject_45025245,"NEU 3-Zimmer-Wohnung, Beethovenstraße 31, Flensburg","[['Wohnung', '•', 'Flensburg', 'Engelsby']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 385 €,Wohnfläche ca. 69 m²,Zi. 3,6,1
+5,selObject_45025074,"NEU 3-Zimmer-Wohnung (nur mit Wohnberechtigungsschein),...","[['Dachgeschosswohnung', '•', 'Wees', 'Oxbüll']]","['NEU', 'NEU', 'EBK']","Miete zzgl. NK 365,15 €",Wohnfläche ca. 65 m²,Zi. 3,6,1
+6,selObject_45024898,NEU ++ 5215 - NEUBAU-ERSTBEZUG- 3-ZIMMER NEUBAU-KOMFORTWO...,"[['Etagenwohnung', '•', 'Henstedt-Ulzburg']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 970 €,Wohnfläche ca. 88 m²,Zi. 3,6,1
+7,selObject_45024687,NEU Schöne 4 Zimmer Wohnung in Schlutup,"[['Wohnung', '•', 'Lübeck', 'Schlutup']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 800 €,Wohnfläche ca. 88 m²,Zi. 4,6,1
+8,selObject_45024220,NEU renovierte 2-Zimmer Wohnung mit Balkon und Blick ins...,"[['Etagenwohnung', '•', 'Norderstedt', 'Garstedt']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 467,23 €",Wohnfläche ca. 40 m²,Zi. 2,6,1
+9,selObject_45024014,NEU 2 Zimmerwohnung mit Balkon. Nähe Rosengarten,"[['Etagenwohnung', '•', 'Elmshorn']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 620 €,Wohnfläche ca. 75 m²,Zi. 2,6,1
+10,selObject_45024000,NEU Attraktiv und ruhig wohnen in Basedow,"[['Kein', 'Bild'], ['Wohnung', '•', 'Basedow']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 320 €,Wohnfläche ca. 50 m²,Zi. 2,6,1
+11,selObject_45023996,NEU 3 Raum-Wohnung in Ellerbek / Anfragen bitte nur per...,"[['Erdgeschosswohnung', '•', 'Ellerbek']]","['NEU', 'NEU']",Miete zzgl. NK 825 €,Wohnfläche ca. 90 m²,Zi. 3,6,1
+12,selObject_45023823,NEU Charmante 3-Zimmer Wohnung mit Balkon in Witzhave,"[['Dachgeschosswohnung', '•', 'Witzhave']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 800 €,Wohnfläche ca. 92 m²,Zi. 3,6,1
+13,selObject_45023678,NEU Generationshof GRABBE Tolle barrierefreie 1 Zimmer...,"[['Erdgeschosswohnung', '•', 'Quickborn']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 690 €,Wohnfläche ca. 52 m²,Zi. 1,6,1
+14,selObject_45023649,NEU westimmobilien: Gepflegte 2 ½ Zimmer Wohnung mit herr...,"[['Etagenwohnung', '•', 'Schenefeld']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 680 €,Wohnfläche ca. 68 m²,"Zi. 2,5",6,1
+15,selObject_45023555,NEU Helle 2 Zimmer -Wohnung in Uni-Nähe!,"[['Wohnung', '•', 'Kiel', 'Wik']]","['NEU', 'NEU']",Miete zzgl. NK 480 €,Wohnfläche ca. 51 m²,Zi. 2,6,1
+16,selObject_45023515,"NEU Schöne, helle Dachgeschosswohnung mt Balkon nahe Innen...","[['Dachgeschosswohnung', '•', 'Pinneberg']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 550 €,Wohnfläche ca. 62 m²,Zi. 2,6,1
+17,selObject_45022838,NEU 2-Zimmer zentrumsnahe Wohnung in Elmshorn,"[['Etagenwohnung', '•', 'Elmshorn']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 540 €,Wohnfläche ca. 60 m²,Zi. 2,6,1
+18,selObject_45022821,NEU 2-Zimmer zentrumsnahe Wohnung in Elmshorn,"[['Etagenwohnung', '•', 'Elmshorn']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 480 €,Wohnfläche ca. 60 m²,Zi. 2,6,1
+19,selObject_45022705,NEU 2 Zi-Wohnung Allensteiner Str. 28 in 21493 Schwarzenbe...,"[['Erdgeschosswohnung', '•', 'Schwarzenbek', 'Schwarzenbek']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 385 €,Wohnfläche ca. 49 m²,Zi. 2,6,1
+20,selObject_45022688,NEU Erstbezug nach Modernisierung! 2 1/2-Zimmer-Wohnung...,"[['Etagenwohnung', '•', 'Lübeck', 'St.', 'Lorenz', 'Nord']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 590 €,Wohnfläche ca. 62 m²,Zi. 3,6,1
+21,selObject_45022669,NEU Barrierearme 2 Zimmer-Wohnung am Ehrenhain Park,"[['Etagenwohnung', '•', 'Kaltenkirchen']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 850 €,Wohnfläche ca. 74 m²,Zi. 2,6,1
+22,selObject_45022668,NEU Helle 3-Zimmer-Wohnung mit Einbauküche und Balkon,"[['Apartment', '•', 'Kiel', 'Hassee']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 650 €,Wohnfläche ca. 71 m²,Zi. 3,6,1
+23,selObject_45022643,NEU Mansardenzimmer in der Holtenauer Str. 90 in Kiel -...,"[['Etagenwohnung', '•', 'Kiel', 'Südfriedhof']]","['NEU', 'NEU']",Miete zzgl. NK 110 €,Wohnfläche ca. 8 m²,Zi. 1,6,1
+24,selObject_45022203,NEU ***Anschauen-Einziehen-Wohlfühlen***,"[['Etagenwohnung', '•', 'Neumünster', 'Innenstadt']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 505 €,Wohnfläche ca. 61 m²,"Zi. 2,5",6,1
+25,selObject_45022006,NEU 3-Zimmerwohnung mit Balkon in Ahrensbök,"[['Etagenwohnung', '•', 'Ahrensbök', 'Ahrensbök']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 400 €,Wohnfläche ca. 71 m²,Zi. 3,6,1
+26,selObject_45021481,"NEU Hier lässt es sich aushalten: sanierte 2,5-Zimmer-Wohn...","[['Etagenwohnung', '•', 'Kiel', 'Gaarden-Ost']]","['NEU', 'NEU']","Miete zzgl. NK 548,69 €",Wohnfläche ca. 69 m²,"Zi. 2,5",6,1

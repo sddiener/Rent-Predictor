@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_42218247,"2,5 Zimmer Luxuswohnung in Toplage Herrieden","['Maisonette', '•', 'Herrieden', 'Herrieden']",['EBK'],Miete zzgl. NK 990 €,Wohnfläche ca. 86 m²,"Zi. 2,5",205,9
-1,selObject_42208822,Renovierte 4-Zimmer-Wohnung in 95615 Marktredwitz/Bran...,"['Erdgeschosswohnung', '•', 'Marktredwitz', 'Marktredwitz']",['Garten'],Miete zzgl. NK 790 €,Wohnfläche ca. 123 m²,Zi. 3,205,9
-2,selObject_42207333,Hochwertig möbliertes Apartment mit Garten zum Erstbez...,"['Erdgeschosswohnung', '•', 'München', 'Untergiesing-Harlaching']","['Balkon', 'EBK']",Miete zzgl. NK 1.020 €,Wohnfläche ca. 35 m²,Zi. 1,205,9
-3,selObject_42199065,"4-Zimmer-Mietwohnung im Dachgeschoss im Baugebiet ""Am...","['Dachgeschosswohnung', '•', 'Abensberg', 'Abensberg']",['Balkon'],Miete zzgl. NK 690 €,Wohnfläche ca. 90 m²,Zi. 4,205,9
-4,selObject_42188617,Studenten willkommen,"['Wohnung', '•', 'Erlangen', 'Burgberg']",['EBK'],Miete zzgl. NK 425 €,Wohnfläche ca. 26 m²,Zi. 1,205,9
-5,selObject_42185725,Komplett eingerichtete 1-Zi-Whg. mit Terrasse nah der...,"['Wohnung', '•', 'Erding', 'Altenerding']",['EBK'],Miete zzgl. NK 1.000 €,Wohnfläche ca. 45 m²,Zi. 1,205,9
-6,selObject_42182264,Exklusive Penthousewohnung mit Dachterrasse nähe der...,"['Penthouse', '•', 'Erding', 'Klettham']","['Balkon', 'EBK']",Miete zzgl. NK 1.950 €,Wohnfläche ca. 124 m²,Zi. 2,205,9
-7,selObject_42181877,Vermietung der KLOSTERGÄRTEN in Neumarkt - Servicewohn...,"['Wohnung', '•', 'Neumarkt', 'Neumarkt']",[],Miete zzgl. NK 806 €,Wohnfläche ca. 60 m²,Zi. 2,205,9
-8,selObject_42181529,Erstbezug - Platz auch für ein Ehepaar!,"['Erdgeschosswohnung', '•', 'Neumarkt', 'Neumarkt']",[],Miete zzgl. NK 833 €,Wohnfläche ca. 63 m²,Zi. 2,205,9
-9,selObject_42181509,Erstbezug - 2-Zimmer-Wohnung mit schöner Aussicht,"['Erdgeschosswohnung', '•', 'Neumarkt', 'Neumarkt']",['Garten'],Miete zzgl. NK 786 €,Wohnfläche ca. 59 m²,"Zi. 1,5",205,9
-10,selObject_42181347,Vermietung der KLOSTERGÄRTEN in Neumarkt - Servicewohn...,"['Wohnung', '•', 'Neumarkt', 'Neumarkt']",[],Miete zzgl. NK 793 €,Wohnfläche ca. 57 m²,Zi. 2,205,9
-11,selObject_42166825,Möbliertes 1-Zimmer-DG-Apartment in ruhiger Lage von...,"['Dachgeschosswohnung', '•', 'Röttenbach']",[],Miete zzgl. NK 320 €,Wohnfläche ca. 35 m²,Zi. 1,205,9
-12,selObject_42145931,NEUBAU | W4 | großzügige 2-Zimmer Wohnung | barrierefr...,"['Erdgeschosswohnung', '•', 'Seeon', 'Seeon']",['Balkon'],Miete zzgl. NK 860 €,Wohnfläche ca. 86 m²,Zi. 2,205,9
-13,selObject_42091478,exklusive Loft Terrassenwohnung an der Universität ...,"['Wohnung', '•', 'München', 'Maxvorstadt']",[],Miete zzgl. NK 1.650 €,Wohnfläche ca. 65 m²,Zi. 2,205,9
-14,selObject_42083479,Möbliertes 1 Zimmer Apartment,"['Apartment', '•', 'Nürnberg', 'Gleißbühl']",[],Miete zzgl. NK 580 €,Wohnfläche ca. 20 m²,Zi. 1,205,9
-15,selObject_42060055,FÜR MAXIMAL 2 PERSONEN (KEINE WG): FRISCH RENOVIERTE...,"['Etagenwohnung', '•', 'Nürnberg', 'Steinbühl']",[],Miete zzgl. NK 600 €,Wohnfläche ca. 62 m²,Zi. 2,205,9
-16,selObject_42046256,!NEUBAU! Exklusive 4-Zimmer-Wohnung mit Terrasse oder...,"['Etagenwohnung', '•', 'Deggendorf', 'Deggendorf']",[],Miete zzgl. NK 1.355 €,Wohnfläche ca. 129 m²,Zi. 4,205,9
-17,selObject_42046203,!NEUBAU! Exklusive 4-Zimmer-Wohnung mit Balkon,"['Etagenwohnung', '•', 'Deggendorf', 'Deggendorf']",[],Miete zzgl. NK 1.170 €,Wohnfläche ca. 111 m²,Zi. 4,205,9
-18,selObject_42046169,"1-Zi und 1,5-Zi Wohnungen","['Apartment', '•', 'Altdorf', 'Röthenbach']",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 20 m²,Zi. 1,205,9
-19,selObject_42046163,!NEUBAU! Exklusive 4-Zimmer-Wohnung mit Balkon,"['Etagenwohnung', '•', 'Deggendorf', 'Deggendorf']",[],Miete zzgl. NK 1.350 €,Wohnfläche ca. 128 m²,Zi. 4,205,9
-20,selObject_42046117,!NEUBAU! Exklusive 3-Zimmer-Wohnung mit Balkon,"['Etagenwohnung', '•', 'Deggendorf', 'Deggendorf']",[],Miete zzgl. NK 895 €,Wohnfläche ca. 85 m²,Zi. 3,205,9
-21,selObject_42046089,!NEUBAU! Exklusive 3-Zimmer-Wohnung mit Balkon,"['Etagenwohnung', '•', 'Deggendorf', 'Deggendorf']",[],Miete zzgl. NK 965 €,Wohnfläche ca. 92 m²,Zi. 3,205,9
-22,selObject_42035539,Möblierte Einliegerwohnung mit Garten in Leinach nur...,"['Wohnung', '•', 'Leinach']","['Balkon', 'Garten']",Miete zzgl. NK 540 €,Wohnfläche ca. 50 m²,Zi. 2,205,9
-23,selObject_42018891,Exklusive 3-Zimmer-Wohnung mit Loggia und Balkon,"['Dachgeschosswohnung', '•', 'Regensburg', 'Innenstadt']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.110 €,Wohnfläche ca. 69 m²,Zi. 3,205,9
-24,selObject_42018889,Zum Erstebezug: 3-Zimmer-Wohnung mit Einbauküche,"['Wohnung', '•', 'Regensburg', 'Innenstadt']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.170 €,Wohnfläche ca. 77 m²,Zi. 3,205,9
-25,selObject_42014333,Beziehbares Studentenappartement in ruhiger Stadtlage...,"['Etagenwohnung', '•', 'Passau', 'Haidenhof-Nord']",[],Miete zzgl. NK 280 €,Wohnfläche ca. 19 m²,Zi. 1,205,9
-26,selObject_42000719,ZU MIETEN! - STADT VILSHOFEN AN DER DONAU - MODERNE...,"['Wohnung', '•', 'Vilshofen', 'Vilshofen']",['Balkon'],Miete zzgl. NK 740 €,Wohnfläche ca. 98 m²,Zi. 3,205,9
+0,selObject_42306074,BUSINESSAPARTMENT MIT GROßER DACHTERRASSE - voll möbli...,"[['Wohnung', '•', 'Erlangen', 'Anger']]","['Balkon', 'EBK']",Miete zzgl. NK 735 €,Wohnfläche ca. 35 m²,Zi. 1,205,9
+1,selObject_42304888,Leopoldstrasse (U-Bahn Giselastraße) City-Appartement,"[['Etagenwohnung', '•', 'München', 'Schwabing-Freimann']]",['EBK'],Miete zzgl. NK 1.000 €,Wohnfläche ca. 27 m²,Zi. 1,205,9
+2,selObject_42304516,"(3x) voll möblierte Wohnung in Würzburg-Frld, zeitlic...","[['Wohnung', '•', 'Würzburg', 'Frauenland']]",[],Preis Auf Anfrage,Wohnfläche ca. 80 m²,Zi. 3,205,9
+3,selObject_42291524,Möblierte Studentenapartments in der Erlanger Innensta...,"[['Wohnung', '•', 'Erlangen', 'Innenstadt']]",['EBK'],Preis Auf Anfrage,,Zi. 1,205,9
+4,selObject_42291401,Nur noch wenige komplett möblierte Studentenapartments...,"[['Wohnung', '•', 'Erlangen', 'Innenstadt']]",['EBK'],Preis Auf Anfrage,,Zi. 1,205,9
+5,selObject_42290899,Kernsanierte 3-Zimmer-Wohnung in Selb,"[['Wohnung', '•', 'Selb', 'Selb']]",[],Miete zzgl. NK 550 €,Wohnfläche ca. 85 m²,Zi. 3,205,9
+6,selObject_42283138,ENGEL & VÖLKERS - Großzügige Dachgeschosswohnung in...,"[['Dachgeschosswohnung', '•', 'München', 'Trudering-Riem']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.990 €,Wohnfläche ca. 125 m²,"Zi. 3,5",205,9
+7,selObject_42274335,3-Zimmer-Wohnung im Zentrum von Bad Kissingen,"[['Etagenwohnung', '•', 'Bad', 'Kissingen', 'Bad', 'Kissingen']]",[],Miete zzgl. NK 778 €,Wohnfläche ca. 87 m²,Zi. 3,205,9
+8,selObject_42273654,2-Zimmer-Wohnung in Hof mit EBK,"[['Etagenwohnung', '•', 'Hof', 'Innenstadt']]",[],Miete zzgl. NK 300 €,Wohnfläche ca. 48 m²,Zi. 2,205,9
+9,selObject_42273279,Möblierte 3 Zimmerwohnung im Zentrum von München,"[['Etagenwohnung', '•', 'München', 'Ludwigsvorstadt-Isarvorstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 1.900 €,Wohnfläche ca. 65 m²,Zi. 3,205,9
+10,selObject_42273005,QVIII - A MASTERS HOME Möblierte Maisonette Wohnung im...,"[['Maisonette', '•', 'München', 'Altstadt-Lehel']]",['EBK'],Miete zzgl. NK 6.772 €,Wohnfläche ca. 159 m²,Zi. 2,205,9
+11,selObject_42272961,QVIII - FALL IN LOVE WITH MUNICH Möblierte Maisonette...,"[['Maisonette', '•', 'München', 'Altstadt-Lehel']]",['EBK'],Miete zzgl. NK 3.997 €,Wohnfläche ca. 94 m²,Zi. 2,205,9
+12,selObject_42258696,Wohnen auf Zeit,"[['Wohnung', '•', 'Bad', 'Neustadt', 'Bad', 'Neustadt']]",[],Preis Auf Anfrage,,,205,9
+13,selObject_42218413,3 Zimmer Luxuswohnung in Toplage Herrieden,"[['Maisonette', '•', 'Herrieden', 'Herrieden']]",['Garten'],Miete zzgl. NK 1.100 €,Wohnfläche ca. 90 m²,Zi. 3,205,9
+14,selObject_42218247,"2,5 Zimmer Luxuswohnung in Toplage Herrieden","[['Maisonette', '•', 'Herrieden', 'Herrieden']]",['EBK'],Miete zzgl. NK 990 €,Wohnfläche ca. 86 m²,"Zi. 2,5",205,9
+15,selObject_42208822,Renovierte 4-Zimmer-Wohnung in 95615 Marktredwitz/Bran...,"[['Erdgeschosswohnung', '•', 'Marktredwitz', 'Marktredwitz']]",['Garten'],Miete zzgl. NK 790 €,Wohnfläche ca. 123 m²,Zi. 3,205,9
+16,selObject_42199065,"4-Zimmer-Mietwohnung im Dachgeschoss im Baugebiet ""Am...","[['Dachgeschosswohnung', '•', 'Abensberg', 'Abensberg']]",['Balkon'],Miete zzgl. NK 690 €,Wohnfläche ca. 90 m²,Zi. 4,205,9
+17,selObject_42188617,Studenten willkommen,"[['Wohnung', '•', 'Erlangen', 'Burgberg']]",['EBK'],Miete zzgl. NK 425 €,Wohnfläche ca. 26 m²,Zi. 1,205,9
+18,selObject_42185725,Komplett eingerichtete 1-Zi-Whg. mit Terrasse nah der...,"[['Wohnung', '•', 'Erding', 'Altenerding']]",['EBK'],Miete zzgl. NK 1.000 €,Wohnfläche ca. 45 m²,Zi. 1,205,9
+19,selObject_42182264,Exklusive Penthousewohnung mit Dachterrasse nähe der...,"[['Penthouse', '•', 'Erding', 'Klettham']]","['Balkon', 'EBK']",Miete zzgl. NK 1.950 €,Wohnfläche ca. 124 m²,Zi. 2,205,9
+20,selObject_42181877,Vermietung der KLOSTERGÄRTEN in Neumarkt - Servicewohn...,"[['Wohnung', '•', 'Neumarkt', 'Neumarkt']]",[],Miete zzgl. NK 806 €,Wohnfläche ca. 60 m²,Zi. 2,205,9
+21,selObject_42181529,Erstbezug - Platz auch für ein Ehepaar!,"[['Erdgeschosswohnung', '•', 'Neumarkt', 'Neumarkt']]",[],Miete zzgl. NK 833 €,Wohnfläche ca. 63 m²,Zi. 2,205,9
+22,selObject_42181509,Erstbezug - 2-Zimmer-Wohnung mit schöner Aussicht,"[['Erdgeschosswohnung', '•', 'Neumarkt', 'Neumarkt']]",['Garten'],Miete zzgl. NK 786 €,Wohnfläche ca. 59 m²,"Zi. 1,5",205,9
+23,selObject_42181347,Vermietung der KLOSTERGÄRTEN in Neumarkt - Servicewohn...,"[['Wohnung', '•', 'Neumarkt', 'Neumarkt']]",[],Miete zzgl. NK 793 €,Wohnfläche ca. 57 m²,Zi. 2,205,9
+24,selObject_42166825,Möbliertes 1-Zimmer-DG-Apartment in ruhiger Lage von...,"[['Dachgeschosswohnung', '•', 'Röttenbach']]",[],Miete zzgl. NK 320 €,Wohnfläche ca. 35 m²,Zi. 1,205,9
+25,selObject_42145931,NEUBAU | W4 | großzügige 2-Zimmer Wohnung | barrierefr...,"[['Erdgeschosswohnung', '•', 'Seeon', 'Seeon']]",['Balkon'],Miete zzgl. NK 860 €,Wohnfläche ca. 86 m²,Zi. 2,205,9
+26,selObject_42091478,exklusive Loft Terrassenwohnung an der Universität ...,"[['Wohnung', '•', 'München', 'Maxvorstadt']]",[],Miete zzgl. NK 1.650 €,Wohnfläche ca. 65 m²,Zi. 2,205,9

@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44839389,Große Dachgeschosswohnung,"['Wohnung', '•', 'Salzgitter', 'Lebenstedt']",[],Miete zzgl. NK 341 €,Wohnfläche ca. 68 m²,Zi. 2,53,3
-1,selObject_44839362,Schöne 3-Zimmer-Wohnung,"['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']",[],Miete zzgl. NK 313 €,Wohnfläche ca. 59 m²,Zi. 3,53,3
-2,selObject_44839354,Helle 2-Zimmer-Dachgeschoss-Wohnung mit Loggia!,"['Dachgeschosswohnung', '•', 'Stade', 'Stade']","['Balkon', 'EBK']",Miete zzgl. NK 647 €,Wohnfläche ca. 84 m²,Zi. 2,53,3
-3,selObject_44839319,3-Zimmer-Wohnung mit Dusche und Wanne,"['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']",[],Miete zzgl. NK 341 €,Wohnfläche ca. 66 m²,Zi. 3,53,3
-4,selObject_44839286,"Schöne 2,5-Zimmer-EG-Wohnung wartet auf neue Bewohner","['Erdgeschosswohnung', '•', 'Barsinghausen', 'Barsinghausen']",[],"Miete zzgl. NK 478,85 €",Wohnfläche ca. 61 m²,"Zi. 2,5",53,3
-5,selObject_44837945,"Erstbezug: Hochwertige 2,5-Zimmer-Wohnung mit überdach...","['Wohnung', '•', 'Harsefeld', 'Harsefeld']",['EBK'],Miete zzgl. NK 875 €,Wohnfläche ca. 70 m²,"Zi. 2,5",53,3
-6,selObject_44837943,Hochwertige 2-Zimmer-Wohnung mit überdachter Dachterra...,"['Wohnung', '•', 'Harsefeld', 'Harsefeld']",['EBK'],Miete zzgl. NK 940 €,Wohnfläche ca. 75 m²,Zi. 2,53,3
-7,selObject_44837481,2 Zimmer Wohnung mit Balkon - Wiesenhof - sofort verfü...,"['Etagenwohnung', '•', 'Wilhelmshaven', 'Aldenburg']",['Balkon'],Miete zzgl. NK 327 €,Wohnfläche ca. 53 m²,Zi. 2,53,3
-8,selObject_44835060,**possiel makes it possible** Wohnung in Wolfsburg -...,"['Etagenwohnung', '•', 'Wolfsburg', 'Innenstadt']",['Garten'],Miete zzgl. NK 650 €,Wohnfläche ca. 65 m²,Zi. 3,53,3
-9,selObject_44835047,3-Zimmer-Wohnung im Zentrum von Ganderkesee,"['Wohnung', '•', 'Ganderkesee', 'Almsloh']","['Balkon', 'EBK']",Miete zzgl. NK 790 €,Wohnfläche ca. 84 m²,Zi. 3,53,3
-10,selObject_44833829,+++ 3-ZIMMER-WOHNUNG MIT BALKON +++,"['Etagenwohnung', '•', 'Seesen', 'Seesen']",['Balkon'],"Miete zzgl. NK 384,66 €",Wohnfläche ca. 69 m²,Zi. 3,53,3
-11,selObject_44833501,6005 - Uninnahes Singleappartement mit zusätzlicher...,"['Etagenwohnung', '•', 'Oldenburg', 'Eversten']",[],Miete zzgl. NK 309 €,Wohnfläche ca. 34 m²,"Zi. 1,5",53,3
-12,selObject_44832687,Dachgeschosswohnung in ruhiger Lage,"['Dachgeschosswohnung', '•', 'Salzgitter', 'Lebenstedt']",[],Miete zzgl. NK 277 €,Wohnfläche ca. 48 m²,Zi. 2,53,3
-13,selObject_44832627,Liebenburg Ortsteil,"['Wohnung', '•', 'Liebenburg', 'Othfresen']",[],Miete zzgl. NK 225 €,Wohnfläche ca. 43 m²,Zi. 3,53,3
-14,selObject_44832100,Geismar Kiesseestraße: Schöne 3-Zimmer-Wohnung Kie DG...,"['Dachgeschosswohnung', '•', 'Göttingen', 'Geismar']",['EBK'],Miete zzgl. NK 585 €,Wohnfläche ca. 60 m²,Zi. 3,53,3
-15,selObject_44832039,Buxtehude 42qm 2-Zimmer (1.OG),"['Wohnung', '•', 'Buxtehude', 'Buxtehude']",['Balkon'],Miete zzgl. NK 450 €,Wohnfläche ca. 42 m²,Zi. 2,53,3
-16,selObject_44832029,Vollsaniert und günstig! 3 Zimmer im Dachgeschoss zu...,"['Dachgeschosswohnung', '•', 'Wilhelmshaven', 'Fedderwardergroden']",['Garten'],Miete zzgl. NK 346 €,Wohnfläche ca. 55 m²,Zi. 3,53,3
-17,selObject_44832005,Loftwohnung Neubau - barrierearm,"['Loft-Studio-Atelier', '•', 'Bad', 'Bentheim', 'Bad', 'Bentheim']",['Balkon'],Miete zzgl. NK 990 €,Wohnfläche ca. 120 m²,Zi. 2,53,3
-18,selObject_44831933,Zentrale Neubau-Wohnung mit Balkon - Barrierearm,"['Etagenwohnung', '•', 'Bad', 'Bentheim', 'Bad', 'Bentheim']",['Balkon'],Miete zzgl. NK 690 €,Wohnfläche ca. 81 m²,Zi. 2,53,3
-19,selObject_44831914,"Oyten Sagehorner Dorfstr., moderne 3 Zimmer Wohnung","['Wohnung', '•', 'Oyten', 'Sagehorn']","['Balkon', 'EBK']",Miete zzgl. NK 750 €,Wohnfläche ca. 89 m²,Zi. 3,53,3
-20,selObject_44831889,Pärchentraum für Studenten und Auszubildende - Hainbas...,"['Apartment', '•', 'Hannover', 'Hainholz']",['EBK'],Miete zzgl. NK 542 €,Wohnfläche ca. 35 m²,Zi. 1,53,3
-21,selObject_44831676,Zentrale Neubau 3 Zimmer Wohnung mit Balkon - Barriere...,"['Etagenwohnung', '•', 'Bad', 'Bentheim', 'Bad', 'Bentheim']",['Balkon'],Miete zzgl. NK 790 €,Wohnfläche ca. 96 m²,Zi. 3,53,3
-22,selObject_44831675,Barrierearme Neubau Wohnung im Erdgeschoss mit Terrass...,"['Erdgeschosswohnung', '•', 'Bad', 'Bentheim', 'Bad', 'Bentheim']",[],Miete zzgl. NK 670 €,Wohnfläche ca. 80 m²,Zi. 2,53,3
-23,selObject_44831674,3 Zimmer Wohnung - Neubau - Barrierearm,"['Erdgeschosswohnung', '•', 'Bad', 'Bentheim', 'Bad', 'Bentheim']",[],Miete zzgl. NK 790 €,Wohnfläche ca. 96 m²,Zi. 3,53,3
-24,selObject_44831631,Wohnung mit Aussicht! 2-Zimmer im grünen Stadtteil...,"['Etagenwohnung', '•', 'Braunschweig', 'Heidberg']",['Balkon'],"Miete zzgl. NK 444,92 €",Wohnfläche ca. 54 m²,Zi. 2,53,3
-25,selObject_44831622,--- TOP renovierte 2 Zimmer Wohnung ---,"['Etagenwohnung', '•', 'Hannover', 'Herrenhausen']",[],Miete zzgl. NK 549 €,Wohnfläche ca. 61 m²,Zi. 2,53,3
-26,selObject_44831558,Drei -Zimmer-Wohnung in FH-Nähe (Gartenstadt Siebethsb...,"['Etagenwohnung', '•', 'Wilhelmshaven', 'Bant']",[],"Miete zzgl. NK 377,10 €",Wohnfläche ca. 70 m²,Zi. 3,53,3
+0,selObject_44865248,Schöne 3-Zimmer-Wohnung,"[['Wohnung', '•', 'Dörverden', 'Ahnebergen']]","['Balkon', 'Garten']",Miete zzgl. NK 550 €,Wohnfläche ca. 70 m²,Zi. 3,53,3
+1,selObject_44864851,Wohnen im östl. Ringgebiet - Niedliche 1-Zimmer-Altbau...,"[['Etagenwohnung', '•', 'Braunschweig', 'Braunschweig']]",[],"Miete zzgl. NK 295,68 €",Wohnfläche ca. 36 m²,Zi. 1,53,3
+2,selObject_44864734,Vollsaniert! 3 Zimmer im Erdgeschoss zu sofort! - Dusc...,"[['Erdgeschosswohnung', '•', 'Wilhelmshaven', 'Fedderwardergroden']]",['Garten'],Miete zzgl. NK 375 €,Wohnfläche ca. 59 m²,Zi. 3,53,3
+3,selObject_44864725,** ERSTBEZUG nach Teilsanierung - Erdgeschosswohnung...,"[['Erdgeschosswohnung', '•', 'Harsefeld', 'Harsefeld']]","['Garten', 'EBK']",Miete zzgl. NK 690 €,Wohnfläche ca. 70 m²,Zi. 3,53,3
+4,selObject_44864539,Zentral gelegene 3 Zimmer DG-Wohnung,"[['Dachgeschosswohnung', '•', 'Lingen', 'Altenlingen']]","['Garten', 'EBK']",Miete zzgl. NK 445 €,Wohnfläche ca. 68 m²,Zi. 3,53,3
+5,selObject_44864515,Vollsaniert! 3 Zimmer im 1. Obergeschoss zu sofort! -...,"[['Etagenwohnung', '•', 'Wilhelmshaven', 'Fedderwardergroden']]",['Garten'],Miete zzgl. NK 380 €,Wohnfläche ca. 60 m²,Zi. 3,53,3
+6,selObject_44864228,Passend für den kleinen Geldbeutel - neu möbliertes...,"[['Apartment', '•', 'Clausthal-Zellerfeld', 'Clausthal-Zellerfeld']]","['Garten', 'EBK']",Miete zzgl. NK 215 €,Wohnfläche ca. 23 m²,Zi. 1,53,3
+7,selObject_44864184,Freu Dich auf Dein neues Zuhause - möbliertes Apartmen...,"[['Apartment', '•', 'Clausthal-Zellerfeld', 'Clausthal-Zellerfeld']]","['Garten', 'EBK']",Miete zzgl. NK 250 €,Wohnfläche ca. 26 m²,Zi. 1,53,3
+8,selObject_44864145,modernisierte 3-Zimmerwohnung in Hannover - Hainholz,"[['Etagenwohnung', '•', 'Hannover', 'Hainholz']]",['Balkon'],Miete zzgl. NK 580 €,Wohnfläche ca. 73 m²,Zi. 3,53,3
+9,selObject_44863982,2 Zimmer Ortsrand,"[['Etagenwohnung', '•', 'Bad', 'Bodenteich', 'Bodenteich']]",['Balkon'],Miete zzgl. NK 300 €,Wohnfläche ca. 57 m²,Zi. 2,53,3
+10,selObject_44863399,Sanierte Wohnung in Papenburg für Senioren,"[['Wohnung', '•', 'Papenburg', 'Papenburg']]",['Balkon'],Miete zzgl. NK 320 €,Wohnfläche ca. 64 m²,Zi. 2,53,3
+11,selObject_44863013,Renovierte Dachgeschosswohnung mit Balkon im Zentrum...,"[['Etagenwohnung', '•', 'Haren', 'Haren']]",['Balkon'],Miete zzgl. NK 430 €,Wohnfläche ca. 68 m²,Zi. 3,53,3
+12,selObject_44863004,Ortsrandlage,"[['Etagenwohnung', '•', 'Bad', 'Bodenteich', 'Bodenteich']]",['Balkon'],Miete zzgl. NK 450 €,Wohnfläche ca. 81 m²,Zi. 4,53,3
+13,selObject_44862959,2 Zimmer Dachgeschoßwohnung ca.65 m² in 37154 Northeim...,"[['Dachgeschosswohnung', '•', 'Northeim', 'Northeim']]",['EBK'],Miete zzgl. NK 330 €,Wohnfläche ca. 65 m²,Zi. 2,53,3
+14,selObject_44862835,Neubau 3 Zimmer Wohnung in Bookholzberg,"[['Etagenwohnung', '•', 'Ganderkesee', 'Bookholzberg']]","['Balkon', 'EBK']",Miete zzgl. NK 735 €,Wohnfläche ca. 86 m²,Zi. 3,53,3
+15,selObject_44862796,Ziegelhofviertel - Adolf-Grimme-Str.: 3-Zimmer-Wohnung...,"[['Wohnung', '•', 'Oldenburg', 'Bürgerfelde']]",['Balkon'],Miete zzgl. NK 580 €,Wohnfläche ca. 69 m²,Zi. 3,53,3
+16,selObject_44862771,Moderne 3-Zimmer Erdgeschosswohnung mit Terrasse,"[['Erdgeschosswohnung', '•', 'Visbek', 'Visbek']]",['EBK'],Miete zzgl. NK 750 €,Wohnfläche ca. 82 m²,Zi. 3,53,3
+17,selObject_44862698,Wohnen in absolut zentraler Lage von Papenburg!,"[['Dachgeschosswohnung', '•', 'Papenburg', 'Papenburg']]",['EBK'],Miete zzgl. NK 530 €,Wohnfläche ca. 75 m²,Zi. 3,53,3
+18,selObject_44861745,Großzügige 5-Zimmer-Wohnung mit wintergartenähnlicher...,"[['Wohnung', '•', 'Sulingen', 'Sulingen']]",['Garten'],Miete zzgl. NK 1.000 €,Wohnfläche ca. 155 m²,Zi. 5,53,3
+19,selObject_44861577,HERZLICH WILLKOMMEN ! HIER WIRD FÜR SIE RENOVIERT !...,"[['Etagenwohnung', '•', 'Hildesheim', 'Drispenstedt']]",['Balkon'],"Miete zzgl. NK 615,36 €",Wohnfläche ca. 77 m²,Zi. 3,53,3
+20,selObject_44860027,Hochwertige 2-Zimmer/K/B EG m. Terrasse + Stellplatz...,"[['Wohnung', '•', 'Bersenbrück', 'Bersenbrück']]",['EBK'],Miete zzgl. NK 520 €,Wohnfläche ca. 61 m²,Zi. 2,53,3
+21,selObject_44859733,Garten mit Terrasse in Wolfsburg! Verwirklichen Sie...,"[['Wohnung', '•', 'Wolfsburg', 'Laagberg']]",['Garten'],Miete zzgl. NK 670 €,Wohnfläche ca. 65 m²,Zi. 2,53,3
+22,selObject_44859229,4 Zimmer Wohnung mit Wintergarten,"[['Etagenwohnung', '•', 'Osnabrück', 'Innenstadt']]",['EBK'],Miete zzgl. NK 1.016 €,Wohnfläche ca. 127 m²,Zi. 4,53,3
+23,selObject_44859171,3-Zimmer Wohnung mit EBK und KFZ-Stellplatz!,"[['Dachgeschosswohnung', '•', 'Bendestorf']]",['EBK'],Miete zzgl. NK 499 €,Wohnfläche ca. 55 m²,Zi. 3,53,3
+24,selObject_44858715,3-Zimmer Wohnung in Stadtnähe,"[['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']]",[],Miete zzgl. NK 322 €,Wohnfläche ca. 57 m²,Zi. 3,53,3
+25,selObject_44857574,Wenn Sie das besondere mögen. Außergwöhnliche schöne...,"[['Maisonette', '•', 'Hanstedt', 'Hanstedt']]","['Balkon', 'EBK']",Miete zzgl. NK 970 €,Wohnfläche ca. 84 m²,Zi. 2,53,3
+26,selObject_44857336,Delmenhorst-Ströhen | Seniorengerechte Erdgeschosswohn...,"[['Erdgeschosswohnung', '•', 'Delmenhorst', 'Dwoberg/Ströhen']]",[],Miete zzgl. NK 745 €,Wohnfläche ca. 90 m²,Zi. 3,53,3

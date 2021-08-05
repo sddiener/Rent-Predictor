@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_43840237,Schöne NEU Renovierte 4 - ZI mit Loggia im 1. OG,"['Etagenwohnung', '•', 'Limbach-Oberfrohna', 'Limbach-Oberfrohna']",[],Miete zzgl. NK 590 €,Wohnfläche ca. 120 m²,Zi. 4,342,14
-1,selObject_43840214,Beste Lage und Fernsicht,"['Etagenwohnung', '•', 'Chemnitz', 'Schloßchemnitz']",['Garten'],Miete zzgl. NK 291 €,Wohnfläche ca. 57 m²,Zi. 2,342,14
-2,selObject_43840040,"Gemütliche, sonnige 3 Raumwohnung am Stadtpark","['Erdgeschosswohnung', '•', 'Chemnitz', 'Kapellenberg']",['Balkon'],Miete zzgl. NK 328 €,Wohnfläche ca. 60 m²,Zi. 3,342,14
-3,selObject_43839938,"Wohnen in Gohlis! Tolle 2-Zi.-Whg, mit großem Eck-Wohn...","['Etagenwohnung', '•', 'Leipzig', 'Gohlis-Mitte']","['Garten', 'EBK']",Miete zzgl. NK 439 €,Wohnfläche ca. 66 m²,Zi. 2,342,14
-4,selObject_43839670,Bezugsfertige Singlewohnung mit Aufzug,"['Etagenwohnung', '•', 'Chemnitz', 'Kapellenberg']",['Balkon'],Miete zzgl. NK 173 €,Wohnfläche ca. 31 m²,Zi. 1,342,14
-5,selObject_43839621,Singlewohnung im Zentrum von Nossen mit Balkon -...,"['Maisonette', '•', 'Nossen', 'Nossen']",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 45 m²,Zi. 2,342,14
-6,selObject_43839254,"schöne Maisonettewohnung, 2 Bäder, EBK, Stellplatz","['Maisonette', '•', 'Chemnitz', 'Sonnenberg']","['Garten', 'EBK']",Miete zzgl. NK 368 €,Wohnfläche ca. 92 m²,Zi. 3,342,14
-7,selObject_43839038,Freundliche 2 Zimmerwohnung mit Südbalkon,"['Etagenwohnung', '•', 'Chemnitz', 'Kapellenberg']",['Balkon'],Miete zzgl. NK 268 €,Wohnfläche ca. 49 m²,Zi. 2,342,14
-8,selObject_43839023,Moderne 1-Zimmer-Wohnung mit Schlafnische,"['Apartment', '•', 'Dresden']","['Balkon', 'EBK']",Miete zzgl. NK 540 €,Wohnfläche ca. 49 m²,Zi. 1,342,14
-9,selObject_43838966,Ihr Zuhause. Ihr Rückzugsort. Wohnen im Flemminggebiet,"['Wohnung', '•', 'Chemnitz', 'Altendorf']",['Balkon'],"Miete zzgl. NK 336,40 €",Wohnfläche ca. 58 m²,Zi. 3,342,14
-10,selObject_43838953,www.r-o.de +++ Geräumige 2-Zimmerwohnung mit Wohnküche...,"['Wohnung', '•', 'Dresden', 'Radeberger', 'Vorstadt']",[],Miete zzgl. NK 595 €,Wohnfläche ca. 70 m²,Zi. 2,342,14
-11,selObject_43838924,"2. Etage - 2,5-Zimmerwohnung mit Dachschrägen in Eilen...","['Wohnung', '•', 'Eilenburg', 'Eilenburg']",[],Miete zzgl. NK 330 €,Wohnfläche ca. 62 m²,"Zi. 2,5",342,14
-12,selObject_43838223,Maisonette-Wohnung in ruhiger Stadtlage,"['Dachgeschosswohnung', '•', 'Oschatz', 'Oschatz']",[],Miete zzgl. NK 395 €,Wohnfläche ca. 79 m²,Zi. 2,342,14
-13,selObject_43836574,Wohlfühlwohnung in traumhaft grüner Lage! Tageslichtba...,"['Wohnung', '•', 'Niederstriegis', 'Grunau']",['Garten'],Miete zzgl. NK 195 €,Wohnfläche ca. 49 m²,Zi. 2,342,14
-14,selObject_43836555,Freundliche 3-Zimmer-Wohnung in kernsaniertem Gründerz...,"['Etagenwohnung', '•', 'Chemnitz', 'Bernsdorf']",['Balkon'],Miete zzgl. NK 350 €,Wohnfläche ca. 66 m²,Zi. 3,342,14
-15,selObject_43836226,Perfekter Dachtraum mit Tageslichtbad und separater...,"['Dachgeschosswohnung', '•', 'Klipphausen']",['Garten'],Miete zzgl. NK 363 €,Wohnfläche ca. 60 m²,Zi. 3,342,14
-16,selObject_43833742,** Behindertengerechte 2 Raum Wohnung **,"['Etagenwohnung', '•', 'Chemnitz', 'Schloßchemnitz']",[],"Miete zzgl. NK 384,02 €",Wohnfläche ca. 59 m²,Zi. 2,342,14
-17,selObject_43826716,Südbalkon und 1. Obergeschoss!!! Familienfreundliche...,"['Etagenwohnung', '•', 'Dresden', 'Radeberger', 'Vorstadt']",['Balkon'],Miete zzgl. NK 320 €,Wohnfläche ca. 62 m²,Zi. 3,342,14
-18,selObject_43824647,Wohnen auf zwei Ebenen unterm Dach.,"['Wohnung', '•', 'Markkleeberg', 'Markkleeberg']",[],Miete zzgl. NK 529 €,Wohnfläche ca. 68 m²,Zi. 2,342,14
-19,selObject_43820141,Dreiraumwohnung mit Balkon und Aufzug,"['Kein', 'Bild']",['Balkon'],"Miete zzgl. NK 412,14 €",Wohnfläche ca. 69 m²,Zi. 3,342,14
-20,selObject_43819788,GEMÜTLICHes Erdgeschoss in ALTENDORF,"['Erdgeschosswohnung', '•', 'Chemnitz', 'Altendorf']",['Balkon'],Miete zzgl. NK 352 €,Wohnfläche ca. 64 m²,Zi. 2,342,14
-21,selObject_43819784,ERSTBEZUG mit XXL-BALKON im SCHLOß,"['Erdgeschosswohnung', '•', 'Chemnitz', 'Schloßchemnitz']",[],Miete zzgl. NK 420 €,Wohnfläche ca. 58 m²,Zi. 2,342,14
-22,selObject_43819777,PREISWERTes NEST in STADTPARK-Nähe,"['Etagenwohnung', '•', 'Chemnitz', 'Altchemnitz']",['Balkon'],Miete zzgl. NK 294 €,Wohnfläche ca. 53 m²,Zi. 2,342,14
-23,selObject_43819773,MAISONETTE-SCHNÄPPCHEN auf dem KAßBERG - FRISCH RENOVI...,"['Dachgeschosswohnung', '•', 'Chemnitz', 'Kaßberg']",['Garten'],Miete zzgl. NK 420 €,Wohnfläche ca. 82 m²,Zi. 3,342,14
-24,selObject_43819769,! ! ! GÜNSTIGes FAMILIEn-Domizil ! ! !,"['Erdgeschosswohnung', '•', 'Chemnitz', 'Yorckgebiet']",['Balkon'],Miete zzgl. NK 468 €,Wohnfläche ca. 85 m²,Zi. 4,342,14
-25,selObject_43819767,"NEUES LAMINAT, DACHGESCHOSS (ohne Schrägen) im HERZEN...","['Dachgeschosswohnung', '•', 'Chemnitz', 'Zentrum']",['Balkon'],Miete zzgl. NK 341 €,Wohnfläche ca. 62 m²,Zi. 3,342,14
-26,selObject_43819766,WOHLFÜHLNEST in beliebter Lage,"['Etagenwohnung', '•', 'Chemnitz', 'Kaßberg']",[],Miete zzgl. NK 400 €,Wohnfläche ca. 64 m²,Zi. 2,342,14
+0,selObject_43929936,Gern heim kommen und sich zu Hause fühlen! 3 Zimmer...,"[['Etagenwohnung', '•', 'Dresden', 'Prohlis-Nord']]",['Balkon'],Miete zzgl. NK 462 €,Wohnfläche ca. 80 m²,Zi. 3,342,14
+1,selObject_43929866,Hier fühlen Sie sich wohl: interessante 3-Zimmer-Wohnu...,"[['Etagenwohnung', '•', 'Dresden', 'Südvorstadt-West']]",['Balkon'],Miete zzgl. NK 425 €,Wohnfläche ca. 59 m²,Zi. 3,342,14
+2,selObject_43929860,Azubi- und Studentenangebot! Cooles 1 Zimmer Apartment...,"[['Etagenwohnung', '•', 'Dresden', 'Prohlis-Nord']]",[],Miete zzgl. NK 236 €,Wohnfläche ca. 32 m²,Zi. 1,342,14
+3,selObject_43929843,Frisch saniert und sofort bezugsfertig!,"[['Etagenwohnung', '•', 'Dresden', 'Pieschen-Nord/Trachenberge']]",['Balkon'],Miete zzgl. NK 384 €,Wohnfläche ca. 60 m²,Zi. 3,342,14
+4,selObject_43929828,3 Raum Wohnung! Besichtigung unter 0172-3755176!,"[['Etagenwohnung', '•', 'Dresden', 'Prohlis-Nord']]",['Balkon'],Miete zzgl. NK 462 €,Wohnfläche ca. 80 m²,Zi. 3,342,14
+5,selObject_43929826,Bei Anmietung bis 31.07.21 erhalten Sie einen 300 EUR...,"[['Etagenwohnung', '•', 'Dresden', 'Gorbitz-Süd']]",[],Miete zzgl. NK 169 €,Wohnfläche ca. 27 m²,Zi. 1,342,14
+6,selObject_43929825,"Wohnung aufwärts, Miete abwärts: günstige 1-Raum-Wohnu...","[['Etagenwohnung', '•', 'Dresden', 'Leubnitz-Neuostra']]",[],Miete zzgl. NK 188 €,Wohnfläche ca. 33 m²,Zi. 1,342,14
+7,selObject_43929422,"*** Günstige 1-Zimmer mit EBK, Aufzug und Wannenbad in...","[['Etagenwohnung', '•', 'Chemnitz', 'Altchemnitz']]",['EBK'],Miete zzgl. NK 160 €,Wohnfläche ca. 27 m²,Zi. 1,342,14
+8,selObject_43927549,Wohnungen im Erstbezug: Sicher. Zentral. Neu. Bezahlba...,"[['Wohnung', '•', 'Leipzig', 'Zentrum-Ost']]",['Balkon'],Miete zzgl. NK 520 €,Wohnfläche ca. 43 m²,Zi. 1,342,14
+9,selObject_43927547,3-Raum-Wohnung mit Balkon in Grünau,"[['Wohnung', '•', 'Leipzig', 'Grünau-Ost']]",['Balkon'],Miete zzgl. NK 354 €,Wohnfläche ca. 63 m²,Zi. 3,342,14
+10,selObject_43927545,Jetzt online Besichtigungstermin vereinbaren! Wohnunge...,"[['Wohnung', '•', 'Leipzig', 'Zentrum-Südost']]",['Balkon'],Miete zzgl. NK 505 €,Wohnfläche ca. 44 m²,Zi. 1,342,14
+11,selObject_43926546,Moderne 2-Zimmer Wohnung im 2.OG im Zentrum - 360°-Run...,"[['Etagenwohnung', '•', 'Mittweida', 'Mittweida']]",[],Miete zzgl. NK 300 €,Wohnfläche ca. 43 m²,Zi. 2,342,14
+12,selObject_43923164,Herrliches Apartment,"[['Apartment', '•', 'Chemnitz', 'Schloßchemnitz']]","['Balkon', 'Garten']",Miete zzgl. NK 89 €,Wohnfläche ca. 28 m²,Zi. 1,342,14
+13,selObject_43922969,"1,5 Zimmer-Wohnung mit Balkon, Abstellraum und Wanne","[['Etagenwohnung', '•', 'Dresden']]",['Balkon'],Miete zzgl. NK 540 €,Wohnfläche ca. 47 m²,"Zi. 1,5",342,14
+14,selObject_43922952,Moderne 2 Zimmer-Wohnung mit offener Küche,"[['Etagenwohnung', '•', 'Dresden']]",['Balkon'],Miete zzgl. NK 590 €,Wohnfläche ca. 49 m²,Zi. 2,342,14
+15,selObject_43922894,"1,5 Zimmer-Wohnung mit hohen Decken, Abstellraum und...","[['Etagenwohnung', '•', 'Dresden']]",['Balkon'],Miete zzgl. NK 535 €,Wohnfläche ca. 46 m²,"Zi. 1,5",342,14
+16,selObject_43922856,"Schandauer Straße, unterm Dach: Laminat + Wanne","[['Dachgeschosswohnung', '•', 'Dresden', 'Striesen-Ost']]",['Garten'],"Miete zzgl. NK 433,50 €",Wohnfläche ca. 51 m²,Zi. 2,342,14
+17,selObject_43922852,"Striesen, Behrischstraße: Hochparterre + Wanne & Dusch...","[['Erdgeschosswohnung', '•', 'Dresden', 'Striesen-Ost']]",['Garten'],Miete zzgl. NK 504 €,Wohnfläche ca. 56 m²,Zi. 2,342,14
+18,selObject_43922844,"Striesen, im Mansardgeschoss: Wanne + Stellplatz","[['Dachgeschosswohnung', '•', 'Dresden', 'Striesen-Ost']]",['Garten'],Miete zzgl. NK 619 €,Wohnfläche ca. 67 m²,Zi. 2,342,14
+19,selObject_43922828,NEUBAU + DACHTERRASSE + EINBAUKÜCHE,"[['Dachgeschosswohnung', '•', 'Dresden', 'Johannstadt-Nord']]","['Garten', 'EBK']",Miete zzgl. NK 919 €,Wohnfläche ca. 66 m²,Zi. 2,342,14
+20,selObject_43922809,"Löbtau, ruhig & grün: Wanne + Laminat","[['Etagenwohnung', '•', 'Dresden', 'Naußlitz']]",['Garten'],Miete zzgl. NK 330 €,Wohnfläche ca. 41 m²,Zi. 1,342,14
+21,selObject_43922805,1. Monat kaltmietfrei + DG-Maisonette + EBK + Wanne,"[['Maisonette', '•', 'Dresden', 'Innere', 'Neustadt']]",['EBK'],Miete zzgl. NK 750 €,Wohnfläche ca. 90 m²,Zi. 3,342,14
+22,selObject_43922800,Naußlitz: Wanne + Laminat,"[['Etagenwohnung', '•', 'Dresden', 'Löbtau-Nord']]",['Garten'],Miete zzgl. NK 330 €,Wohnfläche ca. 46 m²,Zi. 2,342,14
+23,selObject_43922786,"Striesen, Ermelstraße: Mansardgeschoss + Wanne + Wohnk...","[['Dachgeschosswohnung', '•', 'Dresden', 'Striesen-Ost']]",['Garten'],Miete zzgl. NK 487 €,Wohnfläche ca. 54 m²,Zi. 2,342,14
+24,selObject_43922785,möbliertes Wohnen: Küche + Bett + Schrank inklusive,"[['Etagenwohnung', '•', 'Dresden', 'Johannstadt-Nord']]","['Garten', 'EBK']","Miete zzgl. NK 598,20 €",Wohnfläche ca. 40 m²,Zi. 1,342,14
+25,selObject_43922773,NEUBAU + Balkon + Lift,"[['Etagenwohnung', '•', 'Dresden', 'Johannstadt-Nord']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 630 €,Wohnfläche ca. 47 m²,Zi. 2,342,14
+26,selObject_43922760,"Plauen, unterm Dach: Wanne + Wohnküche","[['Dachgeschosswohnung', '•', 'Dresden', 'Plauen']]",['Garten'],Miete zzgl. NK 371 €,Wohnfläche ca. 53 m²,Zi. 1,342,14

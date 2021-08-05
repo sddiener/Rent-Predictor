@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44839438,"SINGLE WOHNUNG 1,5 ZIMMER WOHNUNG MIT EINBAUKÜCHE...","['Etagenwohnung', '•', 'Fürth', 'Südstadt']",['Balkon'],Miete zzgl. NK 546 €,Wohnfläche ca. 39 m²,Zi. 1,117,9
-1,selObject_44839414,Schwanstetten - Mietwohnung mit 4 Zimmern und Balkon,"['Wohnung', '•', 'Schwanstetten', 'Eichenbühl']",['Balkon'],Miete zzgl. NK 1.050 €,Wohnfläche ca. 112 m²,Zi. 4,117,9
-2,selObject_44839413,Gut geschnittene 3 Zimmer Wohnung mit Balkon und TFG...,"['Etagenwohnung', '•', 'München', 'Laim']","['Balkon', 'Garten']",Miete zzgl. NK 1.600 €,Wohnfläche ca. 83 m²,Zi. 3,117,9
-3,selObject_44839365,"Großzügige, helle 3-Zimmer-Innenstadtwohnung! - Frei...","['Etagenwohnung', '•', 'Bayreuth', 'City']","['Balkon', 'EBK']",Miete zzgl. NK 600 €,Wohnfläche ca. 77 m²,Zi. 3,117,9
-4,selObject_44839267,PREISGEKRÖNT 2 ZIMMER SINGLE WOHNUNG ***FÜR EINE PERS...,"['Erdgeschosswohnung', '•', 'Nürnberg', 'Gostenhof']",[],Miete zzgl. NK 392 €,Wohnfläche ca. 40 m²,Zi. 2,117,9
-5,selObject_44838553,"Neubau 2-Zi Whg mit kleinem Garten, Grundriss barriere...","['Erdgeschosswohnung', '•', 'Gunzenhausen', 'Gunzenhausen']","['Garten', 'EBK']",Miete zzgl. NK 625 €,Wohnfläche ca. 56 m²,Zi. 2,117,9
-6,selObject_44838458,4-Zimmer-Wohnung ab 01.09.2021 in Cadolzburg zu vermie...,"['Apartment', '•', 'Cadolzburg', 'Cadolzburg']",['Garten'],Miete zzgl. NK 650 €,Wohnfläche ca. 79 m²,Zi. 4,117,9
-7,selObject_44837786,Frisch renovierte 1 Zimmer Wohnung,"['Wohnung', '•', 'Schweinfurt', 'Musikerviertel', 'und', 'amerik.', 'Siedlung']",['EBK'],Miete zzgl. NK 320 €,Wohnfläche ca. 25 m²,Zi. 1,117,9
-8,selObject_44837492,Moderne 4- Zimmer Wohnung mit Balkon in Fürth,"['Etagenwohnung', '•', 'Fürth', 'Eigenes', 'Heim']",['Balkon'],Miete zzgl. NK 1.100 €,Wohnfläche ca. 95 m²,Zi. 4,117,9
-9,selObject_44837469,Neubau Wohnung 2- Zimmer mit Balkon in ruhiger Lage...,"['Wohnung', '•', 'Fürth', 'Südstadt']",['Balkon'],Miete zzgl. NK 1.048 €,Wohnfläche ca. 77 m²,Zi. 2,117,9
-10,selObject_44837002,Sehr gepflegte 4-Zimmer-Wohnung - attraktive Wohnlage...,"['Etagenwohnung', '•', 'Buxheim', 'Buxheim']",['Balkon'],Miete zzgl. NK 950 €,Wohnfläche ca. 107 m²,Zi. 4,117,9
-11,selObject_44836916,"Ihr neues Zuhause - 3,5 Zimmer im 1. Stock mit Balkon!","['Wohnung', '•', 'Ursensollen', 'Ehringsfeld']","['Balkon', 'EBK']",Miete zzgl. NK 600 €,Wohnfläche ca. 110 m²,"Zi. 3,5",117,9
-12,selObject_44836105,Möbliert: Nähe Rotkreuzplatz: Möblierte Wohnung mit...,"['Wohnung', '•', 'München', 'Neuhausen-Nymphenburg']",['Balkon'],Miete zzgl. NK 1.000 €,Wohnfläche ca. 32 m²,Zi. 1,117,9
-13,selObject_44835253,3-Zimmer-Whg. mit EBK und Balkon,"['Kein', 'Bild']","['Balkon', 'EBK']",Miete zzgl. NK 365 €,Wohnfläche ca. 78 m²,Zi. 3,117,9
-14,selObject_44835252,Einraum-Appartment Stadtmitte,"['Apartment', '•', 'Kulmbach', 'Kulmbach']",[],Miete zzgl. NK 230 €,Wohnfläche ca. 33 m²,Zi. 1,117,9
-15,selObject_44835213,"Bezaubernde, großzügige 2ZW mit moderner Einbauküche...","['Dachgeschosswohnung', '•', 'Nürnberg', 'St', 'Leonhard']","['Garten', 'EBK']",Miete zzgl. NK 540 €,Wohnfläche ca. 56 m²,Zi. 2,117,9
-16,selObject_44835211,"Bezaubernde, großzügige 2ZW mit moderner Einbauküche...","['Dachgeschosswohnung', '•', 'Nürnberg', 'St', 'Leonhard']","['Garten', 'EBK']",Miete zzgl. NK 540 €,Wohnfläche ca. 56 m²,Zi. 2,117,9
-17,selObject_44835206,1-Raum-Wohnung mit Balkon ab 01.08.2021 verfügbar,"['Apartment', '•', 'Kirchseeon', 'Eglharting']","['Balkon', 'EBK']",Miete zzgl. NK 540 €,Wohnfläche ca. 24 m²,Zi. 1,117,9
-18,selObject_44835172,Exklusive 3-Zi-Whg in Gerolfing in einem 6-Familien-Ha...,"['Wohnung', '•', 'Ingolstadt', 'Gerolfing']","['Balkon', 'EBK']",Miete zzgl. NK 1.070 €,Wohnfläche ca. 88 m²,Zi. 3,117,9
-19,selObject_44835109,1-Zimmer-Wohnung mit 30 m² Wfl. in der 6. Etage mit...,"['Wohnung', '•', 'Nürnberg', 'Galgenhof']",[],Miete zzgl. NK 380 €,Wohnfläche ca. 30 m²,Zi. 1,117,9
-20,selObject_44835094,"Schöne 1,5-Zimmer Wohnung Ingolstadt-West (Gerolfinger...","['Wohnung', '•', 'Ingolstadt', 'Ingolstadt']",['Balkon'],Miete zzgl. NK 590 €,Wohnfläche ca. 44 m²,"Zi. 1,5",117,9
-21,selObject_44835088,"GIPFELSTÜRMER AUFGEPASST! Schnuckelige 1,5-Zi.-DG-Whg....","['Dachgeschosswohnung', '•', 'Nürnberg', 'Gärten', 'b', 'Wöhrd']",[],Miete zzgl. NK 460 €,Wohnfläche ca. 45 m²,Zi. 2,117,9
-22,selObject_44835022,Schön renovierte 2-Zimmer-Wohnung in Nürnberg Kornburg...,"['Wohnung', '•', 'Nürnberg', 'Kornburg']",['EBK'],Miete zzgl. NK 720 €,Wohnfläche ca. 78 m²,Zi. 2,117,9
-23,selObject_44835020,3-ZIMMER UND EINEN BALKON À LA WINTERGARTEN,"['Erdgeschosswohnung', '•', 'Nürnberg', 'Gleißhammer']","['Balkon', 'EBK']",Miete zzgl. NK 700 €,Wohnfläche ca. 80 m²,Zi. 3,117,9
-24,selObject_44834942,Forstenried - Ein-Zimmer-Apartment grün und stadtnah,"['Apartment', '•', 'München', 'Thalk.Obersendl.-Forsten-Fürstenr.-Solln']",[],Miete zzgl. NK 680 €,Wohnfläche ca. 30 m²,Zi. 1,117,9
-25,selObject_44833733,Renovierte 3-Zimmer Wohnung mit neuer Einbauküche und...,"['Etagenwohnung', '•', 'Coburg', 'Coburg']","['Balkon', 'EBK']",Miete zzgl. NK 695 €,Wohnfläche ca. 78 m²,Zi. 3,117,9
-26,selObject_44833632,ERSTBEZUG NACH SANIERUNG AB 01.09.2021- gemütliche...,"['Dachgeschosswohnung', '•', 'Höchstadt', 'Höchstadt']",[],Miete zzgl. NK 620 €,Wohnfläche ca. 68 m²,Zi. 3,117,9
+0,selObject_44865951,HIER WILL ICH WOHNEN! NEUBAUPROJEKT! 2-Zimmer,"[['Erdgeschosswohnung', '•', 'Emmerting']]",['Garten'],Miete zzgl. NK 900 €,Wohnfläche ca. 78 m²,Zi. 2,117,9
+1,selObject_44865950,GLÜCKSTURBO! NEUBAUPROJEKT! 3-Zimmer,"[['Erdgeschosswohnung', '•', 'Emmerting']]",['Garten'],Miete zzgl. NK 1.150 €,Wohnfläche ca. 101 m²,Zi. 3,117,9
+2,selObject_44865929,"2-Zi.-Neubau mit Balkon, barrierefrei","[['Souterrainwohnung', '•', 'Willmering', 'Willmering']]",['Balkon'],Miete zzgl. NK 405 €,Wohnfläche ca. 46 m²,Zi. 2,117,9
+3,selObject_44865916,"Lichtdurchflutetes, gemütliches Appartement! Nähe Fach...","[['Etagenwohnung', '•', 'Ingolstadt', 'Ingolstadt']]",['EBK'],Miete zzgl. NK 490 €,Wohnfläche ca. 31 m²,Zi. 1,117,9
+4,selObject_44865554,** Sehr schöne 3-Zi-Wohnung mit Balkon in ruhiger Wohn...,"[['Etagenwohnung', '•', 'Hemau', 'Hemau']]","['Balkon', 'EBK']",Miete zzgl. NK 690 €,Wohnfläche ca. 85 m²,Zi. 3,117,9
+5,selObject_44865553,** Tolle moderne und geräumige 3-Zi-Whg mit Balkon **,"[['Etagenwohnung', '•', 'Hemau', 'Hohenschambach']]",['Balkon'],Miete zzgl. NK 840 €,Wohnfläche ca. 92 m²,Zi. 3,117,9
+6,selObject_44865546,Großzügige 3 Zimmer Wohnung mit Balkon,"[['Etagenwohnung', '•', 'München', 'Laim']]","['Balkon', 'EBK']",Miete zzgl. NK 1.680 €,Wohnfläche ca. 115 m²,Zi. 3,117,9
+7,selObject_44865415,N-NORD 2-Zi. - STILVOLL RENOVIERTE ALTBAUWOHNUNG -...,"[['Etagenwohnung', '•', 'Nürnberg', 'Gärten', 'b', 'Wöhrd']]",['EBK'],Miete zzgl. NK 635 €,Wohnfläche ca. 70 m²,Zi. 2,117,9
+8,selObject_44865394,"Gemütliche, schön geschnittene 2- Zimmer Wohnung mit...","[['Etagenwohnung', '•', 'München', 'Ramersdorf-Perlach']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.200 €,Wohnfläche ca. 63 m²,Zi. 2,117,9
+9,selObject_44865223,"""Nur für Studenten"" - Appartements (mit EBK) in der...","[['Etagenwohnung', '•', 'Ingolstadt', 'Ingolstadt']]",['Balkon'],Miete zzgl. NK 412 €,Wohnfläche ca. 23 m²,Zi. 1,117,9
+10,selObject_44865032,Leben ohne Stufen - Wohnung mit Aufzug!,"[['Apartment', '•', 'Kaufbeuren', 'Kaufbeuren']]","['Balkon', 'EBK']",Miete zzgl. NK 320 €,Wohnfläche ca. 33 m²,Zi. 1,117,9
+11,selObject_44864971,"Schöne 2,5 - Zi - DG - Wohng. mit Einbauküche, ca. 83...","[['Dachgeschosswohnung', '•', 'Hohenroth', 'Hohenroth']]",['EBK'],Miete zzgl. NK 450 €,Wohnfläche ca. 82 m²,"Zi. 2,5",117,9
+12,selObject_44864781,** Top Grundriss ** Helle und gemütliche Dachgeschoßwo...,"[['Dachgeschosswohnung', '•', 'Hof', 'Innenstadt']]",[],Miete zzgl. NK 525 €,Wohnfläche ca. 99 m²,Zi. 4,117,9
+13,selObject_44864767,"1,5 Zi-Wohnung mit eigenem Hauseingang in Uttenreuth","[['Apartment', '•', 'Uttenreuth', 'Uttenreuth']]",['EBK'],Miete zzgl. NK 364 €,Wohnfläche ca. 34 m²,"Zi. 1,5",117,9
+14,selObject_44864484,GEPFLEGTE 2 ZIMMER WOHNUNG MIT EINBAUKÜCHE,"[['Etagenwohnung', '•', 'Fürth', 'Innenstadt']]",['EBK'],Miete zzgl. NK 530 €,Wohnfläche ca. 46 m²,Zi. 2,117,9
+15,selObject_44864438,Wohnen am Puls der Stadt!,"[['Wohnung', '•', 'Neuburg', 'Neuburg']]",[],Miete zzgl. NK 855 €,Wohnfläche ca. 76 m²,Zi. 3,117,9
+16,selObject_44864355,GEPFLEGTE 1 ZIMMER WOHNUNG MIT EINBAUKÜCHE,"[['Etagenwohnung', '•', 'Fürth', 'Innenstadt']]",['EBK'],Miete zzgl. NK 420 €,Wohnfläche ca. 28 m²,Zi. 1,117,9
+17,selObject_44864324,Nähe Kopernikusplatz: Große 2-Zimmer-Wohnung mit Einba...,"[['Wohnung', '•', 'Nürnberg', 'Steinbühl']]",['EBK'],Miete zzgl. NK 600 €,Wohnfläche ca. 60 m²,Zi. 2,117,9
+18,selObject_44864256,modernes 1-Zimmer-Apartment mit Balkon,"[['Wohnung', '•', 'Erlangen', 'Innenstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 380 €,Wohnfläche ca. 22 m²,Zi. 1,117,9
+19,selObject_44863701,Moderne und lichtdurchflutete 2-Zi. Wohnung,"[['Etagenwohnung', '•', 'München']]",['EBK'],"Miete zzgl. NK 1.461,21 €",Wohnfläche ca. 50 m²,Zi. 2,117,9
+20,selObject_44863520,"Moderne, helle 3-Zimmer-Dachgeschosswohnung mit Südbal...","[['Etagenwohnung', '•', 'Aschaffenburg', 'Nilkheim']]",[],Miete zzgl. NK 905 €,Wohnfläche ca. 95 m²,Zi. 3,117,9
+21,selObject_44863400,"Komplettsanierte, helle 3-Zimmer-Wohnung in Forstenrie...","[['Etagenwohnung', '•', 'München', 'Thalk.Obersendl.-Forsten-Fürstenr.-Solln']]",['Balkon'],Miete zzgl. NK 1.040 €,Wohnfläche ca. 68 m²,Zi. 3,117,9
+22,selObject_44863387,Gut geschnittene 2-Zi.-Whg. in der Erlanger Innenstadt...,"[['Wohnung', '•', 'Erlangen', 'Erlangen-Nord']]",[],Miete zzgl. NK 630 €,Wohnfläche ca. 59 m²,Zi. 2,117,9
+23,selObject_44862997,Erstbezug mit Süd-Balkon im Zentrum,"[['Etagenwohnung', '•', 'Dorfen', 'Dorfen']]",[],Miete zzgl. NK 680 €,Wohnfläche ca. 54 m²,Zi. 2,117,9
+24,selObject_44862996,Erstbezug mit Einbauküche - helle Wohnung im Zentrum,"[['Erdgeschosswohnung', '•', 'Dorfen', 'Dorfen']]",['EBK'],Miete zzgl. NK 810 €,Wohnfläche ca. 59 m²,Zi. 2,117,9
+25,selObject_44862995,Neu mit Einbauküche - Leben im Stadtzentrum,"[['Erdgeschosswohnung', '•', 'Dorfen', 'Dorfen']]",['EBK'],Miete zzgl. NK 810 €,Wohnfläche ca. 59 m²,Zi. 2,117,9
+26,selObject_44862993,Neubau - helle Wohnung in Zentrumsnähe mit Einbauküche,"[['Erdgeschosswohnung', '•', 'Dorfen', 'Dorfen']]",['EBK'],Miete zzgl. NK 815 €,Wohnfläche ca. 60 m²,Zi. 2,117,9

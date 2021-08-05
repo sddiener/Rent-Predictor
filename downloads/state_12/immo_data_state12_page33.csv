@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44446312,2-Zimmer Wohnung im Theaterviertel,"['Etagenwohnung', '•', 'Brandenburg', 'Neustadt']",['Garten'],Miete zzgl. NK 400 €,Wohnfläche ca. 58 m²,Zi. 2,33,12
-1,selObject_44444945,Helle und freundliche Dachgeschosswohnung in Lübben,"['Wohnung', '•', 'Lübben', 'Lübben']",[],"Miete zzgl. NK 360,06 €",Wohnfläche ca. 71 m²,Zi. 3,33,12
-2,selObject_44440323,Neubau mit Balkon,"['Etagenwohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']",['Balkon'],Miete zzgl. NK 465 €,Wohnfläche ca. 75 m²,Zi. 3,33,12
-3,selObject_44437323,Gemeinschaftsgrünfläche - Zentrumsnähe und Parkanlage...,"['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']",['Garten'],Miete zzgl. NK 350 €,Wohnfläche ca. 65 m²,Zi. 2,33,12
-4,selObject_44437047,Studentisches Wohnen 1 Zimmer DG Neubau Erstbezug EBK...,"['Apartment', '•', 'Wildau']","['Balkon', 'EBK']","Miete zzgl. NK 407,34 €",Wohnfläche ca. 26 m²,Zi. 1,33,12
-5,selObject_44436846,Studentisches Wohnen 2 Zimmer Apartment mit Hochebene...,"['Etagenwohnung', '•', 'Wildau']",['EBK'],"Miete zzgl. NK 831,75 €",Wohnfläche ca. 55 m²,Zi. 2,33,12
-6,selObject_44436686,Studentisches Wohnen Single Apartment 1 Zimmer 1. OG...,"['Apartment', '•', 'Wildau']","['Balkon', 'EBK']","Miete zzgl. NK 345,50 €",Wohnfläche ca. 22 m²,Zi. 1,33,12
-7,selObject_44427513,WBG - 2-RWE - mit Service Bonus!,"['Etagenwohnung', '•', 'Brandenburg', 'Nord']",['Balkon'],"Miete zzgl. NK 252,42 €",Wohnfläche ca. 42 m²,Zi. 2,33,12
-8,selObject_44425721,"Helle, geräumige und modernisierte 4-Zimmer Wohnung in...","['Etagenwohnung', '•', 'Rathenow', 'Rathenow']",[],Miete zzgl. NK 370 €,Wohnfläche ca. 73 m²,Zi. 4,33,12
-9,selObject_44421881,3-Raum-Wohnung in Stadtmitte,"['Wohnung', '•', 'Cottbus', 'Mitte']",[],Miete zzgl. NK 600 €,Wohnfläche ca. 80 m²,Zi. 3,33,12
-10,selObject_44421708,4 Zimmer Wohnung in ländlicher Gegend,"['Etagenwohnung', '•', 'Schenkendöbern', 'Bärenklau']",['Garten'],Miete zzgl. NK 375 €,Wohnfläche ca. 83 m²,Zi. 4,33,12
-11,selObject_44415799,2- Zimmerwohnung in Nauen mit großer Terasse,"['Dachgeschosswohnung', '•', 'Nauen', 'Nauen']",[],Miete zzgl. NK 550 €,Wohnfläche ca. 66 m²,Zi. 2,33,12
-12,selObject_44415429,"WBG - 1-RWE - für Studenten, Azubis oder Singles!","['Etagenwohnung', '•', 'Brandenburg', 'Hohenstücken']",['Balkon'],"Miete zzgl. NK 321,43 €",Wohnfläche ca. 42 m²,Zi. 1,33,12
-13,selObject_44415424,WBG - 2-RWE - mit Balkon in gepflegtem Wohnumfled!,"['Etagenwohnung', '•', 'Brandenburg', 'Hohenstücken']",['Balkon'],"Miete zzgl. NK 264,34 €",Wohnfläche ca. 49 m²,Zi. 2,33,12
-14,selObject_44415422,WBG - 2-RWE - mit frischem Wohnpaket!,"['Etagenwohnung', '•', 'Brandenburg', 'Hohenstücken']",['Balkon'],"Miete zzgl. NK 254,61 €",Wohnfläche ca. 57 m²,Zi. 2,33,12
-15,selObject_44413230,Türmchen-Wohnung in historischer Burgmühle zu vermiete...,"['Dachgeschosswohnung', '•', 'Brandenburg', 'Dom']",['EBK'],Miete inkl. NK 1.200 €,Wohnfläche ca. 73 m²,Zi. 3,33,12
-16,selObject_44411814,Sanierte 3-Raum-Wohnung mit guter Aussicht in der Inne...,"['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']",[],"Miete zzgl. NK 307,01 €",Wohnfläche ca. 67 m²,Zi. 3,33,12
-17,selObject_44411790,2-Raum-Wohnung,"['Erdgeschosswohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']",[],"Miete zzgl. NK 281,26 €",Wohnfläche ca. 55 m²,Zi. 2,33,12
-18,selObject_44406194,Theaterstr. 3 Raumwohnung HP,"['Wohnung', '•', 'Luckenwalde', 'Luckenwalde']",[],"Miete zzgl. NK 431,34 €",Wohnfläche ca. 62 m²,Zi. 3,33,12
-19,selObject_44400864,kleine 3 - Raum Wohnung im 2. OG,"['Wohnung', '•', 'Lauchhammer', 'Lauchhammer']",[],"Miete zzgl. NK 334,66 €",Wohnfläche ca. 60 m²,Zi. 3,33,12
-20,selObject_44392294,Einziehen und wohlfühlen,"['Wohnung', '•', 'Cottbus', 'Spremberger', 'Vorstadt']",[],"Miete zzgl. NK 350,14 €",Wohnfläche ca. 58 m²,Zi. 3,33,12
-21,selObject_44392292,Gemütliche Wohnung in ruhiger Lage an der Spree,"['Wohnung', '•', 'Cottbus', 'Sandow']",['Balkon'],"Miete zzgl. NK 278,69 €",Wohnfläche ca. 57 m²,Zi. 3,33,12
-22,selObject_44392291,Gemütliche Wohnung mit guter Infrastruktur,"['Wohnung', '•', 'Cottbus', 'Sandow']",['Balkon'],"Miete zzgl. NK 294,86 €",Wohnfläche ca. 57 m²,Zi. 3,33,12
-23,selObject_44392290,Eine Wohnung im Grünen,"['Wohnung', '•', 'Cottbus', 'Sandow']",['Balkon'],"Miete zzgl. NK 306,90 €",Wohnfläche ca. 59 m²,Zi. 3,33,12
-24,selObject_44392289,Gemütliche preiswerte Wohnung,"['Wohnung', '•', 'Cottbus', 'Sandow']",['Balkon'],"Miete zzgl. NK 280,56 €",Wohnfläche ca. 58 m²,Zi. 3,33,12
-25,selObject_44392288,Wohnung in Parknähe - Genau die Richtige für Sie?,"['Wohnung', '•', 'Cottbus', 'Sandow']",['Balkon'],"Miete zzgl. NK 285,95 €",Wohnfläche ca. 57 m²,Zi. 3,33,12
-26,selObject_44392287,Familienfreundliches Zuhause in Cottbus,"['Wohnung', '•', 'Cottbus', 'Sandow']",['Balkon'],"Miete zzgl. NK 277,39 €",Wohnfläche ca. 59 m²,Zi. 3,33,12
+0,selObject_44415799,2- Zimmerwohnung in Nauen mit großer Terasse,"[['Dachgeschosswohnung', '•', 'Nauen', 'Nauen']]",[],Miete zzgl. NK 550 €,Wohnfläche ca. 66 m²,Zi. 2,33,12
+1,selObject_44415429,"WBG - 1-RWE - für Studenten, Azubis oder Singles!","[['Etagenwohnung', '•', 'Brandenburg', 'Hohenstücken']]",['Balkon'],"Miete zzgl. NK 321,43 €",Wohnfläche ca. 42 m²,Zi. 1,33,12
+2,selObject_44415424,WBG - 2-RWE - mit Balkon in gepflegtem Wohnumfled!,"[['Etagenwohnung', '•', 'Brandenburg', 'Hohenstücken']]",['Balkon'],"Miete zzgl. NK 264,34 €",Wohnfläche ca. 49 m²,Zi. 2,33,12
+3,selObject_44415422,WBG - 2-RWE - mit frischem Wohnpaket!,"[['Etagenwohnung', '•', 'Brandenburg', 'Hohenstücken']]",['Balkon'],"Miete zzgl. NK 254,61 €",Wohnfläche ca. 57 m²,Zi. 2,33,12
+4,selObject_44413230,Türmchen-Wohnung in historischer Burgmühle zu vermiete...,"[['Dachgeschosswohnung', '•', 'Brandenburg', 'Dom']]",['EBK'],Miete inkl. NK 1.200 €,Wohnfläche ca. 73 m²,Zi. 3,33,12
+5,selObject_44411814,Sanierte 3-Raum-Wohnung mit guter Aussicht in der Inne...,"[['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']]",[],"Miete zzgl. NK 307,01 €",Wohnfläche ca. 67 m²,Zi. 3,33,12
+6,selObject_44406194,Theaterstr. 3 Raumwohnung HP,"[['Wohnung', '•', 'Luckenwalde', 'Luckenwalde']]",[],"Miete zzgl. NK 431,34 €",Wohnfläche ca. 62 m²,Zi. 3,33,12
+7,selObject_44400864,kleine 3 - Raum Wohnung im 2. OG,"[['Wohnung', '•', 'Lauchhammer', 'Lauchhammer']]",[],"Miete zzgl. NK 334,66 €",Wohnfläche ca. 60 m²,Zi. 3,33,12
+8,selObject_44392294,Einziehen und wohlfühlen,"[['Wohnung', '•', 'Cottbus', 'Spremberger', 'Vorstadt']]",[],"Miete zzgl. NK 350,14 €",Wohnfläche ca. 58 m²,Zi. 3,33,12
+9,selObject_44392292,Gemütliche Wohnung in ruhiger Lage an der Spree,"[['Wohnung', '•', 'Cottbus', 'Sandow']]",['Balkon'],"Miete zzgl. NK 278,69 €",Wohnfläche ca. 57 m²,Zi. 3,33,12
+10,selObject_44392291,Gemütliche Wohnung mit guter Infrastruktur,"[['Wohnung', '•', 'Cottbus', 'Sandow']]",['Balkon'],"Miete zzgl. NK 294,86 €",Wohnfläche ca. 57 m²,Zi. 3,33,12
+11,selObject_44392290,Eine Wohnung im Grünen,"[['Wohnung', '•', 'Cottbus', 'Sandow']]",['Balkon'],"Miete zzgl. NK 306,90 €",Wohnfläche ca. 59 m²,Zi. 3,33,12
+12,selObject_44392289,Gemütliche preiswerte Wohnung,"[['Wohnung', '•', 'Cottbus', 'Sandow']]",['Balkon'],"Miete zzgl. NK 280,56 €",Wohnfläche ca. 58 m²,Zi. 3,33,12
+13,selObject_44392288,Wohnung in Parknähe - Genau die Richtige für Sie?,"[['Wohnung', '•', 'Cottbus', 'Sandow']]",['Balkon'],"Miete zzgl. NK 285,95 €",Wohnfläche ca. 57 m²,Zi. 3,33,12
+14,selObject_44392287,Familienfreundliches Zuhause in Cottbus,"[['Wohnung', '•', 'Cottbus', 'Sandow']]",['Balkon'],"Miete zzgl. NK 277,39 €",Wohnfläche ca. 59 m²,Zi. 3,33,12
+15,selObject_44392284,Ihre neue Wohnung in der Spremberger Vorstadt,"[['Wohnung', '•', 'Cottbus', 'Spremberger', 'Vorstadt']]",['Balkon'],"Miete zzgl. NK 336,06 €",Wohnfläche ca. 59 m²,Zi. 3,33,12
+16,selObject_44392281,Gemütliche preiswerte Wohnung,"[['Wohnung', '•', 'Cottbus', 'Sandow']]",['Balkon'],"Miete zzgl. NK 280,56 €",Wohnfläche ca. 58 m²,Zi. 3,33,12
+17,selObject_44392278,Ihre neue Wohnung im Stadtzentrum,"[['Wohnung', '•', 'Cottbus', 'Mitte']]",[],"Miete zzgl. NK 330,89 €",Wohnfläche ca. 59 m²,Zi. 3,33,12
+18,selObject_44392271,Modernisierte Wohnung im Norden von Cottbus,"[['Wohnung', '•', 'Cottbus', 'Schmellwitz']]",['Balkon'],"Miete zzgl. NK 338,68 €",Wohnfläche ca. 59 m²,Zi. 3,33,12
+19,selObject_44392267,Schöne Wohnung mit guter Infrastruktur,"[['Wohnung', '•', 'Cottbus', 'Sandow']]",['Balkon'],"Miete zzgl. NK 280,56 €",Wohnfläche ca. 58 m²,Zi. 3,33,12
+20,selObject_44392264,Ruhige Wohnung ohne Obermieter,"[['Wohnung', '•', 'Cottbus', 'Sandow']]",['Balkon'],"Miete zzgl. NK 295,10 €",Wohnfläche ca. 59 m²,Zi. 3,33,12
+21,selObject_44392244,Preiswerte Wohnung mit guter Nahverkehrsanbindung,"[['Wohnung', '•', 'Cottbus', 'Schmellwitz']]",[],"Miete zzgl. NK 276,27 €",Wohnfläche ca. 60 m²,Zi. 3,33,12
+22,selObject_44392239,Attraktive Wohnung mit Balkon in Spreenähe,"[['Wohnung', '•', 'Cottbus', 'Sandow']]",['Balkon'],"Miete zzgl. NK 274,51 €",Wohnfläche ca. 57 m²,Zi. 3,33,12
+23,selObject_44392238,Familienfreundliches Zuhause in Cottbus,"[['Wohnung', '•', 'Cottbus', 'Sandow']]",['Balkon'],"Miete zzgl. NK 277,39 €",Wohnfläche ca. 59 m²,Zi. 3,33,12
+24,selObject_44392236,Eine Wohnung im Grünen,"[['Wohnung', '•', 'Cottbus', 'Sandow']]",['Balkon'],"Miete zzgl. NK 306,90 €",Wohnfläche ca. 59 m²,Zi. 3,33,12
+25,selObject_44392234,Familienfreundliches Zuhause in Cottbus,"[['Wohnung', '•', 'Cottbus', 'Spremberger', 'Vorstadt']]",[],"Miete zzgl. NK 324,91 €",Wohnfläche ca. 58 m²,Zi. 3,33,12
+26,selObject_44392232,Familienwohnung mit großer Küche,"[['Wohnung', '•', 'Cottbus', 'Sandow']]",['Balkon'],"Miete zzgl. NK 306,13 €",Wohnfläche ca. 67 m²,Zi. 4,33,12

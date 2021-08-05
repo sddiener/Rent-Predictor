@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44003002,"Helle, freundliche 1 Raumwohnung sucht neuen Mieter","['Etagenwohnung', '•', 'Gera', 'Ostviertel']",[],"Miete zzgl. NK 167,28 €",Wohnfläche ca. 28 m²,Zi. 1,75,16
-1,selObject_44002388,"Wohnen im ""Timmichhaus"" mit Aufzug und Balkon","['Wohnung', '•', 'Schleiz', 'Schleiz']",['Balkon'],Miete zzgl. NK 341 €,Wohnfläche ca. 43 m²,Zi. 1,75,16
-2,selObject_43995112,Kurzexposé 408/1/7,"['Wohnung', '•', 'Schmalkalden', 'Schmalkalden']",['Balkon'],"Miete zzgl. NK 436,80 €",Wohnfläche ca. 62 m²,Zi. 3,75,16
-3,selObject_43993711,"2. Obergeschoss mit Aufzug! Helle, großzügige 3-4 Zimm...","['Etagenwohnung', '•', 'Arnstadt', 'Arnstadt']",[],Miete zzgl. NK 1.200 €,Wohnfläche ca. 108 m²,Zi. 3,75,16
-4,selObject_43991661,WG- Zimmer mit Einbauküche zu vermieten,"['Wohnung', '•', 'Rudolstadt', 'Volkstedt']","['Balkon', 'EBK']",Miete zzgl. NK 288 €,Wohnfläche ca. 21 m²,Zi. 1,75,16
-5,selObject_43991450,1-Raum-Wohnung mit Aufzug zu vermieten,"['Wohnung', '•', 'Rudolstadt', 'Volkstedt']",['Balkon'],Miete zzgl. NK 199 €,Wohnfläche ca. 35 m²,Zi. 1,75,16
-6,selObject_43991448,1-Raum-Wohnung in Rudolstadt-West zu vermieten,"['Wohnung', '•', 'Rudolstadt', 'West']",['Balkon'],Miete zzgl. NK 178 €,Wohnfläche ca. 35 m²,Zi. 1,75,16
-7,selObject_43991447,Barrierefreie 2-Raum-Wohnung mit betreutem Wohnen zu...,"['Wohnung', '•', 'Rudolstadt', 'Schwarza']",['Balkon'],Miete zzgl. NK 282 €,Wohnfläche ca. 48 m²,Zi. 2,75,16
-8,selObject_43991446,3-Raum-Wohnung in Rudolstadt- West zu vermieten,"['Wohnung', '•', 'Rudolstadt', 'West']",['Balkon'],Miete zzgl. NK 264 €,Wohnfläche ca. 60 m²,Zi. 3,75,16
-9,selObject_43986453,Sehr schöne 2 Raum Wohnung mit neuem Boden und toller...,"['Wohnung', '•', 'Gera', 'Ostviertel']",['EBK'],Miete zzgl. NK 300 €,Wohnfläche ca. 51 m²,Zi. 2,75,16
-10,selObject_43986436,Wohnen in der Innenstadt! Gemütliche 2 Raum EG-Wohnung...,"['Wohnung', '•', 'Gera', 'Innenstadt']",['EBK'],Miete zzgl. NK 350 €,Wohnfläche ca. 60 m²,Zi. 2,75,16
-11,selObject_43985953,KÜCHE GESCHENKT!!! MODERNE 3-Raum Wohnung,"['Etagenwohnung', '•', 'Hohenleuben', 'Hohenleuben']","['Balkon', 'EBK']",Miete zzgl. NK 325 €,Wohnfläche ca. 58 m²,Zi. 3,75,16
-12,selObject_43985914,MODERN renovierte 3- Raum Wohnung,"['Etagenwohnung', '•', 'Hohenleuben', 'Hohenleuben']",['Balkon'],Miete zzgl. NK 295 €,Wohnfläche ca. 58 m²,Zi. 3,75,16
-13,selObject_43985878,Hier finden Sie ein Plätzchen zur Erholung - Wohnung...,"['Wohnung', '•', 'Suhl', 'Suhl']",['Balkon'],"Miete zzgl. NK 312,43 €",Wohnfläche ca. 59 m²,Zi. 2,75,16
-14,selObject_43984805,==3.Zimmerwohnung mit gr.Balkon und offener Küche==,"['Wohnung', '•', 'Gera', 'Bieblach']",['Balkon'],Miete zzgl. NK 400 €,Wohnfläche ca. 80 m²,Zi. 3,75,16
-15,selObject_43984568,Großzügige 2-R-Whg. im DG mit Balkon und großer Wohnkü...,"['Dachgeschosswohnung', '•', 'Gera', 'Pforten']","['Balkon', 'Garten']",Miete zzgl. NK 400 €,Wohnfläche ca. 83 m²,Zi. 2,75,16
-16,selObject_43981419,ACHTUNG aufgepasst - 2 Kaltmieten geschenkt*,"['Wohnung', '•', 'Gera', 'Debschwitz']",['Balkon'],Miete zzgl. NK 285 €,Wohnfläche ca. 59 m²,Zi. 3,75,16
-17,selObject_43980931,3- Raum WE in 07973 Greiz,"['Wohnung', '•', 'Greiz', 'Greiz']",[],"Miete zzgl. NK 245,63 €",Wohnfläche ca. 45 m²,Zi. 3,75,16
-18,selObject_43980860,2- Raum WE in 07973 Greiz,"['Wohnung', '•', 'Greiz', 'Greiz']",[],"Miete zzgl. NK 253,53 €",Wohnfläche ca. 49 m²,Zi. 2,75,16
-19,selObject_43980836,4-Raum WE in 07973 Greiz,"['Wohnung', '•', 'Greiz', 'Greiz']",[],Miete zzgl. NK 399 €,Wohnfläche ca. 76 m²,Zi. 4,75,16
-20,selObject_43980817,2- Raum WE in 07973 Greiz,"['Wohnung', '•', 'Greiz', 'Greiz']",[],"Miete zzgl. NK 341,94 €",Wohnfläche ca. 62 m²,Zi. 2,75,16
-21,selObject_43975913,"Sehr schöne, hochwertig ausgestattete 2 R-Whg. in S-O...","['Erdgeschosswohnung', '•', 'Großheringen', 'Großheringen']","['Garten', 'EBK']",Miete zzgl. NK 371 €,Wohnfläche ca. 62 m²,Zi. 2,75,16
-22,selObject_43974254,Modern und neu sanierte 3-Raum-Wohnung,"['Wohnung', '•', 'Sondershausen', 'Sondershausen']",['Balkon'],"Miete zzgl. NK 314,63 €",Wohnfläche ca. 58 m²,Zi. 3,75,16
-23,selObject_43974104,Ihr neues Zuhause in Greußen auf dem Kirchberg,"['Wohnung', '•', 'Greußen', 'Greußen']",['Balkon'],"Miete zzgl. NK 325,37 €",Wohnfläche ca. 60 m²,Zi. 3,75,16
-24,selObject_43974037,Neue Wohnung - neues Glück,"['Wohnung', '•', 'Sondershausen', 'Sondershausen']",[],"Miete zzgl. NK 384,67 €",Wohnfläche ca. 73 m²,Zi. 4,75,16
-25,selObject_43974016,3-Raum Wohnung in Eisenach mit Einbauküche,"['Etagenwohnung', '•', 'Eisenach', 'Eisenach']","['Balkon', 'EBK']",Miete zzgl. NK 355 €,Wohnfläche ca. 61 m²,Zi. 3,75,16
-26,selObject_43973618,Familienwohnung inkl. Stellplatz im Herzen von Kaltenn...,"['Dachgeschosswohnung', '•', 'Kaltennordheim']",['EBK'],Miete zzgl. NK 640 €,Wohnfläche ca. 118 m²,Zi. 5,75,16
+0,selObject_44065753,"Student, Azubi oder Single? Hier wirst du fündig! Erst...","[['Wohnung', '•', 'Gera', 'Innenstadt']]",[],Miete zzgl. NK 360 €,Wohnfläche ca. 52 m²,Zi. 2,75,16
+1,selObject_44065752,Erstbezug nach Kernsanierung! 3 Raum Wohnung mit Balko...,"[['Wohnung', '•', 'Gera', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 540 €,Wohnfläche ca. 78 m²,Zi. 3,75,16
+2,selObject_44065749,"4 Raum Wohnung mit Balkon, modernes Bad mit Wanne &...","[['Wohnung', '•', 'Gera', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 620 €,Wohnfläche ca. 89 m²,Zi. 4,75,16
+3,selObject_44063085,Zentrumsnah! Moderne 4-Zimmer-Wohnung sucht neue Bewoh...,"[['Etagenwohnung', '•', 'Eisenberg', 'Eisenberg']]",['Balkon'],Miete zzgl. NK 555 €,Wohnfläche ca. 92 m²,Zi. 4,75,16
+4,selObject_44062732,Nur ein Katzensprung zur Hochschule - WG Interessierte...,"[['Etagenwohnung', '•', 'Schmalkalden', 'Schmalkalden']]",['EBK'],Miete zzgl. NK 480 €,Wohnfläche ca. 65 m²,Zi. 4,75,16
+5,selObject_44062432,2-Raum-Wohnung 2.OG 71qm,"[['Dachgeschosswohnung', '•', 'Gera', 'Innenstadt']]",[],Miete zzgl. NK 295 €,Wohnfläche ca. 71 m²,Zi. 2,75,16
+6,selObject_44060743,1-Raum-Single Wohnung im Stadtzentrum von Altenburg,"[['Wohnung', '•', 'Altenburg', 'Altenburg']]",[],Miete zzgl. NK 180 €,Wohnfläche ca. 37 m²,Zi. 1,75,16
+7,selObject_44052466,KAUTIONSFREI* anmieten und einen Wunschgutschein erhal...,"[['Etagenwohnung', '•', 'Eisenach', 'Eisenach']]",['Balkon'],Miete zzgl. NK 380 €,Wohnfläche ca. 73 m²,Zi. 3,75,16
+8,selObject_44052293,KAUTIONSFREI* anmieten und die ersten beiden Mieten...,"[['Etagenwohnung', '•', 'Eisenach', 'Eisenach']]",['Balkon'],Miete zzgl. NK 310 €,Wohnfläche ca. 60 m²,Zi. 3,75,16
+9,selObject_44052249,KAUTIONSFREI* anmieten- 3-Raum-Wohnung in Erdgeschossl...,"[['Erdgeschosswohnung', '•', 'Eisenach', 'Eisenach']]",['Balkon'],Miete zzgl. NK 400 €,Wohnfläche ca. 73 m²,Zi. 3,75,16
+10,selObject_44051163,Möbel rein und fertig!!! 2-Zimmerwohnung mit Einbauküc...,"[['Dachgeschosswohnung', '•', 'Mühlhausen', 'Mühlhausen']]","['Balkon', 'EBK']","Miete zzgl. NK 363,48 €",Wohnfläche ca. 60 m²,Zi. 2,75,16
+11,selObject_44051067,**Erstbezug nach Sanierung**,"[['Etagenwohnung', '•', 'Suhl', 'Suhl']]",['Balkon'],Miete zzgl. NK 269 €,Wohnfläche ca. 49 m²,Zi. 2,75,16
+12,selObject_44048252,"Klein, aber oho ! Erstbezug nach Kernsanierung","[['Erdgeschosswohnung', '•', 'Altenburg', 'Altenburg']]",['Balkon'],"Miete zzgl. NK 240,65 €",Wohnfläche ca. 33 m²,Zi. 1,75,16
+13,selObject_44048248,Familienplanung ? Hier sind Sie richtig !,"[['Etagenwohnung', '•', 'Altenburg', 'Altenburg']]",['Balkon'],"Miete zzgl. NK 439,61 €",Wohnfläche ca. 75 m²,Zi. 4,75,16
+14,selObject_44047593,2 Zimmer Erstbezug nach Renovierung,"[['Etagenwohnung', '•', 'Kraftsdorf', 'Rüdersdorf']]",[],Miete zzgl. NK 230 €,Wohnfläche ca. 47 m²,Zi. 2,75,16
+15,selObject_44041764,Mitten in der Stadt - direkt am Marktplatz!,"[['Wohnung', '•', 'Altenburg', 'Altenburg']]",[],Miete zzgl. NK 655 €,Wohnfläche ca. 182 m²,Zi. 6,75,16
+16,selObject_44041752,Schloßblick in topp sanierter Wohnung.,"[['Dachgeschosswohnung', '•', 'Altenburg', 'Altenburg']]",['EBK'],Miete zzgl. NK 639 €,Wohnfläche ca. 121 m²,Zi. 4,75,16
+17,selObject_44041750,Wohnen im Zentrum Altenburg,"[['Wohnung', '•', 'Altenburg', 'Altenburg']]",[],Miete zzgl. NK 299 €,Wohnfläche ca. 53 m²,Zi. 2,75,16
+18,selObject_44041749,Wohnung mit Aussicht! wartet auf Sie !,"[['Wohnung', '•', 'Altenburg', 'Altenburg']]",[],Miete zzgl. NK 349 €,Wohnfläche ca. 63 m²,Zi. 2,75,16
+19,selObject_44041452,Gemütliche Erdgeschoss-Wohnung in Meuselwitz zu vermie...,"[['Dachgeschosswohnung', '•', 'Meuselwitz', 'Meuselwitz']]",[],Miete zzgl. NK 250 €,Wohnfläche ca. 49 m²,Zi. 2,75,16
+20,selObject_44041328,3-Raum-Wohnung Nähe Bahnhof und Schloßpark,"[['Etagenwohnung', '•', 'Altenburg', 'Altenburg']]",[],Miete zzgl. NK 355 €,Wohnfläche ca. 71 m²,Zi. 3,75,16
+21,selObject_44041311,3-Raum-Wohnung Nähe Bahnhof und Schloßpark-kernsaniert,"[['Wohnung', '•', 'Altenburg', 'Altenburg']]",[],Miete zzgl. NK 402 €,Wohnfläche ca. 73 m²,Zi. 3,75,16
+22,selObject_44040120,Großzügige Altbauwohnung zu vermieten!,"[['Etagenwohnung', '•', 'Bad', 'Langensalza', 'Bad', 'Langensalza']]",[],"Miete zzgl. NK 559,27 €",Wohnfläche ca. 100 m²,Zi. 4,75,16
+23,selObject_44038822,Tolle 2-Zimmer-Wohnung mit Fahrstuhl im Dachgeschoss...,"[['Dachgeschosswohnung', '•', 'Bad', 'Langensalza', 'Bad', 'Langensalza']]",[],"Miete zzgl. NK 441,13 €",Wohnfläche ca. 57 m²,Zi. 2,75,16
+24,selObject_44038675,Machen Sie Ihren persönlichen Wohntraum wahr!,"[['Erdgeschosswohnung', '•', 'Bad', 'Langensalza', 'Bad', 'Langensalza']]",['Balkon'],"Miete zzgl. NK 697,88 €",Wohnfläche ca. 93 m²,Zi. 3,75,16
+25,selObject_44038619,wir haben für Sie saniert und renoviert!,"[['Dachgeschosswohnung', '•', 'Altenburg', 'Altenburg']]",[],Miete zzgl. NK 505 €,Wohnfläche ca. 101 m²,Zi. 4,75,16
+26,selObject_44037842,TOP Angebot,"[['Etagenwohnung', '•', 'Stadtilm']]",['Balkon'],Miete zzgl. NK 280 €,Wohnfläche ca. 58 m²,Zi. 3,75,16

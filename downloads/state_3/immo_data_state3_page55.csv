@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44827558,"zentrale 2,5 Zimmerwohnung im Zweifamilienhaus","['Erdgeschosswohnung', '•', 'Delmenhorst', 'Schafkoven/Donneresch']",[],Miete zzgl. NK 380 €,Wohnfläche ca. 65 m²,"Zi. 2,5",55,3
-1,selObject_44827138,"Einzigartige 68 m² Maisonette-Wohnung, 2 Zimmer","['Maisonette', '•', 'Jork', 'Borstel']",[],Miete zzgl. NK 578 €,Wohnfläche ca. 68 m²,Zi. 2,55,3
-2,selObject_44825817,Exklusive 3-Zi. Wohnung mit großen Süd-Westbalkon,"['Etagenwohnung', '•', 'Jesteburg', 'Jesteburg']","['Balkon', 'EBK']",Miete zzgl. NK 1.220 €,Wohnfläche ca. 98 m²,Zi. 3,55,3
-3,selObject_44825813,"Stilvolle 3-Zi. Erdgeschosswohnung mit großer, überdac...","['Erdgeschosswohnung', '•', 'Jesteburg', 'Jesteburg']","['Balkon', 'EBK']",Miete zzgl. NK 1.150 €,Wohnfläche ca. 92 m²,Zi. 3,55,3
-4,selObject_44825064,Gemütliche Erdgeschosswohnung in Hagen - Kassebruch,"['Wohnung', '•', 'Hagen', 'Kassebruch']",['Garten'],Miete zzgl. NK 415 €,Wohnfläche ca. 70 m²,Zi. 2,55,3
-5,selObject_44825010,PREISWERTE ZENTRAL GELEGENE 1-ZIMMER -WOHNUNG MIT...,"['Erdgeschosswohnung', '•', 'Clausthal-Zellerfeld', 'Clausthal-Zellerfeld']",[],Miete zzgl. NK 140 €,Wohnfläche ca. 24 m²,Zi. 1,55,3
-6,selObject_44824962,Wohnung mit Charme - für Singles oder Paare - in 21640...,"['Etagenwohnung', '•', 'Horneburg']","['Balkon', 'EBK']",Miete zzgl. NK 560 €,Wohnfläche ca. 70 m²,Zi. 3,55,3
-7,selObject_44824958,"Charmante 2,5-Zimmer-Altbauwohnung mit Balkon in Hanno...","['Etagenwohnung', '•', 'Hannover', 'Vahrenwald']",['Balkon'],Miete zzgl. NK 730 €,Wohnfläche ca. 73 m²,"Zi. 2,5",55,3
-8,selObject_44824920,**NEUBAU/Erstbezug**TOP ORTSLAGE**2 PKW-Stellplätze**...,"['Dachgeschosswohnung', '•', 'Stuhr', 'Brinkum']",[],Miete zzgl. NK 980 €,Wohnfläche ca. 89 m²,Zi. 3,55,3
-9,selObject_44824556,Exklusive lichtdurchflutete 140qm-Wohnung in 1A Stadtl...,"['Wohnung', '•', 'Gifhorn', 'Gifhorn']","['Balkon', 'EBK']",Miete zzgl. NK 1.400 €,Wohnfläche ca. 140 m²,Zi. 4,55,3
-10,selObject_44823105,"3-Zimmer-Wohnung Maschen - Ort, Terrasse,eigener Garte...","['Erdgeschosswohnung', '•', 'Seevetal', 'Maschen']","['Garten', 'EBK']",Miete zzgl. NK 820 €,Wohnfläche ca. 78 m²,Zi. 3,55,3
-11,selObject_44823079,Schicke 4-Zimmer-Wohnung mit Wohlfühlcharakter,"['Etagenwohnung', '•', 'Barsinghausen', 'Barsinghausen']",['Balkon'],"Miete zzgl. NK 520,50 €",Wohnfläche ca. 69 m²,Zi. 4,55,3
-12,selObject_44823077,Das macht strahlend gute Laune: Willkommen im neuen...,"['Etagenwohnung', '•', 'Hildesheim', 'Neustadt']",[],Miete zzgl. NK 493 €,Wohnfläche ca. 68 m²,Zi. 3,55,3
-13,selObject_44823052,Das macht strahlend gute Laune: Willkommen im neuen...,"['Etagenwohnung', '•', 'Barsinghausen', 'Barsinghausen']",[],"Miete zzgl. NK 421,20 €",Wohnfläche ca. 54 m²,"Zi. 2,5",55,3
-14,selObject_44823042,Schöne 3-Zimmer-Wohnung in Eversburg,"['Dachgeschosswohnung', '•', 'Osnabrück', 'Eversburg']",['Balkon'],"Miete zzgl. NK 534,25 €",Wohnfläche ca. 72 m²,Zi. 3,55,3
-15,selObject_44823018,"Schöne 2,5-Zimmer-Dachgeschosswohnung mit Duschbad","['Dachgeschosswohnung', '•', 'Barsinghausen', 'Barsinghausen']",[],"Miete zzgl. NK 350,45 €",Wohnfläche ca. 43 m²,Zi. 2,55,3
-16,selObject_44820211,"3-Zimmer-Wohnung mit Balkon in Lingen (Ems)! Neubau,...","['Wohnung', '•', 'Lingen', 'Darme']",['Balkon'],Miete zzgl. NK 990 €,Wohnfläche ca. 108 m²,Zi. 3,55,3
-17,selObject_44820129,helle freundliche 2-Zimmer Stadtwohnung mit Balkon,"['Wohnung', '•', 'Osnabrück', 'Innenstadt']",['Balkon'],Miete zzgl. NK 645 €,Wohnfläche ca. 68 m²,Zi. 2,55,3
-18,selObject_44819708,"Schönes Wohnen in Bleckede - hübsche Wohnung mit 4,5...","['Wohnung', '•', 'Bleckede', 'Bleckede']","['Garten', 'EBK']",Miete zzgl. NK 750 €,Wohnfläche ca. 90 m²,"Zi. 4,5",55,3
-19,selObject_44819240,Erstbezug in Neubau / Attraktive Wohnung in Sottrum...,"['Etagenwohnung', '•', 'Sottrum', 'Sottrum']","['Balkon', 'EBK']",Miete zzgl. NK 909 €,Wohnfläche ca. 96 m²,"Zi. 3,5",55,3
-20,selObject_44819238,Erstbezug in Neubau / Attraktive Wohnung Sottrum mit...,"['Erdgeschosswohnung', '•', 'Sottrum', 'Sottrum']","['Garten', 'EBK']",Miete zzgl. NK 835 €,Wohnfläche ca. 87 m²,"Zi. 3,5",55,3
-21,selObject_44818841,gepflegtes & möbliertes 1-Zimmer-Apartment,"['Erdgeschosswohnung', '•', 'Jork', 'Jork']","['Garten', 'EBK']",Miete zzgl. NK 350 €,Wohnfläche ca. 22 m²,Zi. 1,55,3
-22,selObject_44818608,Repräsentative schöne Dachterrassenwohnung in SW-Lage...,"['Wohnung', '•', 'Achim', 'Baden']","['Balkon', 'EBK']",Miete zzgl. NK 1.190 €,Wohnfläche ca. 170 m²,"Zi. 4,5",55,3
-23,selObject_44818139,"Sanierte, schicke Wohnung in zentraler Lage von Bad...","['Etagenwohnung', '•', 'Bad', 'Bevensen', 'Bad', 'Bevensen']",['Balkon'],Miete zzgl. NK 869 €,Wohnfläche ca. 110 m²,Zi. 4,55,3
-24,selObject_44818113,"Bad Laer am Kurpark, 3 ZKBBK, 68m²","['Kein', 'Bild']",['Balkon'],Miete zzgl. NK 470 €,Wohnfläche ca. 68 m²,Zi. 3,55,3
-25,selObject_44818110,"NOH, 3-Zi-Wohnung im 1. OG","['Wohnung', '•', 'Nordhorn', 'Brandlecht']","['Balkon', 'EBK']",Miete zzgl. NK 695 €,Wohnfläche ca. 70 m²,Zi. 3,55,3
-26,selObject_44817823,Top Altbauwohnung in Delmenhorst Innenstadt,"['Etagenwohnung', '•', 'Delmenhorst', 'Mitte']",['EBK'],Miete zzgl. NK 780 €,Wohnfläche ca. 130 m²,"Zi. 3,5",55,3
+0,selObject_44854693,Elegante 4 Zimmer-Neubauwohnung!!! Erstbezug!!!,"[['Erdgeschosswohnung', '•', 'Peine', 'Kernstadt', 'Süd']]","['Balkon', 'EBK']",Miete zzgl. NK 930 €,Wohnfläche ca. 95 m²,Zi. 4,55,3
+1,selObject_44854328,Große Erdgeschosswohnung mit Garten und Garage,"[['Wohnung', '•', 'Vechta', 'Vechta']]","['Garten', 'EBK']",Miete zzgl. NK 950 €,Wohnfläche ca. 156 m²,Zi. 4,55,3
+2,selObject_44852887,Gemütliche Singlewohnung,"[['Etagenwohnung', '•', 'Schortens', 'Heidmühle']]","['Balkon', 'EBK']",Miete zzgl. NK 300 €,Wohnfläche ca. 54 m²,Zi. 3,55,3
+3,selObject_44852800,Modernisierte Wohnung mit Dusche zu vermieten!,"[['Etagenwohnung', '•', 'Wilhelmshaven', 'Bant']]",[],Miete zzgl. NK 281 €,Wohnfläche ca. 48 m²,Zi. 2,55,3
+4,selObject_44852661,Schöne 3-Zimmer-DG-Wohnung im Georgenbergviertel,"[['Dachgeschosswohnung', '•', 'Goslar', 'Georgenberg']]",['EBK'],Miete zzgl. NK 460 €,Wohnfläche ca. 75 m²,Zi. 3,55,3
+5,selObject_44852637,Frisch renovierte 4-Zimmer Wohnung in toller Lage mit...,"[['Etagenwohnung', '•', 'Georgsmarienhütte', 'Oesede']]",['Balkon'],Miete zzgl. NK 930 €,Wohnfläche ca. 127 m²,Zi. 4,55,3
+6,selObject_44852439,1-Zimmer-Wohnung mit Balkon in TU-Nähe,"[['Etagenwohnung', '•', 'Braunschweig', 'Braunschweig']]",['Balkon'],Miete zzgl. NK 260 €,Wohnfläche ca. 27 m²,Zi. 1,55,3
+7,selObject_44852433,"Hübsche, möblierte Single-Wohnung in ländlicher Lage","[['Etagenwohnung', '•', 'Wangerland', 'Friederikensiel']]",[],Miete zzgl. NK 350 €,Wohnfläche ca. 41 m²,Zi. 2,55,3
+8,selObject_44852407,Exklusive Penthouse-Wohnungen zu vermieten! Erstbezug!...,"[['Penthouse', '•', 'Söhlde', 'Söhlde']]",['Balkon'],Miete zzgl. NK 1.380 €,Wohnfläche ca. 113 m²,Zi. 3,55,3
+9,selObject_44852342,Einliegerwohnung in Top-Lage / Schwedenviertel,"[['Dachgeschosswohnung', '•', 'Stade', 'Stade']]",['EBK'],Miete zzgl. NK 780 €,Wohnfläche ca. 120 m²,Zi. 3,55,3
+10,selObject_44852340,Die Extraklasse! Lichtdurchflutete Obergeschosswohnung...,"[['Etagenwohnung', '•', 'Weyhe', 'Erichshof']]","['Balkon', 'EBK']",Miete zzgl. NK 1.050 €,Wohnfläche ca. 98 m²,Zi. 3,55,3
+11,selObject_44852262,NEUBAU / ERSTBEZUG in Himmelpforten (KfW 40 Standard)...,"[['Dachgeschosswohnung', '•', 'Himmelpforten', 'Himmelpforten']]","['Balkon', 'EBK']",Miete zzgl. NK 800 €,Wohnfläche ca. 89 m²,Zi. 4,55,3
+12,selObject_44852237,Energieeffizientes Wohnen mitten in Leeste mit Rundum-...,"[['Erdgeschosswohnung', '•', 'Weyhe', 'Erichshof']]","['Garten', 'EBK']",Miete zzgl. NK 970 €,Wohnfläche ca. 87 m²,Zi. 3,55,3
+13,selObject_44852176,NEUBAU / ERSTBEZUG in Himmelpforten (KfW 40 Standard)...,"[['Erdgeschosswohnung', '•', 'Himmelpforten', 'Himmelpforten']]",['EBK'],Miete zzgl. NK 770 €,Wohnfläche ca. 86 m²,Zi. 3,55,3
+14,selObject_44852160,"Buchholz - Neubau - zentral - Wohnung mit Aufzug, groß...","[['Etagenwohnung', '•', 'Buchholz', 'Buchholz']]","['Balkon', 'EBK']",Miete zzgl. NK 1.160 €,Wohnfläche ca. 83 m²,Zi. 3,55,3
+15,selObject_44852099,Schöne 3-Zimmer-Maisonette-Wohnung in Innenstadtlage...,"[['Maisonette', '•', 'Diepholz', 'Diepholz']]",[],Miete zzgl. NK 620 €,Wohnfläche ca. 94 m²,Zi. 3,55,3
+16,selObject_44852074,3 ZKB-Wohnung im schönen Hansaviertel zu vermieten!,"[['Etagenwohnung', '•', 'Wilhelmshaven', 'Bant']]","['Balkon', 'EBK']",Miete zzgl. NK 470 €,Wohnfläche ca. 85 m²,Zi. 3,55,3
+17,selObject_44851989,2 Zimmer- Erdgeschoss- Wohnung / Neubau /zentrumsnah...,"[['Wohnung', '•', 'Soltau', 'Soltau']]",['EBK'],Miete zzgl. NK 460 €,Wohnfläche ca. 46 m²,Zi. 2,55,3
+18,selObject_44851824,Studenten aufgepasst! 1 Zimmer mit Balkon in zentraler...,"[['Etagenwohnung', '•', 'Wilhelmshaven', 'Bant']]",['Balkon'],Miete zzgl. NK 180 €,Wohnfläche ca. 32 m²,Zi. 1,55,3
+19,selObject_44851628,Wohlfühlwohnung mit Tagslichtbad und Balkon,"[['Etagenwohnung', '•', 'Garbsen', 'Altgarbsen']]",['Balkon'],"Miete zzgl. NK 618,27 €",Wohnfläche ca. 74 m²,Zi. 3,55,3
+20,selObject_44851625,"Gemütliche 2,5-Zimmer-Wohnung sucht ruhige Mieter","[['Etagenwohnung', '•', 'Barsinghausen', 'Barsinghausen']]",[],"Miete zzgl. NK 469,70 €",Wohnfläche ca. 61 m²,"Zi. 2,5",55,3
+21,selObject_44851597,Singles aufgepasst! Schöne kleine Wohnung zu vergeben!,"[['Dachgeschosswohnung', '•', 'Osnabrück', 'Eversburg']]",[],"Miete zzgl. NK 385,45 €",Wohnfläche ca. 39 m²,"Zi. 1,5",55,3
+22,selObject_44851588,Schicke 3-Zimmer-Wohnung mit XL-Balkon und Tageslicht...,"[['Etagenwohnung', '•', 'Seelze', 'Letter']]",['Balkon'],"Miete zzgl. NK 612,09 €",Wohnfläche ca. 64 m²,Zi. 3,55,3
+23,selObject_44851552,"Sofort verfügbar: modernisierte 2,5-Zimmer-Wohnung","[['Etagenwohnung', '•', 'Hannover', 'Südstadt']]",['Balkon'],"Miete zzgl. NK 610,88 €",Wohnfläche ca. 61 m²,"Zi. 2,5",55,3
+24,selObject_44851551,Gelegenheit: individuelle 3-Zimmer-Wohnung,"[['Etagenwohnung', '•', 'Rodenberg', 'Rodenberg']]",['Balkon'],Miete zzgl. NK 570 €,Wohnfläche ca. 76 m²,Zi. 3,55,3
+25,selObject_44850912,Natur pur gleich im die Ecke,"[['Wohnung', '•', 'Oldenburg', 'Eversten']]",[],Miete zzgl. NK 546 €,Wohnfläche ca. 74 m²,Zi. 3,55,3
+26,selObject_44850728,"4-Zimmer-Wohnung in Braunschweig-Weststadt mit Balkon,...","[['Etagenwohnung', '•', 'Braunschweig', 'Weststadt']]",['Balkon'],Miete zzgl. NK 594 €,Wohnfläche ca. 89 m²,Zi. 4,55,3

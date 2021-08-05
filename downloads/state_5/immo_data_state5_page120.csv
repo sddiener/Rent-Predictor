@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44864636,Hier schlägt besonders das Herz für Singles und Paare,"['Etagenwohnung', '•', 'Duisburg', 'Wehofen']",['Balkon'],Miete zzgl. NK 382 €,Wohnfläche ca. 57 m²,"Zi. 2,5",120,5
-1,selObject_44864635,Vier Wände zum Wohlfühlen.,"['Erdgeschosswohnung', '•', 'Duisburg', 'Obermarxloh']",[],"Miete zzgl. NK 353,59 €",Wohnfläche ca. 69 m²,"Zi. 3,5",120,5
-2,selObject_44864628,Bezugsfertige Wohnung - Einfach Möbel rein und Füße...,"['Etagenwohnung', '•', 'Duisburg', 'Obermarxloh']",['Balkon'],Miete zzgl. NK 315 €,Wohnfläche ca. 53 m²,"Zi. 2,5",120,5
-3,selObject_44864535,Schicke Neubauwohnung im Mauritzviertel,"['Etagenwohnung', '•', 'Münster', 'Mauritz']",['EBK'],Miete zzgl. NK 1.840 €,Wohnfläche ca. 115 m²,Zi. 3,120,5
-4,selObject_44864455,Studentenapartment in Innenstadtlage,"['Dachgeschosswohnung', '•', 'Essen', 'Stadtkern']",[],Miete zzgl. NK 265 €,Wohnfläche ca. 35 m²,Zi. 1,120,5
-5,selObject_44864454,Komplett renovierte DG-Wohnung mit wenigen Schrägen in...,"['Wohnung', '•', 'Oberhausen', 'Holten']",[],Miete zzgl. NK 400 €,Wohnfläche ca. 73 m²,Zi. 2,120,5
-6,selObject_44864427,Modernes Wohnen mit repräsentativen Büro in der Lippst...,"['Erdgeschosswohnung', '•', 'Lippstadt', 'Kernstadt']",['EBK'],Miete zzgl. NK 995 €,Wohnfläche ca. 107 m²,Zi. 3,120,5
-7,selObject_44864380,Neudorf : Helle & renovierte 3 Zimmer Wohnung mit...,"['Etagenwohnung', '•', 'Duisburg', 'Neudorf-Süd']",['Balkon'],Miete zzgl. NK 530 €,Wohnfläche ca. 70 m²,Zi. 3,120,5
-8,selObject_44864325,"47055- renovierte 3,5 Zimmer Altbauwohnung","['Etagenwohnung', '•', 'Duisburg', 'Wanheimerort']",[],Miete zzgl. NK 465 €,Wohnfläche ca. 76 m²,"Zi. 3,5",120,5
-9,selObject_44863008,In familienfreundlicher Lage,"['Wohnung', '•', 'Schieder-Schwalenberg', 'Schieder']",['Balkon'],Miete zzgl. NK 350 €,Wohnfläche ca. 78 m²,Zi. 3,120,5
-10,selObject_44862779,4-Zi.-OGW- mit schönen Balkon in Burgsteinfurt!,"['Etagenwohnung', '•', 'Steinfurt', 'Burgsteinfurt']",['Balkon'],Miete zzgl. NK 795 €,Wohnfläche ca. 92 m²,Zi. 4,120,5
-11,selObject_44861648,Obergeschoßwohnung in einem denkmalgeschützten Wohnhau...,"['Etagenwohnung', '•', 'Sendenhorst', 'Sendenhorst']",[],Miete zzgl. NK 570 €,Wohnfläche ca. 95 m²,Zi. 3,120,5
-12,selObject_44861604,"Da kommt man gern Heim. individuelle 2,5-Zimmer-Wohnun...","['Etagenwohnung', '•', 'Schwerte', 'Westhofen']",['Balkon'],Miete zzgl. NK 387 €,Wohnfläche ca. 65 m²,"Zi. 2,5",120,5
-13,selObject_44861594,Ihre Zukunft- Ihre Wohnung: Attraktive 3-Zimmer-Wohnun...,"['Etagenwohnung', '•', 'Leverkusen', 'Schlebusch']",['Balkon'],"Miete zzgl. NK 556,16 €",Wohnfläche ca. 64 m²,Zi. 3,120,5
-14,selObject_44861582,Nette Nachbarn gesucht: ansprechende 2-Zimmer-Wohnung,"['Erdgeschosswohnung', '•', 'Dortmund', 'Lindenhorst']",['Balkon'],Miete zzgl. NK 449 €,Wohnfläche ca. 52 m²,Zi. 2,120,5
-15,selObject_44861579,Familienleben leicht gemacht: 3-Zimmer-Wohnung mit...,"['Etagenwohnung', '•', 'Leverkusen', 'Rheindorf']",['Balkon'],"Miete zzgl. NK 586,82 €",Wohnfläche ca. 67 m²,Zi. 3,120,5
-16,selObject_44861570,Sehr schöne Wohnung in beliebter Wohnlage in Bochum,"['Etagenwohnung', '•', 'Bochum', 'Weitmar']",[],"Miete zzgl. NK 531,91 €",Wohnfläche ca. 56 m²,Zi. 3,120,5
-17,selObject_44861556,"Neubauwohnung (Staffelgeschoss) mit Tageslichtbad,...","['Etagenwohnung', '•', 'Düsseldorf', 'Benrath']",['Balkon'],"Miete zzgl. NK 682,80 €",Wohnfläche ca. 57 m²,Zi. 2,120,5
-18,selObject_44861552,Preisgünstige 1-Zimmer-Single-Wohnung,"['Etagenwohnung', '•', 'Kerpen', 'Horrem']",['Balkon'],"Miete zzgl. NK 426,60 €",Wohnfläche ca. 36 m²,Zi. 1,120,5
-19,selObject_44861537,Hübsche 2-Zimmer-Wohnung frei in Leverkusen-Rheindorf!,"['Etagenwohnung', '•', 'Leverkusen', 'Rheindorf']",['Balkon'],"Miete zzgl. NK 501,90 €",Wohnfläche ca. 57 m²,Zi. 2,120,5
-20,selObject_44861524,Frei zum 23.08.: Gemütliche 3-Zimmer-Wohnung mit neuem...,"['Etagenwohnung', '•', 'Düsseldorf', 'Oberbilk']",['Balkon'],"Miete zzgl. NK 649,22 €",Wohnfläche ca. 62 m²,Zi. 3,120,5
-21,selObject_44861482,Willkommen in Steinbüchel: Schöne 3-Zimmer-Wohnung,"['Etagenwohnung', '•', 'Leverkusen', 'Steinbüchel']",['Balkon'],"Miete zzgl. NK 595,55 €",Wohnfläche ca. 73 m²,Zi. 3,120,5
-22,selObject_44861464,"Die gefällt mir: interessante 2,5-Zimmer-Wohnung","['Etagenwohnung', '•', 'Essen', 'Katernberg']",[],Miete zzgl. NK 385 €,Wohnfläche ca. 44 m²,"Zi. 2,5",120,5
-23,selObject_44861445,Schöne Zwei-Zimmer-Wohnung zu vermieten!,"['Etagenwohnung', '•', 'Leverkusen', 'Steinbüchel']",['Balkon'],"Miete zzgl. NK 488,32 €",Wohnfläche ca. 61 m²,Zi. 2,120,5
-24,selObject_44861438,3-Zimmer-Wohnung für kleine Familien oder Paare!,"['Etagenwohnung', '•', 'Leverkusen', 'Steinbüchel']",['Balkon'],"Miete zzgl. NK 619,13 €",Wohnfläche ca. 71 m²,Zi. 3,120,5
-25,selObject_44861430,2-Zimmer-Wohnung mit Balkon in Steinbüchel,"['Etagenwohnung', '•', 'Leverkusen', 'Steinbüchel']",['Balkon'],"Miete zzgl. NK 497,70 €",Wohnfläche ca. 63 m²,Zi. 2,120,5
-26,selObject_44861327,Hier ist Wohlfühlwohnen garantiert! Wohnung mit Balkon,"['Loft-Studio-Atelier', '•', 'Düsseldorf', 'Stadtmitte']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 710 €,Wohnfläche ca. 31 m²,Zi. 1,120,5
+0,selObject_44888687,***Top renoviert in ruhiger Lage... 1-Zimmer bezugsfer...,"[['Erdgeschosswohnung', '•', 'Duisburg', 'Friemersheim']]",[],Miete zzgl. NK 319 €,Wohnfläche ca. 42 m²,Zi. 2,120,5
+1,selObject_44888680,Preisgünstige 0-Zimmer-Citywohnung,"[['Dachgeschosswohnung', '•', 'Bochum', 'Weitmar']]",[],"Miete zzgl. NK 760,51 €",Wohnfläche ca. 75 m²,Zi. 3,120,5
+2,selObject_44888673,Wohn(t)raum: praktische 2-Zimmer-Wohnung,"[['Erdgeschosswohnung', '•', 'Dortmund', 'Kurl']]",['Balkon'],Miete zzgl. NK 399 €,Wohnfläche ca. 60 m²,Zi. 2,120,5
+3,selObject_44888651,"Jetzt Zugreifen: 2,5-Zimmer-Wohnung mit modernem Tages...","[['Etagenwohnung', '•', 'Essen', 'Katernberg']]",['Balkon'],Miete zzgl. NK 395 €,Wohnfläche ca. 49 m²,"Zi. 2,5",120,5
+4,selObject_44888645,Schöner Wohnen: familienfreundliche 4-Zimmer-Wohnung,"[['Etagenwohnung', '•', 'Bonn', 'Lessenich']]",['Balkon'],"Miete zzgl. NK 829,85 €",Wohnfläche ca. 86 m²,Zi. 4,120,5
+5,selObject_44888628,Gemütliche drei-Zimmer-Wohnung im ersten Obergeschoss...,"[['Etagenwohnung', '•', 'Bochum', 'Werne']]",[],Miete zzgl. NK 390 €,Wohnfläche ca. 51 m²,"Zi. 2,5",120,5
+6,selObject_44888625,Miet mich - 3-Zimmer-Wohnung,"[['Erdgeschosswohnung', '•', 'Bielefeld', 'Stieghorst']]",['Balkon'],Miete zzgl. NK 561 €,Wohnfläche ca. 66 m²,Zi. 3,120,5
+7,selObject_44888091,Bezugsfertige EG Wohnung mit großer Küche! WBS ERFORDE...,"[['Erdgeschosswohnung', '•', 'Herne', 'Unser', 'Fritz']]",[],"Miete zzgl. NK 299,28 €",Wohnfläche ca. 55 m²,"Zi. 2,5",120,5
+8,selObject_44888090,Großzügige 3-Zimmer-Wohnung in Herne-Unser Fritz zu...,"[['Etagenwohnung', '•', 'Herne', 'Unser', 'Fritz']]",[],"Miete zzgl. NK 394,31 €",Wohnfläche ca. 72 m²,"Zi. 3,5",120,5
+9,selObject_44888089,Gut geschnittene 2-Zimmer-Wohnung in Herne-Unser Fritz...,"[['Etagenwohnung', '•', 'Herne', 'Unser', 'Fritz']]",[],"Miete zzgl. NK 231,46 €",Wohnfläche ca. 50 m²,"Zi. 3,5",120,5
+10,selObject_44887971,"Luxuriöse Dachgeschosswohnung, 500 Meter zum RWTH Camp...","[['Dachgeschosswohnung', '•', 'Aachen', 'Aachen']]",['Balkon'],Miete zzgl. NK 949 €,Wohnfläche ca. 90 m²,"Zi. 2,5",120,5
+11,selObject_44887114,CITY EXKLUSIV TOTALSANIERT/RENOVIERT WOHNKÜCHE NEUE...,"[['Erdgeschosswohnung', '•', 'Düsseldorf', 'Bilk']]",[],Miete zzgl. NK 550 €,Wohnfläche ca. 56 m²,Zi. 2,120,5
+12,selObject_44886485,Gutgeschnittene 3-Zimmer-Dachgeschosswohnung mit traum...,"[['Wohnung', '•', 'Arnsberg', 'Arnsberg']]",[],Miete zzgl. NK 380 €,Wohnfläche ca. 64 m²,Zi. 3,120,5
+13,selObject_44885850,"D-Oberrath, Eitelstr., top 2,5 Zi.-Altbau-Wohnung, ca....","[['Etagenwohnung', '•', 'Düsseldorf', 'Rath']]",[],Miete zzgl. NK 750 €,Wohnfläche ca. 79 m²,"Zi. 2,5",120,5
+14,selObject_44885497,Maisonette-Wohnung in Ratingen-Süd mit Gartenmitnutzun...,"[['Maisonette', '•', 'Ratingen', 'Zentrum']]",['Garten'],Miete zzgl. NK 800 €,Wohnfläche ca. 86 m²,Zi. 3,120,5
+15,selObject_44885251,Renoviert und mitten im Zentrum!,"[['Etagenwohnung', '•', 'Bad', 'Salzuflen', 'Innenstadt']]",[],Miete zzgl. NK 760 €,Wohnfläche ca. 88 m²,Zi. 3,120,5
+16,selObject_44885113,***Stilwohnung*** !!!Im Zentrum Düsseldorfs!!!,"[['Wohnung', '•', 'Düsseldorf', 'Düsseltal']]","['Balkon', 'EBK']",Miete zzgl. NK 1.195 €,Wohnfläche ca. 96 m²,"Zi. 2,5",120,5
+17,selObject_44885063,Möblierte WG-Zimmer wird am 01.09.21 frei. In W-Vohwin...,"[['Zimmer', '•', 'Wuppertal', 'Vohwinkel']]","['Garten', 'EBK']",Miete zzgl. NK 250 €,Wohnfläche ca. 20 m²,,120,5
+18,selObject_44885054,Zentrumsnahe Altbau-Wohnung in Werdohl,"[['Erdgeschosswohnung', '•', 'Werdohl', 'Werdohl']]",[],Miete zzgl. NK 360 €,Wohnfläche ca. 66 m²,Zi. 2,120,5
+19,selObject_44884973,Möblierte Frauen-WG-Zimmer wird am 01.08.21 frei.,"[['Zimmer', '•', 'Düsseldorf', 'Unterrath']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 340 €,Wohnfläche ca. 18 m²,,120,5
+20,selObject_44884949,**vergünstigte Miete**Helle & freundliche 2 Zimmerwohn...,"[['Wohnung', '•', 'Hagen', 'Eilpe']]",[],Miete zzgl. NK 290 €,Wohnfläche ca. 55 m²,Zi. 2,120,5
+21,selObject_44884935,Ab sofort frei. Möblierte WG-Zimmer in D-Flughafennähe...,"[['Zimmer', '•', 'Düsseldorf', 'Unterrath']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 350 €,Wohnfläche ca. 21 m²,,120,5
+22,selObject_44884725,**vergünstigte Miete* Hagen-Haspe 3 Zimmerwohnung mit...,"[['Wohnung', '•', 'Hagen', 'Haspe']]",['Balkon'],Miete zzgl. NK 368 €,Wohnfläche ca. 82 m²,Zi. 3,120,5
+23,selObject_44884675,**Frisch renoviert** DG-Whg. mit Balkon im Herzen von...,"[['Dachgeschosswohnung', '•', 'Hagen', 'Haspe']]",['Balkon'],Miete zzgl. NK 275 €,Wohnfläche ca. 61 m²,Zi. 2,120,5
+24,selObject_44884628,"Gemütliche 2-Zi.-Whg. mit offener Küche, modernem Bad...","[['Etagenwohnung', '•', 'Wülfrath', 'Innenstadt']]",['Balkon'],"Miete zzgl. NK 455,98 €",Wohnfläche ca. 65 m²,Zi. 2,120,5
+25,selObject_44884608,Preiswerte und großzügige 3-Zimmer-Wohnung,"[['Etagenwohnung', '•', 'Bielefeld', 'Baumheide']]",['Balkon'],"Miete zzgl. NK 642,40 €",Wohnfläche ca. 73 m²,Zi. 3,120,5
+26,selObject_44884601,Miet mich - interessante 1-Zimmer-Single-Wohnung,"[['Etagenwohnung', '•', 'Essen', 'Katernberg']]",['Balkon'],Miete zzgl. NK 314 €,Wohnfläche ca. 39 m²,"Zi. 1,5",120,5

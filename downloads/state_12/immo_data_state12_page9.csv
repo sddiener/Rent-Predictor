@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44979569,NEU Sonnenhöfe Schönefeld -Raffiniert geschnittene 2-Zimme...,"['Etagenwohnung', '•', 'Schönefeld', 'Schönefeld']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 800 €,Wohnfläche ca. 72 m²,Zi. 2,9,12
-1,selObject_44979541,NEU Moderne 2-Zimmerwohnung in den Sonnenhöfen,"['Etagenwohnung', '•', 'Schönefeld', 'Schönefeld']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 795 €,Wohnfläche ca. 71 m²,Zi. 2,9,12
-2,selObject_44979505,NEU Großzügige 2-Zimmerwohnung mit sofortiger Verfügbarkei...,"['Etagenwohnung', '•', 'Schönefeld', 'Schönefeld']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 815 €,Wohnfläche ca. 71 m²,Zi. 2,9,12
-3,selObject_44979324,NEU Erstbezug - Großzügige 4 Zimmer Wohnung - barrierefrei...,"['Apartment', '•', 'Großbeeren', 'Kleinbeeren']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 1.755,48 €",Wohnfläche ca. 146 m²,Zi. 4,9,12
-4,selObject_44978681,NEU Großzügige Familienwohnung mit großer Terrasse und...,"['Erdgeschosswohnung', '•', 'Eichwalde']","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']","Miete zzgl. NK 858,48 €",Wohnfläche ca. 82 m²,Zi. 3,9,12
-5,selObject_44977364,NEU Wohnen auf Zeit**Komplett möblierte DG-Wohnung am Park...,"['Wohnung', '•', 'Potsdam', 'Bornstedt']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 1.230 €,Wohnfläche ca. 106 m²,Zi. 4,9,12
-6,selObject_44976692,NEU 4-Raum-Wohnung mit Balkon in Bahnhofsnähe,"['Etagenwohnung', '•', 'Brandenburg', 'Neustadt']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 620 €,Wohnfläche ca. 78 m²,Zi. 4,9,12
-7,selObject_44976383,NEU Penthouse in Neuruppin,"['Dachgeschosswohnung', '•', 'Neuruppin']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 1.692 €,Wohnfläche ca. 141 m²,Zi. 4,9,12
-8,selObject_44975797,NEU Romantische Wohnung auf idyllischem Grundstück in der...,"['Wohnung', '•', 'Boitzenburger', 'Land', 'Jakobshagen']","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 700 €,Wohnfläche ca. 103 m²,Zi. 2,9,12
-9,selObject_44974780,NEU Mieter gesucht ! 1-Zimmer Wohnung in Bahnhofsnähe,"['Kein', 'Bild']","['NEU', 'NEU']",Miete zzgl. NK 290 €,Wohnfläche ca. 39 m²,Zi. 1,9,12
-10,selObject_44974639,NEU 3-Zimmer-Wohnung im 3.OG in den Theodor-Fontane-Höfen...,"['Etagenwohnung', '•', 'Schönefeld', 'Waßmannsdorf']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 801 €,Wohnfläche ca. 72 m²,Zi. 3,9,12
-11,selObject_44974628,NEU Ruhige 4-Zimmer Wohnung in der City,"['Etagenwohnung', '•', 'Brandenburg', 'Neustadt']","['NEU', 'NEU']",Miete zzgl. NK 840 €,Wohnfläche ca. 120 m²,Zi. 4,9,12
-12,selObject_44972422,"schöne 2 Raum DG-Wohnung in ruhiger zentraler Lage, im...","['Dachgeschosswohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']","['Garten', 'EBK']","Miete zzgl. NK 343,23 €",Wohnfläche ca. 51 m²,Zi. 2,9,12
-13,selObject_44970903,Über den Wolken,"['Wohnung', '•', 'Brandenburg', 'Hohenstücken']",['Balkon'],Miete zzgl. NK 325 €,Wohnfläche ca. 54 m²,Zi. 3,9,12
-14,selObject_44970736,"2,5 Zimmer auf 66 m² Wfl., hier fühlen Sie sich sofort...","['Wohnung', '•', 'Niedergörsdorf', 'Rohrbeck']",['Garten'],Miete zzgl. NK 379 €,Wohnfläche ca. 66 m²,"Zi. 2,5",9,12
-15,selObject_44970727,WBG - 3-RWE - für die kleine Familie!,"['Etagenwohnung', '•', 'Brandenburg', 'Hohenstücken']",['Balkon'],"Miete zzgl. NK 319,03 €",Wohnfläche ca. 60 m²,Zi. 3,9,12
-16,selObject_44970116,"PARKSIDE - 2 Zimmer mit Loggia, EBK und Duschbad im...","['Etagenwohnung', '•', 'Schönefeld', 'Waßmannsdorf']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 799 €,Wohnfläche ca. 55 m²,Zi. 2,9,12
-17,selObject_44970093,"PARKSIDE - 3 Zimmer mit großem Balkon, EBK und Wannenb...","['Etagenwohnung', '•', 'Schönefeld', 'Waßmannsdorf']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 999 €,Wohnfläche ca. 70 m²,Zi. 3,9,12
-18,selObject_44970085,"PARKSIDE - 2,5 Zimmer die keine Wünsche offen lassen.....","['Etagenwohnung', '•', 'Schönefeld', 'Waßmannsdorf']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 899 €,Wohnfläche ca. 61 m²,"Zi. 2,5",9,12
-19,selObject_44970084,"PARKSIDE - 2,5 Zimmer mit 8 qm Balkon, EBK und Duschba...","['Etagenwohnung', '•', 'Schönefeld', 'Waßmannsdorf']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 899 €,Wohnfläche ca. 61 m²,"Zi. 2,5",9,12
-20,selObject_44970080,"PARKSIDE - helle 2 Zimmer mit 2 Balkonen, EBK und Dusc...","['Etagenwohnung', '•', 'Schönefeld', 'Waßmannsdorf']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 859 €,Wohnfläche ca. 57 m²,Zi. 2,9,12
-21,selObject_44968756,"""Erstbezug""- Grünes Wohnen am Rande Berlins ***großer...","['Wohnung', '•', 'Schönefeld', 'Waßmannsdorf']","['Balkon', 'EBK']",Miete zzgl. NK 749 €,Wohnfläche ca. 55 m²,Zi. 2,9,12
-22,selObject_44968748,"""Erstbezug""- Grünes Wohnen am Rande Berlins ***großer...","['Wohnung', '•', 'Schönefeld', 'Waßmannsdorf']","['Balkon', 'EBK']",Miete zzgl. NK 749 €,Wohnfläche ca. 55 m²,Zi. 2,9,12
-23,selObject_44968725,Seniorengerechte Wohnungen am Markt,"['Etagenwohnung', '•', 'Altdöbern', 'Altdöbern']",['Balkon'],Miete zzgl. NK 441 €,Wohnfläche ca. 63 m²,Zi. 2,9,12
-24,selObject_44968438,Nur wenige Stufen in Ihr neues Zuhause,"['Wohnung', '•', 'Cottbus', 'Mitte']",[],"Miete zzgl. NK 334,05 €",Wohnfläche ca. 67 m²,Zi. 3,9,12
-25,selObject_44968437,Tapetenwechsel? Wie wäre es mit dieser schönen Wohnung...,"['Wohnung', '•', 'Cottbus', 'Sachsendorf']",['Balkon'],"Miete zzgl. NK 305,03 €",Wohnfläche ca. 59 m²,Zi. 3,9,12
-26,selObject_44968433,Schöne Wohnung im Grünen,"['Wohnung', '•', 'Cottbus', 'Mitte']",[],"Miete zzgl. NK 318,60 €",Wohnfläche ca. 55 m²,Zi. 3,9,12
+0,selObject_44989539,Der Sonne entgegen! Genießen Sie Ihren neuen Südbalkon...,"[['Etagenwohnung', '•', 'Cottbus', 'Sachsendorf']]",['Balkon'],"Miete zzgl. NK 299,12 €",Wohnfläche ca. 59 m²,Zi. 3,9,12
+1,selObject_44989537,Wenig Stufen in die frisch sanierte Wohnung!,"[['Etagenwohnung', '•', 'Cottbus', 'Schmellwitz']]",['Balkon'],"Miete zzgl. NK 329,98 €",Wohnfläche ca. 62 m²,Zi. 3,9,12
+2,selObject_44989526,sanierte Wohnung / gepflegtes Umfeld,"[['Etagenwohnung', '•', 'Cottbus', 'Sachsendorf']]",['Balkon'],"Miete zzgl. NK 297,60 €",Wohnfläche ca. 57 m²,Zi. 3,9,12
+3,selObject_44989522,VIEL Platz zum Wohlfühlen,"[['Etagenwohnung', '•', 'Cottbus', 'Sachsendorf']]",['Balkon'],"Miete zzgl. NK 415,57 €",Wohnfläche ca. 78 m²,Zi. 3,9,12
+4,selObject_44989329,Helle 2 Zimmer DG Wohnung im Neubau,"[['Dachgeschosswohnung', '•', 'Eichwalde']]","['Garten', 'EBK']",Miete zzgl. NK 780 €,Wohnfläche ca. 68 m²,Zi. 2,9,12
+5,selObject_44989218,Tägliches Training inklusive!,"[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Prenzlau', 'Prenzlau']]",[],Miete zzgl. NK 260 €,Wohnfläche ca. 46 m²,Zi. 2,9,12
+6,selObject_44989219,Sofort besichtigen und einziehen!,"[['Etagenwohnung', '•', 'Prenzlau', 'Prenzlau']]",['Balkon'],Miete zzgl. NK 340 €,Wohnfläche ca. 63 m²,Zi. 3,9,12
+7,selObject_44989217,Wohnen in der Rosa-Luxemburg-Straße!,"[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Prenzlau', 'Prenzlau']]",['Balkon'],Miete zzgl. NK 300 €,Wohnfläche ca. 50 m²,Zi. 2,9,12
+8,selObject_44989214,1-Zimmer-Wohnung - Kleine Welt ganz groß!,"[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Prenzlau', 'Prenzlau']]",['Balkon'],Miete zzgl. NK 185 €,Wohnfläche ca. 32 m²,Zi. 1,9,12
+9,selObject_44989212,Wohnen in der Baustraße!,"[['Etagenwohnung', '•', 'Prenzlau', 'Prenzlau']]",['Balkon'],Miete zzgl. NK 370 €,Wohnfläche ca. 50 m²,Zi. 2,9,12
+10,selObject_44989213,Seniorenwohnen mit Aufzug,"[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Prenzlau', 'Prenzlau']]",['Balkon'],Miete zzgl. NK 250 €,Wohnfläche ca. 37 m²,Zi. 1,9,12
+11,selObject_44989206,Wohnen im Igelpfuhl,"[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Prenzlau', 'Prenzlau']]",['Balkon'],Miete zzgl. NK 330 €,Wohnfläche ca. 63 m²,Zi. 3,9,12
+12,selObject_44989207,Achtung - Wohnung in der Hackert-Straße!,"[['Etagenwohnung', '•', 'Prenzlau', 'Prenzlau']]","['Balkon', 'EBK']",Miete zzgl. NK 330 €,Wohnfläche ca. 61 m²,Zi. 3,9,12
+13,selObject_44989205,EINE KALTMIETE GESCHENKT,"[['Etagenwohnung', '•', 'Prenzlau', 'Prenzlau']]","['Balkon', 'EBK']",Miete zzgl. NK 315 €,Wohnfläche ca. 61 m²,Zi. 3,9,12
+14,selObject_44989204,Die Kultwohnung WBS-70,"[['Etagenwohnung', '•', 'Prenzlau', 'Prenzlau']]",['Balkon'],Miete zzgl. NK 340 €,Wohnfläche ca. 63 m²,Zi. 3,9,12
+15,selObject_44989197,Hier glücklich werden!,"[['Etagenwohnung', '•', 'Prenzlau', 'Prenzlau']]",['Balkon'],Miete zzgl. NK 340 €,Wohnfläche ca. 63 m²,Zi. 3,9,12
+16,selObject_44989164,WBG - 2-RWE - mit Aufzug!,"[['Erdgeschosswohnung', '•', 'Brandenburg', 'Hohenstücken']]",['Balkon'],"Miete zzgl. NK 339,48 €",Wohnfläche ca. 57 m²,Zi. 2,9,12
+17,selObject_44989144,Geräumige und moderne Dachgeschosswohnung über den...,"[['Wohnung', '•', 'Königs', 'Wusterhausen', 'Königs', 'Wusterhausen']]",['EBK'],Miete zzgl. NK 1.500 €,Wohnfläche ca. 120 m²,,9,12
+18,selObject_44988194,Wohnen im Zentrum von Prenzlau in einer wunderschönen...,"[['Etagenwohnung', '•', 'Prenzlau', 'Prenzlau']]",['Balkon'],Miete zzgl. NK 360 €,Wohnfläche ca. 66 m²,Zi. 3,9,12
+19,selObject_44987381,3-Raum-Wohnung in ruhiger Lage,"[['Etagenwohnung', '•', 'Lübbenau', 'Lübbenau']]",[],"Miete zzgl. NK 298,96 €",Wohnfläche ca. 59 m²,Zi. 3,9,12
+20,selObject_44987198,"2 Raum Whg. direkt am HEP, Balkon","[['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']]",['Balkon'],Miete zzgl. NK 249 €,Wohnfläche ca. 47 m²,Zi. 2,9,12
+21,selObject_44987144,Möbliertes Wohnen in Mellensee,"[['Erdgeschosswohnung', '•', 'Am', 'Mellensee', 'Mellensee']]","['Garten', 'EBK']",Miete zzgl. NK 380 €,Wohnfläche ca. 56 m²,Zi. 2,9,12
+22,selObject_44987133,große 4-Raum Wohnung im Altbau mit 2 Balkonen und Kami...,"[['Etagenwohnung', '•', 'Cottbus', 'Mitte']]",['Balkon'],Miete zzgl. NK 855 €,Wohnfläche ca. 165 m²,Zi. 4,9,12
+23,selObject_44987013,Hohen Neuendorf... 2 Zimmer-Erdgeschosswohnung,"[['Erdgeschosswohnung', '•', 'Hohen', 'Neuendorf', 'Hohen', 'Neuendorf']]",[],Miete zzgl. NK 600 €,Wohnfläche ca. 60 m²,Zi. 2,9,12
+24,selObject_44986342,Stylishe 4-Zimmer-Wohnung mit sonnigem Garten,"[['Erdgeschosswohnung', '•', 'Werder', 'Werder', '(Havel)']]","['Garten', 'EBK']",Miete zzgl. NK 1.666 €,Wohnfläche ca. 123 m²,Zi. 4,9,12
+25,selObject_44986266,Möblierte Wohnung direkt am Scharmützelsee!,"[['Etagenwohnung', '•', 'Bad', 'Saarow', 'Bad', 'Saarow-Pieskow']]",[],Miete zzgl. NK 1.200 €,Wohnfläche ca. 65 m²,Zi. 3,9,12
+26,selObject_44985639,Helle 3-Zi. Wohnung in Rathenow,"[['Wohnung', '•', 'Rathenow', 'Rathenow']]",[],Miete zzgl. NK 373 €,Wohnfläche ca. 72 m²,Zi. 3,9,12

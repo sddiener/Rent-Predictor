@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_43869173,"Blick von der Dachterrasse auf den Molfsee, großzügige...","['Dachgeschosswohnung', '•', 'Molfsee', 'Molfsee']",['EBK'],Miete zzgl. NK 1.250 €,Wohnfläche ca. 115 m²,Zi. 3,37,1
-1,selObject_43813328,- Schönes Wohnen im Zentrum von Husum -,"['Etagenwohnung', '•', 'Husum', 'Husum']",['Balkon'],Miete zzgl. NK 895 €,Wohnfläche ca. 74 m²,Zi. 3,37,1
-2,selObject_43790624,"2,5-Zimmer-Wohnung, Brixstraße 22a, 1. OG","['Wohnung', '•', 'Flensburg', 'Jürgensby']",['Balkon'],Miete zzgl. NK 610 €,Wohnfläche ca. 63 m²,"Zi. 2,5",37,1
-3,selObject_43787450,Willkommen Daheim - Super Schnitt und zum wohlfühlen,"['Etagenwohnung', '•', 'Wedel']",['Balkon'],Miete zzgl. NK 599 €,Wohnfläche ca. 61 m²,Zi. 2,37,1
-4,selObject_43771020,Mietobjekt mit 4 Wohnungen und zwei Garagen in Deichha...,"['Etagenwohnung', '•', 'Büsumer', 'Deichhausen']","['Balkon', 'EBK']",Miete zzgl. NK 2.200 €,Wohnfläche ca. 211 m²,Zi. 12,37,1
-5,selObject_43736947,Wohnpark Mühlental I Staffelgeschosswohnung mit Dachte...,"['Wohnung', '•', 'Flensburg', 'Friesischer', 'Berg']",[],Miete zzgl. NK 1.250 €,Wohnfläche ca. 92 m²,Zi. 3,37,1
-6,selObject_43736946,II. Bauabschnitt im Wohnpark Mühlental I sonnige 3-Zi....,"['Wohnung', '•', 'Flensburg', 'Friesischer', 'Berg']",[],Miete zzgl. NK 885 €,Wohnfläche ca. 70 m²,Zi. 3,37,1
-7,selObject_43718223,Convivo Park am Kellersee - Sorglos Wohnen für Seniore...,"['Wohnung', '•', 'Eutin']",[],Preis Auf Anfrage,,,37,1
-8,selObject_43713946,3-Zimmer-Wohnung in Halstenbek,"['Erdgeschosswohnung', '•', 'Halstenbek']","['Balkon', 'EBK']","Miete zzgl. NK 1.132,74 €",Wohnfläche ca. 105 m²,Zi. 3,37,1
-9,selObject_43705626,Schöne 3 Zimmerwohnung!,"['Etagenwohnung', '•', 'Kellinghusen']",[],Miete zzgl. NK 454 €,Wohnfläche ca. 76 m²,Zi. 3,37,1
-10,selObject_43695014,Nido I All-inclusive Wohnen - Early Bird Aktion!,"['Apartment', '•', 'Kiel', 'Neumühlen-Dietrichsdorf']",['EBK'],Miete zzgl. NK 306 €,Wohnfläche ca. 20 m²,Zi. 1,37,1
-11,selObject_43694757,"Gepflegte 2,0-Zimmer-Wohnung, Weserstraße 41, EG","['Wohnung', '•', 'Flensburg', 'Fruerlund']",['Balkon'],Miete zzgl. NK 520 €,Wohnfläche ca. 65 m²,Zi. 2,37,1
-12,selObject_43678453,Wohnberechtigungsschein erforderlich!,"['Dachgeschosswohnung', '•', 'Harrislee', 'Harrislee']",[],"Miete zzgl. NK 453,70 €",Wohnfläche ca. 70 m²,Zi. 3,37,1
-13,selObject_43674063,3-Zimmer Traum in Wedel,"['Etagenwohnung', '•', 'Wedel']","['Balkon', 'EBK']",Miete zzgl. NK 626 €,Wohnfläche ca. 74 m²,Zi. 3,37,1
-14,selObject_43674062,"Außergewöhliche 2,5 Zimmerwohnung in Wedel","['Erdgeschosswohnung', '•', 'Wedel']","['Balkon', 'EBK']",Miete zzgl. NK 619 €,Wohnfläche ca. 73 m²,Zi. 2,37,1
-15,selObject_43657243,Sanierte 1-Zi.-Whg. zu vermieten,"['Wohnung', '•', 'Mölln', 'Mölln']",['EBK'],Miete zzgl. NK 386 €,Wohnfläche ca. 34 m²,"Zi. 1,5",37,1
-16,selObject_43647548,Echternach Immobilien: ... 1 Zi.-Wohnung zentral!,"['Etagenwohnung', '•', 'Reinbek']","['Balkon', 'EBK']",Miete zzgl. NK 465 €,Wohnfläche ca. 44 m²,Zi. 1,37,1
-17,selObject_43644112,ERSTBEZUG: 4-Zi.-Dachterrassen-Wohnung in Sackgassenl...,"['Dachgeschosswohnung', '•', 'Ammersbek', 'Lottbek']","['Balkon', 'EBK']",Miete zzgl. NK 1.672 €,Wohnfläche ca. 124 m²,Zi. 4,37,1
-18,selObject_43590787,"Schöne, helle 3-Zimmer-Wohnung mit Loggia","['Wohnung', '•', 'Trappenkamp']",['EBK'],Miete zzgl. NK 430 €,Wohnfläche ca. 79 m²,Zi. 3,37,1
-19,selObject_43586915,Hübsche 2 ZKB Wohnung im 1.OG in Burg / nur mit Wohnbe...,"['Etagenwohnung', '•', 'Burg']","['Balkon', 'EBK']",Miete zzgl. NK 422 €,Wohnfläche ca. 69 m²,Zi. 2,37,1
-20,selObject_43574478,2-Zi-Whg in Ahrensburg,"['Erdgeschosswohnung', '•', 'Ahrensburg']",[],Miete zzgl. NK 532 €,Wohnfläche ca. 40 m²,Zi. 2,37,1
-21,selObject_43565959,"Charmante Wohnung mit Duschbad, Herd & Spüle!","['Etagenwohnung', '•', 'Flensburg', 'Friesischer', 'Berg']",[],Miete zzgl. NK 530 €,Wohnfläche ca. 70 m²,Zi. 3,37,1
-22,selObject_43554751,"Zentral und im Grünen gelegene 2,5 Zi.-Wohnung in Hens...","['Etagenwohnung', '•', 'Henstedt-Ulzburg']",[],Miete zzgl. NK 639 €,Wohnfläche ca. 64 m²,"Zi. 2,5",37,1
-23,selObject_43553168,Neu renovierte 2 Zimmer Wohnung in Zenrumsnaher Lage...,"['Kein', 'Bild']",['EBK'],Miete zzgl. NK 384 €,Wohnfläche ca. 48 m²,Zi. 2,37,1
-24,selObject_43521826,*** ZENTRAL IN ITZEHOE ! * TOP 2 ZIMMER NEUBAU ERSTBEZ...,"['Etagenwohnung', '•', 'Itzehoe']",['EBK'],Miete zzgl. NK 750 €,Wohnfläche ca. 90 m²,Zi. 2,37,1
-25,selObject_43502522,Schöne 2-Zimmer Maisonette-Wohnung in Rellingen zur...,"['Maisonette', '•', 'Rellingen']","['Balkon', 'EBK']",Miete zzgl. NK 720 €,Wohnfläche ca. 75 m²,Zi. 2,37,1
-26,selObject_43499318,Gemütliches Dachgeschoss in Norderstedt!,"['Wohnung', '•', 'Norderstedt', 'Garstedt']",[],Miete zzgl. NK 600 €,Wohnfläche ca. 42 m²,Zi. 2,37,1
+0,selObject_43315305,Hübsche und ansprechende 4 ZKB Wohnung im 1.OG in 2534...,"[['Etagenwohnung', '•', 'Glückstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 520 €,Wohnfläche ca. 75 m²,Zi. 4,37,1
+1,selObject_43315295,Hübsche u. helle 3 ZKB Erdgeschoss Wohnung in 25348...,"[['Erdgeschosswohnung', '•', 'Glückstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 475 €,Wohnfläche ca. 67 m²,Zi. 3,37,1
+2,selObject_43299163,Insgesamt 115 m² Wohn-/Nutzfläche! Großzügige DG Wohnu...,"[['Dachgeschosswohnung', '•', 'Boostedt']]",['EBK'],Miete zzgl. NK 710 €,Wohnfläche ca. 76 m²,Zi. 3,37,1
+3,selObject_43245896,Diakonie Betreutes Wohnen,"[['Wohnung', '•', 'Flensburg', 'Engelsby']]",['EBK'],Miete zzgl. NK 420 €,Wohnfläche ca. 70 m²,Zi. 3,37,1
+4,selObject_43198080,"Neubau einer modernen, seniorengerechten Trave Residen...","[['Dachgeschosswohnung', '•', 'Bad', 'Oldesloe']]","['Balkon', 'EBK']","Miete zzgl. NK 582,66 €",Wohnfläche ca. 45 m²,Zi. 2,37,1
+5,selObject_43175557,"K 357 Wohnungen, Zimmer und Apartments in Lübeck und...","[['Apartment', '•', 'Ratekau', 'Kreuzkamp']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 550 €,Wohnfläche ca. 150 m²,"Zi. 1,5",37,1
+6,selObject_43155957,"ZU MIETEN: IHR ""Stattliches Zuhause"" IN BURG!","[['Wohnung', '•', 'Fehmarn', 'Burg', 'auf', 'Fehmarn']]",['EBK'],Miete zzgl. NK 730 €,Wohnfläche ca. 98 m²,Zi. 4,37,1
+7,selObject_43117326,3 Zi. Wohnung,"[['Kein', 'Bild'], ['Erdgeschosswohnung', '•', 'Heide', 'Heide']]","['Garten', 'EBK']",Miete zzgl. NK 645 €,Wohnfläche ca. 112 m²,Zi. 3,37,1
+8,selObject_43108863,Großzügige 3 - Zimmer Wohnung.,"[['Etagenwohnung', '•', 'Ahrensburg']]","['Balkon', 'EBK']",Miete zzgl. NK 970 €,Wohnfläche ca. 76 m²,Zi. 3,37,1
+9,selObject_43101513,"schöne 2,5 Zi-Whg., Badewanne, Tageslichtbad, Holzdiel...","[['Etagenwohnung', '•', 'Kiel', 'Wik']]","['Garten', 'EBK']",Miete zzgl. NK 600 €,Wohnfläche ca. 60 m²,"Zi. 2,5",37,1
+10,selObject_43068324,Reserviert: Attraktive 5-Zi. Neubau-Maisonette-Wohnung...,"[['Maisonette', '•', 'Bargteheide']]","['Balkon', 'EBK']",Miete zzgl. NK 1.491 €,Wohnfläche ca. 115 m²,Zi. 5,37,1
+11,selObject_43060151,Große 2 ZKB Wohnung im EG mit 2 Terrassen - nur mit...,"[['Erdgeschosswohnung', '•', 'Itzehoe']]",[],Miete zzgl. NK 489 €,Wohnfläche ca. 81 m²,Zi. 2,37,1
+12,selObject_43055387,- Schöne 2 Zimmer Wohnung direkt am Bahnhof -,"[['Dachgeschosswohnung', '•', 'Bredstedt']]",['EBK'],Miete zzgl. NK 530 €,Wohnfläche ca. 70 m²,Zi. 2,37,1
+13,selObject_42985520,Dachgeschoss - Wohnung in der Innenstadt,"[['Dachgeschosswohnung', '•', 'Flensburg', 'Altstadt']]",['EBK'],Miete zzgl. NK 680 €,Wohnfläche ca. 97 m²,Zi. 3,37,1
+14,selObject_42964919,KERNSANIERUNG - Komplett neu renovierte - 3 Zimmer-EG-...,"[['Erdgeschosswohnung', '•', 'Neumünster', 'Innenstadt']]",['EBK'],Miete zzgl. NK 610 €,Wohnfläche ca. 72 m²,Zi. 3,37,1
+15,selObject_42864034,Über den Dächern von Flensburg,"[['Etagenwohnung', '•', 'Flensburg', 'Südstadt']]",['EBK'],Miete zzgl. NK 518 €,Wohnfläche ca. 70 m²,Zi. 3,37,1
+16,selObject_42858531,"2,5 ZW in der Augustenstr. 52 in Kiel - OTTO STÖBEN...","[['Etagenwohnung', '•', 'Kiel', 'Gaarden-Ost']]",[],Miete zzgl. NK 380 €,Wohnfläche ca. 61 m²,"Zi. 2,5",37,1
+17,selObject_42661513,Insgesamt 115 m² Wohn-/Nutzfläche! Großzügige DG Wohnu...,"[['Dachgeschosswohnung', '•', 'Boostedt']]",['EBK'],Miete zzgl. NK 710 €,Wohnfläche ca. 115 m²,Zi. 4,37,1
+18,selObject_42626963,"Zentrale 3,0-Zimmer-Wohnung, Südermarkt 13/14, 2. OG","[['Wohnung', '•', 'Flensburg', 'Altstadt']]",[],Miete zzgl. NK 715 €,Wohnfläche ca. 106 m²,Zi. 3,37,1
+19,selObject_42511325,Seltene Gelegenheit! - Eine schöne Ostsee-Wohnung mit...,"[['Etagenwohnung', '•', 'Lübeck', 'Travemünde']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.479 €,Wohnfläche ca. 84 m²,Zi. 3,37,1
+20,selObject_42471981,Barrierearme 2 Zi. Neubau-Wohnung mit Einbauküche im...,"[['Erdgeschosswohnung', '•', 'Pinneberg']]","['Balkon', 'EBK']",Miete zzgl. NK 795 €,Wohnfläche ca. 62 m²,Zi. 2,37,1
+21,selObject_42463766,2 Zimmer-Senioren-Wohnung mit Betreuungskonzept am...,"[['Etagenwohnung', '•', 'Flensburg', 'Altstadt']]",['EBK'],Miete zzgl. NK 410 €,Wohnfläche ca. 60 m²,Zi. 2,37,1
+22,selObject_42443597,Erstbezug! Moderne Erdgeschosswohnung mit Gartenanteil...,"[['Erdgeschosswohnung', '•', 'Norderstedt', 'Harksheide']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.120 €,Wohnfläche ca. 96 m²,Zi. 3,37,1
+23,selObject_42409579,Echter Hingucker ! Einzigartiges Büro an der Untertrav...,"[['Etagenwohnung', '•', 'Lübeck', 'Innenstadt']]",[],Miete zzgl. NK 1.500 €,Wohnfläche ca. 150 m²,Zi. 2,37,1
+24,selObject_42389294,Klassisch und mit Stil Servicewohnungen in Rendsburg,"[['Etagenwohnung', '•', 'Rendsburg']]","['Balkon', 'EBK']","Miete zzgl. NK 922,85 €",Wohnfläche ca. 56 m²,Zi. 2,37,1
+25,selObject_42389293,Klassisch und mit Stil Servicewohnungen in Rendsburg,"[['Etagenwohnung', '•', 'Rendsburg']]","['Balkon', 'EBK']","Miete zzgl. NK 988,55 €",Wohnfläche ca. 58 m²,Zi. 2,37,1
+26,selObject_42389292,- Klassisch und mit Stil - Servicewohnungen in Rendsbu...,"[['Etagenwohnung', '•', 'Rendsburg']]","['Balkon', 'EBK']","Miete zzgl. NK 814,11 €",Wohnfläche ca. 49 m²,Zi. 2,37,1

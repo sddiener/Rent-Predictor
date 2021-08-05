@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44988352,NEU ° Unikat in der Altstadt ° Ferienwohnung auf Zeit zu...,"['Wohnung', '•', 'Lüneburg', 'Altstadt']","['NEU', 'NEU']",Miete inkl. NK 1.600 €,Wohnfläche ca. 42 m²,Zi. 1,19,3
-1,selObject_44988190,"NEU Traumhaft gelegenes Penthouse in der Nordheide, Erstbe...","['Penthouse', '•', 'Tostedt', 'Todtglüsingen']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 860 €,Wohnfläche ca. 79 m²,"Zi. 2,5",19,3
-2,selObject_44988183,NEU schöne Dachgeschosswohnung in Wittmund-Angelsburg,"['Dachgeschosswohnung', '•', 'Wittmund', 'Willen']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 550 €,Wohnfläche ca. 86 m²,Zi. 4,19,3
-3,selObject_44988124,NEU Raus in die Natur: Modernisierte 4-Zimmer Wohnung mit...,"['Souterrainwohnung', '•', 'Embsen', 'Embsen']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 1.200 €,Wohnfläche ca. 120 m²,Zi. 4,19,3
-4,selObject_44988109,NEU Ottersberg 3-Raum-Wohnung in der 1. Etage,"['Loft-Studio-Atelier', '•', 'Ottersberg', 'Rothlake']","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 550 €,Wohnfläche ca. 117 m²,Zi. 3,19,3
-5,selObject_44988099,NEU Charmant geschnittene Erdgeschosswohnung mit Balkon...,"['Erdgeschosswohnung', '•', 'Lüneburg', 'Bockelsberg']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 672 €,Wohnfläche ca. 64 m²,Zi. 3,19,3
-6,selObject_44987947,NEU 1-Zimmer-Wohnung in Stade-Hahle,"['Wohnung', '•', 'Stade', 'Stade']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 275 €,Wohnfläche ca. 30 m²,Zi. 1,19,3
-7,selObject_44987897,NEU Gut wohnen im grünen Stadtteil Heppens,"['Etagenwohnung', '•', 'Wilhelmshaven', 'Heppens']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 480 €,Wohnfläche ca. 81 m²,Zi. 3,19,3
-8,selObject_44987544,NEU 2-Zimmer Wohnung im Stadtzentrum,"['Wohnung', '•', 'Soltau', 'Soltau']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 380 €,Wohnfläche ca. 52 m²,Zi. 2,19,3
-9,selObject_44987403,NEU 1 Zimmer Wohnung in Sutthausen,"['Etagenwohnung', '•', 'Osnabrück', 'Sutthausen']","['NEU', 'NEU']",Miete zzgl. NK 275 €,Wohnfläche ca. 27 m²,,19,3
-10,selObject_44987389,NEU 2-Zimmer-Wohnung im 2. Obergeschoss mit 32 m² Wfl.,"['Wohnung', '•', 'Göttingen', 'Göttingen']","['NEU', 'NEU']",Miete zzgl. NK 350 €,Wohnfläche ca. 32 m²,Zi. 2,19,3
-11,selObject_44987340,NEU Neuwertige Maisonette Wohnung mit Dachstuhl in zentral...,"['Dachgeschosswohnung', '•', 'Westerstede', 'Westerstede']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 570 €,Wohnfläche ca. 59 m²,Zi. 2,19,3
-12,selObject_44987257,"NEU 2,0-Zimmer-Wohnung in Hannover Anderten","['Erdgeschosswohnung', '•', 'Hannover', 'Anderten']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 532,46 €",Wohnfläche ca. 60 m²,Zi. 2,19,3
-13,selObject_44987255,NEU Erdgeschossohnung in Meppen,"['Wohnung', '•', 'Meppen', 'Altstadt']","['NEU', 'NEU']",Miete zzgl. NK 630 €,Wohnfläche ca. 77 m²,Zi. 2,19,3
-14,selObject_44987252,"NEU 2,0-Zimmer-Wohnung in Hannover Anderten","['Erdgeschosswohnung', '•', 'Hannover', 'Anderten']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 527,80 €",Wohnfläche ca. 58 m²,Zi. 2,19,3
-15,selObject_44986915,NEU Moderne Neubau-Oberwohnung mitten in Esens,"['Wohnung', '•', 'Esens', 'Esens']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 850 €,Wohnfläche ca. 100 m²,Zi. 5,19,3
-16,selObject_44986790,NEU Schöne 3 Zimmer-Wohnung im Erdgeschoss,"['Erdgeschosswohnung', '•', 'Vechelde', 'Vechelde']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 415 €,Wohnfläche ca. 64 m²,Zi. 3,19,3
-17,selObject_44986436,NEU Wohnung 2 ZKB,"['Dachgeschosswohnung', '•', 'Ostrhauderfehn', 'Idafehn']","['NEU', 'NEU']",Miete zzgl. NK 420 €,Wohnfläche ca. 55 m²,Zi. 2,19,3
-18,selObject_44986382,NEU Tolle Raumaufteilung: 2-Zimmer DG Schulviertel,"['Dachgeschosswohnung', '•', 'Wildeshausen']","['NEU', 'NEU']",Miete zzgl. NK 395 €,Wohnfläche ca. 61 m²,Zi. 2,19,3
-19,selObject_44986362,NEU Sanierte Single-Wohnung mit EBK - Innenstadt zum 1.10....,"['Etagenwohnung', '•', 'Wildeshausen']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 330 €,Wohnfläche ca. 37 m²,Zi. 2,19,3
-20,selObject_44986361,NEU Großzügiges Wohnen im Herzen von Wildeshausen,"['Etagenwohnung', '•', 'Wildeshausen']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 550 €,Wohnfläche ca. 116 m²,Zi. 4,19,3
-21,selObject_44986327,NEU Schöne 2-Zimmer-Wohnung im 1. Obergeschoss eines moder...,"['Wohnung', '•', 'Lingen', 'Lingen']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 515 €,Wohnfläche ca. 72 m²,Zi. 2,19,3
-22,selObject_44986276,NEU 2 Balkone mit Blick auf Alfeld,"['Etagenwohnung', '•', 'Alfeld', 'Alfeld']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 500 €,Wohnfläche ca. 95 m²,Zi. 3,19,3
-23,selObject_44986146,NEU Ein Zimmer in Mädels-WG frei! - Jetzt schickes Zimmer...,"['Dachgeschosswohnung', '•', 'Vechta', 'Vechta']","['NEU', 'NEU']",Miete zzgl. NK 325 €,Wohnfläche ca. 23 m²,Zi. 1,19,3
-24,selObject_44986140,NEU Wohnen in 3ZKBB- Wohnung in Fürstenau,"['Etagenwohnung', '•', 'Fürstenau', 'Fürstenau']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 510 €,Wohnfläche ca. 85 m²,Zi. 3,19,3
-25,selObject_44985996,NEU *1 Kaltmiete geschenkt* - Moderne 2-Zi.-Wohnung mit...,"['Apartment', '•', 'Celle', 'Blumlage']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 390 €,Wohnfläche ca. 51 m²,Zi. 2,19,3
-26,selObject_44985993,NEU Maisonette - Wohnung mit 4 Zimmern,"['Dachgeschosswohnung', '•', 'Ronnenberg', 'Empelde']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 1.019 €,Wohnfläche ca. 104 m²,Zi. 4,19,3
+0,selObject_45011642,NEU Renovierte 2-Zimmer-Altbauwohnung in Linden-Süd freut...,"[['Wohnung', '•', 'Hannover', 'Linden-Süd']]","['NEU', 'NEU']",Miete zzgl. NK 425 €,Wohnfläche ca. 51 m²,Zi. 2,19,3
+1,selObject_45011633,NEU **4-Zimmer-Wohnung im Ortskern von Fuhrbach mit Garage...,"[['Etagenwohnung', '•', 'Duderstadt', 'Fuhrbach']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 520 €,Wohnfläche ca. 85 m²,Zi. 4,19,3
+2,selObject_45011474,NEU Schönes Reihenhaus mit Terrasse und Balkon!,"[['Etagenwohnung', '•', 'Munster', 'Munster']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 519 €,Wohnfläche ca. 70 m²,Zi. 3,19,3
+3,selObject_45011429,NEU Exklusive 3-Zi. Wohnung in der Lingen Innenstadt mit...,"[['Etagenwohnung', '•', 'Lingen', 'Lingen']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 890 €,Wohnfläche ca. 115 m²,Zi. 3,19,3
+4,selObject_45011230,"NEU Große Wohnung am Kurpark, Ideal für Studenten","[['Dachgeschosswohnung', '•', 'Wilhelmshaven', 'Bant']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 500 €,Wohnfläche ca. 100 m²,Zi. 4,19,3
+5,selObject_45011172,NEU Wohnen in bester Lage (JS/M-986),"[['Erdgeschosswohnung', '•', 'Celle', 'Altenhagen']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 440 €,Wohnfläche ca. 53 m²,Zi. 2,19,3
+6,selObject_45011166,"NEU CLP, 3ZKB, 86m2, Balkon, 1.OG // provisionsfrei","[['Wohnung', '•', 'Cloppenburg', 'Cloppenburg']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 580 €,Wohnfläche ca. 86 m²,Zi. 3,19,3
+7,selObject_45011130,NEU Tolle Wohnung ideal für Wochenendheimfahrer !,"[['Etagenwohnung', '•', 'Munster', 'Munster']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 299 €,Wohnfläche ca. 37 m²,"Zi. 1,5",19,3
+8,selObject_45011117,NEU 2-Zimmer-Wohnung mit neuer Einbauküche und modernem...,"[['Etagenwohnung', '•', 'Bad', 'Harzburg', 'Bündheim']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 385 €,Wohnfläche ca. 70 m²,Zi. 2,19,3
+9,selObject_45011076,NEU Moderne Erdgeschosswohnung mitten in Friesoythe zu...,"[['Erdgeschosswohnung', '•', 'Friesoythe', 'Friesoythe']]","['NEU', 'NEU']",Miete zzgl. NK 590 €,Wohnfläche ca. 88 m²,Zi. 3,19,3
+10,selObject_45010841,NEU * 2-Zimmer-Wohnung am Kreideberg *,"[['Dachgeschosswohnung', '•', 'Lüneburg', 'Kreideberg']]","['NEU', 'NEU']",Miete zzgl. NK 480 €,Wohnfläche ca. 46 m²,Zi. 2,19,3
+11,selObject_45010837,NEU 1 Zimmer Wohnung,"[['Etagenwohnung', '•', 'Bad', 'Bevensen', 'Bad', 'Bevensen']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 275 €,Wohnfläche ca. 34 m²,Zi. 1,19,3
+12,selObject_45010797,NEU Innenstadtwohnung - zentrumsnah - TOP,"[['Etagenwohnung', '•', 'Braunschweig', 'Innenstadt']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 1.100 €,Wohnfläche ca. 92 m²,Zi. 4,19,3
+13,selObject_45010796,NEU Schnuckelige Dachgeschosswohnung mit Balkon,"[['Dachgeschosswohnung', '•', 'Munster', 'Munster']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 450 €,Wohnfläche ca. 65 m²,Zi. 2,19,3
+14,selObject_45010750,NEU Erstbezug nach Sanierung: 3-Zimmer Wohnung mit Blick...,"[['Etagenwohnung', '•', 'Goslar', 'Steinberg']]","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 450 €,Wohnfläche ca. 74 m²,Zi. 3,19,3
+15,selObject_45010731,NEU Varel: Neuwertige Erdgeschosswohnung in zentrumsnaher...,"[['Erdgeschosswohnung', '•', 'Varel', 'Varel']]","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 670 €,Wohnfläche ca. 83 m²,Zi. 3,19,3
+16,selObject_45010568,NEU Stilvoller Altbau - Wohnung im Erdgeschoss sucht zum...,"[['Erdgeschosswohnung', '•', 'Dötlingen', 'Geveshausen']]","['NEU', 'NEU']",Miete zzgl. NK 690 €,Wohnfläche ca. 115 m²,Zi. 3,19,3
+17,selObject_45010224,"NEU Terrassen- und Gartenwohnung, 180 m², 6 Zimmer in Lees...","[['Wohnung', '•', 'Weyhe', 'Leeste']]","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.450 €,Wohnfläche ca. 180 m²,Zi. 6,19,3
+18,selObject_45009922,NEU Diese Wohnung wird Ihnen gefallen! Balkon im 1. Oberge...,"[['Wohnung', '•', 'Buxtehude', 'Buxtehude']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 760 €,Wohnfläche ca. 82 m²,Zi. 4,19,3
+19,selObject_45009891,"NEU Moderne 3 Zimmerwohnung im 1.OG in Bramsche, Lisztstr...","[['Etagenwohnung', '•', 'Bramsche', 'Hesepe']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 655 €,Wohnfläche ca. 82 m²,Zi. 3,19,3
+20,selObject_45009889,NEU 5984 - Letzte verfügbare Wohnung! Mikro-Appartement...,"[['Erdgeschosswohnung', '•', 'Oldenburg', 'Kreyenbrück']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 470 €,Wohnfläche ca. 33 m²,Zi. 1,19,3
+21,selObject_45009868,NEU Für Gartenliebhaber - Terrassenwohnung mit Garten,"[['Kein', 'Bild'], ['Wohnung', '•', 'Dötlingen', 'Aschenstedt']]","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 750 €,Wohnfläche ca. 90 m²,Zi. 3,19,3
+22,selObject_45009826,NEU Tolle Wohnung inmitten der schönen List,"[['Etagenwohnung', '•', 'Hannover', 'List']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 350 €,Wohnfläche ca. 43 m²,Zi. 1,19,3
+23,selObject_45009810,NEU Schöne 2-Zimmer Wohnung nahe dem Hohnsensee,"[['Etagenwohnung', '•', 'Hildesheim', 'West']]","['NEU', 'NEU']",Miete zzgl. NK 250 €,Wohnfläche ca. 29 m²,Zi. 2,19,3
+24,selObject_45009731,NEU Seniorenfreundliche EG-Wohnung mit begehbarer Dusche...,"[['Erdgeschosswohnung', '•', 'Seelze', 'Seelze']]","['NEU', 'NEU']","Miete zzgl. NK 462,83 €",Wohnfläche ca. 62 m²,Zi. 2,19,3
+25,selObject_45009711,NEU Jetzt zugreifen: geräumige 3-Zimmer-Wohnung,"[['Etagenwohnung', '•', 'Hannover', 'Leinhausen']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 717 €,Wohnfläche ca. 72 m²,"Zi. 4,5",19,3
+26,selObject_45009706,NEU Wir modernisieren für Sie - Großzügige 4-Zimmer-Wohnun...,"[['Etagenwohnung', '•', 'Seelze', 'Seelze']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 700,28 €",Wohnfläche ca. 90 m²,Zi. 4,19,3

@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_39584942,Schöne 2-Raum-Wohnung in Frohburg,"['Dachgeschosswohnung', '•', 'Frohburg', 'Frohburg']",[],"Miete zzgl. NK 264,10 €",Wohnfläche ca. 53 m²,Zi. 2,443,14
-1,selObject_39583066,Modern Wohnen im Herzen Dresdens!!!,"['Wohnung', '•', 'Dresden', 'Innere', 'Altstadt']",[],Miete zzgl. NK 713 €,Wohnfläche ca. 79 m²,Zi. 3,443,14
-2,selObject_39583060,Moderne Ausstattung im historischen Stadtkern,"['Wohnung', '•', 'Dresden', 'Innere', 'Altstadt']",[],Miete zzgl. NK 765 €,Wohnfläche ca. 61 m²,Zi. 2,443,14
-3,selObject_39583045,Moderne Citywohnung mit Einbauküche!,"['Wohnung', '•', 'Dresden', 'Innere', 'Altstadt']",['EBK'],Miete zzgl. NK 567 €,Wohnfläche ca. 60 m²,Zi. 2,443,14
-4,selObject_39578412,Erstbezug nach Sanierung! Tolle 4-Raum-DG-Wohnung in...,"['Wohnung', '•', 'Chemnitz', 'Kappel']","['Garten', 'EBK']",Miete zzgl. NK 530 €,Wohnfläche ca. 96 m²,Zi. 4,443,14
-5,selObject_39568227,Renovierte 3-Raumwohnung zu vermieten!,"['Wohnung', '•', 'Oschatz', 'Oschatz']",[],Miete zzgl. NK 367 €,Wohnfläche ca. 79 m²,Zi. 3,443,14
-6,selObject_39566065,Hoch hinaus! 42 m² mit Weitblick über Chemnitz!,"['Etagenwohnung', '•', 'Chemnitz', 'Morgenleite']",['Balkon'],Miete zzgl. NK 168 €,Wohnfläche ca. 41 m²,Zi. 2,443,14
-7,selObject_39566009,Wohnen auf der Sonnenseite! Nette 2-Zimmer-Wohnung mit...,"['Etagenwohnung', '•', 'Chemnitz', 'Morgenleite']",['Balkon'],Miete zzgl. NK 183 €,Wohnfläche ca. 41 m²,Zi. 2,443,14
-8,selObject_39565672,Wohnen in 2 Zimmern mit Balkon!,"['Etagenwohnung', '•', 'Chemnitz', 'Morgenleite']",['Balkon'],Miete zzgl. NK 172 €,Wohnfläche ca. 41 m²,Zi. 2,443,14
-9,selObject_39563369,Achtung Studenten - in unserer Vermittlung befinden...,"['Erdgeschosswohnung', '•', 'Görlitz', 'Innenstadt']",['EBK'],Miete zzgl. NK 200 €,Wohnfläche ca. 16 m²,Zi. 1,443,14
-10,selObject_39563366,Wohnung in Hochparterre zu vermieten,"['Erdgeschosswohnung', '•', 'Görlitz', 'Innenstadt']",[],Miete zzgl. NK 277 €,Wohnfläche ca. 62 m²,Zi. 2,443,14
-11,selObject_39562773,Weitblick in Ihren neuen 4 Wänden! 4-Zimmer-Wohnung...,"['Etagenwohnung', '•', 'Chemnitz', 'Morgenleite']",['Balkon'],Miete zzgl. NK 287 €,Wohnfläche ca. 69 m²,Zi. 4,443,14
-12,selObject_39562772,WOW! Kaum zu glauben. 4-Zimmer-Wohnung mit Balkon.,"['Etagenwohnung', '•', 'Chemnitz', 'Morgenleite']",['Balkon'],Miete zzgl. NK 325 €,Wohnfläche ca. 69 m²,Zi. 4,443,14
-13,selObject_39561313,Gemütliche Dachgeschosswohnung im Stadtzentrum,"['Wohnung', '•', 'Görlitz', 'Innenstadt']",[],Miete zzgl. NK 404 €,Wohnfläche ca. 101 m²,Zi. 3,443,14
-14,selObject_39558391,"WG-geeignet! Wohnen, wo andere Urlaub machen, Erstbezu...","['Wohnung', '•', 'Kurort', 'Oberwiesenthal', 'Oberwiesenthal']",[],Miete zzgl. NK 362 €,Wohnfläche ca. 69 m²,Zi. 4,443,14
-15,selObject_39544116,Ab sofort Urlaub zuhause? Frisch renovierte 2-Zimmer-W...,"['Etagenwohnung', '•', 'Chemnitz', 'Hutholz']",['Balkon'],Miete zzgl. NK 275 €,Wohnfläche ca. 54 m²,Zi. 2,443,14
-16,selObject_39543758,Schicke 2-Zimmer-Wohnung wartet ab sofort auf Sie!,"['Etagenwohnung', '•', 'Chemnitz', 'Hutholz']",[],Miete zzgl. NK 205 €,Wohnfläche ca. 39 m²,Zi. 2,443,14
-17,selObject_39541070,3-Raum-Wohnung mit Top Ausblick!,"['Etagenwohnung', '•', 'Leipzig', 'Lausen-Grünau']",['Balkon'],"Miete zzgl. NK 412,18 €",Wohnfläche ca. 68 m²,Zi. 3,443,14
-18,selObject_39540918,Über dem Dächern,"['Etagenwohnung', '•', 'Leipzig', 'Grünau-Ost']",['Balkon'],"Miete zzgl. NK 375,36 €",Wohnfläche ca. 64 m²,Zi. 3,443,14
-19,selObject_39529111,Attraktive 2-Raumwohnung in Zentrumsnähe,"['Etagenwohnung', '•', 'Chemnitz', 'Sonnenberg']",[],Miete zzgl. NK 204 €,Wohnfläche ca. 41 m²,Zi. 2,443,14
-20,selObject_39524278,Lichtdurchflutete 3-Raum-Wohnung auf dem Kaßberg,"['Etagenwohnung', '•', 'Chemnitz', 'Altendorf']",['Balkon'],Miete zzgl. NK 292 €,Wohnfläche ca. 58 m²,Zi. 3,443,14
-21,selObject_39516376,"Großzügige, modern sanierte 2-Zimmerwohnung im Erstbez...","['Wohnung', '•', 'Dresden', 'Tolkewitz/Seidnitz-Nord']",['EBK'],Miete zzgl. NK 555 €,Wohnfläche ca. 67 m²,Zi. 2,443,14
-22,selObject_39510080,Ruhig gelegene 2-Raum-Wohnung,"['Etagenwohnung', '•', 'Seifhennersdorf']",['Garten'],Miete zzgl. NK 257 €,Wohnfläche ca. 59 m²,Zi. 2,443,14
-23,selObject_39479739,Für jung & alt - schicke Wohnung mit Lift,"['Wohnung', '•', 'Meißen']",[],Miete zzgl. NK 400 €,Wohnfläche ca. 68 m²,Zi. 2,443,14
-24,selObject_39473759,Hübsche 2-Raum-Wohnung in Zittau-Süd,"['Etagenwohnung', '•', 'Zittau', 'Zittau']",[],Miete zzgl. NK 270 €,Wohnfläche ca. 60 m²,Zi. 2,443,14
-25,selObject_39466395,Wohn(t)raum gesucht? Wir verwirklichen ihn!,"['Wohnung', '•', 'Görlitz', 'Innenstadt']",['EBK'],Miete zzgl. NK 471 €,Wohnfläche ca. 72 m²,Zi. 2,443,14
-26,selObject_39455545,Schöne EBK in neu sanierter Wohnung!,"['Wohnung', '•', 'Dresden', 'Laubegast']",['EBK'],Miete zzgl. NK 390 €,Wohnfläche ca. 46 m²,Zi. 2,443,14
+0,selObject_40299677,Gemütliche 2-Raumwohnung in Grünau Mitte !,"[['Etagenwohnung', '•', 'Leipzig', 'Schönau']]",[],"Miete zzgl. NK 460,72 €",Wohnfläche ca. 58 m²,Zi. 2,443,14
+1,selObject_40290134,3-Zimmer-Wohntraum mit Sonnenstunden auf dem Balkon!,"[['Etagenwohnung', '•', 'Chemnitz', 'Kappel']]",['Balkon'],Miete zzgl. NK 225 €,Wohnfläche ca. 56 m²,Zi. 3,443,14
+2,selObject_40290117,Ihre Familie in guten Wänden! Einbauküche und Balkon....,"[['Etagenwohnung', '•', 'Chemnitz', 'Kappel']]","['Balkon', 'EBK']",Miete zzgl. NK 285 €,Wohnfläche ca. 56 m²,Zi. 3,443,14
+3,selObject_40290084,"Einbauküche und Balkon! Hier bekommst Du, was Du brauc...","[['Etagenwohnung', '•', 'Chemnitz', 'Kappel']]","['Balkon', 'EBK']",Miete zzgl. NK 215 €,Wohnfläche ca. 41 m²,Zi. 2,443,14
+4,selObject_40290054,Schicke 2-Zimmer-Wohnung mit besonderem Schnitt! Dein...,"[['Etagenwohnung', '•', 'Chemnitz', 'Kappel']]",['Balkon'],Miete zzgl. NK 215 €,Wohnfläche ca. 44 m²,Zi. 2,443,14
+5,selObject_40285194,Hier lädt ein offener Wohn- und Essbereich zum Wohlfüh...,"[['Etagenwohnung', '•', 'Chemnitz', 'Markersdorf']]",['Balkon'],Miete zzgl. NK 267 €,Wohnfläche ca. 55 m²,Zi. 3,443,14
+6,selObject_40284628,** 150 EUR IKEA ** zum Einzug! Deine erste eigene Wohn...,"[['Etagenwohnung', '•', 'Chemnitz', 'Kappel']]",['Balkon'],Miete zzgl. NK 195 €,Wohnfläche ca. 40 m²,Zi. 1,443,14
+7,selObject_40278968,"1,0-Zimmerwohnung","[['Etagenwohnung', '•', 'Zwickau', 'Marienthal']]",[],Miete zzgl. NK 200 €,Wohnfläche ca. 31 m²,Zi. 1,443,14
+8,selObject_40278966,"1,0-Zimmerwohnung","[['Etagenwohnung', '•', 'Zwickau', 'Marienthal']]",[],Miete zzgl. NK 201 €,Wohnfläche ca. 31 m²,Zi. 1,443,14
+9,selObject_40257198,4-Zi.-Whg. in ländlicher Lage zu vermieten,"[['Etagenwohnung', '•', 'Striegistal', 'Etzdorf']]",[],Miete zzgl. NK 275 €,Wohnfläche ca. 70 m²,Zi. 4,443,14
+10,selObject_40243855,Wohnen in der Nähe vom Auewald,"[['Erdgeschosswohnung', '•', 'Leipzig', 'Gohlis-Süd']]",['Garten'],"Miete zzgl. NK 484,64 €",Wohnfläche ca. 75 m²,Zi. 3,443,14
+11,selObject_40243472,Schöne Dachgeschosswohnung sucht neuen Mieter,"[['Dachgeschosswohnung', '•', 'Waldheim', 'Waldheim']]",[],Miete zzgl. NK 208 €,Wohnfläche ca. 40 m²,Zi. 2,443,14
+12,selObject_40241970,"Sommer, Sonne und Balkonien! Beste Kaßberglage","[['Wohnung', '•', 'Chemnitz', 'Kaßberg']]",['Balkon'],Miete zzgl. NK 319 €,Wohnfläche ca. 58 m²,Zi. 3,443,14
+13,selObject_40240621,Gemütliche 3-Raum-Wohnung zum Spitzenpreis,"[['Etagenwohnung', '•', 'Limbach-Oberfrohna', 'Limbach-Oberfrohna']]",[],Miete zzgl. NK 295 €,Wohnfläche ca. 62 m²,Zi. 3,443,14
+14,selObject_40223226,Gemütliche 3-Zimmer Wohnung mit Balkon,"[['Wohnung', '•', 'Waldheim', 'Waldheim']]",['Balkon'],"Miete zzgl. NK 327,60 €",Wohnfläche ca. 63 m²,Zi. 3,443,14
+15,selObject_40220415,Singles und Pärchen aufgepasst! Ruhige 2-Raum-Terrasse...,"[['Erdgeschosswohnung', '•', 'Chemnitz', 'Hilbersdorf']]",['Garten'],Miete zzgl. NK 310 €,Wohnfläche ca. 52 m²,Zi. 2,443,14
+16,selObject_40218252,2-Zimmer-Wohnung im 1. Obergeschoss mit Dusche und ...,"[['Etagenwohnung', '•', 'Chemnitz', 'Morgenleite']]",['Balkon'],Miete zzgl. NK 215 €,Wohnfläche ca. 41 m²,Zi. 2,443,14
+17,selObject_40206535,Attraktive 3-Raumwohnung mit Balkon,"[['Etagenwohnung', '•', 'Chemnitz', 'Kappel']]","['Balkon', 'Garten']",Miete zzgl. NK 281 €,Wohnfläche ca. 56 m²,Zi. 3,443,14
+18,selObject_40204952,WG Wohnung - 3-Zimmer Wohnung mit Einbauküche in Hochs...,"[['Etagenwohnung', '•', 'Mittweida', 'Mittweida']]",['EBK'],Miete zzgl. NK 460 €,Wohnfläche ca. 77 m²,Zi. 3,443,14
+19,selObject_40198636,+++Erstbezug nach Sanierung und Renovierung++ Fünfzimm...,"[['Wohnung', '•', 'Plauen', 'Stadtmitte']]",['Balkon'],Miete zzgl. NK 743 €,Wohnfläche ca. 130 m²,Zi. 5,443,14
+20,selObject_40193894,Familienfreundliche Wohnung u. Spielplatz direkt vor...,"[['Etagenwohnung', '•', 'Chemnitz', 'Adelsberg']]",['Balkon'],Miete zzgl. NK 370 €,Wohnfläche ca. 71 m²,Zi. 3,443,14
+21,selObject_40186853,"3,0-Zimmerwohnung","[['Etagenwohnung', '•', 'Zwickau', 'Pölbitz']]",[],Miete zzgl. NK 339 €,Wohnfläche ca. 69 m²,Zi. 3,443,14
+22,selObject_40175322,Gemütliche Stadtwohnung mit Loggia wartet auf Mieter!,"[['Wohnung', '•', 'Wurzen', 'Wurzen']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 300 €,Wohnfläche ca. 66 m²,Zi. 2,443,14
+23,selObject_40131219,2-Raum-Wohnung Hirschbergstraße,"[['Wohnung', '•', 'Meißen']]",['Balkon'],Miete zzgl. NK 260 €,Wohnfläche ca. 50 m²,Zi. 2,443,14
+24,selObject_40120668,"2,0-Zimmerwohnung","[['Etagenwohnung', '•', 'Zwickau', 'Pölbitz']]",[],Miete zzgl. NK 305 €,Wohnfläche ca. 61 m²,Zi. 2,443,14
+25,selObject_40120583,"zentrumsnahes Appartement, WG geeignet 79 qm, incl...","[['Apartment', '•', 'Chemnitz', 'Zentrum']]",[],Miete zzgl. NK 316 €,Wohnfläche ca. 79 m²,Zi. 3,443,14
+26,selObject_40107906,** Studentenwohnung ! 1-Zimmer-Apartment mit Einbauküc...,"[['Etagenwohnung', '•', 'Chemnitz', 'Bernsdorf']]","['Garten', 'EBK']",Miete zzgl. NK 240 €,Wohnfläche ca. 40 m²,Zi. 1,443,14

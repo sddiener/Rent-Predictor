@@ -1,27 +1,27 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_45028590,"NEU Stilvolle, geräumige und neuwertige 3-Zimmer-Maisonett...","['Maisonette', '•', 'Hannover', 'Calenberger', 'Neustadt']","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']","Miete zzgl. NK 1.687,50 €",Wohnfläche ca. 125 m²,Zi. 1,1,3
-1,selObject_45028500,NEU 2-Zi.-Wohnung mit Wohnküche,"['Etagenwohnung', '•', 'Stade', 'Stade']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 399 €,Wohnfläche ca. 59 m²,Zi. 2,1,3
-2,selObject_45028502,NEU Kurzfristig frei!,"['Etagenwohnung', '•', 'Stade', 'Stade']","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']",Miete zzgl. NK 390 €,Wohnfläche ca. 58 m²,Zi. 2,1,3
-3,selObject_45028499,NEU Großzügiger Grundriss und toller Weitblick,"['Etagenwohnung', '•', 'Stade', 'Stade']","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']",Miete zzgl. NK 430 €,Wohnfläche ca. 72 m²,Zi. 3,1,3
-4,selObject_45028487,NEU Studenten aufgepasst!!,"['Wohnung', '•', 'Osnabrück', 'Sonnenhügel']","['NEU', 'NEU']",Miete inkl. NK 295 €,Wohnfläche ca. 15 m²,,1,3
-5,selObject_45028414,"NEU provisionsfrei: helle, freundliche 3-Zimmer-Wohnung...","['Dachgeschosswohnung', '•', 'Burgdorf', 'Burgdorf']","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']",Miete zzgl. NK 580 €,Wohnfläche ca. 75 m²,Zi. 3,1,3
-6,selObject_45028106,NEU ***Gemütliche Single-Wohnung in Ostrhauderfehn nahe...,"['Erdgeschosswohnung', '•', 'Ostrhauderfehn', 'Idafehn']","['NEU', 'NEU']",Miete zzgl. NK 390 €,Wohnfläche ca. 45 m²,Zi. 2,1,3
-7,selObject_45027976,"NEU 1-Zimmer-Wohnung mit Dusch-Bad, Einbauküche und Dachte...","['Wohnung', '•', 'Seevetal', 'Fleestedt']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 525 €,Wohnfläche ca. 42 m²,Zi. 1,1,3
-8,selObject_45027795,NEU 3-Zimmer-Wohnung im beliebten Kattenbergviertel!,"['Etagenwohnung', '•', 'Goslar', 'Kattenberg']","['NEU', 'NEU']","Miete zzgl. NK 378,30 €",Wohnfläche ca. 69 m²,Zi. 3,1,3
-9,selObject_45027640,NEU Erstbezug- Hochwertig ausgestattete Maisonettewohnung...,"['Wohnung', '•', 'Jork', 'Borstel']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 1.161,50 €",Wohnfläche ca. 101 m²,"Zi. 3,5",1,3
-10,selObject_45027639,NEU Erstbezug-Hochwertig ausgestattete Maisonettewohnung...,"['Wohnung', '•', 'Jork', 'Borstel']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 1.161,50 €",Wohnfläche ca. 101 m²,"Zi. 3,5",1,3
-11,selObject_45027543,NEU Im Zentrum von Holm Seppensen- Modernisiertes Wohnen...,"['Etagenwohnung', '•', 'Buchholz', 'Seppensen']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 910 €,Wohnfläche ca. 86 m²,Zi. 2,1,3
-12,selObject_45027539,NEU Wohnen zum kleinen Preis,"['Etagenwohnung', '•', 'Wilhelmshaven', 'Bant']","['NEU', 'NEU']",Miete zzgl. NK 286 €,Wohnfläche ca. 54 m²,Zi. 2,1,3
-13,selObject_45027468,NEU Single- Apartment in Nordhorn/ Stadtmitte,"['Erdgeschosswohnung', '•', 'Nordhorn', 'Nordhorn']","['NEU', 'NEU']",Miete zzgl. NK 395 €,Wohnfläche ca. 40 m²,Zi. 2,1,3
-14,selObject_45027379,NEU Kleine Zweizimmerwohnung mitten in Kirchdorf,"['Etagenwohnung', '•', 'Kirchdorf', 'Kirchdorf']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 415 €,Wohnfläche ca. 53 m²,Zi. 2,1,3
-15,selObject_45027350,NEU Schöne 3 Zimmerwohnung nähe der Elbe,"['Etagenwohnung', '•', 'Hollern-Twielenfleth']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 624 €,Wohnfläche ca. 96 m²,Zi. 3,1,3
-16,selObject_45027330,NEU Stilvolle 3-Zimmer-Altbauwohnung im Hochparterre!,"['Erdgeschosswohnung', '•', 'Delmenhorst', 'Bungerhof']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 494 €,Wohnfläche ca. 76 m²,Zi. 3,1,3
-17,selObject_45027331,NEU Großzügige Oberwohnung in ruhiger Lage!,"['Dachgeschosswohnung', '•', 'Uplengen', 'Großsander']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 400 €,Wohnfläche ca. 78 m²,Zi. 3,1,3
-18,selObject_45027301,NEU Top Lage Barrierearme Wohnungen nach KfW55-Standard zu...,"['Etagenwohnung', '•', 'Weyhe', 'Erichshof']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 760 €,Wohnfläche ca. 71 m²,Zi. 3,1,3
-19,selObject_45027143,NEU Innenstadt - Julius-Mosen-Platz: 5-Zimmer-Altbauwohnun...,"['Wohnung', '•', 'Oldenburg', 'Eversten']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 1.150 €,Wohnfläche ca. 124 m²,Zi. 5,1,3
-20,selObject_45027136,"NEU Kleine, gemütliche Zwei-Zimmer-Wohnung mit Balkon auf...","['Erdgeschosswohnung', '•', 'Wilhelmshaven', 'Siebethsburg']","['NEU', 'NEU']","Miete zzgl. NK 220,20 €",Wohnfläche ca. 42 m²,Zi. 2,1,3
-21,selObject_45027011,NEU ais-GmbH bietet an: 2 ZKB Wohnung in der Gökerstraße.,"['Wohnung', '•', 'Wilhelmshaven', 'Bant']","['NEU', 'NEU']",Miete zzgl. NK 340 €,Wohnfläche ca. 68 m²,Zi. 2,1,3
-22,selObject_45027013,NEU ais GmbH bietet an: 3ZKB Wohnung in zentraler Lage.,"['Apartment', '•', 'Wilhelmshaven', 'Bant']","['NEU', 'NEU']",Miete zzgl. NK 330 €,Wohnfläche ca. 67 m²,Zi. 3,1,3
-23,selObject_45026841,NEU Renovierte 3-Zimmer-Wohnung mit Balkon!,"['Etagenwohnung', '•', 'Wolfenbüttel', 'Auguststadt']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 660 €,Wohnfläche ca. 83 m²,Zi. 3,1,3
-24,selObject_45026774,NEU Erstbezug nach Modernisierung - Stilvolle Wohnung am...,"['Wohnung', '•', 'Laatzen', 'Laatzen-Mitte']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 534 €,Wohnfläche ca. 50 m²,Zi. 1,1,3
-25,selObject_45026726,NEU Attraktive 3 Zimmer Wohnung im EG mit Terrasse,"['Erdgeschosswohnung', '•', 'Hoya']","['NEU', 'NEU']",Miete zzgl. NK 560 €,Wohnfläche ca. 80 m²,Zi. 3,1,3
+0,selObject_45048199,NEU *Northeim-OT* helle 2-Zi.-Whg. mit Pantryküche.,"[['Erdgeschosswohnung', '•', 'Northeim', 'Hammenstedt']]","['NEU', 'NEU']",Miete zzgl. NK 250 €,Wohnfläche ca. 32 m²,Zi. 2,1,3
+1,selObject_45048095,NEU Modernisiertes Reihenhaus im Grünen,"[['Etagenwohnung', '•', 'Stade', 'Stade']]","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 522 €,Wohnfläche ca. 69 m²,Zi. 2,1,3
+2,selObject_45047812,NEU 3-Zi.-Mietwohnung in Winsen (Luhe),"[['Wohnung', '•', 'Winsen', 'Tönnhausen']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 972 €,Wohnfläche ca. 108 m²,Zi. 3,1,3
+3,selObject_45045742,NEU TOPLAGE! Großzügige 3-Zi-Wohnung auf 2 Ebenen mit Balk...,"[['Dachgeschosswohnung', '•', 'Ronnenberg', 'Ronnenberg']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 600 €,Wohnfläche ca. 85 m²,Zi. 3,1,3
+4,selObject_45045671,"NEU !!! ideal für Wochenendpendler !!! komplett möblierte,...","[['Erdgeschosswohnung', '•', 'Göttingen', 'Groß', 'Ellershausen']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 500 €,Wohnfläche ca. 39 m²,Zi. 1,1,3
+5,selObject_45045662,"NEU !!! ideal für Wochenendpendler !!! komplett möblierte,...","[['Erdgeschosswohnung', '•', 'Göttingen', 'Groß', 'Ellershausen']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 500 €,Wohnfläche ca. 39 m²,Zi. 1,1,3
+6,selObject_45045416,NEU Ruhige und attraktive Wohnung im wunderschönen Sarsted...,"[['Wohnung', '•', 'Sarstedt', 'Sarstedt']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 600 €,Wohnfläche ca. 67 m²,Zi. 3,1,3
+7,selObject_45045364,NEU Neubau-Erstbezug. Sehr gut ausgestattet.,"[['Erdgeschosswohnung', '•', 'Buchholz', 'Buchholz']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 985 €,Wohnfläche ca. 86 m²,Zi. 2,1,3
+8,selObject_45045251,NEU Großzügige 4-Zimmer-Wohnung in Bückeburg-OT-Achum ...,"[['Wohnung', '•', 'Bückeburg', 'Achum']]","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 695 €,Wohnfläche ca. 120 m²,Zi. 4,1,3
+9,selObject_45045166,NEU Wohnung sucht Familie,"[['Etagenwohnung', '•', 'Wilhelmshaven', 'Altengroden']]","['NEU', 'NEU']",Miete zzgl. NK 433 €,Wohnfläche ca. 73 m²,Zi. 3,1,3
+10,selObject_45045165,NEU Der Weg führt nach Heppens....,"[['Etagenwohnung', '•', 'Wilhelmshaven', 'Heppens']]","['NEU', 'NEU']",Miete zzgl. NK 367 €,Wohnfläche ca. 58 m²,Zi. 2,1,3
+11,selObject_45045164,NEU Exklusive 2 Zimmer Wohnung mit Einbauküche,"[['Etagenwohnung', '•', 'Wilhelmshaven', 'Heppens']]","['NEU', 'NEU']",Miete zzgl. NK 473 €,Wohnfläche ca. 69 m²,Zi. 2,1,3
+12,selObject_45045163,"NEU Helle, sonnige Wohnung","[['Etagenwohnung', '•', 'Wilhelmshaven', 'Neuende']]","['NEU', 'NEU']",Miete zzgl. NK 475 €,Wohnfläche ca. 73 m²,Zi. 3,1,3
+13,selObject_45044725,"NEU """"""Geräumige Dreiraumwohnung in ruhiger Lage""""""","[['Dachgeschosswohnung', '•', 'Papenburg', 'Papenburg']]","['NEU', 'NEU']",Miete zzgl. NK 420 €,Wohnfläche ca. 85 m²,Zi. 3,1,3
+14,selObject_45044713,NEU !!!Neubau Erstbezug Oberwohnung für eine Person inkl....,"[['Apartment', '•', 'Papenburg', 'Aschendorfermoor']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 450 €,Wohnfläche ca. 80 m²,Zi. 3,1,3
+15,selObject_45044704,NEU Gemütliche 1-Zimmer-Wohnung,"[['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']]","['NEU', 'NEU']",Miete zzgl. NK 198 €,Wohnfläche ca. 33 m²,Zi. 1,1,3
+16,selObject_45044554,NEU Gemütliche 2-Zimmer-Wohnung im Stadtnorden Oldenburgs,"[['Erdgeschosswohnung', '•', 'Oldenburg', 'Donnerschwee']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 500 €,Wohnfläche ca. 64 m²,Zi. 2,1,3
+17,selObject_45044553,NEU Sanierte 3-Zimmer-Altbauwohnung im schönen Stadtteil...,"[['Etagenwohnung', '•', 'Oldenburg', 'Bürgerfelde']]","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']",Miete zzgl. NK 720 €,Wohnfläche ca. 65 m²,Zi. 3,1,3
+18,selObject_45044542,"NEU Open House im Constantin Quartier | Freitag, 06.08.21...","[['Etagenwohnung', '•', 'Hannover', 'List']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 1.225 €,Wohnfläche ca. 92 m²,Zi. 3,1,3
+19,selObject_45044512,NEU Stade: moderne 2-Zi-Neubauwhg mit Tiefgarage,"[['Erdgeschosswohnung', '•', 'Stade', 'Stade']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 757 €,Wohnfläche ca. 62 m²,Zi. 2,1,3
+20,selObject_45044394,NEU Ansprechende 3-Zimmer-Wohnung mit Balkon in Donnerschw...,"[['Wohnung', '•', 'Oldenburg', 'Donnerschwee']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 500 €,Wohnfläche ca. 57 m²,Zi. 3,1,3
+21,selObject_45044329,NEU WM2628 Südstadt - Annenstraße / 2-Zimmer-Wohnung 1.OG...,"[['Etagenwohnung', '•', 'Hannover', 'Südstadt']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 520 €,Wohnfläche ca. 69 m²,Zi. 2,1,3
+22,selObject_45044303,NEU Helle 3-Zimmer-Wohnung in bester Lage,"[['Wohnung', '•', 'Göttingen', 'Göttingen']]","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 550 €,Wohnfläche ca. 61 m²,Zi. 3,1,3
+23,selObject_45044279,NEU 3 Zi. EG-Wohnung mit Garten & Stellplatz,"[['Erdgeschosswohnung', '•', 'Westerstede', 'Westerstede']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 520 €,Wohnfläche ca. 70 m²,Zi. 3,1,3
+24,selObject_45044262,NEU Einziehen & wohlfühlen: Neubauwohnung im Obergeschoss!,"[['Wohnung', '•', 'Westerstede', 'Halstrup']]","['NEU', 'NEU']",Miete zzgl. NK 650 €,Wohnfläche ca. 71 m²,Zi. 3,1,3
+25,selObject_45044173,NEU Azubis und Studierende aufgepasst! Wir haben für Euch...,"[['Etagenwohnung', '•', 'Wilhelmshaven', 'Innenstadt']]","['NEU', 'NEU']",Miete zzgl. NK 248 €,Wohnfläche ca. 33 m²,Zi. 1,1,3

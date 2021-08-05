@@ -1,14 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_36337892,Wohnen und Arbeiten unter einem Dach! Elegante Wohnung...,"['Etagenwohnung', '•', 'Heusenstamm', 'Heusenstamm']",['EBK'],Miete zzgl. NK 1.470 €,Wohnfläche ca. 140 m²,Zi. 4,113,6
-1,selObject_35155429,schöne 2-Zimmer-Küche-Bad in zentraler Lage,"['Wohnung', '•', 'Fulda', 'Innenstadt']",[],Miete zzgl. NK 410 €,Wohnfläche ca. 50 m²,Zi. 2,113,6
-2,selObject_34750324,2er-WG: Erstbezug nach Sanierung; 150m bis zur Uni,"['Kein', 'Bild']",['EBK'],Miete zzgl. NK 285 €,Wohnfläche ca. 17 m²,Zi. 2,113,6
-3,selObject_34327649,Livestyle - Kommen Sie gerne nach Hause,"['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Ostend']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 550 €,Wohnfläche ca. 20 m²,Zi. 1,113,6
-4,selObject_34185451,"Citylage ""Vier Jahreszeiten""","['Wohnung', '•', 'Wiesbaden', 'Wiesbaden']","['Balkon', 'EBK']",Miete zzgl. NK 440 €,Wohnfläche ca. 33 m²,Zi. 1,113,6
-5,selObject_32158553,Einzigartig und perfekt! 2 Zimmer auf 56qm mit schöner...,"['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Ostend']",['EBK'],"Miete zzgl. NK 956,30 €",Wohnfläche ca. 57 m²,Zi. 2,113,6
-6,selObject_31515476,"Lust auf ein neues Zuhause? Traumhafte Wohnung, 61qm,...","['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Ostend']",['EBK'],"Miete zzgl. NK 1.020,90 €",Wohnfläche ca. 62 m²,Zi. 2,113,6
-7,selObject_31186109,"Helle, moderne 3-Zimmerwohnung in Bestlage","['Dachgeschosswohnung', '•', 'Bad', 'Homburg', 'Bad', 'Homburg']",['Balkon'],Miete zzgl. NK 1.700 €,Wohnfläche ca. 90 m²,Zi. 3,113,6
-8,selObject_26433362,Appartement / Studio,"['Wohnung', '•', 'Wiesbaden', 'Wiesbaden']","['Balkon', 'EBK']",Miete zzgl. NK 470 €,Wohnfläche ca. 33 m²,Zi. 1,113,6
-9,selObject_25487037,2 ZKB unweit von Uni und Klinikum,"['Etagenwohnung', '•', 'Kassel', 'Nord-Holland']",[],Miete zzgl. NK 405 €,Wohnfläche ca. 58 m²,Zi. 2,113,6
-10,selObject_23391761,1 Zimmer in Uni / Klinikum Nähe,"['Erdgeschosswohnung', '•', 'Kassel', 'Wesertor']",[],Miete zzgl. NK 260 €,Wohnfläche ca. 27 m²,Zi. 1,113,6
-11,selObject_23047155,1 ZKB unweit von Uni und Klinikum,"['Etagenwohnung', '•', 'Kassel', 'Nord-Holland']",[],Miete zzgl. NK 320 €,Wohnfläche ca. 41 m²,Zi. 1,113,6
-12,selObject_13264356,4-Zimmerwohnung im Erdgeschoß in Spangenberg,"['Erdgeschosswohnung', '•', 'Spangenberg', 'Spangenberg']",[],Miete zzgl. NK 400 €,Wohnfläche ca. 100 m²,Zi. 4,113,6
+0,selObject_41339402,"*UNI-RESIDENZ, Studentenappartements der Luxusklasse,...","[['Dachgeschosswohnung', '•', 'Kassel', 'Nord-Holland']]","['Balkon', 'EBK']",Miete zzgl. NK 457 €,Wohnfläche ca. 37 m²,Zi. 1,113,6
+1,selObject_41257492,Grosszuegiges Studio Apartment in Frankfurt Niederrad,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Schwanheim']]",['EBK'],Miete zzgl. NK 670 €,Wohnfläche ca. 32 m²,Zi. 1,113,6
+2,selObject_41257138,Für Gießener Senioren: Schöne 2 Zimmer-Wohnung in zent...,"[['Wohnung', '•', 'Gießen', 'Gießen']]",['Balkon'],Miete zzgl. NK 339 €,Wohnfläche ca. 61 m²,Zi. 2,113,6
+3,selObject_41245052,Erstbezug einer 5-Zimmerwohnung mit moderner Ausstattu...,"[['Etagenwohnung', '•', 'Rüdesheim', 'am', 'Rhein', 'Assmannshausen']]",['Garten'],Miete zzgl. NK 1.000 €,Wohnfläche ca. 100 m²,Zi. 5,113,6
+4,selObject_41198195,"**UNI-RESIDENZ, Studentenappartements der Luxusklasse,...","[['Apartment', '•', 'Kassel', 'Nord-Holland']]","['Balkon', 'EBK']",Miete zzgl. NK 391 €,Wohnfläche ca. 35 m²,Zi. 1,113,6
+5,selObject_41154691,Voll möbliertes YOUNIQ Apartment zur ALL-IN Miete,"[['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Kalbach/Riedberg']]","['Garten', 'EBK']","Miete zzgl. NK 491,33 €",Wohnfläche ca. 22 m²,Zi. 1,113,6
+6,selObject_41151109,Erstis aufgepasst! - Moderne Studentenapartments nahe...,"[['Etagenwohnung', '•', 'Fulda', 'Aschenberg']]",['EBK'],Miete zzgl. NK 335 €,Wohnfläche ca. 24 m²,Zi. 1,113,6
+7,selObject_41122663,Das perfekte Zuhause / living floor / Wiesbaden SÜD-OS...,"[['Etagenwohnung', '•', 'Wiesbaden', 'Wiesbaden']]","['Balkon', 'EBK']",Miete zzgl. NK 2.000 €,Wohnfläche ca. 145 m²,Zi. 3,113,6
+8,selObject_41069063,NEUBAU: 1-Zimmer-Wohnung mit bester Verkehrsanbindung...,"[['Apartment', '•', 'Darmstadt', 'Darmstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 840 €,Wohnfläche ca. 41 m²,Zi. 1,113,6
+9,selObject_41016092,Erstbezug! Modernes Wohnen leicht gemacht,"[['Etagenwohnung', '•', 'Offenbach', 'am', 'Main', 'Offenbach', 'am', 'Main']]","['Balkon', 'EBK']",Miete zzgl. NK 1.085 €,Wohnfläche ca. 77 m²,Zi. 3,113,6
+10,selObject_41012820,Erstbezug! Traumhafte Dachterrasse und Einbauküche,"[['Etagenwohnung', '•', 'Hanau', 'Hanau']]",['EBK'],Miete zzgl. NK 1.330 €,Wohnfläche ca. 116 m²,Zi. 3,113,6
+11,selObject_40986789,Für Studierende - dein voll möbliertes Apartment zur...,"[['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Kalbach/Riedberg']]","['Garten', 'EBK']","Miete zzgl. NK 541,54 €",Wohnfläche ca. 31 m²,Zi. 1,113,6
+12,selObject_40931497,Großräumige Büro- Atelierflächen mit hochwertiger Aust...,"[['Loft-Studio-Atelier', '•', 'Kelkheim', 'Kelkheim']]",[],Miete zzgl. NK 1.200 €,,Zi. 2,113,6
+13,selObject_40799006,Studentenappartements Nähe Hauptbahnhof,"[['Apartment', '•', 'Marburg', 'Marburg']]",[],Miete zzgl. NK 248 €,Wohnfläche ca. 22 m²,Zi. 1,113,6
+14,selObject_40698975,Lichtdurchflutete 2-Zimmer Wohnung in top Lage in Fran...,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Schwanheim']]",['EBK'],Miete zzgl. NK 998 €,Wohnfläche ca. 58 m²,Zi. 1,113,6
+15,selObject_40698972,Möblierte 2-Zimmer Wohnung für Paare in top Lage in...,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Schwanheim']]",['EBK'],Miete zzgl. NK 920 €,Wohnfläche ca. 56 m²,Zi. 1,113,6
+16,selObject_40698927,Möbliertes Studio Apartment in Frankfurt Niederrad,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Schwanheim']]",['EBK'],Miete zzgl. NK 575 €,Wohnfläche ca. 27 m²,Zi. 1,113,6
+17,selObject_40581582,ab 849 Euro (mind. 2 Monate) Top Serviced Apartments....,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Bahnhofsviertel']]",['EBK'],Preis Auf Anfrage,Wohnfläche ca. 24 m²,Zi. 1,113,6
+18,selObject_40581553,Möbliertes M Apartment Frankfurt Bahnhofsviertel,"[['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Bahnhofsviertel']]",['EBK'],Miete zzgl. NK 1.190 €,Wohnfläche ca. 42 m²,Zi. 1,113,6
+19,selObject_40581387,Serviced Apartments für Studenten in Frankfurt Bahnhof...,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Bahnhofsviertel']]",['EBK'],Miete zzgl. NK 790 €,Wohnfläche ca. 24 m²,Zi. 1,113,6
+20,selObject_40570182,VERMIETET ! Schicke Jugendstilwohnung im Vorderen...,"[['Etagenwohnung', '•', 'Kassel', 'West']]",['Balkon'],Miete zzgl. NK 1.450 €,Wohnfläche ca. 140 m²,Zi. 3,113,6
+21,selObject_40556639,WG-Zimmer in netter 6er-WG in Marburg-Ockershausen,"[['Apartment', '•', 'Marburg', 'Marburg']]",[],Miete zzgl. NK 185 €,Wohnfläche ca. 17 m²,Zi. 1,113,6
+22,selObject_40548663,Schöne 3-Zimmer-Wohnung gefördert nach §88d,"[['Etagenwohnung', '•', 'Bad', 'Orb']]",['Balkon'],"Miete zzgl. NK 503,81 €",Wohnfläche ca. 71 m²,Zi. 3,113,6
+23,selObject_40548662,Schöne 3-Zimmer-Wohnung gefördert nach §88d,"[['Erdgeschosswohnung', '•', 'Bad', 'Orb']]",['Balkon'],"Miete zzgl. NK 534,61 €",Wohnfläche ca. 76 m²,Zi. 3,113,6
+24,selObject_40307222,Voll möbliertes YOUNIQ Apartment zur ALL-IN Miete!,"[['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Kalbach/Riedberg']]","['Garten', 'EBK']","Miete zzgl. NK 573,24 €",Wohnfläche ca. 24 m²,Zi. 1,113,6
+25,selObject_40307098,Voll möbliertes Apartment zur ALL-IN Miete,"[['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Kalbach/Riedberg']]","['Garten', 'EBK']","Miete zzgl. NK 491,33 €",Wohnfläche ca. 22 m²,Zi. 1,113,6
+26,selObject_40306892,Voll möbliertes YOUNIQ Apartment zur ALL-IN Miete,"[['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Kalbach/Riedberg']]","['Garten', 'EBK']","Miete zzgl. NK 591,12 €",Wohnfläche ca. 29 m²,Zi. 1,113,6

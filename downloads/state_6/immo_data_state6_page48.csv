@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44884848,Kelsterbach: RESERVIERT! Willkommen zu Hause! Moderne...,"['Wohnung', '•', 'Kelsterbach']","['Balkon', 'EBK']",Miete zzgl. NK 1.080 €,Wohnfläche ca. 98 m²,Zi. 3,48,6
-1,selObject_44884654,"Nordend, Eckenheimer Ldstr: Helle, ""offene"" 2-Zimmerwh...","['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Nordend-West']","['Balkon', 'EBK']",Miete zzgl. NK 770 €,Wohnfläche ca. 56 m²,Zi. 2,48,6
-2,selObject_44884594,2 Monate Kaltmietfrei sichern.möblierte 1-Zimmer-Wohnu...,"['Erdgeschosswohnung', '•', 'Frankfurt', 'am', 'Main', 'Westend-Nord']","['Balkon', 'EBK']","Miete zzgl. NK 893,82 €",Wohnfläche ca. 36 m²,Zi. 1,48,6
-3,selObject_44884541,Top Wohnung: ansprechende 4 Zimmer und -Wohnung mit...,"['Dachgeschosswohnung', '•', 'Darmstadt', 'Darmstadt']",['Balkon'],"Miete zzgl. NK 1.190,06 €",Wohnfläche ca. 100 m²,Zi. 3,48,6
-4,selObject_44884341,"Schöner Wohnen im Westside Tower! 4 Zimmer, im Europav...","['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Bockenheim']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.813 €,Wohnfläche ca. 126 m²,Zi. 4,48,6
-5,selObject_44884339,Schöner Wohnen im Westside Tower mit wunderschönem...,"['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Bockenheim']","['Balkon', 'Garten', 'EBK']","Miete zzgl. NK 1.523,62 €",Wohnfläche ca. 92 m²,Zi. 3,48,6
-6,selObject_44884338,Für Singles mit Ansprüchen! Tolle 1 Zimmer Wohnung im ...,"['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Bockenheim']","['Balkon', 'Garten', 'EBK']","Miete zzgl. NK 777,64 €",Wohnfläche ca. 48 m²,Zi. 1,48,6
-7,selObject_44884336,Schöner Wohnen im Westside Tower Im Europaviertel mit...,"['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Bockenheim']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.060 €,Wohnfläche ca. 68 m²,Zi. 2,48,6
-8,selObject_44884335,Schöner Wohnen im Westside Tower Im Europaviertel mit...,"['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Bockenheim']","['Balkon', 'Garten', 'EBK']","Miete zzgl. NK 1.340,30 €",Wohnfläche ca. 92 m²,Zi. 3,48,6
-9,selObject_44884334,"Schöner Wohnen im Westside Tower! 4 Zimmer, im Europav...","['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Bockenheim']","['Balkon', 'Garten', 'EBK']","Miete zzgl. NK 2.042,47 €",Wohnfläche ca. 126 m²,Zi. 4,48,6
-10,selObject_44884333,Wunderschöne SKY LODGE Wohnung mit Skylineblick......,"['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Bockenheim']","['Balkon', 'Garten', 'EBK']","Miete zzgl. NK 2.905,71 €",Wohnfläche ca. 155 m²,Zi. 4,48,6
-11,selObject_44884332,Schöner wohnen im Westside Tower! Erstbezug mit einzig...,"['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Bockenheim']","['Balkon', 'Garten', 'EBK']","Miete zzgl. NK 1.843,57 €",Wohnfläche ca. 108 m²,Zi. 4,48,6
-12,selObject_44884331,Herausragend Wohnen im Herzen von Offenbach,"['Wohnung', '•', 'Offenbach', 'am', 'Main', 'Offenbach', 'am', 'Main']","['Balkon', 'EBK']",Miete zzgl. NK 1.550 €,Wohnfläche ca. 109 m²,Zi. 4,48,6
-13,selObject_44883604,** Stadtmitte ** 2 Zi- DG Wohnung mit Balkon!,"['Dachgeschosswohnung', '•', 'Bad', 'Homburg', 'Bad', 'Homburg']",['Balkon'],Miete zzgl. NK 980 €,Wohnfläche ca. 82 m²,"Zi. 2,5",48,6
-14,selObject_44883497,Moderne 3-Zimmer-Wohnung mit Balkon und 2 Schlafzimmer...,"['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Westend-Süd']",['Balkon'],Miete zzgl. NK 3.280 €,Wohnfläche ca. 92 m²,Zi. 3,48,6
-15,selObject_44883496,Großzügiges Apartment mit Balkon in Sachsenhausen (5.0...,"['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Sachsenhausen']",['Balkon'],Miete zzgl. NK 910 €,Wohnfläche ca. 35 m²,Zi. 1,48,6
-16,selObject_44883485,Ideal für Studentinnen: Kleine feine einzugsfertige...,"['Erdgeschosswohnung', '•', 'Kassel', 'Wolfsanger/Hasenhecke']",['EBK'],Miete zzgl. NK 300 €,Wohnfläche ca. 38 m²,Zi. 1,48,6
-17,selObject_44883330,Attraktive 2-ZKB-Wohnung in Toplage Fulda-stadtnah,"['Souterrainwohnung', '•', 'Fulda', 'Maberzell']",['EBK'],Miete zzgl. NK 410 €,Wohnfläche ca. 56 m²,Zi. 2,48,6
-18,selObject_44882907,Helle und geräumige 2-Zimmer-Dachgeschosswohnung in...,"['Dachgeschosswohnung', '•', 'Fulda', 'Nordend']",[],Miete zzgl. NK 288 €,Wohnfläche ca. 41 m²,"Zi. 2,5",48,6
-19,selObject_44882088,"***Schöne 3 Zimmer Wohnung mit EBK, Bad, GWC und TG...","['Erdgeschosswohnung', '•', 'Hofheim', 'Hofheim']","['Balkon', 'EBK']",Miete zzgl. NK 1.050 €,Wohnfläche ca. 87 m²,Zi. 3,48,6
-20,selObject_44880984,Singles aufgepasst: Helle 1-Zi.-Whg. in perfekter Lage...,"['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Rödelheim']",['EBK'],Miete zzgl. NK 615 €,Wohnfläche ca. 49 m²,Zi. 1,48,6
-21,selObject_44880149,Schöne 3-ZKB-Wohnung in guter Lage in Marburg-Wehrda...,"['Wohnung', '•', 'Marburg', 'Wehrda']",['EBK'],Miete zzgl. NK 770 €,Wohnfläche ca. 82 m²,Zi. 3,48,6
-22,selObject_44880110,3 Zimmer-Luxus-Wohnung im höchsten Wohngebäude Deutsch...,"['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Gallus']",['Balkon'],Miete zzgl. NK 2.800 €,Wohnfläche ca. 89 m²,Zi. 3,48,6
-23,selObject_44880034,Gemütliche 2-Zimmer-Wohnung in Stadtnähe mit Weitblick,"['Wohnung', '•', 'Wiesbaden', 'Wiesbaden']",['Balkon'],Miete zzgl. NK 740 €,Wohnfläche ca. 75 m²,Zi. 2,48,6
-24,selObject_44879984,"Renovierte 3 ZKBB Altbauwohnung mit Balkon ,im EG EBK,...","['Erdgeschosswohnung', '•', 'Wiesbaden', 'Wiesbaden']","['Balkon', 'EBK']",Miete zzgl. NK 1.110 €,Wohnfläche ca. 98 m²,Zi. 3,48,6
-25,selObject_44879952,Eine der letzten Luxus-Wohnung von über 400 im Grand...,"['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Gallus']",['Balkon'],Miete zzgl. NK 2.085 €,Wohnfläche ca. 87 m²,Zi. 3,48,6
-26,selObject_44879724,Schöne 3-Zimmer-Wohnung im Rebstock-Viertel,"['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Bockenheim']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.300 €,Wohnfläche ca. 90 m²,Zi. 3,48,6
+0,selObject_44909354,Großzügige 3-ZKB-Dachgeschoss-Wohnung in gesuchter...,"[['Wohnung', '•', 'Kassel']]",[],Miete zzgl. NK 650 €,Wohnfläche ca. 78 m²,Zi. 4,48,6
+1,selObject_44909107,Helle und charmante 3-Zimmer Maisonttewohnung im alten...,"[['Maisonette', '•', 'Frankfurt', 'am', 'Main', 'Seckbach']]",[],Miete zzgl. NK 1.250 €,Wohnfläche ca. 110 m²,Zi. 3,48,6
+2,selObject_44909080,Schöne Erdgeschosswohnung,"[['Erdgeschosswohnung', '•', 'Driedorf', 'Roth']]",['Balkon'],"Miete zzgl. NK 401,26 €",Wohnfläche ca. 68 m²,Zi. 5,48,6
+3,selObject_44908620,Wohnen über den Dächern von Melsungen - 3ZKB!,"[['Erdgeschosswohnung', '•', 'Melsungen', 'Melsungen']]",[],Miete zzgl. NK 766 €,Wohnfläche ca. 96 m²,Zi. 3,48,6
+4,selObject_44908516,Top!! frisch renovierte 3 Zimmer Wohnung Nähe Main,"[['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Sachsenhausen']]",[],Miete zzgl. NK 700 €,Wohnfläche ca. 60 m²,Zi. 3,48,6
+5,selObject_44908510,"Top!! exklusiv Voll-Möbliert * Concierge, Internet,...","[['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Gallus']]",['EBK'],Miete zzgl. NK 1.200 €,Wohnfläche ca. 46 m²,"Zi. 1,5",48,6
+6,selObject_44908415,Schickes wohnen im Dachgeschoß....,"[['Dachgeschosswohnung', '•', 'Bensheim', 'Fehlheim']]",['Balkon'],Miete zzgl. NK 1.100 €,Wohnfläche ca. 111 m²,Zi. 4,48,6
+7,selObject_44908341,**Neubau-Erstbezug** Schicke 1 ZW mit Balkon,"[['Etagenwohnung', '•', 'Wiesbaden', 'Biebrich']]","['Balkon', 'EBK']","Miete zzgl. NK 644,71 €",Wohnfläche ca. 40 m²,Zi. 1,48,6
+8,selObject_44908338,**Neubau-Erstbezug** Traumhafte 3 ZW mit Balkon,"[['Etagenwohnung', '•', 'Wiesbaden', 'Biebrich']]","['Balkon', 'EBK']","Miete zzgl. NK 1.381,64 €",Wohnfläche ca. 87 m²,Zi. 3,48,6
+9,selObject_44908336,**Neubau-Erstbezug** Schicke 1 ZW mit Balkon,"[['Etagenwohnung', '•', 'Wiesbaden', 'Biebrich']]","['Balkon', 'EBK']","Miete zzgl. NK 646,40 €",Wohnfläche ca. 40 m²,Zi. 1,48,6
+10,selObject_44908332,**Neubau-Erstbezug** Schicke 1 ZW mit Balkon,"[['Etagenwohnung', '•', 'Wiesbaden', 'Biebrich']]","['Balkon', 'EBK']","Miete zzgl. NK 643,74 €",Wohnfläche ca. 40 m²,Zi. 1,48,6
+11,selObject_44908331,**Neubau-Erstbezug** Penthouse mit großer Dachterrasse,"[['Penthouse', '•', 'Wiesbaden', 'Biebrich']]",['EBK'],"Miete zzgl. NK 1.382,75 €",Wohnfläche ca. 87 m²,Zi. 2,48,6
+12,selObject_44908327,**Neubau-Erstbezug** Maisonettewohnung mit französisch...,"[['Maisonette', '•', 'Wiesbaden', 'Biebrich']]","['Balkon', 'EBK']","Miete zzgl. NK 1.128,05 €",Wohnfläche ca. 72 m²,Zi. 2,48,6
+13,selObject_44908323,**Neubau-Erstbezug** Schicke 1 ZW mit Balkon,"[['Etagenwohnung', '•', 'Wiesbaden', 'Biebrich']]","['Balkon', 'EBK']","Miete zzgl. NK 629,20 €",Wohnfläche ca. 39 m²,Zi. 1,48,6
+14,selObject_44908321,**Neubau-Erstbezug** Schöne 2 ZW mit Balkon,"[['Etagenwohnung', '•', 'Wiesbaden', 'Biebrich']]","['Balkon', 'EBK']","Miete zzgl. NK 794,30 €",Wohnfläche ca. 57 m²,Zi. 2,48,6
+15,selObject_44908267,ERSTBEZUG! 3-Zimmer Wohnung mit offener Küche,"[['Wohnung', '•', 'Gelnhausen', 'Gelnhausen']]","['Balkon', 'EBK']",Miete zzgl. NK 1.120 €,Wohnfläche ca. 108 m²,Zi. 3,48,6
+16,selObject_44908205,Zentral gelegene Neubauwohnung,"[['Wohnung', '•', 'Offenbach', 'am', 'Main', 'Offenbach', 'am', 'Main']]",[],Miete zzgl. NK 673 €,Wohnfläche ca. 64 m²,Zi. 2,48,6
+17,selObject_44907820,"Helle, freundliche und top renovierte 3 Zimmer Wohnung...","[['Wohnung', '•', 'Neu-Isenburg', 'Gravenbruch']]","['Balkon', 'EBK']",Miete zzgl. NK 850 €,Wohnfläche ca. 79 m²,Zi. 3,48,6
+18,selObject_44907809,*WOHNEN DER EXTRAKLASSE* hier werden Wohnträume wahr,"[['Erdgeschosswohnung', '•', 'Hainburg', 'Hainstadt']]",['EBK'],Miete zzgl. NK 900 €,Wohnfläche ca. 79 m²,Zi. 2,48,6
+19,selObject_44907808,*SIE LIEBEN HOLZ?* - dann sind Sie hier richtig,"[['Dachgeschosswohnung', '•', 'Bruchköbel', 'Roßdorf']]",['EBK'],Miete zzgl. NK 590 €,Wohnfläche ca. 110 m²,Zi. 3,48,6
+20,selObject_44907761,Moderne 3-Zi.-Wohnung mit Süd-Balkon,"[['Etagenwohnung', '•', 'Ginsheim-Gustavsburg']]","['Balkon', 'EBK']",Miete zzgl. NK 1.170 €,Wohnfläche ca. 90 m²,Zi. 3,48,6
+21,selObject_44907667,NEUBAU Erstbezug 2-Zi Wohnung (70m2) mit Terrasse und...,"[['Wohnung', '•', 'Hanau', 'Hanau']]",['EBK'],Miete zzgl. NK 880 €,Wohnfläche ca. 70 m²,Zi. 2,48,6
+22,selObject_44907637,Schöne 2 Zimmerwohnung in zentraler Lage von Preungesh...,"[['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Eckenheim']]",[],Miete zzgl. NK 637 €,Wohnfläche ca. 49 m²,Zi. 2,48,6
+23,selObject_44907533,Moderne Penthouse-Wohnung mit Blick auf die Fulda,"[['Penthouse', '•', 'Kassel', 'Bettenhausen']]",[],Preis Auf Anfrage,Wohnfläche ca. 97 m²,Zi. 2,48,6
+24,selObject_44906869,Gemütliche 4 Zi.-DG-Wohnung in Zentrallage Bad Schwalb...,"[['Wohnung', '•', 'Bad', 'Schwalbach', 'Bad', 'Schwalbach']]","['Garten', 'EBK']",Miete zzgl. NK 700 €,Wohnfläche ca. 78 m²,Zi. 4,48,6
+25,selObject_44906743,*ab SOFORT*- schöne helle vollmöblierte Wohnung mit...,"[['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Gallus']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 950 €,Wohnfläche ca. 49 m²,Zi. 2,48,6
+26,selObject_44906742,Lichtdurchflutetes Haus mit 6-Zimmern wartet auf Erstb...,"[['Wohnung', '•', 'Kronberg', 'Oberhöchstadt']]",['EBK'],Miete zzgl. NK 1.350 €,Wohnfläche ca. 115 m²,Zi. 6,48,6

@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_40740819,Oschersleben- Singlewohnung am Stadtrand,"['Dachgeschosswohnung', '•', 'Oschersleben', 'Oschersleben']",[],"Miete zzgl. NK 290,42 €",Wohnfläche ca. 56 m²,Zi. 2,133,15
-1,selObject_40724935,1- Raum- Wohnung mit Balkon,"['Wohnung', '•', 'Kalbe', 'Kalbe']",['Balkon'],Miete zzgl. NK 144 €,Wohnfläche ca. 32 m²,Zi. 1,133,15
-2,selObject_40684499,1 Schöne 4 Raum-DG Wohnungen Tolstoi Str. 05,"['Dachgeschosswohnung', '•', 'Aschersleben', 'Aschersleben']",[],Miete zzgl. NK 399 €,Wohnfläche ca. 82 m²,Zi. 4,133,15
-3,selObject_40674960,Frisch sanierte helle 3-Raum-Wohnung,"['Etagenwohnung', '•', 'Köthen']",[],Miete zzgl. NK 550 €,Wohnfläche ca. 110 m²,Zi. 3,133,15
-4,selObject_40605928,"3 Raum Wohnung , 58 qm , mit Balkon (verglast)","['Wohnung', '•', 'Halle', 'Nördliche', 'Neustadt']","['Balkon', 'EBK']",Miete zzgl. NK 320 €,Wohnfläche ca. 58 m²,Zi. 3,133,15
-5,selObject_40605370,Kinderfreundliches Wohngebiet,"['Wohnung', '•', 'Dessau-Roßlau', 'Innenstadt']",['Balkon'],Miete zzgl. NK 305 €,Wohnfläche ca. 56 m²,Zi. 3,133,15
-6,selObject_40581946,Wohnen in Buckau - großzügige 5-Raum-Wohnung - WG-taug...,"['Etagenwohnung', '•', 'Magdeburg', 'Buckau']",[],Miete zzgl. NK 910 €,Wohnfläche ca. 153 m²,Zi. 5,133,15
-7,selObject_40532536,Schöne 3-Raum Wohnung + Balkon + EBK,"['Etagenwohnung', '•', 'Staßfurt', 'Staßfurt']",[],"Miete zzgl. NK 232,58 €",Wohnfläche ca. 72 m²,Zi. 3,133,15
-8,selObject_40497781,Single-Wohnung im Naturschutzgebiet von Loburg,"['Etagenwohnung', '•', 'Loburg', 'Loburg']",['Garten'],Miete zzgl. NK 175 €,Wohnfläche ca. 35 m²,Zi. 1,133,15
-9,selObject_40461745,*BESTPREISGARANTIE* Renovierte Single-Wohnung mit Gart...,"['Etagenwohnung', '•', 'Klietz', 'Klietz']",['Garten'],"Miete zzgl. NK 230,47 €",Wohnfläche ca. 50 m²,Zi. 2,133,15
-10,selObject_40461701,*Ruhige Lage* Frisch Renovierte 3 Zimmer Wohnung,"['Etagenwohnung', '•', 'Klietz', 'Klietz']",['Garten'],"Miete zzgl. NK 273,64 €",Wohnfläche ca. 60 m²,Zi. 3,133,15
-11,selObject_40460613,*FRISCH RENOVIERTE 3 ZW* Bestpreisgarantie,"['Etagenwohnung', '•', 'Apenburg-Winterfeld', 'Apenburg']",['Garten'],"Miete zzgl. NK 259,20 €",Wohnfläche ca. 61 m²,Zi. 3,133,15
-12,selObject_40460611,*BESTPREIS* Frisch Renovierte Single-Wohnung,"['Wohnung', '•', 'Apenburg-Winterfeld', 'Apenburg']",['Garten'],"Miete zzgl. NK 224,50 €",Wohnfläche ca. 50 m²,Zi. 2,133,15
-13,selObject_40460610,*Wohlfühloase* Frisch Renovierte Wohnung mit Gemeinsch...,"['Wohnung', '•', 'Apenburg-Winterfeld', 'Apenburg']",['Garten'],"Miete zzgl. NK 298,90 €",Wohnfläche ca. 68 m²,Zi. 4,133,15
-14,selObject_40460505,*BESTPREISGARANTIE* Renovierte Single-Wohnung,"['Wohnung', '•', 'Apenburg-Winterfeld', 'Apenburg']",['Garten'],"Miete zzgl. NK 224,50 €",Wohnfläche ca. 31 m²,Zi. 1,133,15
-15,selObject_40452829,2-Raum-Wohnung in bester Wohnlage von Sangerhausen,"['Etagenwohnung', '•', 'Sangerhausen', 'Sangerhausen']",[],Miete zzgl. NK 450 €,Wohnfläche ca. 73 m²,Zi. 2,133,15
-16,selObject_40423293,NEU: lichtdurchflutetes Wohnglück!,"['Etagenwohnung', '•', 'Halle', 'Südstadt']",['Balkon'],Miete zzgl. NK 323 €,Wohnfläche ca. 61 m²,Zi. 3,133,15
-17,selObject_40374523,Mieterticket inklusive! Wohnen mit Service in der Glum...,"['Wohnung', '•', 'Lutherstadt', 'Eisleben', 'Lutherstadt', 'Eisleben']","['Balkon', 'EBK']",Miete zzgl. NK 310 €,Wohnfläche ca. 51 m²,Zi. 2,133,15
-18,selObject_40374498,Mieterticket inklusive! Wohnen mit Service,"['Wohnung', '•', 'Lutherstadt', 'Eisleben', 'Lutherstadt', 'Eisleben']",['Balkon'],Miete zzgl. NK 320 €,Wohnfläche ca. 53 m²,Zi. 2,133,15
-19,selObject_40373259,"Wunderschöne NEU sanierte 2,5-Raum Wohnung","['Wohnung', '•', 'Merseburg', 'Merseburg']","['Balkon', 'Garten']",Miete zzgl. NK 390 €,Wohnfläche ca. 60 m²,"Zi. 2,5",133,15
-20,selObject_40365777,"große 3- R.-W. im DG in Bismark, Bahnhofstr.","['Wohnung', '•', 'Bismark', 'Bismark']",[],Miete zzgl. NK 336 €,Wohnfläche ca. 84 m²,Zi. 3,133,15
-21,selObject_40343537,Großzügige 2-Raumwohnung in Naumburg,"['Wohnung', '•', 'Naumburg', 'Beuditz']",[],"Miete zzgl. NK 364,50 €",Wohnfläche ca. 66 m²,Zi. 2,133,15
-22,selObject_40322347,nahe des Geiseltalsees gelegene ruhige 2-Zi.-Whg. mit...,"['Erdgeschosswohnung', '•', 'Mücheln']",[],Miete zzgl. NK 268 €,Wohnfläche ca. 51 m²,Zi. 2,133,15
-23,selObject_40318689,3 Zi. ruhig mit Blick über die Elbe,"['Wohnung', '•', 'Magdeburg', 'Salbke']",['Garten'],Miete zzgl. NK 330 €,Wohnfläche ca. 60 m²,Zi. 2,133,15
-24,selObject_40315676,Renovieren - Einziehen - Fertig,"['Dachgeschosswohnung', '•', 'Bitterfeld-Wolfen', 'Bitterfeld']",[],Miete zzgl. NK 330 €,Wohnfläche ca. 68 m²,Zi. 2,133,15
-25,selObject_40305336,**renovierte 3-Raum-Wohnung mit Balkon im Grünen**,"['Etagenwohnung', '•', 'Dessau-Roßlau', 'Süd']",['Balkon'],Miete zzgl. NK 288 €,Wohnfläche ca. 57 m²,Zi. 3,133,15
-26,selObject_40305209,** Kleine Familien Wohnung - Sie müssen nur noch einzi...,"['Apartment', '•', 'Dessau-Roßlau', 'Süd']",['Balkon'],Miete zzgl. NK 320 €,Wohnfläche ca. 57 m²,Zi. 3,133,15
+0,selObject_40209774,Frisch renovierte Wohlfühloase - Jetzt Einzugsgutschei...,"[['Etagenwohnung', '•', 'Lutherstadt', 'Eisleben', 'Lutherstadt', 'Eisleben']]",['Balkon'],Miete zzgl. NK 283 €,Wohnfläche ca. 57 m²,Zi. 2,133,15
+1,selObject_40188791,Mieterticket inklusive! 3 Zimmer in beliebter Lage,"[['Wohnung', '•', 'Lutherstadt', 'Eisleben', 'Lutherstadt', 'Eisleben']]",[],Miete zzgl. NK 300 €,Wohnfläche ca. 60 m²,Zi. 3,133,15
+2,selObject_40167781,Viel Platz für wenig Geld! + 750 EUR Gutschein*!,"[['Etagenwohnung', '•', 'Burg', 'Burg']]",['Balkon'],"Miete zzgl. NK 288,12 €",Wohnfläche ca. 69 m²,Zi. 3,133,15
+3,selObject_40166688,"Wer hier oben wohnt, der wird belohnt!+ 1000 EUR Neumi...","[['Etagenwohnung', '•', 'Burg', 'Burg']]",['Balkon'],"Miete zzgl. NK 283,92 €",Wohnfläche ca. 68 m²,Zi. 3,133,15
+4,selObject_40165073,Top renovierte 3-Zimmer-Wohnung mit Einbauküche und...,"[['Etagenwohnung', '•', 'Halle', 'Westliche', 'Neustadt']]","['Balkon', 'EBK']",Miete zzgl. NK 344 €,Wohnfläche ca. 67 m²,Zi. 3,133,15
+5,selObject_40157878,Perfekt geschnittene Wohnung! + 1000 EUR Gutschein!*,"[['Etagenwohnung', '•', 'Burg', 'Burg']]",['Balkon'],"Miete zzgl. NK 283,92 €",Wohnfläche ca. 68 m²,Zi. 3,133,15
+6,selObject_40155569,"Gemütliche 3-Zimmer-Wohnung, perfekt für Kleinfamilien...","[['Etagenwohnung', '•', 'Lutherstadt', 'Eisleben', 'Lutherstadt', 'Eisleben']]",['Balkon'],"Miete zzgl. NK 281,10 €",Wohnfläche ca. 69 m²,Zi. 3,133,15
+7,selObject_40126034,"Preiswerte 2 Wohnung ,wohnen über der Stadt in MD-St...","[['Dachgeschosswohnung', '•', 'Magdeburg', 'Stadtfeld', 'Ost']]",['EBK'],Miete zzgl. NK 352 €,Wohnfläche ca. 64 m²,Zi. 2,133,15
+8,selObject_40107252,Ankommen. Daheim sein. Ruhe finden!,"[['Wohnung', '•', 'Oschersleben', 'Schermcke']]",['Balkon'],Miete zzgl. NK 260 €,Wohnfläche ca. 61 m²,Zi. 2,133,15
+9,selObject_40105552,Schöne 2-Zimmer-Wohnung wartet auf Sie,"[['Etagenwohnung', '•', 'Lutherstadt', 'Eisleben', 'Lutherstadt', 'Eisleben']]",['Balkon'],Miete zzgl. NK 283 €,Wohnfläche ca. 57 m²,Zi. 2,133,15
+10,selObject_40072253,Hübsche 2-Zimmer-Dachgeschosswohnung,"[['Dachgeschosswohnung', '•', 'Zeitz', 'Zeitz']]",[],Miete zzgl. NK 330 €,Wohnfläche ca. 83 m²,Zi. 2,133,15
+11,selObject_40072252,Moderne und helle 2-Zimmer-Wohnung,"[['Wohnung', '•', 'Zeitz', 'Zeitz']]",[],Miete zzgl. NK 330 €,Wohnfläche ca. 82 m²,Zi. 2,133,15
+12,selObject_40024354,2 freie Wohnungen mit jeweils 3 Zimmern und Balkon,"[['Etagenwohnung', '•', 'Salzwedel', 'Pretzier']]",['Balkon'],Miete zzgl. NK 300 €,Wohnfläche ca. 60 m²,Zi. 3,133,15
+13,selObject_40011229,"°3-Zimmer-Wohnung mit Loggia, ebenerdigen Aufzug &...","[['Wohnung', '•', 'Magdeburg', 'Neue', 'Neustadt']]",[],"Miete zzgl. NK 395,52 €",Wohnfläche ca. 66 m²,Zi. 3,133,15
+14,selObject_40011116,"...so leicht geht wohnen! 3-Zimmer-Wohnung mit Loggia,...","[['Wohnung', '•', 'Magdeburg', 'Neue', 'Neustadt']]",[],"Miete zzgl. NK 395,52 €",Wohnfläche ca. 66 m²,Zi. 3,133,15
+15,selObject_39996129,Auch für Studentenpärchen,"[['Dachgeschosswohnung', '•', 'Halle', 'Heide', 'Nord']]",['Balkon'],"Miete zzgl. NK 298,43 €",Wohnfläche ca. 57 m²,Zi. 2,133,15
+16,selObject_39994646,Schick und bezahlbar!,"[['Dachgeschosswohnung', '•', 'Köthen']]",[],Miete zzgl. NK 325 €,Wohnfläche ca. 71 m²,Zi. 3,133,15
+17,selObject_39992114,Große und helle 2 Zimmer Erdgeschosswohnung,"[['Erdgeschosswohnung', '•', 'Halle', 'Damaschkestraße']]",[],Miete zzgl. NK 364 €,Wohnfläche ca. 56 m²,Zi. 2,133,15
+18,selObject_39991246,Helle 3 Zimmer Wohnung in der südlichen Innenstadt,"[['Etagenwohnung', '•', 'Halle', 'Lutherplatz']]",[],Miete zzgl. NK 412 €,Wohnfläche ca. 66 m²,Zi. 3,133,15
+19,selObject_39936034,voll möblierte Wohnung auf halben Weg zwischen Halle...,"[['Dachgeschosswohnung', '•', 'Schkopau', 'Röglitz']]",['EBK'],Preis Auf Anfrage,Wohnfläche ca. 90 m²,Zi. 3,133,15
+20,selObject_39934507,Sanierte 3-Zimmer-Wohnung mit Balkon,"[['Wohnung', '•', 'Zeitz', 'Zeitz']]",['Balkon'],Miete zzgl. NK 275 €,Wohnfläche ca. 60 m²,Zi. 3,133,15
+21,selObject_39856167,"Mieterticket inklusive! Kompakt und Gemütlich, Betreuu...","[['Wohnung', '•', 'Lutherstadt', 'Eisleben', 'Lutherstadt', 'Eisleben']]",[],Miete zzgl. NK 200 €,Wohnfläche ca. 24 m²,Zi. 1,133,15
+22,selObject_39760562,3 ZKB Wohnung im Zentrum von Dessau-Roßlau zu vermiete...,"[['Etagenwohnung', '•', 'Dessau-Roßlau', 'Innenstadt']]",[],Miete zzgl. NK 400 €,Wohnfläche ca. 95 m²,Zi. 3,133,15
+23,selObject_39758666,Ruhige 2 Zimmer Wohnung im Erdgeschoß,"[['Erdgeschosswohnung', '•', 'Magdeburg', 'Cracau']]","['Balkon', 'EBK']",Miete zzgl. NK 442 €,Wohnfläche ca. 65 m²,Zi. 2,133,15
+24,selObject_39677372,"1-Raum Erker-Wohnung,1.o.2. OG mit sep.Küche+Bad m.Wan...","[['Etagenwohnung', '•', 'Aschersleben', 'Aschersleben']]",[],Miete zzgl. NK 195 €,Wohnfläche ca. 36 m²,Zi. 1,133,15
+25,selObject_39656455,2-Raum-Wohnung in Kuhfelde - frei ab sofort,"[['Dachgeschosswohnung', '•', 'Kuhfelde', 'Kuhfelde']]",['Balkon'],Miete zzgl. NK 310 €,Wohnfläche ca. 66 m²,Zi. 2,133,15
+26,selObject_39513801,Schillerstraße 6 - Zweiraumwohnung im Dach sucht neuen...,"[['Dachgeschosswohnung', '•', 'Mücheln']]",['Garten'],Miete zzgl. NK 310 €,Wohnfläche ca. 60 m²,Zi. 2,133,15

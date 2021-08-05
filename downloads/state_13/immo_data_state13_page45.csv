@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_39157941,Singlewohnung - 1-Raumwohung wir für Sie renoviert,"['Wohnung', '•', 'Schwerin', 'Mueßer', 'Holz']",[],Miete zzgl. NK 138 €,Wohnfläche ca. 23 m²,Zi. 1,45,13
-1,selObject_39014792,Kleine sofort bezugsfertige 3-Raumwohnung im Erdgescho...,"['Erdgeschosswohnung', '•', 'Schwerin', 'Mueßer', 'Holz']",[],Miete zzgl. NK 320 €,Wohnfläche ca. 58 m²,Zi. 3,45,13
-2,selObject_39014187,Ihr neues Zuhause - Renovierte 4-Raumwohnung in Schwer...,"['Etagenwohnung', '•', 'Schwerin', 'Mueßer', 'Holz']",[],Miete zzgl. NK 422 €,Wohnfläche ca. 70 m²,Zi. 4,45,13
-3,selObject_39013562,"Entspannt umziehen - ZWEI KALTMIETEN GESCHENKT, renovi...","['Etagenwohnung', '•', 'Schwerin', 'Mueßer', 'Holz']",['Balkon'],Miete zzgl. NK 270 €,Wohnfläche ca. 56 m²,Zi. 3,45,13
-4,selObject_38906931,~ Gut geschnittene Wohnung in der Innenstadt! ~,"['Etagenwohnung', '•', 'Schwerin', 'Paulsstadt']",['Garten'],Miete zzgl. NK 320 €,Wohnfläche ca. 53 m²,Zi. 2,45,13
-5,selObject_38094670,"Zimmer in Senioren/Pflege- Wohngemeinschaft, Erstbezug...","['Erdgeschosswohnung', '•', 'Dummerstorf', 'Dummerstorf']","['Garten', 'EBK']",Miete zzgl. NK 480 €,Wohnfläche ca. 37 m²,Zi. 12,45,13
-6,selObject_37916561,2 Zimmer in Boizenburg,"['Etagenwohnung', '•', 'Boizenburg', 'Boizenburg']",[],Miete zzgl. NK 287 €,Wohnfläche ca. 53 m²,Zi. 2,45,13
-7,selObject_37916519,Schöne 3-Zimmer-Wohnung für Familien in Boizenburg,"['Etagenwohnung', '•', 'Boizenburg', 'Boizenburg']",[],Miete zzgl. NK 318 €,Wohnfläche ca. 64 m²,Zi. 3,45,13
-8,selObject_37816996,Parchim: großzügige 3-Zimmer-Wohnung (mit Balkon u....,"['Wohnung', '•', 'Parchim', 'Parchim']",['Balkon'],Miete zzgl. NK 349 €,Wohnfläche ca. 69 m²,Zi. 3,45,13
-9,selObject_37548297,Wohnen in Pasewalk 3 Zimmer,"['Wohnung', '•', 'Pasewalk', 'Pasewalk']",[],Miete zzgl. NK 270 €,Wohnfläche ca. 60 m²,Zi. 3,45,13
-10,selObject_37241745,Wohnen im Grünen,"['Wohnung', '•', 'Stralendorf']",[],Miete zzgl. NK 334 €,Wohnfläche ca. 59 m²,Zi. 3,45,13
-11,selObject_36548373,attraktive Seniorenwohnungen (Betreutes Wohnen) - Mien...,"['Etagenwohnung', '•', 'Stralsund', 'Altstadt']",[],"Miete zzgl. NK 215,77 €",Wohnfläche ca. 39 m²,,45,13
-12,selObject_31001604,1-Raum-Wohnung in Wildberg,"['Dachgeschosswohnung', '•', 'Wildberg', 'Wildberg']",[],Miete zzgl. NK 150 €,Wohnfläche ca. 34 m²,Zi. 1,45,13
-13,selObject_36154938,2-Zimmer ***2-Monate mietfrei und Küchenzuschuss***,"['Wohnung', '•', 'Neukalen', 'Neukalen']",[],"Miete zzgl. NK 341,70 €",Wohnfläche ca. 67 m²,Zi. 2,45,13
-14,selObject_35844672,3 Raum-Wohnung in ruhiger Lage in MV,"['Etagenwohnung', '•', 'Wolde', 'Wolde']","['Garten', 'EBK']",Miete zzgl. NK 280 €,Wohnfläche ca. 62 m²,Zi. 3,45,13
-15,selObject_35350175,Mietwohnung - Innenausbau mitgestalten,"['Wohnung', '•', 'Groß', 'Godems']",[],Miete zzgl. NK 490 €,Wohnfläche ca. 95 m²,Zi. 3,45,13
-16,selObject_35206401,Familien willkommen!,"['Etagenwohnung', '•', 'Hagenow']","['Balkon', 'EBK']",Miete zzgl. NK 355 €,Wohnfläche ca. 83 m²,Zi. 5,45,13
-17,selObject_35206320,Hier wohnen Sie richtig!,"['Etagenwohnung', '•', 'Hagenow']","['Balkon', 'EBK']",Miete zzgl. NK 336 €,Wohnfläche ca. 79 m²,"Zi. 3,5",45,13
-18,selObject_35206221,"Familien willkommen, Kinder erwünscht!","['Etagenwohnung', '•', 'Hagenow']","['Balkon', 'EBK']",Miete zzgl. NK 355 €,Wohnfläche ca. 83 m²,Zi. 5,45,13
-19,selObject_34778081,Gewerberaum im Zentrum von Anklam,"['Erdgeschosswohnung', '•', 'Anklam', 'Anklam']",[],"Miete zzgl. NK 1.227,59 €",Wohnfläche ca. 94 m²,Zi. 3,45,13
-20,selObject_34771193,Ruhige 2 Erdgeschosswohnung,"['Wohnung', '•', 'Pasewalk', 'Pasewalk']",[],"Miete zzgl. NK 241,49 €",Wohnfläche ca. 50 m²,Zi. 2,45,13
-21,selObject_33672717,3-Raum Wohnung in Dömitz von privat,"['Wohnung', '•', 'Dömitz', 'Dömitz']",['EBK'],Miete zzgl. NK 259 €,Wohnfläche ca. 58 m²,Zi. 3,45,13
-22,selObject_31991710,BUSCH-IMMOBILIEN ~ Etagenwohnung mit Fahrstuhl!,"['Etagenwohnung', '•', 'Güstrow', 'Güstrow']",['EBK'],Miete zzgl. NK 400 €,Wohnfläche ca. 67 m²,Zi. 2,45,13
-23,selObject_31776507,4 Raum-Wohnung mit Balkon und Badewanne,"['Wohnung', '•', 'Anklam', 'Anklam']",['Balkon'],"Miete zzgl. NK 306,32 €",Wohnfläche ca. 76 m²,Zi. 4,45,13
-24,selObject_31482848,Wohnen auf dem Lande,"['Wohnung', '•', 'Obere', 'Warnow']",[],Miete zzgl. NK 280 €,Wohnfläche ca. 62 m²,Zi. 3,45,13
-25,selObject_31316831,3 1/2 Raum - Wohnung,"['Etagenwohnung', '•', 'Bützow', 'Bützow']",['Balkon'],Miete zzgl. NK 476 €,Wohnfläche ca. 84 m²,"Zi. 3,5",45,13
-26,selObject_31020501,"Sehr schöne 3 Zimmerwohnung, mit Abstellraum und Terra...","['Erdgeschosswohnung', '•', 'Greifswald', 'Fettenvorstadt']",[],Miete zzgl. NK 730 €,Wohnfläche ca. 74 m²,Zi. 3,45,13
+0,selObject_35206320,Hier wohnen Sie richtig!,"[['Etagenwohnung', '•', 'Hagenow']]","['Balkon', 'EBK']",Miete zzgl. NK 336 €,Wohnfläche ca. 79 m²,"Zi. 3,5",45,13
+1,selObject_35206221,"Familien willkommen, Kinder erwünscht!","[['Etagenwohnung', '•', 'Hagenow']]","['Balkon', 'EBK']",Miete zzgl. NK 355 €,Wohnfläche ca. 83 m²,Zi. 5,45,13
+2,selObject_34778081,Gewerberaum im Zentrum von Anklam,"[['Erdgeschosswohnung', '•', 'Anklam', 'Anklam']]",[],"Miete zzgl. NK 1.227,59 €",Wohnfläche ca. 94 m²,Zi. 3,45,13
+3,selObject_34771193,Ruhige 2 Erdgeschosswohnung,"[['Wohnung', '•', 'Pasewalk', 'Pasewalk']]",[],"Miete zzgl. NK 241,49 €",Wohnfläche ca. 50 m²,Zi. 2,45,13
+4,selObject_33672717,3-Raum Wohnung in Dömitz von privat,"[['Wohnung', '•', 'Dömitz', 'Dömitz']]",['EBK'],Miete zzgl. NK 259 €,Wohnfläche ca. 58 m²,Zi. 3,45,13
+5,selObject_31776507,4 Raum-Wohnung mit Balkon und Badewanne,"[['Wohnung', '•', 'Anklam', 'Anklam']]",['Balkon'],"Miete zzgl. NK 306,32 €",Wohnfläche ca. 76 m²,Zi. 4,45,13
+6,selObject_31482848,Wohnen auf dem Lande,"[['Wohnung', '•', 'Obere', 'Warnow']]",[],Miete zzgl. NK 280 €,Wohnfläche ca. 62 m²,Zi. 3,45,13
+7,selObject_31316831,3 1/2 Raum - Wohnung,"[['Etagenwohnung', '•', 'Bützow', 'Bützow']]",['Balkon'],Miete zzgl. NK 476 €,Wohnfläche ca. 84 m²,"Zi. 3,5",45,13
+8,selObject_31020501,"Sehr schöne 3 Zimmerwohnung, mit Abstellraum und Terra...","[['Erdgeschosswohnung', '•', 'Greifswald', 'Fettenvorstadt']]",[],Miete zzgl. NK 730 €,Wohnfläche ca. 74 m²,Zi. 3,45,13
+9,selObject_31001399,3-Raum-Wohnung in Wildberg,"[['Etagenwohnung', '•', 'Wildberg', 'Wildberg']]",[],Miete zzgl. NK 310 €,Wohnfläche ca. 62 m²,Zi. 3,45,13
+10,selObject_30421867,Preiswertes Wohnen auf dem Lande,"[['Erdgeschosswohnung', '•', 'Tessenow', 'Tessenow']]",['EBK'],Miete zzgl. NK 310 €,Wohnfläche ca. 63 m²,Zi. 3,45,13
+11,selObject_29904319,Wohnen in Lankow bei der SWG,"[['Etagenwohnung', '•', 'Schwerin', 'Lankow']]",['Balkon'],"Miete zzgl. NK 316,58 €",Wohnfläche ca. 58 m²,"Zi. 2,5",45,13
+12,selObject_29868785,große 2-Raum-Wohnung mit EBK,"[['Etagenwohnung', '•', 'Waren', 'Waren']]",[],Miete zzgl. NK 335 €,Wohnfläche ca. 60 m²,Zi. 2,45,13
+13,selObject_29529997,2 2/2 Zimmerwohnung am Rande von Neu-Zippendorf,"[['Etagenwohnung', '•', 'Schwerin', 'Neu', 'Zippendorf']]",['Balkon'],"Miete zzgl. NK 343,15 €",Wohnfläche ca. 69 m²,"Zi. 2,2",45,13
+14,selObject_28531830,"Schöne Wohnung, schöner Ausblick!","[['Etagenwohnung', '•', 'Schwerin', 'Neu', 'Zippendorf']]",['Balkon'],Miete zzgl. NK 309 €,Wohnfläche ca. 58 m²,Zi. 3,45,13
+15,selObject_27767101,1-Raum-Wohnung mit Terrasse,"[['Souterrainwohnung', '•', 'Kritzmow', 'Kritzmow']]",['Garten'],Miete zzgl. NK 395 €,Wohnfläche ca. 44 m²,Zi. 1,45,13
+16,selObject_27658583,2 Raum-Wohnung in ruhiger Lage in MV,"[['Etagenwohnung', '•', 'Tützpatz', 'Tützpatz']]",[],Miete zzgl. NK 230 €,Wohnfläche ca. 47 m²,Zi. 2,45,13
+17,selObject_27358092,Sie haben noch Kündigungsfrist? Kein Problem,"[['Etagenwohnung', '•', 'Schwerin', 'Neu', 'Zippendorf']]",['Balkon'],Miete zzgl. NK 375 €,Wohnfläche ca. 68 m²,Zi. 3,45,13
+18,selObject_27243040,"große 2-Raumwohnung mit Balkon, Bad mit Fenster","[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Parchim', 'Parchim']]",['Balkon'],Miete zzgl. NK 355 €,Wohnfläche ca. 69 m²,Zi. 2,45,13
+19,selObject_27033099,Einfach besser wohnen!,"[['Etagenwohnung', '•', 'Hagenow']]","['Balkon', 'EBK']",Miete zzgl. NK 410 €,Wohnfläche ca. 80 m²,"Zi. 3,5",45,13
+20,selObject_26284344,Nachmieter gesucht! Diese Wohnung könnte bald Ihr neue...,"[['Etagenwohnung', '•', 'Schwerin', 'Großer', 'Dreesch']]",['Balkon'],Miete zzgl. NK 375 €,Wohnfläche ca. 58 m²,Zi. 3,45,13
+21,selObject_25654272,3-Raumwohnung,"[['Wohnung', '•', 'Kriesow', 'Kriesow']]",[],Miete zzgl. NK 275 €,Wohnfläche ca. 69 m²,Zi. 3,45,13
+22,selObject_25454844,2-Raumwohnung,"[['Erdgeschosswohnung', '•', 'Wolde', 'Reinberg']]",[],Miete zzgl. NK 240 €,Wohnfläche ca. 49 m²,Zi. 2,45,13
+23,selObject_25422286,3-Raumwohnung,"[['Etagenwohnung', '•', 'Breesen', 'Breesen']]",[],Miete zzgl. NK 260 €,Wohnfläche ca. 58 m²,Zi. 3,45,13
+24,selObject_25419865,2-Raum-Wohnung,"[['Etagenwohnung', '•', 'Groß', 'Teetzleben', 'Groß', 'Teetzleben']]",['EBK'],Miete zzgl. NK 250 €,Wohnfläche ca. 46 m²,Zi. 2,45,13
+25,selObject_25000530,Komfort im Dachgeschoss - 3-Zimmer-Wohnung mit Süd-Bal...,"[['Wohnung', '•', 'Schwerin', 'Paulsstadt']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 945 €,Wohnfläche ca. 90 m²,Zi. 3,45,13
+26,selObject_24507864,NETTE NACHBARN GESUCHT,"[['Etagenwohnung', '•', 'Schwerin', 'Neu', 'Zippendorf']]",['Balkon'],"Miete zzgl. NK 285,70 €",Wohnfläche ca. 57 m²,"Zi. 2,5",45,13

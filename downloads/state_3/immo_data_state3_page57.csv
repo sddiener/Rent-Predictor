@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44808376,Großzügige 4-Zimmer Wohnung mit Balkon,"['Dachgeschosswohnung', '•', 'Vechta', 'Vechta']",['Balkon'],Miete zzgl. NK 700 €,Wohnfläche ca. 134 m²,Zi. 4,57,3
-1,selObject_44808335,Moderne Dachgeschosswohnung im Stadtzentrum,"['Dachgeschosswohnung', '•', 'Wilhelmshaven', 'Innenstadt']",['EBK'],Miete zzgl. NK 350 €,Wohnfläche ca. 57 m²,Zi. 2,57,3
-2,selObject_44808290,***2 Zimmer Wohnung im charmanten Fachwerkhaus***,"['Etagenwohnung', '•', 'Wagenfeld', 'Wagenfeld']",['EBK'],Miete zzgl. NK 325 €,Wohnfläche ca. 58 m²,Zi. 2,57,3
-3,selObject_44808236,WG Zimmer (Nr. 7+8) in Polizeischüler Wohngemeinschaft,"['Dachgeschosswohnung', '•', 'Hann.', 'Münden', 'Hann.', 'Münden']",['EBK'],Miete zzgl. NK 270 €,Wohnfläche ca. 20 m²,Zi. 2,57,3
-4,selObject_44808217,Wohnung mit einer Dusche,"['Wohnung', '•', 'Salzgitter', 'Lebenstedt']",[],Miete zzgl. NK 330 €,Wohnfläche ca. 59 m²,Zi. 3,57,3
-5,selObject_44808186,NANOS - Studenten aufgepasst!,"['Etagenwohnung', '•', 'Hannover', 'Nordstadt']",['EBK'],"Miete zzgl. NK 290,65 €",Wohnfläche ca. 25 m²,Zi. 1,57,3
-6,selObject_44807766,Moderne topzentrale 2 Zi.- Erdgeschosswhg. mit Terrass...,"['Erdgeschosswohnung', '•', 'Lastrup', 'Lastrup']",[],Miete zzgl. NK 450 €,Wohnfläche ca. 71 m²,Zi. 2,57,3
-7,selObject_44807167,Seniorengerechtes Wohnen im Pflegezentrum Rethem: Wohn...,"['Dachgeschosswohnung', '•', 'Rethem', 'Rethem']",[],"Miete zzgl. NK 297,36 €",Wohnfläche ca. 49 m²,Zi. 2,57,3
-8,selObject_44806711,Selten: Ruhige 1-Zi-Wohnung mit separater Küche und...,"['Etagenwohnung', '•', 'Wolfenbüttel', 'Stadtgebiet']",['EBK'],Miete zzgl. NK 260 €,Wohnfläche ca. 26 m²,Zi. 1,57,3
-9,selObject_44806635,*Erstbezug - Exklusive 2-Zimmer-Wohnung* Wohnpark Nied...,"['Etagenwohnung', '•', 'Tostedt', 'Langeloh']","['Balkon', 'EBK']",Miete zzgl. NK 770 €,Wohnfläche ca. 70 m²,Zi. 2,57,3
-10,selObject_44806631,*Erstbezug - Exklusive 3-Zimmer-Wohnung* Wohnpark Nied...,"['Etagenwohnung', '•', 'Tostedt', 'Langeloh']","['Balkon', 'EBK']",Miete zzgl. NK 880 €,Wohnfläche ca. 80 m²,Zi. 3,57,3
-11,selObject_44806436,Besonderes Wohnen in der NOGA-Villa,"['Souterrainwohnung', '•', 'Stade', 'Stade']",['EBK'],Miete zzgl. NK 895 €,Wohnfläche ca. 118 m²,Zi. 5,57,3
-12,selObject_44806379,Helle 4-Zimmer-Wohnung in Anderten,"['Etagenwohnung', '•', 'Hannover', 'Anderten']","['Garten', 'EBK']",Miete zzgl. NK 995 €,Wohnfläche ca. 106 m²,Zi. 4,57,3
-13,selObject_44806129,Sonnige 3-Zimmer-Wohnung im Herzen von Fleestedt,"['Etagenwohnung', '•', 'Seevetal', 'Fleestedt']",['EBK'],Miete zzgl. NK 750 €,Wohnfläche ca. 76 m²,Zi. 3,57,3
-14,selObject_44806070,"2,0-Zimmer-Wohnung in Ronnenberg Empelde","['Etagenwohnung', '•', 'Ronnenberg', 'Empelde']",['Balkon'],"Miete zzgl. NK 438,63 €",Wohnfläche ca. 49 m²,Zi. 2,57,3
-15,selObject_44806072,"Schicke, sanierte Dachgeschosswohnung in Jemgum","['Dachgeschosswohnung', '•', 'Jemgum', 'Jemgum']","['Balkon', 'EBK']",Miete zzgl. NK 495 €,Wohnfläche ca. 75 m²,Zi. 3,57,3
-16,selObject_44805945,"Schick! Schick! ACHIM-Uphusen- 3,5 ZKB Maisonette mit...","['Maisonette', '•', 'Achim', 'Uphusen']","['Balkon', 'EBK']",Miete zzgl. NK 800 €,Wohnfläche ca. 85 m²,"Zi. 3,5",57,3
-17,selObject_44805936,Mit tollem Ausblick! Sanierte 3-Zimmer-Wohnung zu verg...,"['Etagenwohnung', '•', 'Braunschweig', 'Weststadt']",['Balkon'],Miete zzgl. NK 540 €,Wohnfläche ca. 75 m²,Zi. 3,57,3
-18,selObject_44805891,5998 - PALAISGARTEN - Moderne Obergeschosswohnung in...,"['Etagenwohnung', '•', 'Rastede', 'Rastederberg']",['Balkon'],Miete zzgl. NK 680 €,Wohnfläche ca. 71 m²,Zi. 2,57,3
-19,selObject_44805747,Jaderberg: Gemütliche Singlewohnung in einem ruhigen...,"['Dachgeschosswohnung', '•', 'Jade', 'Jaderberg']","['Balkon', 'EBK']",Miete zzgl. NK 480 €,Wohnfläche ca. 66 m²,Zi. 2,57,3
-20,selObject_44805541,"Wohnung, 01. OG, rechts, Rohrkamp 2","['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']",[],Miete zzgl. NK 271 €,Wohnfläche ca. 49 m²,Zi. 2,57,3
-21,selObject_44805461,Eine ansprechende Neubauwohnung im Obergeschoss mit...,"['Dachgeschosswohnung', '•', 'Nenndorf']",['EBK'],Miete zzgl. NK 650 €,Wohnfläche ca. 85 m²,Zi. 4,57,3
-22,selObject_44805202,Schöne Aussichten: Genießen Sie das Leben in Ihrer...,"['Etagenwohnung', '•', 'Göttingen', 'Weende']","['Balkon', 'EBK']","Miete zzgl. NK 669,25 €",Wohnfläche ca. 76 m²,Zi. 3,57,3
-23,selObject_44805137,SENIORENANLAGE ab 60 Jahren - 2-Zimmer-Wohnung - Nur...,"['Etagenwohnung', '•', 'Laatzen', 'Laatzen-Mitte']",['Balkon'],"Miete zzgl. NK 348,90 €",Wohnfläche ca. 60 m²,Zi. 2,57,3
-24,selObject_44803122,"Nachmieter Suche in Braunschweig 2 Zimmer,Voll eingeri...","['Wohnung', '•', 'Braunschweig', 'Braunschweig']","['Garten', 'EBK']","Miete zzgl. NK 358,87 €",Wohnfläche ca. 43 m²,Zi. 2,57,3
-25,selObject_44800867,"Helle 2 ZKB-DG-Wohnung in Vechta, ab sofort, zu vermie...","['Dachgeschosswohnung', '•', 'Vechta', 'Vechta']",[],Miete zzgl. NK 480 €,Wohnfläche ca. 70 m²,Zi. 2,57,3
-26,selObject_44800720,Wohnen in ruhiger Lage,"['Etagenwohnung', '•', 'Bad', 'Harzburg', 'Bad', 'Harzburg']",['Balkon'],"Miete zzgl. NK 267,14 €",Wohnfläche ca. 49 m²,Zi. 2,57,3
+0,selObject_44842806,2 Zimmer-Wohnung in ländlicher Lage zu vermieten,"[['Etagenwohnung', '•', 'Bassum', 'Nordwohlde']]","['Balkon', 'EBK']",Miete zzgl. NK 375 €,Wohnfläche ca. 42 m²,Zi. 2,57,3
+1,selObject_44842620,Hochwertiger Neubau - KFW 55 - Modernes Wohnen in Rosd...,"[['Maisonette', '•', 'Rosdorf', 'Mengershausen']]",['Balkon'],Miete zzgl. NK 790 €,Wohnfläche ca. 80 m²,Zi. 3,57,3
+2,selObject_44842486,5390 - Gut geschnittene 3-Zimmer-Wohnung mit Balkon!,"[['Etagenwohnung', '•', 'Oldenburg', 'Kreyenbrück']]",[],Miete zzgl. NK 599 €,Wohnfläche ca. 76 m²,Zi. 3,57,3
+3,selObject_44842350,Studierende aufgepasst! Mehrere Zimmer in 4er WG frei...,"[['Zimmer', '•', 'Lüneburg', 'Bockelsberg']]",['Garten'],Miete zzgl. NK 240 €,Wohnfläche ca. 18 m²,,57,3
+4,selObject_44842190,Obergeschosswohnung mit 3 Zimmern am Randkanal in Wars...,"[['Etagenwohnung', '•', 'Moormerland', 'Warsingsfehn']]","['Balkon', 'EBK']",Miete zzgl. NK 750 €,Wohnfläche ca. 98 m²,Zi. 3,57,3
+5,selObject_44842184,"Exklusive, gemütliche große Fachwerk-Wohnung mit neuem...","[['Etagenwohnung', '•', 'Hameln', 'Klein', 'Berkel']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 590 €,Wohnfläche ca. 96 m²,Zi. 3,57,3
+6,selObject_44842110,Azubis und Studierende aufgepasst! 1-Zimmer Appartemen...,"[['Apartment', '•', 'Lüneburg', 'Bockelsberg']]",[],Miete zzgl. NK 305 €,Wohnfläche ca. 28 m²,Zi. 1,57,3
+7,selObject_44841287,heimelige 2-Zimmer-Whg. über den Dächern der Peiner...,"[['Dachgeschosswohnung', '•', 'Peine', 'Kernstadt', 'Nord']]",['Garten'],Miete zzgl. NK 454 €,Wohnfläche ca. 65 m²,Zi. 2,57,3
+8,selObject_44841264,Traumhafte 2-Zimmer Wohnung zentral gelegen in Winsen,"[['Etagenwohnung', '•', 'Winsen', 'Winsen']]",['EBK'],Miete zzgl. NK 550 €,Wohnfläche ca. 56 m²,Zi. 2,57,3
+9,selObject_44841221,1 Zimmer App. in Weende/Uni Nord,"[['Apartment', '•', 'Göttingen', 'Göttingen']]",[],Miete zzgl. NK 300 €,Wohnfläche ca. 17 m²,Zi. 1,57,3
+10,selObject_44840970,"Sonnige, ruhige Wohnung im grünen Rosdorf!","[['Etagenwohnung', '•', 'Rosdorf', 'Rosdorf']]",['Balkon'],Miete zzgl. NK 461 €,Wohnfläche ca. 71 m²,Zi. 3,57,3
+11,selObject_44840925,Bad Harzburg-Zentrum 2 Zi. Whg. mit Westbalkon in eine...,"[['Etagenwohnung', '•', 'Bad', 'Harzburg', 'Bad', 'Harzburg']]","['Balkon', 'EBK']",Miete zzgl. NK 325 €,Wohnfläche ca. 50 m²,Zi. 2,57,3
+12,selObject_44840448,schöne 2-Zimmerwohnung in Rosdorf,"[['Etagenwohnung', '•', 'Rosdorf', 'Rosdorf']]",['Balkon'],Miete zzgl. NK 329 €,Wohnfläche ca. 47 m²,Zi. 2,57,3
+13,selObject_44839801,Große 3-Zimmer-Wohnung im grünen Rosdorf!!,"[['Etagenwohnung', '•', 'Rosdorf', 'Rosdorf']]",['Balkon'],Miete zzgl. NK 475 €,Wohnfläche ca. 73 m²,Zi. 3,57,3
+14,selObject_44839729,"Wunderschöne, gepflegte Wohnung in ruhiger Lage in...","[['Erdgeschosswohnung', '•', 'Delmenhorst', 'Düsternort']]",['Balkon'],Miete zzgl. NK 380 €,Wohnfläche ca. 63.386 m²,Zi. 2,57,3
+15,selObject_44839722,"Exklusive 3-Zi.-Penthousewohnung (Neubau), Süd-Dachter...","[['Penthouse', '•', 'Bad', 'Zwischenahn', 'Specken']]","['Balkon', 'Garten']",Miete zzgl. NK 1.320 €,Wohnfläche ca. 107 m²,Zi. 3,57,3
+16,selObject_44839479,TOP ANGEBOT: Große 3-Zimmer-Wohnung mit Dusche*,"[['Wohnung', '•', 'Salzgitter', 'Lebenstedt']]",[],Miete zzgl. NK 362 €,Wohnfläche ca. 72 m²,Zi. 3,57,3
+17,selObject_44839478,3 Monate Kaltmiete geschenkt!!,"[['Wohnung', '•', 'Salzgitter', 'Lebenstedt']]",[],Miete zzgl. NK 340 €,Wohnfläche ca. 68 m²,Zi. 3,57,3
+18,selObject_44839476,Wohnen unter dem Dach mit TOP Angebot,"[['Wohnung', '•', 'Salzgitter', 'Lebenstedt']]",[],Miete zzgl. NK 315 €,Wohnfläche ca. 63 m²,Zi. 2,57,3
+19,selObject_44839389,Große Dachgeschosswohnung,"[['Wohnung', '•', 'Salzgitter', 'Lebenstedt']]",[],Miete zzgl. NK 341 €,Wohnfläche ca. 68 m²,Zi. 2,57,3
+20,selObject_44839362,Schöne 3-Zimmer-Wohnung,"[['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']]",[],Miete zzgl. NK 313 €,Wohnfläche ca. 59 m²,Zi. 3,57,3
+21,selObject_44839354,Helle 2-Zimmer-Dachgeschoss-Wohnung mit Loggia!,"[['Dachgeschosswohnung', '•', 'Stade', 'Stade']]","['Balkon', 'EBK']",Miete zzgl. NK 647 €,Wohnfläche ca. 84 m²,Zi. 2,57,3
+22,selObject_44839319,3-Zimmer-Wohnung mit Dusche und Wanne,"[['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']]",[],Miete zzgl. NK 341 €,Wohnfläche ca. 66 m²,Zi. 3,57,3
+23,selObject_44839286,"Schöne 2,5-Zimmer-EG-Wohnung wartet auf neue Bewohner","[['Erdgeschosswohnung', '•', 'Barsinghausen', 'Barsinghausen']]",[],"Miete zzgl. NK 478,85 €",Wohnfläche ca. 61 m²,"Zi. 2,5",57,3
+24,selObject_44837945,"Erstbezug: Hochwertige 2,5-Zimmer-Wohnung mit überdach...","[['Wohnung', '•', 'Harsefeld', 'Harsefeld']]",['EBK'],Miete zzgl. NK 875 €,Wohnfläche ca. 70 m²,"Zi. 2,5",57,3
+25,selObject_44837943,Hochwertige 2-Zimmer-Wohnung mit überdachter Dachterra...,"[['Wohnung', '•', 'Harsefeld', 'Harsefeld']]",['EBK'],Miete zzgl. NK 940 €,Wohnfläche ca. 75 m²,Zi. 2,57,3
+26,selObject_44837481,2 Zimmer Wohnung mit Balkon - Wiesenhof - sofort verfü...,"[['Etagenwohnung', '•', 'Wilhelmshaven', 'Aldenburg']]",['Balkon'],Miete zzgl. NK 327 €,Wohnfläche ca. 53 m²,Zi. 2,57,3

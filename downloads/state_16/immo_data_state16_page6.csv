@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_45010749,NEU Wohnen im Kastanienpark - Erstbezug nach Sanierung,"['Etagenwohnung', '•', 'Bad', 'Langensalza', 'Bad', 'Langensalza']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 450 €,Wohnfläche ca. 71 m²,Zi. 3,6,16
-1,selObject_45010743,NEU Gemütliche DG-Wohnung | Für Singles oder Berufseinstei...,"['Dachgeschosswohnung', '•', 'Erfurt', 'Johannesvorstadt']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 360 €,Wohnfläche ca. 43 m²,Zi. 2,6,16
-2,selObject_45010630,NEU +++ frisch renovierte 2 Zimmer Wohnung im Erfurter...,"['Wohnung', '•', 'Erfurt', 'Ilversgehofen']","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 400 €,Wohnfläche ca. 50 m²,Zi. 2,6,16
-3,selObject_45010278,NEU Luftige Zweizimmerwohnung! Balkon vorgesehen! Nahe...,"['Etagenwohnung', '•', 'Erfurt', 'Melchendorf']","['NEU', 'NEU', 'EBK']","Miete zzgl. NK 274,05 €",Wohnfläche ca. 37 m²,Zi. 2,6,16
-4,selObject_45009681,NEU 440 m² Mietflächen im GFZ - Gesundheits- und Fachplege...,"['Zimmer', '•', 'Weimar', 'Weststadt']","['NEU', 'NEU']",Miete zzgl. NK 4.400 €,Wohnfläche ca. 440 m²,,6,16
-5,selObject_45009675,"NEU Super helle 2 Zimmer-Wohnung, alles in der Nähe!","['Dachgeschosswohnung', '•', 'Ronneburg', 'Ronneburg']","['NEU', 'NEU']",Miete zzgl. NK 330 €,Wohnfläche ca. 64 m²,Zi. 2,6,16
-6,selObject_45009666,"NEU großes, helles Apartment mit Sonne durchflutet","['Dachgeschosswohnung', '•', 'Ronneburg', 'Ronneburg']","['NEU', 'NEU']",Miete zzgl. NK 200 €,Wohnfläche ca. 69 m²,Zi. 1,6,16
-7,selObject_45009658,"NEU schöne 2 Raumwohnung mit Fahrstuhl, Balkon","['Wohnung', '•', 'Gera', 'Innenstadt']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 360 €,Wohnfläche ca. 71 m²,Zi. 2,6,16
-8,selObject_45009656,NEU großzügige 4 Zimmerwohnung am Kaffeetrichter mit 2...,"['Etagenwohnung', '•', 'Erfurt', 'Löbervorstadt']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 1.100 €,Wohnfläche ca. 156 m²,Zi. 4,6,16
-9,selObject_45009655,"NEU Schicke 2-Raum-Wohnung,Küche und Bad mit Fenster +...","['Etagenwohnung', '•', 'Eisenach', 'Eisenach']","['NEU', 'NEU']",Miete zzgl. NK 300 €,Wohnfläche ca. 50 m²,"Zi. 2,5",6,16
-10,selObject_45009651,NEU AF10W1: Sehr schöne 3-Zimmer-Wohnung mit Terasse,"['Erdgeschosswohnung', '•', 'Arnstadt', 'Arnstadt']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 490 €,Wohnfläche ca. 86 m²,Zi. 3,6,16
-11,selObject_45009644,NEU W08: Schöne Wohnung mit Dachterrasse!,"['Wohnung', '•', 'Gotha', 'Gotha']","['NEU', 'NEU']",Miete zzgl. NK 280 €,Wohnfläche ca. 34 m²,Zi. 1,6,16
-12,selObject_45009636,NEU 2 Raumwohnung in der Walkmühlstr. zu vermieten. Nur...,"['Etagenwohnung', '•', 'Erfurt', 'Brühlervorstadt']","['NEU', 'NEU']",Miete zzgl. NK 356 €,Wohnfläche ca. 50 m²,Zi. 2,6,16
-13,selObject_45009635,NEU nur schriftliche Anfragen!!! 3 Raumwohnung in Daberste...,"['Etagenwohnung', '•', 'Erfurt', 'Daberstedt']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 549 €,Wohnfläche ca. 76 m²,Zi. 3,6,16
-14,selObject_45009595,NEU Sanierte 4-Raum-Wohnung im Altbau mit Badewanne,"['Etagenwohnung', '•', 'Gera', 'Ostviertel']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 513,63 €",Wohnfläche ca. 88 m²,Zi. 4,6,16
-15,selObject_45009439,NEU Erstbezug nach Sanierung: 1-Zimmer-Single-Wohnung mit...,"['Kein', 'Bild']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 280 €,Wohnfläche ca. 34 m²,Zi. 1,6,16
-16,selObject_45008635,NEU Greiz - 3-Zimmer-Wohnung mit Terrasse und EBK,"['Maisonette', '•', 'Greiz', 'Greiz']","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 335 €,Wohnfläche ca. 60 m²,Zi. 3,6,16
-17,selObject_45008616,"NEU 2-Zi.-Wohnung mit Balkon im 1. OG, zentrumsnah und...","['Etagenwohnung', '•', 'Mühlhausen', 'Mühlhausen']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 260 €,Wohnfläche ca. 43 m²,Zi. 2,6,16
-18,selObject_45008579,NEU 3-Zimmer-Wohnung mit Terrasse und kleine Vorgarten,"['Wohnung', '•', 'Jena', 'Winzerla']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 660 €,Wohnfläche ca. 75 m²,Zi. 3,6,16
-19,selObject_45008052,NEU Kurstadt Bad Salzungen - renovierte 3-Zimmer-Wohnung...,"['Wohnung', '•', 'Bad', 'Salzungen', 'Bad', 'Salzungen']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 360 €,Wohnfläche ca. 64 m²,Zi. 3,6,16
-20,selObject_45008027,NEU Ruhig wohnen in der Innenstadt * sanierte * ruhig...,"['Etagenwohnung', '•', 'Erfurt', 'Löbervorstadt']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 1.053 €,Wohnfläche ca. 96 m²,Zi. 3,6,16
-21,selObject_45007813,NEU Kleine DG Wohnung in denkmalgeschützter Villa In Pößne...,"['Dachgeschosswohnung', '•', 'Pößneck', 'Pößneck,Stadt']","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 350 €,Wohnfläche ca. 50 m²,Zi. 2,6,16
-22,selObject_45007578,"NEU Schönes Single-Apartment im Einzeldenkmal ""Am Horn in...","['Etagenwohnung', '•', 'Weimar', 'Westvorstadt']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 357 €,Wohnfläche ca. 42 m²,Zi. 1,6,16
-23,selObject_45007575,NEU Schöne 2-Zimmer-Wohnung mit Balkon und Einbauküche,"['Wohnung', '•', 'Jena', 'Winzerla']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 530 €,Wohnfläche ca. 59 m²,Zi. 2,6,16
-24,selObject_45007573,"NEU 6,5-Zimmer-Geschäfts/Zahnarztpraxis zu vermieten","['Wohnung', '•', 'Bad', 'Köstritz', 'Bad', 'Köstritz']","['NEU', 'NEU']",Miete zzgl. NK 650 €,Wohnfläche ca. 100 m²,"Zi. 6,5",6,16
-25,selObject_45007012,"NEU !! Schicke 4-RWG mit Einbauküche in ruhiger, gepflegte...","['Etagenwohnung', '•', 'Meuselwitz', 'Mumsdorf']","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 385 €,Wohnfläche ca. 77 m²,Zi. 4,6,16
-26,selObject_45005000,NEU Frisch sanierte 3-Raum-Wohnung in der Johannesvorstadt,"['Apartment', '•', 'Erfurt', 'Johannesvorstadt']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 512 €,Wohnfläche ca. 64 m²,Zi. 3,6,16
+0,selObject_45035394,NEU Familienwohnung in toller Lage,"[['Wohnung', '•', 'Gotha', 'Gotha']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 345 €,Wohnfläche ca. 59 m²,Zi. 3,6,16
+1,selObject_45035395,NEU Wir suchen einen Nachmieter/-in,"[['Wohnung', '•', 'Suhl', 'Suhl']]","['NEU', 'NEU']","Miete zzgl. NK 346,02 €",Wohnfläche ca. 57 m²,Zi. 3,6,16
+2,selObject_45035389,NEU Wohnen auf dem schönen Lautenberg,"[['Wohnung', '•', 'Suhl', 'Suhl']]","['NEU', 'NEU']","Miete zzgl. NK 358,38 €",Wohnfläche ca. 61 m²,Zi. 3,6,16
+3,selObject_45035388,NEU Wir haben den Schlüssel zu Ihrer neuen Wohnung!,"[['Wohnung', '•', 'Suhl', 'Suhl']]","['NEU', 'NEU']","Miete zzgl. NK 171,16 €",Wohnfläche ca. 31 m²,Zi. 1,6,16
+4,selObject_45035364,NEU Großzügige 2-Zimmer-Wohnung mit Balkon und Einbauküche,"[['Etagenwohnung', '•', 'Erfurt', 'Krämpfervorstadt']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 582 €,Wohnfläche ca. 68 m²,Zi. 2,6,16
+5,selObject_45035331,NEU Wohnen mit Ausblick,"[['Souterrainwohnung', '•', 'Heilbad', 'Heiligenstadt', 'Heilbad', 'Heiligenstadt']]","['NEU', 'NEU']",Miete zzgl. NK 700 €,Wohnfläche ca. 75 m²,"Zi. 2,5",6,16
+6,selObject_45035315,NEU BESICHTIGUNGSSTOP!!! pfiffige 3 Zimmer Wohnung mit...,"[['Wohnung', '•', 'Erfurt', 'Andreasvorstadt']]","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']",Miete zzgl. NK 390 €,Wohnfläche ca. 60 m²,Zi. 3,6,16
+7,selObject_45035279,"NEU schöne DG-Wohnung, Geschwister Scholl Str. 16","[['Dachgeschosswohnung', '•', 'Erfurt', 'Schwerborn']]","['NEU', 'NEU']",Miete zzgl. NK 425 €,Wohnfläche ca. 51 m²,Zi. 3,6,16
+8,selObject_45035250,NEU Singlewohnung,"[['Wohnung', '•', 'Gotha', 'Gotha']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 250 €,Wohnfläche ca. 44 m²,Zi. 2,6,16
+9,selObject_45035165,NEU Sanierte 3-Raum-Wohnung mieten,"[['Wohnung', '•', 'Gotha', 'Gotha']]","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 430 €,Wohnfläche ca. 70 m²,Zi. 3,6,16
+10,selObject_45034844,NEU Singlewohnung,"[['Wohnung', '•', 'Gotha', 'Gotha']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 240 €,Wohnfläche ca. 42 m²,Zi. 2,6,16
+11,selObject_45034282,NEU Super schöne Familienwohnung,"[['Wohnung', '•', 'Altenburg', 'Altenburg']]","['NEU', 'NEU']",Miete zzgl. NK 344 €,Wohnfläche ca. 65 m²,Zi. 3,6,16
+12,selObject_45034272,NEU Den Sternen nah,"[['Dachgeschosswohnung', '•', 'Altenburg', 'Altenburg']]","['NEU', 'NEU']",Miete zzgl. NK 337 €,Wohnfläche ca. 64 m²,Zi. 3,6,16
+13,selObject_45034179,NEU Erfrischende 3 Zimmerwohnung | EBK | mit Balkon in...,"[['Etagenwohnung', '•', 'Gera', 'Scheubengrobsdorf']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 380 €,Wohnfläche ca. 60 m²,Zi. 3,6,16
+14,selObject_45033815,"NEU helle, gemütliche 2 Raum-Wohnung in Gera Debschwitz","[['Etagenwohnung', '•', 'Gera', 'Debschwitz']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 219 €,Wohnfläche ca. 44 m²,Zi. 2,6,16
+15,selObject_45033028,NEU Erfurt 2-Zimmer-Mietwohnung,"[['Wohnung', '•', 'Erfurt', 'Erfurt-Altstadt']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 550 €,Wohnfläche ca. 49 m²,Zi. 2,6,16
+16,selObject_45032723,NEU 2 Zi- Whg. im 1.OG mit großer Essküche,"[['Wohnung', '•', 'Gera', 'Innenstadt']]","['NEU', 'NEU']",Miete zzgl. NK 270 €,Wohnfläche ca. 56 m²,Zi. 2,6,16
+17,selObject_45032675,NEU Jetzt 620 € SPAREN!,"[['Etagenwohnung', '•', 'Gera', 'Lusan']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 310 €,Wohnfläche ca. 59 m²,Zi. 3,6,16
+18,selObject_45032550,"NEU Hochwertige 3-Zimmer-Wohnung mit Balkon, Einbauküche...","[['Wohnung', '•', 'Weimar']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 900 €,Wohnfläche ca. 91 m²,Zi. 3,6,16
+19,selObject_45032460,NEU Maisonettewohnung mitten in der Erfurter Altstadt,"[['Dachgeschosswohnung', '•', 'Erfurt', 'Erfurt-Altstadt']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 650 €,Wohnfläche ca. 72 m²,Zi. 2,6,16
+20,selObject_45032397,NEU EG-Wohnung mit neuer Einbauküche,"[['Erdgeschosswohnung', '•', 'Greiz', 'Greiz']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 220 €,Wohnfläche ca. 50 m²,"Zi. 1,5",6,16
+21,selObject_45032377,"NEU Helle, möblierte 1-Zimmer-Wohnung zur Zwischenmiete","[['Wohnung', '•', 'Erfurt', 'Johannesvorstadt']]","['NEU', 'NEU', 'EBK']",Miete inkl. NK 380 €,Wohnfläche ca. 23 m²,Zi. 1,6,16
+22,selObject_45032075,NEU barrierefreie 2-Zimmer-Wohnung im Zentrum von Blankenh...,"[['Erdgeschosswohnung', '•', 'Blankenhain', 'Blankenhain']]","['NEU', 'NEU']",Miete zzgl. NK 522 €,Wohnfläche ca. 95 m²,Zi. 2,6,16
+23,selObject_45032035,"NEU 2-Raum-Wohnung, Weimar, Am Jakobskirchhof 1","[['Wohnung', '•', 'Weimar', 'Altstadt']]","['NEU', 'NEU']",Miete zzgl. NK 460 €,Wohnfläche ca. 50 m²,Zi. 2,6,16
+24,selObject_45032025,NEU * Kleines Schmuckstück im Herzen der Stadt *,"[['Wohnung', '•', 'Gera', 'Innenstadt']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 270 €,Wohnfläche ca. 44 m²,Zi. 2,6,16
+25,selObject_45032016,"NEU 3-Raum-Wohnung, Weimar, Kaunaser Straße 36","[['Wohnung', '•', 'Weimar', 'Weststadt']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 337 €,Wohnfläche ca. 61 m²,Zi. 3,6,16
+26,selObject_45032017,"NEU 3-Raum-Wohnung, Weimar, Prager Straße 36","[['Wohnung', '•', 'Weimar', 'Weststadt']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 370 €,Wohnfläche ca. 74 m²,Zi. 3,6,16

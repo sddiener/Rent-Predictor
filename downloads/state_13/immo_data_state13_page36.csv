@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_43992143,Nachmieter gesucht für 3-Rwg. 4. Etage am schönen Reit...,"['Wohnung', '•', 'Neubrandenburg', 'Reitbahnviertel']",[],Miete zzgl. NK 270 €,Wohnfläche ca. 60 m²,Zi. 3,36,13
-1,selObject_43986784,Schöne gemütliche 2 Zimmer-Wohnung im Zentrum,"['Dachgeschosswohnung', '•', 'Neustrelitz', 'Stadtmitte']",[],Miete zzgl. NK 300 €,Wohnfläche ca. 46 m²,Zi. 2,36,13
-2,selObject_43973233,Wohnen in Lankow I 4-RW,"['Etagenwohnung', '•', 'Schwerin', 'Lankow']",['Balkon'],Miete zzgl. NK 459 €,Wohnfläche ca. 66 m²,Zi. 4,36,13
-3,selObject_43972891,"~ Nahe Zentrum, Badewanne, Balkon ~","['Wohnung', '•', 'Schwerin', 'Paulsstadt']",['Balkon'],Miete zzgl. NK 450 €,Wohnfläche ca. 51 m²,Zi. 2,36,13
-4,selObject_43970663,2-Raum-Wohnungen in Stretense provisionsfrei zu vermie...,"['Wohnung', '•', 'Anklam', 'Stretense']",['Balkon'],Miete zzgl. NK 235 €,Wohnfläche ca. 47 m²,Zi. 2,36,13
-5,selObject_43949156,Güstrow - schöne 3-Zimmerwohnung mit Balkon zu vermiet...,"['Wohnung', '•', 'Güstrow', 'Güstrow']",['Balkon'],Miete zzgl. NK 350 €,Wohnfläche ca. 58 m²,Zi. 3,36,13
-6,selObject_43949140,Feldstadt 2 Zimmer Hochparterre,"['Erdgeschosswohnung', '•', 'Schwerin', 'Feldstadt']",['EBK'],Miete zzgl. NK 400 €,Wohnfläche ca. 53 m²,Zi. 2,36,13
-7,selObject_43947702,2 und 3-Raumwohnungen in Groß Stieten unweit von Wisma...,"['Etagenwohnung', '•', 'Groß', 'Stieten']",['Balkon'],Miete zzgl. NK 350 €,Wohnfläche ca. 60 m²,Zi. 3,36,13
-8,selObject_43936373,Für Sonnenanbeter!,"['Etagenwohnung', '•', 'Schwerin', 'Mueßer', 'Holz']",['Balkon'],Miete zzgl. NK 379 €,Wohnfläche ca. 72 m²,Zi. 4,36,13
-9,selObject_43932104,4-Zimmer Wohnung in Berge- Süd,"['Etagenwohnung', '•', 'Bergen', 'Bergen']",[],"Miete zzgl. NK 343,62 €",Wohnfläche ca. 72 m²,Zi. 4,36,13
-10,selObject_43931885,2-Raum-Wohnung in gefragter Lage zu vermieten!,"['Wohnung', '•', 'Stralsund', 'Frankenvorstadt']",[],Miete zzgl. NK 380 €,Wohnfläche ca. 40 m²,Zi. 2,36,13
-11,selObject_43931217,WG-Zimmer direkt am Marktplatz,"['Etagenwohnung', '•', 'Greifswald', 'Innenstadt']",['EBK'],Miete zzgl. NK 252 €,Wohnfläche ca. 21 m²,Zi. 1,36,13
-12,selObject_43929900,+++ Exklusive 5 Zimmerwohnung mit ca.138 qm direkt in...,"['Etagenwohnung', '•', 'Cölpin', 'Cölpin']",['Garten'],Miete zzgl. NK 650 €,Wohnfläche ca. 138 m²,Zi. 5,36,13
-13,selObject_43918616,Geräumige 2-Raum-Maisonette-Wohnung ab Juli zu vermiet...,"['Dachgeschosswohnung', '•', 'Neustadt-Glewe', 'Neustadt-Glewe']",['EBK'],"Miete zzgl. NK 418,19 €",Wohnfläche ca. 58 m²,Zi. 2,36,13
-14,selObject_43900823,Dorf Mecklenburg zw. Wismar Schwerin: helle 2R Erdgesc...,"['Apartment', '•', 'Dorf', 'Mecklenburg']","['Garten', 'EBK']",Miete zzgl. NK 278 €,Wohnfläche ca. 31 m²,Zi. 2,36,13
-15,selObject_43870263,"Schönes Studentenzimmer mit Aufzug, Balkon und EBK in...","['Etagenwohnung', '•', 'Stralsund', 'Altstadt']","['Balkon', 'EBK']",Miete zzgl. NK 190 €,Wohnfläche ca. 30 m²,Zi. 1,36,13
-16,selObject_43858339,2-1/2 Zimmer mit Badewanne und Balkon,"['Etagenwohnung', '•', 'Stralsund', 'Tribseer', 'Wiesen']",['Balkon'],Miete zzgl. NK 312 €,Wohnfläche ca. 66 m²,Zi. 3,36,13
-17,selObject_43841338,"HRO-Bahnhofsviertel, 5 Zi. Whg. mit Balkon zu verm.","['Wohnung', '•', 'Rostock', 'Stadtmitte']","['Balkon', 'EBK']",Miete zzgl. NK 1.800 €,Wohnfläche ca. 165 m²,Zi. 5,36,13
-18,selObject_43838209,3 Zimmer-Wohnung mit Balkon am Platz der Freiheit zu...,"['Kein', 'Bild']",[],Miete zzgl. NK 670 €,Wohnfläche ca. 90 m²,Zi. 3,36,13
-19,selObject_43836276,Schöne 4-Zimmer-Wohnung für die ganze Familie in Boize...,"['Etagenwohnung', '•', 'Boizenburg', 'Boizenburg']",[],Miete zzgl. NK 372 €,Wohnfläche ca. 79 m²,Zi. 4,36,13
-20,selObject_43836217,Renovierte 2-Zimmer-Wohnung in Boizenburg-Metlitz,"['Etagenwohnung', '•', 'Boizenburg', 'Boizenburg']",['Balkon'],Miete zzgl. NK 286 €,Wohnfläche ca. 56 m²,Zi. 2,36,13
-21,selObject_43835355,Sanierte 2-Zimmerwohnung zu vermieten,"['Kein', 'Bild']",['EBK'],Miete zzgl. NK 320 €,Wohnfläche ca. 58 m²,Zi. 2,36,13
-22,selObject_43801545,2-Zimmerwohnung in Hagenow-Land,"['Dachgeschosswohnung', '•', 'Hagenow']",[],Miete zzgl. NK 300 €,Wohnfläche ca. 55 m²,Zi. 2,36,13
-23,selObject_43792907,EINZIEHEN UND WOHLFÜHLEN!!! Schöne Wohnung mit sehr...,"['Etagenwohnung', '•', 'Güstrow', 'Güstrow']",['EBK'],Miete zzgl. NK 462 €,Wohnfläche ca. 77 m²,Zi. 3,36,13
-24,selObject_43780906,2-Zimmer-Wohnung mit Blick aufs Grüne,"['Wohnung', '•', 'Boizenburg', 'Boizenburg']","['Balkon', 'EBK']",Miete zzgl. NK 306 €,Wohnfläche ca. 56 m²,Zi. 2,36,13
-25,selObject_43768300,ERSTBEZUG nach Sanierung!,"['Etagenwohnung', '•', 'Güstrow', 'Güstrow']",['Balkon'],Miete zzgl. NK 340 €,Wohnfläche ca. 64 m²,Zi. 3,36,13
-26,selObject_43765592,3-Zimmer-Wohnung in Boizenburg - Perfekt für Paare,"['Etagenwohnung', '•', 'Boizenburg', 'Boizenburg']",['Balkon'],Miete zzgl. NK 317 €,Wohnfläche ca. 66 m²,Zi. 3,36,13
+0,selObject_43929900,+++ Exklusive 5 Zimmerwohnung mit ca.138 qm direkt in...,"[['Etagenwohnung', '•', 'Cölpin', 'Cölpin']]",['Garten'],Miete zzgl. NK 650 €,Wohnfläche ca. 138 m²,Zi. 5,36,13
+1,selObject_43918616,Geräumige 2-Raum-Maisonette-Wohnung ab Juli zu vermiet...,"[['Dachgeschosswohnung', '•', 'Neustadt-Glewe', 'Neustadt-Glewe']]",['EBK'],"Miete zzgl. NK 418,19 €",Wohnfläche ca. 58 m²,Zi. 2,36,13
+2,selObject_43900823,Dorf Mecklenburg zw. Wismar Schwerin: helle 2R Erdgesc...,"[['Apartment', '•', 'Dorf', 'Mecklenburg']]","['Garten', 'EBK']",Miete zzgl. NK 278 €,Wohnfläche ca. 31 m²,Zi. 2,36,13
+3,selObject_43870263,"Schönes Studentenzimmer mit Aufzug, Balkon und EBK in...","[['Etagenwohnung', '•', 'Stralsund', 'Altstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 190 €,Wohnfläche ca. 30 m²,Zi. 1,36,13
+4,selObject_43858339,2-1/2 Zimmer mit Badewanne und Balkon,"[['Etagenwohnung', '•', 'Stralsund', 'Tribseer', 'Wiesen']]",['Balkon'],Miete zzgl. NK 312 €,Wohnfläche ca. 66 m²,Zi. 3,36,13
+5,selObject_43841338,"HRO-Bahnhofsviertel, 5 Zi. Whg. mit Balkon zu verm.","[['Wohnung', '•', 'Rostock', 'Stadtmitte']]","['Balkon', 'EBK']",Miete zzgl. NK 1.800 €,Wohnfläche ca. 165 m²,Zi. 5,36,13
+6,selObject_43838209,3 Zimmer-Wohnung mit Balkon am Platz der Freiheit zu...,"[['Kein', 'Bild'], ['Apartment', '•', 'Schwerin']]",[],Miete zzgl. NK 670 €,Wohnfläche ca. 90 m²,Zi. 3,36,13
+7,selObject_43836276,Schöne 4-Zimmer-Wohnung für die ganze Familie in Boize...,"[['Etagenwohnung', '•', 'Boizenburg', 'Boizenburg']]",[],Miete zzgl. NK 372 €,Wohnfläche ca. 79 m²,Zi. 4,36,13
+8,selObject_43836217,Renovierte 2-Zimmer-Wohnung in Boizenburg-Metlitz,"[['Etagenwohnung', '•', 'Boizenburg', 'Boizenburg']]",['Balkon'],Miete zzgl. NK 286 €,Wohnfläche ca. 56 m²,Zi. 2,36,13
+9,selObject_43835355,Sanierte 2-Zimmerwohnung zu vermieten,"[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Crivitz', 'Crivitz']]",['EBK'],Miete zzgl. NK 320 €,Wohnfläche ca. 58 m²,Zi. 2,36,13
+10,selObject_43801545,2-Zimmerwohnung in Hagenow-Land,"[['Dachgeschosswohnung', '•', 'Hagenow']]",[],Miete zzgl. NK 300 €,Wohnfläche ca. 55 m²,Zi. 2,36,13
+11,selObject_43792907,EINZIEHEN UND WOHLFÜHLEN!!! Schöne Wohnung mit sehr...,"[['Etagenwohnung', '•', 'Güstrow', 'Güstrow']]",['EBK'],Miete zzgl. NK 462 €,Wohnfläche ca. 77 m²,Zi. 3,36,13
+12,selObject_43780906,2-Zimmer-Wohnung mit Blick aufs Grüne,"[['Wohnung', '•', 'Boizenburg', 'Boizenburg']]","['Balkon', 'EBK']",Miete zzgl. NK 306 €,Wohnfläche ca. 56 m²,Zi. 2,36,13
+13,selObject_43768300,ERSTBEZUG nach Sanierung!,"[['Etagenwohnung', '•', 'Güstrow', 'Güstrow']]",['Balkon'],Miete zzgl. NK 340 €,Wohnfläche ca. 64 m²,Zi. 3,36,13
+14,selObject_43765592,3-Zimmer-Wohnung in Boizenburg - Perfekt für Paare,"[['Etagenwohnung', '•', 'Boizenburg', 'Boizenburg']]",['Balkon'],Miete zzgl. NK 317 €,Wohnfläche ca. 66 m²,Zi. 3,36,13
+15,selObject_43765585,3-Zimmer-Wohnung in Bengerstorf,"[['Etagenwohnung', '•', 'Klein', 'Bengerstorf']]",[],Miete zzgl. NK 301 €,Wohnfläche ca. 55 m²,Zi. 3,36,13
+16,selObject_43765560,Familiengeeignete 3-Zimmer-Wohnung in Boizenburg,"[['Etagenwohnung', '•', 'Boizenburg', 'Boizenburg']]",['Balkon'],Miete zzgl. NK 335 €,Wohnfläche ca. 70 m²,Zi. 3,36,13
+17,selObject_43746811,Große 1 Zimmer-Wohnung mit gehobener Ausstattung und...,"[['Apartment', '•', 'Schwerin', 'Werdervorstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 479 €,Wohnfläche ca. 50 m²,Zi. 1,36,13
+18,selObject_43718846,1-Raum-Wohnung in Pripsleben provisionsfrei zu vermiet...,"[['Dachgeschosswohnung', '•', 'Pripsleben', 'Pripsleben']]",[],Miete zzgl. NK 160 €,Wohnfläche ca. 35 m²,Zi. 1,36,13
+19,selObject_43670383,2-Raum-Wohnung im Amtsgarten Neubukow,"[['Dachgeschosswohnung', '•', 'Neubukow', 'Neubukow']]",[],Miete zzgl. NK 400 €,Wohnfläche ca. 59 m²,Zi. 2,36,13
+20,selObject_43657910,Neue Einbauküche inkl. Erstbezug nach kompletter Renov...,"[['Etagenwohnung', '•', 'Ramin', 'Ramin']]","['Garten', 'EBK']","Miete zzgl. NK 321,44 €",Wohnfläche ca. 65 m²,Zi. 3,36,13
+21,selObject_43655287,Wohnung in Lübz,"[['Etagenwohnung', '•', 'Lübz', 'Lübz']]",['EBK'],Miete zzgl. NK 550 €,Wohnfläche ca. 75 m²,Zi. 3,36,13
+22,selObject_43653792,VERMIETET! helle 2 Zimmerwohnung in der Schweriner...,"[['Wohnung', '•', 'Schwerin', 'Schelfstadt']]",['EBK'],"Miete zzgl. NK 396,30 €",Wohnfläche ca. 61 m²,Zi. 2,36,13
+23,selObject_43620779,große 3 Raum - Wohnung,"[['Etagenwohnung', '•', 'Bützow', 'Bützow']]",['Balkon'],Miete zzgl. NK 500 €,Wohnfläche ca. 84 m²,Zi. 3,36,13
+24,selObject_43620762,2 Raum-Wohnung,"[['Etagenwohnung', '•', 'Bützow', 'Bützow']]",['Balkon'],Miete zzgl. NK 267 €,Wohnfläche ca. 47 m²,Zi. 2,36,13
+25,selObject_43620625,2 1/2 Raum-Wohnung,"[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Bützow', 'Bützow']]",[],Miete zzgl. NK 329 €,Wohnfläche ca. 58 m²,"Zi. 2,5",36,13
+26,selObject_43619140,Seeblick und gehobene Ausstattung.,"[['Etagenwohnung', '•', 'Waren', 'Waren']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.489 €,Wohnfläche ca. 142 m²,Zi. 4,36,13

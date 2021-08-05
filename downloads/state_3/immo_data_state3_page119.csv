@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_41036385,Möblierte Zimmer für Montagearbeiter in Rosdorf - Meng...,"['Erdgeschosswohnung', '•', 'Rosdorf', 'Mengershausen']",[],Miete inkl. NK 260 €,Wohnfläche ca. 22 m²,Zi. 1,119,3
-1,selObject_41013007,Große 4 Zimmer Maisonette mit Südbalkon im NEUBAU,"['Dachgeschosswohnung', '•', 'Wolfsburg', 'Vorsfelde']","['Balkon', 'EBK']",Miete zzgl. NK 1.310 €,Wohnfläche ca. 125 m²,Zi. 4,119,3
-2,selObject_40998032,Dachgeschoss-Mietwohnung in zentraler Lage in Gifhorn,"['Dachgeschosswohnung', '•', 'Gifhorn', 'Gifhorn']",[],Miete zzgl. NK 640 €,Wohnfläche ca. 75 m²,Zi. 3,119,3
-3,selObject_40986663,"Tolle 3 Zimmer-Wohnung in ruhiger, zentraler Lage zu...","['Etagenwohnung', '•', 'Wilhelmshaven', 'Innenstadt']",['EBK'],Miete zzgl. NK 400 €,Wohnfläche ca. 72 m²,Zi. 3,119,3
-4,selObject_40966417,Hochwerige Neubau - KFW 55 - Modernes wohnen in Rosdor...,"['Maisonette', '•', 'Rosdorf', 'Mengershausen']",['Balkon'],Miete zzgl. NK 820 €,Wohnfläche ca. 83 m²,Zi. 3,119,3
-5,selObject_40927424,Edewecht - Hauptstraße: große 2-Zimmer-Wohnung im best...,"['Wohnung', '•', 'Edewecht', 'Edewecht']",['Balkon'],Miete zzgl. NK 500 €,Wohnfläche ca. 85 m²,Zi. 2,119,3
-6,selObject_40804089,9120/538 | helle 2-Zimmerwohnung in Geismar,"['Erdgeschosswohnung', '•', 'Göttingen', 'Göttingen']",['Garten'],Miete zzgl. NK 520 €,Wohnfläche ca. 62 m²,Zi. 2,119,3
-7,selObject_40762172,1-Zimmer-Wohnung direkt am Waldrand,"['Erdgeschosswohnung', '•', 'Soltau', 'Soltau']",[],"Miete zzgl. NK 170,89 €",Wohnfläche ca. 39 m²,Zi. 1,119,3
-8,selObject_40709807,Alpers Immobilien: - 360° Besichtigung - 3 Zimmer /...,"['Etagenwohnung', '•', 'Wilhelmshaven', 'Innenstadt']",[],Miete zzgl. NK 488 €,Wohnfläche ca. 94 m²,Zi. 3,119,3
-9,selObject_40673033,Dachgeschosswohnung im Braunschweiger Magniviertel,"['Dachgeschosswohnung', '•', 'Braunschweig', 'Innenstadt']",['EBK'],Miete zzgl. NK 335 €,Wohnfläche ca. 40 m²,Zi. 1,119,3
-10,selObject_40647227,Möbliertes M Apartment in Wolfsburg,"['Wohnung', '•', 'Wolfsburg', 'Vorsfelde']",['EBK'],Miete zzgl. NK 1.190 €,Wohnfläche ca. 40 m²,Zi. 1,119,3
-11,selObject_40647225,Möbliertes S Apartment mit Terrasse in Wolfsburg,"['Wohnung', '•', 'Wolfsburg', 'Vorsfelde']",['EBK'],Miete zzgl. NK 1.049 €,Wohnfläche ca. 24 m²,Zi. 1,119,3
-12,selObject_40647224,Möbliertes XS Apartment in Wolfsburg,"['Wohnung', '•', 'Wolfsburg', 'Vorsfelde']",[],Miete zzgl. NK 890 €,Wohnfläche ca. 22 m²,Zi. 1,119,3
-13,selObject_40647223,Möbliertes M Apartment mit Terrasse in Wolfsburg,"['Wohnung', '•', 'Wolfsburg', 'Vorsfelde']",['EBK'],Miete zzgl. NK 1.249 €,Wohnfläche ca. 40 m²,Zi. 1,119,3
-14,selObject_40306908,NEU Möblierte WG Zimmer ***Vermietung auf Zeit***,"['Etagenwohnung', '•', 'Vechta', 'Vechta']","['Balkon', 'EBK']",Miete zzgl. NK 250 €,Wohnfläche ca. 94 m²,Zi. 4,119,3
-15,selObject_40306907,BoardingHouse * WG-Zimmer möbliert *,"['Etagenwohnung', '•', 'Vechta', 'Vechta']",['EBK'],Miete zzgl. NK 350 €,Wohnfläche ca. 15 m²,Zi. 1,119,3
-16,selObject_40305591,Hochwertig möblierte Wohnung am Steimker Berg in City-...,"['Etagenwohnung', '•', 'Wolfsburg', 'Steimker', 'Berg']",['EBK'],Miete zzgl. NK 990 €,Wohnfläche ca. 71 m²,Zi. 3,119,3
-17,selObject_40249411,Neubauwohnung in Papenburg,"['Wohnung', '•', 'Papenburg', 'Papenburg']",['Balkon'],Miete zzgl. NK 520 €,Wohnfläche ca. 77 m²,Zi. 2,119,3
-18,selObject_40133433,Frisch renovierte 4-Zimmer-DG-Wohnung in der Fussgänge...,"['Dachgeschosswohnung', '•', 'Goslar', 'Altstadt']",['EBK'],Miete zzgl. NK 750 €,Wohnfläche ca. 116 m²,Zi. 4,119,3
-19,selObject_40059429,NEUBAU - Etagenwohnung in Rosdorf - Mengershausen,"['Dachgeschosswohnung', '•', 'Rosdorf', 'Mengershausen']",[],Miete zzgl. NK 1.050 €,Wohnfläche ca. 105 m²,Zi. 5,119,3
-20,selObject_39885827,"*** 2,5 -Zimmer Dachgeschoss - Neuhaus (Elbe) ***","['Dachgeschosswohnung', '•', 'Neuhaus']","['Balkon', 'EBK']",Miete zzgl. NK 415 €,Wohnfläche ca. 69 m²,"Zi. 2,5",119,3
-21,selObject_39849699,Top 3 Zimmer Wohnung am Stellmacherplatz!,"['Erdgeschosswohnung', '•', 'Wildeshausen']",[],Miete zzgl. NK 792 €,Wohnfläche ca. 99 m²,Zi. 3,119,3
-22,selObject_39834874,Nur an WE-Heimfahrer - Möbliertes Apartment mit eigene...,"['Souterrainwohnung', '•', 'Staufenberg', 'Uschlag']",[],Miete inkl. NK 370 €,Wohnfläche ca. 32 m²,Zi. 1,119,3
-23,selObject_39793948,2-Raum Wohnung in Bad Lauterberg,"['Erdgeschosswohnung', '•', 'Bad', 'Lauterberg', 'Bad', 'Lauterberg']",['Balkon'],Miete zzgl. NK 240 €,Wohnfläche ca. 40 m²,Zi. 2,119,3
-24,selObject_39793897,2-Raum Wohnung in Bad Lauterberg,"['Etagenwohnung', '•', 'Bad', 'Lauterberg', 'Bad', 'Lauterberg']",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 46 m²,Zi. 2,119,3
-25,selObject_39630916,3 Zimmerwohnung in Rosdorf - Mengershausen,"['Wohnung', '•', 'Rosdorf', 'Mengershausen']",[],Miete zzgl. NK 530 €,Wohnfläche ca. 79 m²,"Zi. 3,5",119,3
-26,selObject_39554617,SOFORT FREI! -3 ZKDB BALKON,"['Etagenwohnung', '•', 'Northeim', 'Northeim']",['Balkon'],Miete zzgl. NK 439 €,Wohnfläche ca. 81 m²,Zi. 3,119,3
+0,selObject_42085518,Schöne helle 2-Zimmer Wohnung,"[['Dachgeschosswohnung', '•', 'Salzgitter', 'Lebenstedt']]",['Balkon'],Miete zzgl. NK 390 €,Wohnfläche ca. 67 m²,Zi. 2,119,3
+1,selObject_42068584,Mietwohnung für vorgemerkte Kunden in Lohne/ Dinklage...,"[['Wohnung', '•', 'Lohne', 'Lohne']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 700 €,,Zi. 4,119,3
+2,selObject_42050042,4 Zimmer DG in Göttingen Weende,"[['Dachgeschosswohnung', '•', 'Göttingen', 'Weende']]",[],Miete zzgl. NK 600 €,Wohnfläche ca. 85 m²,Zi. 4,119,3
+3,selObject_42024490,Student's Village! Ideal für Studenten und Azubis!,"[['Etagenwohnung', '•', 'Wilhelmshaven', 'Fedderwardergroden']]",['EBK'],Miete zzgl. NK 175 €,Wohnfläche ca. 24 m²,Zi. 1,119,3
+4,selObject_42002260,***Große Auswahl an freien WG Zimmer***,"[['Wohnung', '•', 'Vechta', 'Vechta']]","['Balkon', 'EBK']",Miete zzgl. NK 140 €,Wohnfläche ca. 10 m²,Zi. 3,119,3
+5,selObject_42002185,**1 Freies WG Zimmer in 4er-WG** 220€ WARMMIETE!,"[['Wohnung', '•', 'Vechta', 'Vechta']]",['EBK'],Miete zzgl. NK 170 €,Wohnfläche ca. 12 m²,Zi. 3,119,3
+6,selObject_41928184,***GEPFLEGTE ETAGENWOHNUNG IN WHV - ZENTRAL GELEGEN***,"[['Etagenwohnung', '•', 'Wilhelmshaven', 'Fedderwardergroden']]",['EBK'],Miete zzgl. NK 330 €,Wohnfläche ca. 55 m²,Zi. 2,119,3
+7,selObject_41923551,TT bietet an: Schöne 2-Zimmer-Wohnung in Heppens!,"[['Wohnung', '•', 'Wilhelmshaven', 'Heppens']]",[],"Miete zzgl. NK 458,32 €",Wohnfläche ca. 54 m²,Zi. 2,119,3
+8,selObject_41891244,"Bezugsfrei zu sofort! Geräumige 2,5-Zimmer-Whg. im...","[['Dachgeschosswohnung', '•', 'Wilhelmshaven', 'Fedderwardergroden']]",['Garten'],"Miete zzgl. NK 349,70 €",Wohnfläche ca. 67 m²,"Zi. 2,5",119,3
+9,selObject_41884375,"Schicke, neue Apartments im Loftstyle Hotel Hannover","[['Apartment', '•', 'Hannover', 'Vahrenwald']]",[],Miete zzgl. NK 550 €,Wohnfläche ca. 20 m²,,119,3
+10,selObject_41882292,Renovierte Oberwohnung!,"[['Etagenwohnung', '•', 'Wiesmoor', 'Wiesmoor']]",[],Miete zzgl. NK 400 €,Wohnfläche ca. 70 m²,Zi. 3,119,3
+11,selObject_41868376,Betreutes Wohnen - 13 Appartements im ehemaligen Marie...,"[['Erdgeschosswohnung', '•', 'Nordhorn', 'Bimolten']]",['EBK'],"Miete zzgl. NK 429,86 €",Wohnfläche ca. 44 m²,Zi. 1,119,3
+12,selObject_41865618,Großzügige 3-Zimmer Wohnung in zentraler Lage von Amel...,"[['Erdgeschosswohnung', '•', 'Amelinghausen', 'Amelinghausen']]",['EBK'],Miete zzgl. NK 795 €,Wohnfläche ca. 120 m²,Zi. 3,119,3
+13,selObject_41838865,"Hemmingen-Devese sonnige 3,5 Zi-DG-Wohnung mit Charme!","[['Wohnung', '•', 'Hemmingen', 'Devese']]",[],Miete zzgl. NK 650 €,Wohnfläche ca. 100 m²,"Zi. 3,5",119,3
+14,selObject_41818989,Betreutes Wohnen - 13 Appartements im ehemaligen Marie...,"[['Erdgeschosswohnung', '•', 'Nordhorn', 'Bimolten']]",['EBK'],"Miete zzgl. NK 494,61 €",Wohnfläche ca. 50 m²,Zi. 1,119,3
+15,selObject_41815261,exklusive 2-Raum-Neubauwohnung im Quartier SOL,"[['Wohnung', '•', 'Soltau', 'Soltau']]","['Balkon', 'EBK']","Miete zzgl. NK 579,10 €",Wohnfläche ca. 60 m²,Zi. 2,119,3
+16,selObject_41813339,exklusive 4-Raum-Neubauwohnung im Quartier SOL,"[['Wohnung', '•', 'Soltau', 'Soltau']]","['Balkon', 'EBK']","Miete zzgl. NK 941,63 €",Wohnfläche ca. 99 m²,Zi. 4,119,3
+17,selObject_41664999,3-4-Zimmer-EG-Wohnung eines 2-Familienhauses mit Garte...,"[['Erdgeschosswohnung', '•', 'Braunschweig', 'Braunschweig']]",['Garten'],Miete zzgl. NK 1.330 €,Wohnfläche ca. 140 m²,Zi. 3,119,3
+18,selObject_41637410,"Schöne, großzügige Altbauwohnung für jeden Einrichtung...","[['Etagenwohnung', '•', 'Isernhagen', 'Isernhagen', 'K.B.']]",[],Miete zzgl. NK 1.150 €,Wohnfläche ca. 175 m²,Zi. 5,119,3
+19,selObject_41625665,****großzügig wohnen***,"[['Dachgeschosswohnung', '•', 'Bad', 'Lauterberg', 'Bad', 'Lauterberg']]",[],Miete zzgl. NK 350 €,Wohnfläche ca. 105 m²,Zi. 3,119,3
+20,selObject_41562827,2 Zimmer Single Wohnung im Herzen von Vechta,"[['Etagenwohnung', '•', 'Vechta', 'Vechta']]",[],Miete zzgl. NK 420 €,Wohnfläche ca. 35 m²,Zi. 2,119,3
+21,selObject_41547235,Freie WG-Zimmer in 5er-Mädels-WG zentrumsnah!,"[['Etagenwohnung', '•', 'Vechta', 'Vechta']]",['EBK'],Miete inkl. NK 320 €,Wohnfläche ca. 20 m²,Zi. 1,119,3
+22,selObject_41525603,3-Zimmer-Wohnung sucht neue Mieter oder Studenten - WG...,"[['Wohnung', '•', 'Clausthal-Zellerfeld', 'Clausthal-Zellerfeld']]","['Garten', 'EBK']",Miete zzgl. NK 450 €,Wohnfläche ca. 148 m²,Zi. 3,119,3
+23,selObject_41512565,Penthouse Wohnung über 2 Ebenen ruhig und zentral in ...,"[['Dachgeschosswohnung', '•', 'Buchholz', 'Buchholz']]",['EBK'],Miete zzgl. NK 1.326 €,Wohnfläche ca. 102 m²,Zi. 3,119,3
+24,selObject_41512195,3 Zimmer Neubau-Wohnung ruhig und zentral in 21244...,"[['Etagenwohnung', '•', 'Buchholz', 'Buchholz']]","['Balkon', 'EBK']",Miete zzgl. NK 1.105 €,Wohnfläche ca. 85 m²,Zi. 3,119,3
+25,selObject_41509663,RENOVIERT! 3 ZKB in Hohegeiß.,"[['Etagenwohnung', '•', 'Braunlage', 'Hohegeiß']]",[],Miete zzgl. NK 270 €,Wohnfläche ca. 62 m²,Zi. 3,119,3
+26,selObject_41482882,4 Zimmer mit Balkon in Bovenden,"[['Maisonette', '•', 'Bovenden', 'Bovenden']]",['Balkon'],Miete zzgl. NK 720 €,Wohnfläche ca. 85 m²,Zi. 4,119,3

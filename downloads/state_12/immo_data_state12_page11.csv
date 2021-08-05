@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44965179,Sonnenhöfe - Moderner Erstbezug mit sofortiger Bezugsf...,"['Etagenwohnung', '•', 'Schönefeld', 'Schönefeld']","['Balkon', 'EBK']",Miete zzgl. NK 815 €,Wohnfläche ca. 71 m²,Zi. 2,11,12
-1,selObject_44965127,Sofortiger Bezug: Moderne 2-Zimmerwohnung mit Balkon...,"['Etagenwohnung', '•', 'Schönefeld', 'Schönefeld']","['Balkon', 'EBK']",Miete zzgl. NK 795 €,Wohnfläche ca. 71 m²,Zi. 2,11,12
-2,selObject_44965108,Perfekt für Paare - raffiniert geschnittene 2-Zimmerwo...,"['Etagenwohnung', '•', 'Schönefeld', 'Waßmannsdorf']","['Balkon', 'EBK']",Miete zzgl. NK 780 €,Wohnfläche ca. 66 m²,Zi. 2,11,12
-3,selObject_44963968,Wohnen auf dem Land mit Blick in die Natur,"['Wohnung', '•', 'Jämlitz-Klein', 'Düben', 'Jämlitz']",[],Miete zzgl. NK 250 €,Wohnfläche ca. 51 m²,Zi. 2,11,12
-4,selObject_44959836,2-Zimmer im Stadtteil Igelpfuhl,"['Etagenwohnung', '•', 'Prenzlau', 'Prenzlau']",[],Miete zzgl. NK 265 €,Wohnfläche ca. 46 m²,Zi. 2,11,12
-5,selObject_44959707,WBG - 1-RWE - gut und günstig!,"['Erdgeschosswohnung', '•', 'Brandenburg', 'Hohenstücken']",[],"Miete zzgl. NK 185,93 €",Wohnfläche ca. 40 m²,Zi. 1,11,12
-6,selObject_44959401,Barrierefreie zwei Zimmer Wohnung Neubau Mittenwalde,"['Erdgeschosswohnung', '•', 'Mittenwalde', 'Mittenwalde']",[],Miete zzgl. NK 620 €,Wohnfläche ca. 52 m²,Zi. 2,11,12
-7,selObject_44958153,Möbliertes Studentenapartment Nähe Universitätscampus...,"['Etagenwohnung', '•', 'Potsdam', 'Bornstedt']",['EBK'],Miete zzgl. NK 368 €,Wohnfläche ca. 20 m²,,11,12
-8,selObject_44958154,Möbliertes Studentenapartment mit 2 Schlafräumen,"['Wohnung', '•', 'Potsdam', 'Bornstedt']",[],Miete zzgl. NK 1.123 €,Wohnfläche ca. 62 m²,,11,12
-9,selObject_44958152,Möbliertes Studentenapartment mit großzügiger Wohnfläc...,"['Wohnung', '•', 'Potsdam', 'Bornstedt']",[],Miete zzgl. NK 663 €,Wohnfläche ca. 37 m²,,11,12
-10,selObject_44958082,MIRU Potsdam - Terrassenwohnung in tollem Neubauprojek...,"['Erdgeschosswohnung', '•', 'Potsdam', 'Teltower', 'Vorstadt']","['Balkon', 'EBK']",Miete zzgl. NK 1.107 €,Wohnfläche ca. 78 m²,Zi. 3,11,12
-11,selObject_44958019,Wunschlos glücklich wohnen in toller 3-Zimmer-Wohnung...,"['Etagenwohnung', '•', 'Potsdam', 'Teltower', 'Vorstadt']","['Balkon', 'EBK']",Miete zzgl. NK 1.284 €,Wohnfläche ca. 83 m²,Zi. 3,11,12
-12,selObject_44957967,"Wohnen im MIRU, leben im Havel Quartier in Potsdam und...","['Etagenwohnung', '•', 'Potsdam', 'Teltower', 'Vorstadt']","['Balkon', 'EBK']",Miete zzgl. NK 1.346 €,Wohnfläche ca. 89 m²,Zi. 3,11,12
-13,selObject_44957913,Einmalig am Wasser Wohnen - MIRU im Havel Quartier...,"['Etagenwohnung', '•', 'Potsdam', 'Teltower', 'Vorstadt']","['Balkon', 'EBK']",Miete zzgl. NK 1.412 €,Wohnfläche ca. 95 m²,Zi. 4,11,12
-14,selObject_44957906,Wohlfühlen im MIRU und erholen direkt am Havelufer:...,"['Etagenwohnung', '•', 'Potsdam', 'Teltower', 'Vorstadt']","['Balkon', 'EBK']",Miete zzgl. NK 1.215 €,Wohnfläche ca. 78 m²,Zi. 3,11,12
-15,selObject_44957893,MIRU im Havel Quartier Potsdam - Tolle Familienwohnung...,"['Etagenwohnung', '•', 'Potsdam', 'Teltower', 'Vorstadt']","['Balkon', 'EBK']",Miete zzgl. NK 1.363 €,Wohnfläche ca. 95 m²,Zi. 4,11,12
-16,selObject_44957807,Willkommen im MIRU: Moderne 2-Zimmer-Wohnung mit Einba...,"['Erdgeschosswohnung', '•', 'Potsdam', 'Teltower', 'Vorstadt']",['EBK'],Miete zzgl. NK 620 €,Wohnfläche ca. 42 m²,Zi. 2,11,12
-17,selObject_44957039,Havel Quartier Potsdam: Schöne 2-Zimmer-Wohnung nahe...,"['Etagenwohnung', '•', 'Potsdam', 'Teltower', 'Vorstadt']","['Balkon', 'EBK']",Miete zzgl. NK 760 €,Wohnfläche ca. 53 m²,Zi. 2,11,12
-18,selObject_44956986,Havel Quartier Potsdam: Komfortable 2-Zimmer-Neubauwoh...,"['Etagenwohnung', '•', 'Potsdam', 'Teltower', 'Vorstadt']","['Balkon', 'EBK']",Miete zzgl. NK 763 €,Wohnfläche ca. 47 m²,Zi. 2,11,12
-19,selObject_44956036,Schlagen Sie zu! Super Preis-/Leistungsverhältnis.,"['Wohnung', '•', 'Forst', 'Forst-Stadt']",[],Miete zzgl. NK 339 €,Wohnfläche ca. 70 m²,Zi. 3,11,12
-20,selObject_44955714,3-Raum-Wohnung + Esszimmer und Balkon,"['Etagenwohnung', '•', 'Lübbenau', 'Lübbenau']",['Balkon'],"Miete zzgl. NK 342,72 €",Wohnfläche ca. 71 m²,Zi. 3,11,12
-21,selObject_44955711,3-Raum-Wohnung in ruhiger Lage,"['Etagenwohnung', '•', 'Lübbenau', 'Lübbenau']",['Balkon'],"Miete zzgl. NK 348,58 €",Wohnfläche ca. 60 m²,Zi. 3,11,12
-22,selObject_44955713,Ruhige Wohnlage,"['Etagenwohnung', '•', 'Altdöbern', 'Altdöbern']",['Balkon'],"Miete zzgl. NK 320,62 €",Wohnfläche ca. 66 m²,Zi. 3,11,12
-23,selObject_44955638,"3 Zimmer Wohnung 73,20 m³ im 3. OG","['Wohnung', '•', 'Prenzlau', 'Prenzlau']",[],"Miete zzgl. NK 439,20 €",Wohnfläche ca. 73 m²,Zi. 3,11,12
-24,selObject_44955609,Wohnen in der Geschwister-Scholl-Straße!,"['Kein', 'Bild']",[],Miete zzgl. NK 285 €,Wohnfläche ca. 48 m²,Zi. 2,11,12
-25,selObject_44955599,Wohnung + Garage + Garten!,"['Etagenwohnung', '•', 'Prenzlau', 'Prenzlau']",['Garten'],Miete zzgl. NK 455 €,Wohnfläche ca. 73 m²,Zi. 3,11,12
-26,selObject_44954858,2-Raum-Wohnung in der Innenstadt,"['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']",[],"Miete zzgl. NK 374,99 €",Wohnfläche ca. 54 m²,Zi. 2,11,12
+0,selObject_44974639,3-Zimmer-Wohnung im 3.OG in den Theodor-Fontane-Höfen...,"[['Etagenwohnung', '•', 'Schönefeld', 'Waßmannsdorf']]","['Balkon', 'EBK']",Miete zzgl. NK 801 €,Wohnfläche ca. 72 m²,Zi. 3,11,12
+1,selObject_44974628,Ruhige 4-Zimmer Wohnung in der City,"[['Etagenwohnung', '•', 'Brandenburg', 'Neustadt']]",[],Miete zzgl. NK 840 €,Wohnfläche ca. 120 m²,Zi. 4,11,12
+2,selObject_44972422,"schöne 2 Raum DG-Wohnung in ruhiger zentraler Lage, im...","[['Dachgeschosswohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']]","['Garten', 'EBK']","Miete zzgl. NK 343,23 €",Wohnfläche ca. 51 m²,Zi. 2,11,12
+3,selObject_44970903,Über den Wolken,"[['Wohnung', '•', 'Brandenburg', 'Hohenstücken']]",['Balkon'],Miete zzgl. NK 325 €,Wohnfläche ca. 54 m²,Zi. 3,11,12
+4,selObject_44970736,"2,5 Zimmer auf 66 m² Wfl., hier fühlen Sie sich sofort...","[['Wohnung', '•', 'Niedergörsdorf', 'Rohrbeck']]",['Garten'],Miete zzgl. NK 379 €,Wohnfläche ca. 66 m²,"Zi. 2,5",11,12
+5,selObject_44970727,WBG - 3-RWE - für die kleine Familie!,"[['Etagenwohnung', '•', 'Brandenburg', 'Hohenstücken']]",['Balkon'],"Miete zzgl. NK 319,03 €",Wohnfläche ca. 60 m²,Zi. 3,11,12
+6,selObject_44970116,"PARKSIDE - 2 Zimmer mit Loggia, EBK und Duschbad im...","[['Etagenwohnung', '•', 'Schönefeld', 'Waßmannsdorf']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 799 €,Wohnfläche ca. 55 m²,Zi. 2,11,12
+7,selObject_44970093,"PARKSIDE - 3 Zimmer mit großem Balkon, EBK und Wannenb...","[['Etagenwohnung', '•', 'Schönefeld', 'Waßmannsdorf']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 999 €,Wohnfläche ca. 70 m²,Zi. 3,11,12
+8,selObject_44970085,"PARKSIDE - 2,5 Zimmer die keine Wünsche offen lassen.....","[['Etagenwohnung', '•', 'Schönefeld', 'Waßmannsdorf']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 899 €,Wohnfläche ca. 61 m²,"Zi. 2,5",11,12
+9,selObject_44970084,"PARKSIDE - 2,5 Zimmer mit 8 qm Balkon, EBK und Duschba...","[['Etagenwohnung', '•', 'Schönefeld', 'Waßmannsdorf']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 899 €,Wohnfläche ca. 61 m²,"Zi. 2,5",11,12
+10,selObject_44970080,"PARKSIDE - helle 2 Zimmer mit 2 Balkonen, EBK und Dusc...","[['Etagenwohnung', '•', 'Schönefeld', 'Waßmannsdorf']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 859 €,Wohnfläche ca. 57 m²,Zi. 2,11,12
+11,selObject_44968756,"""Erstbezug""- Grünes Wohnen am Rande Berlins ***großer...","[['Wohnung', '•', 'Schönefeld', 'Waßmannsdorf']]","['Balkon', 'EBK']",Miete zzgl. NK 749 €,Wohnfläche ca. 55 m²,Zi. 2,11,12
+12,selObject_44968748,"""Erstbezug""- Grünes Wohnen am Rande Berlins ***großer...","[['Wohnung', '•', 'Schönefeld', 'Waßmannsdorf']]","['Balkon', 'EBK']",Miete zzgl. NK 699 €,Wohnfläche ca. 55 m²,Zi. 2,11,12
+13,selObject_44968725,Seniorengerechte Wohnungen am Markt,"[['Etagenwohnung', '•', 'Altdöbern', 'Altdöbern']]",['Balkon'],Miete zzgl. NK 441 €,Wohnfläche ca. 63 m²,Zi. 2,11,12
+14,selObject_44968438,Nur wenige Stufen in Ihr neues Zuhause,"[['Wohnung', '•', 'Cottbus', 'Mitte']]",[],"Miete zzgl. NK 334,05 €",Wohnfläche ca. 67 m²,Zi. 3,11,12
+15,selObject_44968437,Tapetenwechsel? Wie wäre es mit dieser schönen Wohnung...,"[['Wohnung', '•', 'Cottbus', 'Sachsendorf']]",['Balkon'],"Miete zzgl. NK 305,03 €",Wohnfläche ca. 59 m²,Zi. 3,11,12
+16,selObject_44968433,Schöne Wohnung im Grünen,"[['Wohnung', '•', 'Cottbus', 'Mitte']]",[],"Miete zzgl. NK 318,60 €",Wohnfläche ca. 55 m²,Zi. 3,11,12
+17,selObject_44968435,Familienfreundliches Zuhause in Cottbus,"[['Wohnung', '•', 'Cottbus', 'Schmellwitz']]",['Balkon'],"Miete zzgl. NK 344,10 €",Wohnfläche ca. 59 m²,Zi. 3,11,12
+18,selObject_44968432,Perfekt als erste eigene Wohnung,"[['Wohnung', '•', 'Cottbus', 'Spremberger', 'Vorstadt']]",['Balkon'],Miete zzgl. NK 325 €,Wohnfläche ca. 50 m²,Zi. 2,11,12
+19,selObject_44968431,Perfekt als erste eigene Wohnung,"[['Wohnung', '•', 'Cottbus', 'Ströbitz']]",['Balkon'],"Miete zzgl. NK 259,02 €",Wohnfläche ca. 45 m²,Zi. 2,11,12
+20,selObject_44968429,Schöne Wohnung mit guter Infrastruktur,"[['Wohnung', '•', 'Cottbus', 'Sandow']]",['Balkon'],"Miete zzgl. NK 283,58 €",Wohnfläche ca. 58 m²,Zi. 3,11,12
+21,selObject_44968426,Nur wenige Stufen in Ihr neues Zuhause,"[['Wohnung', '•', 'Cottbus', 'Spremberger', 'Vorstadt']]",['Balkon'],Miete zzgl. NK 345 €,Wohnfläche ca. 50 m²,Zi. 2,11,12
+22,selObject_44968428,Perfekt als erste eigene Wohnung,"[['Wohnung', '•', 'Cottbus', 'Mitte']]",[],"Miete zzgl. NK 259,69 €",Wohnfläche ca. 50 m²,Zi. 1,11,12
+23,selObject_44968423,Ihre neue Wohnung in Sandow,"[['Wohnung', '•', 'Cottbus', 'Sandow']]",['Balkon'],"Miete zzgl. NK 361,95 €",Wohnfläche ca. 72 m²,Zi. 4,11,12
+24,selObject_44968422,"Klein, aber fein. Hübsche Single-Wohnung mit Balkon","[['Wohnung', '•', 'Cottbus', 'Sandow']]",['Balkon'],"Miete zzgl. NK 204,75 €",Wohnfläche ca. 38 m²,Zi. 1,11,12
+25,selObject_44968418,Schöne Wohnung im Erdgeschoss,"[['Erdgeschosswohnung', '•', 'Cottbus', 'Mitte']]",[],"Miete zzgl. NK 318,87 €",Wohnfläche ca. 67 m²,Zi. 3,11,12
+26,selObject_44968415,Schöne Wohnung mit Stellplatz direkt vor der Tür,"[['Wohnung', '•', 'Cottbus', 'Sandow']]",['Balkon'],"Miete zzgl. NK 303,94 €",Wohnfläche ca. 58 m²,Zi. 3,11,12

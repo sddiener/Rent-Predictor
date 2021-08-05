@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44070031,Für die ganze Familie!,"['Wohnung', '•', 'Waltershausen', 'Waltershausen']",['Balkon'],"Miete zzgl. NK 328,30 €",Wohnfläche ca. 60 m²,Zi. 3,73,16
-1,selObject_44070029,Wohnung mit Aussicht zum Selbstgestalten,"['Wohnung', '•', 'Waltershausen', 'Waltershausen']",['Balkon'],"Miete zzgl. NK 303,50 €",Wohnfläche ca. 61 m²,Zi. 3,73,16
-2,selObject_44069720,Gemütlich und ruhig Wohnen,"['Etagenwohnung', '•', 'Sondershausen', 'Sondershausen']",['Balkon'],Miete zzgl. NK 310 €,Wohnfläche ca. 61 m²,Zi. 3,73,16
-3,selObject_44068882,Treppensteigen lohnt sich! - Sparen Sie die erste Miet...,"['Etagenwohnung', '•', 'Nordhausen', 'Nordhausen']",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 59 m²,Zi. 3,73,16
-4,selObject_44068845,Sanierte 4-Raumwohnung mit viel Platz sucht Nachmieter...,"['Etagenwohnung', '•', 'Nordhausen', 'Nordhausen']",['Balkon'],Miete zzgl. NK 325 €,Wohnfläche ca. 72 m²,Zi. 4,73,16
-5,selObject_44068800,Großzügige 3-Raumwohnung - Optimal für Paare und Famil...,"['Etagenwohnung', '•', 'Nordhausen', 'Nordhausen']",['Balkon'],Miete zzgl. NK 325 €,Wohnfläche ca. 72 m²,Zi. 3,73,16
-6,selObject_44068694,Günstige Familienwohnung mit Ausblick!,"['Etagenwohnung', '•', 'Nordhausen', 'Nordhausen']",[],Miete zzgl. NK 325 €,Wohnfläche ca. 72 m²,Zi. 4,73,16
-7,selObject_44068661,Familienwohnung in grüner Umgebung // gute Infrastrukt...,"['Wohnung', '•', 'Gera', 'Ostviertel']",['Balkon'],Miete zzgl. NK 389 €,Wohnfläche ca. 85 m²,Zi. 3,73,16
-8,selObject_44068645,Schicke Dachgeschosswohnung in Geras historischem Zent...,"['Wohnung', '•', 'Gera', 'Innenstadt']",[],Miete zzgl. NK 376 €,Wohnfläche ca. 60 m²,Zi. 3,73,16
-9,selObject_44068640,"Sonnige, moderne Wohnung im Zentrum! Gebäude mit Aufzu...","['Wohnung', '•', 'Gera', 'Innenstadt']",['Balkon'],Miete zzgl. NK 357 €,Wohnfläche ca. 55 m²,Zi. 2,73,16
-10,selObject_44068633,Saniertes WG-Zimmer nahe Hauptbahnhof!,"['Wohnung', '•', 'Gera', 'Bieblach']",['EBK'],Miete zzgl. NK 165 €,Wohnfläche ca. 12 m²,Zi. 1,73,16
-11,selObject_44068537,3-Raum Wohnung,"['Wohnung', '•', 'Schmalkalden', 'Schmalkalden']",[],Miete zzgl. NK 420 €,Wohnfläche ca. 70 m²,Zi. 3,73,16
-12,selObject_44067675,KAUTIONSFREI* anmieten- Frisch geweißte 3-Raumwohnung...,"['Etagenwohnung', '•', 'Eisenach', 'Eisenach']",['Balkon'],Miete zzgl. NK 315 €,Wohnfläche ca. 60 m²,Zi. 3,73,16
-13,selObject_44067433,Rollstuhlgerechte 2-Raumwohnung mit Balkon - frisch...,"['Erdgeschosswohnung', '•', 'Erfurt', 'Herrenberg']",['Balkon'],Miete zzgl. NK 300 €,Wohnfläche ca. 51 m²,Zi. 2,73,16
-14,selObject_44065856,Erstbezug nach Modernisierung! 2 Raum Wohnung mit Balk...,"['Wohnung', '•', 'Gera', 'Innenstadt']",['Balkon'],Miete zzgl. NK 375 €,Wohnfläche ca. 68 m²,Zi. 2,73,16
-15,selObject_44065855,4 Raum DG-Wohnung mit neuen modernen Bad mit Wanne &...,"['Dachgeschosswohnung', '•', 'Gera', 'Innenstadt']",[],Miete zzgl. NK 580 €,Wohnfläche ca. 106 m²,Zi. 4,73,16
-16,selObject_44065755,"5 Raum Wohnung mit Balkon, Bad mit Wanne & Dusche +...","['Wohnung', '•', 'Gera', 'Innenstadt']",['Balkon'],Miete zzgl. NK 950 €,Wohnfläche ca. 137 m²,Zi. 5,73,16
-17,selObject_44065753,"Student, Azubi oder Single? Hier wirst du fündig! Erst...","['Wohnung', '•', 'Gera', 'Innenstadt']",[],Miete zzgl. NK 360 €,Wohnfläche ca. 52 m²,Zi. 2,73,16
-18,selObject_44065752,Erstbezug nach Kernsanierung! 3 Raum Wohnung mit Balko...,"['Wohnung', '•', 'Gera', 'Innenstadt']",['Balkon'],Miete zzgl. NK 540 €,Wohnfläche ca. 78 m²,Zi. 3,73,16
-19,selObject_44065749,"4 Raum Wohnung mit Balkon, modernes Bad mit Wanne &...","['Wohnung', '•', 'Gera', 'Innenstadt']",['Balkon'],Miete zzgl. NK 620 €,Wohnfläche ca. 89 m²,Zi. 4,73,16
-20,selObject_44064396,möblierte 2-Zimmer-Einliegerwohnung mit Einbauküche...,"['Souterrainwohnung', '•', 'Jena', 'Cospeda']",['EBK'],Miete zzgl. NK 315 €,Wohnfläche ca. 45 m²,Zi. 2,73,16
-21,selObject_44063085,Zentrumsnah! Moderne 4-Zimmer-Wohnung sucht neue Bewoh...,"['Etagenwohnung', '•', 'Eisenberg', 'Eisenberg']",['Balkon'],Miete zzgl. NK 555 €,Wohnfläche ca. 92 m²,Zi. 4,73,16
-22,selObject_44062732,Nur ein Katzensprung zur Hochschule - WG Interessierte...,"['Etagenwohnung', '•', 'Schmalkalden', 'Schmalkalden']",['EBK'],Miete zzgl. NK 480 €,Wohnfläche ca. 65 m²,Zi. 4,73,16
-23,selObject_44062432,2-Raum-Wohnung 2.OG 71qm,"['Dachgeschosswohnung', '•', 'Gera', 'Innenstadt']",[],Miete zzgl. NK 295 €,Wohnfläche ca. 71 m²,Zi. 2,73,16
-24,selObject_44060743,1-Raum-Single Wohnung im Stadtzentrum von Altenburg,"['Wohnung', '•', 'Altenburg', 'Altenburg']",[],Miete zzgl. NK 180 €,Wohnfläche ca. 37 m²,Zi. 1,73,16
-25,selObject_44052466,KAUTIONSFREI* anmieten und einen Wunschgutschein erhal...,"['Etagenwohnung', '•', 'Eisenach', 'Eisenach']",['Balkon'],Miete zzgl. NK 380 €,Wohnfläche ca. 73 m²,Zi. 3,73,16
-26,selObject_44052293,KAUTIONSFREI* anmieten und die ersten beiden Mieten...,"['Etagenwohnung', '•', 'Eisenach', 'Eisenach']",['Balkon'],Miete zzgl. NK 310 €,Wohnfläche ca. 60 m²,Zi. 3,73,16
+0,selObject_44108365,Zur Einweihungsparty bitte hier klingeln!,"[['Dachgeschosswohnung', '•', 'Gera', 'Roschütz']]",[],Miete zzgl. NK 200 €,Wohnfläche ca. 39 m²,Zi. 1,73,16
+1,selObject_44108337,onlineBESICHTIGUNG** - Sie suchen? - Wir haben!,"[['Erdgeschosswohnung', '•', 'Gera', 'Pforten']]",[],Miete zzgl. NK 430 €,Wohnfläche ca. 92 m²,Zi. 3,73,16
+2,selObject_44108327,"onlineBESICHTIGUNG** - Es ist Zeit, flügge zu werden!!...","[['Erdgeschosswohnung', '•', 'Gera', 'Ostviertel']]",[],Miete zzgl. NK 190 €,Wohnfläche ca. 38 m²,Zi. 1,73,16
+3,selObject_44108324,HIER werden Sie sich wohlfühlen!,"[['Wohnung', '•', 'Gera', 'Liebschwitz']]",[],Miete zzgl. NK 290 €,Wohnfläche ca. 64 m²,Zi. 2,73,16
+4,selObject_44108256,ZIEH EIN - bring GLÜCK herein!!!,"[['Wohnung', '•', 'Greiz', 'Greiz']]",[],Miete zzgl. NK 440 €,Wohnfläche ca. 88 m²,Zi. 4,73,16
+5,selObject_44108254,EINziehen und WOHLfühlen!!,"[['Dachgeschosswohnung', '•', 'Greiz', 'Greiz']]",[],Miete zzgl. NK 420 €,Wohnfläche ca. 84 m²,Zi. 4,73,16
+6,selObject_44108233,Offen für was Neues? Ihr Leben im Ostviertel!,"[['Erdgeschosswohnung', '•', 'Gera', 'Ostviertel']]",[],Miete zzgl. NK 280 €,Wohnfläche ca. 62 m²,Zi. 2,73,16
+7,selObject_44108232,Ohne Hektik in den Feierabend!,"[['Dachgeschosswohnung', '•', 'Brahmenau', 'Brahmenau']]",[],Miete zzgl. NK 200 €,Wohnfläche ca. 44 m²,Zi. 1,73,16
+8,selObject_44101264,geräumige 4 Raum Wohnung in Alt-Bieblach,"[['Etagenwohnung', '•', 'Gera', 'Bieblach']]",['Balkon'],Miete zzgl. NK 584 €,Wohnfläche ca. 116 m²,Zi. 4,73,16
+9,selObject_44099821,Schöne 2 Zimmerwohnung in Sonneberg,"[['Erdgeschosswohnung', '•', 'Sonneberg', 'Sonneberg']]",[],Miete zzgl. NK 355 €,Wohnfläche ca. 54 m²,Zi. 2,73,16
+10,selObject_44099758,Letzte verfügbare Wohnung im Obergeschoss. Barrierefre...,"[['Wohnung', '•', 'Schkölen', 'Schkölen']]",['EBK'],Miete zzgl. NK 360 €,Wohnfläche ca. 60 m²,Zi. 2,73,16
+11,selObject_44091137,"Schicke 2-R.-DG-Wohnung mit EBK, Kamin & Stellplatz in...","[['Dachgeschosswohnung', '•', 'Gera', 'Ostviertel']]","['Balkon', 'EBK']",Miete zzgl. NK 425 €,Wohnfläche ca. 60 m²,Zi. 2,73,16
+12,selObject_44090239,"3-Zimmer-Wohnung mit Einbauküche in Wichmar, nahe Jena","[['Wohnung', '•', 'Wichmar', 'Wichmar']]",['EBK'],Miete zzgl. NK 325 €,Wohnfläche ca. 64 m²,Zi. 3,73,16
+13,selObject_44088616,Großzügige 4-Raum-Wohnung in ruhiger und zentraler...,"[['Dachgeschosswohnung', '•', 'Gera', 'Innenstadt']]",['Garten'],Miete zzgl. NK 560 €,Wohnfläche ca. 98 m²,Zi. 4,73,16
+14,selObject_44084845,"3,5 Raumwohnung sucht neuen Mieter","[['Etagenwohnung', '•', 'Altenburg', 'Altenburg']]",[],Miete zzgl. NK 370 €,Wohnfläche ca. 70 m²,"Zi. 3,5",73,16
+15,selObject_44082556,Unter 27 Jahre und auf der Suche nach der ersten eigen...,"[['Wohnung', '•', 'Suhl', 'Suhl']]",['Balkon'],"Miete zzgl. NK 236,45 €",Wohnfläche ca. 54 m²,Zi. 3,73,16
+16,selObject_44081304,"gemütliche, zentrumsnahe 2 Raum-Wohnung im Geraer Stad...","[['Etagenwohnung', '•', 'Gera', 'Pforten']]",[],Miete zzgl. NK 288 €,Wohnfläche ca. 64 m²,Zi. 2,73,16
+17,selObject_44081302,"helle, geräumige 2 Raum-Wohnung im Geraer Stadtteil...","[['Etagenwohnung', '•', 'Gera', 'Pforten']]",[],Miete zzgl. NK 237 €,Wohnfläche ca. 52 m²,Zi. 2,73,16
+18,selObject_44081300,helle 2 Raum-Wohnung im Geraer Zentrum,"[['Etagenwohnung', '•', 'Gera', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 322 €,Wohnfläche ca. 63 m²,Zi. 2,73,16
+19,selObject_44081298,große und zentrumsnahe 3 Raum-Wohnung in Debschwitz,"[['Etagenwohnung', '•', 'Gera', 'Debschwitz']]",['Balkon'],Miete zzgl. NK 303 €,Wohnfläche ca. 57 m²,Zi. 3,73,16
+20,selObject_44081297,helle 2-Raum Wohnung,"[['Etagenwohnung', '•', 'Gera', 'Innenstadt']]",[],Miete zzgl. NK 240 €,Wohnfläche ca. 56 m²,Zi. 2,73,16
+21,selObject_44081295,Zentrumsnahe 2 Raum-Wohnung im Ostviertel,"[['Erdgeschosswohnung', '•', 'Gera', 'Ostviertel']]",[],Miete zzgl. NK 229 €,Wohnfläche ca. 46 m²,Zi. 2,73,16
+22,selObject_44081293,Helle 2 Raum-Wohnung in Debschwitz,"[['Etagenwohnung', '•', 'Gera', 'Bieblach']]",['Balkon'],Miete zzgl. NK 294 €,Wohnfläche ca. 58 m²,Zi. 2,73,16
+23,selObject_44081292,"Schöne, geräumige 2 Raum-Wohnung im Geraer Stadtteil...","[['Etagenwohnung', '•', 'Gera', 'Pforten']]",[],Miete zzgl. NK 273 €,Wohnfläche ca. 55 m²,Zi. 2,73,16
+24,selObject_44081289,zentrale 2 Raum-Wohnung im Ostviertel von Gera,"[['Etagenwohnung', '•', 'Gera', 'Ostviertel']]",[],Miete zzgl. NK 266 €,Wohnfläche ca. 63 m²,Zi. 2,73,16
+25,selObject_44081278,"schöne, sonnige, ruhig gelegene 3 Raum-Wohnung im Ostv...","[['Etagenwohnung', '•', 'Gera', 'Ostviertel']]",['Balkon'],Miete zzgl. NK 328 €,Wohnfläche ca. 69 m²,Zi. 3,73,16
+26,selObject_44081277,"gemütliche, zentrumsnahe 2 Raum-Wohnung in Pforten","[['Etagenwohnung', '•', 'Gera', 'Pforten']]",[],Miete zzgl. NK 261 €,Wohnfläche ca. 54 m²,Zi. 2,73,16

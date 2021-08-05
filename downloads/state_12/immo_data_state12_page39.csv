@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44197423,Hoch hinaus in Ihrer neuen 4-Zimmer-Wohnung ohne Durch...,"['Etagenwohnung', '•', 'Cottbus', 'Sachsendorf']",['Balkon'],"Miete zzgl. NK 338,73 €",Wohnfläche ca. 72 m²,Zi. 4,39,12
-1,selObject_44197191,"Hier stimmt Grundriss und Ausstattung, schauen Sie...","['Etagenwohnung', '•', 'Cottbus', 'Sachsendorf']",['Balkon'],"Miete zzgl. NK 388,31 €",Wohnfläche ca. 76 m²,Zi. 3,39,12
-2,selObject_44197077,150 EUR Gutschein*! Ein wundervoller Ausblick in die...,"['Etagenwohnung', '•', 'Cottbus', 'Sachsendorf']",['Balkon'],"Miete zzgl. NK 293,30 €",Wohnfläche ca. 59 m²,Zi. 3,39,12
-3,selObject_44196948,150 EUR Gutschein*! Gepflegte 3-Zimmer-Wohnung im 3.OG...,"['Etagenwohnung', '•', 'Cottbus', 'Sachsendorf']",['Balkon'],"Miete zzgl. NK 293,30 €",Wohnfläche ca. 59 m²,Zi. 3,39,12
-4,selObject_44195387,- für sofort- günstige- Wohnung in ruhiger Lage,"['Dachgeschosswohnung', '•', 'Borkwalde']",[],Miete zzgl. NK 560 €,Wohnfläche ca. 70 m²,Zi. 3,39,12
-5,selObject_44190516,Helle 2-Zimmer-Wohnung mit großen Fenstern und Terrass...,"['Erdgeschosswohnung', '•', 'Fürstenwalde', 'Fürstenwalde']",['EBK'],Miete zzgl. NK 500 €,Wohnfläche ca. 36 m²,Zi. 2,39,12
-6,selObject_44186286,"2-3 Zimmer mit Balkon, Küche und Bad, komplett renovie...","['Erdgeschosswohnung', '•', 'Karstädt', 'Karstädt']","['Balkon', 'EBK']",Miete zzgl. NK 250 €,Wohnfläche ca. 50 m²,"Zi. 2,5",39,12
-7,selObject_44185478,3 Raumwohnung in zentraler Lage,"['Wohnung', '•', 'Eberswalde', 'Eberswalde']",[],Miete zzgl. NK 357 €,Wohnfläche ca. 61 m²,Zi. 3,39,12
-8,selObject_44179775,4-Raumwohnung im EG mit Terrasse,"['Wohnung', '•', 'Forst', 'Forst-Stadt']",['Garten'],Preis Auf Anfrage,Wohnfläche ca. 84 m²,Zi. 4,39,12
-9,selObject_44179683,+++schicke Möblierte Wohnung + 30min bis Berlin+++,"['Etagenwohnung', '•', 'Hennigsdorf']",['EBK'],Miete zzgl. NK 870 €,Wohnfläche ca. 58 m²,Zi. 2,39,12
-10,selObject_44178307,4 Raumwohnung,"['Wohnung', '•', 'Karstädt', 'Zapel']","['Garten', 'EBK']",Miete zzgl. NK 560 €,Wohnfläche ca. 130 m²,Zi. 4,39,12
-11,selObject_44177401,Wohnen oder Arbeiten - Hier entscheiden Sie,"['Souterrainwohnung', '•', 'Perleberg']",[],Miete zzgl. NK 390 €,Wohnfläche ca. 62 m²,Zi. 1,39,12
-12,selObject_44177288,zum 1.7.! Wohnen am Lennépark - modern sanierte 2 Zi....,"['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']","['Balkon', 'EBK']",Miete zzgl. NK 550 €,Wohnfläche ca. 58 m²,Zi. 2,39,12
-13,selObject_44170650,Dachgeschoss zum Ausbau,"['Etagenwohnung', '•', 'Kremmen', 'Kremmen']",[],Miete zzgl. NK 500 €,Wohnfläche ca. 239 m²,,39,12
-14,selObject_44161529,"Exklusive, frisch sanierte 3-Raum-Wohnung mit Duschbad...","['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']",[],"Miete zzgl. NK 450,11 €",Wohnfläche ca. 67 m²,Zi. 3,39,12
-15,selObject_44161527,2-Raum-Wohnung im Stadtzentrum,"['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']",[],"Miete zzgl. NK 395,83 €",Wohnfläche ca. 63 m²,Zi. 2,39,12
-16,selObject_44158286,"3 Zimmer Wohnung 64,62 m² (Frei ab 01.08.2021)","['Wohnung', '•', 'Prenzlau', 'Prenzlau']",[],"Miete zzgl. NK 387,72 €",Wohnfläche ca. 65 m²,Zi. 3,39,12
-17,selObject_44154398,Möblierte Wohnung in ruhiger Lage und schönem Ferblick,"['Dachgeschosswohnung', '•', 'Forst', 'Forst-Stadt']","['Balkon', 'EBK']",Preis Auf Anfrage,,,39,12
-18,selObject_44152994,ERSTBEZUG wunderschöne moderne 3-RWE mit Balkon in...,"['Dachgeschosswohnung', '•', 'Lübben', 'Lübben']","['Balkon', 'EBK']",Miete zzgl. NK 1.012 €,Wohnfläche ca. 101 m²,Zi. 3,39,12
-19,selObject_44141857,Charmantes Maisonette Wohnung mit drei Terrassen und...,"['Maisonette', '•', 'Oranienburg', 'Oranienburg']","['Balkon', 'EBK']",Miete zzgl. NK 1.890 €,Wohnfläche ca. 186 m²,Zi. 3,39,12
-20,selObject_44138782,2-Zimmer Wohnung,"['Kein', 'Bild']",[],Miete zzgl. NK 275 €,Wohnfläche ca. 55 m²,Zi. 2,39,12
-21,selObject_44138675,2 Zimmerwohnung,"['Kein', 'Bild']",[],Miete zzgl. NK 240 €,Wohnfläche ca. 36 m²,Zi. 2,39,12
-22,selObject_44138194,2 Zimmer Mietwohnung in Senftenberg- sofort verfügbar...,"['Wohnung', '•', 'Senftenberg']",[],"Miete zzgl. NK 268,69 €",Wohnfläche ca. 48 m²,Zi. 2,39,12
-23,selObject_44138192,3 Zimmer Mietwohnung in Senftenberg - sofort verfügbar...,"['Wohnung', '•', 'Senftenberg']",['Balkon'],"Miete zzgl. NK 341,67 €",Wohnfläche ca. 60 m²,Zi. 3,39,12
-24,selObject_44129042,3-Raum Wohnung mit Ankleidezimmer und Balkon,"['Etagenwohnung', '•', 'Cottbus', 'Mitte']",['Balkon'],Miete zzgl. NK 700 €,Wohnfläche ca. 101 m²,Zi. 3,39,12
-25,selObject_44127184,3 Zimmer Mietwohnung in Senftenberg - Selbstbastler...,"['Wohnung', '•', 'Senftenberg']",['Balkon'],"Miete zzgl. NK 269,73 €",Wohnfläche ca. 60 m²,Zi. 3,39,12
-26,selObject_44121991,PARKSIDE - exklusive 3 Zimmer mit Fußbodenheizung und...,"['Etagenwohnung', '•', 'Schönefeld', 'Waßmannsdorf']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 949 €,Wohnfläche ca. 70 m²,Zi. 3,39,12
+0,selObject_44141857,Charmantes Maisonette Wohnung mit drei Terrassen und...,"[['Maisonette', '•', 'Oranienburg', 'Oranienburg']]","['Balkon', 'EBK']",Miete zzgl. NK 1.490 €,Wohnfläche ca. 186 m²,Zi. 3,39,12
+1,selObject_44138782,2-Zimmer Wohnung,"[['Kein', 'Bild'], ['Wohnung', '•', 'Perleberg']]",[],Miete zzgl. NK 275 €,Wohnfläche ca. 55 m²,Zi. 2,39,12
+2,selObject_44138675,2 Zimmerwohnung,"[['Kein', 'Bild'], ['Erdgeschosswohnung', '•', 'Wittenberge']]",[],Miete zzgl. NK 240 €,Wohnfläche ca. 36 m²,Zi. 2,39,12
+3,selObject_44138194,2 Zimmer Mietwohnung in Senftenberg- sofort verfügbar...,"[['Wohnung', '•', 'Senftenberg']]",[],"Miete zzgl. NK 268,69 €",Wohnfläche ca. 48 m²,Zi. 2,39,12
+4,selObject_44138192,3 Zimmer Mietwohnung in Senftenberg - sofort verfügbar...,"[['Wohnung', '•', 'Senftenberg']]",['Balkon'],"Miete zzgl. NK 341,67 €",Wohnfläche ca. 60 m²,Zi. 3,39,12
+5,selObject_44129042,3-Raum Wohnung mit Ankleidezimmer und Balkon,"[['Etagenwohnung', '•', 'Cottbus', 'Mitte']]",['Balkon'],Miete zzgl. NK 700 €,Wohnfläche ca. 101 m²,Zi. 3,39,12
+6,selObject_44127184,3 Zimmer Mietwohnung in Senftenberg - Selbstbastler...,"[['Wohnung', '•', 'Senftenberg']]",['Balkon'],"Miete zzgl. NK 269,73 €",Wohnfläche ca. 60 m²,Zi. 3,39,12
+7,selObject_44121991,PARKSIDE - exklusive 3 Zimmer mit Fußbodenheizung und...,"[['Etagenwohnung', '•', 'Schönefeld', 'Waßmannsdorf']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 949 €,Wohnfläche ca. 70 m²,Zi. 3,39,12
+8,selObject_44121990,"PARKSIDE - 1 Zimmer mit großem Balkon, EBK und Duschba...","[['Etagenwohnung', '•', 'Schönefeld', 'Waßmannsdorf']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 509 €,Wohnfläche ca. 29 m²,Zi. 1,39,12
+9,selObject_44121986,PARKSIDE - helle 4 Zimmerwohnung im Grünen,"[['Etagenwohnung', '•', 'Schönefeld', 'Waßmannsdorf']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.149 €,Wohnfläche ca. 90 m²,Zi. 4,39,12
+10,selObject_44121985,PARKSIDE - großzügige 2 Zimmer im Erstbezug ab Septemb...,"[['Etagenwohnung', '•', 'Schönefeld', 'Waßmannsdorf']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 799 €,Wohnfläche ca. 58 m²,Zi. 2,39,12
+11,selObject_44121981,"PARKSIDE - 2 Zimmer mit großem Balkon, EBK und Duschba...","[['Etagenwohnung', '•', 'Schönefeld', 'Waßmannsdorf']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 799 €,Wohnfläche ca. 61 m²,Zi. 2,39,12
+12,selObject_44121978,PARKSIDE - wohnen auf 4 Zimmern mit Fußbodenheizung...,"[['Etagenwohnung', '•', 'Schönefeld', 'Waßmannsdorf']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.199 €,Wohnfläche ca. 89 m²,Zi. 4,39,12
+13,selObject_44120375,3-Raum-Wohnung mit guter Aussicht,"[['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']]",[],"Miete zzgl. NK 345,27 €",Wohnfläche ca. 68 m²,Zi. 3,39,12
+14,selObject_44120371,2-Raum-Wohnung im Stadtzentrum,"[['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']]",[],"Miete zzgl. NK 286,52 €",Wohnfläche ca. 53 m²,Zi. 2,39,12
+15,selObject_44119956,Wohnanlage Waldfrieden - Wohnung-Nr. 36,"[['Etagenwohnung', '•', 'Neuhardenberg', 'Neuhardenberg']]",['Balkon'],Miete zzgl. NK 360 €,Wohnfläche ca. 60 m²,Zi. 2,39,12
+16,selObject_44104126,"komplett sanierte 1,2,3 und 4 - Raumwohnungen_www.matt...","[['Wohnung', '•', 'Forst', 'Forst-Stadt']]","['Balkon', 'Garten']",Preis Auf Anfrage,Wohnfläche ca. 63 m²,Zi. 3,39,12
+17,selObject_44103477,"Familienfreundliche 4-Zimmer-Wohnung mit Balkon, Tages...","[['Etagenwohnung', '•', 'Forst', 'Forst-Stadt']]",['Balkon'],Miete zzgl. NK 510 €,Wohnfläche ca. 90 m²,Zi. 4,39,12
+18,selObject_44099026,Helle 2-Zimmer Altbauwohnung in zentraler Lage,"[['Etagenwohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']]",[],Miete zzgl. NK 321 €,Wohnfläche ca. 54 m²,Zi. 2,39,12
+19,selObject_44092767,Gut gelegene 2 Raum Wohnung Nähe FH,"[['Etagenwohnung', '•', 'Brandenburg', 'Altstadt']]",[],"Miete zzgl. NK 254,59 €",Wohnfläche ca. 36 m²,Zi. 2,39,12
+20,selObject_44092742,Gut gelegene 1 Raum Wohnung Nähe FH,"[['Erdgeschosswohnung', '•', 'Brandenburg', 'Altstadt']]",[],"Miete zzgl. NK 211,61 €",Wohnfläche ca. 30 m²,Zi. 2,39,12
+21,selObject_44090289,Wohnung mit Wohlfühl-Garantie!,"[['Etagenwohnung', '•', 'Elsterwerda', 'Elsterwerda']]",['Balkon'],Miete zzgl. NK 420 €,Wohnfläche ca. 77 m²,Zi. 4,39,12
+22,selObject_44090268,"**Ruhige Wohnung in Stadtrandlage, frisch renoviert**","[['Etagenwohnung', '•', 'Elsterwerda', 'Elsterwerda']]",['Balkon'],Miete zzgl. NK 445 €,Wohnfläche ca. 82 m²,Zi. 4,39,12
+23,selObject_44090238,**Neu renovierte Wohnung!**,"[['Wohnung', '•', 'Elsterwerda', 'Elsterwerda']]",['Balkon'],Miete zzgl. NK 350 €,Wohnfläche ca. 61 m²,Zi. 3,39,12
+24,selObject_44071359,"**Helle und freundliche Wohnung, frisch renoviert!**","[['Etagenwohnung', '•', 'Elsterwerda', 'Elsterwerda']]",['Balkon'],Miete zzgl. NK 420 €,Wohnfläche ca. 75 m²,Zi. 4,39,12
+25,selObject_44071091,***Frisch renovierte Wohnung jetzt frei***,"[['Etagenwohnung', '•', 'Elsterwerda', 'Elsterwerda']]",[],Miete zzgl. NK 300 €,Wohnfläche ca. 56 m²,Zi. 3,39,12
+26,selObject_44070646,Damsdorf - zwischen Potsdam und Brandenburg a.d.Havel...,"[['Etagenwohnung', '•', 'Kloster', 'Lehnin', 'Damsdorf']]",['Balkon'],"Miete zzgl. NK 303,38 €",Wohnfläche ca. 39 m²,Zi. 2,39,12

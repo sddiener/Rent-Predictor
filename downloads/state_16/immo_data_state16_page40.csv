@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44773626,Gepflegte 3-Zimmer-Wohnung in schöner und ruhiger Lage...,"['Erdgeschosswohnung', '•', 'Rudolstadt', 'Cumbach']",[],Miete zzgl. NK 375 €,Wohnfläche ca. 58 m²,Zi. 3,40,16
-1,selObject_44773297,2 Raum Wohnung sucht neue Mieter!,"['Etagenwohnung', '•', 'Vacha', 'Vacha']",[],Miete zzgl. NK 260 €,Wohnfläche ca. 46 m²,Zi. 2,40,16
-2,selObject_44772709,exklusive Single-Mansardenwohnung in Zweiparteienhaus...,"['Wohnung', '•', 'Erfurt', 'Erfurt-Altstadt']",[],Miete zzgl. NK 600 €,Wohnfläche ca. 60 m²,Zi. 2,40,16
-3,selObject_44772493,4 Raum Wohnung sucht neue Mieter!,"['Etagenwohnung', '•', 'Vacha', 'Vacha']",[],Miete zzgl. NK 415 €,Wohnfläche ca. 74 m²,Zi. 4,40,16
-4,selObject_44772467,Nachmieter gesucht für schöne helle 3ZW mit Balkon und...,"['Wohnung', '•', 'Erfurt', 'Krämpfervorstadt']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.115 €,Wohnfläche ca. 89 m²,Zi. 3,40,16
-5,selObject_44772416,Großzügige 2 Zimmerwohnung mit Balkon!,"['Etagenwohnung', '•', 'Vacha', 'Vacha']",['Balkon'],Miete zzgl. NK 340 €,Wohnfläche ca. 61 m²,Zi. 2,40,16
-6,selObject_44772309,Schöne 4-Raum Etagenwohnung 80 m² in Pößneck,"['Etagenwohnung', '•', 'Pößneck', 'Pößneck,Stadt']",['Garten'],Miete zzgl. NK 470 €,Wohnfläche ca. 80 m²,Zi. 4,40,16
-7,selObject_44767999,"Erstbezug, 66 m² Luxus incl.Garten, Küche, Naturstein...","['Wohnung', '•', 'Walschleben']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 895 €,Wohnfläche ca. 66 m²,Zi. 2,40,16
-8,selObject_44765714,"Renovierte 1,5 Raum-Wohnung mit Einbauküche","['Apartment', '•', 'Altenburg', 'Altenburg']","['Balkon', 'EBK']",Miete zzgl. NK 210 €,Wohnfläche ca. 40 m²,"Zi. 1,5",40,16
-9,selObject_44765713,3-Raum Wohnung,"['Wohnung', '•', 'Jena', 'Lobeda']",[],Miete zzgl. NK 575 €,Wohnfläche ca. 68 m²,Zi. 3,40,16
-10,selObject_44764959,"onlineBESICHTIGUNG** - Die hat, wonach Sie suchen!","['Wohnung', '•', 'Ronneburg', 'Ronneburg']",[],Miete zzgl. NK 270 €,Wohnfläche ca. 56 m²,Zi. 2,40,16
-11,selObject_44764482,"großzügige Familienwohnung mit 4 Zimmern, Balkon, Wann...","['Etagenwohnung', '•', 'Udestedt']","['Balkon', 'Garten']",Miete zzgl. NK 749 €,Wohnfläche ca. 120 m²,Zi. 4,40,16
-12,selObject_44764102,gemütliche 2-R-WE,"['Wohnung', '•', 'Erfurt', 'Johannesvorstadt']",['Garten'],Miete zzgl. NK 340 €,Wohnfläche ca. 52 m²,Zi. 2,40,16
-13,selObject_44763877,"Bezugsfrei ab SEPTEMBER ´21 - gemütliche 2,5-Raum Wohn...","['Etagenwohnung', '•', 'Erfurt', 'Andreasvorstadt']",[],Miete zzgl. NK 399 €,Wohnfläche ca. 57 m²,"Zi. 2,5",40,16
-14,selObject_44763338,Moderne offene Küche!,"['Etagenwohnung', '•', 'Gera', 'Lusan']",['Balkon'],"Miete zzgl. NK 351,06 €",Wohnfläche ca. 69 m²,Zi. 4,40,16
-15,selObject_44763278,Schöne 4-Zimmer Wohnung für die kleine Familie,"['Etagenwohnung', '•', 'Erfurt', 'Johannesvorstadt']",[],Miete zzgl. NK 795 €,Wohnfläche ca. 86 m²,Zi. 4,40,16
-16,selObject_44761363,Hier warten 80 m² zum Wohlfühlen auf Sie - energetisch...,"['Wohnung', '•', 'Steinbach-Hallenberg', 'Herges-Hallenberg']","['Balkon', 'Garten']",Miete zzgl. NK 560 €,Wohnfläche ca. 80 m²,Zi. 4,40,16
-17,selObject_44761030,Erstbezug // 3-Raum-Wohnung // StadtQuartier «Altes...,"['Etagenwohnung', '•', 'Gera', 'Ostviertel']",['Balkon'],Miete zzgl. NK 750 €,Wohnfläche ca. 93 m²,Zi. 3,40,16
-18,selObject_44760375,Wohnglück zu vermieten!,"['Etagenwohnung', '•', 'Saalfeld', 'Saalfeld']",[],Miete zzgl. NK 210 €,Wohnfläche ca. 33 m²,Zi. 1,40,16
-19,selObject_44760148,Voll möblierte 1-Raum Wohnung mit EBK und Bad mit Dusc...,"['Wohnung', '•', 'Gera', 'Ostviertel']",['EBK'],Miete zzgl. NK 309 €,Wohnfläche ca. 39 m²,Zi. 1,40,16
-20,selObject_44760101,Ihr neues Zuhause in Greußen,"['Wohnung', '•', 'Greußen', 'Greußen']",['Balkon'],"Miete zzgl. NK 327,50 €",Wohnfläche ca. 60 m²,Zi. 3,40,16
-21,selObject_44758796,Schöne 2-Raum Wohnung,"['Dachgeschosswohnung', '•', 'Erfurt', 'Erfurt-Altstadt']",[],Miete zzgl. NK 510 €,Wohnfläche ca. 68 m²,Zi. 2,40,16
-22,selObject_44758785,idyllische 2 Raum Wohnungim Stadtzentrum Gotha´s,"['Etagenwohnung', '•', 'Gotha', 'Gotha']",[],Miete zzgl. NK 320 €,Wohnfläche ca. 60 m²,Zi. 2,40,16
-23,selObject_44758773,perfekte 4 Raum Wohnung für WG,"['Etagenwohnung', '•', 'Gotha', 'Gotha']",[],Miete zzgl. NK 600 €,Wohnfläche ca. 110 m²,Zi. 4,40,16
-24,selObject_44758751,4 Zimmer Traumwohnung zu vermieten - Erstbezug nach...,"['Wohnung', '•', 'Gotha', 'Gotha']",[],Miete zzgl. NK 855 €,Wohnfläche ca. 90 m²,Zi. 4,40,16
-25,selObject_44758733,"helle und geräumige 2,5 Raum Dachgeschosswohnung im...","['Dachgeschosswohnung', '•', 'Gotha', 'Gotha']",[],Miete zzgl. NK 500 €,Wohnfläche ca. 85 m²,"Zi. 2,5",40,16
-26,selObject_44757527,Wohnen am Elsterradweg in Wünschendorf,"['Etagenwohnung', '•', 'Wünschendorf', 'Wünschendorf']",[],Miete zzgl. NK 270 €,Wohnfläche ca. 52 m²,Zi. 2,40,16
+0,selObject_44805756,hübsche 1 Zimmer Wohnung mit EBK,"[['Wohnung', '•', 'Gera', 'Ostviertel']]",['EBK'],Miete zzgl. NK 240 €,Wohnfläche ca. 36 m²,Zi. 1,40,16
+1,selObject_44805754,geräumige 2 Zi.-Wohnung in schöner Stadtvilla,"[['Etagenwohnung', '•', 'Pößneck', 'Pößneck,Stadt']]",[],Miete zzgl. NK 350 €,Wohnfläche ca. 72 m²,Zi. 2,40,16
+2,selObject_44805752,1 Zimmerwohnung in zentraler Lage,"[['Wohnung', '•', 'Gera', 'Debschwitz']]",[],Miete zzgl. NK 205 €,Wohnfläche ca. 41 m²,Zi. 1,40,16
+3,selObject_44805494,**tolle 3-Raum Wohnung mit Balkon und EBK in Gera-Lusa...,"[['Etagenwohnung', '•', 'Gera', 'Lusan']]","['Balkon', 'EBK']",Miete zzgl. NK 441 €,Wohnfläche ca. 68 m²,Zi. 3,40,16
+4,selObject_44803968,Kleine 1 Raumwohnung im EG zu vermieten !,"[['Wohnung', '•', 'Erfurt', 'Herrenberg']]",['Balkon'],Miete zzgl. NK 191 €,Wohnfläche ca. 35 m²,Zi. 1,40,16
+5,selObject_44803334,Achtung: Sanierte 3-Raum-Wohnung in begehrter Lage,"[['Wohnung', '•', 'Gera', 'Debschwitz']]",['Balkon'],Miete zzgl. NK 330 €,Wohnfläche ca. 59 m²,Zi. 3,40,16
+6,selObject_44803333,Nachmieter gesucht für 3-Raum-Wohnung in Debschwitz,"[['Wohnung', '•', 'Gera', 'Debschwitz']]",['Balkon'],Miete zzgl. NK 330 €,Wohnfläche ca. 60 m²,Zi. 3,40,16
+7,selObject_44798954,Nur wenige Stufen - Singlewohnung zum sofort einziehen...,"[['Wohnung', '•', 'Gera', 'Lusan']]",[],Miete zzgl. NK 200 €,Wohnfläche ca. 32 m²,Zi. 1,40,16
+8,selObject_44798932,"3-Zimmer-Wohnung mit Balkon im 3.OG,","[['Wohnung', '•', 'Gera', 'Pforten']]",['Balkon'],Miete zzgl. NK 300 €,Wohnfläche ca. 62 m²,Zi. 3,40,16
+9,selObject_44798916,Große 3-Zi-Wohnung mit Balkon in TOP Lage - EF-Brühler...,"[['Etagenwohnung', '•', 'Erfurt', 'Brühlervorstadt']]",['Balkon'],Miete zzgl. NK 930 €,Wohnfläche ca. 93 m²,Zi. 3,40,16
+10,selObject_44797150,TOLLE 3RW für die junge Familie/WGs in der Erfurter...,"[['Etagenwohnung', '•', 'Erfurt', 'Andreasvorstadt']]",[],Miete zzgl. NK 585 €,Wohnfläche ca. 65 m²,Zi. 3,40,16
+11,selObject_44796775,...die Natur direkt vor der Tür!,"[['Wohnung', '•', 'Gera', 'Aga']]",['Garten'],Miete zzgl. NK 350 €,Wohnfläche ca. 70 m²,Zi. 3,40,16
+12,selObject_44796764,Abkühlung für Ihre Geldbörse - 2 Kaltmieten geschenkt*,"[['Etagenwohnung', '•', 'Gera', 'Zwötzen']]",[],Miete zzgl. NK 365 €,Wohnfläche ca. 76 m²,Zi. 3,40,16
+13,selObject_44796653,!! endlich genug Platz für eine Großfamilie !!,"[['Wohnung', '•', 'Mühlhausen', 'Mühlhausen']]",['Garten'],Miete zzgl. NK 550 €,Wohnfläche ca. 125 m²,Zi. 5,40,16
+14,selObject_44796477,hübsche 2 Zimmer DG- Wohnung mit Balkon,"[['Wohnung', '•', 'Gera', 'Ostviertel']]",['Balkon'],Miete zzgl. NK 235 €,Wohnfläche ca. 46 m²,Zi. 2,40,16
+15,selObject_44795547,barrierefreie Mietwohnung in Treffurt im Erstbezug,"[['Wohnung', '•', 'Treffurt', 'Schnellmannshausen']]","['Balkon', 'Garten']",Miete zzgl. NK 805 €,Wohnfläche ca. 102 m²,Zi. 4,40,16
+16,selObject_44795492,"Apartmentwohnung im 1. Obergeschoss mit Balkon, Stellp...","[['Apartment', '•', 'Bad', 'Klosterlausnitz']]",['Balkon'],Miete zzgl. NK 175 €,Wohnfläche ca. 21 m²,Zi. 1,40,16
+17,selObject_44794665,"Frisch sanierte 1,5 R.-WHG - 360° Rundgang - Virtuelle...","[['Wohnung', '•', 'Gera', 'Lusan']]",['Balkon'],Miete zzgl. NK 173 €,Wohnfläche ca. 35 m²,"Zi. 1,5",40,16
+18,selObject_44794536,2-Raum Wohnung Volkstedt-West zu vermieten,"[['Wohnung', '•', 'Rudolstadt', 'Volkstedt']]",['Balkon'],Miete zzgl. NK 262 €,Wohnfläche ca. 48 m²,Zi. 2,40,16
+19,selObject_44794535,Schöne 4-Raum-Wohnung in Rudolstadt Nord I zu vermiete...,"[['Wohnung', '•', 'Rudolstadt', 'Schwarza']]",['Balkon'],Miete zzgl. NK 374 €,Wohnfläche ca. 70 m²,Zi. 4,40,16
+20,selObject_44794163,"Sehr schöne, geräumige 3-Raum Wohnung in Arnstadt","[['Etagenwohnung', '•', 'Arnstadt', 'Arnstadt']]",['Balkon'],Miete zzgl. NK 550 €,Wohnfläche ca. 89 m²,Zi. 3,40,16
+21,selObject_44794112,2-Raum-Erdgeschoss-Wohnung in Sonneberg mit Aufzug...,"[['Erdgeschosswohnung', '•', 'Sonneberg', 'Köppelsdorf']]",[],Miete zzgl. NK 290 €,Wohnfläche ca. 47 m²,Zi. 2,40,16
+22,selObject_44793717,Sehr schöne und helle 1 Raum Wohnung mit Balkon,"[['Kein', 'Bild'], ['Wohnung', '•', 'Rudolstadt', 'West']]",['Balkon'],Miete zzgl. NK 240 €,Wohnfläche ca. 36 m²,Zi. 1,40,16
+23,selObject_44792854,"TOPLAGE: Ruhige 4-Zimmer-DG-Wohnung mit Einbauküche,...","[['Dachgeschosswohnung', '•', 'Altenburg', 'Altenburg']]","['Balkon', 'EBK']",Miete zzgl. NK 675 €,Wohnfläche ca. 106 m²,Zi. 4,40,16
+24,selObject_44792818,Dreiraumwohnung 3 ZKB im EG mit Terrasse u. Stellplatz...,"[['Erdgeschosswohnung', '•', 'Gotha', 'Gotha']]",[],Miete zzgl. NK 652 €,Wohnfläche ca. 80 m²,Zi. 3,40,16
+25,selObject_44792504,Ein gemütlichen Familiennest für Sonnenanbeter auf dem...,"[['Wohnung', '•', 'Großengottern']]",[],Miete zzgl. NK 340 €,Wohnfläche ca. 72 m²,Zi. 3,40,16
+26,selObject_44792500,Familiennest sucht Familie ! Blick ins Grüne garantier...,"[['Wohnung', '•', 'Großengottern']]",[],Miete zzgl. NK 380 €,Wohnfläche ca. 85 m²,Zi. 4,40,16

@@ -1,0 +1,28 @@
+,id,title,bullets,tags,price,area,rooms,page,state
+0,selObject_42879424,2 Zimmer- Dachgeschosswohnung in der Nähe des Bahnhof...,"['Etagenwohnung', '•', 'Ludwigslust', 'Ludwigslust']",['EBK'],Miete zzgl. NK 360 €,Wohnfläche ca. 55 m²,Zi. 2,42,13
+1,selObject_42847501,Schöne 1-Zimmer-Wohnung in der Feldstadt zu mieten!,"['Etagenwohnung', '•', 'Schwerin', 'Feldstadt']",['EBK'],Miete zzgl. NK 360 €,Wohnfläche ca. 44 m²,Zi. 1,42,13
+2,selObject_42758918,~ 3-Zimmer-MAISONETTE - wohnen in der Paulsstadt ~,"['Dachgeschosswohnung', '•', 'Schwerin', 'Paulsstadt']",['Garten'],Miete zzgl. NK 530 €,Wohnfläche ca. 69 m²,Zi. 3,42,13
+3,selObject_42737158,Erstklassige 2 Zimmer-Wohnung mit Parkett in der Schel...,"['Dachgeschosswohnung', '•', 'Schwerin', 'Schelfstadt']",['EBK'],Miete zzgl. NK 469 €,Wohnfläche ca. 85 m²,Zi. 2,42,13
+4,selObject_42728840,"schöne 2-Zi. Whg. Paulsstadt, EBK, 350 m zum HBF","['Etagenwohnung', '•', 'Schwerin', 'Paulsstadt']",['EBK'],"Miete zzgl. NK 572,93 €",Wohnfläche ca. 76 m²,Zi. 2,42,13
+5,selObject_42719072,Seniorenappartement in betreuter Wohngemenschaft,"['Apartment', '•', 'Greifswald', 'Ostseeviertel']",['EBK'],Miete zzgl. NK 480 €,Wohnfläche ca. 39 m²,Zi. 1,42,13
+6,selObject_42697266,Wohnen auf dem Lande,"['Etagenwohnung', '•', 'Zirzow']",['Garten'],Miete zzgl. NK 250 €,Wohnfläche ca. 57 m²,Zi. 2,42,13
+7,selObject_42675922,Attraktive 2 Zimmer-Wohnung im Hinterhaus am Schweinem...,"['Etagenwohnung', '•', 'Schwerin', 'Schelfstadt']",[],Miete zzgl. NK 385 €,Wohnfläche ca. 48 m²,Zi. 2,42,13
+8,selObject_42675913,Schwerin: Großzügige 3-Zimmer-Wohnung mit Dielen und...,"['Etagenwohnung', '•', 'Schwerin', 'Altstadt']",[],Miete zzgl. NK 665 €,Wohnfläche ca. 102 m²,Zi. 3,42,13
+9,selObject_42675909,Schöne 2-Zimmer-Wohnung in der Paulsstadt zu mieten!,"['Dachgeschosswohnung', '•', 'Schwerin', 'Paulsstadt']",['EBK'],Miete zzgl. NK 400 €,Wohnfläche ca. 52 m²,Zi. 2,42,13
+10,selObject_42675906,Frisch renovierte 2-Zimmer-Wohnung in zentraler Lage...,"['Etagenwohnung', '•', 'Schwerin', 'Paulsstadt']",['EBK'],Miete zzgl. NK 455 €,Wohnfläche ca. 65 m²,Zi. 2,42,13
+11,selObject_42675902,Attraktive 2 Zimmer-Wohnung im Hinterhaus in der Pauls...,"['Maisonette', '•', 'Schwerin', 'Paulsstadt']",['EBK'],Miete zzgl. NK 560 €,Wohnfläche ca. 81 m²,Zi. 2,42,13
+12,selObject_42675891,Geräumige 2-Zimmer-Wohnung in der Paulsstadt zu mieten...,"['Etagenwohnung', '•', 'Schwerin', 'Paulsstadt']",['EBK'],Miete zzgl. NK 400 €,Wohnfläche ca. 59 m²,Zi. 2,42,13
+13,selObject_42675890,"Schöne 2-Zimmer-Wohnung in ruhiger, zentraler Lage zu...","['Dachgeschosswohnung', '•', 'Schwerin', 'Paulsstadt']","['Garten', 'EBK']",Miete zzgl. NK 500 €,Wohnfläche ca. 76 m²,Zi. 2,42,13
+14,selObject_42654102,Alte Schule zum Ausbau von Mietwohnungen,"['Etagenwohnung', '•', 'Vogelsang-Warsin', 'Vogelsang']",[],Miete zzgl. NK 495 €,Wohnfläche ca. 100 m²,,42,13
+15,selObject_42623757,"Groß, hell + schick renoviert? Haben wir!","['Etagenwohnung', '•', 'Rostock', 'Groß', 'Klein']",['Balkon'],Miete zzgl. NK 700 €,Wohnfläche ca. 100 m²,Zi. 5,42,13
+16,selObject_42617323,Günstige Dreiraumwohnung in ruhiger Lage,"['Wohnung', '•', 'Neubrandenburg', 'Ihlenfelder', 'Vorstadt']",['Balkon'],Miete zzgl. NK 198 €,Wohnfläche ca. 64 m²,Zi. 3,42,13
+17,selObject_42616814,~ moderne 1-Zimmerwohnung mit Balkon ~,"['Etagenwohnung', '•', 'Schwerin', 'Paulsstadt']","['Balkon', 'EBK']",Miete zzgl. NK 460 €,Wohnfläche ca. 36 m²,Zi. 1,42,13
+18,selObject_42550645,Wohnung zur Miete in Bentzin,"['Wohnung', '•', 'Bentzin', 'Bentzin']",['Garten'],Miete zzgl. NK 281 €,Wohnfläche ca. 55 m²,Zi. 2,42,13
+19,selObject_42544895,Helle und freundliche 2 Zi.- WE,"['Etagenwohnung', '•', 'Stralsund', 'Tribseer']","['Balkon', 'EBK']",Miete zzgl. NK 450 €,Wohnfläche ca. 65 m²,Zi. 2,42,13
+20,selObject_42541258,Kiefernheide - Seniorenwohnung mit Balkon,"['Etagenwohnung', '•', 'Neustrelitz', 'Kiefernheide']",['Balkon'],Miete zzgl. NK 510 €,Wohnfläche ca. 52 m²,Zi. 2,42,13
+21,selObject_42541148,"Seniorenwohnung, Ernst-Moritz-Arndt-Str. 55, Neustreli...","['Etagenwohnung', '•', 'Neustrelitz', 'Kiefernheide']",[],Miete zzgl. NK 340 €,Wohnfläche ca. 41 m²,Zi. 1,42,13
+22,selObject_42539452,Seniorenwohnung Kiefernheide,"['Etagenwohnung', '•', 'Neustrelitz', 'Kiefernheide']",[],Miete zzgl. NK 335 €,Wohnfläche ca. 36 m²,Zi. 2,42,13
+23,selObject_42539364,Seniorenwohnung im Herzen von Neustrelitz,"['Etagenwohnung', '•', 'Neustrelitz', 'Kiefernheide']",[],Miete zzgl. NK 340 €,Wohnfläche ca. 38 m²,Zi. 2,42,13
+24,selObject_42510857,2-Raum Wohnung-Citynah,"['Kein', 'Bild']",['Balkon'],Miete zzgl. NK 198 €,Wohnfläche ca. 41 m²,Zi. 2,42,13
+25,selObject_42488959,Ruhige 3 Zimmerwohnung im Erdgeschoss (frei ab 01.04.2...,"['Erdgeschosswohnung', '•', 'Pasewalk', 'Pasewalk']",[],"Miete zzgl. NK 300,90 €",Wohnfläche ca. 60 m²,Zi. 3,42,13
+26,selObject_42488939,Ruhige 3 Zimmerwohnung,"['Wohnung', '•', 'Pasewalk', 'Pasewalk']",[],"Miete zzgl. NK 270,81 €",Wohnfläche ca. 60 m²,Zi. 3,42,13

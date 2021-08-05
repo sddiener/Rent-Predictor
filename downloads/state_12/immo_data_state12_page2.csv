@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_45022803,NEU Sa-Bt: sanierte 2-Zi-Whg mit Balkon und EBK,"['Etagenwohnung', '•', 'Beelitz', 'Beelitz']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 445 €,Wohnfläche ca. 54 m²,Zi. 2,2,12
-1,selObject_45022781,"NEU 2 Zimmer Wohnung, Erdgeschoss rechts, in einer ruhigen...","['Etagenwohnung', '•', 'Lauchhammer', 'Lauchhammer']","['NEU', 'NEU']",Miete zzgl. NK 242 €,Wohnfläche ca. 49 m²,Zi. 2,2,12
-2,selObject_45022746,NEU Herzlich Willkommen im grünen Ströbitz!,"['Etagenwohnung', '•', 'Cottbus', 'Ströbitz']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 460,92 €",Wohnfläche ca. 67 m²,Zi. 4,2,12
-3,selObject_45022611,NEU Hier ist sie! Ihre neue gemütliche 3 RW in Lauchhamme...,"['Etagenwohnung', '•', 'Lauchhammer', 'Lauchhammer']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 323 €,Wohnfläche ca. 66 m²,Zi. 3,2,12
-4,selObject_45022358,NEU Wohnung TOP / Möbel + Einbauküche TOP + kostenfrei,"['Etagenwohnung', '•', 'Cottbus', 'Sachsendorf']","['NEU', 'NEU', 'Balkon', 'EBK']","Miete zzgl. NK 340,17 €",Wohnfläche ca. 59 m²,Zi. 3,2,12
-5,selObject_45022339,"NEU Wunderschöne geräumige 3 Zimmer Wohnung, im 2. Oberges...","['Etagenwohnung', '•', 'Lauchhammer', 'Lauchhammer']","['NEU', 'NEU']",Miete zzgl. NK 328 €,Wohnfläche ca. 67 m²,Zi. 3,2,12
-6,selObject_45022216,NEU 2 FREIE ZIMMER FÜR POLIZEISCHÜLER IN ORANIENBURG!320EU...,"['Etagenwohnung', '•', 'Oranienburg', 'Oranienburg']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 1.150 €,,Zi. 4,2,12
-7,selObject_45021859,NEU IMMOBERLIN.DE - Zur Miete! Luxuriöse Wohnung mit Südte...,"['Etagenwohnung', '•', 'Potsdam', 'Neu', 'Fahrland']","['NEU', 'NEU', 'EBK']","Miete zzgl. NK 3.042,60 €",Wohnfläche ca. 152 m²,Zi. 4,2,12
-8,selObject_45021619,NEU Möbliertes 1-Zimmer Apartment,"['Apartment', '•', 'Frankfurt', '(Oder)', 'Frankfurt']","['NEU', 'NEU']",Miete zzgl. NK 250 €,Wohnfläche ca. 22 m²,Zi. 1,2,12
-9,selObject_45020365,"NEU großzügige 3 -Zimmerwohnung , Erstbezug *","['Dachgeschosswohnung', '•', 'Oranienburg', 'Oranienburg']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 1.250 €,Wohnfläche ca. 98 m²,Zi. 3,2,12
-10,selObject_45017366,NEU RUHE PUR IM NEUBAU MIT TRAUMBALKON UND SEEBLICK,"['Dachgeschosswohnung', '•', 'Königs', 'Wusterhausen', 'Zernsdorf']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 1.598 €,Wohnfläche ca. 130 m²,Zi. 4,2,12
-11,selObject_45015534,NEU Zweiraum-Wohnung im Dachgeschoss in modernem Gebäude,"['Dachgeschosswohnung', '•', 'Bad', 'Freienwalde', 'Bad', 'Freienwalde']","['NEU', 'NEU']",Miete zzgl. NK 410 €,Wohnfläche ca. 69 m²,Zi. 2,2,12
-12,selObject_45015532,NEU 2 Zimmer im Dachgeschoss zentrumsnah,"['Dachgeschosswohnung', '•', 'Eberswalde', 'Eberswalde']","['NEU', 'NEU']",Miete zzgl. NK 385 €,Wohnfläche ca. 47 m²,Zi. 2,2,12
-13,selObject_45015533,NEU Seniorenwohnung mit Lift und grossem Balkon im Mehrgen...,"['Etagenwohnung', '•', 'Angermünde', 'Angermünde']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 295 €,Wohnfläche ca. 27 m²,Zi. 1,2,12
-14,selObject_45015527,NEU 1-Raumwohnung zu ebener Erde JC-fähig,"['Erdgeschosswohnung', '•', 'Eberswalde', 'Finow']","['NEU', 'NEU']",Miete zzgl. NK 329 €,Wohnfläche ca. 26 m²,Zi. 1,2,12
-15,selObject_45015528,NEU 1 Raum-WE mit Terrasse und Garten-jobcenterfähig,"['Erdgeschosswohnung', '•', 'Casekow', 'Blumberg']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 225 €,Wohnfläche ca. 33 m²,Zi. 1,2,12
-16,selObject_45015522,NEU 1 Zimmer-Wohnung mit Fussbodenheizung Jobcenterfähig,"['Erdgeschosswohnung', '•', 'Eberswalde', 'Eberswalde']","['NEU', 'NEU']",Miete zzgl. NK 325 €,Wohnfläche ca. 22 m²,Zi. 1,2,12
-17,selObject_45015524,NEU 2 Zimmer mit Aufzug in Mitte mit Pflegedienst im Haus,"['Etagenwohnung', '•', 'Eberswalde', 'Eberswalde']","['NEU', 'NEU']",Miete zzgl. NK 430 €,Wohnfläche ca. 57 m²,Zi. 2,2,12
-18,selObject_45015525,"NEU Neue 1,5 Zimmer-Whg mit Einbauküche barrierearm mit...","['Etagenwohnung', '•', 'Angermünde', 'Angermünde']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 285 €,Wohnfläche ca. 28 m²,"Zi. 1,5",2,12
-19,selObject_45015518,NEU Ein-Raumapartment möbliert nahe HNEE,"['Etagenwohnung', '•', 'Eberswalde', 'Eberswalde']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 350 €,Wohnfläche ca. 27 m²,Zi. 1,2,12
-20,selObject_45015519,NEU 2 Raum-WE-neu modernisiert - jobcenterfähig,"['Etagenwohnung', '•', 'Casekow', 'Blumberg']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 265 €,Wohnfläche ca. 49 m²,Zi. 2,2,12
-21,selObject_45015520,NEU 3 Zimmer mit Balkon in ruhiger Lage von Finow,"['Etagenwohnung', '•', 'Eberswalde', 'Finow']","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 550 €,Wohnfläche ca. 69 m²,Zi. 3,2,12
-22,selObject_45015521,NEU 3 Zimmer im Erdgeschoss in Finow mit Terrasse,"['Erdgeschosswohnung', '•', 'Eberswalde', 'Finow']","['NEU', 'NEU']",Miete zzgl. NK 505 €,Wohnfläche ca. 67 m²,Zi. 3,2,12
-23,selObject_45015517,NEU 2 Zimmer topsaniert und riesigem Balkon,"['Etagenwohnung', '•', 'Passow', 'Passow/Wendemark']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 275 €,Wohnfläche ca. 49 m²,Zi. 2,2,12
-24,selObject_45014875,NEU Sanierte 3 Raum Wohnung - Amtsgericht & FH Nähe !,"['Wohnung', '•', 'Brandenburg', 'Altstadt']","['NEU', 'NEU']","Miete zzgl. NK 458,15 €",Wohnfläche ca. 62 m²,Zi. 3,2,12
-25,selObject_45014434,NEU Für Senioren mit ebenerdiger Dusche,"['Etagenwohnung', '•', 'Altdöbern', 'Altdöbern']","['NEU', 'NEU']","Miete zzgl. NK 295,29 €",Wohnfläche ca. 58 m²,Zi. 3,2,12
-26,selObject_45014431,NEU 3-Raum-Wohnung mit Balkon sucht neue Mieter.,"['Etagenwohnung', '•', 'Lübbenau', 'Lübbenau']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 340,48 €",Wohnfläche ca. 61 m²,Zi. 3,2,12
+0,selObject_45045274,NEU Schnäppchen-Wohnung für Kreative!,"[['Etagenwohnung', '•', 'Cottbus', 'Sachsendorf']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 286,10 €",Wohnfläche ca. 57 m²,Zi. 3,2,12
+1,selObject_45045273,NEU Nur 8 Stufen in die neue Wohnung!,"[['Erdgeschosswohnung', '•', 'Cottbus', 'Schmellwitz']]","['NEU', 'NEU']","Miete zzgl. NK 312,31 €",Wohnfläche ca. 60 m²,Zi. 3,2,12
+2,selObject_45045272,NEU Hoch hinauf und den Sonnenuntergang genießen!,"[['Etagenwohnung', '•', 'Cottbus', 'Ströbitz']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 342,90 €",Wohnfläche ca. 57 m²,Zi. 3,2,12
+3,selObject_45045271,NEU Wohnung mit Weitblick!,"[['Etagenwohnung', '•', 'Cottbus', 'Schmellwitz']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 302,31 €",Wohnfläche ca. 57 m²,Zi. 3,2,12
+4,selObject_45045269,NEU Klein - fein - mein!,"[['Erdgeschosswohnung', '•', 'Cottbus', 'Sachsendorf']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 288,84 €",Wohnfläche ca. 48 m²,Zi. 2,2,12
+5,selObject_45045270,NEU Saniert - im Erdgeschoss - was will man mehr?,"[['Erdgeschosswohnung', '•', 'Cottbus', 'Sandow']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 324,48 €",Wohnfläche ca. 51 m²,Zi. 2,2,12
+6,selObject_45045268,NEU Sie suchen eine sanierte Wohnung? Wir haben da etwas...,"[['Etagenwohnung', '•', 'Cottbus', 'Sachsendorf']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 395,18 €",Wohnfläche ca. 72 m²,Zi. 4,2,12
+7,selObject_45045266,NEU Nachmieter gesucht!,"[['Etagenwohnung', '•', 'Cottbus', 'Sachsendorf']]","['NEU', 'NEU', 'Balkon', 'EBK']","Miete zzgl. NK 291,82 €",Wohnfläche ca. 57 m²,Zi. 3,2,12
+8,selObject_45045267,NEU 7 Stufen zur neuen Wohnung!,"[['Etagenwohnung', '•', 'Cottbus', 'Schmellwitz']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 340,23 €",Wohnfläche ca. 62 m²,Zi. 3,2,12
+9,selObject_45045265,NEU Saniert mit Einbauküche - Großzügige 3-Zimmer-Wohnung!,"[['Etagenwohnung', '•', 'Cottbus', 'Sachsendorf']]","['NEU', 'NEU', 'Balkon', 'EBK']","Miete zzgl. NK 407,39 €",Wohnfläche ca. 74 m²,Zi. 3,2,12
+10,selObject_45045264,NEU Der besondere Grundriss!,"[['Etagenwohnung', '•', 'Cottbus', 'Sachsendorf']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 380,70 €",Wohnfläche ca. 76 m²,Zi. 3,2,12
+11,selObject_45045263,NEU Nur sechs Stufen bis zur neuen Wohnung!,"[['Erdgeschosswohnung', '•', 'Cottbus', 'Schmellwitz']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 333,37 €",Wohnfläche ca. 64 m²,Zi. 3,2,12
+12,selObject_45045262,NEU Jetzt einziehen und Bonus sichern!,"[['Etagenwohnung', '•', 'Cottbus', 'Schmellwitz']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 384,80 €",Wohnfläche ca. 74 m²,Zi. 4,2,12
+13,selObject_45045261,NEU Fläche / Fläche / Fläche #bezugsfertig#hergerichtet#,"[['Wohnung', '•', 'Cottbus', 'Sachsendorf']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 431,70 €",Wohnfläche ca. 83 m²,Zi. 3,2,12
+14,selObject_45045260,NEU Nur ein Katzensprung bis zur Spree!,"[['Etagenwohnung', '•', 'Cottbus', 'Sandow']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 402,40 €",Wohnfläche ca. 69 m²,Zi. 4,2,12
+15,selObject_45045259,NEU Kleine Singlewohnung - JETZT MIETEN!,"[['Etagenwohnung', '•', 'Cottbus', 'Schmellwitz']]","['NEU', 'NEU', 'Balkon', 'EBK']","Miete zzgl. NK 276,19 €",Wohnfläche ca. 42 m²,Zi. 2,2,12
+16,selObject_45045258,NEU Komplett Saniert! Balkon! Blick ins Grüne!,"[['Etagenwohnung', '•', 'Cottbus', 'Schmellwitz']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 392,09 €",Wohnfläche ca. 74 m²,Zi. 4,2,12
+17,selObject_45045257,NEU Tolle Wohnung mit Sonnenblick,"[['Etagenwohnung', '•', 'Cottbus', 'Sachsendorf']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 293,25 €",Wohnfläche ca. 59 m²,Zi. 3,2,12
+18,selObject_45045256,NEU Familienwohnung mit praktischem Grundriss!,"[['Etagenwohnung', '•', 'Cottbus', 'Sachsendorf']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 381,97 €",Wohnfläche ca. 72 m²,Zi. 4,2,12
+19,selObject_45045255,NEU Stadtnah günstig wohnen!,"[['Etagenwohnung', '•', 'Cottbus', 'Ströbitz']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 320,04 €",Wohnfläche ca. 57 m²,Zi. 3,2,12
+20,selObject_45045254,NEU Jetzt mieten und Bonus sichern!,"[['Etagenwohnung', '•', 'Cottbus', 'Schmellwitz']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 384,80 €",Wohnfläche ca. 74 m²,Zi. 4,2,12
+21,selObject_45045191,NEU Erstbezug nach Renovierung: 2-Zimmer Hochparterre-Wohn...,"[['Erdgeschosswohnung', '•', 'Velten']]","['NEU', 'NEU']",Miete zzgl. NK 600 €,Wohnfläche ca. 57 m²,Zi. 2,2,12
+22,selObject_45043378,NEU Mögliche Zwei 3-Zimmer- Wohnungen in der Berlin / Luck...,"[['Etagenwohnung', '•', 'Luckenwalde', 'Luckenwalde']]","['NEU', 'NEU']",Miete zzgl. NK 840 €,Wohnfläche ca. 84 m²,Zi. 3,2,12
+23,selObject_45043167,NEU Wohnung sucht Familienanschluss,"[['Wohnung', '•', 'Wiesengrund', 'Gosda']]","['NEU', 'NEU']",Miete zzgl. NK 265 €,Wohnfläche ca. 63 m²,Zi. 3,2,12
+24,selObject_45042975,NEU Familienfreundliche 4 Raumwohnung sucht Mieter,"[['Wohnung', '•', 'Wiesengrund', 'Gosda']]","['NEU', 'NEU']",Miete zzgl. NK 330 €,Wohnfläche ca. 78 m²,Zi. 4,2,12
+25,selObject_45042197,NEU 3 Zimmerwohnung im Herzen von Finow zu mieten,"[['Wohnung', '•', 'Eberswalde', 'Finow']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 456 €,Wohnfläche ca. 61 m²,Zi. 3,2,12
+26,selObject_45042195,NEU Ihr braucht mehr Raum?,"[['Wohnung', '•', 'Eberswalde', 'Brandenburgisches', 'Viertel']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 434 €,Wohnfläche ca. 59 m²,Zi. 3,2,12

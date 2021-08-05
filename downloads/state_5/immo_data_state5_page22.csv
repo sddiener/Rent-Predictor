@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_45012025,NEU +++Schalker Str. zentral wohnen+++,"['Wohnung', '•', 'Gelsenkirchen', 'Schalke']","['NEU', 'NEU']",Miete zzgl. NK 240 €,Wohnfläche ca. 40 m²,Zi. 2,22,5
-1,selObject_45012007,NEU 2-Zimmerwohnung mit Garten in Bonn Lengsdorf,"['Wohnung', '•', 'Bonn', 'Lengsdorf']","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 485 €,Wohnfläche ca. 45 m²,Zi. 2,22,5
-2,selObject_45011920,NEU 2-Zimmer-Wohnung zu vermieten,"['Apartment', '•', 'Iserlohn', 'Zentrum']","['NEU', 'NEU']",Miete zzgl. NK 285 €,Wohnfläche ca. 30 m²,Zi. 2,22,5
-3,selObject_45011915,NEU helle & ansprechende 65 qm Singelwohnung in Herten,"['Apartment', '•', 'Herten', 'Süd']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 350 €,Wohnfläche ca. 65 m²,Zi. 2,22,5
-4,selObject_45011916,NEU WG geeignete 2 Zimmer Wohnung in Aachen Mitte * Einzie...,"['Erdgeschosswohnung', '•', 'Aachen', 'Aachen']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 479 €,Wohnfläche ca. 40 m²,Zi. 2,22,5
-5,selObject_45011914,NEU helle & ansprechende 62 qm Singel Wohnung in der Stadt...,"['Etagenwohnung', '•', 'Herten', 'Süd']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 324 €,Wohnfläche ca. 62 m²,Zi. 2,22,5
-6,selObject_45011874,NEU **Appartement mit Einbauküche in Neheim City**,"['Etagenwohnung', '•', 'Arnsberg', 'Neheim-Hüsten']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 295 €,Wohnfläche ca. 34 m²,Zi. 1,22,5
-7,selObject_45011841,NEU 1-Zimmer-Wohnung - komplett eingerichtet - in Billerbe...,"['Apartment', '•', 'Billerbeck']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 200 €,Wohnfläche ca. 22 m²,Zi. 1,22,5
-8,selObject_45011840,NEU * 2 Zimmer-Wohnung mit Gartenanteil *Erstbezug nach...,"['Etagenwohnung', '•', 'Bielefeld', 'Stieghorst']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 390 €,Wohnfläche ca. 46 m²,Zi. 2,22,5
-9,selObject_45011838,NEU Renovierte 3 Zimmerwohnung zu vermieten,"['Dachgeschosswohnung', '•', 'Bielefeld', 'Brackwede']","['NEU', 'NEU']",Miete zzgl. NK 450 €,Wohnfläche ca. 63 m²,Zi. 3,22,5
-10,selObject_45011806,NEU Renovierte 3-Zimmer-Wohnung mit Balkon und Garage in...,"['Wohnung', '•', 'Dortmund', 'Hombruch']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 790 €,Wohnfläche ca. 88 m²,Zi. 3,22,5
-11,selObject_45011801,NEU Schöne 3 Zimmer Wohnung,"['Etagenwohnung', '•', 'Krefeld', 'Hüls']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 420 €,Wohnfläche ca. 65 m²,Zi. 3,22,5
-12,selObject_45011798,NEU Traumhafte Dachgeschosswohnung mit Balkon und Aufzug...,"['Dachgeschosswohnung', '•', 'Krefeld', 'Bockum']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 1.190 €,Wohnfläche ca. 91 m²,"Zi. 2,5",22,5
-13,selObject_45011786,NEU Schöne Erdgeschoss Wohnung in Essen Burgaltendorf,"['Etagenwohnung', '•', 'Essen', 'Burgaltendorf']","['NEU', 'NEU']",Miete zzgl. NK 450 €,Wohnfläche ca. 70 m²,"Zi. 3,5",22,5
-14,selObject_45011775,NEU gute Wohnung,"['Kein', 'Bild']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 300 €,Wohnfläche ca. 41 m²,Zi. 1,22,5
-15,selObject_45011729,NEU 1 - Zimmer - Wohnung im Zentrum von Castrop-Rauxel (2),"['Etagenwohnung', '•', 'Castrop-Rauxel', 'Castrop']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 207,01 €",Wohnfläche ca. 43 m²,Zi. 1,22,5
-16,selObject_45011715,NEU Wohnung gesucht? Dieses Appartement sucht neue Mieter(...,"['Apartment', '•', 'Bochum', 'Eppendorf']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 345 €,Wohnfläche ca. 34 m²,"Zi. 1,5",22,5
-17,selObject_45011692,NEU #IVB zwei Zimmer Wohnung im Herzen der Pontstraße zu...,"['Etagenwohnung', '•', 'Aachen', 'Aachen']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 560 €,Wohnfläche ca. 65 m²,Zi. 2,22,5
-18,selObject_45011689,NEU IVB# zwei Zimmer Wohnung in Innenstadt Nähe zu vermiet...,"['Etagenwohnung', '•', 'Aachen', 'Aachen']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 400 €,Wohnfläche ca. 70 m²,Zi. 2,22,5
-19,selObject_45011690,NEU IVB# kleine zwei Zimmer Wohnung in Aachen-Stolberg zu...,"['Etagenwohnung', '•', 'Stolberg', 'Stolberg']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 350 €,Wohnfläche ca. 49 m²,Zi. 2,22,5
-20,selObject_45011687,NEU IVB # Kornelimünster - kernsanierte Wohnung mit großer...,"['Etagenwohnung', '•', 'Aachen', 'Kornelimünster']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 1.050 €,Wohnfläche ca. 139 m²,Zi. 4,22,5
-21,selObject_45011684,NEU IVB # schöne 2-Zimmer Wohnung mit Balkon in Aachen...,"['Etagenwohnung', '•', 'Aachen', 'Brand']","['NEU', 'NEU']",Miete zzgl. NK 570 €,Wohnfläche ca. 63 m²,Zi. 2,22,5
-22,selObject_45011683,NEU IVB# schöne 3-Zimmer Wohnung in Aachen-Forst,"['Etagenwohnung', '•', 'Aachen', 'Aachen']","['NEU', 'NEU']",Miete zzgl. NK 540 €,Wohnfläche ca. 75 m²,Zi. 3,22,5
-23,selObject_45011665,"NEU Pulheim-Brauweiler, 77 qm, 3 Zi. KDB, Sonnenbalkon,...","['Etagenwohnung', '•', 'Pulheim', 'Brauweiler']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 880 €,Wohnfläche ca. 77 m²,Zi. 3,22,5
-24,selObject_45011657,NEU Gr0ßzügig geschnittene 3 Zimmer DG-Wohnung in guter...,"['Dachgeschosswohnung', '•', 'Ense', 'Bremen']","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 495 €,Wohnfläche ca. 88 m²,Zi. 3,22,5
-25,selObject_45011613,NEU Verfügbar ab 05.09.2021! 2-Zi.-Whg.,"['Apartment', '•', 'Köln', 'Braunsfeld']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 880 €,Wohnfläche ca. 70 m²,Zi. 2,22,5
-26,selObject_45011604,NEU Schöne 1-Zimmer Wohnung mit Küche inkl. Einbauküche,"['Wohnung', '•', 'Paderborn', 'Kernstadt']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 310 €,Wohnfläche ca. 33 m²,Zi. 1,22,5
+0,selObject_45029378,"NEU Wer will mich!? Praktisches 1,5-Zimmer-Single-Appartme...","[['Etagenwohnung', '•', 'Dortmund', 'Oestrich']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 385 €,Wohnfläche ca. 45 m²,"Zi. 1,5",22,5
+1,selObject_45029374,NEU Gesucht und gefunden !,"[['Etagenwohnung', '•', 'Köln', 'Holweide']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 740,35 €",Wohnfläche ca. 67 m²,Zi. 3,22,5
+2,selObject_45029366,NEU Modernsierte 3-Zimmer-Wohnung (WBS),"[['Etagenwohnung', '•', 'Essen', 'Horst']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 483,05 €",Wohnfläche ca. 83 m²,"Zi. 3,5",22,5
+3,selObject_45029354,NEU 2 -Zimmer-Wohnung in Stadtlage mit Blick auf Köln,"[['Etagenwohnung', '•', 'Köln', 'Mülheim']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 716,90 €",Wohnfläche ca. 67 m²,Zi. 2,22,5
+4,selObject_45029353,NEU Ihr neues Zuhause: günstig geschnittene 3-Zimmer-Wohnu...,"[['Etagenwohnung', '•', 'Schwerte', 'Westhofen']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 435,74 €",Wohnfläche ca. 60 m²,Zi. 3,22,5
+5,selObject_45029351,NEU Stop! Ansprechende 3-Zimmer-Wohnung,"[['Erdgeschosswohnung', '•', 'Bochum', 'Innenstadt']]","['NEU', 'NEU']","Miete zzgl. NK 312,39 €",Wohnfläche ca. 41 m²,"Zi. 2,5",22,5
+6,selObject_45029350,NEU Saniertes Wohnhaus - moderne Wohnung - Grevenbroich-Sü...,"[['Erdgeschosswohnung', '•', 'Grevenbroich', 'Südstadt']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 576,20 €",Wohnfläche ca. 67 m²,Zi. 3,22,5
+7,selObject_45029342,NEU Zentrale 2- Zimmerwohnung in Stadtlage,"[['Etagenwohnung', '•', 'Köln', 'Kalk']]","['NEU', 'NEU']","Miete zzgl. NK 516,55 €",Wohnfläche ca. 48 m²,Zi. 2,22,5
+8,selObject_45029340,NEU Stop ! Super 2- Zimmerwohnung mit Dom Blick!!,"[['Etagenwohnung', '•', 'Köln', 'Kalk']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 801,54 €",Wohnfläche ca. 73 m²,Zi. 2,22,5
+9,selObject_45029339,NEU Hier fühlen Sie sich wohl: interessante 3-Zimmer-Wohnu...,"[['Etagenwohnung', '•', 'Bochum', 'Hofstede']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 489,92 €",Wohnfläche ca. 61 m²,"Zi. 4,5",22,5
+10,selObject_45029338,NEU Top Lage in Deutz,"[['Etagenwohnung', '•', 'Köln', 'Deutz']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 901,45 €",Wohnfläche ca. 71 m²,Zi. 3,22,5
+11,selObject_45029335,NEU Schöner Wohnen in dieser 3-Zimmer-Wohnung,"[['Etagenwohnung', '•', 'Gladbeck', 'Zweckel']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 511,73 €",Wohnfläche ca. 68 m²,"Zi. 3,5",22,5
+12,selObject_45029334,"NEU Umzug gefällig? 3,5-Zimmer-Wohnung","[['Etagenwohnung', '•', 'Herten', 'Bertlich']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 409,94 €",Wohnfläche ca. 66 m²,"Zi. 3,5",22,5
+13,selObject_45029332,NEU Neubau Rüttenscheider Straße: Helle und hochw. ausgest...,"[['Etagenwohnung', '•', 'Essen', 'Südviertel']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 1.730,54 €",Wohnfläche ca. 124 m²,Zi. 3,22,5
+14,selObject_45029325,NEU Mitten drin statt nur dabei: interessante 2-Zimmer-Woh...,"[['Etagenwohnung', '•', 'Dortmund', 'Westerfilde']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 430 €,Wohnfläche ca. 54 m²,Zi. 2,22,5
+15,selObject_45029323,NEU 3-Zi.-Whg. mit sonnigem Balkon in Ronsdorf,"[['Etagenwohnung', '•', 'Wuppertal', 'Ronsdorf']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 449,64 €",Wohnfläche ca. 53 m²,Zi. 2,22,5
+16,selObject_45029321,NEU 2-Zimmer-Wohnung mit Ausblick (WBS),"[['Dachgeschosswohnung', '•', 'Köln', 'Dellbrück']]","['NEU', 'NEU']","Miete zzgl. NK 305,33 €",Wohnfläche ca. 62 m²,Zi. 2,22,5
+17,selObject_45029320,NEU 3-Zimmer-Wohnung in modernisiertem Wohnhaus - mit Geot...,"[['Etagenwohnung', '•', 'Grevenbroich', 'Südstadt']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 582,90 €",Wohnfläche ca. 67 m²,Zi. 3,22,5
+18,selObject_45029317,NEU Smarter Wohnen: 2-Zimmer-Stadtwohnung,"[['Erdgeschosswohnung', '•', 'Essen', 'Stoppenberg']]","['NEU', 'NEU']",Miete zzgl. NK 339 €,Wohnfläche ca. 45 m²,Zi. 3,22,5
+19,selObject_45029315,NEU Traumwohnung ? Gefunden !!!,"[['Dachgeschosswohnung', '•', 'Köln', 'Mülheim']]","['NEU', 'NEU']","Miete zzgl. NK 716,80 €",Wohnfläche ca. 64 m²,Zi. 2,22,5
+20,selObject_45029313,"NEU Ab 01.09: Wohnung mit großem Balkon, Düsseldorf-Hassel...","[['Etagenwohnung', '•', 'Düsseldorf', 'Hassels']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 556,50 €",Wohnfläche ca. 54 m²,Zi. 2,22,5
+21,selObject_45029291,NEU Sehr schöne Zwei-Zimmer-Wohnung mit nagelneuer Einbauk...,"[['Wohnung', '•', 'Düsseldorf', 'Hafen']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 500 €,Wohnfläche ca. 55 m²,Zi. 2,22,5
+22,selObject_45029043,NEU Tolle Seniorenwohnung auf der Lindenstr. 70 in Buchhol...,"[['Etagenwohnung', '•', 'Duisburg', 'Buchholz']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 276,34 €",Wohnfläche ca. 56 m²,Zi. 2,22,5
+23,selObject_45029041,NEU Erstbezug nach Modernisierung,"[['Etagenwohnung', '•', 'Duisburg', 'Alt-Homberg']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 332 €,Wohnfläche ca. 54 m²,Zi. 2,22,5
+24,selObject_45029039,NEU Wunderbar wohnen in beliebter Lage,"[['Etagenwohnung', '•', 'Duisburg', 'Alt-Homberg']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 427,55 €",Wohnfläche ca. 64 m²,Zi. 3,22,5
+25,selObject_45029033,NEU *** Alle Studenten aufgepasst ***,"[['Etagenwohnung', '•', 'Lemgo', 'Lemgo']]","['NEU', 'NEU']",Miete zzgl. NK 275 €,Wohnfläche ca. 36 m²,Zi. 2,22,5
+26,selObject_45029030,"NEU Tolle 3,5-Zimmer Wohnung mit Aufzug! Jetzt 2 Kaltmiete...","[['Wohnung', '•', 'Hagen', 'Altenhagen']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 350 €,Wohnfläche ca. 68 m²,"Zi. 3,5",22,5

@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44851905,Hier haben alle Platz!,"['Wohnung', '•', 'Wolmirstedt', 'Wolmirstedt']",['Balkon'],Miete zzgl. NK 348 €,Wohnfläche ca. 66 m²,Zi. 4,43,15
-1,selObject_44851807,Balkon und Wanne für den Feierabend!,"['Wohnung', '•', 'Halberstadt', 'Halberstadt']",['Balkon'],Miete zzgl. NK 272 €,Wohnfläche ca. 56 m²,Zi. 3,43,15
-2,selObject_44851806,Mit Balkon und Aussicht!,"['Wohnung', '•', 'Halberstadt', 'Halberstadt']",['Balkon'],Miete zzgl. NK 188 €,Wohnfläche ca. 36 m²,Zi. 1,43,15
-3,selObject_44851805,Für DICH perfekt!,"['Wohnung', '•', 'Halberstadt', 'Halberstadt']",['Balkon'],Miete zzgl. NK 188 €,Wohnfläche ca. 36 m²,Zi. 1,43,15
-4,selObject_44850928,Gemütliche zwei Zimmer Wohnung frisch renoviert für...,"['Wohnung', '•', 'Magdeburg', 'Cracau']",[],Miete zzgl. NK 295 €,Wohnfläche ca. 45 m²,Zi. 2,43,15
-5,selObject_44850911,Mit Dusche und Balkon!,"['Wohnung', '•', 'Aschersleben', 'Aschersleben']",['Balkon'],"Miete zzgl. NK 269,50 €",Wohnfläche ca. 49 m²,Zi. 2,43,15
-6,selObject_44850531,"Wir renovieren für SIE, freundliche Familie gesucht","['Etagenwohnung', '•', 'Jessen', 'Jessen']","['Balkon', 'Garten']",Miete zzgl. NK 690 €,Wohnfläche ca. 120 m²,Zi. 5,43,15
-7,selObject_44850518,frisch für Sie renoviert! gemütliche 3 Raum Wohnung...,"['Etagenwohnung', '•', 'Jessen', 'Jessen']","['Balkon', 'Garten']","Miete zzgl. NK 501,98 €",Wohnfläche ca. 87 m²,Zi. 3,43,15
-8,selObject_44850509,"Renovierung fast abgeschlossen, nur SIE fehlen noch","['Etagenwohnung', '•', 'Jessen', 'Jessen']","['Balkon', 'Garten']","Miete zzgl. NK 501,98 €",Wohnfläche ca. 87 m²,Zi. 3,43,15
-9,selObject_44850492,frisch für Sie renoviert! gemütliche 3 Raum Wohnung...,"['Etagenwohnung', '•', 'Jessen', 'Jessen']","['Balkon', 'Garten']","Miete zzgl. NK 501,98 €",Wohnfläche ca. 87 m²,Zi. 3,43,15
-10,selObject_44848587,Klein aber fein!,"['Etagenwohnung', '•', 'Halle', 'Nördliche', 'Neustadt']",[],Miete zzgl. NK 143 €,Wohnfläche ca. 29 m²,Zi. 1,43,15
-11,selObject_44847583,2-Raumwohnung+++Erstbezug+++Wohnen direkt am Steintor,"['Etagenwohnung', '•', 'Halle', 'Innenstadt']",[],Miete zzgl. NK 660 €,Wohnfläche ca. 73 m²,Zi. 2,43,15
-12,selObject_44847449,Erstbezug nach Wohnungssanierung,"['Wohnung', '•', 'Magdeburg', 'Neue', 'Neustadt']",[],"Miete zzgl. NK 253,55 €",Wohnfläche ca. 46 m²,Zi. 2,43,15
-13,selObject_44847447,Sehr schöne sanierte 2- Raumwohnung mit geräumigen...,"['Wohnung', '•', 'Magdeburg', 'Stadtfeld', 'Ost']",['Balkon'],"Miete zzgl. NK 325,74 €",Wohnfläche ca. 54 m²,Zi. 2,43,15
-14,selObject_44847442,Ideale 1-Raumwohnung mit großem Balkon,"['Wohnung', '•', 'Magdeburg', 'Neu', 'Olvenstedt']",['Balkon'],"Miete zzgl. NK 186,51 €",Wohnfläche ca. 35 m²,Zi. 1,43,15
-15,selObject_44846667,Gut geschnittene 2-Raum-DG-Wohnung,"['Wohnung', '•', 'Merseburg', 'Merseburg']",[],Miete zzgl. NK 280 €,Wohnfläche ca. 56 m²,Zi. 2,43,15
-16,selObject_44846624,Gut geschnittene Zweiraumwohnung mit Dusche und Wanne,"['Wohnung', '•', 'Merseburg', 'Merseburg']",[],Miete zzgl. NK 290 €,Wohnfläche ca. 59 m²,Zi. 2,43,15
-17,selObject_44846602,Tolle 2-Raumwohnung am hinteren Gotthardteich,"['Wohnung', '•', 'Merseburg', 'Merseburg']",['EBK'],Miete zzgl. NK 360 €,Wohnfläche ca. 71 m²,Zi. 2,43,15
-18,selObject_44846591,Exclusive Einraumwohnung mit Terrasse,"['Erdgeschosswohnung', '•', 'Merseburg', 'Merseburg']","['Garten', 'EBK']",Miete zzgl. NK 270 €,Wohnfläche ca. 30 m²,Zi. 1,43,15
-19,selObject_44846579,Großzügige Zweiraumwohnung mit neuer Einbauküche,"['Wohnung', '•', 'Merseburg', 'Merseburg']",['EBK'],Miete zzgl. NK 350 €,Wohnfläche ca. 72 m²,Zi. 2,43,15
-20,selObject_44846257,2-Zimmer-Wohnung in Barleben mit Terrasse und Garten,"['Wohnung', '•', 'Barleben', 'Barleben']",['Garten'],Miete zzgl. NK 400 €,Wohnfläche ca. 42 m²,Zi. 2,43,15
-21,selObject_44846081,Attraktive Wohnung (auch Alten-u.Behindertengerechte...,"['Wohnung', '•', 'Osterburg', 'Krumke']",[],"Miete zzgl. NK 282,55 €",Wohnfläche ca. 57 m²,Zi. 2,43,15
-22,selObject_44844657,Wir renovieren Ihre neue Wohnung und schenken dazu...,"['Etagenwohnung', '•', 'Hötensleben', 'Ohrsleben']",[],"Miete zzgl. NK 248,40 €",Wohnfläche ca. 55 m²,Zi. 3,43,15
-23,selObject_44844403,Hier warten 133 m² zum Wohlfühlen auf Sie - Erstbezug...,"['Wohnung', '•', 'Halle', 'Innenstadt']",['Balkon'],Miete zzgl. NK 1.197 €,Wohnfläche ca. 133 m²,Zi. 5,43,15
-24,selObject_44844161,+++Mitten im Herzen von Stadtfeld und doch ruhig geleg...,"['Etagenwohnung', '•', 'Magdeburg', 'Stadtfeld', 'Ost']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 364 €,Wohnfläche ca. 56 m²,Zi. 2,43,15
-25,selObject_44844095,schöne 3 - Raum - Wohnung in Nord*offene Küche*Balkon*...,"['Wohnung', '•', 'Dessau-Roßlau', 'Innenstadt']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 430 €,Wohnfläche ca. 72 m²,Zi. 3,43,15
-26,selObject_44844056,"Die Suche hat ein Ende, wir renovieren Ihre 2-Zimmer-W...","['Wohnung', '•', 'Burg', 'Burg']",[],Miete zzgl. NK 268 €,Wohnfläche ca. 52 m²,Zi. 2,43,15
+0,selObject_44866275,"große 2- Raumwohnung mit Badewanne und Balkon, saniert","[['Wohnung', '•', 'Magdeburg', 'Neue', 'Neustadt']]","['Balkon', 'Garten']",Miete zzgl. NK 395 €,Wohnfläche ca. 61 m²,Zi. 2,43,15
+1,selObject_44866057,Nette 3- Raum-Wohnung am Stadtrand,"[['Dachgeschosswohnung', '•', 'Aschersleben', 'Aschersleben']]",['Garten'],Miete zzgl. NK 400 €,Wohnfläche ca. 73 m²,Zi. 3,43,15
+2,selObject_44865946,Heller Wohntraum mit Balkon,"[['Erdgeschosswohnung', '•', 'Magdeburg', 'Neue', 'Neustadt']]",['Balkon'],"Miete zzgl. NK 245,65 €",Wohnfläche ca. 41 m²,Zi. 2,43,15
+3,selObject_44865615,"Gemütlich, Praktisch, gut zu Wohnen","[['Wohnung', '•', 'Halle', 'Lutherplatz']]",[],Miete zzgl. NK 327 €,Wohnfläche ca. 54 m²,Zi. 3,43,15
+4,selObject_44865559,Große 2 Raumwohnung zum Wohlfühlen,"[['Wohnung', '•', 'Halle', 'Damaschkestraße']]",['Balkon'],Miete zzgl. NK 325 €,Wohnfläche ca. 53 m²,Zi. 2,43,15
+5,selObject_44865540,"Ihr neues Zuhause, tolle 3-Raum-Wohnung","[['Wohnung', '•', 'Halle', 'Damaschkestraße']]",['Balkon'],Miete zzgl. NK 455 €,Wohnfläche ca. 66 m²,Zi. 3,43,15
+6,selObject_44865516,nicht weit zur Peißnitz und Moritzburg,"[['Etagenwohnung', '•', 'Halle', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 380 €,Wohnfläche ca. 55 m²,Zi. 2,43,15
+7,selObject_44865264,JobCenter geeignete 1-Zi. 35m² - sofort verfügbar -...,"[['Etagenwohnung', '•', 'Magdeburg', 'Neu', 'Olvenstedt']]",[],Miete zzgl. NK 180 €,Wohnfläche ca. 35 m²,Zi. 1,43,15
+8,selObject_44865117,JobCenter geeignete 1-Zi. 35m² - sofort verfügbar -...,"[['Etagenwohnung', '•', 'Magdeburg', 'Neu', 'Olvenstedt']]",[],Miete zzgl. NK 180 €,Wohnfläche ca. 35 m²,Zi. 1,43,15
+9,selObject_44864967,JobCenter geeignete 1-Zi. 35m² - sofort verfügbar -...,"[['Etagenwohnung', '•', 'Magdeburg', 'Neu', 'Olvenstedt']]",[],Miete zzgl. NK 180 €,Wohnfläche ca. 35 m²,Zi. 1,43,15
+10,selObject_44864807,Erstbezug nach Sanierung!,"[['Etagenwohnung', '•', 'Magdeburg', 'Sudenburg']]",['Balkon'],Miete zzgl. NK 504 €,Wohnfläche ca. 67 m²,Zi. 4,43,15
+11,selObject_44864746,Bequem in´s neue Zuhause!,"[['Etagenwohnung', '•', 'Magdeburg', 'Sudenburg']]",['Balkon'],Miete zzgl. NK 435 €,Wohnfläche ca. 58 m²,Zi. 3,43,15
+12,selObject_44864574,tolles WG- Zimmer in Magdeburg,"[['Zimmer', '•', 'Magdeburg', 'Leipziger', 'Str.']]",['EBK'],Miete inkl. NK 267 €,Wohnfläche ca. 16 m²,,43,15
+13,selObject_44864564,Wie geschaffen für Pendler!,"[['Etagenwohnung', '•', 'Magdeburg', 'Fermersleben']]",[],Miete zzgl. NK 174 €,Wohnfläche ca. 33 m²,Zi. 1,43,15
+14,selObject_44864510,Schöne 2 - Zimmerwohnung mit Balkon +++ für kurze Zeit...,"[['Wohnung', '•', 'Zeitz', 'Zeitz']]",['Balkon'],Miete zzgl. NK 230 €,Wohnfläche ca. 49 m²,Zi. 2,43,15
+15,selObject_44862865,günstiger Wohnraum für FAMILIEN,"[['Etagenwohnung', '•', 'Dessau-Roßlau', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 345 €,Wohnfläche ca. 66 m²,Zi. 4,43,15
+16,selObject_44862756,sanierte 3 Raumwohung - GARAGE geschenkt.,"[['Etagenwohnung', '•', 'Dessau-Roßlau', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 380 €,Wohnfläche ca. 57 m²,Zi. 3,43,15
+17,selObject_44861732,Moderne 3-Zimmer-Wohnung mit Balkon und Kamin,"[['Wohnung', '•', 'Zeitz', 'Zeitz']]",['Balkon'],Miete zzgl. NK 600 €,Wohnfläche ca. 99 m²,Zi. 3,43,15
+18,selObject_44861474,Diese Wohnung sollten Sie sich nicht entgehen lassen!,"[['Wohnung', '•', 'Oschersleben', 'Oschersleben']]",[],Miete zzgl. NK 410 €,Wohnfläche ca. 79 m²,Zi. 3,43,15
+19,selObject_44861472,Wohnen in der Villa!,"[['Wohnung', '•', 'Oschersleben', 'Oschersleben']]",[],Miete zzgl. NK 338 €,Wohnfläche ca. 65 m²,Zi. 2,43,15
+20,selObject_44861471,Hier lässt es sich leben,"[['Wohnung', '•', 'Oschersleben', 'Oschersleben']]",[],Miete zzgl. NK 275 €,Wohnfläche ca. 50 m²,Zi. 2,43,15
+21,selObject_44861468,Junges Wohnen!,"[['Wohnung', '•', 'Oschersleben', 'Oschersleben']]",['Balkon'],Miete zzgl. NK 245 €,Wohnfläche ca. 36 m²,Zi. 1,43,15
+22,selObject_44861466,Einfach ein passendes Zuhause!,"[['Wohnung', '•', 'Halle', 'Südliche', 'Neustadt']]",['Balkon'],Miete zzgl. NK 334 €,Wohnfläche ca. 61 m²,Zi. 3,43,15
+23,selObject_44861393,Frisch sanierte 2 Zimmer - Die perfekte kleine Singlew...,"[['Erdgeschosswohnung', '•', 'Magdeburg', 'Sudenburg']]",[],Miete zzgl. NK 290 €,Wohnfläche ca. 54 m²,Zi. 2,43,15
+24,selObject_44861391,"1 Zimmerwohnung in Magdeburg, Rothensee","[['Erdgeschosswohnung', '•', 'Magdeburg', 'Rothensee']]",[],Miete zzgl. NK 270 €,Wohnfläche ca. 42 m²,Zi. 1,43,15
+25,selObject_44861313,3-Zimmer-Wohnung mit wunderbarem Ausblick für Sportbeg...,"[['Etagenwohnung', '•', 'Burg', 'Burg']]",['Balkon'],"Miete zzgl. NK 288,12 €",Wohnfläche ca. 69 m²,Zi. 3,43,15
+26,selObject_44861231,Frisch renovierte helle 2 Zimmer Wohnung in Bernburg...,"[['Wohnung', '•', 'Bernburg', 'Bernburg']]",['Balkon'],Miete zzgl. NK 299 €,Wohnfläche ca. 49 m²,Zi. 2,43,15

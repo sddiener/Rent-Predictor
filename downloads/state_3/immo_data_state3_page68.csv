@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44722351,2-Zimmer-Wohnung im ruhigen Erdgeschoss,"['Erdgeschosswohnung', '•', 'Wolfsburg', 'Laagberg']",['Balkon'],Miete zzgl. NK 501 €,Wohnfläche ca. 67 m²,Zi. 2,68,3
-1,selObject_44722347,Seniorenbad und große Wohnküche,"['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']",[],Miete zzgl. NK 290 €,Wohnfläche ca. 57 m²,Zi. 3,68,3
-2,selObject_44722339,2-Zimmer-Wohnung mit Dusche,"['Erdgeschosswohnung', '•', 'Salzgitter', 'Lebenstedt']",[],Miete zzgl. NK 266 €,Wohnfläche ca. 49 m²,Zi. 2,68,3
-3,selObject_44722340,SELBERMACHER AUFGEPASST! 2 Zimmer-Wohnung inkl. TEDOX-...,"['Wohnung', '•', 'Salzgitter', 'Lebenstedt']",[],Miete zzgl. NK 256 €,Wohnfläche ca. 48 m²,Zi. 2,68,3
-4,selObject_44722337,Wohnung anmieten und 150 € Amazon Gutschein erhalten,"['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']",['Balkon'],Miete zzgl. NK 334 €,Wohnfläche ca. 62 m²,Zi. 3,68,3
-5,selObject_44722332,Modernisierte Erdgeschosswohnung,"['Erdgeschosswohnung', '•', 'Salzgitter', 'Lebenstedt']",[],Miete zzgl. NK 320 €,Wohnfläche ca. 59 m²,Zi. 3,68,3
-6,selObject_44722328,*Whg. bis April anmieten und 250 € Tedox-Gutschein...,"['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']",[],Miete zzgl. NK 282 €,Wohnfläche ca. 51 m²,Zi. 2,68,3
-7,selObject_44722326,SUPER AKTION FÜR SIE!*,"['Etagenwohnung', '•', 'Salzgitter', 'Lebenstedt']",[],Miete zzgl. NK 330 €,Wohnfläche ca. 62 m²,Zi. 3,68,3
-8,selObject_44722311,Sonnig und gut geschnitten,"['Erdgeschosswohnung', '•', 'Hermannsburg', 'Hermannsburg']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 400 €,Wohnfläche ca. 75 m²,Zi. 3,68,3
-9,selObject_44721909,Schöne 2-Zimmer-Wohnung mit Balkon am Hageberg,"['Etagenwohnung', '•', 'Wolfsburg', 'Laagberg']",['Balkon'],Miete zzgl. NK 560 €,Wohnfläche ca. 69 m²,Zi. 2,68,3
-10,selObject_44721897,Helle 2-Zimmer-Wohnung in beliebter lage am Hageberg,"['Wohnung', '•', 'Wolfsburg', 'Laagberg']",[],Miete zzgl. NK 501 €,Wohnfläche ca. 61 m²,Zi. 2,68,3
-11,selObject_44721880,Moderniesierte 2-Zimmer-Wohnung mit Balkon im beliebte...,"['Erdgeschosswohnung', '•', 'Wolfsburg', 'Laagberg']",['Balkon'],Miete zzgl. NK 510 €,Wohnfläche ca. 63 m²,Zi. 2,68,3
-12,selObject_44721877,Schöne 2-Zi-Wohnung in beliebter Wohnlage am Hageberg,"['Wohnung', '•', 'Wolfsburg', 'Laagberg']",[],Miete zzgl. NK 444 €,Wohnfläche ca. 54 m²,Zi. 2,68,3
-13,selObject_44721870,Helle 2-Zimmer-Wohnung im mordernem Grundriss,"['Wohnung', '•', 'Wolfsburg', 'Laagberg']",[],Miete zzgl. NK 444 €,Wohnfläche ca. 59 m²,Zi. 2,68,3
-14,selObject_44721868,Schöne kleine 2-Zimmer-Wohnung mit Einbauküche,"['Wohnung', '•', 'Wolfsburg', 'Laagberg']",['Balkon'],Miete zzgl. NK 446 €,Wohnfläche ca. 55 m²,Zi. 2,68,3
-15,selObject_44721867,Modernisierte 2-Zimmer-Wohnung mit Balkon am Hageberg,"['Etagenwohnung', '•', 'Wolfsburg', 'Laagberg']",['Balkon'],Miete zzgl. NK 510 €,Wohnfläche ca. 63 m²,Zi. 2,68,3
-16,selObject_44720902,ZUM 01.09.2021 | Apartment mit Terrasse in Uni-Nähe...,"['Wohnung', '•', 'Oldenburg', 'Alexandersfeld']","['Balkon', 'EBK']","Miete zzgl. NK 522,60 €",,Zi. 1,68,3
-17,selObject_44720805,Wie Neubau: Elegante 2-Zi.-Erdgeschosswohnung,"['Etagenwohnung', '•', 'Bad', 'Bevensen', 'Bad', 'Bevensen']",['EBK'],Miete zzgl. NK 795 €,Wohnfläche ca. 80 m²,Zi. 2,68,3
-18,selObject_44720447,2 Zimmer Wohnung Osnabrück-Sutthausen !Anfragestopp!,"['Etagenwohnung', '•', 'Osnabrück', 'Sutthausen']",[],Miete zzgl. NK 420 €,Wohnfläche ca. 40 m²,Zi. 2,68,3
-19,selObject_44720185,Über den Dächern von Braunschweig - 3-Zimmer Wohnung...,"['Etagenwohnung', '•', 'Braunschweig', 'Weststadt']",['Balkon'],"Miete zzgl. NK 629,38 €",Wohnfläche ca. 81 m²,Zi. 3,68,3
-20,selObject_44720100,Modernisierte 3- Zimmer-Wohnung,"['Etagenwohnung', '•', 'Nordstemmen', 'Nordstemmen']",['Balkon'],"Miete zzgl. NK 638,05 €",Wohnfläche ca. 85 m²,Zi. 3,68,3
-21,selObject_44712682,Schöne 2-Zimmer-Wohnung in zentraler Lage von Nordhorn,"['Etagenwohnung', '•', 'Nordhorn', 'Brandlecht']",['EBK'],Miete zzgl. NK 569 €,Wohnfläche ca. 73 m²,Zi. 2,68,3
-22,selObject_44712574,"Wohnen, wo andere Urlaub machen! 2 Zimmer-Studio-Wohn...","['Dachgeschosswohnung', '•', 'Jemgum', 'Jemgum']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 450 €,Wohnfläche ca. 60 m²,Zi. 2,68,3
-23,selObject_44712558,Modernisierte 3 Zimmer-Erdgeschoss-Wohnung in ruhiger...,"['Erdgeschosswohnung', '•', 'Jemgum', 'Jemgum']",['EBK'],Miete zzgl. NK 590 €,Wohnfläche ca. 100 m²,Zi. 3,68,3
-24,selObject_44712266,KUNZE: 2-Zimmer-Wohnung in Sarstedt mit Balkon!,"['Etagenwohnung', '•', 'Sarstedt', 'Sarstedt']","['Balkon', 'EBK']",Miete zzgl. NK 330 €,Wohnfläche ca. 44 m²,Zi. 2,68,3
-25,selObject_44711982,Helle 2 -Zimmer Wohnung in Lindau,"['Etagenwohnung', '•', 'Katlenburg-Lindau', 'Lindau']",['Garten'],Miete zzgl. NK 335 €,Wohnfläche ca. 67 m²,Zi. 2,68,3
-26,selObject_44711969,+++ 3-Zimmer-Wohnung mit Balkon +++,"['Wohnung', '•', 'Goslar', 'Oker']",[],Miete zzgl. NK 350 €,Wohnfläche ca. 69 m²,Zi. 3,68,3
+0,selObject_44751689,"*Isernhagen-NB* Neubau, 2,5-Zi.-EG-Wohnung mit EBK,...","[['Erdgeschosswohnung', '•', 'Isernhagen', 'Isernhagen', 'N.B.']]",['EBK'],Miete zzgl. NK 1.100 €,Wohnfläche ca. 76 m²,"Zi. 2,5",68,3
+1,selObject_44751686,"*Isernhagen-NB* Neubau, 3,5-Zi.-EG-Wohnung mit EBK,...","[['Erdgeschosswohnung', '•', 'Isernhagen', 'Isernhagen', 'N.B.']]",['EBK'],"Miete zzgl. NK 1.319,50 €",Wohnfläche ca. 91 m²,"Zi. 3,5",68,3
+2,selObject_44751609,"*Isernhagen-NB* Neubau, Penthousewohnung mit EBK und 2...","[['Penthouse', '•', 'Isernhagen', 'Isernhagen', 'N.B.']]",['EBK'],"Miete zzgl. NK 1.928,50 €",Wohnfläche ca. 133 m²,"Zi. 3,5",68,3
+3,selObject_44750271,3-Zimmer-Wohnung mit Terrasse und Wintergarten,"[['Wohnung', '•', 'Beckdorf', 'Beckdorf']]","['Garten', 'EBK']",Miete zzgl. NK 892 €,Wohnfläche ca. 105 m²,Zi. 3,68,3
+4,selObject_44750172,Wir vermieten gerne an Studenten; WG Zimmer in einer...,"[['Etagenwohnung', '•', 'Oldenburg', 'Eversten']]","['Garten', 'EBK']",Miete inkl. NK 400 €,Wohnfläche ca. 15 m²,Zi. 1,68,3
+5,selObject_44747966,Gut geschnittene helle 3-Zimmer Wohnung,"[['Etagenwohnung', '•', 'Delmenhorst', 'Mitte']]",[],Miete zzgl. NK 460 €,Wohnfläche ca. 73 m²,Zi. 3,68,3
+6,selObject_44747930,"3-ZKB, 77 qm, gemütliche EG-Wohnung in DEL-Bungerhof","[['Erdgeschosswohnung', '•', 'Delmenhorst', 'Bungerhof']]","['Garten', 'EBK']",Miete zzgl. NK 535 €,Wohnfläche ca. 77 m²,Zi. 3,68,3
+7,selObject_44746729,"Renovierte 3 Zimmer Wohnung mit Balkon, Eduard Mörike...","[['Wohnung', '•', 'Emden', 'Barenburg']]","['Balkon', 'EBK']",Miete zzgl. NK 429 €,Wohnfläche ca. 69 m²,Zi. 3,68,3
+8,selObject_44746303,Renovierte 2 Zimmer Wohnung mit Balkon,"[['Etagenwohnung', '•', 'Laatzen', 'Laatzen-Mitte']]",['Balkon'],Miete zzgl. NK 380 €,Wohnfläche ca. 58 m²,Zi. 2,68,3
+9,selObject_44746300,Renovierte 2 Zimmer Wohnung mit Balkon,"[['Etagenwohnung', '•', 'Laatzen', 'Laatzen-Mitte']]",['Balkon'],Miete zzgl. NK 326 €,Wohnfläche ca. 49 m²,Zi. 2,68,3
+10,selObject_44746274,Bezugsfertig,"[['Etagenwohnung', '•', 'Braunschweig', 'Weststadt']]",['Balkon'],Miete zzgl. NK 496 €,Wohnfläche ca. 77 m²,Zi. 3,68,3
+11,selObject_44746266,Erstbezug nach Modernisierung,"[['Etagenwohnung', '•', 'Braunschweig', 'Weststadt']]",['Balkon'],Miete zzgl. NK 455 €,Wohnfläche ca. 71 m²,Zi. 3,68,3
+12,selObject_44746264,Erstbezug nach Modernisierung,"[['Etagenwohnung', '•', 'Braunschweig', 'Weststadt']]",['Balkon'],Miete zzgl. NK 455 €,Wohnfläche ca. 71 m²,Zi. 3,68,3
+13,selObject_44745565,Renovierte 3 Zi-Erdgeschoss-Wohnung in Gifhorn - Nähe-...,"[['Erdgeschosswohnung', '•', 'Gifhorn', 'Gifhorn']]",['Balkon'],Miete zzgl. NK 750 €,Wohnfläche ca. 70 m²,Zi. 3,68,3
+14,selObject_44745081,2-Zimmer-Penthousewohnung im Neubau,"[['Dachgeschosswohnung', '•', 'Soltau', 'Soltau']]",['EBK'],Miete zzgl. NK 760 €,Wohnfläche ca. 75 m²,Zi. 2,68,3
+15,selObject_44744707,Altersgerechte 2-Zimmer-Wohnung in Oker,"[['Wohnung', '•', 'Goslar', 'Oker']]",[],"Miete zzgl. NK 334,60 €",Wohnfläche ca. 50 m²,Zi. 2,68,3
+16,selObject_44743275,Ideal für Singles und Studenten,"[['Erdgeschosswohnung', '•', 'Salzgitter', 'Bad']]",[],Miete zzgl. NK 216 €,Wohnfläche ca. 41 m²,Zi. 2,68,3
+17,selObject_44742673,Oldenburg: Schöne 2-Zimmer-Dachgeschosswohnung. in...,"[['Dachgeschosswohnung', '•', 'Oldenburg', 'Donnerschwee']]",['Balkon'],Miete zzgl. NK 650 €,Wohnfläche ca. 66 m²,Zi. 2,68,3
+18,selObject_44742393,Geschmackvoll ausgestattete Erdgeschosswohnung im Fach...,"[['Erdgeschosswohnung', '•', 'Hanstedt', 'Hanstedt']]",['EBK'],Miete zzgl. NK 960 €,Wohnfläche ca. 78 m²,Zi. 2,68,3
+19,selObject_44742358,*** Modernes Wohnen - Zentraler geht es nicht ***,"[['Erdgeschosswohnung', '•', 'Saterland', 'Ramsloh']]","['Garten', 'EBK']",Miete zzgl. NK 700 €,Wohnfläche ca. 77 m²,Zi. 2,68,3
+20,selObject_44741660,Hochwertige Wohnung im EG im Zentrum von Ostrhauderfeh...,"[['Erdgeschosswohnung', '•', 'Ostrhauderfehn', 'Ostrhauderfehn']]",[],Miete zzgl. NK 600 €,Wohnfläche ca. 78 m²,Zi. 3,68,3
+21,selObject_44740705,Geräumige 3 Zimmer Wohnung mit Balkon in Norden zu...,"[['Etagenwohnung', '•', 'Norden', 'Norden']]",[],Miete zzgl. NK 420 €,Wohnfläche ca. 72 m²,Zi. 3,68,3
+22,selObject_44740589,Schöne Penthousewohnung mit eigenem Aufzug!,"[['Wohnung', '•', 'Hannover', 'Kirchrode']]","['Balkon', 'EBK']",Miete zzgl. NK 2.028 €,Wohnfläche ca. 208 m²,Zi. 4,68,3
+23,selObject_44740392,2 Zimmer Wohnung IIN RUHIGER UND ZENTRALER LAGE IN...,"[['Wohnung', '•', 'Stade', 'Stade']]","['Balkon', 'EBK']",Miete zzgl. NK 750 €,Wohnfläche ca. 73 m²,Zi. 2,68,3
+24,selObject_44736220,"2,5 ZKB Oldenburg, citynah, sanierter Altbau","[['Erdgeschosswohnung', '•', 'Oldenburg', 'Bürgerfelde']]",[],Miete zzgl. NK 547 €,Wohnfläche ca. 64 m²,"Zi. 2,5",68,3
+25,selObject_44736050,Gepflegte 3-Zimmer-Wohnung mit EBK und Balkon!,"[['Etagenwohnung', '•', 'Wolfsburg', 'Vorsfelde']]","['Balkon', 'EBK']",Miete zzgl. NK 561 €,Wohnfläche ca. 70 m²,Zi. 3,68,3
+26,selObject_44736007,Exklusive Penthouse-Wohnung mit Bad-en-Suite und Ankle...,"[['Etagenwohnung', '•', 'Osnabrück', 'Dodesheide']]",['Balkon'],Miete zzgl. NK 795 €,Wohnfläche ca. 66 m²,"Zi. 2,5",68,3

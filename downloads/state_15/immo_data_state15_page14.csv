@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44997097,NEU Seniorenwohnung,"['Etagenwohnung', '•', 'Halle', 'Südstadt']","['NEU', 'NEU']",Miete zzgl. NK 296 €,Wohnfläche ca. 45 m²,Zi. 2,14,15
-1,selObject_44997096,NEU Singlewohnung zum kleinen Preis!,"['Etagenwohnung', '•', 'Halle', 'Freiimfelde']","['NEU', 'NEU']",Miete zzgl. NK 225 €,Wohnfläche ca. 29 m²,Zi. 1,14,15
-2,selObject_44997094,NEU 1 Zimmer für kleines Geld und 381 € geschenkt*,"['Etagenwohnung', '•', 'Halle', 'Heide', 'Nord']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 127 €,Wohnfläche ca. 36 m²,Zi. 1,14,15
-3,selObject_44996886,NEU TOLLE 2-RAUMWOHNUNG MIT BALKON,"['Wohnung', '•', 'Quedlinburg', 'Quedlinburg']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 525 €,Wohnfläche ca. 70 m²,Zi. 2,14,15
-4,selObject_44996797,NEU helle gepflegte 2-Raum-Wohnung -- südliche Innenstadt...,"['Etagenwohnung', '•', 'Halle', 'Innenstadt']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 325 €,Wohnfläche ca. 50 m²,Zi. 2,14,15
-5,selObject_44996704,NEU Gemütliche Wohnung im Erdgeschoss im ländlichen Stadte...,"['Erdgeschosswohnung', '•', 'Magdeburg', 'Lemsdorf']","['NEU', 'NEU']",Miete zzgl. NK 242 €,Wohnfläche ca. 46 m²,Zi. 2,14,15
-6,selObject_44996702,NEU Gemütliche Wohnung im ländlichen Stadteil von Lemsdorf,"['Erdgeschosswohnung', '•', 'Magdeburg', 'Lemsdorf']","['NEU', 'NEU']",Miete zzgl. NK 253 €,Wohnfläche ca. 46 m²,Zi. 2,14,15
-7,selObject_44996157,NEU Gleich doppelt gut! Frisch sanierte Wohnung und Gutsch...,"['Etagenwohnung', '•', 'Magdeburg', 'Alte', 'Neustadt']","['NEU', 'NEU']",Miete zzgl. NK 370 €,Wohnfläche ca. 70 m²,Zi. 2,14,15
-8,selObject_44996077,NEU Ein Wohnquartier in historischem Ambiente für lebensfr...,"['Dachgeschosswohnung', '•', 'Halberstadt', 'Halberstadt']","['NEU', 'NEU']","Miete zzgl. NK 224,40 €",Wohnfläche ca. 37 m²,Zi. 2,14,15
-9,selObject_44995513,NEU Möbliertes 2-Raum-Appartement im Zentrum,"['Apartment', '•', 'Sangerhausen', 'Sangerhausen']","['NEU', 'NEU']",Miete zzgl. NK 190 €,Wohnfläche ca. 25 m²,Zi. 2,14,15
-10,selObject_44995465,NEU Gemütliche 2-Raum-Wohnung mit Einbauküche,"['Etagenwohnung', '•', 'Aschersleben', 'Aschersleben']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 230 €,Wohnfläche ca. 36 m²,Zi. 2,14,15
-11,selObject_44995463,NEU Erdgeschosswohnung in ruhiger Lage von Aschersleben.,"['Erdgeschosswohnung', '•', 'Aschersleben', 'Aschersleben']","['NEU', 'NEU']",Miete zzgl. NK 230 €,Wohnfläche ca. 33 m²,Zi. 2,14,15
-12,selObject_44995461,NEU Helle 5-Raum-Wohnung in ruhiger Lage,"['Etagenwohnung', '•', 'Aschersleben', 'Aschersleben']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 540 €,Wohnfläche ca. 91 m²,Zi. 5,14,15
-13,selObject_44995395,NEU Vom knisternden Panoramakamin und dem Schlossblick aus...,"['Etagenwohnung', '•', 'Magdeburg', 'Beyendorfer', 'Grund']","['NEU', 'NEU', 'Garten']","Miete zzgl. NK 707,99 €",Wohnfläche ca. 107 m²,Zi. 3,14,15
-14,selObject_44995368,NEU Knuddelige 2 Zimmerwohnung,"['Erdgeschosswohnung', '•', 'Magdeburg', 'Sudenburg']","['NEU', 'NEU']",Miete zzgl. NK 220 €,Wohnfläche ca. 36 m²,Zi. 2,14,15
-15,selObject_44995269,NEU Vorm knisternden Panoramakamin lassen Sie die Seele...,"['Etagenwohnung', '•', 'Blankenburg', 'Blankenburg']","['NEU', 'NEU', 'Garten']","Miete zzgl. NK 707,99 €",Wohnfläche ca. 107 m²,Zi. 3,14,15
-16,selObject_44995125,NEU Du magst es schräg?,"['Dachgeschosswohnung', '•', 'Dessau-Roßlau', 'Innenstadt']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 380 €,Wohnfläche ca. 69 m²,Zi. 2,14,15
-17,selObject_44995068,NEU TOP- Angebot! Frisch renovierte 3 Zimmerwohnung mit...,"['Etagenwohnung', '•', 'Halberstadt', 'Halberstadt']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 276 €,Wohnfläche ca. 59 m²,Zi. 3,14,15
-18,selObject_44995038,"NEU tolle, einzugsfertige 2 Raum- Dach- geschosswohnung in...","['Dachgeschosswohnung', '•', 'Köthen']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 275 €,Wohnfläche ca. 50 m²,Zi. 2,14,15
-19,selObject_44994883,"NEU 3 Zimmer zum Wohlfühlen, ein Balkon zum Verweilen -...","['Wohnung', '•', 'Bad', 'Dürrenberg', 'Bad', 'Dürrenberg']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 546 €,Wohnfläche ca. 84 m²,Zi. 3,14,15
-20,selObject_44994885,NEU Hier finden Sie Ihre ruhige Wohnlage!,"['Wohnung', '•', 'Bad', 'Dürrenberg', 'Bad', 'Dürrenberg']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 278 €,Wohnfläche ca. 50 m²,Zi. 2,14,15
-21,selObject_44994882,NEU schöne 2-R-Wohnung sucht Nachmieter,"['Wohnung', '•', 'Bad', 'Dürrenberg', 'Bad', 'Dürrenberg']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 270 €,Wohnfläche ca. 48 m²,Zi. 2,14,15
-22,selObject_44994881,NEU 3-(T)Raumwohnung mit Balkon und Blick ins Grüne,"['Wohnung', '•', 'Bad', 'Dürrenberg', 'Bad', 'Dürrenberg']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 500 €,Wohnfläche ca. 77 m²,Zi. 3,14,15
-23,selObject_44994879,NEU Gründerzeitwohnung mit Balkon - mitten in der City!...,"['Wohnung', '•', 'Bernburg', 'Bernburg']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 853 €,Wohnfläche ca. 119 m²,"Zi. 3,5",14,15
-24,selObject_44994868,NEU Mietwohnung in Halle (Saale) - Giebichenstein,"['Etagenwohnung', '•', 'Halle', 'Giebichenstein']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 350 €,Wohnfläche ca. 42 m²,Zi. 2,14,15
-25,selObject_44994795,"NEU Gemütliche, tierfreundliche Wohnung mit Terrasse, klei...","['Erdgeschosswohnung', '•', 'Magdeburg', 'Sudenburg']","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 448 €,Wohnfläche ca. 69 m²,Zi. 2,14,15
-26,selObject_44994792,"NEU Renovierte, großzügige 3-Zimmer-Wohnung im Herzen der...","['Dachgeschosswohnung', '•', 'Magdeburg', 'Altstadt']","['NEU', 'NEU']",Miete zzgl. NK 570 €,Wohnfläche ca. 99 m²,Zi. 3,14,15
+0,selObject_45005787,NEU Perfekte Aufteilung auf 58 m² und 2 Zimmer. Mit großer...,"[['Wohnung', '•', 'Zeitz', 'Zeitz']]","['NEU', 'NEU']",Miete zzgl. NK 252 €,Wohnfläche ca. 58 m²,Zi. 2,14,15
+1,selObject_45005768,NEU 105 qm 4 Raum Wohnungen in der Nähe vom Stadtzentrum...,"[['Wohnung', '•', 'Zeitz', 'Zeitz']]","['NEU', 'NEU', 'Garten']","Miete zzgl. NK 456,75 €",Wohnfläche ca. 105 m²,Zi. 4,14,15
+2,selObject_45005702,NEU Kleine Wohnung in ruhiger Lage in Hettstedt,"[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Hettstedt', 'Hettstedt']]","['NEU', 'NEU']",Miete zzgl. NK 220 €,Wohnfläche ca. 45 m²,Zi. 2,14,15
+3,selObject_45005671,NEU SELTEN SCHÖNE LUXUS 3­Zi 96qm GRÜNDERZEIT­WHG 1.OG...,"[['Etagenwohnung', '•', 'Magdeburg', 'Sudenburg']]","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 864 €,Wohnfläche ca. 96 m²,Zi. 3,14,15
+4,selObject_45005429,"NEU Dachgeschoß, 3-Zimmer-Wohnung im Paulusviertel","[['Dachgeschosswohnung', '•', 'Halle', 'Paulusviertel']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 872,65 €",Wohnfläche ca. 83 m²,Zi. 3,14,15
+5,selObject_45005173,NEU Einziehen und Wohlfühlen,"[['Erdgeschosswohnung', '•', 'Merseburg', 'Merseburg']]","['NEU', 'NEU']",Miete zzgl. NK 292 €,Wohnfläche ca. 50 m²,Zi. 3,14,15
+6,selObject_45005146,NEU Die erste eigene Wohnung,"[['Wohnung', '•', 'Merseburg', 'Merseburg']]","['NEU', 'NEU']",Miete zzgl. NK 280 €,Wohnfläche ca. 51 m²,Zi. 2,14,15
+7,selObject_45005011,NEU Preiswerte 3-RW mit EBK wartet auf neue Mieter,"[['Wohnung', '•', 'Merseburg', 'Merseburg']]","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 312 €,Wohnfläche ca. 61 m²,Zi. 3,14,15
+8,selObject_45004971,"NEU Haken an die Wunschliste, die perfekte Wohnung ist...","[['Wohnung', '•', 'Merseburg', 'Merseburg']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 337 €,Wohnfläche ca. 58 m²,Zi. 3,14,15
+9,selObject_45004759,NEU frisch renoviert - helle und moderne 2 Raum-Wohnung in...,"[['Etagenwohnung', '•', 'Halle', 'Radewell-Osendorf']]","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 342 €,Wohnfläche ca. 53 m²,Zi. 2,14,15
+10,selObject_45004739,"NEU sanierte, helle und moderne 3 Raum-Wohnung mit Grünbli...","[['Etagenwohnung', '•', 'Halle', 'Radewell-Osendorf']]","['NEU', 'NEU']",Miete zzgl. NK 420 €,Wohnfläche ca. 63 m²,Zi. 3,14,15
+11,selObject_45004736,"NEU frisch sanierte, helle und moderne 3 Raum-Wohnung in...","[['Etagenwohnung', '•', 'Zeitz', 'Zeitz']]","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 250 €,Wohnfläche ca. 55 m²,Zi. 3,14,15
+12,selObject_45004671,NEU gemütliche DG-Wohnung,"[['Dachgeschosswohnung', '•', 'Magdeburg', 'Leipziger', 'Str.']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 275 €,Wohnfläche ca. 47 m²,Zi. 2,14,15
+13,selObject_45004326,NEU geräumige 2-Zimmerwohnung im Herzen der Stadt (ab 01.0...,"[['Wohnung', '•', 'Halle', 'Innenstadt']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 350 €,Wohnfläche ca. 50 m²,Zi. 2,14,15
+14,selObject_45004184,NEU Sehen Sie sich dieses tolle Angebot an !,"[['Dachgeschosswohnung', '•', 'Zeitz', 'Zeitz']]","['NEU', 'NEU']",Miete zzgl. NK 159 €,Wohnfläche ca. 38 m²,Zi. 1,14,15
+15,selObject_45004015,NEU stilvolle Altbauwohnung mit Veranda in Tangermünde,"[['Etagenwohnung', '•', 'Tangermünde', 'Tangermünde']]","['NEU', 'NEU']",Miete zzgl. NK 520 €,Wohnfläche ca. 70 m²,"Zi. 2,5",14,15
+16,selObject_45003500,NEU Ich wohne in Neue Neustadt,"[['Etagenwohnung', '•', 'Magdeburg', 'Neue', 'Neustadt']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 269,50 €",Wohnfläche ca. 49 m²,Zi. 2,14,15
+17,selObject_45003499,NEU Wohnen am Neustädter See mit traumhaftem Südbalkon,"[['Etagenwohnung', '•', 'Magdeburg', 'Neustädter', 'See']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 382,39 €",Wohnfläche ca. 66 m²,Zi. 3,14,15
+18,selObject_45003280,NEU Erstbezug nach Sanierung! Singlewohnung in zentraler...,"[['Wohnung', '•', 'Halle', 'Nördliche', 'Neustadt']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 198 €,Wohnfläche ca. 29 m²,Zi. 1,14,15
+19,selObject_45001880,"NEU Nice to ""miet"" you","[['Etagenwohnung', '•', 'Halle', 'Giebichenstein']]","['NEU', 'NEU']",Miete zzgl. NK 335 €,Wohnfläche ca. 47 m²,Zi. 2,14,15
+20,selObject_45001618,NEU Wohnen über der Stadt helle freundliche 2-R-Whg.Magdeb...,"[['Dachgeschosswohnung', '•', 'Magdeburg', 'Leipziger', 'Str.']]","['NEU', 'NEU']",Miete zzgl. NK 258 €,Wohnfläche ca. 43 m²,Zi. 2,14,15
+21,selObject_45001495,NEU Auf zu neuen Ufern,"[['Wohnung', '•', 'Halle', 'Silberhöhe']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 313,19 €",Wohnfläche ca. 58 m²,Zi. 3,14,15
+22,selObject_45000996,NEU Es ist Zeit für einen Tapetenwechsel,"[['Wohnung', '•', 'Merseburg', 'Merseburg']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 299 €,Wohnfläche ca. 49 m²,Zi. 2,14,15
+23,selObject_45000905,NEU Magdeburg - 2-Raumwohnung mit Balkon und Stellplatzopt...,"[['Erdgeschosswohnung', '•', 'Magdeburg', 'Stadtfeld', 'West']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 450 €,Wohnfläche ca. 65 m²,Zi. 2,14,15
+24,selObject_45000785,NEU Großzügige 2-Raum-Wohnung,"[['Etagenwohnung', '•', 'Halle', 'Südliche', 'Neustadt']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 257 €,Wohnfläche ca. 51 m²,Zi. 2,14,15
+25,selObject_45000780,"NEU Schöne, helle 2-Zimmer Altbauwohnung","[['Wohnung', '•', 'Magdeburg', 'Buckau']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 365 €,Wohnfläche ca. 67 m²,Zi. 2,14,15
+26,selObject_45000707,NEU Neu sanierte Wohnung wartet auf neue Mieter,"[['Wohnung', '•', 'Merseburg', 'Merseburg']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 337 €,Wohnfläche ca. 57 m²,Zi. 3,14,15

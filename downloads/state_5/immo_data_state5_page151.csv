@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44774801,"Wuppertal-Cronenberg, renovierte 1 Zimmer, Küche, Dusc...","['Erdgeschosswohnung', '•', 'Wuppertal', 'Cronenberg']",['Balkon'],Miete zzgl. NK 300 €,Wohnfläche ca. 40 m²,Zi. 1,151,5
-1,selObject_44774740,2-Zimmer-Wohnung in Mülheim-Heißen,"['Erdgeschosswohnung', '•', 'Mülheim', 'Mitte-Ost']",[],"Miete zzgl. NK 360,75 €",Wohnfläche ca. 56 m²,Zi. 2,151,5
-2,selObject_44774590,Sonnige 2-Zimmer-Whg mit Balkon und Tageslichtbad!!,"['Etagenwohnung', '•', 'Essen', 'Frohnhausen']",['Balkon'],Miete zzgl. NK 434 €,Wohnfläche ca. 62 m²,Zi. 2,151,5
-3,selObject_44774432,2-Zimmer-DG-Wohnung mit Einbauküche in Essen-Schönebec...,"['Dachgeschosswohnung', '•', 'Essen', 'Schönebeck']",[],Miete zzgl. NK 450 €,Wohnfläche ca. 63 m²,Zi. 2,151,5
-4,selObject_44774414,schöne 3 Zimmer Wohnung,"['Wohnung', '•', 'Dorsten', 'Holsterhausen']","['Balkon', 'Garten']",Miete zzgl. NK 390 €,Wohnfläche ca. 81 m²,"Zi. 3,5",151,5
-5,selObject_44774367,Modern sanierte 2-Zimmer-Wohnung mit Balkon!!,"['Apartment', '•', 'Dortmund', 'Mitte']",['Balkon'],"Miete zzgl. NK 374,29 €",Wohnfläche ca. 57 m²,Zi. 2,151,5
-6,selObject_44774344,Geräumige 3 Zimmer-Wohnung in der Hammer Innenstadt!,"['Wohnung', '•', 'Hamm', 'Hamm-Mitte']",[],Miete zzgl. NK 500 €,Wohnfläche ca. 84 m²,Zi. 3,151,5
-7,selObject_44774145,Grosse geräumige 2 Zimmer Wohnung in Wermelskirchen,"['Wohnung', '•', 'Wermelskirchen', 'Wermelskirchen']","['Balkon', 'EBK']",Miete zzgl. NK 740 €,Wohnfläche ca. 92 m²,Zi. 2,151,5
-8,selObject_44774082,Lebensqualität Citynah in Köln-Niehl,"['Dachgeschosswohnung', '•', 'Köln', 'Niehl']",['EBK'],Miete zzgl. NK 2.057 €,Wohnfläche ca. 121 m²,Zi. 4,151,5
-9,selObject_44773738,3-Zimmer-Neubau-Eigentumswohnung mit Aufzug zur Miete!,"['Erdgeschosswohnung', '•', 'Neunkirchen', 'Salchendorf']",['Balkon'],Miete zzgl. NK 850 €,Wohnfläche ca. 95 m²,Zi. 3,151,5
-10,selObject_44773556,"Wohnst Du schon, oder suchst Du noch? 7","['Wohnung', '•', 'Münster', 'Gremmendorf']","['Garten', 'EBK']",Miete zzgl. NK 700 €,Wohnfläche ca. 75 m²,Zi. 3,151,5
-11,selObject_44773322,"Renovierte, ruhig gelegene, 3 Zimmerwohnung in Bestlag...","['Etagenwohnung', '•', 'Königswinter', 'Königswinter']",['Balkon'],Miete zzgl. NK 800 €,Wohnfläche ca. 92 m²,Zi. 2,151,5
-12,selObject_44773303,MODERNE und FREUNDLICHE 2-Zimmer-Wohnung mit Balkon in...,"['Apartment', '•', 'Dortmund', 'Mitte']",['Balkon'],"Miete zzgl. NK 322,05 €",Wohnfläche ca. 50 m²,Zi. 2,151,5
-13,selObject_44772755,Gemütliche und moderne 2-Zimmer-Wohnung mit Balkon!!,"['Erdgeschosswohnung', '•', 'Dortmund', 'Mitte']",['Balkon'],"Miete zzgl. NK 406,80 €",Wohnfläche ca. 45 m²,Zi. 2,151,5
-14,selObject_44772739,Helle 3-Raumwohnung mit Balkon ++ frisch saniertes...,"['Apartment', '•', 'Dortmund', 'Mitte']",['Balkon'],"Miete zzgl. NK 595,10 €",Wohnfläche ca. 74 m²,Zi. 3,151,5
-15,selObject_44772727,barrierefreie Wohnung Erstbezug,"['Erdgeschosswohnung', '•', 'Lippstadt', 'Bökenförde']","['Garten', 'EBK']",Miete inkl. NK 690 €,Wohnfläche ca. 60 m²,Zi. 2,151,5
-16,selObject_44772680,barrierefreie Wohnung Erstbezug,"['Erdgeschosswohnung', '•', 'Lippstadt', 'Bökenförde']","['Garten', 'EBK']",Miete inkl. NK 690 €,Wohnfläche ca. 60 m²,Zi. 2,151,5
-17,selObject_44772600,Personenaufzug im Haus- lichtdurchflutete Wohnung Reck...,"['Wohnung', '•', 'Recklinghausen', 'Stadtmitte']",[],Miete zzgl. NK 450 €,Wohnfläche ca. 75 m²,Zi. 3,151,5
-18,selObject_44772572,barrierefreie Wohnung Erstbezug,"['Erdgeschosswohnung', '•', 'Lippstadt', 'Bökenförde']","['Garten', 'EBK']",Miete inkl. NK 690 €,Wohnfläche ca. 60 m²,Zi. 2,151,5
-19,selObject_44772440,Attraktive 3-Zi.-Stadtwohnung mit tollem Balkon und...,"['Etagenwohnung', '•', 'Moers', 'Moers-Mitte']",['Balkon'],Miete zzgl. NK 650 €,Wohnfläche ca. 95 m²,Zi. 3,151,5
-20,selObject_44772436,barrierefreie Wohnung Erstbezug,"['Erdgeschosswohnung', '•', 'Lippstadt', 'Bökenförde']","['Garten', 'EBK']",Miete inkl. NK 690 €,Wohnfläche ca. 60 m²,Zi. 2,151,5
-21,selObject_44772435,barrierefreie Wohnung Erstbezug,"['Erdgeschosswohnung', '•', 'Lippstadt', 'Bökenförde']","['Garten', 'EBK']",Miete inkl. NK 690 €,Wohnfläche ca. 60 m²,Zi. 2,151,5
-22,selObject_44772415,Traumhafte 2 Zimmer Wohnung mit Loggia und Tageslichtb...,"['Erdgeschosswohnung', '•', 'Hagen', 'Altenhagen']",['Balkon'],Miete zzgl. NK 296 €,Wohnfläche ca. 58 m²,Zi. 2,151,5
-23,selObject_44772413,barrierefreie Wohnung Erstbezug,"['Erdgeschosswohnung', '•', 'Lippstadt', 'Bökenförde']","['Garten', 'EBK']",Miete inkl. NK 690 €,Wohnfläche ca. 60 m²,Zi. 2,151,5
-24,selObject_44772386,barrierefreie Wohnung Erstbezug,"['Erdgeschosswohnung', '•', 'Lippstadt', 'Bökenförde']","['Garten', 'EBK']",Miete inkl. NK 690 €,Wohnfläche ca. 60 m²,Zi. 2,151,5
-25,selObject_44772175,Das Glück hat ein Zuhause: 3-Zimmer-Wohnung,"['Etagenwohnung', '•', 'Bochum', 'Weitmar']",[],"Miete zzgl. NK 376,09 €",Wohnfläche ca. 58 m²,"Zi. 3,5",151,5
-26,selObject_44772164,"Ansehen lohnt sich! Renovierte 3,5 Raum Wohnung mit...","['Erdgeschosswohnung', '•', 'Essen', 'Karnap']",['EBK'],Miete zzgl. NK 565 €,Wohnfläche ca. 65 m²,Zi. 3,151,5
+0,selObject_44790843,Bei VIVAWEST die Sonnenstrahlen auf dem eigenen Balkon...,"[['Etagenwohnung', '•', 'Essen', 'Altenessen-Süd']]",['Balkon'],Miete zzgl. NK 484 €,Wohnfläche ca. 78 m²,"Zi. 3,5",151,5
+1,selObject_44790731,"Sanierte 1,5 Zimmer Wohnung mit Balkon !!!!!","[['Etagenwohnung', '•', 'Essen', 'Südostviertel']]",['Balkon'],Miete zzgl. NK 330 €,Wohnfläche ca. 35 m²,"Zi. 1,5",151,5
+2,selObject_44790415,Idyllisches Anwesen sucht nette/n Mieter/in (bis Novem...,"[['Wohnung', '•', 'Aachen', 'Aachen']]",['Balkon'],Miete zzgl. NK 510 €,Wohnfläche ca. 55 m²,Zi. 1,151,5
+3,selObject_44790003,Barrierearme Wohnung zentral in Breckerfeld,"[['Etagenwohnung', '•', 'Breckerfeld', 'Breckerfeld']]",['Balkon'],"Miete zzgl. NK 379,17 €",Wohnfläche ca. 59 m²,"Zi. 2,5",151,5
+4,selObject_44789627,Direkt an der Uni - ab 08/2021 voll möbliertes Apartme...,"[['Etagenwohnung', '•', 'Aachen', 'Aachen']]",['EBK'],Miete zzgl. NK 375 €,Wohnfläche ca. 18 m²,Zi. 1,151,5
+5,selObject_44789615,Lüdenscheid: 3-Zimmer-Whg. mit Terrasse in verkehrsgün...,"[['Erdgeschosswohnung', '•', 'Lüdenscheid', 'Lüdenscheid']]",[],Miete zzgl. NK 495 €,Wohnfläche ca. 82 m²,Zi. 3,151,5
+6,selObject_44789612,Traumhafte 3-Zi-Neubau-Whg. mit Terrasse u. Aufzug,"[['Erdgeschosswohnung', '•', 'Münster', 'Angelmodde']]",['Balkon'],Miete zzgl. NK 895 €,Wohnfläche ca. 78 m²,Zi. 3,151,5
+7,selObject_44789593,Lüdenscheid-Zentrum: Attraktives Single-Appartement,"[['Etagenwohnung', '•', 'Lüdenscheid', 'Lüdenscheid']]",[],Miete zzgl. NK 420 €,Wohnfläche ca. 61 m²,Zi. 2,151,5
+8,selObject_44789213,Singles aufgepasst ! Frisch saniertes Apartment zu...,"[['Etagenwohnung', '•', 'Hagen', 'Altenhagen']]",['Garten'],Miete zzgl. NK 280 €,Wohnfläche ca. 45 m²,"Zi. 1,5",151,5
+9,selObject_44788889,"Helle 2,5 Zimmerwohnung suchen Nachmieter.","[['Etagenwohnung', '•', 'Hagen', 'Altenhagen']]",['Garten'],Miete zzgl. NK 320 €,Wohnfläche ca. 49 m²,"Zi. 2,5",151,5
+10,selObject_44788879,Einziehen und wohl fühlen !,"[['Etagenwohnung', '•', 'Hagen', 'Altenhagen']]",['Garten'],Miete zzgl. NK 320 €,Wohnfläche ca. 49 m²,"Zi. 2,5",151,5
+11,selObject_44788644,Gemütliche Maisonette-Whg,"[['Dachgeschosswohnung', '•', 'Wuppertal']]",['Garten'],Miete zzgl. NK 530 €,Wohnfläche ca. 108 m²,Zi. 4,151,5
+12,selObject_44788235,Das könnte Ihr neues ZUHAUSE sein...,"[['Wohnung', '•', 'Warstein', 'Belecke']]",['Balkon'],Miete zzgl. NK 415 €,Wohnfläche ca. 69 m²,Zi. 3,151,5
+13,selObject_44788045,Gemütliche Dachgeschosswohnung zu vermieten!,"[['Wohnung', '•', 'Gelsenkirchen', 'Feldmark']]",[],Miete zzgl. NK 315 €,Wohnfläche ca. 54 m²,Zi. 2,151,5
+14,selObject_44787667,2-Zimmer-Wohnung,"[['Wohnung', '•', 'Wuppertal', 'Barmen']]",[],Miete zzgl. NK 375 €,Wohnfläche ca. 75 m²,Zi. 2,151,5
+15,selObject_44787639,Erdgeschosswohnung in Duisburg Hamborn,"[['Erdgeschosswohnung', '•', 'Duisburg', 'Alt-Hamborn']]",[],Miete zzgl. NK 450 €,Wohnfläche ca. 77 m²,Zi. 3,151,5
+16,selObject_44787518,Seniorengerechtes Wohnen in Hövelhof,"[['Wohnung', '•', 'Hövelhof', 'Espeln']]",['Balkon'],Miete zzgl. NK 500 €,Wohnfläche ca. 65 m²,Zi. 2,151,5
+17,selObject_44787514,WG- und familienfreundliche Wohnung mit großem Balkon!...,"[['Etagenwohnung', '•', 'Dortmund', 'Mitte']]",['Balkon'],Miete zzgl. NK 995 €,Wohnfläche ca. 124 m²,Zi. 4,151,5
+18,selObject_44787491,Gemütliche Wohnung für Singles zu vermieten!,"[['Wohnung', '•', 'Gelsenkirchen', 'Altstadt']]",[],Miete zzgl. NK 233 €,Wohnfläche ca. 37 m²,Zi. 1,151,5
+19,selObject_44787397,Kernsanierte Wohnung in ruhiger und zentraler Lage!,"[['Wohnung', '•', 'Essen', 'Stoppenberg']]",[],Miete zzgl. NK 350 €,Wohnfläche ca. 54 m²,Zi. 3,151,5
+20,selObject_44787282,"Gronau, 3 Zimmer Wohnung mit Balkon","[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Gronau', 'Gronau']]",['Balkon'],"Miete zzgl. NK 434,23 €",Wohnfläche ca. 82 m²,Zi. 3,151,5
+21,selObject_44787165,"2,5 ZKB in traumhafter Lage von Schwalenberg","[['Erdgeschosswohnung', '•', 'Schieder-Schwalenberg', 'Schwalenberg']]",[],Miete zzgl. NK 300 €,Wohnfläche ca. 65 m²,"Zi. 2,5",151,5
+22,selObject_44787034,"Direkt vom Eigentümer! attraktive 1,5 Zimmer Wohnung...","[['Etagenwohnung', '•', 'Herne', 'Herne-Mitte']]",[],Miete zzgl. NK 310 €,Wohnfläche ca. 48 m²,"Zi. 1,5",151,5
+23,selObject_44787009,"3,5-Zimmer-Wohnung mit Balkon","[['Wohnung', '•', 'Wuppertal', 'Elberfeld']]","['Balkon', 'Garten']",Miete zzgl. NK 680 €,Wohnfläche ca. 97 m²,"Zi. 3,5",151,5
+24,selObject_44786942,Schönes 1-Zimmer-Appartement in zentraler Lage von...,"[['Etagenwohnung', '•', 'Enger', 'Enger']]",['Balkon'],Miete zzgl. NK 330 €,Wohnfläche ca. 49 m²,Zi. 1,151,5
+25,selObject_44786883,"*VELERO* Frisch sanierte 3,5 Zimmer Wohnung mit neuem...","[['Etagenwohnung', '•', 'Dorsten', 'Wulfen']]",['Balkon'],"Miete zzgl. NK 341,69 €",Wohnfläche ca. 77 m²,"Zi. 3,5",151,5
+26,selObject_44786880,Erstbezug nach Sanierung ! Erdgeschoss- Wohnung mit...,"[['Erdgeschosswohnung', '•', 'Dorsten', 'Wulfen']]",['Balkon'],"Miete zzgl. NK 341,69 €",Wohnfläche ca. 77 m²,"Zi. 3,5",151,5

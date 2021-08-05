@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44806242,2-Raum-Wohnung in Ruhiger Lage mit Balkon,"['Etagenwohnung', '•', 'Aue']","['Balkon', 'Garten']",Miete zzgl. NK 310 €,Wohnfläche ca. 53 m²,Zi. 2,146,14
-1,selObject_44806159,"Schicke, helle 2-Raum-Wohnung im Stadtteil Sonnenberg","['Etagenwohnung', '•', 'Chemnitz', 'Sonnenberg']","['Balkon', 'Garten']",Miete zzgl. NK 255 €,Wohnfläche ca. 51 m²,Zi. 2,146,14
-2,selObject_44806162,3-Raum-Wohnung mit Balkon in ruhiger Lage von Schwarze...,"['Etagenwohnung', '•', 'Schwarzenberg', 'Schwarzenberg']",['Garten'],Miete zzgl. NK 350 €,Wohnfläche ca. 75 m²,Zi. 3,146,14
-3,selObject_44805969,Barrierefreie 3-Raumwohnung mit Fußbodenheizung und...,"['Erdgeschosswohnung', '•', 'Dresden', 'Laubegast']",['Balkon'],"Miete zzgl. NK 800,60 €",Wohnfläche ca. 78 m²,Zi. 3,146,14
-4,selObject_44805964,"Willkommen im ""Radius Hof""! Erstbezug! Gemütliche 3...","['Etagenwohnung', '•', 'Leipzig', 'Neulindenau']",['Balkon'],Miete zzgl. NK 538 €,Wohnfläche ca. 57 m²,Zi. 3,146,14
-5,selObject_44805961,"Willkommen im ""Radius Hof""! Erstbezug! Gemütliche 3...","['Erdgeschosswohnung', '•', 'Leipzig', 'Neulindenau']",['Balkon'],Miete zzgl. NK 512 €,Wohnfläche ca. 54 m²,Zi. 3,146,14
-6,selObject_44805957,"Willkommen im ""Radius Hof""! Erstbezug! 3 Raumwohnung...","['Erdgeschosswohnung', '•', 'Leipzig', 'Neulindenau']",['Balkon'],Miete zzgl. NK 697 €,Wohnfläche ca. 73 m²,Zi. 3,146,14
-7,selObject_44805955,"Willkommen im ""Radius Hof! Erstbezug! 2 Raumwohnung...","['Etagenwohnung', '•', 'Leipzig', 'Neulindenau']",['Balkon'],Miete zzgl. NK 605 €,Wohnfläche ca. 64 m²,Zi. 2,146,14
-8,selObject_44805940,"Willkommen im ""Radius Hof""! Erstbezug! 2 Raumwohnung...","['Etagenwohnung', '•', 'Leipzig', 'Neulindenau']",['Balkon'],Miete zzgl. NK 575 €,Wohnfläche ca. 61 m²,Zi. 2,146,14
-9,selObject_44805933,"Willkommen im ""Radius Hof""! Erstbezug! 3 Raumwohnung...","['Etagenwohnung', '•', 'Leipzig', 'Neulindenau']",['Balkon'],Miete zzgl. NK 732 €,Wohnfläche ca. 77 m²,Zi. 3,146,14
-10,selObject_44805929,"Willkommen im ""Radius Hof""! Erstbezug! 2 Raumwohnung...","['Etagenwohnung', '•', 'Leipzig', 'Neulindenau']",['Balkon'],Miete zzgl. NK 607 €,Wohnfläche ca. 64 m²,Zi. 2,146,14
-11,selObject_44805925,"Willkommen im ""Radius Hof! Erstbezug! 2 Raumwohnung...","['Erdgeschosswohnung', '•', 'Leipzig', 'Neulindenau']",['Balkon'],Miete zzgl. NK 574 €,Wohnfläche ca. 60 m²,Zi. 2,146,14
-12,selObject_44805924,"Willkommen im ""Radius Hof""! Erstbezug! 2 Raumwohnung...","['Erdgeschosswohnung', '•', 'Leipzig', 'Neulindenau']",['Balkon'],Miete zzgl. NK 577 €,Wohnfläche ca. 61 m²,Zi. 2,146,14
-13,selObject_44805920,"Willkommen im ""Radius Hof""! Erstbezug! 3 Raumwohnung...","['Erdgeschosswohnung', '•', 'Leipzig', 'Neulindenau']",['Balkon'],Miete zzgl. NK 684 €,Wohnfläche ca. 72 m²,Zi. 3,146,14
-14,selObject_44805918,"Willkommen im ""Radius Hof""! Erstbezug! 3 Raumwohnung...","['Etagenwohnung', '•', 'Leipzig', 'Neulindenau']",['Balkon'],Miete zzgl. NK 723 €,Wohnfläche ca. 76 m²,Zi. 3,146,14
-15,selObject_44805915,"Willkommen im ""Radius Hof""! Gemütliche 3 Raumwohnung...","['Etagenwohnung', '•', 'Leipzig', 'Neulindenau']",['Balkon'],Miete zzgl. NK 540 €,Wohnfläche ca. 57 m²,Zi. 3,146,14
-16,selObject_44805911,"Willkommen im ""Radius Hof""! Erstbezug! Gemütliche 3...","['Etagenwohnung', '•', 'Leipzig', 'Neulindenau']",['Balkon'],Miete zzgl. NK 540 €,Wohnfläche ca. 57 m²,Zi. 3,146,14
-17,selObject_44805909,"Willkommen im ""Radius Hof! Erstbezug! 3 Raumwohnung...","['Etagenwohnung', '•', 'Leipzig', 'Neulindenau']",['Balkon'],Miete zzgl. NK 698 €,Wohnfläche ca. 73 m²,Zi. 3,146,14
-18,selObject_44805888,+++++2-Raum-WE im beliebten Wohngebiet Chemnitz/ HEIMG...,"['Wohnung', '•', 'Chemnitz', 'Altchemnitz']","['Balkon', 'Garten']",Miete zzgl. NK 300 €,Wohnfläche ca. 51 m²,Zi. 2,146,14
-19,selObject_44805878,Erstbezug - 3-Raumwohnung mit viel Drin!,"['Wohnung', '•', 'Chemnitz', 'Kappel']",['Balkon'],Miete zzgl. NK 540 €,Wohnfläche ca. 72 m²,Zi. 3,146,14
-20,selObject_44805873,Kappler Stadtgärten - Erstbezug - 3-Raumwohnung mit...,"['Erdgeschosswohnung', '•', 'Chemnitz', 'Kappel']",['Balkon'],Miete zzgl. NK 533 €,Wohnfläche ca. 72 m²,Zi. 3,146,14
-21,selObject_44805871,Erstbezug nach Komplettumbau: tolle 3-Raumwohnung,"['Wohnung', '•', 'Chemnitz', 'Kappel']",['Balkon'],Miete zzgl. NK 533 €,Wohnfläche ca. 72 m²,Zi. 3,146,14
-22,selObject_44805869,tolle Wohnung mit Wohnküche und Balkon!,"['Erdgeschosswohnung', '•', 'Leipzig', 'Neustadt-Neuschönefeld']",['Balkon'],Miete zzgl. NK 550 €,Wohnfläche ca. 66 m²,Zi. 3,146,14
-23,selObject_44805867,Erstbezug nach Sanierung: Große 3-Raumwohnung mit Wann...,"['Erdgeschosswohnung', '•', 'Chemnitz', 'Kappel']",['Balkon'],Miete zzgl. NK 574 €,Wohnfläche ca. 78 m²,Zi. 3,146,14
-24,selObject_44805861,tolle Wohnung mit Terrasse!,"['Erdgeschosswohnung', '•', 'Leipzig', 'Neustadt-Neuschönefeld']",[],Miete zzgl. NK 750 €,Wohnfläche ca. 89 m²,Zi. 3,146,14
-25,selObject_44805848,Dieser Anruf lohnt sich!* Helle 3-Raumwohnung mit flac...,"['Wohnung', '•', 'Chemnitz', 'Kappel']",['Balkon'],Miete zzgl. NK 311 €,Wohnfläche ca. 58 m²,Zi. 3,146,14
-26,selObject_44805846,"Sehr schöne helle Wohnung im Altbau, mit neuem Bad,...","['Maisonette', '•', 'Werdau', 'Werdau']",[],Miete zzgl. NK 442 €,Wohnfläche ca. 68 m²,Zi. 3,146,14
+0,selObject_44842808,"Geräumig mit Balkon & € 250,00 Gutschein","[['Dachgeschosswohnung', '•', 'Chemnitz', 'Sonnenberg']]",['Balkon'],Miete zzgl. NK 237 €,Wohnfläche ca. 62 m²,Zi. 2,146,14
+1,selObject_44842729,++ ERSTBEZUG NACH RENOVIERUNG ++,"[['Etagenwohnung', '•', 'Zwickau', 'Pölbitz']]","['Balkon', 'EBK']",Miete zzgl. NK 489 €,Wohnfläche ca. 70 m²,Zi. 2,146,14
+2,selObject_44842648,Helle möblierte DG-Einraumwohng. Aufzug vorhanden,"[['Dachgeschosswohnung', '•', 'Leipzig', 'Volkmarsdorf']]",['EBK'],Miete inkl. NK 469 €,Wohnfläche ca. 40 m²,Zi. 1,146,14
+3,selObject_44842616,Perfektes Singlenest mit Balkon in der Neustadt!,"[['Wohnung', '•', 'Dresden', 'Äußere', 'Neustadt']]",['Balkon'],Miete zzgl. NK 319 €,Wohnfläche ca. 35 m²,Zi. 1,146,14
+4,selObject_44842392,Gemütliche 2 Raum Wohnung nur wenige Fußminten vom...,"[['Wohnung', '•', 'Bautzen', 'Bautzen']]",[],Miete zzgl. NK 285 €,Wohnfläche ca. 57 m²,Zi. 2,146,14
+5,selObject_44842225,Gemütliches Wohnen am Stadtpark!,"[['Wohnung', '•', 'Mittweida', 'Mittweida']]",['Garten'],Miete zzgl. NK 180 €,Wohnfläche ca. 36 m²,Zi. 1,146,14
+6,selObject_44842208,*KAßBERG* geräumige Singlewohnung mit Balkon und EBK,"[['Etagenwohnung', '•', 'Chemnitz', 'Kaßberg']]","['Balkon', 'EBK']",Miete zzgl. NK 275 €,Wohnfläche ca. 50 m²,Zi. 1,146,14
+7,selObject_44842194,"+++BELIEBTES VIERTEL+++1,5-ZIMMER-WHG+++EINBAUKÜCHE+++...","[['Wohnung', '•', 'Leipzig', 'Stötteritz']]","['Garten', 'EBK']",Miete zzgl. NK 350 €,Wohnfläche ca. 38 m²,Zi. 2,146,14
+8,selObject_44842178,2-Raumwohnung mit Terrasse in ruhiger Lage!,"[['Etagenwohnung', '•', 'Leipzig', 'Mölkau']]",['Balkon'],Miete zzgl. NK 400 €,Wohnfläche ca. 56 m²,Zi. 2,146,14
+9,selObject_44842165,Sanierter denkmalgeschützte Altbauwohnung mit Gartenan...,"[['Wohnung', '•', 'Chemnitz', 'Kaßberg']]","['Balkon', 'Garten']",Miete zzgl. NK 848 €,Wohnfläche ca. 107 m²,Zi. 4,146,14
+10,selObject_44842157,"WG-geeignet, Einbauküche & Gutschein € 250,00 in Uninä...","[['Etagenwohnung', '•', 'Chemnitz', 'Bernsdorf']]","['Balkon', 'EBK']",Miete zzgl. NK 314 €,Wohnfläche ca. 61 m²,Zi. 2,146,14
+11,selObject_44842155,"Achtung Studenten, WG-Wohnung mit Einbauküche und Guts...","[['Etagenwohnung', '•', 'Chemnitz', 'Bernsdorf']]",['EBK'],Miete zzgl. NK 324 €,Wohnfläche ca. 60 m²,Zi. 2,146,14
+12,selObject_44842153,Helle freundliche 2-Raum mit Einbauschrank & großem...,"[['Etagenwohnung', '•', 'Chemnitz', 'Bernsdorf']]",[],Miete zzgl. NK 326 €,Wohnfläche ca. 63 m²,Zi. 2,146,14
+13,selObject_44841926,2-Raum-Wohnung mit Balkon in beliebter Wohnlage von...,"[['Etagenwohnung', '•', 'Elterlein', 'Elterlein']]","['Balkon', 'EBK']",Miete zzgl. NK 275 €,Wohnfläche ca. 50 m²,Zi. 2,146,14
+14,selObject_44841456,Helle 2-Zimmerwohnung mit Aufzug im Herzen der Stadt...,"[['Etagenwohnung', '•', 'Chemnitz', 'Zentrum']]",['Garten'],Miete zzgl. NK 250 €,Wohnfläche ca. 49 m²,Zi. 2,146,14
+15,selObject_44841294,++ ERSTBEZUG nach Renovierung ++,"[['Etagenwohnung', '•', 'Zwickau', 'Bahnhofsvorstadt']]",['EBK'],Miete zzgl. NK 310 €,Wohnfläche ca. 45 m²,Zi. 2,146,14
+16,selObject_44841243,Möbliert 2-Zimmer Apartment mit Balkon in Uninähe!,"[['Etagenwohnung', '•', 'Dresden', 'Strehlen']]",['EBK'],Miete zzgl. NK 580 €,Wohnfläche ca. 60 m²,Zi. 2,146,14
+17,selObject_44841233,"STUDIS AUFGEPASST - Tolle 1 Zi.-Whg mit FBH, große...","[['Etagenwohnung', '•', 'Leipzig', 'Zentrum']]",['Garten'],Miete zzgl. NK 349 €,Wohnfläche ca. 53 m²,Zi. 1,146,14
+18,selObject_44841231,2 Zimmer-Wohnung in Kleinzschachwitz mit Balkon,"[['Etagenwohnung', '•', 'Dresden', 'Kleinzschachwitz']]",['Balkon'],Miete zzgl. NK 547 €,Wohnfläche ca. 55 m²,Zi. 2,146,14
+19,selObject_44841181,2-Zimmer-Wohnung mit 57 m² Wfl. Erstbezug nach Sanieru...,"[['Wohnung', '•', 'Limbach-Oberfrohna', 'Limbach-Oberfrohna']]",[],Miete zzgl. NK 330 €,Wohnfläche ca. 57 m²,Zi. 2,146,14
+20,selObject_44840905,Großzügiges Domizil unterm Dach - Einfach wohlfühlen!,"[['Dachgeschosswohnung', '•', 'Chemnitz', 'Altendorf']]","['Garten', 'EBK']",Miete zzgl. NK 319 €,Wohnfläche ca. 59 m²,Zi. 2,146,14
+21,selObject_44840827,Günstige 3-Raum Wohnung in ruhiger und zentrumsnaher...,"[['Wohnung', '•', 'Waldheim', 'Waldheim']]",['Garten'],Miete zzgl. NK 250 €,Wohnfläche ca. 63 m²,Zi. 3,146,14
+22,selObject_44840039,"Gemütliche 2-Raum-Altbauwohnung mit EBK, Balkon, Bad...","[['Wohnung', '•', 'Oschatz', 'Oschatz']]","['Balkon', 'EBK']",Miete zzgl. NK 400 €,Wohnfläche ca. 73 m²,Zi. 2,146,14
+23,selObject_44839901,*NEU SANIERTE* 2-Raumwohnung mit Echtholzparkett und...,"[['Etagenwohnung', '•', 'Meißen']]",[],Miete zzgl. NK 300 €,Wohnfläche ca. 53 m²,Zi. 2,146,14
+24,selObject_44839897,"*EBK, Balkon, Fußbodenheizung - was will man mehr*","[['Etagenwohnung', '•', 'Radebeul']]","['Balkon', 'EBK']",Miete zzgl. NK 702 €,Wohnfläche ca. 83 m²,Zi. 3,146,14
+25,selObject_44839820,Ideales Familiennest in Freiberg,"[['Dachgeschosswohnung', '•', 'Freiberg,', 'Sachs', 'Freiberg']]",[],Miete zzgl. NK 450 €,Wohnfläche ca. 83 m²,Zi. 4,146,14
+26,selObject_44839800,2-Zimmer-Wohnung mit Tageslichtbad und Balkon,"[['Wohnung', '•', 'Dresden', 'Gruna']]",['Balkon'],Miete zzgl. NK 569 €,Wohnfläche ca. 63 m²,Zi. 2,146,14

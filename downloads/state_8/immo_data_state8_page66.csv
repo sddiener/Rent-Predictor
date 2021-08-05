@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44796224,4- Zimmerwohnung zur Miete in St. Blasien,"['Wohnung', '•', 'St.', 'Blasien', 'St', 'Blasien']","['Balkon', 'EBK']",Miete zzgl. NK 750 €,Wohnfläche ca. 108 m²,Zi. 4,66,8
-1,selObject_44795555,Karlsruhe-Südstadt! Optimal für Studenten-WG! Helle 2...,"['Wohnung', '•', 'Karlsruhe', 'Südstadt']",[],Miete zzgl. NK 720 €,Wohnfläche ca. 60 m²,Zi. 2,66,8
-2,selObject_44795470,Schön geschnittene 3-Zimmer-Wohnung im Mühlbachareal,"['Etagenwohnung', '•', 'Offenburg', 'Bohlsbach']",['Balkon'],Miete zzgl. NK 886 €,Wohnfläche ca. 78 m²,Zi. 3,66,8
-3,selObject_44795457,MÖBLIERT - MODERN STYLE - Gemütliche Wohnung mit Balko...,"['Wohnung', '•', 'Ludwigsburg', 'Mitte']","['Balkon', 'EBK']",Miete zzgl. NK 1.110 €,Wohnfläche ca. 55 m²,"Zi. 2,5",66,8
-4,selObject_44795456,MÖBLIERT - INDIVIDUAL STYLE - Gemütliche Wohnung mit...,"['Wohnung', '•', 'Bietigheim-Bissingen', 'Bietigheim']","['Balkon', 'EBK']",Miete zzgl. NK 1.110 €,Wohnfläche ca. 57 m²,"Zi. 2,5",66,8
-5,selObject_44795455,MÖBLIERT - SONNIG IN WEILIMDORF - 1-Zimmer-Apartment...,"['Wohnung', '•', 'Stuttgart', 'Weilimdorf']","['Balkon', 'EBK']",Miete zzgl. NK 760 €,Wohnfläche ca. 35 m²,Zi. 1,66,8
-6,selObject_44795454,MÖBLIERT - TOLLES FAMILIENDOMIZIL - Maisonettewohnung...,"['Wohnung', '•', 'Böblingen', 'Böblingen']","['Balkon', 'EBK']",Miete zzgl. NK 2.480 €,Wohnfläche ca. 120 m²,Zi. 4,66,8
-7,selObject_44795451,MÖBLIERT - URBAN LIVING - Wohnung mit 2 Balkonen in...,"['Wohnung', '•', 'Stuttgart', 'Ost']","['Balkon', 'EBK']",Miete zzgl. NK 2.120 €,Wohnfläche ca. 80 m²,Zi. 3,66,8
-8,selObject_44795447,MÖBLIERT - CASUAL LIVING - Apartment mit Reinigungsser...,"['Wohnung', '•', 'Böblingen', 'Böblingen']",[],Miete zzgl. NK 1.120 €,Wohnfläche ca. 27 m²,Zi. 1,66,8
-9,selObject_44795445,"MÖBLIERT - MODERN UND STYLISCH - Helle 1,5-Zimmer-Wohn...","['Wohnung', '•', 'Stuttgart', 'Hoffeld']",[],Miete zzgl. NK 920 €,Wohnfläche ca. 38 m²,"Zi. 1,5",66,8
-10,selObject_44795444,MÖBLIERT - STADTNAH UND DOCH RUHIG - 1-Zimmer-Wohnung...,"['Wohnung', '•', 'Stuttgart', 'West']","['Balkon', 'EBK']",Miete zzgl. NK 950 €,Wohnfläche ca. 31 m²,Zi. 1,66,8
-11,selObject_44795443,MÖBLIERT - LIVING HARMONY - Schöne Wohnung mit Terrass...,"['Wohnung', '•', 'Stuttgart', 'Vaihingen']",['EBK'],Miete zzgl. NK 2.080 €,Wohnfläche ca. 82 m²,Zi. 3,66,8
-12,selObject_44795442,MÖBLIERT - PERFEKTE LAGE - 2-Zimmer-Wohnung in Mitte,"['Wohnung', '•', 'Stuttgart', 'Mitte']",['EBK'],Miete zzgl. NK 2.580 €,Wohnfläche ca. 55 m²,Zi. 2,66,8
-13,selObject_44795441,MÖBLIERT - TOP LAGE - Modern möblierte Wohnung in Feue...,"['Wohnung', '•', 'Stuttgart', 'Feuerbach']",['EBK'],Miete zzgl. NK 950 €,Wohnfläche ca. 43 m²,Zi. 2,66,8
-14,selObject_44795440,MÖBLIERT - CLASSIC LIVING - Feldrandlage mit Balkon,"['Wohnung', '•', 'Fellbach', 'Schmiden']","['Balkon', 'EBK']",Miete zzgl. NK 1.030 €,Wohnfläche ca. 45 m²,Zi. 2,66,8
-15,selObject_44795439,MÖBLIERT - NICE LIVING - Gemütliche Wohnung in Weilimd...,"['Wohnung', '•', 'Stuttgart', 'Weilimdorf']",['EBK'],Miete zzgl. NK 1.170 €,Wohnfläche ca. 62 m²,"Zi. 2,5",66,8
-16,selObject_44795438,MÖBLIERT - CLASSIC LIVING - Schöne Wohnung mit PKW-Ste...,"['Wohnung', '•', 'Ingersheim', 'Großingersheim']",['EBK'],Miete zzgl. NK 960 €,Wohnfläche ca. 48 m²,"Zi. 1,5",66,8
-17,selObject_44795437,MÖBLIERT - COMPACT LIVING - Praktische Terrassenwohnun...,"['Wohnung', '•', 'Stuttgart', 'Ost']",['EBK'],Miete zzgl. NK 870 €,Wohnfläche ca. 39 m²,Zi. 1,66,8
-18,selObject_44795436,MÖBLIERT - FEELING AT HOME - Gemütliche 2-Zimmer-Wohnu...,"['Wohnung', '•', 'Leonberg', 'Höfingen']",['EBK'],Miete zzgl. NK 960 €,Wohnfläche ca. 45 m²,Zi. 2,66,8
-19,selObject_44795435,MÖBLIERT - GEMÜTLICH in PLIENINGEN - 2-Zimmer-Apartmen...,"['Wohnung', '•', 'Stuttgart', 'Plieningen']",['EBK'],Miete zzgl. NK 960 €,Wohnfläche ca. 50 m²,Zi. 2,66,8
-20,selObject_44795434,MÖBLIERT - LEBEN IM LEHENVIERTEL - Studio mit optimale...,"['Wohnung', '•', 'Stuttgart', 'Süd']",['EBK'],Miete zzgl. NK 740 €,Wohnfläche ca. 28 m²,Zi. 1,66,8
-21,selObject_44795433,MÖBLIERT - PRAKTISCH WOHNEN IN MÖHRINGEN - Wohnung mit...,"['Wohnung', '•', 'Stuttgart', 'Degerloch']",[],Miete zzgl. NK 760 €,Wohnfläche ca. 24 m²,Zi. 1,66,8
-22,selObject_44795432,MÖBLIERT - COMPACT LIVING - Studio im SI-Centrum mit...,"['Wohnung', '•', 'Stuttgart', 'Möhringen']",['EBK'],Miete zzgl. NK 860 €,Wohnfläche ca. 25 m²,Zi. 1,66,8
-23,selObject_44795431,MÖBLIERT - SKYLOUNGE - Tolle Wohnung mit Balkon,"['Wohnung', '•', 'Stuttgart', 'Fasanenhof']","['Balkon', 'EBK']",Miete zzgl. NK 1.080 €,Wohnfläche ca. 65 m²,Zi. 2,66,8
-24,selObject_44795430,MÖBLIERT - COMING HOME - Wohnung mit 2 Schlafzimmern...,"['Wohnung', '•', 'Stuttgart', 'Ost']",['EBK'],Miete zzgl. NK 1.360 €,Wohnfläche ca. 70 m²,Zi. 4,66,8
-25,selObject_44795429,MÖBLIERT - TOP LIVING - Praktische Wohnung mit kleiner...,"['Wohnung', '•', 'Böblingen', 'Böblingen']",['EBK'],Miete zzgl. NK 950 €,Wohnfläche ca. 37 m²,Zi. 1,66,8
-26,selObject_44795428,MÖBLIERT - CASUAL LIVING - Moderne Wohnung mit kleinem...,"['Wohnung', '•', 'Stuttgart', 'Ost']","['Balkon', 'EBK']",Miete zzgl. NK 1.200 €,Wohnfläche ca. 65 m²,"Zi. 2,5",66,8
+0,selObject_44842571,"Wunderschöne, möblierte Altbauwohnung mit Terrasse in...","[['Wohnung', '•', 'Stuttgart']]",['EBK'],Miete zzgl. NK 1.590 €,Wohnfläche ca. 86 m²,Zi. 4,66,8
+1,selObject_44842565,Schön möblierte Wohnung mit Terrasse und Garten in...,"[['Wohnung', '•', 'Stuttgart', 'Feuerbach']]","['Garten', 'EBK']",Miete zzgl. NK 1.390 €,Wohnfläche ca. 62 m²,"Zi. 2,5",66,8
+2,selObject_44842519,"Modern ausgestattet, Internet vorhanden, Stuttgart...","[['Wohnung', '•', 'Stuttgart', 'Weilimdorf']]",['EBK'],Miete zzgl. NK 1.200 €,Wohnfläche ca. 60 m²,Zi. 2,66,8
+3,selObject_44842490,"Schöne Zimmer in stylischer Loft-WG (Erstbezug, Möbel...","[['Etagenwohnung', '•', 'Mannheim', 'Wohlgelegen']]",['EBK'],Miete zzgl. NK 300 €,Wohnfläche ca. 20 m²,Zi. 1,66,8
+4,selObject_44842473,Schick möblierte Wohnung in zentraler Lage mit Stellpl...,"[['Wohnung', '•', 'Stuttgart', 'Mitte']]",['EBK'],Miete zzgl. NK 1.590 €,Wohnfläche ca. 55 m²,Zi. 2,66,8
+5,selObject_44842451,Wunderschöne Wohnung mit zwei Schlafzimmern in Stuttga...,"[['Wohnung', '•', 'Stuttgart', 'Stammheim']]",['EBK'],Miete zzgl. NK 1.390 €,Wohnfläche ca. 80 m²,Zi. 3,66,8
+6,selObject_44842417,"Modernes, möbliertes Apartment in toller, zentraler...","[['Wohnung', '•', 'Stuttgart', 'Nord']]","['Balkon', 'EBK']",Miete zzgl. NK 1.200 €,Wohnfläche ca. 33 m²,Zi. 1,66,8
+7,selObject_44842310,Leben wie im Penthouse,"[['Penthouse', '•', 'Schriesheim', 'Altenbach']]",['Balkon'],Miete zzgl. NK 1.980 €,Wohnfläche ca. 175 m²,Zi. 6,66,8
+8,selObject_44842308,Schicke Loftwohnung mit Terrasse,"[['Loft-Studio-Atelier', '•', 'Schriesheim', 'Altenbach']]",[],Miete zzgl. NK 970 €,Wohnfläche ca. 96 m²,Zi. 1,66,8
+9,selObject_44841967,"IDEAL FÜR PENDLER: Schöne, vollst. möblierte 2-Zi.-DG-...","[['Dachgeschosswohnung', '•', 'Stuttgart', 'Untertürkheim']]",['EBK'],Miete zzgl. NK 500 €,Wohnfläche ca. 38 m²,Zi. 2,66,8
+10,selObject_44841920,Erstbezug nach Sanierung - Geräumige 4ZKB Wohnung in...,"[['Etagenwohnung', '•', 'Mannheim', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 1.200 €,Wohnfläche ca. 113 m²,Zi. 4,66,8
+11,selObject_44841914,"Geräumige 3,5ZKB Wohnung in Mannheim in den Quadraten","[['Etagenwohnung', '•', 'Mannheim', 'Innenstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 1.100 €,Wohnfläche ca. 113 m²,"Zi. 3,5",66,8
+12,selObject_44841312,WOHNEN ÜBER DEN DÄCHERN VON ELLWANGEN - neu renovierte...,"[['Wohnung', '•', 'Ellwangen', 'Ellwangen']]",['Balkon'],Miete zzgl. NK 990 €,Wohnfläche ca. 145 m²,Zi. 5,66,8
+13,selObject_44841310,"Neu renovierte 3,5 Zi.-Whg. im II. OG eines Wohn- u....","[['Wohnung', '•', 'Ellwangen', 'Ellwangen']]",[],Miete zzgl. NK 890 €,Wohnfläche ca. 115 m²,Zi. 3,66,8
+14,selObject_44841219,Gemütliche 2 Zimmerwohnung in ruhiger Wohnlage von...,"[['Souterrainwohnung', '•', 'Walldorf']]",[],Miete zzgl. NK 495 €,Wohnfläche ca. 47 m²,Zi. 2,66,8
+15,selObject_44841218,"Gemütliche 2 Zimmerwohnung in kleiner, gepflegter Wohn...","[['Souterrainwohnung', '•', 'Walldorf']]",['EBK'],Miete zzgl. NK 520 €,Wohnfläche ca. 52 m²,Zi. 2,66,8
+16,selObject_44841178,"3-Zimmer-Wohnung mit Balkon, bezugsfertig ab sofort","[['Wohnung', '•', 'Leinfelden-Echterdingen', 'Leinfelden']]","['Balkon', 'EBK']",Miete zzgl. NK 1.000 €,Wohnfläche ca. 75 m²,Zi. 3,66,8
+17,selObject_44840896,Charmantes Wohnen in Hoheneck!,"[['Dachgeschosswohnung', '•', 'Ludwigsburg', 'Hoheneck']]","['Balkon', 'EBK']",Miete zzgl. NK 890 €,Wohnfläche ca. 72 m²,Zi. 3,66,8
+18,selObject_44840836,Vollmöblierte Wohnung mit Balkon und Küchenzeile in...,"[['Apartment', '•', 'Sindelfingen', 'Mitte']]","['Balkon', 'EBK']",Miete zzgl. NK 500 €,Wohnfläche ca. 25 m²,Zi. 1,66,8
+19,selObject_44840355,"Schöne sanierte 3,5-Zi.-Wohnung in Stuttgart-Pliening...","[['Wohnung', '•', 'Stuttgart', 'Plieningen']]",['EBK'],Miete zzgl. NK 830 €,Wohnfläche ca. 64 m²,"Zi. 3,5",66,8
+20,selObject_44839866,"Nur für Studenten oder Uni-Mitarbeiter, möbliertes...","[['Apartment', '•', 'Freiburg', 'Wiehre']]","['Balkon', 'EBK']",Miete zzgl. NK 580 €,Wohnfläche ca. 24 m²,Zi. 1,66,8
+21,selObject_44838542,PLZ 79539 3-Zimmerwohnung zentral in Lörrach,"[['Wohnung', '•', 'Lörrach', 'Lörrach']]",['Balkon'],Miete zzgl. NK 850 €,Wohnfläche ca. 78 m²,Zi. 3,66,8
+22,selObject_44835314,Schöne sanierte und möblierte Einzimmerwohnung mit EBK...,"[['Dachgeschosswohnung', '•', 'Böblingen', 'Böblingen']]","['Balkon', 'EBK']",Miete zzgl. NK 580 €,Wohnfläche ca. 40 m²,Zi. 1,66,8
+23,selObject_44835092,"Helle, großzügige Wohnung mit Blick ins Grüne in Leinf...","[['Etagenwohnung', '•', 'Leinfelden-Echterdingen', 'Echterdingen']]",[],Miete zzgl. NK 830 €,Wohnfläche ca. 69 m²,"Zi. 3,5",66,8
+24,selObject_44832737,"Exklusive 3 1/2 - Zimmer-Maisonette-Wohnung, ruhig und...","[['Etagenwohnung', '•', 'Radolfzell', 'Radolfzell']]","['Balkon', 'EBK']",Miete zzgl. NK 1.270 €,Wohnfläche ca. 100 m²,"Zi. 3,5",66,8
+25,selObject_44832680,"NEUBAU - Wohnen in den Taläckern - 3,5-Zi-EG-Whg, EBK,...","[['Etagenwohnung', '•', 'Künzelsau', 'Künzelsau']]",['EBK'],Miete zzgl. NK 900 €,Wohnfläche ca. 90 m²,"Zi. 3,5",66,8
+26,selObject_44832669,ab sofort frei - DG - 1-Zi. in 2er WG im C3 Konstanz -...,"[['Apartment', '•', 'Konstanz', 'Petershausen']]",[],Miete inkl. NK 510 €,Wohnfläche ca. 21 m²,Zi. 2,66,8

@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44876627,"Schöne 1,5 Zimmer Wohnung in der Altstadt von Bad...","['Etagenwohnung', '•', 'Bad', 'Wildungen', 'Bad', 'Wildungen']",[],Miete zzgl. NK 310 €,Wohnfläche ca. 44 m²,"Zi. 1,5",51,6
-1,selObject_44876603,"komplett sanierte, kleine 2 Zimmer Dachgeschosswohnun...","['Etagenwohnung', '•', 'Kassel', 'Bettenhausen']",['Garten'],Miete zzgl. NK 375 €,Wohnfläche ca. 39 m²,Zi. 2,51,6
-2,selObject_44876199,helle und bezugsfertige 3 ZKB Wohnung ideal für Berufs...,"['Erdgeschosswohnung', '•', 'Lauterbach', 'Lauterbach']",['Balkon'],Miete zzgl. NK 400 €,Wohnfläche ca. 66 m²,Zi. 3,51,6
-3,selObject_44876178,"Sehr schöne 3 Zimmer Wohnung, Stadt Mitte, nähe Stände...","['Wohnung', '•', 'Kassel', 'Mitte']",['EBK'],Miete zzgl. NK 650 €,Wohnfläche ca. 69 m²,Zi. 3,51,6
-4,selObject_44876137,**Neubau-Erstbezug** Penthousewohnung mit großer Dacht...,"['Penthouse', '•', 'Wiesbaden', 'Biebrich']",['EBK'],"Miete zzgl. NK 1.780,38 €",Wohnfläche ca. 110 m²,Zi. 3,51,6
-5,selObject_44876123,"Helle, großzügige 2-ZKB-Wohnung (82 m²) mit SSW-Terras...","['Erdgeschosswohnung', '•', 'Kassel', 'Niederzwehren']","['Garten', 'EBK']",Miete zzgl. NK 670 €,Wohnfläche ca. 82 m²,Zi. 2,51,6
-6,selObject_44876085,komplett sanierte 2 Zimmer Dachgeschosswohnung mit...,"['Etagenwohnung', '•', 'Kassel', 'Bettenhausen']",['Garten'],Miete zzgl. NK 510 €,Wohnfläche ca. 53 m²,Zi. 2,51,6
-7,selObject_44876008,Neubau-Erstbezug: Moderne 4-Zimmer-Wohnung mit Balkon,"['Etagenwohnung', '•', 'Nidderau', 'Eichen']","['Balkon', 'EBK']",Miete zzgl. NK 1.390 €,Wohnfläche ca. 110 m²,Zi. 4,51,6
-8,selObject_44875893,3 Zimmer-Wohnung mit Traumblick,"['Etagenwohnung', '•', 'Bad', 'Vilbel', 'Bad', 'Vilbel']","['Balkon', 'EBK']",Miete zzgl. NK 950 €,Wohnfläche ca. 82 m²,Zi. 3,51,6
-9,selObject_44875767,komplett sanierte 3 Zimmerwohnung im 1.Obergeschoss...,"['Etagenwohnung', '•', 'Kassel', 'Bettenhausen']",['Garten'],Miete zzgl. NK 640 €,Wohnfläche ca. 66 m²,Zi. 3,51,6
-10,selObject_44875768,komplett sanierte 3 Zimmerwohnung mit Balkon und Garte...,"['Etagenwohnung', '•', 'Kassel', 'Bettenhausen']",['Garten'],Miete zzgl. NK 640 €,Wohnfläche ca. 66 m²,Zi. 3,51,6
-11,selObject_44875698,Wohnen und Gewerbe,"['Erdgeschosswohnung', '•', 'Birkenau', 'Birkenau']",[],Miete zzgl. NK 925 €,Wohnfläche ca. 80 m²,Zi. 3,51,6
-12,selObject_44875679,Beste Citylage: Möblierte 3-Zimmerwohnung am Eschenhei...,"['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Innenstadt']","['Balkon', 'EBK']",Miete zzgl. NK 1.925 €,Wohnfläche ca. 99 m²,Zi. 3,51,6
-13,selObject_44875579,Exklusives Luxusappartement mit großer Sonnenterrasse...,"['Wohnung', '•', 'Homberg', 'Homberg']",[],Miete zzgl. NK 950 €,Wohnfläche ca. 50 m²,Zi. 1,51,6
-14,selObject_44875493,3 Zimmer Altbauwohnung Günthersburgpark ab 15.08.,"['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Nordend-Ost']",['EBK'],Miete zzgl. NK 1.450 €,Wohnfläche ca. 73 m²,Zi. 3,51,6
-15,selObject_44875107,"Ansprechende 2,5-Zimmer-Wohnung, Küche, Bad und Balkon...","['Wohnung', '•', 'Altenstadt', 'Rodenbach']",['EBK'],Miete zzgl. NK 630 €,Wohnfläche ca. 77 m²,"Zi. 2,5",51,6
-16,selObject_44875106,"IDEALER WOHN(T)RAUM IN DIREKTER MAINNÄHE, PAUSCHALMIET...","['Apartment', '•', 'Frankfurt', 'am', 'Main', 'Innenstadt']","['Balkon', 'EBK']",Miete zzgl. NK 1.150 €,Wohnfläche ca. 50 m²,Zi. 2,51,6
-17,selObject_44874867,B-UP!: Wohnen in Bornheim,"['Erdgeschosswohnung', '•', 'Frankfurt', 'am', 'Main', 'Nordend-Ost']","['Balkon', 'EBK']",Miete zzgl. NK 1.380 €,Wohnfläche ca. 70 m²,Zi. 2,51,6
-18,selObject_44873201,Perfekt! Günstige 2-Zimmer-Wohnung zu vergeben,"['Etagenwohnung', '•', 'Kassel', 'Niederzwehren']",['Balkon'],"Miete zzgl. NK 456,37 €",Wohnfläche ca. 52 m²,Zi. 3,51,6
-19,selObject_44873163,Wohn (t) raum für die ganze Familie - 4 Zimmer-Wohnung,"['Etagenwohnung', '•', 'Kassel', 'Oberzwehren']",['Balkon'],"Miete zzgl. NK 599,89 €",Wohnfläche ca. 87 m²,Zi. 4,51,6
-20,selObject_44873149,Zuhause fühlen: individuelle 3-Zimmer-Wohnung,"['Erdgeschosswohnung', '•', 'Kassel', 'Kirchditmold']",['Balkon'],"Miete zzgl. NK 495,21 €",Wohnfläche ca. 67 m²,Zi. 3,51,6
-21,selObject_44873137,Wo das Leben so spielt - günstige 2-Zimmer-Wohnung,"['Etagenwohnung', '•', 'Kassel', 'Waldau']",['Balkon'],"Miete zzgl. NK 433,49 €",Wohnfläche ca. 59 m²,Zi. 2,51,6
-22,selObject_44873121,Wohn (t) raum für eine kleine Familie: 5-Zimmer-Wohnun...,"['Etagenwohnung', '•', 'Kassel', 'Nord-Holland']",[],"Miete zzgl. NK 711,74 €",Wohnfläche ca. 106 m²,Zi. 5,51,6
-23,selObject_44873102,Perfekt - modernisierte 3-Zimmer-Wohnung sucht Mieter,"['Etagenwohnung', '•', 'Kassel', 'Nord-Holland']",[],"Miete zzgl. NK 472,19 €",Wohnfläche ca. 69 m²,Zi. 3,51,6
-24,selObject_44873089,Jetzt zugreifen - günstige 2-Zimmer-Wohnung mit Balkon,"['Etagenwohnung', '•', 'Kassel', 'Rothenditmold']",['Balkon'],"Miete zzgl. NK 460,10 €",Wohnfläche ca. 61 m²,Zi. 2,51,6
-25,selObject_44873079,Wo das Leben so spielt - 3-Zimmer-Wohnung mit Balkon,"['Etagenwohnung', '•', 'Kassel', 'Waldau']",['Balkon'],"Miete zzgl. NK 526,26 €",Wohnfläche ca. 75 m²,Zi. 3,51,6
-26,selObject_44873077,Nette Nachbarn gesucht - perfekte 3-Zimmer-Wohnung,"['Etagenwohnung', '•', 'Kassel', 'Nord-Holland']",[],"Miete zzgl. NK 388,26 €",Wohnfläche ca. 56 m²,Zi. 3,51,6
+0,selObject_44893948,Schöne möblierte 2-Zi. Wohnung im Rebstock,"[['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Bockenheim']]","['Balkon', 'EBK']",Miete zzgl. NK 1.250 €,Wohnfläche ca. 52 m²,Zi. 2,51,6
+1,selObject_44893941,3-Zimmer Terrassen-Wohnung Europaviertel,"[['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Bockenheim']]","['Garten', 'EBK']",Miete zzgl. NK 1.660 €,Wohnfläche ca. 123 m²,Zi. 3,51,6
+2,selObject_44893920,Moderne 2-Zi.-Wohn. im historischen Bahnhofsviertel,"[['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Bahnhofsviertel']]",['Balkon'],Miete zzgl. NK 1.240 €,Wohnfläche ca. 92 m²,Zi. 2,51,6
+3,selObject_44893722,Gemütliche Dachgeschoss-Wohnung mit Blick!,"[['Dachgeschosswohnung', '•', 'Kelkheim', 'Fischbach']]",['EBK'],Miete zzgl. NK 500 €,Wohnfläche ca. 50 m²,Zi. 2,51,6
+4,selObject_44893713,"Michelstadt, Nähe Rathaus","[['Dachgeschosswohnung', '•', 'Erbach', 'Günterfürst']]",[],Miete zzgl. NK 605 €,Wohnfläche ca. 85 m²,Zi. 3,51,6
+5,selObject_44893708,"1 A Lage , schöne , gut geschnittene Wohnung - ...","[['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Westend-Nord']]",[],Miete zzgl. NK 1.300 €,Wohnfläche ca. 56 m²,Zi. 2,51,6
+6,selObject_44893664,"Schicke, lichtdurchflutete Erdgeschosswohnung in Fulda...","[['Erdgeschosswohnung', '•', 'Fulda', 'Innenstadt']]",['EBK'],Miete zzgl. NK 750 €,Wohnfläche ca. 62 m²,Zi. 2,51,6
+7,selObject_44893614,Exklusive Etagenwohnung über den Dächern Bad Nauheims,"[['Wohnung', '•', 'Bad', 'Nauheim', 'Bad', 'Nauheim']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 930 €,Wohnfläche ca. 89 m²,Zi. 2,51,6
+8,selObject_44893192,Ohne Provision! großzügige Neubau-2-Zimmer-Mietwohnung...,"[['Dachgeschosswohnung', '•', 'Bad', 'Orb']]",['Garten'],Miete zzgl. NK 1.000 €,Wohnfläche ca. 89 m²,Zi. 2,51,6
+9,selObject_44893039,"Geheimtipp! Freundliche, renovierte 3-Zimmer-Wohnung...","[['Wohnung', '•', 'Friedberg', 'Friedberg']]",[],Miete zzgl. NK 750 €,Wohnfläche ca. 70 m²,Zi. 3,51,6
+10,selObject_44891930,Schöne Aussichten: Genießen Sie das Leben in Ihrer...,"[['Etagenwohnung', '•', 'Kassel', 'Waldau']]",['Balkon'],"Miete zzgl. NK 530,35 €",Wohnfläche ca. 77 m²,Zi. 3,51,6
+11,selObject_44891929,schöne 2-Zimmer-Wohnung im Herzen vom Gallus,"[['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Gallus']]",['EBK'],Miete zzgl. NK 980 €,Wohnfläche ca. 50 m²,Zi. 2,51,6
+12,selObject_44891890,helle 3-Zimmer-Wohnung mit Balkon,"[['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Gallus']]","['Balkon', 'EBK']",Miete zzgl. NK 1.301 €,Wohnfläche ca. 81 m²,Zi. 3,51,6
+13,selObject_44891887,Schöner Wohnen in dieser 2-Zimmer-Wohnung in Stadtlage,"[['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Gallus']]",[],"Miete zzgl. NK 729,57 €",Wohnfläche ca. 61 m²,Zi. 2,51,6
+14,selObject_44890976,"Exklusive, helle und sanierte 1-Zimmer-Wohnung mit...","[['Wohnung', '•', 'Wiesbaden', 'Bierstadt']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 615 €,Wohnfläche ca. 44 m²,Zi. 1,51,6
+15,selObject_44890898,++++Mitten in der Stadt und trotzdem ruhig und grün+++...,"[['Erdgeschosswohnung', '•', 'Bad', 'Homburg', 'Bad', 'Homburg']]",['EBK'],Miete zzgl. NK 950 €,Wohnfläche ca. 73 m²,Zi. 2,51,6
+16,selObject_44890664,"""SHK Neuvorstellung"" ""Stilvoll und elegant"" Beletage...","[['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Ostend']]",['EBK'],Miete zzgl. NK 1.500 €,Wohnfläche ca. 75 m²,Zi. 2,51,6
+17,selObject_44890380,Renoviertes Bussiness-Apartment in der nähe von Frankf...,"[['Apartment', '•', 'Eschborn', 'Niederhöchstadt']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 600 €,Wohnfläche ca. 30 m²,Zi. 1,51,6
+18,selObject_44890365,Zwischenmiete für 2J: Bad Vilbel OT - 3ZKB+Balkon -...,"[['Etagenwohnung', '•', 'Bad', 'Vilbel', 'Dortelweil']]",[],Miete zzgl. NK 595 €,Wohnfläche ca. 75 m²,,51,6
+19,selObject_44890303,Bad Camberg - 2-Zimmer-Wohnung mit Terrasse und EBK,"[['Wohnung', '•', 'Bad', 'Camberg', 'Bad', 'Camberg']]",['EBK'],Miete zzgl. NK 265 €,Wohnfläche ca. 32 m²,Zi. 2,51,6
+20,selObject_44890293,Neu renovierte 3-Zi.- Wohnung in Vellmar zu vermieten,"[['Wohnung', '•', 'Vellmar', 'Obervellmar']]",['Balkon'],Miete zzgl. NK 570 €,Wohnfläche ca. 65 m²,Zi. 3,51,6
+21,selObject_44890278,"1-Zimmer-Wohnung, renoviert","[['Wohnung', '•', 'Hattersheim', 'Okriftel']]",[],Miete zzgl. NK 500 €,Wohnfläche ca. 35 m²,Zi. 1,51,6
+22,selObject_44890260,Maisonette - Traum auf zwei Ebenen - ideal für Home-Of...,"[['Maisonette', '•', 'Schwalbach']]","['Balkon', 'EBK']",Miete zzgl. NK 990 €,Wohnfläche ca. 84 m²,"Zi. 3,5",51,6
+23,selObject_44890251,°°WHAT A FEELING°° Wohngenuss in Offenbach - lichtdurc...,"[['Penthouse', '•', 'Offenbach', 'am', 'Main', 'Lauterborn']]",['Balkon'],Miete zzgl. NK 780 €,Wohnfläche ca. 75 m²,Zi. 2,51,6
+24,selObject_44890118,Bad Soden - Wohnung mit Balkon im 2. Obergeschoss,"[['Wohnung', '•', 'Bad', 'Soden', 'Neuenhain']]","['Balkon', 'EBK']",Miete zzgl. NK 899 €,Wohnfläche ca. 70 m²,Zi. 2,51,6
+25,selObject_44890117,Gemütliche 3-Zimmer-Wohnung in Sossenheim,"[['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Sossenheim']]",[],Miete zzgl. NK 789 €,Wohnfläche ca. 75 m²,Zi. 3,51,6
+26,selObject_44889970,Perfekte Aufteilung auf 76 m² und 2 Zimmer. Hier ist...,"[['Wohnung', '•', 'Büdingen', 'Calbach']]",['EBK'],Miete zzgl. NK 600 €,Wohnfläche ca. 76 m²,"Zi. 2,5",51,6

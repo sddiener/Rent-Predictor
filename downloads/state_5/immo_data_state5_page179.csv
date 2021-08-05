@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44650943,Im Herzen von Wuppertal-Barmen und frisch renoviert,"['Etagenwohnung', '•', 'Wuppertal', 'Barmen']",[],Miete zzgl. NK 400 €,Wohnfläche ca. 51 m²,Zi. 2,179,5
-1,selObject_44650941,Hier behalten Sie den Überblick: City-Wohnung über den...,"['Dachgeschosswohnung', '•', 'Wuppertal', 'Barmen']",['Balkon'],Miete zzgl. NK 328 €,Wohnfläche ca. 41 m²,Zi. 1,179,5
-2,selObject_44650902,kleines Apartment (bezugsfrei),"['Dachgeschosswohnung', '•', 'Halver', 'Halver']",[],Miete zzgl. NK 180 €,Wohnfläche ca. 28 m²,Zi. 1,179,5
-3,selObject_44650835,2 Zimmer Wohnung im Erdgeschoss,"['Erdgeschosswohnung', '•', 'Halver', 'Halver']",[],Miete zzgl. NK 380 €,Wohnfläche ca. 60 m²,Zi. 2,179,5
-4,selObject_44650813,Hell und geräumig,"['Wohnung', '•', 'Eitorf', 'Eitorf']",['EBK'],Miete zzgl. NK 520 €,Wohnfläche ca. 94 m²,"Zi. 3,5",179,5
-5,selObject_44650724,west.side one - Neubaumietwohnungen,"['Erdgeschosswohnung', '•', 'Bonn', 'Dransdorf']",['Balkon'],Miete zzgl. NK 885 €,Wohnfläche ca. 65 m²,Zi. 2,179,5
-6,selObject_44650584,Moderne 2-Zimmer-Wohnung in schöner Nachbarschaft!,"['Penthouse', '•', 'Köln', 'Dünnwald']",[],Miete zzgl. NK 895 €,Wohnfläche ca. 74 m²,Zi. 2,179,5
-7,selObject_44650565,Helle 2-Zimmer-Wohnung in Hagen-Wehringhausen,"['Wohnung', '•', 'Hagen', 'Wehringhausen']",[],Miete zzgl. NK 370 €,Wohnfläche ca. 67 m²,Zi. 2,179,5
-8,selObject_44650541,3-Zimmer-Studio-Wohnung im Zentrum von Bielefeld,"['Dachgeschosswohnung', '•', 'Bielefeld', 'Innenstadt']",['EBK'],Miete zzgl. NK 795 €,Wohnfläche ca. 86 m²,Zi. 3,179,5
-9,selObject_44650367,Moderne 3 Zimmer Wohnung in Bilk,"['Etagenwohnung', '•', 'Düsseldorf', 'Bilk']",['Balkon'],Miete zzgl. NK 1.107 €,Wohnfläche ca. 78 m²,Zi. 3,179,5
-10,selObject_44650366,Schöne 4 Zimmerwohnung am Zoopark,"['Etagenwohnung', '•', 'Düsseldorf', 'Düsseltal']","['Balkon', 'EBK']",Miete zzgl. NK 1.880 €,Wohnfläche ca. 140 m²,Zi. 4,179,5
-11,selObject_44650048,Gepflegte 2-Raum-Wohnung in beliebter Lage / Perfekt...,"['Dachgeschosswohnung', '•', 'Duisburg', 'Neudorf-Nord']",['EBK'],Miete zzgl. NK 380 €,Wohnfläche ca. 56 m²,Zi. 2,179,5
-12,selObject_44649935,Komplett möblierte 2 Zimmer Einliegerwohnung mit separ...,"['Erdgeschosswohnung', '•', 'Solingen', 'Merscheid']","['Garten', 'EBK']",Miete zzgl. NK 460 €,Wohnfläche ca. 52 m²,Zi. 2,179,5
-13,selObject_44649808,"Traumhaftes Apartment // EBK, Balkon, Erstbezug!!! //...","['Etagenwohnung', '•', 'Düsseldorf', 'Stadtmitte']","['Balkon', 'EBK']","Miete zzgl. NK 518,44 €",Wohnfläche ca. 21 m²,Zi. 1,179,5
-14,selObject_44649807,Erstbezug / 1xNKM frei / Balkon / Einbauküche - Willko...,"['Etagenwohnung', '•', 'Düsseldorf', 'Stadtmitte']","['Balkon', 'EBK']","Miete zzgl. NK 625,48 €",Wohnfläche ca. 26 m²,Zi. 1,179,5
-15,selObject_44649801,Vollmöbliert und hochwertig! 2- Zimmer mit Einbauküche...,"['Etagenwohnung', '•', 'Düsseldorf', 'Stadtmitte']","['Balkon', 'EBK']","Miete zzgl. NK 1.151,82 €",Wohnfläche ca. 47 m²,Zi. 2,179,5
-16,selObject_44649800,Klasse Wohnung mit Balkon! Erstbezug nach Sanierung,"['Etagenwohnung', '•', 'Düsseldorf', 'Stadtmitte']",['Balkon'],"Miete zzgl. NK 884,38 €",Wohnfläche ca. 71 m²,Zi. 2,179,5
-17,selObject_44649795,Möblierter Wohntraum zum Erstbezug! + 1xNKM frei,"['Etagenwohnung', '•', 'Düsseldorf', 'Stadtmitte']","['Balkon', 'EBK']","Miete zzgl. NK 526,50 €",Wohnfläche ca. 21 m²,Zi. 1,179,5
-18,selObject_44649791,Wunderbare Aussicht! Möbliert + schöne Einbauküche und...,"['Etagenwohnung', '•', 'Düsseldorf', 'Stadtmitte']","['Balkon', 'EBK']","Miete zzgl. NK 609,76 €",Wohnfläche ca. 23 m²,Zi. 1,179,5
-19,selObject_44649790,TOP Apartment mit Einbauküche zum Erstbezug! + 1xNKM...,"['Etagenwohnung', '•', 'Düsseldorf', 'Stadtmitte']",['EBK'],"Miete zzgl. NK 543,62 €",Wohnfläche ca. 22 m²,Zi. 1,179,5
-20,selObject_44649787,"Wunderschöne 1-Zimmer Wohnung mit Balkon, EBK zum Erst...","['Etagenwohnung', '•', 'Düsseldorf', 'Stadtmitte']","['Balkon', 'EBK']","Miete zzgl. NK 753,76 €",Wohnfläche ca. 29 m²,Zi. 1,179,5
-21,selObject_44649781,Erstbezugstraum! Apartment möbliert mit Balkon! + 1xNK...,"['Etagenwohnung', '•', 'Düsseldorf', 'Stadtmitte']","['Balkon', 'EBK']","Miete zzgl. NK 619,46 €",Wohnfläche ca. 24 m²,Zi. 1,179,5
-22,selObject_44649775,Stilvolles Wohnen auf 97m² mit Terrasse,"['Etagenwohnung', '•', 'Dortmund', 'Schüren']",['EBK'],"Miete zzgl. NK 1.062,48 €",Wohnfläche ca. 97 m²,Zi. 3,179,5
-23,selObject_44649772,"Schöne EBK, Balkon, Möblierte Wohnung zum Erstbezug! +...","['Etagenwohnung', '•', 'Düsseldorf', 'Stadtmitte']","['Balkon', 'EBK']","Miete zzgl. NK 673,25 €",Wohnfläche ca. 26 m²,Zi. 1,179,5
-24,selObject_44649769,Hübsche Einraumwohnung zum Erstbezug mit Einbauküche +...,"['Etagenwohnung', '•', 'Düsseldorf', 'Stadtmitte']",['EBK'],"Miete zzgl. NK 646,03 €",Wohnfläche ca. 25 m²,Zi. 1,179,5
-25,selObject_44649762,"Wunderschöne 1-Zimmer Wohnung // Erstbezug, EBK, möbli...","['Etagenwohnung', '•', 'Düsseldorf', 'Stadtmitte']",['EBK'],"Miete zzgl. NK 616,10 €",Wohnfläche ca. 24 m²,Zi. 1,179,5
-26,selObject_44649743,"Möblierter Penthouse Traum - Erstbezug, Einbauküche! +...","['Etagenwohnung', '•', 'Düsseldorf', 'Stadtmitte']",['EBK'],"Miete zzgl. NK 984,88 €",Wohnfläche ca. 41 m²,Zi. 2,179,5
+0,selObject_44680660,Sie lieben das Außergewöhnliche - individuell und komf...,"[['Wohnung', '•', 'Köln', 'Buchheim']]",['EBK'],"Miete zzgl. NK 761,60 €",Wohnfläche ca. 64 m²,Zi. 2,179,5
+1,selObject_44680314,"Perfekte Aufteilung auf 67 m² und 2,5 Zimmer. Hier ist...","[['Wohnung', '•', 'Herzogenrath', 'Straß']]",[],Miete zzgl. NK 555 €,Wohnfläche ca. 67 m²,"Zi. 2,5",179,5
+2,selObject_44680271,50m² Dachgeschosswohnung für Single. Kontaktaufnahme...,"[['Wohnung', '•', 'Oberhausen', 'Styrum']]",[],Miete zzgl. NK 260 €,Wohnfläche ca. 50 m²,Zi. 2,179,5
+3,selObject_44680199,Gehobene 3-Zimmer Wohnung - Erstbezug nach Teil-Renovi...,"[['Wohnung', '•', 'Dortmund', 'Wischlingen']]",['Balkon'],Miete zzgl. NK 540 €,Wohnfläche ca. 67 m²,Zi. 3,179,5
+4,selObject_44680186,"Im Herzen von Essen ( Rüttenscheid) 65 m², 3 Zimmer","[['Wohnung', '•', 'Essen', 'Rüttenscheid']]","['Balkon', 'EBK']","Miete zzgl. NK 747,50 €",Wohnfläche ca. 64 m²,Zi. 3,179,5
+5,selObject_44680075,"2 R KDB 48 m², 2. OG/DG, hübsch möbliert","[['Wohnung', '•', 'Essen', 'Rüttenscheid']]",['EBK'],Miete zzgl. NK 670 €,Wohnfläche ca. 48 m²,Zi. 2,179,5
+6,selObject_44678242,"Sehr schön geschnitte und geräumige 3,5-Zimmer Wohnung...","[['Etagenwohnung', '•', 'Essen', 'Katernberg']]",['Balkon'],Miete zzgl. NK 479 €,Wohnfläche ca. 64 m²,"Zi. 3,5",179,5
+7,selObject_44678228,"Neue Wohnung, neues Glück! Praktische 3-Zi.-Wohnung","[['Etagenwohnung', '•', 'Bielefeld', 'Stieghorst']]",[],Miete zzgl. NK 646 €,Wohnfläche ca. 76 m²,Zi. 3,179,5
+8,selObject_44678227,"Stop! Ansprechende 1,5-Zimmer-Dachgeschosswohnung","[['Dachgeschosswohnung', '•', 'Recklinghausen', 'Stadtmitte']]",[],Miete zzgl. NK 352 €,Wohnfläche ca. 55 m²,Zi. 2,179,5
+9,selObject_44676250,"Schöne 3,5 Raum Wohnung","[['Etagenwohnung', '•', 'Bochum', 'Günnigfeld']]",['Balkon'],Miete zzgl. NK 352 €,Wohnfläche ca. 63 m²,"Zi. 3,5",179,5
+10,selObject_44676000,"Ideale Stadtwohnung in beliebter und ruhiger Lage,...","[['Wohnung', '•', 'Düsseldorf', 'Hafen']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.120 €,Wohnfläche ca. 59 m²,Zi. 2,179,5
+11,selObject_44675996,Moderne 2-Zimmerwohnung mit Terrasse in Herscheid zu...,"[['Wohnung', '•', 'Herscheid', 'Herscheid']]",[],Miete zzgl. NK 476 €,Wohnfläche ca. 68 m²,Zi. 2,179,5
+12,selObject_44675251,Helle geräumige 3 Zimmer mit großem Wohnzimmer,"[['Etagenwohnung', '•', 'Düsseldorf', 'Bilk']]",['EBK'],Miete zzgl. NK 795 €,Wohnfläche ca. 85 m²,Zi. 3,179,5
+13,selObject_44675141,Lichtdurchfluteter 2 Zi. Dachgeschosstraum auf 70 qm...,"[['Wohnung', '•', 'Düsseldorf', 'Friedrichstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 600 €,Wohnfläche ca. 70 m²,Zi. 2,179,5
+14,selObject_44673758,"hochwertige 2,5 Zimmer Neubauwohnung mit Fahrstuhl ...","[['Wohnung', '•', 'Arnsberg', 'Neheim-Hüsten']]",[],Miete zzgl. NK 680 €,Wohnfläche ca. 68 m²,,179,5
+15,selObject_44673700,Verfügbar ab sofort! 4-Zi.-Whg.,"[['Wohnung', '•', 'Hamm', 'Hamm-Mitte']]",['Garten'],Miete zzgl. NK 850 €,Wohnfläche ca. 92 m²,Zi. 4,179,5
+16,selObject_44673586,"Schöne Wohnung: 2,5-Zimmer-Wohnung","[['Etagenwohnung', '•', 'Dortmund', 'Nette']]",['Balkon'],Miete zzgl. NK 425 €,Wohnfläche ca. 49 m²,Zi. 2,179,5
+17,selObject_44673585,Gemütlich und bezugsfertig... 3-Zimmerwohnung mit Lami...,"[['Etagenwohnung', '•', 'Duisburg', 'Friemersheim']]",[],Miete zzgl. NK 329 €,Wohnfläche ca. 51 m²,Zi. 2,179,5
+18,selObject_44673567,Einzug ab sofort möglich: Gemütliche 3-Zimmer-DG-Wohnu...,"[['Dachgeschosswohnung', '•', 'Düsseldorf', 'Benrath']]",[],"Miete zzgl. NK 646,60 €",Wohnfläche ca. 60 m²,Zi. 3,179,5
+19,selObject_44672561,"TOP sanierte 2 Zimmer Wohnung mit 2 Balkonen, Einzug...","[['Wohnung', '•', 'Essen', 'Holsterhausen']]",['Balkon'],Miete zzgl. NK 655 €,Wohnfläche ca. 70 m²,Zi. 2,179,5
+20,selObject_44672329,Helle Seniorenwohnung mit Balkon und ebenerdiger Dusch...,"[['Etagenwohnung', '•', 'Dortmund', 'Brackel']]",['Balkon'],Miete zzgl. NK 449 €,Wohnfläche ca. 49 m²,Zi. 2,179,5
+21,selObject_44672315,Schicke Wohnung mit neuem Duschbadezimmer,"[['Etagenwohnung', '•', 'Dortmund', 'Bövinghausen']]",[],Miete zzgl. NK 389 €,Wohnfläche ca. 64 m²,"Zi. 2,5",179,5
+22,selObject_44672309,Top 2-Zimmer-Wohnung mit Wannenbad mit Fenster!,"[['Erdgeschosswohnung', '•', 'Dortmund', 'Bodelschwingh']]",[],Miete zzgl. NK 340 €,Wohnfläche ca. 49 m²,Zi. 2,179,5
+23,selObject_44672300,2-Zimmer-Wohnung mit heller Raumaufteilung und moderne...,"[['Erdgeschosswohnung', '•', 'Dortmund', 'Bodelschwingh']]",[],Miete zzgl. NK 349 €,Wohnfläche ca. 49 m²,Zi. 2,179,5
+24,selObject_44672267,#Wohnung mit neuem Badezimmer gesucht?#,"[['Etagenwohnung', '•', 'Dortmund', 'Wickede']]",['Balkon'],Miete zzgl. NK 429 €,Wohnfläche ca. 70 m²,Zi. 3,179,5
+25,selObject_44672263,"Schöne 2,5- Zimmer Wohnung mit Balkon im Berliner Vier...","[['Erdgeschosswohnung', '•', 'Monheim', 'Monheim']]",['Balkon'],Miete zzgl. NK 619 €,Wohnfläche ca. 68 m²,"Zi. 2,5",179,5
+26,selObject_44669728,Hier werden Träume wahr. Exklusive Wohnung in Würselen...,"[['Etagenwohnung', '•', 'Würselen', 'Würselen']]",['Balkon'],Miete zzgl. NK 980 €,Wohnfläche ca. 98 m²,Zi. 4,179,5

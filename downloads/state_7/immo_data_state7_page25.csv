@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44746856,praktisch geschnittene Wohnung in zentraler Lage,"['Dachgeschosswohnung', '•', 'Bad', 'Ems']",['Balkon'],Miete zzgl. NK 440 €,Wohnfläche ca. 74 m²,Zi. 3,25,7
-1,selObject_44746302,"360° Rundgang - WBS erforderlich, Wohnung für 1-2 Pers...","['Etagenwohnung', '•', 'Mayen', 'Mayen']",['Balkon'],"Miete zzgl. NK 442,94 €",Wohnfläche ca. 51 m²,Zi. 2,25,7
-2,selObject_44746297,WBS erforderlich - großzügige 2 Zimmer Wohnung,"['Etagenwohnung', '•', 'Mayen', 'Mayen']",['Balkon'],"Miete zzgl. NK 318,11 €",Wohnfläche ca. 64 m²,Zi. 2,25,7
-3,selObject_44745018,"Schöne 3 ZKB-Wohnung in Newel-Besslich,Stadtnähe","['Wohnung', '•', 'Newel', 'Beßlich']",['Balkon'],Miete zzgl. NK 750 €,Wohnfläche ca. 133 m²,Zi. 3,25,7
-4,selObject_44741985,Stadtzentrum!!! Repräsentative Altbauwohnung mit fünf...,"['Etagenwohnung', '•', 'Trier', 'Trier-Nord']",[],Miete zzgl. NK 1.275 €,Wohnfläche ca. 120 m²,Zi. 5,25,7
-5,selObject_44741984,Schöne 2-Zimmer-Wohnung,"['Wohnung', '•', 'Trier', 'Trier-Nord']","['Garten', 'EBK']",Miete zzgl. NK 330 €,Wohnfläche ca. 39 m²,Zi. 2,25,7
-6,selObject_44741464,Schöne 3 ZKB in bester Lage von Friesenheim,"['Etagenwohnung', '•', 'Ludwigshafen', 'Friesenheim/Nord']",[],Miete zzgl. NK 580 €,Wohnfläche ca. 62 m²,Zi. 3,25,7
-7,selObject_44740578,Direkt in der City - geräumige 3-Zimmerwohnung,"['Wohnung', '•', 'Kaiserslautern', 'Innenstadt']",['Balkon'],"Miete zzgl. NK 802,50 €",Wohnfläche ca. 107 m²,Zi. 3,25,7
-8,selObject_44740190,Erstbezug nach Neubau! 3 ZKB in zentrumsnaher Lage,"['Dachgeschosswohnung', '•', 'Speyer']",[],Miete zzgl. NK 1.530 €,Wohnfläche ca. 95 m²,Zi. 3,25,7
-9,selObject_44740192,Erstbezug nach Neubau! 2 ZKB in zentrumsnaher Lage,"['Erdgeschosswohnung', '•', 'Speyer']",[],Miete zzgl. NK 960 €,Wohnfläche ca. 60 m²,Zi. 2,25,7
-10,selObject_44740175,"Erstbezug Penthouse-Whng. an der Lux-Grenze 2 ZKB,...","['Etagenwohnung', '•', 'Langsur', 'Langsur']",[],Miete zzgl. NK 1.498 €,Wohnfläche ca. 70 m²,Zi. 2,25,7
-11,selObject_44740176,Erstbezug Penthouse-Appartement an der LUX-Grenze 1...,"['Etagenwohnung', '•', 'Langsur', 'Langsur']",[],Miete zzgl. NK 1.036 €,Wohnfläche ca. 50 m²,Zi. 1,25,7
-12,selObject_44740169,"3ZKB-Wohnung ca. 90 m2 in Trier-Pfalzel, Gartenmitben...","['Etagenwohnung', '•', 'Trier', 'Pfalzel']",['Garten'],Miete zzgl. NK 780 €,Wohnfläche ca. 90 m²,Zi. 3,25,7
-13,selObject_44740170,"Erstbezug direkt an der LUX-Grenze 3ZKB mit Balkon,...","['Etagenwohnung', '•', 'Langsur', 'Langsur']",[],Miete zzgl. NK 1.150 €,Wohnfläche ca. 74 m²,Zi. 3,25,7
-14,selObject_44736075,Trier-Innenstadt: Charmante Altbauwohnung am Stockplat...,"['Etagenwohnung', '•', 'Trier', 'Innenstadt']",['EBK'],Miete zzgl. NK 900 €,Wohnfläche ca. 95 m²,Zi. 3,25,7
-15,selObject_44736006,Mehrere Bezugsfreie Apartments in Trier-Süd von 20 m²...,"['Apartment', '•', 'Trier', 'Trier-Süd']",['EBK'],Preis Auf Anfrage,,,25,7
-16,selObject_44735681,Dachstudio-Wohnung mit 102 m² und Tiefgarage,"['Dachgeschosswohnung', '•', 'Jockgrim']","['Balkon', 'EBK']",Miete zzgl. NK 820 €,Wohnfläche ca. 102 m²,Zi. 3,25,7
-17,selObject_44735656,Dachstudio-Wohnung mit 102 m² und Tiefgarage,"['Dachgeschosswohnung', '•', 'Jockgrim']","['Balkon', 'EBK']",Miete zzgl. NK 970 €,Wohnfläche ca. 102 m²,Zi. 3,25,7
-18,selObject_44735562,Zentral gelegene Galeriewohnung,"['Wohnung', '•', 'Trier', 'Trier-Süd']",['EBK'],Miete zzgl. NK 1.440 €,Wohnfläche ca. 160 m²,Zi. 4,25,7
-19,selObject_44734517,Schickes Apartment im Regenbogenviertel mit Balkon und...,"['Etagenwohnung', '•', 'Trier', 'Kürenz']",['Balkon'],Miete zzgl. NK 335 €,Wohnfläche ca. 25 m²,Zi. 1,25,7
-20,selObject_44734039,"Modernisierte, großzügige 3-ZKB Wohnung - WBS erforder...","['Etagenwohnung', '•', 'Bitburg', 'Bitburg']",['Balkon'],Miete zzgl. NK 403 €,Wohnfläche ca. 79 m²,Zi. 3,25,7
-21,selObject_44733504,3 ZKB Speyer Zentrum - Altbau - ohne Balkon - nähe...,"['Dachgeschosswohnung', '•', 'Speyer']",[],Miete zzgl. NK 645 €,Wohnfläche ca. 80 m²,Zi. 3,25,7
-22,selObject_44733466,2 ZKB,"['Wohnung', '•', 'Weißenthurm']",[],Miete zzgl. NK 410 €,Wohnfläche ca. 60 m²,Zi. 2,25,7
-23,selObject_44733463,Penthousewohnung über den Dächern Bitburgs zu vermiete...,"['Dachgeschosswohnung', '•', 'Bitburg', 'Bitburg']",['EBK'],Miete zzgl. NK 1.050 €,Wohnfläche ca. 141 m²,Zi. 3,25,7
-24,selObject_44733412,Wohnung im Zentrum Bitburg,"['Apartment', '•', 'Bitburg', 'Bitburg']",[],Miete zzgl. NK 590 €,Wohnfläche ca. 75 m²,Zi. 3,25,7
-25,selObject_44728779,Traumhafte Penthouse Wohnung mit großem Balkon nahe...,"['Penthouse', '•', 'Mannebach']",['Balkon'],Miete zzgl. NK 1.330 €,Wohnfläche ca. 140 m²,Zi. 6,25,7
-26,selObject_44726828,Penthouse-Wohnung,"['Dachgeschosswohnung', '•', 'Bitburg', 'Bitburg']",['EBK'],Miete zzgl. NK 950 €,Wohnfläche ca. 100 m²,Zi. 3,25,7
+0,selObject_44767875,"Sanierte u renov. 3ZKB TL Bad-Wa, EBK, Gäste-WC ruhige...","[['Etagenwohnung', '•', 'Mainz', 'Mombach']]",['EBK'],Miete zzgl. NK 850 €,Wohnfläche ca. 73 m²,Zi. 3,25,7
+1,selObject_44765688,Helle und gut geschnittene 3-Zi.-Whg. in zentraler...,"[['Apartment', '•', 'Trier', 'Trier-West-Pallien']]",['Balkon'],Miete zzgl. NK 582 €,Wohnfläche ca. 69 m²,Zi. 3,25,7
+2,selObject_44765451,Attraktive 2-Zimmer Wohnung in Bad Ems,"[['Wohnung', '•', 'Bad', 'Ems']]",['EBK'],Miete zzgl. NK 325 €,Wohnfläche ca. 49 m²,Zi. 2,25,7
+3,selObject_44765433,Helle und freundliche 3-Zimmer-Wohnung in Trier West!,"[['Apartment', '•', 'Trier', 'Trier-West-Pallien']]","['Balkon', 'EBK']",Miete zzgl. NK 582 €,Wohnfläche ca. 69 m²,Zi. 3,25,7
+4,selObject_44760954,Neu renovierte 4-Zimmerwohnung,"[['Etagenwohnung', '•', 'Wolfstein']]",['EBK'],Miete zzgl. NK 450 €,Wohnfläche ca. 98 m²,Zi. 4,25,7
+5,selObject_44760498,3-Zimmer-Wohnung mit Balkon in ruhiger Wohnlage von...,"[['Etagenwohnung', '•', 'Andernach', 'Andernach']]","['Balkon', 'EBK']",Miete zzgl. NK 490 €,Wohnfläche ca. 70 m²,Zi. 3,25,7
+6,selObject_44759371,Erstbezug nach Neubau! 2 ZKB in zentrumsnaher Lage,"[['Erdgeschosswohnung', '•', 'Speyer']]",[],Miete zzgl. NK 1.085 €,Wohnfläche ca. 68 m²,Zi. 2,25,7
+7,selObject_44756903,"Freiraum pur! 146 qm Neubau-Gefühl I 4-ZKB, G-Du-WC I...","[['Etagenwohnung', '•', 'Höhr-Grenzhausen']]",[],Miete zzgl. NK 1.315 €,Wohnfläche ca. 146 m²,Zi. 2,25,7
+8,selObject_44756688,Trier-Innenstadt: Stilvolle 4- ZKB Wohnung 115 m²,"[['Etagenwohnung', '•', 'Trier', 'Innenstadt']]",[],Miete zzgl. NK 895 €,Wohnfläche ca. 115 m²,Zi. 4,25,7
+9,selObject_44756687,Trier-Innenstadt: tolle Maisonette-Wohnung in sanierte...,"[['Dachgeschosswohnung', '•', 'Trier', 'Innenstadt']]",[],Miete zzgl. NK 950 €,Wohnfläche ca. 124 m²,Zi. 3,25,7
+10,selObject_44756645,Freiraum im Neubau... 110 qm mit Loggia in S/W-Lage,"[['Etagenwohnung', '•', 'Höhr-Grenzhausen']]",[],Miete zzgl. NK 990 €,Wohnfläche ca. 110 m²,Zi. 2,25,7
+11,selObject_44755546,Neubau Erstbezug Dachgeschoss Wohnung in Lissendorf...,"[['Dachgeschosswohnung', '•', 'Lissendorf']]",[],Miete inkl. NK 640 €,,Zi. 2,25,7
+12,selObject_44752350,3-Zi.-Mietwohnung mit Garage in Prüm,"[['Kein', 'Bild'], ['Wohnung', '•', 'Prüm', 'Prüm']]","['Balkon', 'Garten']",Miete zzgl. NK 790 €,Wohnfläche ca. 95 m²,Zi. 3,25,7
+13,selObject_44746856,praktisch geschnittene Wohnung in zentraler Lage,"[['Dachgeschosswohnung', '•', 'Bad', 'Ems']]",['Balkon'],Miete zzgl. NK 440 €,Wohnfläche ca. 74 m²,Zi. 3,25,7
+14,selObject_44746302,"360° Rundgang - WBS erforderlich, Wohnung für 1-2 Pers...","[['Etagenwohnung', '•', 'Mayen', 'Mayen']]",['Balkon'],"Miete zzgl. NK 442,94 €",Wohnfläche ca. 51 m²,Zi. 2,25,7
+15,selObject_44745018,"Schöne 3 ZKB-Wohnung in Newel-Besslich,Stadtnähe","[['Wohnung', '•', 'Newel', 'Beßlich']]",['Balkon'],Miete zzgl. NK 750 €,Wohnfläche ca. 133 m²,Zi. 3,25,7
+16,selObject_44741985,Stadtzentrum!!! Repräsentative Altbauwohnung mit fünf...,"[['Etagenwohnung', '•', 'Trier', 'Trier-Nord']]",[],Miete zzgl. NK 1.275 €,Wohnfläche ca. 120 m²,Zi. 5,25,7
+17,selObject_44741984,Schöne 2-Zimmer-Wohnung,"[['Wohnung', '•', 'Trier', 'Trier-Nord']]","['Garten', 'EBK']",Miete zzgl. NK 330 €,Wohnfläche ca. 39 m²,Zi. 2,25,7
+18,selObject_44741464,Schöne 3 ZKB in bester Lage von Friesenheim,"[['Etagenwohnung', '•', 'Ludwigshafen', 'Friesenheim/Nord']]",[],Miete zzgl. NK 580 €,Wohnfläche ca. 62 m²,Zi. 3,25,7
+19,selObject_44740578,Direkt in der City - geräumige 3-Zimmerwohnung,"[['Wohnung', '•', 'Kaiserslautern', 'Innenstadt']]",['Balkon'],"Miete zzgl. NK 802,50 €",Wohnfläche ca. 107 m²,Zi. 3,25,7
+20,selObject_44740190,Erstbezug nach Neubau! 3 ZKB in zentrumsnaher Lage,"[['Dachgeschosswohnung', '•', 'Speyer']]",[],Miete zzgl. NK 1.530 €,Wohnfläche ca. 95 m²,Zi. 3,25,7
+21,selObject_44740192,Erstbezug nach Neubau! 2 ZKB in zentrumsnaher Lage,"[['Erdgeschosswohnung', '•', 'Speyer']]",[],Miete zzgl. NK 960 €,Wohnfläche ca. 60 m²,Zi. 2,25,7
+22,selObject_44740175,"Erstbezug Penthouse-Whng. an der Lux-Grenze 2 ZKB,...","[['Etagenwohnung', '•', 'Langsur', 'Langsur']]",[],Miete zzgl. NK 1.498 €,Wohnfläche ca. 70 m²,Zi. 2,25,7
+23,selObject_44740176,Erstbezug Penthouse-Appartement an der LUX-Grenze 1...,"[['Etagenwohnung', '•', 'Langsur', 'Langsur']]",[],Miete zzgl. NK 1.036 €,Wohnfläche ca. 50 m²,Zi. 1,25,7
+24,selObject_44740169,"3ZKB-Wohnung ca. 90 m2 in Trier-Pfalzel, Gartenmitben...","[['Etagenwohnung', '•', 'Trier', 'Pfalzel']]",['Garten'],Miete zzgl. NK 780 €,Wohnfläche ca. 90 m²,Zi. 3,25,7
+25,selObject_44740170,"Erstbezug direkt an der LUX-Grenze 3ZKB mit Balkon,...","[['Etagenwohnung', '•', 'Langsur', 'Langsur']]",[],Miete zzgl. NK 1.150 €,Wohnfläche ca. 74 m²,Zi. 3,25,7
+26,selObject_44736075,Trier-Innenstadt: Charmante Altbauwohnung am Stockplat...,"[['Etagenwohnung', '•', 'Trier', 'Innenstadt']]",['EBK'],Miete zzgl. NK 900 €,Wohnfläche ca. 95 m²,Zi. 3,25,7

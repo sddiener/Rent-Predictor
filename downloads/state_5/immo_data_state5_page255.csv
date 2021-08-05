@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_43792313,1 Zimmer Appartment,"['Etagenwohnung', '•', 'Wuppertal', 'Ronsdorf']",[],"Miete zzgl. NK 199,40 €",Wohnfläche ca. 39 m²,Zi. 1,255,5
-1,selObject_43791100,"4,5 Zimmer im 1OG mit neuem Laminat und Badezimmer","['Etagenwohnung', '•', 'Dorsten', 'Wulfen']",['Balkon'],"Miete zzgl. NK 487,98 €",Wohnfläche ca. 81 m²,"Zi. 4,5",255,5
-2,selObject_43789093,"Gut, günstig, gemütlich!","['Etagenwohnung', '•', 'Duisburg', 'Beeck']",['Balkon'],Miete zzgl. NK 379 €,Wohnfläche ca. 60 m²,Zi. 2,255,5
-3,selObject_43789030,Ideal für die kleine Familie,"['Wohnung', '•', 'Minden', 'Innenstadt']",['Garten'],Miete zzgl. NK 370 €,Wohnfläche ca. 50 m²,Zi. 3,255,5
-4,selObject_43787306,Selbstbestimmtes Wohnen im Alter!,"['Kein', 'Bild']",['Balkon'],Miete zzgl. NK 975 €,Wohnfläche ca. 82 m²,Zi. 3,255,5
-5,selObject_43785582,*3 Zimmerwohnung in UG wartet auf Ihre Mieter* bezugsf...,"['Wohnung', '•', 'Wuppertal', 'Barmen']",['Balkon'],"Miete zzgl. NK 513,51 €",Wohnfläche ca. 77 m²,Zi. 3,255,5
-6,selObject_43784740,frisch renovierte 3-Zimmer-Wohnung mit Balkon zu vermi...,"['Dachgeschosswohnung', '•', 'Duisburg', 'Alt-Hamborn']",['Balkon'],Miete zzgl. NK 476 €,Wohnfläche ca. 68 m²,Zi. 3,255,5
-7,selObject_43784715,LUXUS WOHNEN ZUM ECONOMY PREIS! 500€ Prämie und 3 Mona...,"['Etagenwohnung', '•', 'Dortmund', 'Mitte']",[],Miete zzgl. NK 549 €,Wohnfläche ca. 57 m²,Zi. 2,255,5
-8,selObject_43784714,LUXUS WOHNEN ZUM ECONOMY PREIS! 500€ Prämie und 3 Mona...,"['Etagenwohnung', '•', 'Dortmund', 'Mitte']",[],Miete zzgl. NK 649 €,Wohnfläche ca. 77 m²,Zi. 2,255,5
-9,selObject_43784713,LUST AUF LUXUS?! 500€ Prämie und 3 Monate mietfrei...,"['Etagenwohnung', '•', 'Dortmund', 'Mitte']",[],Miete zzgl. NK 599 €,Wohnfläche ca. 67 m²,Zi. 2,255,5
-10,selObject_43782749,"Möblierte Whg BONN POPPELSDORF - Wohn- KÜCHE+ EBK,...","['Wohnung', '•', 'Bonn', 'Endenich']",['EBK'],Miete zzgl. NK 950 €,Wohnfläche ca. 73 m²,Zi. 2,255,5
-11,selObject_43781539,"3 Zimmer, offene Küche, Bad - am Herzen der Stadt Pade...","['Etagenwohnung', '•', 'Paderborn', 'Kernstadt']",[],Miete zzgl. NK 520 €,Wohnfläche ca. 82 m²,Zi. 3,255,5
-12,selObject_43781010,Im Herzen von Kempen: Traumhafte 3 Zimmer-Neubauwohnun...,"['Erdgeschosswohnung', '•', 'Kempen', 'Kempen']",[],Miete zzgl. NK 1.290 €,Wohnfläche ca. 112 m²,Zi. 3,255,5
-13,selObject_43778767,Zentrale Lage in Rüttenscheid mit Balkon und Tageslich...,"['Wohnung', '•', 'Essen', 'Rüttenscheid']",['Balkon'],Miete zzgl. NK 799 €,Wohnfläche ca. 80 m²,"Zi. 3,5",255,5
-14,selObject_43774382,3-Zimmer-Wohnung in Mülheim-Heißen,"['Etagenwohnung', '•', 'Mülheim', 'Heißen']",['Balkon'],"Miete zzgl. NK 391,72 €",Wohnfläche ca. 82 m²,Zi. 3,255,5
-15,selObject_43773074,2-Zimmer-Wohnung in Mülheim-Heißen,"['Erdgeschosswohnung', '•', 'Mülheim', 'Mitte-Ost']",['Balkon'],"Miete zzgl. NK 318,53 €",Wohnfläche ca. 58 m²,Zi. 2,255,5
-16,selObject_43773062,2-Zimmer-Wohnung in Mülheim-Stadtmitte,"['Etagenwohnung', '•', 'Mülheim', 'Mitte']",[],"Miete zzgl. NK 339,81 €",Wohnfläche ca. 58 m²,Zi. 2,255,5
-17,selObject_43772783,"Herrliche,großzügige,preiswerte 2 Zimmer DG Wohnung in...","['Dachgeschosswohnung', '•', 'Werdohl', 'Kleinhammer']",['EBK'],Miete zzgl. NK 340 €,Wohnfläche ca. 89 m²,Zi. 2,255,5
-18,selObject_43769468,2-Zimmer-Wohnung mit Balkon in Mülheim-Dümpten,"['Dachgeschosswohnung', '•', 'Mülheim', 'Dümpten']",['Balkon'],Miete zzgl. NK 609 €,Wohnfläche ca. 87 m²,Zi. 2,255,5
-19,selObject_43768689,Maisonette Wohnung,"['Wohnung', '•', 'Kaarst', 'Driesch']","['Balkon', 'EBK']",Miete zzgl. NK 990 €,Wohnfläche ca. 142 m²,Zi. 6,255,5
-20,selObject_43764484,"Modernes 1-Zimmer-Apartment (25 qm, Bad&Küche) zu verm...","['Apartment', '•', 'Wuppertal', 'Barmen']",[],Miete zzgl. NK 195 €,Wohnfläche ca. 25 m²,Zi. 1,255,5
-21,selObject_43764403,Schicke Wohnung in Hochparterre!,"['Etagenwohnung', '•', 'Essen', 'Holsterhausen']",[],Miete zzgl. NK 730 €,Wohnfläche ca. 75 m²,Zi. 2,255,5
-22,selObject_43763327,WG ZIMMER - TOP SANIERT - ALL INCLUSIVE!,"['Dachgeschosswohnung', '•', 'Mönchengladbach', 'Hardterbroich']",['EBK'],Miete zzgl. NK 276 €,Wohnfläche ca. 15 m²,Zi. 1,255,5
-23,selObject_43763251,Exklusive Wohnung zu vermieten,"['Apartment', '•', 'Rheine', 'Rheine']","['Balkon', 'EBK']",Miete zzgl. NK 570 €,Wohnfläche ca. 59 m²,Zi. 2,255,5
-24,selObject_43763130,Smarter Wohnen! großzügige 1 Zi.-Whng. mit schöner...,"['Etagenwohnung', '•', 'Gelsenkirchen', 'Schalke']",[],Miete zzgl. NK 320 €,Wohnfläche ca. 60 m²,Zi. 1,255,5
-25,selObject_43762364,Smarter Wohnen! 3 Zi.-Whng. mit Balkon - modernes Wann...,"['Etagenwohnung', '•', 'Gelsenkirchen', 'Beckhausen']",['Balkon'],Miete zzgl. NK 420 €,Wohnfläche ca. 70 m²,Zi. 3,255,5
-26,selObject_43761516,"Smarter Wohnen! Gemütliche 3 Zi.- DG Whng., weißes...","['Etagenwohnung', '•', 'Herne', 'Wanne']",[],Miete zzgl. NK 335 €,Wohnfläche ca. 65 m²,Zi. 3,255,5
+0,selObject_43800354,Schöne 3-Zimmer Wohnung in Krefeld zu vermieten,"[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Krefeld', 'Stadtmitte']]",[],"Miete zzgl. NK 450,40 €",Wohnfläche ca. 80 m²,Zi. 3,255,5
+1,selObject_43799531,Helle Wohnung in gepflegtem Haus in Meiderich!,"[['Etagenwohnung', '•', 'Duisburg', 'Untermeiderich']]",[],Miete zzgl. NK 350 €,Wohnfläche ca. 50 m²,Zi. 2,255,5
+2,selObject_43799097,*** Leben im Zentrum von Erkelenz *** Verschiedene...,"[['Etagenwohnung', '•', 'Erkelenz', 'Erkelenz']]","['Balkon', 'Garten']",Miete zzgl. NK 708 €,Wohnfläche ca. 71 m²,Zi. 2,255,5
+3,selObject_43796205,++400€ Gutschein++ Frisch sanierte 2-Zimmerwohnung...,"[['Erdgeschosswohnung', '•', 'Düsseldorf', 'Flingern', 'Süd']]",[],Miete zzgl. NK 699 €,Wohnfläche ca. 66 m²,Zi. 2,255,5
+4,selObject_43795958,Zentrale und gemütliche Wohnung in Mönchengladbach,"[['Etagenwohnung', '•', 'Mönchengladbach', 'Stadtmitte']]",['Balkon'],Miete zzgl. NK 440 €,Wohnfläche ca. 65 m²,Zi. 2,255,5
+5,selObject_43795855,Stadtnahe 2-Zimmerwohnung mit schönem Ausblick!,"[['Etagenwohnung', '•', 'Lüdenscheid', 'Lüdenscheid']]",[],Miete zzgl. NK 310 €,Wohnfläche ca. 62 m²,Zi. 2,255,5
+6,selObject_43795099,2 Monate mietfrei wohnen!!Gemütliche 3-Zimmerwohnung...,"[['Etagenwohnung', '•', 'Solingen', 'Solingen-Mitte']]",['Balkon'],Miete zzgl. NK 569 €,Wohnfläche ca. 69 m²,"Zi. 3,5",255,5
+7,selObject_43793785,Klasse 3-Zimmer Wohnung,"[['Etagenwohnung', '•', 'Hagen', 'Altenhagen']]",['Balkon'],Miete zzgl. NK 420 €,Wohnfläche ca. 72 m²,Zi. 3,255,5
+8,selObject_43793775,Schöne 2-Zimmer Wohnung mit Loggia!,"[['Etagenwohnung', '•', 'Hagen', 'Wehringhausen']]",['Balkon'],Miete zzgl. NK 368 €,Wohnfläche ca. 56 m²,Zi. 2,255,5
+9,selObject_43793757,"Schöne 2,5-Zimmer Wohnung im 3. OG eines Mehrfamilienh...","[['Dachgeschosswohnung', '•', 'Hagen', 'Mittelstadt']]",[],Miete zzgl. NK 320 €,Wohnfläche ca. 70 m²,"Zi. 2,5",255,5
+10,selObject_43792313,1 Zimmer Appartment,"[['Etagenwohnung', '•', 'Wuppertal', 'Ronsdorf']]",[],"Miete zzgl. NK 199,40 €",Wohnfläche ca. 39 m²,Zi. 1,255,5
+11,selObject_43791100,"4,5 Zimmer im 1OG mit neuem Laminat und Badezimmer","[['Etagenwohnung', '•', 'Dorsten', 'Wulfen']]",['Balkon'],"Miete zzgl. NK 487,98 €",Wohnfläche ca. 81 m²,"Zi. 4,5",255,5
+12,selObject_43789093,"Gut, günstig, gemütlich!","[['Etagenwohnung', '•', 'Duisburg', 'Beeck']]",['Balkon'],Miete zzgl. NK 379 €,Wohnfläche ca. 60 m²,Zi. 2,255,5
+13,selObject_43789030,Ideal für die kleine Familie,"[['Wohnung', '•', 'Minden', 'Innenstadt']]",['Garten'],Miete zzgl. NK 370 €,Wohnfläche ca. 50 m²,Zi. 3,255,5
+14,selObject_43787306,Selbstbestimmtes Wohnen im Alter!,"[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Nottuln', 'Nottuln']]",['Balkon'],Miete zzgl. NK 975 €,Wohnfläche ca. 82 m²,Zi. 3,255,5
+15,selObject_43784740,frisch renovierte 3-Zimmer-Wohnung mit Balkon zu vermi...,"[['Dachgeschosswohnung', '•', 'Duisburg', 'Alt-Hamborn']]",['Balkon'],Miete zzgl. NK 476 €,Wohnfläche ca. 68 m²,Zi. 3,255,5
+16,selObject_43784715,LUXUS WOHNEN ZUM ECONOMY PREIS! 500€ Prämie und 3 Mona...,"[['Etagenwohnung', '•', 'Dortmund', 'Mitte']]",[],Miete zzgl. NK 549 €,Wohnfläche ca. 57 m²,Zi. 2,255,5
+17,selObject_43784714,LUXUS WOHNEN ZUM ECONOMY PREIS! 500€ Prämie und 3 Mona...,"[['Etagenwohnung', '•', 'Dortmund', 'Mitte']]",[],Miete zzgl. NK 649 €,Wohnfläche ca. 77 m²,Zi. 2,255,5
+18,selObject_43784713,LUST AUF LUXUS?! 500€ Prämie und 3 Monate mietfrei...,"[['Etagenwohnung', '•', 'Dortmund', 'Mitte']]",[],Miete zzgl. NK 599 €,Wohnfläche ca. 67 m²,Zi. 2,255,5
+19,selObject_43782749,"Möblierte Whg BONN POPPELSDORF - Wohn- KÜCHE+ EBK,...","[['Wohnung', '•', 'Bonn', 'Endenich']]",['EBK'],Miete zzgl. NK 950 €,Wohnfläche ca. 73 m²,Zi. 2,255,5
+20,selObject_43781539,"3 Zimmer, offene Küche, Bad - am Herzen der Stadt Pade...","[['Etagenwohnung', '•', 'Paderborn', 'Kernstadt']]",[],Miete zzgl. NK 520 €,Wohnfläche ca. 82 m²,Zi. 3,255,5
+21,selObject_43781010,Im Herzen von Kempen: Traumhafte 3 Zimmer-Neubauwohnun...,"[['Erdgeschosswohnung', '•', 'Kempen', 'Kempen']]",[],Miete zzgl. NK 1.290 €,Wohnfläche ca. 112 m²,Zi. 3,255,5
+22,selObject_43778767,Zentrale Lage in Rüttenscheid mit Balkon und Tageslich...,"[['Wohnung', '•', 'Essen', 'Rüttenscheid']]",['Balkon'],Miete zzgl. NK 799 €,Wohnfläche ca. 80 m²,"Zi. 3,5",255,5
+23,selObject_43774382,3-Zimmer-Wohnung in Mülheim-Heißen,"[['Etagenwohnung', '•', 'Mülheim', 'Heißen']]",['Balkon'],"Miete zzgl. NK 391,72 €",Wohnfläche ca. 82 m²,Zi. 3,255,5
+24,selObject_43773074,2-Zimmer-Wohnung in Mülheim-Heißen,"[['Erdgeschosswohnung', '•', 'Mülheim', 'Mitte-Ost']]",['Balkon'],"Miete zzgl. NK 318,53 €",Wohnfläche ca. 58 m²,Zi. 2,255,5
+25,selObject_43773062,2-Zimmer-Wohnung in Mülheim-Stadtmitte,"[['Etagenwohnung', '•', 'Mülheim', 'Mitte']]",[],"Miete zzgl. NK 339,81 €",Wohnfläche ca. 58 m²,Zi. 2,255,5
+26,selObject_43772783,"Herrliche,großzügige,preiswerte 2 Zimmer DG Wohnung in...","[['Dachgeschosswohnung', '•', 'Werdohl', 'Kleinhammer']]",['EBK'],Miete zzgl. NK 340 €,Wohnfläche ca. 89 m²,Zi. 2,255,5

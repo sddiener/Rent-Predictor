@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44370968,Großzügige Altbauwohnung im Zentrum,"['Etagenwohnung', '•', 'Norden', 'Norden']",['EBK'],Miete zzgl. NK 590 €,Wohnfläche ca. 110 m²,Zi. 3,92,3
-1,selObject_44370720,Günstiges Wohnen für Studierene direkt am See - Wohnhe...,"['Wohnung', '•', 'Braunschweig', 'Kralenriede']",[],Miete inkl. NK 221 €,,,92,3
-2,selObject_44370609,Schönes Wohnen für Studierende in Uni-Nähe - Wohnheim...,"['Wohnung', '•', 'Braunschweig', 'Braunschweig']",[],Miete inkl. NK 267 €,,,92,3
-3,selObject_44370603,2ZKB ab sofort Neutorstraße,"['Kein', 'Bild']",['EBK'],Miete zzgl. NK 400 €,Wohnfläche ca. 63 m²,Zi. 2,92,3
-4,selObject_44369574,3 ZKB,"['Wohnung', '•', 'Stemshorn']",['EBK'],Miete zzgl. NK 520 €,Wohnfläche ca. 90 m²,Zi. 3,92,3
-5,selObject_44369244,Helle 4 Zimmerwohnung mit Einbauküche,"['Etagenwohnung', '•', 'Ottersberg', 'Ottersberg']",['EBK'],Miete zzgl. NK 570 €,Wohnfläche ca. 104 m²,Zi. 4,92,3
-6,selObject_44369191,Sanierte Dachgeschosswohnung Emden Neutorstraße,"['Etagenwohnung', '•', 'Emden', 'Stadtzentrum']",[],Miete zzgl. NK 500 €,Wohnfläche ca. 70 m²,Zi. 2,92,3
-7,selObject_44367988,"M 15 -NEUENKIRCHEN- gepflegte, renovierte 4 Zimmerwohn...","['Wohnung', '•', 'Schwanewede', 'Neuenkirchen']","['Balkon', 'Garten']",Miete zzgl. NK 750 €,Wohnfläche ca. 103 m²,Zi. 4,92,3
-8,selObject_44367748,"STUDENTEN AUFGEPASST! - hell und zentral, über den...","['Dachgeschosswohnung', '•', 'Hannover', 'Mitte']",['Balkon'],Miete zzgl. NK 980 €,Wohnfläche ca. 100 m²,Zi. 5,92,3
-9,selObject_44367685,Gepflegte 2-Zimmer-Obergeschosswohnung mit Stellplatz...,"['Dachgeschosswohnung', '•', 'Bad', 'Zwischenahn', 'Bad', 'Zwischenahn', 'I']",[],Miete zzgl. NK 650 €,Wohnfläche ca. 84 m²,Zi. 2,92,3
-10,selObject_44366061,Schöne kleine 2 Zimmerwohnung mit Balkon in ruhiger...,"['Dachgeschosswohnung', '•', 'Clausthal-Zellerfeld', 'Buntenbock']",['Garten'],Miete zzgl. NK 235 €,Wohnfläche ca. 45 m²,Zi. 2,92,3
-11,selObject_44365411,Barßel ! 3 ZKB Dachgeschosswohnung in ruhiger Wohnlage,"['Dachgeschosswohnung', '•', 'Barßel', 'Barßelermoor']",[],Miete zzgl. NK 595 €,Wohnfläche ca. 100 m²,Zi. 3,92,3
-12,selObject_44364888,Schöne Dachgeschoss-Einliegerwohnung,"['Dachgeschosswohnung', '•', 'Seevetal', 'Metzendorf']","['Balkon', 'EBK']",Miete zzgl. NK 740 €,Wohnfläche ca. 68 m²,Zi. 2,92,3
-13,selObject_44364687,"Erdgeschosswohnung, direkt im Zentrum von Bassum","['Erdgeschosswohnung', '•', 'Bassum', 'Bassum']",[],Miete zzgl. NK 550 €,Wohnfläche ca. 55 m²,Zi. 2,92,3
-14,selObject_44364282,Schöne 3 ZKB-Wohnung in Norden,"['Etagenwohnung', '•', 'Norden', 'Norden']",['Garten'],Miete zzgl. NK 450 €,Wohnfläche ca. 50 m²,Zi. 3,92,3
-15,selObject_44364174,Gemütliche 2 Zimmerwohnung in Norden,"['Etagenwohnung', '•', 'Norden', 'Norden']",['Garten'],Miete zzgl. NK 370 €,Wohnfläche ca. 42 m²,Zi. 2,92,3
-16,selObject_44355352,SCHÖNER WOHNEN! 2 - 3 Zi. Whg. Stilvoll im Fachwerkha...,"['Wohnung', '•', 'Hanstedt', 'Hanstedt']",['EBK'],Miete zzgl. NK 1.360 €,Wohnfläche ca. 118 m²,Zi. 2,92,3
-17,selObject_44354681,Möbliertes WG-Studentenzimmer ab 01.08.2021,"['Zimmer', '•', 'Göttingen', 'Göttingen']",['Garten'],Miete inkl. NK 295 €,,,92,3
-18,selObject_44354609,WG-Studentenzimmer ab 01.08.2021,"['Zimmer', '•', 'Göttingen', 'Göttingen']",['Garten'],Miete inkl. NK 295 €,,,92,3
-19,selObject_44354583,"Toplage in Brinkum, Neubau, hochwertig ausgestattete 3...","['Wohnung', '•', 'Stuhr', 'Brinkum']",['EBK'],Miete zzgl. NK 870 €,Wohnfläche ca. 87 m²,Zi. 3,92,3
-20,selObject_44354437,Gemütliche 2-Zimmer-WG-Wohnung mit 2 Balkonen und Kell...,"['Erdgeschosswohnung', '•', 'Göttingen', 'Göttingen']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 515 €,Wohnfläche ca. 48 m²,Zi. 2,92,3
-21,selObject_44354431,**Frisch renoviert- Familientaugliche 3 Zimmerwohnung...,"['Wohnung', '•', 'Delmenhorst', 'Deichhorst']",['Balkon'],Miete zzgl. NK 489 €,Wohnfläche ca. 70 m²,Zi. 3,92,3
-22,selObject_44353846,2 Zimmer mit Fahrstuhl in Oyten,"['Etagenwohnung', '•', 'Oyten', 'Oyten']","['Balkon', 'EBK']",Miete zzgl. NK 680 €,Wohnfläche ca. 74 m²,Zi. 2,92,3
-23,selObject_44353007,9110/563 | 2-Zimmerwohnung nahe Uni und Innenstadt,"['Erdgeschosswohnung', '•', 'Göttingen', 'Göttingen']",['Garten'],Miete zzgl. NK 460 €,Wohnfläche ca. 45 m²,Zi. 2,92,3
-24,selObject_44352720,**WG-geeignete 2-Zimmer Wohnung in Zentrumsnähe frei...,"['Etagenwohnung', '•', 'Osnabrück', 'Innenstadt']",['EBK'],Miete zzgl. NK 690 €,Wohnfläche ca. 69 m²,Zi. 2,92,3
-25,selObject_44351943,Perfekt für eine Wohngemeinschaft...,"['Etagenwohnung', '•', 'Leer', 'Leer']",['EBK'],Miete zzgl. NK 750 €,Wohnfläche ca. 103 m²,Zi. 4,92,3
-26,selObject_44351915,# Barrierefreies Wohnen # Erdgeschoss #,"['Kein', 'Bild']",[],Miete zzgl. NK 480 €,Wohnfläche ca. 60 m²,Zi. 2,92,3
+0,selObject_44436948,5714 - 2-Zimmer-Erdgeschosswohnung mit Terrasse vor...,"[['Erdgeschosswohnung', '•', 'Bad', 'Zwischenahn', 'Petersfehn', 'I']]",[],Miete zzgl. NK 550 €,Wohnfläche ca. 73 m²,Zi. 2,92,3
+1,selObject_44430027,Moderner Neubau Erstbezug 3 Zimmer Obergeschosswohnung...,"[['Wohnung', '•', 'Verden', 'Dauelsen']]","['Balkon', 'EBK']",Miete zzgl. NK 1.004 €,Wohnfläche ca. 108 m²,Zi. 3,92,3
+2,selObject_44429861,Willkommen im Betreuten Wohnen in Jork bei Hamburg,"[['Wohnung', '•', 'Jork', 'Jork']]","['Balkon', 'EBK']",Miete zzgl. NK 580 €,Wohnfläche ca. 61 m²,Zi. 2,92,3
+3,selObject_44427072,3-Zimmer-Wohnung im 2-Familienhaus,"[['Etagenwohnung', '•', 'Diekholzen', 'Diekholzen']]",[],Miete zzgl. NK 400 €,Wohnfläche ca. 72 m²,Zi. 3,92,3
+4,selObject_44426744,3 Zimmer-Erdgeschosswohnung mit Terrasse in Westersted...,"[['Erdgeschosswohnung', '•', 'Westerstede', 'Westerstede']]",['EBK'],Miete zzgl. NK 650 €,Wohnfläche ca. 78 m²,Zi. 3,92,3
+5,selObject_44424931,2 Zimmer DG Wohnung in Bovenden,"[['Wohnung', '•', 'Bovenden', 'Bovenden']]",[],Miete zzgl. NK 420 €,Wohnfläche ca. 43 m²,Zi. 2,92,3
+6,selObject_44424138,** 3 helle Zimmer mit Balkon suchen neue Mieter**,"[['Wohnung', '•', 'Delmenhorst', 'Deichhorst']]",['Balkon'],Miete zzgl. NK 499 €,Wohnfläche ca. 75 m²,Zi. 3,92,3
+7,selObject_44423580,Erstbezug nach Modernisierung - Alles neu - Tolle Wohn...,"[['Etagenwohnung', '•', 'Hannover', 'Misburg-Süd']]",['Balkon'],Miete zzgl. NK 458 €,Wohnfläche ca. 49 m²,Zi. 2,92,3
+8,selObject_44423539,Erstbezug nach Modernisierung - Zum Einzug bereit,"[['Erdgeschosswohnung', '•', 'Hannover', 'Anderten']]",['Balkon'],Miete zzgl. NK 525 €,Wohnfläche ca. 59 m²,Zi. 2,92,3
+9,selObject_44423328,MODERNE und HELLE Wohnung in Papenburg!,"[['Erdgeschosswohnung', '•', 'Papenburg', 'Papenburg']]","['Garten', 'EBK']",Miete zzgl. NK 360 €,Wohnfläche ca. 54 m²,Zi. 2,92,3
+10,selObject_44422982,2 Zimmer EG - Wohnung in Vilsen in absolut ruhiger...,"[['Wohnung', '•', 'Bruchhausen-Vilsen', 'Bruchhausen-Vilsen']]","['Garten', 'EBK']",Miete zzgl. NK 480 €,Wohnfläche ca. 64 m²,Zi. 2,92,3
+11,selObject_44422968,Möblierte Single-Dachgeschoss-Wohnung im Wangerland,"[['Dachgeschosswohnung', '•', 'Wangerland', 'Friederikensiel']]",[],Miete zzgl. NK 300 €,Wohnfläche ca. 41 m²,Zi. 2,92,3
+12,selObject_44422870,Neues Wohnen an der Uferpromenade!,"[['Wohnung', '•', 'Hannover', 'Mitte']]",[],"Miete zzgl. NK 1.825,14 €",Wohnfläche ca. 127 m²,Zi. 3,92,3
+13,selObject_44422632,"Stufenlos, ruhig und zentral ab 2022 in Buchholz leben...","[['Penthouse', '•', 'Buchholz', 'Buchholz']]","['Balkon', 'EBK']","Miete zzgl. NK 1.733,85 €",Wohnfläche ca. 116 m²,Zi. 3,92,3
+14,selObject_44422476,4-Zimmer-Obergeschosswohnung mit großer Dachterrasse...,"[['Etagenwohnung', '•', 'Drebber']]",[],Miete zzgl. NK 700 €,Wohnfläche ca. 135 m²,Zi. 4,92,3
+15,selObject_44422312,Renovierte 2 ZKB-Dachgeschosswohnung mit großzügigem...,"[['Dachgeschosswohnung', '•', 'Langen', 'Langen']]",[],Miete zzgl. NK 435 €,Wohnfläche ca. 64 m²,Zi. 2,92,3
+16,selObject_44421658,Modernisierte 1- Zimmer-Wohnung,"[['Dachgeschosswohnung', '•', 'Laatzen', 'Alt-Laatzen']]",[],"Miete zzgl. NK 460,32 €",Wohnfläche ca. 39 m²,Zi. 1,92,3
+17,selObject_44420887,Innenstadt-Uferstraße Cäcilienhof: Seniorenwohnung mit...,"[['Wohnung', '•', 'Oldenburg', 'Kreyenbrück']]",['Balkon'],Miete zzgl. NK 900 €,Wohnfläche ca. 93 m²,Zi. 2,92,3
+18,selObject_44414022,3 Zimmer-Wohnung in Lemförde,"[['Dachgeschosswohnung', '•', 'Lemförde']]","['Balkon', 'EBK']",Miete zzgl. NK 650 €,Wohnfläche ca. 82 m²,Zi. 3,92,3
+19,selObject_44413560,Die Aussicht gibt´s Gratis!,"[['Etagenwohnung', '•', 'Nordenham', 'Nordenham']]",['Balkon'],Miete zzgl. NK 390 €,Wohnfläche ca. 62 m²,Zi. 2,92,3
+20,selObject_44413558,Gutschein für deinen Umzug!,"[['Etagenwohnung', '•', 'Nordenham', 'Nordenham']]",['Balkon'],Miete zzgl. NK 390 €,Wohnfläche ca. 62 m²,Zi. 2,92,3
+21,selObject_44413107,* Traumhafte 3-Zimmer Wohnung Nähe Südstrand *,"[['Etagenwohnung', '•', 'Wilhelmshaven', 'Innenstadt']]",['EBK'],Miete zzgl. NK 369 €,Wohnfläche ca. 71 m²,Zi. 3,92,3
+22,selObject_44412875,unt. OV! 2 ZKB + Terrasse,"[['Kein', 'Bild'], ['Apartment', '•', 'Göttingen', 'Göttingen']]","['Garten', 'EBK']",Miete zzgl. NK 530 €,Wohnfläche ca. 47 m²,Zi. 2,92,3
+23,selObject_44412053,Gemütliche 3-Zimmer-Wohnung in Hannover,"[['Etagenwohnung', '•', 'Hannover', 'Bemerode']]","['Balkon', 'EBK']",Miete zzgl. NK 582 €,Wohnfläche ca. 64 m²,Zi. 3,92,3
+24,selObject_44412004,"1 Zimmer-Wohnung in Bovenden, Südring 7","[['Erdgeschosswohnung', '•', 'Bovenden', 'Bovenden']]",[],Miete zzgl. NK 241 €,Wohnfläche ca. 23 m²,Zi. 1,92,3
+25,selObject_44411969,Neubau: Attraktive 2-Zimmerwohnung in zentraler Wohnla...,"[['Etagenwohnung', '•', 'Verden', 'Verden']]","['Balkon', 'EBK']",Miete zzgl. NK 620 €,Wohnfläche ca. 61 m²,Zi. 2,92,3
+26,selObject_44411872,Neubau: Attraktive 3-Zimmerwohnung in zentraler Wohnla...,"[['Erdgeschosswohnung', '•', 'Verden', 'Verden']]","['Balkon', 'EBK']",Miete zzgl. NK 865 €,Wohnfläche ca. 92 m²,Zi. 3,92,3

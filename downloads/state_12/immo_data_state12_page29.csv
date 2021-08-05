@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44595986,Altbauwohnung 180 m² 6 Zimmer,"['Etagenwohnung', '•', 'Brandenburg', 'Neustadt']",[],Miete zzgl. NK 1.260 €,Wohnfläche ca. 180 m²,Zi. 6,29,12
-1,selObject_44595394,WBG - 3-RWE - am Marienberg mit Fahrstuhl!,"['Erdgeschosswohnung', '•', 'Brandenburg', 'Altstadt']",['Balkon'],"Miete zzgl. NK 341,35 €",Wohnfläche ca. 68 m²,Zi. 3,29,12
-2,selObject_44595393,WBG - 2-RWE - im Stadtteil Nord!,"['Erdgeschosswohnung', '•', 'Brandenburg', 'Altstadt']",['Balkon'],"Miete zzgl. NK 238,40 €",Wohnfläche ca. 48 m²,Zi. 2,29,12
-3,selObject_44587554,Kurzexposé 2096/47,"['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']",[],"Miete zzgl. NK 345,05 €",Wohnfläche ca. 52 m²,Zi. 2,29,12
-4,selObject_44587553,2-Raum-Wohnung in der Innenstadt,"['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']",[],"Miete zzgl. NK 287,85 €",Wohnfläche ca. 46 m²,Zi. 2,29,12
-5,selObject_44587551,2-Raum-Wohnung mit Aussicht über die Stadt,"['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']",[],"Miete zzgl. NK 265,83 €",Wohnfläche ca. 53 m²,Zi. 2,29,12
-6,selObject_44583131,Wohnen in der Innenstadt,"['Etagenwohnung', '•', 'Finsterwalde', 'Finsterwalde']",[],Miete zzgl. NK 255 €,Wohnfläche ca. 54 m²,Zi. 2,29,12
-7,selObject_44583124,3-Raumwohnung mit Wohnküche,"['Wohnung', '•', 'Finsterwalde', 'Finsterwalde']",[],"Miete zzgl. NK 320,71 €",Wohnfläche ca. 64 m²,Zi. 3,29,12
-8,selObject_44583028,Ihr Sprung in ein neues Wohngefühl,"['Etagenwohnung', '•', 'Cottbus', 'Sachsendorf']",['Balkon'],"Miete zzgl. NK 291,82 €",Wohnfläche ca. 57 m²,Zi. 3,29,12
-9,selObject_44582961,Hoch hinaus im Würfelhaus! Sichern Sie sich jetzt Ihre...,"['Etagenwohnung', '•', 'Cottbus', 'Sachsendorf']",['Balkon'],"Miete zzgl. NK 347,42 €",Wohnfläche ca. 72 m²,Zi. 3,29,12
-10,selObject_44582953,Großzügige 3-Zimmer-Wohnung im 3.Obergeschoss steht...,"['Etagenwohnung', '•', 'Cottbus', 'Sachsendorf']",['Balkon'],"Miete zzgl. NK 387,90 €",Wohnfläche ca. 78 m²,Zi. 3,29,12
-11,selObject_44574387,2-Zimmer + Kamin + Pkw-Stellplatz in zentraler Lage!,"['Etagenwohnung', '•', 'Brandenburg', 'Altstadt']",['EBK'],Miete zzgl. NK 378 €,Wohnfläche ca. 45 m²,Zi. 2,29,12
-12,selObject_44572786,Für Singles: Appartement in Sandow,"['Wohnung', '•', 'Cottbus', 'Sandow']",['Balkon'],"Miete zzgl. NK 271,43 €",Wohnfläche ca. 49 m²,Zi. 2,29,12
-13,selObject_44572275,Attraktive Wohnung im Grünen,"['Wohnung', '•', 'Cottbus', 'Sandow']",['Balkon'],"Miete zzgl. NK 327,99 €",Wohnfläche ca. 59 m²,Zi. 3,29,12
-14,selObject_44572274,Barrierefreie Wohnung mit guter Nahverkehrsanbindung,"['Erdgeschosswohnung', '•', 'Cottbus', 'Schmellwitz']",[],"Miete zzgl. NK 219,11 €",Wohnfläche ca. 36 m²,Zi. 1,29,12
-15,selObject_44572270,Schöne preiswerte Wohnung,"['Wohnung', '•', 'Cottbus', 'Sandow']",['Balkon'],"Miete zzgl. NK 277,39 €",Wohnfläche ca. 59 m²,Zi. 3,29,12
-16,selObject_44566389,Schöner Wohnen in Brandenburg! **Besichtigung: Sa.:...,"['Etagenwohnung', '•', 'Brandenburg', 'Altstadt']",['EBK'],Miete zzgl. NK 382 €,Wohnfläche ca. 57 m²,Zi. 3,29,12
-17,selObject_44564576,"Prötzel - ruhige Lage, kleine 3 Zimmer Wohnung","['Erdgeschosswohnung', '•', 'Prötzel', 'Prötzel']",[],Miete zzgl. NK 425 €,Wohnfläche ca. 60 m²,Zi. 3,29,12
-18,selObject_44564006,Betreutes Wohnen in Fredersdorf- 1WE frei,"['Erdgeschosswohnung', '•', 'Fredersdorf-Vogelsdorf', 'Fredersdorf-Nord']","['Garten', 'EBK']",Miete zzgl. NK 592 €,Wohnfläche ca. 36 m²,Zi. 2,29,12
-19,selObject_44563312,Sie suchen eine schöne 3-Raum-Wohnung?,"['Etagenwohnung', '•', 'Eisenhüttenstadt', 'Eisenhüttenstadt']",['Balkon'],"Miete zzgl. NK 377,39 €",Wohnfläche ca. 61 m²,Zi. 3,29,12
-20,selObject_44562639,Über den Dächern Potsdams- Helle 2-Zimmerwohnung in...,"['Etagenwohnung', '•', 'Potsdam', 'Drewitz']","['Balkon', 'EBK']","Miete zzgl. NK 789,32 €",Wohnfläche ca. 68 m²,Zi. 2,29,12
-21,selObject_44561696,3-Zimmer Wohnung in zentraler Lage von Cottbus,"['Wohnung', '•', 'Cottbus', 'Spremberger', 'Vorstadt']",[],Miete zzgl. NK 460 €,Wohnfläche ca. 74 m²,Zi. 3,29,12
-22,selObject_44560917,2-Raum-Wohnung in ländlicher Idylle,"['Etagenwohnung', '•', 'Altdöbern', 'Altdöbern']",[],Miete zzgl. NK 215 €,Wohnfläche ca. 48 m²,Zi. 2,29,12
-23,selObject_44559722,sanierte 2 Raum Wohnung mit Balkon im 5. OG - ab sofor...,"['Etagenwohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']",['Balkon'],Miete zzgl. NK 285 €,Wohnfläche ca. 54 m²,Zi. 2,29,12
-24,selObject_44547841,Lichtdurchflutete 2-Zimmer-Altbau-Wohnung im Zentrum...,"['Etagenwohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']",[],Miete zzgl. NK 235 €,Wohnfläche ca. 36 m²,Zi. 2,29,12
-25,selObject_44528916,ruhige Wohnung mit Blick ins Grüne,"['Etagenwohnung', '•', 'Wildau']","['Balkon', 'Garten', 'EBK']","Miete zzgl. NK 936,99 €",Wohnfläche ca. 74 m²,Zi. 2,29,12
-26,selObject_44528025,Schöne 3-Zimmer-Wohnung mit Balkon in Sonnewalde,"['Wohnung', '•', 'Sonnewalde', 'Sonnewalde']",['Balkon'],Miete zzgl. NK 330 €,Wohnfläche ca. 64 m²,Zi. 3,29,12
+0,selObject_44583131,Wohnen in der Innenstadt,"[['Etagenwohnung', '•', 'Finsterwalde', 'Finsterwalde']]",[],Miete zzgl. NK 255 €,Wohnfläche ca. 54 m²,Zi. 2,29,12
+1,selObject_44583124,3-Raumwohnung mit Wohnküche,"[['Wohnung', '•', 'Finsterwalde', 'Finsterwalde']]",[],"Miete zzgl. NK 320,71 €",Wohnfläche ca. 64 m²,Zi. 3,29,12
+2,selObject_44583028,Ihr Sprung in ein neues Wohngefühl,"[['Etagenwohnung', '•', 'Cottbus', 'Sachsendorf']]",['Balkon'],"Miete zzgl. NK 291,82 €",Wohnfläche ca. 57 m²,Zi. 3,29,12
+3,selObject_44582961,Hoch hinaus im Würfelhaus! Sichern Sie sich jetzt Ihre...,"[['Etagenwohnung', '•', 'Cottbus', 'Sachsendorf']]",['Balkon'],"Miete zzgl. NK 347,42 €",Wohnfläche ca. 72 m²,Zi. 3,29,12
+4,selObject_44582953,Großzügige 3-Zimmer-Wohnung im 3.Obergeschoss steht...,"[['Etagenwohnung', '•', 'Cottbus', 'Sachsendorf']]",['Balkon'],"Miete zzgl. NK 387,90 €",Wohnfläche ca. 78 m²,Zi. 3,29,12
+5,selObject_44572786,Für Singles: Appartement in Sandow,"[['Wohnung', '•', 'Cottbus', 'Sandow']]",['Balkon'],"Miete zzgl. NK 271,43 €",Wohnfläche ca. 49 m²,Zi. 2,29,12
+6,selObject_44572274,Barrierefreie Wohnung mit guter Nahverkehrsanbindung,"[['Erdgeschosswohnung', '•', 'Cottbus', 'Schmellwitz']]",[],"Miete zzgl. NK 219,11 €",Wohnfläche ca. 36 m²,Zi. 1,29,12
+7,selObject_44572275,Attraktive Wohnung im Grünen,"[['Wohnung', '•', 'Cottbus', 'Sandow']]",['Balkon'],"Miete zzgl. NK 327,99 €",Wohnfläche ca. 59 m²,Zi. 3,29,12
+8,selObject_44572270,Schöne preiswerte Wohnung,"[['Wohnung', '•', 'Cottbus', 'Sandow']]",['Balkon'],"Miete zzgl. NK 277,39 €",Wohnfläche ca. 59 m²,Zi. 3,29,12
+9,selObject_44566389,Schöner Wohnen in Brandenburg! **Besichtigung: Sa.:...,"[['Etagenwohnung', '•', 'Brandenburg', 'Altstadt']]",['EBK'],Miete zzgl. NK 382 €,Wohnfläche ca. 57 m²,Zi. 3,29,12
+10,selObject_44564576,"Prötzel - ruhige Lage, kleine 3 Zimmer Wohnung","[['Erdgeschosswohnung', '•', 'Prötzel', 'Prötzel']]",[],Miete zzgl. NK 425 €,Wohnfläche ca. 60 m²,Zi. 3,29,12
+11,selObject_44564006,Betreutes Wohnen in Fredersdorf- 1WE frei,"[['Erdgeschosswohnung', '•', 'Fredersdorf-Vogelsdorf', 'Fredersdorf-Nord']]","['Garten', 'EBK']",Miete zzgl. NK 592 €,Wohnfläche ca. 36 m²,Zi. 2,29,12
+12,selObject_44563312,Sie suchen eine schöne 3-Raum-Wohnung?,"[['Etagenwohnung', '•', 'Eisenhüttenstadt', 'Eisenhüttenstadt']]",['Balkon'],"Miete zzgl. NK 377,39 €",Wohnfläche ca. 61 m²,Zi. 3,29,12
+13,selObject_44562639,Über den Dächern Potsdams- Helle 2-Zimmerwohnung in...,"[['Etagenwohnung', '•', 'Potsdam', 'Drewitz']]","['Balkon', 'EBK']","Miete zzgl. NK 789,32 €",Wohnfläche ca. 68 m²,Zi. 2,29,12
+14,selObject_44561696,3-Zimmer Wohnung in zentraler Lage von Cottbus,"[['Wohnung', '•', 'Cottbus', 'Spremberger', 'Vorstadt']]",[],Miete zzgl. NK 520 €,Wohnfläche ca. 74 m²,Zi. 3,29,12
+15,selObject_44560917,2-Raum-Wohnung in ländlicher Idylle,"[['Etagenwohnung', '•', 'Altdöbern', 'Altdöbern']]",[],Miete zzgl. NK 215 €,Wohnfläche ca. 48 m²,Zi. 2,29,12
+16,selObject_44559722,sanierte 2 Raum Wohnung mit Balkon im 5. OG - ab sofor...,"[['Etagenwohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']]",['Balkon'],Miete zzgl. NK 258 €,Wohnfläche ca. 54 m²,Zi. 2,29,12
+17,selObject_44547841,Lichtdurchflutete 2-Zimmer-Altbau-Wohnung im Zentrum...,"[['Etagenwohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']]",[],Miete zzgl. NK 235 €,Wohnfläche ca. 36 m²,Zi. 2,29,12
+18,selObject_44528916,ruhige Wohnung mit Blick ins Grüne,"[['Etagenwohnung', '•', 'Wildau']]","['Balkon', 'Garten', 'EBK']","Miete zzgl. NK 936,99 €",Wohnfläche ca. 74 m²,Zi. 2,29,12
+19,selObject_44528025,Schöne 3-Zimmer-Wohnung mit Balkon in Sonnewalde,"[['Wohnung', '•', 'Sonnewalde', 'Sonnewalde']]",['Balkon'],Miete zzgl. NK 330 €,Wohnfläche ca. 64 m²,Zi. 3,29,12
+20,selObject_44527917,Großzügig geschnittene 2-Zimmer Wohnung mit 2 traumhaf...,"[['Wohnung', '•', 'Oranienburg', 'Oranienburg']]","['Balkon', 'EBK']",Miete zzgl. NK 815 €,Wohnfläche ca. 76 m²,Zi. 2,29,12
+21,selObject_44526424,Wasserwanderer und Naturbegeisterte kommen auf ihre...,"[['Etagenwohnung', '•', 'Marienwerder', 'Marienwerder']]",[],"Miete zzgl. NK 401,60 €",Wohnfläche ca. 50 m²,Zi. 2,29,12
+22,selObject_44525893,Gemütliche 4-Zimmerwohnung mit Aktionspotenzial Eine...,"[['Wohnung', '•', 'Senftenberg']]",['Balkon'],"Miete zzgl. NK 428,92 €",Wohnfläche ca. 72 m²,Zi. 4,29,12
+23,selObject_44525759,Charmante 2-Zimmer Wohnung mit Fahrstuhl,"[['Etagenwohnung', '•', 'Brandenburg', 'Altstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 490 €,Wohnfläche ca. 62 m²,Zi. 2,29,12
+24,selObject_44525237,2- Raumwohnung mit Einbauküche !,"[['Etagenwohnung', '•', 'Finsterwalde', 'Finsterwalde']]",['EBK'],Miete zzgl. NK 242 €,Wohnfläche ca. 48 m²,Zi. 2,29,12
+25,selObject_44518231,WBG - 1-RWE - am Marienberg!,"[['Etagenwohnung', '•', 'Brandenburg', 'Altstadt']]",['Balkon'],"Miete zzgl. NK 188,55 €",Wohnfläche ca. 41 m²,Zi. 1,29,12
+26,selObject_44516612,Attraktive 3-Raum-Wohnung im 1.OG - Erstbezug nach...,"[['Etagenwohnung', '•', 'Cottbus']]",[],Miete zzgl. NK 745 €,Wohnfläche ca. 73 m²,Zi. 3,29,12

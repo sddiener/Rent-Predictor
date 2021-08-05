@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_43876985,"Erstbezug! Dachgeschosswohnung mit Küche, Terrasse &...","['Dachgeschosswohnung', '•', 'Celle', 'Westercelle']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 845 €,Wohnfläche ca. 70 m²,Zi. 2,106,3
-1,selObject_43876488,Toplage! 3-Zimmer Wohnung in Buchholz vor den Toren...,"['Etagenwohnung', '•', 'Buchholz', 'Buchholz']","['Balkon', 'EBK']",Miete zzgl. NK 820 €,Wohnfläche ca. 83 m²,Zi. 3,106,3
-2,selObject_43876177,**Stylische 2-Zi.Citywohnung**,"['Dachgeschosswohnung', '•', 'Celle', 'Altstadt']",['EBK'],Miete zzgl. NK 560 €,Wohnfläche ca. 95 m²,Zi. 2,106,3
-3,selObject_43876088,"Mikroapartment, optimal für Studenten/Auszubildende...","['Apartment', '•', 'Hannover', 'Mitte']",['EBK'],"Miete zzgl. NK 525,20 €",Wohnfläche ca. 33 m²,Zi. 1,106,3
-4,selObject_43874406,Möblierter Männertraum als Pendler-Loft,"['Loft-Studio-Atelier', '•', 'Sassenburg', 'Neudorf-Platendorf']",[],Miete zzgl. NK 550 €,Wohnfläche ca. 50 m²,Zi. 2,106,3
-5,selObject_43870407,4 Zimmer Erdgeschoss in Rosdorf,"['Erdgeschosswohnung', '•', 'Rosdorf', 'Rosdorf']",[],Miete zzgl. NK 750 €,Wohnfläche ca. 106 m²,Zi. 4,106,3
-6,selObject_43870106,Günstiges Wohnen für Studierende direkt am Campus,"['Wohnung', '•', 'Clausthal-Zellerfeld', 'Buntenbock']",[],Miete inkl. NK 159 €,,,106,3
-7,selObject_43870104,Zentrales und schönes Wohnen in Wolfsburg,"['Wohnung', '•', 'Wolfsburg', 'Eichelkamp']",[],Miete inkl. NK 265 €,,,106,3
-8,selObject_43870103,Günstiges Wohnen für Studierende in Uni-Nähe,"['Wohnung', '•', 'Wolfenbüttel', 'Ahlum']",[],Miete inkl. NK 212 €,,,106,3
-9,selObject_43870102,Moderner und gemütlicher Wohnraum für Studierende,"['Wohnung', '•', 'Lüneburg', 'Altstadt']",[],Miete inkl. NK 216 €,,,106,3
-10,selObject_43863336,"Schöne, größtenteils neu möblierte 3-Zi.-Whg. (EG,...","['Wohnung', '•', 'Wolfsburg', 'Vorsfelde']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 950 €,Wohnfläche ca. 64 m²,Zi. 3,106,3
-11,selObject_43860256,Helle Dachgeschosswohnung in gepflegtem Mehrfamilienha...,"['Dachgeschosswohnung', '•', 'Seesen', 'Rhüden']",[],Miete zzgl. NK 378 €,Wohnfläche ca. 90 m²,Zi. 3,106,3
-12,selObject_43859161,Behindertengerechte Service-Wohnung mit Einbauküche...,"['Wohnung', '•', 'Oldenburg', 'Alexandersfeld']",['EBK'],Miete zzgl. NK 710 €,Wohnfläche ca. 71 m²,Zi. 2,106,3
-13,selObject_43850553,"Großzügige, charmante 3-Zimmer-Wohnung","['Etagenwohnung', '•', 'Hannover', 'List']",['EBK'],Miete zzgl. NK 1.050 €,Wohnfläche ca. 93 m²,Zi. 3,106,3
-14,selObject_43839934,Schöne Single-Obergeschosswohnung mit Terrasse und...,"['Wohnung', '•', 'Papenburg', 'Papenburg']","['Garten', 'EBK']",Miete zzgl. NK 450 €,Wohnfläche ca. 70 m²,Zi. 2,106,3
-15,selObject_43830293,Eigener kleiner Garten! Behindertengerechte EG-Wohnung...,"['Erdgeschosswohnung', '•', 'Gifhorn', 'Gamsen']","['Garten', 'EBK']",Miete zzgl. NK 450 €,Wohnfläche ca. 61 m²,Zi. 2,106,3
-16,selObject_43823802,Schnell zugreifen!,"['Dachgeschosswohnung', '•', 'Wilhelmshaven', 'Fedderwardergroden']",['Garten'],Miete zzgl. NK 310 €,Wohnfläche ca. 50 m²,Zi. 3,106,3
-17,selObject_43815860,+ 1 Zimmer in zentraler Lage +,"['Etagenwohnung', '•', 'Seesen', 'Seesen']",['Balkon'],"Miete zzgl. NK 237,65 €",Wohnfläche ca. 34 m²,Zi. 1,106,3
-18,selObject_43814315,Erstbezug nach Sanierung - Etagenwohnung mit Balkon...,"['Etagenwohnung', '•', 'Wolfsburg', 'Vorsfelde']","['Balkon', 'Garten']",Miete zzgl. NK 495 €,Wohnfläche ca. 66 m²,Zi. 3,106,3
-19,selObject_43813151,Barrierefreie Neubauwohnung in zentraler Ortskernlage...,"['Erdgeschosswohnung', '•', 'Eggermühlen', 'Eggermühlen']",['Balkon'],Miete zzgl. NK 899 €,Wohnfläche ca. 123 m²,Zi. 3,106,3
-20,selObject_43813103,Barrierefreie Neubauwohnung in zentraler Ortskernlage...,"['Erdgeschosswohnung', '•', 'Eggermühlen', 'Eggermühlen']",['Balkon'],Miete zzgl. NK 481 €,Wohnfläche ca. 65 m²,Zi. 2,106,3
-21,selObject_43800950,Erstbezug - Neubau - stadtnah,"['Erdgeschosswohnung', '•', 'Aurich', 'Innenstadt']","['Garten', 'EBK']",Miete zzgl. NK 980 €,Wohnfläche ca. 103 m²,Zi. 3,106,3
-22,selObject_43796823,Zimmer in Wohngemeinschaft in zentraler Lage !!! Zu...,"['Wohnung', '•', 'Papenburg', 'Papenburg']",[],Miete zzgl. NK 225 €,Wohnfläche ca. 30 m²,Zi. 1,106,3
-23,selObject_43789294,Frisch renovierte 4-Zimmerwohnung für Familien!,"['Wohnung', '•', 'Diepholz', 'Diepholz']",['Balkon'],Miete zzgl. NK 509 €,Wohnfläche ca. 85 m²,Zi. 4,106,3
-24,selObject_43783177,--- renovierte 2 Zimmer Wohnungen in Herrenhausen-Stöc...,"['Erdgeschosswohnung', '•', 'Hannover', 'Herrenhausen']",[],Miete zzgl. NK 567 €,Wohnfläche ca. 61 m²,Zi. 2,106,3
-25,selObject_43782503,4 Zimmer Dachgeschoss Wohnung! -WG geeignet-,"['Dachgeschosswohnung', '•', 'Emden', 'Barenburg']",['EBK'],Miete zzgl. NK 590 €,Wohnfläche ca. 90 m²,Zi. 4,106,3
-26,selObject_43781570,Freie WG-Zimmer im exklusiven Studihaus,"['Apartment', '•', 'Lingen', 'Lingen']",['EBK'],Miete zzgl. NK 295 €,Wohnfläche ca. 22 m²,Zi. 1,106,3
+0,selObject_44019388,Vollsaniert und günstig! 2 Zimmer im Dachgeschoss zu...,"[['Dachgeschosswohnung', '•', 'Wilhelmshaven', 'Fedderwardergroden']]",['Garten'],Miete zzgl. NK 346 €,Wohnfläche ca. 55 m²,Zi. 3,106,3
+1,selObject_44019345,Ideale Singlewohnung im Neubaugebiet,"[['Erdgeschosswohnung', '•', 'Lüneburg', 'Ebensberg']]",['EBK'],Miete zzgl. NK 499 €,Wohnfläche ca. 46 m²,Zi. 1,106,3
+2,selObject_44018750,Dat moi Hus - Exklusives Wohnen mit Concierge Service...,"[['Dachgeschosswohnung', '•', 'Delmenhorst', 'Deichhorst']]","['Balkon', 'EBK']",Miete zzgl. NK 925 €,Wohnfläche ca. 45 m²,,106,3
+3,selObject_44017926,"Separater Eingang: Schöne, renovierte Obergeschosswohn...","[['Dachgeschosswohnung', '•', 'Löningen', 'Böen']]",['EBK'],Miete zzgl. NK 525 €,Wohnfläche ca. 100 m²,,106,3
+4,selObject_44017903,Stade Pommernviertel: ruhige 2-Zimmer-Wohnung mit Balk...,"[['Wohnung', '•', 'Stade', 'Stade']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 500 €,Wohnfläche ca. 68 m²,Zi. 2,106,3
+5,selObject_44016736,208-004 - 3 Zimmer Wohnung mit Loggia,"[['Wohnung', '•', 'Braunschweig', 'Innenstadt']]",[],Miete zzgl. NK 725 €,Wohnfläche ca. 100 m²,Zi. 3,106,3
+6,selObject_44016055,"Neubau/ Brinkum, moderne 3 Zimmer Dachgeschosswohnung...","[['Wohnung', '•', 'Stuhr', 'Brinkum']]",['EBK'],Miete zzgl. NK 1.075 €,Wohnfläche ca. 94 m²,Zi. 3,106,3
+7,selObject_44016010,"Neubau/ Brinkum, moderne 3 Zimmer Mietwohnung mit toll...","[['Wohnung', '•', 'Stuhr', 'Brinkum']]",['EBK'],Miete zzgl. NK 950 €,Wohnfläche ca. 86 m²,Zi. 3,106,3
+8,selObject_44009933,Charmante 3-Zi.-Whg. mit 2 geräumigen Balkonen in der...,"[['Apartment', '•', 'Delmenhorst', 'Mitte']]",['Balkon'],Miete zzgl. NK 570 €,Wohnfläche ca. 89 m²,Zi. 3,106,3
+9,selObject_44005914,107-006 - 4 Zimmer Wohnung mit Balkon - saniert -,"[['Etagenwohnung', '•', 'Braunschweig', 'Innenstadt']]",[],Miete zzgl. NK 867 €,Wohnfläche ca. 96 m²,Zi. 4,106,3
+10,selObject_44003912,Frisch sanierte 3 Zimmer Wohnung für den kleinen Geldb...,"[['Etagenwohnung', '•', 'Bad', 'Pyrmont', 'Bad', 'Pyrmont']]",['Balkon'],Miete zzgl. NK 420 €,Wohnfläche ca. 73 m²,Zi. 3,106,3
+11,selObject_44002433,Wir haben für Sie saniert! Kurzfristiger Einzug wäre...,"[['Dachgeschosswohnung', '•', 'Wilhelmshaven', 'Fedderwardergroden']]",[],Miete zzgl. NK 320 €,Wohnfläche ca. 54 m²,Zi. 3,106,3
+12,selObject_43996800,"preisgünstige, großzügige, ruhig gelegene Dachgeschoß-...","[['Dachgeschosswohnung', '•', 'Göttingen', 'Göttingen']]",['EBK'],Miete zzgl. NK 400 €,Wohnfläche ca. 52 m²,Zi. 2,106,3
+13,selObject_43996585,3-Zimmer-Wohnung in begehrter Lage von Emden,"[['Etagenwohnung', '•', 'Emden', 'Borssum/Hilmarsum']]",['Garten'],Miete zzgl. NK 450 €,Wohnfläche ca. 53 m²,Zi. 3,106,3
+14,selObject_43996307,"Große, helle 2-Zimmer-Wohnung im Zentrum von Emden!","[['Etagenwohnung', '•', 'Emden', 'Borssum/Hilmarsum']]",['EBK'],Miete zzgl. NK 400 €,Wohnfläche ca. 65 m²,Zi. 2,106,3
+15,selObject_43995677,+++ Ihr kleines Domizil im Herzen Hildesheims +++,"[['Dachgeschosswohnung', '•', 'Hildesheim', 'Neustadt']]",['EBK'],Miete zzgl. NK 320 €,Wohnfläche ca. 29 m²,Zi. 1,106,3
+16,selObject_43984000,"Apartments in - Hasbergen Gaste - zu vermieten -,...","[['Apartment', '•', 'Hasbergen', 'Gaste']]",[],Miete inkl. NK 560 €,Wohnfläche ca. 35 m²,Zi. 1,106,3
+17,selObject_43983009,3 Zimmer-Wohnung in Sulingen,"[['Dachgeschosswohnung', '•', 'Sulingen', 'Sulingen']]",['Balkon'],Miete zzgl. NK 420 €,Wohnfläche ca. 75 m²,Zi. 3,106,3
+18,selObject_43982786,Renovierte Wohnung im Hochhaus sucht Mieter!,"[['Etagenwohnung', '•', 'Wilhelmshaven', 'Aldenburg']]",['Balkon'],Miete zzgl. NK 424 €,Wohnfläche ca. 74 m²,Zi. 3,106,3
+19,selObject_43981110,Smartes Wohnen: vollmöbilierte Wohnung zur Miete,"[['Etagenwohnung', '•', 'Braunschweig', 'Vorwerksiedlung']]",[],"Miete zzgl. NK 696,63 €",Wohnfläche ca. 38 m²,Zi. 1,106,3
+20,selObject_43974194,Ideal nicht nur für Wochenendpendler!,"[['Wohnung', '•', 'Bispingen', 'Bispingen']]","['Balkon', 'EBK']",Miete zzgl. NK 444 €,Wohnfläche ca. 60 m²,Zi. 2,106,3
+21,selObject_43974001,Erstbezug! Hochwertige 3 Zimmer Wohnung mit EBK.,"[['Maisonette', '•', 'Achim', 'Achim']]","['Balkon', 'EBK']",Miete zzgl. NK 940 €,Wohnfläche ca. 88 m²,Zi. 3,106,3
+22,selObject_43973040,***Altbaucharme***,"[['Wohnung', '•', 'Bad', 'Lauterberg', 'Bad', 'Lauterberg']]",['Garten'],Miete zzgl. NK 410 €,Wohnfläche ca. 85 m²,Zi. 3,106,3
+23,selObject_43970176,"Sanierte, großzügige 3-Zimmerwohnung im Zentrum","[['Etagenwohnung', '•', 'Wilhelmshaven', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 530 €,Wohnfläche ca. 101 m²,Zi. 3,106,3
+24,selObject_43958119,Monteuerzimmer Unterkunft Ferienwohnung Hechthausen ab...,"[['Dachgeschosswohnung', '•', 'Stade']]","['Garten', 'EBK']",Miete zzgl. NK 13 €,Wohnfläche ca. 150 m²,Zi. 8,106,3
+25,selObject_43952872,"Tierfreundliche, barrierefreie Erdgeschosswohnung mit...","[['Erdgeschosswohnung', '•', 'Oldenburg', 'Eversten']]","['Garten', 'EBK']",Miete zzgl. NK 675 €,Wohnfläche ca. 60 m²,Zi. 2,106,3
+26,selObject_43950904,Neu und hochwertig - Erstbezug in moderner Rooftopwohn...,"[['Penthouse', '•', 'Wolfsburg', 'Vorsfelde']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 765 €,Wohnfläche ca. 69 m²,Zi. 2,106,3

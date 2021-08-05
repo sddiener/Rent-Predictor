@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44852541,Großzügiger Altbau in Othmarschen!,"['Etagenwohnung', '•', 'Hamburg', 'Groß', 'Flottbek']","['Balkon', 'EBK']",Miete zzgl. NK 2.599 €,Wohnfläche ca. 214 m²,Zi. 7,25,2
-1,selObject_44852409,Exklusive Wohnung im Herzen Hamburgs,"['Wohnung', '•', 'Hamburg', 'Farmsen-Berne']","['Balkon', 'EBK']","Miete zzgl. NK 1.147,53 €",Wohnfläche ca. 79 m²,Zi. 3,25,2
-2,selObject_44852370,2-Zimmerwohnung mit Balkon und Einbauküche sucht neuen...,"['Etagenwohnung', '•', 'Hamburg', 'Rahlstedt']","['Balkon', 'EBK']",Miete zzgl. NK 650 €,Wohnfläche ca. 58 m²,Zi. 2,25,2
-3,selObject_44852037,Machen Sie diese Traumwohnung zu Ihrem neuen Zuhause;...,"['Erdgeschosswohnung', '•', 'Hamburg', 'Tonndorf']","['Balkon', 'EBK']","Miete zzgl. NK 1.329,02 €",Wohnfläche ca. 95 m²,"Zi. 3,5",25,2
-4,selObject_44852018,"Neu renovierte Wohnung mit Einbauküche, Balkon und...","['Wohnung', '•', 'Hamburg', 'Lurup']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.450 €,Wohnfläche ca. 80 m²,"Zi. 3,5",25,2
-5,selObject_44850900,Wohnung in Hamburg,"['Etagenwohnung', '•', 'Hamburg', 'Billstedt']",['Garten'],"Miete zzgl. NK 1.458,34 €",Wohnfläche ca. 115 m²,Zi. 4,25,2
-6,selObject_44850081,Schicker Altbau mit hohen Decken - zentraler Wohnen...,"['Wohnung', '•', 'Hamburg', 'Harburg']",['EBK'],Miete zzgl. NK 1.095 €,Wohnfläche ca. 118 m²,Zi. 4,25,2
-7,selObject_44848559,"Komplett renovierte 2,5-Zi.-Whg in Heimfeld","['Kein', 'Bild']",['EBK'],"Miete zzgl. NK 578,70 €",Wohnfläche ca. 56 m²,"Zi. 2,5",25,2
-8,selObject_44847588,Helles möbliertes 20qm Apartment oberste Etage Hamburg...,"['Wohnung', '•', 'Hamburg', 'Harburg']",[],Miete inkl. NK 780 €,Wohnfläche ca. 20 m²,,25,2
-9,selObject_44847550,Helles möbliertes Apartment 20qm Hamburg/Harburg,"['Wohnung', '•', 'Hamburg', 'Harburg']",[],Miete inkl. NK 690 €,Wohnfläche ca. 20 m²,,25,2
-10,selObject_44847513,Top Lage in Nähe des Stadtparkes und des Alsterlaufes,"['Wohnung', '•', 'Hamburg']",['EBK'],Miete zzgl. NK 779 €,Wohnfläche ca. 65 m²,Zi. 2,25,2
-11,selObject_44847512,Möbliertes Apartment mit Balkon 20qm Hamburg/Harburg,"['Apartment', '•', 'Hamburg', 'Harburg']",['Balkon'],Miete inkl. NK 820 €,Wohnfläche ca. 20 m²,,25,2
-12,selObject_44847466,Moderne 2-Zimmer-Wohnung mit Balkon,"['Wohnung', '•', 'Hamburg', 'Bergedorf']","['Balkon', 'EBK']","Miete zzgl. NK 683,12 €",Wohnfläche ca. 60 m²,Zi. 2,25,2
-13,selObject_44847451,Modernes Stadthaus mit Garten,"['Wohnung', '•', 'Hamburg', 'Alsterdorf']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 3.000 €,Wohnfläche ca. 159 m²,Zi. 5,25,2
-14,selObject_44847363,3 Zimmer Maisonette Wohnung im Herzen von Schnelsen,"['Dachgeschosswohnung', '•', 'Hamburg', 'Schnelsen']","['Balkon', 'EBK']",Miete zzgl. NK 990 €,Wohnfläche ca. 77 m²,Zi. 3,25,2
-15,selObject_44846503,Seniorenwohnanlage: Modernisierte 1-Raumwohnung für...,"['Etagenwohnung', '•', 'Hamburg', 'Jenfeld']","['Balkon', 'EBK']","Miete zzgl. NK 310,02 €",Wohnfläche ca. 40 m²,Zi. 1,25,2
-16,selObject_44846381,Charmante 2-Zimmer-Wohnung in Barmbek-Nord,"['Etagenwohnung', '•', 'Hamburg', 'Barmbek-Nord']",['EBK'],Miete zzgl. NK 799 €,Wohnfläche ca. 58 m²,Zi. 2,25,2
-17,selObject_44846380,Familientraum im Erdgeschoss,"['Erdgeschosswohnung', '•', 'Hamburg', 'Langenhorn']",['EBK'],Miete zzgl. NK 1.186 €,Wohnfläche ca. 89 m²,Zi. 3,25,2
-18,selObject_44846256,"Umfassend modernisiert, Einbauküche, Etagenwohnung","['Etagenwohnung', '•', 'Hamburg', 'Barmbek-Nord']",['EBK'],"Miete zzgl. NK 719,53 €",Wohnfläche ca. 43 m²,Zi. 2,25,2
-19,selObject_44845747,"Familienglück: Moderne 4-Zi.-Whg. mit Balkon, EBK,...","['Apartment', '•', 'Hamburg', 'Tonndorf']","['Balkon', 'EBK']","Miete zzgl. NK 1.388,67 €",Wohnfläche ca. 91 m²,Zi. 4,25,2
-20,selObject_44845548,NEUBAU IN NÄHE DES HAFENS - DREI RÄUME ZUM GLÜCK,"['Wohnung', '•', 'Hamburg', 'Gut', 'Moor']",['EBK'],Miete zzgl. NK 1.222 €,Wohnfläche ca. 81 m²,Zi. 3,25,2
-21,selObject_44845382,Direkt vom Eigentümer: renov. 1 Zi.-Whg. EKZ M,"['Etagenwohnung', '•', 'Hamburg', 'Horn']",['EBK'],"Miete zzgl. NK 465,36 €",Wohnfläche ca. 33 m²,Zi. 1,25,2
-22,selObject_44845367,"Familienparadies: Gemütliche und helle 3,5-Zimmer-Wohn...","['Apartment', '•', 'Hamburg', 'Tonndorf']","['Balkon', 'EBK']","Miete zzgl. NK 1.163,92 €",Wohnfläche ca. 80 m²,Zi. 3,25,2
-23,selObject_44845320,Traumhafte Wohnung am Alsterlauf,"['Maisonette', '•', 'Hamburg', 'Winterhude']","['Balkon', 'EBK']",Miete zzgl. NK 6.150 €,Wohnfläche ca. 329 m²,Zi. 6,25,2
-24,selObject_44843692,Geräumige 1-Zimmerwohnung mit großer Küche,"['Etagenwohnung', '•', 'Hamburg', 'Hamm']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 500 €,Wohnfläche ca. 33 m²,Zi. 1,25,2
-25,selObject_44842624,Großzügige 2 Zimmer Wohnung mit Balkon und Einbauküche...,"['Dachgeschosswohnung', '•', 'Hamburg', 'Wilstorf']","['Balkon', 'EBK']",Miete zzgl. NK 654 €,Wohnfläche ca. 55 m²,Zi. 2,25,2
-26,selObject_44842495,"Bitte Text zu Covid-19 beachten! HH-Farmsen, 1,5...","['Erdgeschosswohnung', '•', 'Hamburg', 'Farmsen-Berne']",['EBK'],Miete zzgl. NK 372 €,Wohnfläche ca. 38 m²,"Zi. 1,5",25,2
+0,selObject_44878397,"Möblierte Wohnung in Uhlenhorst, Kanalstraße","[['Wohnung', '•', 'Hamburg', 'Hamburg-Altstadt']]","['Balkon', 'EBK']",Miete inkl. NK 1.295 €,Wohnfläche ca. 63 m²,Zi. 2,25,2
+1,selObject_44878353,Wohnen mit Service: 2-Raum-Wohnung mit Balkon ab sofor...,"[['Apartment', '•', 'Hamburg', 'Schnelsen']]",['Balkon'],"Miete zzgl. NK 947,59 €",Wohnfläche ca. 59 m²,Zi. 2,25,2
+2,selObject_44878309,Moderne Wohnung mit Balkon - Nahe der Hoheluftchaussee,"[['Etagenwohnung', '•', 'Hamburg', 'Lokstedt']]","['Balkon', 'EBK']",Miete zzgl. NK 1.180 €,Wohnfläche ca. 83 m²,Zi. 3,25,2
+3,selObject_44877315,Schöne Quadratmeter,"[['Etagenwohnung', '•', 'Hamburg', 'Stellingen']]",['EBK'],"Miete zzgl. NK 1.060,18 €",Wohnfläche ca. 64 m²,Zi. 3,25,2
+4,selObject_44877143,Schöne helle Wohnung in ruhiger Siedlung von Niendorf!,"[['Etagenwohnung', '•', 'Hamburg', 'Niendorf']]",['Balkon'],Miete zzgl. NK 870 €,Wohnfläche ca. 61 m²,Zi. 2,25,2
+5,selObject_44877142,Schöne 2-Zimmerwohnung (Neubaucharakter) mit großem...,"[['Etagenwohnung', '•', 'Hamburg', 'Eißendorf']]",['EBK'],Miete zzgl. NK 915 €,Wohnfläche ca. 64 m²,Zi. 2,25,2
+6,selObject_44876651,Neubau 2-Zimmerwohnung mit sonnigem Balkon und Tiefgar...,"[['Etagenwohnung', '•', 'Hamburg', 'Bergedorf']]","['Balkon', 'EBK']",Miete zzgl. NK 801 €,Wohnfläche ca. 60 m²,Zi. 2,25,2
+7,selObject_44876404,++ voll möblierte Neubauwohnung mit Dachterrasse++,"[['Apartment', '•', 'Hamburg', 'Barmbek-Süd']]",[],"Miete zzgl. NK 778,27 €",Wohnfläche ca. 24 m²,Zi. 1,25,2
+8,selObject_44876247,++ voll möblierte Neubauwohnung mit Dachterrasse ++ WG...,"[['Apartment', '•', 'Hamburg', 'Barmbek-Süd']]",[],"Miete zzgl. NK 1.478,50 €",Wohnfläche ca. 43 m²,Zi. 2,25,2
+9,selObject_44875544,"Singles aufgepasst: Neubauwohnung ruhig, zentral und...","[['Etagenwohnung', '•', 'Hamburg', 'Lokstedt']]","['Balkon', 'EBK']",Miete zzgl. NK 889 €,Wohnfläche ca. 61 m²,Zi. 2,25,2
+10,selObject_44875082,Perfekt für Single oder Paar !!! 2-Zimmer-Wohnung Berg...,"[['Etagenwohnung', '•', 'Hamburg', 'Lohbrügge']]","['Balkon', 'EBK']",Miete zzgl. NK 565 €,Wohnfläche ca. 54 m²,Zi. 2,25,2
+11,selObject_44872667,Schöne 3 Zimmer Wohnung mit Balkon!,"[['Wohnung', '•', 'Hamburg', 'Farmsen-Berne']]",['EBK'],"Miete zzgl. NK 813,70 €",Wohnfläche ca. 81 m²,Zi. 3,25,2
+12,selObject_44872666,"Barmbek-Süd: gemütliche 1,5-Zimmer Wohnung mit Panoram...","[['Wohnung', '•', 'Hamburg', 'Barmbek-Süd']]","['Balkon', 'EBK']",Miete zzgl. NK 451 €,Wohnfläche ca. 52 m²,"Zi. 1,5",25,2
+13,selObject_44869986,"Hochwertig ausgestattete, ruhige Oase mit großem Balko...","[['Wohnung', '•', 'Hamburg', 'Niendorf']]",[],Miete zzgl. NK 1.432 €,Wohnfläche ca. 68 m²,Zi. 2,25,2
+14,selObject_44869977,"Helle, möblierte Wohnung im schönen Hamburg-Eimsbüttel","[['Wohnung', '•', 'Hamburg', 'Eimsbüttel']]",[],Miete zzgl. NK 960 €,Wohnfläche ca. 42 m²,Zi. 2,25,2
+15,selObject_44869891,Erstbezug: Barrierefreie 3-Zimmer-Erdgeschosswohnung...,"[['Erdgeschosswohnung', '•', 'Hamburg', 'Fuhlsbüttel']]","['Balkon', 'EBK']",Miete zzgl. NK 1.180 €,Wohnfläche ca. 90 m²,Zi. 3,25,2
+16,selObject_44867457,"Erstbezug, totalsanierte 2,5 Zimmer Wohnung am Park...","[['Wohnung', '•', 'Hamburg', 'Billstedt']]",['EBK'],Miete zzgl. NK 819 €,Wohnfläche ca. 63 m²,"Zi. 2,5",25,2
+17,selObject_44867259,Sehr schöne helle 2-Zimmer-Wohnung in HH-Ottensen in...,"[['Etagenwohnung', '•', 'Hamburg', 'Othmarschen']]",['Garten'],Miete zzgl. NK 560 €,Wohnfläche ca. 42 m²,Zi. 1,25,2
+18,selObject_44867210,5-Zimmer-Maisonettewohnung mit zwei Terrassen und Gart...,"[['Souterrainwohnung', '•', 'Hamburg', 'Farmsen-Berne']]","['Garten', 'EBK']","Miete zzgl. NK 1.741,47 €",Wohnfläche ca. 115 m²,Zi. 5,25,2
+19,selObject_44867158,"1 Zi. -Wohnung in HH-Stellingen, NUR FÜR STUDENTEN","[['Etagenwohnung', '•', 'Hamburg', 'Stellingen']]","['Garten', 'EBK']",Miete zzgl. NK 480 €,Wohnfläche ca. 21 m²,Zi. 1,25,2
+20,selObject_44867114,Schöne 2 Zi.-Erdgeschosswohnung.in HH Horn,"[['Erdgeschosswohnung', '•', 'Hamburg', 'Horn']]","['Balkon', 'EBK']","Miete zzgl. NK 568,70 €",Wohnfläche ca. 52 m²,Zi. 2,25,2
+21,selObject_44867091,+++ RAHLSTEDT - EINZIEHEN ZUM 1.OKTOBER 2021 IN DIESE...,"[['Erdgeschosswohnung', '•', 'Hamburg', 'Rahlstedt']]","['Garten', 'EBK']",Miete zzgl. NK 1.200 €,Wohnfläche ca. 87 m²,Zi. 3,25,2
+22,selObject_44866540,3-Zimmer Altbauwohnung in Hamburg-Bahrenfeld,"[['Etagenwohnung', '•', 'Hamburg', 'Bahrenfeld']]",['EBK'],Miete zzgl. NK 975 €,Wohnfläche ca. 65 m²,Zi. 3,25,2
+23,selObject_44866248,Moderne 3 Zimmer Wohnung in ruhiger Lage!,"[['Etagenwohnung', '•', 'Hamburg', 'Lurup']]","['Balkon', 'EBK']",Miete zzgl. NK 985 €,Wohnfläche ca. 73 m²,Zi. 3,25,2
+24,selObject_44866107,Helle Wohnung im 6.OG mit Balkon und schöner Aussicht...,"[['Wohnung', '•', 'Hamburg', 'Lokstedt']]",[],Miete zzgl. NK 960 €,Wohnfläche ca. 52 m²,Zi. 1,25,2
+25,selObject_44866102,Schickes Apartment mit Südbalkon in Nähe zum NDR in...,"[['Wohnung', '•', 'Hamburg', 'Lokstedt']]",[],Miete zzgl. NK 716 €,Wohnfläche ca. 30 m²,Zi. 1,25,2
+26,selObject_44865168,"Bitte Text zu Covid-19 beachten! HH-Farmsen, 2,5...","[['Erdgeschosswohnung', '•', 'Hamburg', 'Farmsen-Berne']]","['Balkon', 'EBK']",Miete zzgl. NK 525 €,Wohnfläche ca. 72 m²,"Zi. 2,5",25,2

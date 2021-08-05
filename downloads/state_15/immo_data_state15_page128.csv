@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_42167882,// 3-Raumwohnung am Elbauenpark - Balkon - Aufzug -...,"['Etagenwohnung', '•', 'Magdeburg', 'Herrenkrug']",['Balkon'],Miete zzgl. NK 377 €,Wohnfläche ca. 58 m²,Zi. 3,128,15
-1,selObject_42167630,// 2-Raumwohnung am Elbauenpark - Balkon - Aufzug -...,"['Etagenwohnung', '•', 'Magdeburg', 'Herrenkrug']",['Balkon'],"Miete zzgl. NK 318,50 €",Wohnfläche ca. 49 m²,Zi. 2,128,15
-2,selObject_42160072,"Schöne, renovierte 3 Raum-Wohnung , 69,9 m², Bad mit...","['Wohnung', '•', 'Magdeburg', 'Fermersleben']","['Garten', 'EBK']",Miete zzgl. NK 340 €,Wohnfläche ca. 70 m²,Zi. 3,128,15
-3,selObject_42160033,"Schöne, günstige u. renovierte 2 Raum-Dachgeschoßwohnu...","['Dachgeschosswohnung', '•', 'Magdeburg', 'Fermersleben']",[],Miete zzgl. NK 260 €,Wohnfläche ca. 52 m²,Zi. 2,128,15
-4,selObject_42158458,Wieder 2 Wohnungen top-saniert mit WBS....,"['Etagenwohnung', '•', 'Magdeburg', 'Salbke']",[],"Miete zzgl. NK 296,24 €",Wohnfläche ca. 56 m²,Zi. 3,128,15
-5,selObject_42155338,geräumige 1-Raum-Wohnung mit Balkon & Einbauküche,"['Dachgeschosswohnung', '•', 'Dessau-Roßlau', 'Innenstadt']","['Balkon', 'EBK']",Miete zzgl. NK 280 €,Wohnfläche ca. 39 m²,Zi. 1,128,15
-6,selObject_42117752,4-Raumwohnung in Sangerhausen,"['Apartment', '•', 'Sangerhausen', 'Sangerhausen']",['Balkon'],Miete zzgl. NK 410 €,Wohnfläche ca. 73 m²,Zi. 4,128,15
-7,selObject_42116915,"Uni-Nähe / WG geeignete, großzügige 2 Zi. Wohnung mit...","['Wohnung', '•', 'Halle', 'Altstadt']",['EBK'],Miete zzgl. NK 470 €,Wohnfläche ca. 62 m²,Zi. 2,128,15
-8,selObject_42107365,Zeitz-Zentrum: 2 Raum Wohnung in Jugendstil-MFH,"['Wohnung', '•', 'Zeitz', 'Zeitz']",[],Miete zzgl. NK 284 €,Wohnfläche ca. 56 m²,Zi. 2,128,15
-9,selObject_42086931,Wir renovieren für Sie,"['Wohnung', '•', 'Halle', 'Silberhöhe']",['Balkon'],"Miete zzgl. NK 313,18 €",Wohnfläche ca. 58 m²,Zi. 3,128,15
-10,selObject_42080941,Hübsche 2-Raum-Wohnung in Eisleben,"['Wohnung', '•', 'Lutherstadt', 'Eisleben', 'Lutherstadt', 'Eisleben']",[],Miete zzgl. NK 240 €,Wohnfläche ca. 40 m²,Zi. 2,128,15
-11,selObject_42080145,Bezugsfertig mit Balkon,"['Wohnung', '•', 'Dessau-Roßlau', 'Innenstadt']",['Balkon'],Miete zzgl. NK 220 €,Wohnfläche ca. 56 m²,Zi. 3,128,15
-12,selObject_42080144,Altengerechtes Wohnen,"['Wohnung', '•', 'Dessau-Roßlau', 'Innenstadt']",[],Miete zzgl. NK 380 €,Wohnfläche ca. 69 m²,Zi. 2,128,15
-13,selObject_42013700,Tolle Sanierte 3-Raumwohnung,"['Wohnung', '•', 'Genthin', 'Genthin']",['Balkon'],Miete zzgl. NK 305 €,Wohnfläche ca. 61 m²,Zi. 3,128,15
-14,selObject_41992670,Waltherstraße 10 - gut geschnittene Zweiraumwohnung,"['Wohnung', '•', 'Weißenfels', 'Weißenfels']",['Garten'],Miete zzgl. NK 260 €,Wohnfläche ca. 52 m²,Zi. 2,128,15
-15,selObject_41977157,Sanierte 3-Zimmerwohnung mit Balkon,"['Etagenwohnung', '•', 'Halle', 'Heide', 'Nord']",['Balkon'],Miete zzgl. NK 414 €,Wohnfläche ca. 59 m²,Zi. 3,128,15
-16,selObject_41963382,Wunderschöne zentrumsnahe 2-Raum-Wohnung,"['Erdgeschosswohnung', '•', 'Zeitz', 'Zeitz']","['Balkon', 'EBK']",Miete zzgl. NK 285 €,Wohnfläche ca. 57 m²,Zi. 2,128,15
-17,selObject_41932602,Schick renoviert und günstig!,"['Etagenwohnung', '•', 'Lutherstadt', 'Eisleben', 'Lutherstadt', 'Eisleben']",['Balkon'],Miete zzgl. NK 281 €,Wohnfläche ca. 69 m²,Zi. 3,128,15
-18,selObject_41919645,Behindertengerechte Wohnung,"['Etagenwohnung', '•', 'Thale', 'Thale']",['Balkon'],Miete zzgl. NK 485 €,Wohnfläche ca. 75 m²,Zi. 2,128,15
-19,selObject_41903875,"Das Gefühl, behütet zu sein, nette Nachbarn zu haben,...","['Erdgeschosswohnung', '•', 'Halberstadt', 'Halberstadt']",[],"Miete zzgl. NK 355,78 €",Wohnfläche ca. 47 m²,Zi. 2,128,15
-20,selObject_41893961,Singlewohnung!,"['Etagenwohnung', '•', 'Halle', 'Westliche', 'Neustadt']",[],Miete zzgl. NK 200 €,Wohnfläche ca. 34 m²,Zi. 1,128,15
-21,selObject_41893901,Frisch saniert!,"['Etagenwohnung', '•', 'Halle', 'Südstadt']",['Balkon'],Miete zzgl. NK 323 €,Wohnfläche ca. 61 m²,Zi. 3,128,15
-22,selObject_41892884,Aussicht gibt´s gratis!,"['Etagenwohnung', '•', 'Halle', 'Südstadt']",['Balkon'],Miete zzgl. NK 323 €,Wohnfläche ca. 61 m²,Zi. 3,128,15
-23,selObject_41891227,Sudenburger Str. 10 - kleine Wohnung sucht neue Mieter,"['Kein', 'Bild']",[],Miete zzgl. NK 250 €,Wohnfläche ca. 50 m²,Zi. 2,128,15
-24,selObject_41838710,4-Raumwohnung im Dachgeschoss,"['Dachgeschosswohnung', '•', 'Bernburg', 'Bernburg']",[],Miete zzgl. NK 400 €,Wohnfläche ca. 80 m²,Zi. 4,128,15
-25,selObject_41827850,Mieterticket inklusive! Große 2-Raum-Wohnung,"['Wohnung', '•', 'Lutherstadt', 'Eisleben', 'Lutherstadt', 'Eisleben']",['Balkon'],Miete zzgl. NK 390 €,Wohnfläche ca. 70 m²,Zi. 2,128,15
-26,selObject_41827848,Mieterticket inklusive! Für die kleine Familie.,"['Wohnung', '•', 'Lutherstadt', 'Eisleben', 'Lutherstadt', 'Eisleben']",[],Miete zzgl. NK 310 €,Wohnfläche ca. 57 m²,Zi. 3,128,15
+0,selObject_41783876,+++Wunderschöne Dachgeschosswohnung+++,"[['Dachgeschosswohnung', '•', 'Zeitz', 'Zeitz']]",[],Miete zzgl. NK 240 €,Wohnfläche ca. 60 m²,Zi. 2,128,15
+1,selObject_41767234,"Gemütliche 3-Zimmer-Wohnung, perfekt für Kleinfamilien...","[['Etagenwohnung', '•', 'Lutherstadt', 'Eisleben', 'Lutherstadt', 'Eisleben']]",['Balkon'],"Miete zzgl. NK 281,07 €",Wohnfläche ca. 69 m²,Zi. 2,128,15
+2,selObject_41766266,Sichern Sie sich jetzt einen 1.500 EUR Gutschein* für...,"[['Etagenwohnung', '•', 'Lutherstadt', 'Eisleben', 'Lutherstadt', 'Eisleben']]",['Balkon'],"Miete zzgl. NK 280,95 €",Wohnfläche ca. 69 m²,Zi. 3,128,15
+3,selObject_41736830,3-Raum-Wohnung in Riebau,"[['Erdgeschosswohnung', '•', 'Salzwedel', 'Riebau']]",['Garten'],Miete zzgl. NK 256 €,Wohnfläche ca. 57 m²,Zi. 3,128,15
+4,selObject_41736358,geräumige 1 Raumwohnung in der Forsthausstraße,"[['Erdgeschosswohnung', '•', 'Magdeburg', 'Rothensee']]",[],Miete zzgl. NK 256 €,Wohnfläche ca. 42 m²,Zi. 1,128,15
+5,selObject_41735560,Kochstedter 2-Raumwohnung sucht neuen Mieter,"[['Dachgeschosswohnung', '•', 'Dessau-Roßlau', 'Kochstedt']]",[],Miete zzgl. NK 300 €,Wohnfläche ca. 60 m²,Zi. 2,128,15
+6,selObject_41733942,2 Raumwohnung mit Tageslichtbad mit Wanne und Dusche,"[['Wohnung', '•', 'Mücheln']]",[],Miete zzgl. NK 193 €,Wohnfläche ca. 39 m²,Zi. 2,128,15
+7,selObject_41733940,Schicke moderne 3 Raumwohnung im Dachgeschoss mit ...,"[['Dachgeschosswohnung', '•', 'Mücheln']]",[],Miete zzgl. NK 300 €,Wohnfläche ca. 61 m²,Zi. 3,128,15
+8,selObject_41733920,Junges Wohnen,"[['Wohnung', '•', 'Dessau-Roßlau', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 340 €,Wohnfläche ca. 54 m²,Zi. 2,128,15
+9,selObject_41733919,Vollsaniert und bezugsfertig ab November 2021,"[['Wohnung', '•', 'Dessau-Roßlau', 'Zoberberg']]",['Balkon'],Miete zzgl. NK 320 €,Wohnfläche ca. 69 m²,Zi. 3,128,15
+10,selObject_41719439,Studenten aufgepasst! ERSTBEZUG nach Sanierung! 1-Raum...,"[['Etagenwohnung', '•', 'Halle', 'Freiimfelde']]",[],Miete zzgl. NK 280 €,Wohnfläche ca. 28 m²,Zi. 1,128,15
+11,selObject_41719438,Studenten aufgepasst! ERSTBEZUG nach Sanierung! 1-Raum...,"[['Etagenwohnung', '•', 'Halle', 'Freiimfelde']]",[],Miete zzgl. NK 280 €,Wohnfläche ca. 28 m²,Zi. 1,128,15
+12,selObject_41709945,"2 Raumwohnung ruhig, grün, mit Balkon und EBK","[['Etagenwohnung', '•', 'Magdeburg', 'Westerhüsen']]","['Balkon', 'EBK']",Miete zzgl. NK 300 €,Wohnfläche ca. 46 m²,Zi. 2,128,15
+13,selObject_41703702,Gemütliche 3-Zimmer-Wohnung mit Küchengutschein* in...,"[['Etagenwohnung', '•', 'Südharz', 'Hayn']]",[],"Miete zzgl. NK 293,25 €",Wohnfläche ca. 64 m²,Zi. 3,128,15
+14,selObject_41678727,Ideal für Singles oder Studierende!,"[['Etagenwohnung', '•', 'Magdeburg', 'Altstadt']]",[],"Miete zzgl. NK 335,50 €",Wohnfläche ca. 61 m²,Zi. 2,128,15
+15,selObject_41676946,Sehr schöne sonnige 3-R-Whg. in MD.Stadtfeld Ost im...,"[['Etagenwohnung', '•', 'Magdeburg', 'Altstadt']]",['Balkon'],Miete zzgl. NK 543 €,Wohnfläche ca. 97 m²,Zi. 3,128,15
+16,selObject_41661869,"Geld gespart, wer´s selber macht!","[['Kein', 'Bild'], ['Wohnung', '•', 'Dessau-Roßlau', 'Zoberberg']]",['Balkon'],Miete zzgl. NK 310 €,Wohnfläche ca. 69 m²,Zi. 3,128,15
+17,selObject_41640112,Gatersleben - Wohnen in kleiner Gemeinschaft,"[['Wohnung', '•', 'Gatersleben']]",[],"Miete zzgl. NK 257,95 €",Wohnfläche ca. 47 m²,Zi. 2,128,15
+18,selObject_41625003,helle 3 Raum Wohnung mit Loggia,"[['Wohnung', '•', 'Zeitz', 'Zeitz']]",['Garten'],Miete zzgl. NK 340 €,Wohnfläche ca. 74 m²,Zi. 3,128,15
+19,selObject_41619372,Ihren Karrierestart in beliebter Wohngegend beginnen!,"[['Etagenwohnung', '•', 'Köthen']]",['EBK'],Miete zzgl. NK 255 €,Wohnfläche ca. 47 m²,Zi. 1,128,15
+20,selObject_41618921,** renovierte 3. Raum Wohnung mit Balkon **,"[['Etagenwohnung', '•', 'Dessau-Roßlau', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 289 €,Wohnfläche ca. 57 m²,Zi. 3,128,15
+21,selObject_41618837,"**sanierte, familienfreundliche 4-Raum-Wohnung mit...","[['Apartment', '•', 'Dessau-Roßlau', 'Innenstadt']]",['Garten'],Miete zzgl. NK 360 €,Wohnfläche ca. 65 m²,Zi. 4,128,15
+22,selObject_41589880,Top Lage!!! Wohnung am See in Großkayna zu vermieten!!...,"[['Wohnung', '•', 'Braunsbedra']]",[],Miete zzgl. NK 400 €,Wohnfläche ca. 69 m²,Zi. 2,128,15
+23,selObject_41577298,gemütliche 1-Raum-Wohnung in der Lutherstadt Eisleben,"[['Etagenwohnung', '•', 'Lutherstadt', 'Eisleben', 'Lutherstadt', 'Eisleben']]",[],Miete zzgl. NK 200 €,Wohnfläche ca. 32 m²,Zi. 1,128,15
+24,selObject_41504071,Schicke Wohnung inklusive moderner Einbauküche,"[['Etagenwohnung', '•', 'Lutherstadt', 'Eisleben', 'Lutherstadt', 'Eisleben']]","['Balkon', 'EBK']",Miete zzgl. NK 331 €,Wohnfläche ca. 69 m²,Zi. 3,128,15
+25,selObject_41490988,Weinbergstraße 20 - großzügige Dachwohnung mit Wohnküc...,"[['Wohnung', '•', 'Weißenfels', 'Weißenfels']]",['Garten'],Miete zzgl. NK 600 €,Wohnfläche ca. 140 m²,Zi. 4,128,15
+26,selObject_41453951,--- Dachgeschosswohnung im Stadtzentrum ---,"[['Dachgeschosswohnung', '•', 'Weißenfels', 'Weißenfels']]",[],Miete zzgl. NK 270 €,Wohnfläche ca. 60 m²,Zi. 2,128,15

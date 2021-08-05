@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44354766,Sünteleins - Modernes Wohnen in Schnelsen,"['Apartment', '•', 'Hamburg', 'Eidelstedt']","['Balkon', 'EBK']",Miete zzgl. NK 1.230 €,,Zi. 3,38,2
-1,selObject_44354634,Wohnen auf Zeit in einem modernen möblierten 1-Zimmer...,"['Etagenwohnung', '•', 'Hamburg', 'Wandsbek']",[],Miete zzgl. NK 520 €,Wohnfläche ca. 30 m²,Zi. 1,38,2
-2,selObject_44354631,Möbliertes 1-Zimmer-Apartment in zentraler Lage,"['Etagenwohnung', '•', 'Hamburg', 'Wandsbek']",[],Miete zzgl. NK 680 €,Wohnfläche ca. 30 m²,Zi. 1,38,2
-3,selObject_44354622,Moderne 3 Zimmerwohnung im Herzen von Schnelsen,"['Apartment', '•', 'Hamburg', 'Schnelsen']","['Balkon', 'EBK']",Miete zzgl. NK 1.163 €,Wohnfläche ca. 87 m²,Zi. 3,38,2
-4,selObject_44354335,Sünteleins - Mein neues Zuhause in Schnelsen!,"['Apartment', '•', 'Hamburg', 'Eidelstedt']","['Balkon', 'EBK']",Miete zzgl. NK 1.300 €,Wohnfläche ca. 91 m²,Zi. 3,38,2
-5,selObject_44345367,***Traumwohnung mit Elbblick***,"['Etagenwohnung', '•', 'Hamburg', 'HafenCity']",['EBK'],Miete zzgl. NK 2.145 €,Wohnfläche ca. 98 m²,Zi. 2,38,2
-6,selObject_44345369,Exklusive 2-Zimmerwohnung mit Blick auf die Elbe!,"['Etagenwohnung', '•', 'Hamburg', 'HafenCity']","['Balkon', 'EBK']",Miete zzgl. NK 2.145 €,Wohnfläche ca. 98 m²,"Zi. 1,5",38,2
-7,selObject_44329199,Luxus-Terrassen-Appartement am Alsterpark - Erstbezug!,"['Penthouse', '•', 'Hamburg', 'Harvestehude']",['EBK'],Miete zzgl. NK 2.790 €,Wohnfläche ca. 105 m²,Zi. 2,38,2
-8,selObject_44328821,Tolle Penthousewohnung in Rissen,"['Dachgeschosswohnung', '•', 'Hamburg', 'Rissen']",['EBK'],Miete zzgl. NK 2.128 €,Wohnfläche ca. 111 m²,"Zi. 3,5",38,2
-9,selObject_44328820,Wohnen im Zentrum von Rissen,"['Wohnung', '•', 'Hamburg', 'Rissen']",['EBK'],Miete zzgl. NK 1.040 €,Wohnfläche ca. 61 m²,Zi. 2,38,2
-10,selObject_44322947,Sonnige 1-Zimmer-Wohnung mit Loggia im Neubau!,"['Etagenwohnung', '•', 'Hamburg', 'Bramfeld']",['EBK'],"Miete zzgl. NK 800,49 €",Wohnfläche ca. 53 m²,Zi. 1,38,2
-11,selObject_44322781,Sonnige 2-Zimmer-Wohnung mit Loggia im Neubau!,"['Etagenwohnung', '•', 'Hamburg', 'Bramfeld']",['EBK'],"Miete zzgl. NK 921,24 €",Wohnfläche ca. 61 m²,Zi. 2,38,2
-12,selObject_44322779,Hochwertige 3-Zimmer-Neubauwohnung mit Terrasse!,"['Erdgeschosswohnung', '•', 'Hamburg', 'Bramfeld']",['EBK'],"Miete zzgl. NK 1.254,02 €",Wohnfläche ca. 93 m²,Zi. 3,38,2
-13,selObject_44312917,Einzigartige Wohnung mit viel Charme in grüner Lage...,"['Etagenwohnung', '•', 'Hamburg', 'Hummelsbüttel']",[],Miete zzgl. NK 1.820 €,Wohnfläche ca. 130 m²,Zi. 4,38,2
-14,selObject_44302627,Attraktive Neubau Maisonette-Mietwohnung in Groß Flott...,"['Maisonette', '•', 'Hamburg', 'Bahrenfeld']","['Balkon', 'Garten']",Miete zzgl. NK 1.905 €,Wohnfläche ca. 127 m²,Zi. 3,38,2
-15,selObject_44302392,"Ihre neue Traumwohnung wartet auf Sie - 4,5 Zimmer auf...","['Etagenwohnung', '•', 'Hamburg', 'Fuhlsbüttel']",['Balkon'],Miete zzgl. NK 1.585 €,Wohnfläche ca. 121 m²,"Zi. 4,5",38,2
-16,selObject_44300465,ERSTBEZUG - Exklusive 2 Zi.- Wohnung inkl. Terrasse,"['Erdgeschosswohnung', '•', 'Hamburg', 'Sasel']",['EBK'],Miete zzgl. NK 1.099 €,Wohnfläche ca. 66 m²,Zi. 2,38,2
-17,selObject_44294811,Gemütliche möblierte Wohnung in toller Lage mitten im...,"['Wohnung', '•', 'Hamburg', 'Sternschanze']",[],Miete zzgl. NK 1.192 €,Wohnfläche ca. 56 m²,Zi. 2,38,2
-18,selObject_44294808,Möbliertes Single Apartment zentral in Hamburg-Hohenfe...,"['Wohnung', '•', 'Hamburg', 'Hohenfelde']",[],Miete zzgl. NK 716 €,Wohnfläche ca. 26 m²,Zi. 1,38,2
-19,selObject_44294354,Traumhafte 3 Zimmer Maisonettewohnung mit 2 Balkone...,"['Maisonette', '•', 'Hamburg', 'Poppenbüttel']","['Balkon', 'EBK']",Miete zzgl. NK 1.500 €,Wohnfläche ca. 104 m²,Zi. 3,38,2
-20,selObject_44292623,2 Zimmer Wohnung in Hamburg Langenhorn zu vermieten,"['Wohnung', '•', 'Hamburg', 'Hummelsbüttel']",['EBK'],Miete zzgl. NK 550 €,Wohnfläche ca. 50 m²,Zi. 2,38,2
-21,selObject_44292089,Möblierte Einliegerwohnung für eine Person mit Gemeins...,"['Wohnung', '•', 'Hamburg', 'Lurup']",[],Miete zzgl. NK 792 €,Wohnfläche ca. 40 m²,Zi. 2,38,2
-22,selObject_44291679,Tolle Loftfläche in Altona für kreative Köpfe,"['Loft-Studio-Atelier', '•', 'Hamburg', 'Altona-Altstadt']",['EBK'],Miete zzgl. NK 1.584 €,,Zi. 5,38,2
-23,selObject_44271272,! 1 A ! Lage mit Blick auf die Elbe ....,"['Wohnung', '•', 'Hamburg', 'Othmarschen']",['EBK'],Miete zzgl. NK 2.850 €,Wohnfläche ca. 150 m²,Zi. 3,38,2
-24,selObject_44247304,Noch eine Wohnung frei! *Maritimes barrierefreies 1....,"['Etagenwohnung', '•', 'Hamburg', 'Blankenese']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.800 €,Wohnfläche ca. 100 m²,Zi. 3,38,2
-25,selObject_44247274,Wohnungsberechtigungsschein (WBS) erforderlich! 3 Zimm...,"['Dachgeschosswohnung', '•', 'Hamburg', 'Horn']",[],Miete zzgl. NK 600 €,Wohnfläche ca. 58 m²,Zi. 3,38,2
-26,selObject_44239878,Gemütliche Altbauwohnung in toller Lage mitten in Hamb...,"['Wohnung', '•', 'Hamburg', 'St.', 'Pauli']",[],Miete zzgl. NK 1.200 €,Wohnfläche ca. 45 m²,Zi. 2,38,2
+0,selObject_44354766,Sünteleins - Modernes Wohnen in Schnelsen,"[['Apartment', '•', 'Hamburg', 'Eidelstedt']]","['Balkon', 'EBK']",Miete zzgl. NK 1.230 €,,Zi. 3,38,2
+1,selObject_44354634,Wohnen auf Zeit in einem modernen möblierten 1-Zimmer...,"[['Etagenwohnung', '•', 'Hamburg', 'Wandsbek']]",[],Miete zzgl. NK 520 €,Wohnfläche ca. 30 m²,Zi. 1,38,2
+2,selObject_44354631,Möbliertes 1-Zimmer-Apartment in zentraler Lage,"[['Etagenwohnung', '•', 'Hamburg', 'Wandsbek']]",[],Miete zzgl. NK 680 €,Wohnfläche ca. 30 m²,Zi. 1,38,2
+3,selObject_44354622,Moderne 3 Zimmerwohnung im Herzen von Schnelsen,"[['Apartment', '•', 'Hamburg', 'Schnelsen']]","['Balkon', 'EBK']",Miete zzgl. NK 1.163 €,Wohnfläche ca. 87 m²,Zi. 3,38,2
+4,selObject_44354335,Sünteleins - Mein neues Zuhause in Schnelsen!,"[['Apartment', '•', 'Hamburg', 'Eidelstedt']]","['Balkon', 'EBK']",Miete zzgl. NK 1.300 €,Wohnfläche ca. 91 m²,Zi. 3,38,2
+5,selObject_44345367,***Traumwohnung mit Elbblick***,"[['Etagenwohnung', '•', 'Hamburg', 'HafenCity']]",['EBK'],Miete zzgl. NK 2.145 €,Wohnfläche ca. 98 m²,Zi. 2,38,2
+6,selObject_44345369,Exklusive 2-Zimmerwohnung mit Blick auf die Elbe!,"[['Etagenwohnung', '•', 'Hamburg', 'HafenCity']]","['Balkon', 'EBK']",Miete zzgl. NK 2.145 €,Wohnfläche ca. 98 m²,"Zi. 1,5",38,2
+7,selObject_44329199,Luxus-Terrassen-Appartement am Alsterpark - Erstbezug!,"[['Penthouse', '•', 'Hamburg', 'Harvestehude']]",['EBK'],Miete zzgl. NK 2.790 €,Wohnfläche ca. 105 m²,Zi. 2,38,2
+8,selObject_44328821,Tolle Penthousewohnung in Rissen,"[['Dachgeschosswohnung', '•', 'Hamburg', 'Rissen']]",['EBK'],Miete zzgl. NK 2.128 €,Wohnfläche ca. 111 m²,"Zi. 3,5",38,2
+9,selObject_44328820,Wohnen im Zentrum von Rissen,"[['Wohnung', '•', 'Hamburg', 'Rissen']]",['EBK'],Miete zzgl. NK 1.040 €,Wohnfläche ca. 61 m²,Zi. 2,38,2
+10,selObject_44322947,Sonnige 1-Zimmer-Wohnung mit Loggia im Neubau!,"[['Etagenwohnung', '•', 'Hamburg', 'Bramfeld']]",['EBK'],"Miete zzgl. NK 800,49 €",Wohnfläche ca. 53 m²,Zi. 1,38,2
+11,selObject_44322781,Sonnige 2-Zimmer-Wohnung mit Loggia im Neubau!,"[['Etagenwohnung', '•', 'Hamburg', 'Bramfeld']]",['EBK'],"Miete zzgl. NK 921,24 €",Wohnfläche ca. 61 m²,Zi. 2,38,2
+12,selObject_44322779,Hochwertige 3-Zimmer-Neubauwohnung mit Terrasse!,"[['Erdgeschosswohnung', '•', 'Hamburg', 'Bramfeld']]",['EBK'],"Miete zzgl. NK 1.254,02 €",Wohnfläche ca. 93 m²,Zi. 3,38,2
+13,selObject_44312917,Einzigartige Wohnung mit viel Charme in grüner Lage...,"[['Etagenwohnung', '•', 'Hamburg', 'Hummelsbüttel']]",[],Miete zzgl. NK 1.820 €,Wohnfläche ca. 130 m²,Zi. 4,38,2
+14,selObject_44302627,Attraktive Neubau Maisonette-Mietwohnung in Groß Flott...,"[['Maisonette', '•', 'Hamburg', 'Bahrenfeld']]","['Balkon', 'Garten']",Miete zzgl. NK 1.905 €,Wohnfläche ca. 127 m²,Zi. 3,38,2
+15,selObject_44302392,"Ihre neue Traumwohnung wartet auf Sie - 4,5 Zimmer auf...","[['Etagenwohnung', '•', 'Hamburg', 'Fuhlsbüttel']]",['Balkon'],Miete zzgl. NK 1.585 €,Wohnfläche ca. 121 m²,"Zi. 4,5",38,2
+16,selObject_44300465,ERSTBEZUG - Exklusive 2 Zi.- Wohnung inkl. Terrasse,"[['Erdgeschosswohnung', '•', 'Hamburg', 'Sasel']]",['EBK'],Miete zzgl. NK 1.099 €,Wohnfläche ca. 66 m²,Zi. 2,38,2
+17,selObject_44294811,Gemütliche möblierte Wohnung in toller Lage mitten im...,"[['Wohnung', '•', 'Hamburg', 'Sternschanze']]",[],Miete zzgl. NK 1.192 €,Wohnfläche ca. 56 m²,Zi. 2,38,2
+18,selObject_44294808,Möbliertes Single Apartment zentral in Hamburg-Hohenfe...,"[['Wohnung', '•', 'Hamburg', 'Hohenfelde']]",[],Miete zzgl. NK 716 €,Wohnfläche ca. 26 m²,Zi. 1,38,2
+19,selObject_44294354,Traumhafte 3 Zimmer Maisonettewohnung mit 2 Balkone...,"[['Maisonette', '•', 'Hamburg', 'Poppenbüttel']]","['Balkon', 'EBK']",Miete zzgl. NK 1.500 €,Wohnfläche ca. 104 m²,Zi. 3,38,2
+20,selObject_44292623,2 Zimmer Wohnung in Hamburg Langenhorn zu vermieten,"[['Wohnung', '•', 'Hamburg', 'Hummelsbüttel']]",['EBK'],Miete zzgl. NK 550 €,Wohnfläche ca. 50 m²,Zi. 2,38,2
+21,selObject_44292089,Möblierte Einliegerwohnung für eine Person mit Gemeins...,"[['Wohnung', '•', 'Hamburg', 'Lurup']]",[],Miete zzgl. NK 792 €,Wohnfläche ca. 40 m²,Zi. 2,38,2
+22,selObject_44291679,Tolle Loftfläche in Altona für kreative Köpfe,"[['Loft-Studio-Atelier', '•', 'Hamburg', 'Altona-Altstadt']]",['EBK'],Miete zzgl. NK 1.584 €,,Zi. 5,38,2
+23,selObject_44271272,! 1 A ! Lage mit Blick auf die Elbe ....,"[['Wohnung', '•', 'Hamburg', 'Othmarschen']]",['EBK'],Miete zzgl. NK 2.850 €,Wohnfläche ca. 150 m²,Zi. 3,38,2
+24,selObject_44247304,Noch eine Wohnung frei! *Maritimes barrierefreies 1....,"[['Etagenwohnung', '•', 'Hamburg', 'Blankenese']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.800 €,Wohnfläche ca. 100 m²,Zi. 3,38,2
+25,selObject_44247274,Wohnungsberechtigungsschein (WBS) erforderlich! 3 Zimm...,"[['Dachgeschosswohnung', '•', 'Hamburg', 'Horn']]",[],Miete zzgl. NK 600 €,Wohnfläche ca. 58 m²,Zi. 3,38,2
+26,selObject_44239878,Gemütliche Altbauwohnung in toller Lage mitten in Hamb...,"[['Wohnung', '•', 'Hamburg', 'St.', 'Pauli']]",[],Miete zzgl. NK 1.200 €,Wohnfläche ca. 45 m²,Zi. 2,38,2

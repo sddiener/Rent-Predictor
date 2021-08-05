@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44553085,NEUBAU! Studenten-Apartments (08 Innenhof) in Freiburg...,"['Apartment', '•', 'Freiburg', 'Herdern']",['Balkon'],Miete zzgl. NK 463 €,Wohnfläche ca. 23 m²,Zi. 1,86,8
-1,selObject_44552959,Vollmöbiliertes Appartment in Stuttgart-Bad Cannstatt...,"['Apartment', '•', 'Stuttgart', 'Bad', 'Cannstatt']",[],Miete zzgl. NK 780 €,Wohnfläche ca. 37 m²,Zi. 2,86,8
-2,selObject_44552849,"Platz, der Luxus unserer Zeit","['Etagenwohnung', '•', 'Albstadt', 'Ebingen']",['EBK'],Miete zzgl. NK 960 €,Wohnfläche ca. 131 m²,Zi. 3,86,8
-3,selObject_44552667,Wunderschöne Stadtwohnung - zentral und sofort frei!...,"['Etagenwohnung', '•', 'Bruchsal', 'Bruchsal']",['Balkon'],Miete zzgl. NK 1.250 €,Wohnfläche ca. 144 m²,Zi. 3,86,8
-4,selObject_44550030,Erstbezug nach Komplettsanierung! Verkehrsgünstige...,"['Etagenwohnung', '•', 'Stuttgart', 'Bad', 'Cannstatt']",['Balkon'],Miete zzgl. NK 1.090 €,Wohnfläche ca. 83 m²,"Zi. 2,5",86,8
-5,selObject_44549949,Für Individualisten - rustikale 3 Zi DG Wohnung in der...,"['Dachgeschosswohnung', '•', 'Vaihingen', 'Vaihingen', 'an', 'der', 'Enz']",['EBK'],Miete zzgl. NK 950 €,Wohnfläche ca. 133 m²,Zi. 3,86,8
-6,selObject_44549924,Attraktive City Wohnungen - Erstbezug nach Sanierung -,"['Etagenwohnung', '•', 'Stuttgart', 'Bad', 'Cannstatt']","['Balkon', 'EBK']",Miete zzgl. NK 1.370 €,Wohnfläche ca. 80 m²,"Zi. 3,5",86,8
-7,selObject_44549429,"Burger Immobilien - Vermietung, Leonberg, 4 Neubauwohn...","['Etagenwohnung', '•', 'Leonberg', 'Ramtel']",['EBK'],Miete zzgl. NK 1.750 €,Wohnfläche ca. 104 m²,Zi. 3,86,8
-8,selObject_44549390,"Hochwertige 4,5-Zimmer-Wohnung mit 135 m² Wfl. im 2....","['Wohnung', '•', 'Zell', 'Zell']","['Balkon', 'EBK']",Miete zzgl. NK 990 €,Wohnfläche ca. 135 m²,"Zi. 4,5",86,8
-9,selObject_44549214,NEUBAU! 2-Zimmer Penthouse Wohnung in Freiburg-Wiehre,"['Wohnung', '•', 'Freiburg', 'Herdern']","['Balkon', 'EBK']",Miete zzgl. NK 1.215 €,Wohnfläche ca. 74 m²,Zi. 2,86,8
-10,selObject_44549197,Große 3 Zimmer EG-Wohnung mit Terrasse,"['Erdgeschosswohnung', '•', 'Wendlingen']",['EBK'],Miete zzgl. NK 700 €,Wohnfläche ca. 93 m²,"Zi. 2,5",86,8
-11,selObject_44548696,"Mit Dachterrasse! Sonnenverwöhnte und großzügige 3,5-Z...","['Etagenwohnung', '•', 'Mietingen', 'Mietingen']","['Balkon', 'EBK']",Miete zzgl. NK 1.185 €,Wohnfläche ca. 129 m²,"Zi. 3,5",86,8
-12,selObject_44548615,Gepflegte 2-Zimmer-Wohnung mit Balkon in Lauchringen,"['Wohnung', '•', 'Lauchringen', 'Unterlauchringen']","['Balkon', 'EBK']",Miete zzgl. NK 550 €,Wohnfläche ca. 58 m²,Zi. 2,86,8
-13,selObject_44547541,"ZUM 01.08.ODER SPÄTER, hell und freundlich, 3-Zi-Whg,...","['Etagenwohnung', '•', 'Singen', 'Singen']","['Balkon', 'Garten']",Miete zzgl. NK 790 €,Wohnfläche ca. 83 m²,Zi. 3,86,8
-14,selObject_44545165,+Barrierefrei+ Exclusive 3 ZKB Wohnung mit Balkon in...,"['Wohnung', '•', 'Stuttgart', 'Rot']","['Balkon', 'EBK']",Miete zzgl. NK 1.245 €,Wohnfläche ca. 86 m²,Zi. 3,86,8
-15,selObject_44545091,Hochwertige Mietwohnung mit Blick in die Natur,"['Apartment', '•', 'Heiligenberg', 'Betenbrunn']",['Balkon'],Miete zzgl. NK 900 €,Wohnfläche ca. 95 m²,"Zi. 3,5",86,8
-16,selObject_44544632,*** Ein vollwertiges Zimmer mit ca. 24m² in einer 5er...,"['Etagenwohnung', '•', 'Heilbronn', 'Heilbronn']",[],Miete zzgl. NK 300 €,Wohnfläche ca. 24 m²,Zi. 1,86,8
-17,selObject_44543768,"Voll möbliertes und bestücktes (Geschirr, TV, etc.) 1...","['Etagenwohnung', '•', 'Mannheim', 'Rheinau']",[],Miete zzgl. NK 380 €,Wohnfläche ca. 25 m²,Zi. 1,86,8
-18,selObject_44542532,1 Zimmer Singen Zentrum,"['Wohnung', '•', 'Singen', 'Singen']","['Balkon', 'EBK']",Miete zzgl. NK 480 €,Wohnfläche ca. 33 m²,Zi. 1,86,8
-19,selObject_44542299,Schöne 2 1/2 Zi.-Whg. in Singen Nordstadt,"['Wohnung', '•', 'Singen', 'Singen']","['Balkon', 'EBK']",Miete zzgl. NK 800 €,Wohnfläche ca. 83 m²,Zi. 3,86,8
-20,selObject_44538640,Großzügige Wohnung mit schönem Schnitt und Balkon,"['Etagenwohnung', '•', 'Mannheim', 'Sandhofen']","['Balkon', 'EBK']",Miete zzgl. NK 560 €,Wohnfläche ca. 80 m²,Zi. 3,86,8
-21,selObject_44534285,Schöne 1-Zimmer Wohnung in zentraler Lage- KEINE JOBCE...,"['Apartment', '•', 'Mannheim', 'Jungbusch']",['Balkon'],Miete zzgl. NK 500 €,Wohnfläche ca. 40 m²,Zi. 1,86,8
-22,selObject_44531369,Exklusive 3 ½ - Zimmer-Wohnung in Albstadt-Tailfingen,"['Wohnung', '•', 'Albstadt', 'Tailfingen']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 940 €,Wohnfläche ca. 126 m²,"Zi. 3,5",86,8
-23,selObject_44529891,WOHNEN FÜR SENIOREN: 2 Zi.-Whg. mit großem Balkon und...,"['Erdgeschosswohnung', '•', 'Aalen', 'Hofen']",['Balkon'],Miete zzgl. NK 500 €,Wohnfläche ca. 53 m²,Zi. 2,86,8
-24,selObject_44527455,Einzigartige Maisonettewohnung mit Galerie,"['Maisonette', '•', 'Tübingen', 'Innenstadt']",['EBK'],Miete zzgl. NK 2.500 €,Wohnfläche ca. 240 m²,Zi. 8,86,8
-25,selObject_44526456,"Mannheim City: Helle, WG - taugliche DG-Wohnung","['Dachgeschosswohnung', '•', 'Mannheim', 'Quadrate']",['Balkon'],Miete zzgl. NK 770 €,Wohnfläche ca. 80 m²,Zi. 3,86,8
-26,selObject_44525889,Erstbezug nach Sanierung - Mietwohnung auf Wunsch möbl...,"['Erdgeschosswohnung', '•', 'Stuttgart', 'Vaihingen']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 595 €,Wohnfläche ca. 37 m²,Zi. 1,86,8
+0,selObject_44647216,Nimm mich,"[['Erdgeschosswohnung', '•', 'Mannheim', 'Jungbusch']]",['Balkon'],"Miete zzgl. NK 576,90 €",Wohnfläche ca. 68 m²,Zi. 4,86,8
+1,selObject_44647198,Seniorengerechte 2-Zimmer Neubauwohnung zu vermieten!,"[['Wohnung', '•', 'Jestetten', 'Jestetten']]",['EBK'],Miete zzgl. NK 680 €,Wohnfläche ca. 68 m²,Zi. 2,86,8
+2,selObject_44645337,F&D | Charmente 4-Zimmer-EG-Wohnung mit Gartennutzung...,"[['Erdgeschosswohnung', '•', 'Tuttlingen', 'Tuttlingen']]",['Garten'],Miete zzgl. NK 790 €,Wohnfläche ca. 106 m²,Zi. 4,86,8
+3,selObject_44642805,Möblierte 3 Zimmer Dachgeschosswohnung in Weil am Rhei...,"[['Wohnung', '•', 'Weil', 'am', 'Rhein', 'Märkt']]",['EBK'],Miete zzgl. NK 865 €,Wohnfläche ca. 67 m²,Zi. 3,86,8
+4,selObject_44642708,"TOP gepflegte, frisch renovierte 2,5 Zimmer Wohnung in...","[['Wohnung', '•', 'Tuttlingen', 'Tuttlingen']]","['Garten', 'EBK']",Miete zzgl. NK 700 €,Wohnfläche ca. 67 m²,"Zi. 2,5",86,8
+5,selObject_44642353,5 Zi. Komfortwohnung in Denkmalobjekt,"[['Dachgeschosswohnung', '•', 'Stuttgart', 'Bad', 'Cannstatt']]",['EBK'],Miete zzgl. NK 1.880 €,Wohnfläche ca. 140 m²,Zi. 5,86,8
+6,selObject_44641457,Mieten auf Zeit - denkmalgeschützte möblierte 1 Zimmer...,"[['Souterrainwohnung', '•', 'Sigmaringen', 'Sigmaringen']]",['EBK'],Miete inkl. NK 640 €,Wohnfläche ca. 32 m²,Zi. 1,86,8
+7,selObject_44641042,1 Zimmer Apartment in Grenzach (angrenzend an Basel...,"[['Apartment', '•', 'Grenzach-Wyhlen', 'Grenzach']]",['EBK'],Miete zzgl. NK 370 €,Wohnfläche ca. 19 m²,Zi. 1,86,8
+8,selObject_44640789,"Schöne, moderne 2 Zimmer Wohnung in Rheinfelden-Herten...","[['Wohnung', '•', 'Rheinfelden', 'Herten']]",['EBK'],Miete zzgl. NK 865 €,Wohnfläche ca. 54 m²,Zi. 2,86,8
+9,selObject_44640760,Attraktive Penthouse Wohnung in Bestlage von Waldshut...,"[['Penthouse', '•', 'Waldshut-Tiengen', 'Waldshut']]","['Balkon', 'EBK']",Miete zzgl. NK 1.100 €,Wohnfläche ca. 140 m²,"Zi. 5,5",86,8
+10,selObject_44640605,3-Zimmer Wohnung im Zentrum von Nagold -sofort frei-,"[['Dachgeschosswohnung', '•', 'Nagold', 'Nagold']]",[],Miete zzgl. NK 690 €,Wohnfläche ca. 80 m²,Zi. 3,86,8
+11,selObject_44638900,Möblierte 3 Zimmer-Wohnung in Lörrach-Haagen,"[['Wohnung', '•', 'Lörrach', 'Haagen']]","['Balkon', 'EBK']",Miete zzgl. NK 1.195 €,Wohnfläche ca. 94 m²,Zi. 3,86,8
+12,selObject_44638677,"Schöne 3,5 Zimmerwohnung in zentraler Lage von Rottenb...","[['Etagenwohnung', '•', 'Rottenburg', 'Rottenburg']]",['EBK'],Miete zzgl. NK 829 €,Wohnfläche ca. 80 m²,"Zi. 3,5",86,8
+13,selObject_44638538,"Groß, offen, hell - Neubau Erstbezug!","[['Wohnung', '•', 'Sindelfingen', 'Maichingen']]",['Balkon'],Miete zzgl. NK 1.410 €,Wohnfläche ca. 94 m²,Zi. 4,86,8
+14,selObject_44638531,Familienglück in Bester Wohnlage,"[['Wohnung', '•', 'Sindelfingen', 'Maichingen']]",['Garten'],Miete zzgl. NK 1.350 €,Wohnfläche ca. 90 m²,Zi. 4,86,8
+15,selObject_44638376,4-Zimmer Wohnung (OG) im Grünen Crailsheim-Stadtmitte,"[['Etagenwohnung', '•', 'Crailsheim', 'Crailsheim']]","['Balkon', 'EBK']",Miete zzgl. NK 1.000 €,Wohnfläche ca. 111 m²,Zi. 4,86,8
+16,selObject_44637683,Moderne möblierte 3- Zimmer Wohnung in Weil am Rhein,"[['Wohnung', '•', 'Weil', 'am', 'Rhein', 'Friedlingen']]","['Garten', 'EBK']",Miete zzgl. NK 1.470 €,Wohnfläche ca. 93 m²,Zi. 3,86,8
+17,selObject_44636990,Marko Winter Immobilien --- Obrigheim: Ruhig gelegene...,"[['Wohnung', '•', 'Obrigheim', 'Obrigheim']]",['Balkon'],Miete zzgl. NK 520 €,Wohnfläche ca. 75 m²,Zi. 3,86,8
+18,selObject_44635508,"Großzügig, von Tageslicht durchflutet und sehr komfort...","[['Wohnung', '•', 'Sigmaringen', 'Sigmaringen']]","['Balkon', 'EBK']",Miete zzgl. NK 830 €,Wohnfläche ca. 95 m²,Zi. 4,86,8
+19,selObject_44633049,"möblierte,moderne Wohnung in grüner Lage","[['Etagenwohnung', '•', 'Karlsruhe', 'Hagsfeld']]","['Balkon', 'EBK']",Miete zzgl. NK 1.050 €,Wohnfläche ca. 78 m²,Zi. 3,86,8
+20,selObject_44633048,"großzügige, teilweise möblierte Wohnung ideal für 4er...","[['Etagenwohnung', '•', 'Karlsruhe', 'Waldstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 1.250 €,Wohnfläche ca. 99 m²,Zi. 5,86,8
+21,selObject_44632684,traumhafte DG-Wohnung mit Aufzug in Krummenacker,"[['Dachgeschosswohnung', '•', 'Esslingen', 'Krummenacker']]",[],Miete zzgl. NK 1.280 €,Wohnfläche ca. 78 m²,Zi. 2,86,8
+22,selObject_44632569,URBANES LEBEN IN TOP-LAGE,"[['Apartment', '•', 'Heilbronn', 'Heilbronn']]",[],Miete zzgl. NK 575 €,Wohnfläche ca. 34 m²,Zi. 1,86,8
+23,selObject_44632479,Neubauwohnung in Neuhausen ob Eck,"[['Etagenwohnung', '•', 'Neuhausen', 'Neuhausen']]",[],Miete zzgl. NK 750 €,Wohnfläche ca. 75 m²,Zi. 3,86,8
+24,selObject_44632478,Neubauwohnung in Neuhausen ob Eck,"[['Etagenwohnung', '•', 'Neuhausen', 'Neuhausen']]",[],Miete zzgl. NK 750 €,Wohnfläche ca. 75 m²,Zi. 3,86,8
+25,selObject_44632164,*Ab sofort* 1 Zimmer in netter Wohngemeinschaft in...,"[['Zimmer', '•', 'Karlsruhe', 'Hagsfeld']]",['EBK'],Miete zzgl. NK 320 €,Wohnfläche ca. 18 m²,,86,8
+26,selObject_44631561,BW 2544V: Studenten aufgepasst!!! Neue WG Nähe BA inmi...,"[['Wohnung', '•', 'Villingen-Schwenningen', 'Schwenningen']]",['EBK'],Preis Auf Anfrage,,Zi. 1,86,8

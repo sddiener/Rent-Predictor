@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_45000610,NEU Gemütliche Singlewohnung,"['Wohnung', '•', 'Leipzig', 'Grünau-Nord']","['NEU', 'NEU']","Miete zzgl. NK 182,50 €",Wohnfläche ca. 33 m²,Zi. 1,23,14
-1,selObject_45000607,NEU BEZUGSFERTIGE 3-Raum-Wohnung mit Spielplatz im Innenho...,"['Wohnung', '•', 'Leipzig', 'Grünau-Nord']","['NEU', 'NEU']",Miete zzgl. NK 295 €,Wohnfläche ca. 69 m²,Zi. 3,23,14
-2,selObject_45000608,NEU WIR HABEN IHRE NEUE! Und die Singleküche ist schon...,"['Wohnung', '•', 'Leipzig', 'Grünau-Nord']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 173 €,Wohnfläche ca. 32 m²,Zi. 1,23,14
-3,selObject_45000605,NEU +++ iQ Apartments - Microliving in Leipzig - Smartes...,"['Dachgeschosswohnung', '•', 'Leipzig', 'Reudnitz-Thonberg']","['NEU', 'NEU', 'EBK']","Miete zzgl. NK 334,50 €",Wohnfläche ca. 22 m²,Zi. 1,23,14
-4,selObject_45000591,NEU NEU - Leben im Schlosspark - Exklusive Denkmalschutz-S...,"['Etagenwohnung', '•', 'Dresden', 'Lockwitz']","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 370 €,Wohnfläche ca. 44 m²,Zi. 2,23,14
-5,selObject_45000537,NEU Lust auf was ganz neues?,"['Etagenwohnung', '•', 'Görlitz', 'Weinhübel']","['NEU', 'NEU']",Miete zzgl. NK 250 €,Wohnfläche ca. 46 m²,Zi. 2,23,14
-6,selObject_44999658,NEU NEU - Leben in den Seidnitzer Gärten mit Fernblick,"['Dachgeschosswohnung', '•', 'Dresden', 'Tolkewitz/Seidnitz-Nord']","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']","Miete zzgl. NK 699,50 €",Wohnfläche ca. 78 m²,Zi. 3,23,14
-7,selObject_44999656,NEU [] erstbezug [] bülowviertel [] 3-raum im 3.og []...,"['Etagenwohnung', '•', 'Leipzig', 'Volkmarsdorf']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 816 €,Wohnfläche ca. 84 m²,Zi. 3,23,14
-8,selObject_44999637,NEU [] erstbezug [] bülowviertel [] 3-raum im 2.og []...,"['Etagenwohnung', '•', 'Leipzig', 'Volkmarsdorf']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 801 €,Wohnfläche ca. 82 m²,Zi. 3,23,14
-9,selObject_44999612,NEU [] erstbezug [] bülowviertel [] 3-raum im 1.og []...,"['Etagenwohnung', '•', 'Leipzig', 'Volkmarsdorf']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 800 €,Wohnfläche ca. 82 m²,Zi. 3,23,14
-10,selObject_44999610,NEU 4-Raum-Terrassen-Wohnung mit Dusche und Wanne in ruhig...,"['Erdgeschosswohnung', '•', 'Radeberg', 'Radeberg']","['NEU', 'NEU']",Miete zzgl. NK 990 €,Wohnfläche ca. 103 m²,Zi. 4,23,14
-11,selObject_44999607,NEU Altersgerechte 3-Raum-Wohnung mit Fahrstuhl in ruhiger...,"['Etagenwohnung', '•', 'Radeberg', 'Radeberg']","['NEU', 'NEU']",Miete zzgl. NK 800 €,Wohnfläche ca. 90 m²,Zi. 3,23,14
-12,selObject_44999605,NEU Barrierefreie 3 Raum-Wohnungen mit eigener Terrasse,"['Erdgeschosswohnung', '•', 'Radeberg', 'Radeberg']","['NEU', 'NEU']",Miete zzgl. NK 860 €,Wohnfläche ca. 96 m²,Zi. 3,23,14
-13,selObject_44999602,"NEU Barrierefreie 2-Raum-Wohnungen mit Dusche, Wanne und...","['Erdgeschosswohnung', '•', 'Radeberg', 'Radeberg']","['NEU', 'NEU']",Miete zzgl. NK 580 €,Wohnfläche ca. 63 m²,Zi. 2,23,14
-14,selObject_44999587,NEU Tolle Altstadtwohnung mit Balkon sucht Nachmieter!,"['Etagenwohnung', '•', 'Görlitz', 'Altstadt']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 320 €,Wohnfläche ca. 65 m²,Zi. 2,23,14
-15,selObject_44999578,"NEU Top renovierte 1,5-Zimmer-Altbauwohnung! Mit Balkon!","['Apartment', '•', 'Dresden', 'Kaditz']","['NEU', 'NEU', 'Balkon', 'Garten']",Miete zzgl. NK 340 €,Wohnfläche ca. 41 m²,"Zi. 1,5",23,14
-16,selObject_44999512,NEU [] erstbezug [] bülowviertel [] 2-raum im 3. og []...,"['Etagenwohnung', '•', 'Leipzig', 'Volkmarsdorf']","['NEU', 'NEU']",Miete zzgl. NK 503 €,Wohnfläche ca. 60 m²,Zi. 2,23,14
-17,selObject_44999489,NEU [] erstbezug [] bülowviertel [] 2-raum im 2. og []...,"['Etagenwohnung', '•', 'Leipzig', 'Volkmarsdorf']","['NEU', 'NEU']",Miete zzgl. NK 499 €,Wohnfläche ca. 60 m²,Zi. 2,23,14
-18,selObject_44999486,NEU [] erstbezug [] bülowviertel [] 2-raum im 1. og []...,"['Etagenwohnung', '•', 'Leipzig', 'Volkmarsdorf']","['NEU', 'NEU']",Miete zzgl. NK 498 €,Wohnfläche ca. 60 m²,Zi. 2,23,14
-19,selObject_44999450,NEU 4 # Gediegen Wohnen - Rundum instandgesetzte Mietwohnu...,"['Etagenwohnung', '•', 'Dresden', 'Räcknitz/Zschertnitz']","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']",Miete zzgl. NK 364 €,Wohnfläche ca. 41 m²,Zi. 2,23,14
-20,selObject_44999449,NEU 3 # Liebe OMA - oder - Lieber OPA ! Frisch instandges...,"['Etagenwohnung', '•', 'Dresden', 'Räcknitz/Zschertnitz']","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']",Miete zzgl. NK 364 €,Wohnfläche ca. 41 m²,Zi. 2,23,14
-21,selObject_44999448,NEU 2 # ZURÜCK in die sächsische HEIMAT !! in der Residenz...,"['Etagenwohnung', '•', 'Dresden', 'Räcknitz/Zschertnitz']","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']",Miete zzgl. NK 364 €,Wohnfläche ca. 41 m²,Zi. 2,23,14
-22,selObject_44999421,NEU NEU: Das Penthouse passt perfekt,"['Penthouse', '•', 'Leipzig', 'Plagwitz']","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 1.365 €,Wohnfläche ca. 105 m²,Zi. 3,23,14
-23,selObject_44999325,NEU [] erstbezug [] bülowviertel [] 3-raum im 3. og []...,"['Etagenwohnung', '•', 'Leipzig', 'Volkmarsdorf']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 599 €,Wohnfläche ca. 70 m²,Zi. 3,23,14
-24,selObject_44999300,"NEU Wohnen in Gohlis, 2 Zimmer Wohnung","['Wohnung', '•', 'Leipzig', 'Gohlis-Mitte']","['NEU', 'NEU']",Miete zzgl. NK 340 €,Wohnfläche ca. 46 m²,Zi. 2,23,14
-25,selObject_44999286,NEU [] erstbezug [] bülowviertel [] 3-raum im 2. og []...,"['Etagenwohnung', '•', 'Leipzig', 'Volkmarsdorf']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 596 €,Wohnfläche ca. 70 m²,Zi. 3,23,14
-26,selObject_44999260,"NEU Citynahe gute & solide 2-Raumwohnung , Bad mit Wanne...","['Wohnung', '•', 'Leipzig', 'Altlindenau']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 333 €,Wohnfläche ca. 54 m²,Zi. 2,23,14
+0,selObject_45029056,NEU 3-Raum Wohnung zum selber Malern,"[['Wohnung', '•', 'Leipzig', 'Grünau-Mitte']]","['NEU', 'NEU', 'EBK']","Miete zzgl. NK 310,61 €",Wohnfläche ca. 65 m²,Zi. 3,23,14
+1,selObject_45029054,NEU Kleine 2-Raum-Wohnung in ruhiger Nebenstraße,"[['Wohnung', '•', 'Leipzig', 'Lößnig']]","['NEU', 'NEU']",Miete zzgl. NK 300 €,Wohnfläche ca. 49 m²,Zi. 2,23,14
+2,selObject_45029055,NEU 1-Raum-Wohnung in Lindenau,"[['Wohnung', '•', 'Leipzig', 'Neulindenau']]","['NEU', 'NEU']","Miete zzgl. NK 325,57 €",Wohnfläche ca. 42 m²,Zi. 1,23,14
+3,selObject_45029053,NEU 3-Raum-Wohnung mit Balkon im Grünen,"[['Wohnung', '•', 'Leipzig', 'Neulindenau']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 372,13 €",Wohnfläche ca. 57 m²,Zi. 3,23,14
+4,selObject_45029052,NEU Ihr neues Zuhause in Neulindenau - richtig gut wohnen!,"[['Erdgeschosswohnung', '•', 'Leipzig', 'Neulindenau']]","['NEU', 'NEU', 'Balkon', 'EBK']","Miete zzgl. NK 404,41 €",Wohnfläche ca. 55 m²,Zi. 2,23,14
+5,selObject_45029049,NEU Anschauen - einziehen - wohlfühlen!,"[['Wohnung', '•', 'Leipzig', 'Plagwitz']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 285 €,Wohnfläche ca. 37 m²,Zi. 1,23,14
+6,selObject_45029048,NEU Leben mittendrin!,"[['Wohnung', '•', 'Leipzig', 'Grünau-Mitte']]","['NEU', 'NEU']","Miete zzgl. NK 218,08 €",Wohnfläche ca. 32 m²,Zi. 1,23,14
+7,selObject_45029047,NEU 2-Raum-Wohnung in Lindenau,"[['Wohnung', '•', 'Leipzig', 'Neulindenau']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 307,73 €",Wohnfläche ca. 48 m²,Zi. 2,23,14
+8,selObject_45029046,NEU Das passende Zuhause gibt es bei uns!,"[['Wohnung', '•', 'Leipzig', 'Neulindenau']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 384,80 €",Wohnfläche ca. 59 m²,Zi. 3,23,14
+9,selObject_45029037,NEU !!! PKW-Stellplatz für 6 Monate gratis dazu !!!,"[['Wohnung', '•', 'Görlitz', 'Königshufen']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 344,31 €",Wohnfläche ca. 71 m²,Zi. 3,23,14
+10,selObject_45029038,NEU !!! PKW-Stellplatz für 6 Monate gratis dazu !!!,"[['Wohnung', '•', 'Görlitz', 'Königshufen']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 312,36 €",Wohnfläche ca. 60 m²,Zi. 3,23,14
+11,selObject_45029036,NEU 1-Raum-Wohnung mit Balkon in Görlitz-Weinhübel!,"[['Wohnung', '•', 'Görlitz', 'Weinhübel']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 179,25 €",Wohnfläche ca. 34 m²,Zi. 1,23,14
+12,selObject_45029029,NEU Wohnen mit Betreuungsmöglichkeit!,"[['Wohnung', '•', 'Leipzig', 'Grünau-Nord']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 190 €,Wohnfläche ca. 32 m²,Zi. 1,23,14
+13,selObject_45029028,NEU 2-Raum-Wohnung mit Blick auf den Park!,"[['Wohnung', '•', 'Leipzig', 'Zentrum-Süd']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 420 €,Wohnfläche ca. 48 m²,Zi. 2,23,14
+14,selObject_45029026,NEU Erstbezug nach Ausbau!,"[['Wohnung', '•', 'Leipzig', 'Zentrum-Nord']]","['NEU', 'NEU']",Miete zzgl. NK 338 €,Wohnfläche ca. 50 m²,Zi. 2,23,14
+15,selObject_45029025,NEU 2-Raum-Wohnung mit Aufzug in der Südvorstadt,"[['Wohnung', '•', 'Leipzig', 'Zentrum-Süd']]","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 381 €,Wohnfläche ca. 50 m²,Zi. 2,23,14
+16,selObject_45029023,NEU Schöner Altbau in Leutzsch,"[['Wohnung', '•', 'Leipzig', 'Leutzsch']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 281,78 €",Wohnfläche ca. 43 m²,Zi. 1,23,14
+17,selObject_45029019,NEU Ihr neues Zuhause in Grünau,"[['Wohnung', '•', 'Leipzig', 'Grünau-Ost']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 354 €,Wohnfläche ca. 63 m²,Zi. 3,23,14
+18,selObject_45029017,NEU Wohnen in Schönau,"[['Wohnung', '•', 'Leipzig', 'Schönau']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 480 €,Wohnfläche ca. 90 m²,Zi. 4,23,14
+19,selObject_45029015,NEU 3-Raum-Wohnung im sanierten Altbau in Stötteritz,"[['Erdgeschosswohnung', '•', 'Leipzig', 'Stötteritz']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 446,56 €",Wohnfläche ca. 66 m²,Zi. 3,23,14
+20,selObject_45029014,NEU 3-Raum-Wohnung mit Balkon Nähe Clara-Park und Innensta...,"[['Wohnung', '•', 'Leipzig', 'Zentrum-West']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 333 €,Wohnfläche ca. 60 m²,Zi. 3,23,14
+21,selObject_45029011,NEU Umsorgt wohnen im Alter!,"[['Wohnung', '•', 'Leipzig', 'Schönau']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 310,49 €",Wohnfläche ca. 55 m²,Zi. 2,23,14
+22,selObject_45029010,NEU Citynah wohnen,"[['Wohnung', '•', 'Leipzig', 'Zentrum-Südost']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 413 €,Wohnfläche ca. 58 m²,Zi. 3,23,14
+23,selObject_45029007,NEU Wohnen in Schönau,"[['Wohnung', '•', 'Leipzig', 'Schönau']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 372 €,Wohnfläche ca. 91 m²,Zi. 3,23,14
+24,selObject_45029005,NEU Ihr neues Zuhause im Gutenbergviertel!,"[['Erdgeschosswohnung', '•', 'Leipzig', 'Zentrum-Südost']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 237 €,Wohnfläche ca. 32 m²,Zi. 1,23,14
+25,selObject_45029004,NEU 2-Raum-Wohnung Nähe Bayrischer Bahnhof,"[['Wohnung', '•', 'Leipzig', 'Zentrum-Süd']]","['NEU', 'NEU']",Miete zzgl. NK 360 €,Wohnfläche ca. 48 m²,Zi. 2,23,14
+26,selObject_45029002,NEU 2-Raum-Wohnung in der Nähe des Bayrischen Bahnhofes,"[['Wohnung', '•', 'Leipzig', 'Zentrum-Süd']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 375 €,Wohnfläche ca. 48 m²,Zi. 2,23,14

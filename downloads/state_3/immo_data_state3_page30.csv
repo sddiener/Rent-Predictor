@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44953814,3 Zimmer - Dachgeschosswohnung mit Fahrstuhl im Zentru...,"['Dachgeschosswohnung', '•', 'Leer', 'Leer']","['Balkon', 'EBK']",Miete zzgl. NK 720 €,Wohnfläche ca. 90 m²,Zi. 3,30,3
-1,selObject_44953271,"Obergeschosswohnung im Zentrum von Papenburg-Obenende,...","['Etagenwohnung', '•', 'Papenburg', 'Papenburg']",[],Miete zzgl. NK 450 €,Wohnfläche ca. 97 m²,Zi. 3,30,3
-2,selObject_44952415,"Helle, gepflegte 2-Zi.-Wohnung in Veltheim/Ohe","['Wohnung', '•', 'Veltheim']","['Garten', 'EBK']",Miete zzgl. NK 370 €,Wohnfläche ca. 50 m²,Zi. 2,30,3
-3,selObject_44952389,KfW 55: Neubau-Erstbezug! 2-Zimmer-Wohnung mit Balkon....,"['Wohnung', '•', 'Westerstede', 'Westerstede']",['Balkon'],Miete zzgl. NK 640 €,Wohnfläche ca. 64 m²,Zi. 2,30,3
-4,selObject_44952318,3 ZIMMER-WOHNUNG mit Balkon,"['Etagenwohnung', '•', 'Pattensen', 'Pattensen']","['Balkon', 'EBK']",Miete zzgl. NK 720 €,Wohnfläche ca. 80 m²,Zi. 3,30,3
-5,selObject_44952290,Renovierte 2-Zimmer-Wohnung (55m2) mit Balkon und EBK,"['Wohnung', '•', 'Hannover', 'Misburg-Nord']","['Balkon', 'EBK']",Miete zzgl. NK 590 €,Wohnfläche ca. 55 m²,Zi. 2,30,3
-6,selObject_44951985,Schöne Landhauswohnung in der Wedemark,"['Etagenwohnung', '•', 'Wedemark', 'Abbensen']",['Balkon'],Miete zzgl. NK 980 €,Wohnfläche ca. 136 m²,Zi. 3,30,3
-7,selObject_44951886,3-Zimmerwohnung mit Balkon auf idyllischem Hof in Ried...,"['Wohnung', '•', 'Riede', 'Riede']","['Balkon', 'EBK']",Miete zzgl. NK 775 €,Wohnfläche ca. 100 m²,Zi. 3,30,3
-8,selObject_44951840,Idyllisches Wohnen mit Garten in Obernkirchen,"['Wohnung', '•', 'Obernkirchen', 'Krainhagen']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 900 €,Wohnfläche ca. 120 m²,"Zi. 3,5",30,3
-9,selObject_44951834,Moderne Wohnung im Neubau mit großem Balkon,"['Apartment', '•', 'Tostedt', 'Todtglüsingen']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 924 €,Wohnfläche ca. 84 m²,Zi. 3,30,3
-10,selObject_44951675,3 +1 Zimmer Maisonettewohnung mit Dachterrasse,"['Maisonette', '•', 'Buchholz', 'Buchholz']","['Balkon', 'EBK']",Miete zzgl. NK 1.020 €,Wohnfläche ca. 120 m²,Zi. 4,30,3
-11,selObject_44951630,"Renov. 3-Zimmer-Wohnung, toller Grundriß, gr.Balkon,...","['Etagenwohnung', '•', 'Tostedt', 'Tostedt']","['Balkon', 'EBK']",Miete zzgl. NK 695 €,Wohnfläche ca. 83 m²,Zi. 3,30,3
-12,selObject_44951215,Modernisiert mit 2 Balkonen und EBK: helle und großzüg...,"['Etagenwohnung', '•', 'Braunschweig', 'Innenstadt']",['Balkon'],Miete zzgl. NK 740 €,Wohnfläche ca. 82 m²,Zi. 2,30,3
-13,selObject_44950964,5-Zimmer-Wohnung in Harz zu vermieten,"['Maisonette', '•', 'Osterode', 'Ührde']","['Balkon', 'Garten']",Miete zzgl. NK 800 €,Wohnfläche ca. 120 m²,Zi. 5,30,3
-14,selObject_44950764,Schöne Mietwohnung in 31185 Söhlde OT Hoheneggelsen...,"['Erdgeschosswohnung', '•', 'Söhlde', 'Hoheneggelsen']","['Garten', 'EBK']",Miete zzgl. NK 585 €,Wohnfläche ca. 78 m²,Zi. 3,30,3
-15,selObject_44950087,"4 ZBK Öko-Reihenendhaus mit EBK teilmöbliert ,WG geeig...","['Erdgeschosswohnung', '•', 'Hann.', 'Münden', 'Hann.', 'Münden']",['Garten'],Miete zzgl. NK 656 €,Wohnfläche ca. 120 m²,Zi. 4,30,3
-16,selObject_44950006,"Hier hat jeder Platz: günstige 1,5-Zi.-Single-Wohnung","['Etagenwohnung', '•', 'Hildesheim', 'Nord']",['Balkon'],"Miete zzgl. NK 361,60 €",Wohnfläche ca. 56 m²,"Zi. 1,5",30,3
-17,selObject_44949967,Frisch renovierte 3-Zimmer-Wohnung mit Balkon und neue...,"['Etagenwohnung', '•', 'Osnabrück', 'Eversburg']",['Balkon'],"Miete zzgl. NK 526,24 €",Wohnfläche ca. 66 m²,Zi. 3,30,3
-18,selObject_44949956,Gestalten Sie Ihr Leben neu!,"['Erdgeschosswohnung', '•', 'Braunschweig', 'Südstadt']",['Balkon'],"Miete zzgl. NK 450,24 €",Wohnfläche ca. 58 m²,"Zi. 2,5",30,3
-19,selObject_44949934,"Neue Wohnung, neues Glück! 3-Zimmer-Wohnung mit Balkon...","['Etagenwohnung', '•', 'Göttingen', 'Weende']",['Balkon'],"Miete zzgl. NK 530,23 €",Wohnfläche ca. 62 m²,Zi. 2,30,3
-20,selObject_44949932,Nette Rentner mit Wohnberechtigungsschein gesucht!,"['Etagenwohnung', '•', 'Osnabrück', 'Schinkel']",['Balkon'],"Miete zzgl. NK 212,86 €",Wohnfläche ca. 43 m²,Zi. 1,30,3
-21,selObject_44949906,Da kommt man gern Heim. individuelle 2-Zimmer-Wohnung,"['Etagenwohnung', '•', 'Lüneburg', 'Kaltenmoor']",['Balkon'],"Miete zzgl. NK 520,73 €",Wohnfläche ca. 60 m²,Zi. 2,30,3
-22,selObject_44949877,3 Zimmer Wohnung mit bodengleicher Dusche frei!,"['Erdgeschosswohnung', '•', 'Osnabrück', 'Dodesheide']",['Balkon'],"Miete zzgl. NK 582,88 €",Wohnfläche ca. 72 m²,Zi. 3,30,3
-23,selObject_44949788,Zimmer-Wohnung zwischen Amelinghausen und Lüneburg,"['Wohnung', '•', 'Betzendorf', 'Drögennindorf']",['EBK'],Miete zzgl. NK 480 €,Wohnfläche ca. 70 m²,Zi. 2,30,3
-24,selObject_44949056,"3 Zimmer auf 66 m² Wfl., hier fühlen Sie sich sofort...","['Wohnung', '•', 'Braunschweig', 'Braunschweig']",['Garten'],Miete zzgl. NK 500 €,Wohnfläche ca. 66 m²,Zi. 3,30,3
-25,selObject_44948509,Gepflegte 4-Zimmer-Wohnung mit Terrasse & Sauna in...,"['Wohnung', '•', 'Seevetal', 'Horst']","['Garten', 'EBK']",Miete zzgl. NK 1.215 €,Wohnfläche ca. 110 m²,Zi. 4,30,3
-26,selObject_44946727,Frisch modernisierte Wohnung im Herzen von Diepholz,"['Wohnung', '•', 'Diepholz', 'Diepholz']",['Balkon'],Miete zzgl. NK 550 €,Wohnfläche ca. 110 m²,Zi. 3,30,3
+0,selObject_44979309,Dachgeschosswohnung,"[['Dachgeschosswohnung', '•', 'Lohne', 'Lohne']]",['EBK'],Miete zzgl. NK 380 €,Wohnfläche ca. 58 m²,Zi. 2,30,3
+1,selObject_44979285,ZWEI-ZIMMER-WOHNUNG MIT BALKON IN KIRCHRODE,"[['Etagenwohnung', '•', 'Hannover', 'Kirchrode']]","['Balkon', 'Garten']",Miete zzgl. NK 850 €,Wohnfläche ca. 72 m²,Zi. 2,30,3
+2,selObject_44979127,1. Zi.-Whg. in der Innenstadt,"[['Etagenwohnung', '•', 'Lüneburg', 'Altstadt']]",[],Miete zzgl. NK 250 €,Wohnfläche ca. 20 m²,Zi. 1,30,3
+3,selObject_44978986,"3 Zimmer DG-Wohnung in Hemmoor, mit Einbauküche, Diele...","[['Dachgeschosswohnung', '•', 'Hemmoor', 'Basbeck']]",['EBK'],Miete zzgl. NK 550 €,Wohnfläche ca. 102 m²,Zi. 3,30,3
+4,selObject_44978911,Fernab vom Gewöhnlichen,"[['Etagenwohnung', '•', 'Norden', 'Bargebur']]",['EBK'],Miete zzgl. NK 725 €,Wohnfläche ca. 72 m²,Zi. 3,30,3
+5,selObject_44978910,Optimal für Singles,"[['Etagenwohnung', '•', 'Hage', 'Hage']]",['EBK'],Miete zzgl. NK 340 €,Wohnfläche ca. 43 m²,Zi. 2,30,3
+6,selObject_44978889,Kleine 3-Zimmer-Wohnung in Emden - Transvaal zu vermie...,"[['Etagenwohnung', '•', 'Emden', 'Barenburg']]",['EBK'],Miete zzgl. NK 390 €,Wohnfläche ca. 55 m²,Zi. 3,30,3
+7,selObject_44978874,2 Zi. Whg - gemütlich wohnen und CO2-neutral heizen,"[['Etagenwohnung', '•', 'Eime', 'Deinsen']]","['Garten', 'EBK']",Miete zzgl. NK 420 €,Wohnfläche ca. 68 m²,Zi. 2,30,3
+8,selObject_44978866,Sanierte Wohnung in gepflegter Wohnlage mit Brockenbli...,"[['Etagenwohnung', '•', 'Wolfenbüttel', 'Stadtgebiet']]",['EBK'],Miete zzgl. NK 350 €,Wohnfläche ca. 38 m²,Zi. 2,30,3
+9,selObject_44978826,Stadtwohnung am JFK-Platz Braunschweig,"[['Etagenwohnung', '•', 'Braunschweig', 'Innenstadt']]",['EBK'],Miete zzgl. NK 640 €,Wohnfläche ca. 75 m²,Zi. 2,30,3
+10,selObject_44978822,Sehr schöne 2-Zimmer-Wohnung in zentraler Lage mit...,"[['Etagenwohnung', '•', 'Rotenburg', 'Rotenburg']]",[],Miete zzgl. NK 770 €,Wohnfläche ca. 84 m²,Zi. 2,30,3
+11,selObject_44978757,Stadtnahe 2-Zimmer-Wohnung im Dachgeschoss,"[['Etagenwohnung', '•', 'Emden', 'Borssum/Hilmarsum']]",[],Miete zzgl. NK 330 €,Wohnfläche ca. 50 m²,Zi. 2,30,3
+12,selObject_44978725,IN LANDSCHAFTLICH REIZVOLLER LAGE,"[['Etagenwohnung', '•', 'Raddestorf', 'Halle']]","['Balkon', 'EBK']",Miete zzgl. NK 370 €,Wohnfläche ca. 80 m²,Zi. 3,30,3
+13,selObject_44978690,Penthouse-Wohnung am Hohenwedeler Weg 22,"[['Dachgeschosswohnung', '•', 'Stade', 'Stade']]",['EBK'],Miete zzgl. NK 980 €,Wohnfläche ca. 89 m²,Zi. 2,30,3
+14,selObject_44978678,Helle Zwei-Zimmer-Wohnung mit Küche und Terrasse in...,"[['Erdgeschosswohnung', '•', 'Achim', 'Achim']]",['EBK'],Miete zzgl. NK 710 €,Wohnfläche ca. 68 m²,Zi. 2,30,3
+15,selObject_44978256,"Wünderschönes, lichtdurchflutetes Apartment im Wohngeb...","[['Maisonette', '•', 'Wildeshausen']]","['Balkon', 'EBK']",Miete zzgl. NK 961 €,Wohnfläche ca. 92 m²,Zi. 2,30,3
+16,selObject_44978238,**Lichtdurchflutete Neubauwohnung mit Einbauküche**,"[['Wohnung', '•', 'Hannover', 'Kirchrode']]","['Balkon', 'EBK']",Miete zzgl. NK 1.487 €,Wohnfläche ca. 144 m²,Zi. 4,30,3
+17,selObject_44978236,3-Zi-Wohnung mit Sonnenbalkon in gepflegter Wohnanlage...,"[['Wohnung', '•', 'Hannover', 'Vahrenheide']]",['Balkon'],Miete zzgl. NK 570 €,Wohnfläche ca. 66 m²,Zi. 3,30,3
+18,selObject_44978228,"Schöne grosse 4-Zimmer-Wohnung, Garten, Innenstadt","[['Erdgeschosswohnung', '•', 'Lingen', 'Lingen']]",['Garten'],Miete zzgl. NK 690 €,Wohnfläche ca. 115 m²,Zi. 4,30,3
+19,selObject_44977479,Helle Etagenwohnung in der Stadtmitte,"[['Etagenwohnung', '•', 'Lüchow', 'Lüchow']]",['Balkon'],Miete zzgl. NK 285 €,Wohnfläche ca. 58 m²,Zi. 2,30,3
+20,selObject_44977369,Erdgeschosswohnung in guter Lage !!!,"[['Wohnung', '•', 'Westoverledingen', 'Völlenerfehn']]",['EBK'],Miete zzgl. NK 520 €,Wohnfläche ca. 85 m²,Zi. 3,30,3
+21,selObject_44977037,"Idyllisches, jedoch verkehrsgünstiges Wohnen auf einem...","[['Dachgeschosswohnung', '•', 'Stuhr', 'Groß', 'Mackenstedt']]",['EBK'],Miete zzgl. NK 590 €,Wohnfläche ca. 104 m²,Zi. 4,30,3
+22,selObject_44977031,2-Zimmer-Wohnung mit Balkon in Stade,"[['Apartment', '•', 'Stade', 'Stade']]","['Balkon', 'EBK']",Miete zzgl. NK 560 €,Wohnfläche ca. 66 m²,Zi. 2,30,3
+23,selObject_44977023,Wietze - 3-Zimmer-Wohnung mit Terrasse,"[['Wohnung', '•', 'Wietze', 'Wietze']]",['EBK'],Miete zzgl. NK 470 €,Wohnfläche ca. 63 m²,Zi. 3,30,3
+24,selObject_44977021,1-Zimmer-Wohnung in Walsrode,"[['Kein', 'Bild'], ['Wohnung', '•', 'Walsrode', 'Walsrode']]",[],Miete zzgl. NK 200 €,Wohnfläche ca. 30 m²,Zi. 1,30,3
+25,selObject_44976981,Schöne Erdgeschosswohnung mit Terrasse,"[['Erdgeschosswohnung', '•', 'Twistringen', 'Natenstedt']]",['EBK'],Miete zzgl. NK 720 €,Wohnfläche ca. 102 m²,Zi. 2,30,3
+26,selObject_44976943,Maisonette Wohnung im Herzen von Stadthagen,"[['Maisonette', '•', 'Stadthagen', 'Stadthagen']]",[],Miete zzgl. NK 880 €,Wohnfläche ca. 100 m²,Zi. 4,30,3

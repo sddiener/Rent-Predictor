@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44019345,Ideale Singlewohnung im Neubaugebiet,"['Erdgeschosswohnung', '•', 'Lüneburg', 'Ebensberg']",['EBK'],Miete zzgl. NK 499 €,Wohnfläche ca. 46 m²,Zi. 1,104,3
-1,selObject_44018750,Dat moi Hus - Exklusives Wohnen mit Concierge Service...,"['Dachgeschosswohnung', '•', 'Delmenhorst', 'Deichhorst']","['Balkon', 'EBK']",Miete zzgl. NK 925 €,Wohnfläche ca. 45 m²,,104,3
-2,selObject_44017926,"Separater Eingang: Schöne, renovierte Obergeschosswohn...","['Dachgeschosswohnung', '•', 'Löningen', 'Böen']",['EBK'],Miete zzgl. NK 525 €,Wohnfläche ca. 100 m²,,104,3
-3,selObject_44017903,Stade Pommernviertel: ruhige 2-Zimmer-Wohnung mit Balk...,"['Wohnung', '•', 'Stade', 'Stade']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 500 €,Wohnfläche ca. 68 m²,Zi. 2,104,3
-4,selObject_44016736,208-004 - 3 Zimmer Wohnung mit Loggia,"['Wohnung', '•', 'Braunschweig', 'Innenstadt']",[],Miete zzgl. NK 725 €,Wohnfläche ca. 100 m²,Zi. 3,104,3
-5,selObject_44016055,"Neubau/ Brinkum, moderne 3 Zimmer Dachgeschosswohnung...","['Wohnung', '•', 'Stuhr', 'Brinkum']",['EBK'],Miete zzgl. NK 1.075 €,Wohnfläche ca. 94 m²,Zi. 3,104,3
-6,selObject_44016010,"Neubau/ Brinkum, moderne 3 Zimmer Mietwohnung mit toll...","['Wohnung', '•', 'Stuhr', 'Brinkum']",['EBK'],Miete zzgl. NK 950 €,Wohnfläche ca. 86 m²,Zi. 3,104,3
-7,selObject_44009933,Charmante 3-Zi.-Whg. mit 2 geräumigen Balkonen in der...,"['Apartment', '•', 'Delmenhorst', 'Mitte']",['Balkon'],Miete zzgl. NK 570 €,Wohnfläche ca. 89 m²,Zi. 3,104,3
-8,selObject_44005914,107-006 - 4 Zimmer Wohnung mit Balkon - saniert -,"['Etagenwohnung', '•', 'Braunschweig', 'Innenstadt']",[],Miete zzgl. NK 867 €,Wohnfläche ca. 96 m²,Zi. 4,104,3
-9,selObject_44003912,Frisch sanierte 3 Zimmer Wohnung für den kleinen Geldb...,"['Etagenwohnung', '•', 'Bad', 'Pyrmont', 'Bad', 'Pyrmont']",['Balkon'],Miete zzgl. NK 420 €,Wohnfläche ca. 73 m²,Zi. 3,104,3
-10,selObject_44002433,Wir haben für Sie saniert! Kurzfristiger Einzug wäre...,"['Dachgeschosswohnung', '•', 'Wilhelmshaven', 'Fedderwardergroden']",[],Miete zzgl. NK 320 €,Wohnfläche ca. 54 m²,Zi. 3,104,3
-11,selObject_43996800,"preisgünstige, großzügige, ruhig gelegene Dachgeschoß-...","['Dachgeschosswohnung', '•', 'Göttingen', 'Göttingen']",['EBK'],Miete zzgl. NK 400 €,Wohnfläche ca. 52 m²,Zi. 2,104,3
-12,selObject_43996585,3-Zimmer-Wohnung in begehrter Lage von Emden,"['Etagenwohnung', '•', 'Emden', 'Borssum/Hilmarsum']",['Garten'],Miete zzgl. NK 450 €,Wohnfläche ca. 53 m²,Zi. 3,104,3
-13,selObject_43996307,"Große, helle 2-Zimmer-Wohnung im Zentrum von Emden!","['Etagenwohnung', '•', 'Emden', 'Borssum/Hilmarsum']",['EBK'],Miete zzgl. NK 400 €,Wohnfläche ca. 65 m²,Zi. 2,104,3
-14,selObject_43995677,+++ Ihr kleines Domizil im Herzen Hildesheims +++,"['Dachgeschosswohnung', '•', 'Hildesheim', 'Neustadt']",['EBK'],Miete zzgl. NK 320 €,Wohnfläche ca. 29 m²,Zi. 1,104,3
-15,selObject_43985894,Exclusive Penthouse Wohnung in Bad Iburg,"['Dachgeschosswohnung', '•', 'Bad', 'Iburg', 'Bad', 'Iburg']",[],Miete zzgl. NK 1.700 €,Wohnfläche ca. 152 m²,Zi. 3,104,3
-16,selObject_43984874,Bezugsfreie schöne 2 ZKB Wohnung mit Dachterrasse in...,"['Dachgeschosswohnung', '•', 'Bad', 'Zwischenahn', 'Rostrup', 'I']",['Balkon'],Miete zzgl. NK 650 €,Wohnfläche ca. 76 m²,Zi. 2,104,3
-17,selObject_43984000,"Apartments in - Hasbergen Gaste - zu vermieten -,...","['Apartment', '•', 'Hasbergen', 'Gaste']",[],Miete inkl. NK 560 €,Wohnfläche ca. 35 m²,Zi. 1,104,3
-18,selObject_43983009,3 Zimmer-Wohnung in Sulingen,"['Dachgeschosswohnung', '•', 'Sulingen', 'Sulingen']",['Balkon'],Miete zzgl. NK 420 €,Wohnfläche ca. 75 m²,Zi. 3,104,3
-19,selObject_43982786,Renovierte Wohnung im Hochhaus sucht Mieter!,"['Etagenwohnung', '•', 'Wilhelmshaven', 'Aldenburg']",['Balkon'],Miete zzgl. NK 424 €,Wohnfläche ca. 74 m²,Zi. 3,104,3
-20,selObject_43981110,Smartes Wohnen: vollmöbilierte Wohnung zur Miete,"['Etagenwohnung', '•', 'Braunschweig', 'Vorwerksiedlung']",[],"Miete zzgl. NK 696,63 €",Wohnfläche ca. 38 m²,Zi. 1,104,3
-21,selObject_43974194,Ideal auch für Wochenendpendler!,"['Wohnung', '•', 'Bispingen', 'Bispingen']","['Balkon', 'EBK']",Miete zzgl. NK 444 €,Wohnfläche ca. 60 m²,Zi. 2,104,3
-22,selObject_43974001,Erstbezug! Hochwertige 3 Zimmer Wohnung mit EBK.,"['Maisonette', '•', 'Achim', 'Achim']","['Balkon', 'EBK']",Miete zzgl. NK 940 €,Wohnfläche ca. 88 m²,Zi. 3,104,3
-23,selObject_43973040,***Altbaucharme***,"['Wohnung', '•', 'Bad', 'Lauterberg', 'Bad', 'Lauterberg']",['Garten'],Miete zzgl. NK 410 €,Wohnfläche ca. 85 m²,Zi. 3,104,3
-24,selObject_43970176,"Sanierte, großzügige 3-Zimmerwohnung im Zentrum","['Etagenwohnung', '•', 'Wilhelmshaven', 'Innenstadt']",['Balkon'],Miete zzgl. NK 530 €,Wohnfläche ca. 101 m²,Zi. 3,104,3
-25,selObject_43958119,Monteuerzimmer Unterkunft Ferienwohnung Hechthausen ab...,"['Dachgeschosswohnung', '•', 'Stade']","['Garten', 'EBK']",Miete zzgl. NK 13 €,Wohnfläche ca. 150 m²,Zi. 8,104,3
-26,selObject_43952872,"Tierfreundliche, barrierefreie Erdgeschosswohnung mit...","['Erdgeschosswohnung', '•', 'Oldenburg', 'Eversten']","['Garten', 'EBK']",Miete zzgl. NK 675 €,Wohnfläche ca. 60 m²,Zi. 2,104,3
+0,selObject_44076536,Viel Platz für die ganze Familie.,"[['Etagenwohnung', '•', 'Wilhelmshaven', 'Fedderwardergroden']]",['Garten'],Miete zzgl. NK 385 €,Wohnfläche ca. 60 m²,Zi. 3,104,3
+1,selObject_44076526,Traumwohnung mit Blick ins Grüne.,"[['Etagenwohnung', '•', 'Wilhelmshaven', 'Fedderwardergroden']]","['Balkon', 'Garten']",Miete zzgl. NK 457 €,Wohnfläche ca. 70 m²,Zi. 3,104,3
+2,selObject_44073233,Großzügige gepflegte 2-Zimmer-Wohnung - renoviert -...,"[['Etagenwohnung', '•', 'Wilhelmshaven', 'Heppens']]",[],"Miete zzgl. NK 341,20 €",Wohnfläche ca. 65 m²,Zi. 2,104,3
+3,selObject_44072075,Super zentral! Fahrstuhl! Barrierefrei!,"[['Etagenwohnung', '•', 'Papenburg', 'Papenburg']]",[],Miete zzgl. NK 790 €,Wohnfläche ca. 81 m²,Zi. 3,104,3
+4,selObject_44071619,Top Wohnung mit Wintergarten in zentraler Lage,"[['Wohnung', '•', 'Hildesheim', 'Achtum']]",['EBK'],Miete zzgl. NK 895 €,Wohnfläche ca. 92 m²,Zi. 3,104,3
+5,selObject_44071404,Nähe Bahnhof - großzügige 1 Zimmer Altbauwohnung!,"[['Dachgeschosswohnung', '•', 'Lüneburg', 'Schützenplatz']]",['EBK'],Miete zzgl. NK 520 €,Wohnfläche ca. 55 m²,Zi. 1,104,3
+6,selObject_44070947,Barrierefreie und exklusive 2-ZKB Wohnung in der Villa...,"[['Etagenwohnung', '•', 'Hude', 'Hude']]","['Balkon', 'EBK']",Miete zzgl. NK 720 €,Wohnfläche ca. 60 m²,Zi. 2,104,3
+7,selObject_44070900,Barrierefreie und exklusive 2-ZKB Wohnung in der Villa...,"[['Etagenwohnung', '•', 'Hude', 'Hude']]",['EBK'],Miete zzgl. NK 620 €,Wohnfläche ca. 51 m²,Zi. 2,104,3
+8,selObject_44070379,Erstbezug! Moderne 2-Zimmer Dachgeschosswohnung mit...,"[['Dachgeschosswohnung', '•', 'Wolfsburg', 'Sandkamp']]",['Balkon'],Miete zzgl. NK 690 €,Wohnfläche ca. 66 m²,Zi. 2,104,3
+9,selObject_44070377,Erstbezug! Schöne 2-Zimmer Dachgeschosswohnung mit...,"[['Dachgeschosswohnung', '•', 'Wolfsburg', 'Sandkamp']]",['Balkon'],Miete zzgl. NK 690 €,Wohnfläche ca. 66 m²,Zi. 2,104,3
+10,selObject_44070376,Erstbezug! Moderne 3-Zimmer Etagenwohnung mit Balkon...,"[['Etagenwohnung', '•', 'Wolfsburg', 'Sandkamp']]",['Balkon'],Miete zzgl. NK 850 €,Wohnfläche ca. 80 m²,Zi. 3,104,3
+11,selObject_44070311,203-025 - 3 Zimmer Wohnung mit Loggia,"[['Etagenwohnung', '•', 'Braunschweig', 'Gliesmarode']]",[],Miete zzgl. NK 610 €,Wohnfläche ca. 86 m²,Zi. 3,104,3
+12,selObject_44069636,NEUBAU - Moderne 3-Zimmerwohnung mit Balkon und Stellp...,"[['Dachgeschosswohnung', '•', 'Ankum', 'Ankum']]",['Balkon'],Miete zzgl. NK 670 €,,Zi. 3,104,3
+13,selObject_44068839,Studierende aufgepasst! Gemütliches Zimmer in der Nähe...,"[['Zimmer', '•', 'Lüneburg', 'Bockelsberg']]",['Garten'],Miete zzgl. NK 205 €,Wohnfläche ca. 11 m²,,104,3
+14,selObject_44068501,Gemütliche Dachgeschoss-Wohnung in Wiesmoor !,"[['Dachgeschosswohnung', '•', 'Wiesmoor', 'Marcardsmoor']]",['EBK'],Miete zzgl. NK 365 €,Wohnfläche ca. 52 m²,Zi. 3,104,3
+15,selObject_44065972,NEUBAU - Moderne 3-Zimmerwohnung mit Balkon und Stellp...,"[['Etagenwohnung', '•', 'Ankum', 'Ankum']]",['Balkon'],Miete zzgl. NK 725 €,Wohnfläche ca. 85 m²,Zi. 3,104,3
+16,selObject_44065970,NEUBAU - Moderne 3-Zimmerwohnung mit Balkon und Stellp...,"[['Etagenwohnung', '•', 'Ankum', 'Ankum']]",['Balkon'],Miete zzgl. NK 690 €,Wohnfläche ca. 81 m²,Zi. 3,104,3
+17,selObject_44064097,### Schön wohnen im HERZEN der Stadt ###,"[['Etagenwohnung', '•', 'Varel', 'Varel']]",[],Miete zzgl. NK 465 €,Wohnfläche ca. 75 m²,Zi. 3,104,3
+18,selObject_44062269,Nadorst - Lehmkuhlenstraße: 2-Zimmer-Wohnung im 1....,"[['Wohnung', '•', 'Oldenburg', 'Bürgerfelde']]",['Balkon'],Miete zzgl. NK 468 €,Wohnfläche ca. 53 m²,Zi. 2,104,3
+19,selObject_44054199,Frisch renoviert - Helle Wohnung in ruhiger Lage in...,"[['Etagenwohnung', '•', 'Emden', 'Borssum/Hilmarsum']]",['Garten'],Miete zzgl. NK 450 €,Wohnfläche ca. 52 m²,Zi. 3,104,3
+20,selObject_44054197,Schöne Wohnung in zentrumsnaher Lage in Emden !!,"[['Etagenwohnung', '•', 'Emden', 'Borssum/Hilmarsum']]",['Garten'],Miete zzgl. NK 440 €,Wohnfläche ca. 52 m²,Zi. 2,104,3
+21,selObject_44054193,Renoviert - Helle Erdgeschoss-Wohnung in ruhiger Lage...,"[['Etagenwohnung', '•', 'Emden', 'Borssum/Hilmarsum']]",['Garten'],Miete zzgl. NK 450 €,Wohnfläche ca. 52 m²,Zi. 3,104,3
+22,selObject_44054195,Schöne Erdgeschoss-Wohnung in begehrter Lage in Emden,"[['Etagenwohnung', '•', 'Emden', 'Borssum/Hilmarsum']]",['Garten'],Miete zzgl. NK 450 €,Wohnfläche ca. 52 m²,Zi. 3,104,3
+23,selObject_44054185,Helle Dachgeschoss-Wohnung in zentrumsnaher Lage in...,"[['Etagenwohnung', '•', 'Emden', 'Borssum/Hilmarsum']]",['Garten'],Miete zzgl. NK 490 €,Wohnfläche ca. 62 m²,Zi. 3,104,3
+24,selObject_44054182,"Renovierte, helle Wohnung in zentrumsnaher Lage in...","[['Etagenwohnung', '•', 'Emden', 'Borssum/Hilmarsum']]",['Garten'],Miete zzgl. NK 460 €,Wohnfläche ca. 56 m²,Zi. 3,104,3
+25,selObject_44053528,# Barrierefreies Wohnen # Erdgeschoss #,"[['Kein', 'Bild'], ['Wohnung', '•', 'Schortens', 'Heidmühle']]",[],Miete zzgl. NK 560 €,Wohnfläche ca. 70 m²,Zi. 3,104,3
+26,selObject_44052044,Frisch saniert Erstbezug ! ZU SOFORT!!! 3 ZKDB Balkon,"[['Etagenwohnung', '•', 'Northeim', 'Northeim']]",['Balkon'],"Miete zzgl. NK 405,78 €",Wohnfläche ca. 68 m²,Zi. 3,104,3

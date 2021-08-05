@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_43933778,Möbliertes Zimmer im Studentenwohnheim Stay + Study,"['Etagenwohnung', '•', 'Dieburg']",['EBK'],"Miete zzgl. NK 210,38 €",Wohnfläche ca. 12 m²,Zi. 1,100,6
-1,selObject_43933742,Studenten aufgepasst!! Freie Zimmer im Stay + Study,"['Etagenwohnung', '•', 'Dieburg']",['EBK'],"Miete zzgl. NK 204,69 €",Wohnfläche ca. 13 m²,Zi. 1,100,6
-2,selObject_43933533,Alles neu!!! Schöner Wohnen: günstige 3-Zimmer-Dachges...,"['Dachgeschosswohnung', '•', 'Darmstadt', 'Darmstadt']",['EBK'],"Miete zzgl. NK 1.166,38 €",Wohnfläche ca. 93 m²,Zi. 3,100,6
-3,selObject_43933525,Sichere dir jetzt dein Zimmer im Studentenwohnheim...,"['Erdgeschosswohnung', '•', 'Dieburg']",['EBK'],"Miete zzgl. NK 188,77 €",Wohnfläche ca. 14 m²,Zi. 1,100,6
-4,selObject_43933485,2 -ZKB Top Dachausbau im Herzen von Darmstadt . Profit...,"['Dachgeschosswohnung', '•', 'Darmstadt', 'Darmstadt']",[],"Miete zzgl. NK 945,84 €",Wohnfläche ca. 65 m²,Zi. 2,100,6
-5,selObject_43933452,Sichere dir jetzt dein Zimmer im Studentenwohnheim...,"['Erdgeschosswohnung', '•', 'Dieburg']","['Balkon', 'EBK']","Miete zzgl. NK 229,24 €",Wohnfläche ca. 12 m²,Zi. 1,100,6
-6,selObject_43933443,Möbliertes Zimmer im Studentenwohnheim Stay + Study,"['Etagenwohnung', '•', 'Dieburg']",['EBK'],"Miete zzgl. NK 188,20 €",Wohnfläche ca. 14 m²,Zi. 1,100,6
-7,selObject_43933407,Hier will ich wohnen! Günstige 2-Zimmer-Wohnung mit...,"['Etagenwohnung', '•', 'Kassel', 'Waldau']",['Balkon'],"Miete zzgl. NK 496,66 €",Wohnfläche ca. 63 m²,Zi. 2,100,6
-8,selObject_43933374,"Studentenzimmer, komplett möbliert!","['Etagenwohnung', '•', 'Dieburg']","['Balkon', 'EBK']","Miete zzgl. NK 227,76 €",Wohnfläche ca. 13 m²,Zi. 1,100,6
-9,selObject_43933370,Wohn (t) raum: tolle 3-Zimmer-Wohnung mit Balkon in...,"['Etagenwohnung', '•', 'Kassel', 'Oberzwehren']",['Balkon'],"Miete zzgl. NK 519,02 €",Wohnfläche ca. 75 m²,Zi. 3,100,6
-10,selObject_43933343,Das macht strahlend gute Laune: Willkommen im neuen...,"['Etagenwohnung', '•', 'Kassel', 'Harleshausen']",[],"Miete zzgl. NK 444,75 €",Wohnfläche ca. 66 m²,Zi. 3,100,6
-11,selObject_43933286,Studenten aufgepasst!! Freie Zimmer im Stay + Study,"['Etagenwohnung', '•', 'Dieburg']",['EBK'],"Miete zzgl. NK 190,04 €",Wohnfläche ca. 12 m²,Zi. 1,100,6
-12,selObject_43933264,Möbliertes Zimmer im Studentenwohnheim Stay + Study,"['Erdgeschosswohnung', '•', 'Dieburg']",['EBK'],"Miete zzgl. NK 195,60 €",Wohnfläche ca. 14 m²,Zi. 1,100,6
-13,selObject_43933061,2 Zimmer Wohnung - WE 70 - Frankfurt - inkl. Tiefgarag...,"['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Bornheim']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 950 €,Wohnfläche ca. 51 m²,Zi. 2,100,6
-14,selObject_43933033,Top 4- Zimmer - WHG 144qm Neubau Top Lage WG geeignet...,"['Etagenwohnung', '•', 'Darmstadt', 'Darmstadt']",['Balkon'],"Miete zzgl. NK 1.545,83 €",Wohnfläche ca. 119 m²,Zi. 4,100,6
-15,selObject_43933002,Möbliertes Zimmer im Studentenwohnheim Stay + Study,"['Etagenwohnung', '•', 'Dieburg']",['EBK'],"Miete zzgl. NK 195,60 €",Wohnfläche ca. 14 m²,Zi. 1,100,6
-16,selObject_43932967,Exklusive 1 - Zimmer Wohnung - Nordend - Frankfurt -...,"['Etagenwohnung', '•', 'Frankfurt', 'am', 'Main', 'Bornheim']","['Balkon', 'EBK']",Miete zzgl. NK 695 €,Wohnfläche ca. 33 m²,Zi. 1,100,6
-17,selObject_43931805,"3 Zimmer-Wohnung, in Felsberg-Gensungen","['Dachgeschosswohnung', '•', 'Felsberg', 'Gensungen']",[],"Miete zzgl. NK 354,48 €",Wohnfläche ca. 59 m²,Zi. 3,100,6
-18,selObject_43930429,Frisch sanierte 2-Zimmer-Wohnung im schönen Biebrich,"['Etagenwohnung', '•', 'Wiesbaden', 'Biebrich']","['Balkon', 'EBK']","Miete zzgl. NK 770,70 €",Wohnfläche ca. 77 m²,Zi. 2,100,6
-19,selObject_43930034,"Sanierte, helle Wohnung mit Balkon in Wiesbaden-Biebri...","['Etagenwohnung', '•', 'Wiesbaden', 'Biebrich']",['Balkon'],"Miete zzgl. NK 763,76 €",Wohnfläche ca. 77 m²,Zi. 2,100,6
-20,selObject_43929858,"Helle, sanierte 2-Zimmer-Wohnung sucht Mieter","['Etagenwohnung', '•', 'Wiesbaden', 'Biebrich']",['Balkon'],Miete zzgl. NK 750 €,Wohnfläche ca. 77 m²,Zi. 2,100,6
-21,selObject_43921961,"2-Zimmer Studenten WG am Schillertor, nahe Uni-Campus","['Wohnung', '•', 'Kassel', 'Nord-Holland']",[],Miete zzgl. NK 660 €,Wohnfläche ca. 76 m²,Zi. 2,100,6
-22,selObject_43920793,Modernes Apartment am beliebten Merianplatz (5.0 Stern...,"['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Nordend-Ost']",['Balkon'],Miete zzgl. NK 1.130 €,Wohnfläche ca. 25 m²,Zi. 1,100,6
-23,selObject_43920786,3 Zimmer mitten in der Stadt,"['Etagenwohnung', '•', 'Kassel', 'Mitte']",['Balkon'],Miete zzgl. NK 899 €,Wohnfläche ca. 110 m²,Zi. 3,100,6
-24,selObject_43920783,Modernes Einlieger-Apartment in schönem Altbau am Holz...,"['Wohnung', '•', 'Frankfurt', 'am', 'Main']",[],Miete zzgl. NK 1.100 €,Wohnfläche ca. 30 m²,"Zi. 1,5",100,6
-25,selObject_43920782,Geschmackvoll möbliertes Apartment in bester Frankfurt...,"['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Nordend-West']",[],Miete zzgl. NK 1.030 €,Wohnfläche ca. 28 m²,Zi. 1,100,6
-26,selObject_43920779,Großzügige 1-Zimmer-Wohnung mit Balkon im Europavierte...,"['Wohnung', '•', 'Frankfurt', 'am', 'Main', 'Bockenheim']",['Balkon'],Miete zzgl. NK 1.190 €,Wohnfläche ca. 43 m²,Zi. 1,100,6
+0,selObject_43948568,Möbliertes WG-Zimmer in Frankfurt Griesheim nach Kompl...,"[['Zimmer', '•', 'Frankfurt', 'am', 'Main', 'Griesheim']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 480 €,Wohnfläche ca. 16 m²,,100,6
+1,selObject_43948567,WG Zimmer in Eschborn nah zur S Bahn zu vermieten,"[['Wohnung', '•', 'Eschborn', 'Eschborn']]","['Balkon', 'EBK']",Miete zzgl. NK 400 €,Wohnfläche ca. 15 m²,,100,6
+2,selObject_43948566,Möbliertes WG Zimmer in Frankfurt Griesheim nach Kompl...,"[['Zimmer', '•', 'Frankfurt', 'am', 'Main', 'Griesheim']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 480 €,Wohnfläche ca. 16 m²,,100,6
+3,selObject_43948546,Möbliertes WG-Zimmer in Frankfurt Griesheim (1 li) zu...,"[['Zimmer', '•', 'Frankfurt', 'am', 'Main', 'Griesheim']]","['Garten', 'EBK']",Miete zzgl. NK 500 €,Wohnfläche ca. 19 m²,,100,6
+4,selObject_43948542,"Eschborn, Lübecker Str. 5, möbliertes WG Zimmer in 3er...","[['Zimmer', '•', 'Eschborn', 'Eschborn']]",['EBK'],Miete zzgl. NK 450 €,Wohnfläche ca. 15 m²,,100,6
+5,selObject_43946474,Erstbezug nach Renovierung - Schöner Wohnen mit Pentho...,"[['Penthouse', '•', 'Viernheim']]",['Balkon'],Miete zzgl. NK 1.600 €,Wohnfläche ca. 175 m²,Zi. 3,100,6
+6,selObject_43936304,Stay+Study - Hier will ich wohnen. Freies Studentenzim...,"[['Etagenwohnung', '•', 'Dieburg']]",['EBK'],"Miete zzgl. NK 184,12 €",Wohnfläche ca. 13 m²,Zi. 1,100,6
+7,selObject_43936246,Nette Nachbarn gesucht: 3-Zimmer-Wohnung mit Balkon in...,"[['Etagenwohnung', '•', 'Kassel', 'Mitte']]",['Balkon'],"Miete zzgl. NK 725,78 €",Wohnfläche ca. 89 m²,Zi. 3,100,6
+8,selObject_43936116,So macht Wohnen Spaß: Schön geschnittene 3-Zimmer-Wohn...,"[['Etagenwohnung', '•', 'Kassel', 'Oberzwehren']]",['Balkon'],"Miete zzgl. NK 511,50 €",Wohnfläche ca. 75 m²,Zi. 3,100,6
+9,selObject_43936096,WG sucht Mitbewohner im Studentenwohnheim Stay + Study,"[['Etagenwohnung', '•', 'Dieburg']]",['EBK'],"Miete zzgl. NK 190,60 €",Wohnfläche ca. 12 m²,Zi. 1,100,6
+10,selObject_43935990,Schöne Aussichten: Genießen Sie das Leben in Ihrer...,"[['Dachgeschosswohnung', '•', 'Kassel', 'Kirchditmold']]",[],"Miete zzgl. NK 396,91 €",Wohnfläche ca. 42 m²,Zi. 3,100,6
+11,selObject_43935934,Nimm mich! Individuelle 3-Zimmer-Wohnung mit Balkon,"[['Etagenwohnung', '•', 'Kassel', 'Oberzwehren']]",['Balkon'],"Miete zzgl. NK 526,54 €",Wohnfläche ca. 75 m²,Zi. 3,100,6
+12,selObject_43935911,Sichere dir jetzt dein Zimmer im Studentenwohnheim...,"[['Etagenwohnung', '•', 'Dieburg']]",['EBK'],"Miete zzgl. NK 210,38 €",Wohnfläche ca. 12 m²,Zi. 1,100,6
+13,selObject_43935800,Studenten aufgepasst!! Freie Zimmer im Stay + Study,"[['Etagenwohnung', '•', 'Dieburg']]","['Balkon', 'EBK']","Miete zzgl. NK 229,35 €",Wohnfläche ca. 12 m²,Zi. 1,100,6
+14,selObject_43935723,Sichere dir jetzt dein Zimmer im Studentenwohnheim...,"[['Etagenwohnung', '•', 'Dieburg']]",['EBK'],"Miete zzgl. NK 210,38 €",Wohnfläche ca. 12 m²,Zi. 1,100,6
+15,selObject_43935704,Wohnglück - günstige 3-Zimmer-Wohnung mit Balkon,"[['Etagenwohnung', '•', 'Kassel', 'Waldau']]",['Balkon'],"Miete zzgl. NK 541,17 €",Wohnfläche ca. 77 m²,Zi. 3,100,6
+16,selObject_43935687,Sichere dir jetzt dein Zimmer im Studentenwohnheim...,"[['Etagenwohnung', '•', 'Dieburg']]",['EBK'],"Miete zzgl. NK 188,77 €",Wohnfläche ca. 14 m²,Zi. 1,100,6
+17,selObject_43935678,WG sucht Mitbewohner im Studentenwohnheim Stay + Study,"[['Etagenwohnung', '•', 'Dieburg']]",['EBK'],"Miete zzgl. NK 210,38 €",Wohnfläche ca. 12 m²,Zi. 1,100,6
+18,selObject_43935587,WG sucht Mitbewohner im Studentenwohnheim Stay + Study,"[['Etagenwohnung', '•', 'Dieburg']]",['EBK'],"Miete zzgl. NK 186,06 €",Wohnfläche ca. 13 m²,Zi. 1,100,6
+19,selObject_43935570,Studenten aufgepasst!! Freie Zimmer im Stay + Study,"[['Etagenwohnung', '•', 'Dieburg']]","['Balkon', 'EBK']","Miete zzgl. NK 230,15 €",Wohnfläche ca. 12 m²,Zi. 1,100,6
+20,selObject_43935418,Studenten aufgepasst!! Freie Zimmer im Stay + Study,"[['Etagenwohnung', '•', 'Dieburg']]",['EBK'],"Miete zzgl. NK 204,69 €",Wohnfläche ca. 13 m²,Zi. 1,100,6
+21,selObject_43935323,Studieren leicht gemacht! Freies Zimmer im Stay + Stud...,"[['Etagenwohnung', '•', 'Dieburg']]",['EBK'],"Miete zzgl. NK 207,31 €",Wohnfläche ca. 13 m²,Zi. 1,100,6
+22,selObject_43935284,Stay + Study - Hier will ich wohnen. Freies Studentenz...,"[['Etagenwohnung', '•', 'Dieburg']]",['EBK'],"Miete zzgl. NK 173,21 €",Wohnfläche ca. 14 m²,Zi. 1,100,6
+23,selObject_43935246,Wohn (t) raum für eine kleine Famillie - 3-Zimmer-Wohn...,"[['Erdgeschosswohnung', '•', 'Kassel', 'Bad', 'Wilhelmshöhe']]",['Balkon'],"Miete zzgl. NK 671,40 €",Wohnfläche ca. 69 m²,Zi. 3,100,6
+24,selObject_43935206,Sichere dir jetzt dein Zimmer im Studentenwohnheim...,"[['Etagenwohnung', '•', 'Dieburg']]","['Balkon', 'EBK']","Miete zzgl. NK 229,01 €",Wohnfläche ca. 12 m²,Zi. 1,100,6
+25,selObject_43935184,WG sucht Mitbewohner im Studentenwohnheim Stay + Study,"[['Etagenwohnung', '•', 'Dieburg']]",['EBK'],"Miete zzgl. NK 210,38 €",Wohnfläche ca. 12 m²,Zi. 1,100,6
+26,selObject_43935121,WG sucht Mitbewohner im Studentenwohnheim Stay + Study,"[['Etagenwohnung', '•', 'Dieburg']]",['EBK'],"Miete zzgl. NK 210,38 €",Wohnfläche ca. 12 m²,Zi. 1,100,6

@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_42159643,liebevoll sanierte Dachgeschosswohnung mit kleinem...,"['Dachgeschosswohnung', '•', 'Altenburg', 'Altenburg']",['Balkon'],Miete zzgl. NK 330 €,Wohnfläche ca. 67 m²,Zi. 2,88,16
-1,selObject_42159519,gemütliche Wohnung in ruhiger Wohnlage,"['Etagenwohnung', '•', 'Altenburg', 'Altenburg']",[],Miete zzgl. NK 210 €,Wohnfläche ca. 52 m²,Zi. 2,88,16
-2,selObject_42158776,Möbliertes Wohnen direkt am Wasser,"['Etagenwohnung', '•', 'Erfurt', 'Ilversgehofen']",['Garten'],Miete zzgl. NK 550 €,Wohnfläche ca. 25 m²,Zi. 1,88,16
-3,selObject_42151217,Supergelegenheit!! 3-Zimmer-Wohnung mit 75 m² Wfl. in...,"['Dachgeschosswohnung', '•', 'Meuselwitz', 'Meuselwitz']",[],Miete zzgl. NK 450 €,Wohnfläche ca. 75 m²,Zi. 3,88,16
-4,selObject_42149863,zentrale stilvolle Gewerbeeinheit,"['Etagenwohnung', '•', 'Gera', 'Bieblach']",['EBK'],Miete zzgl. NK 883 €,Wohnfläche ca. 178 m²,Zi. 3,88,16
-5,selObject_42149844,im Zentrum gelegene Gewerbeeinheit mit knapp 225m²,"['Etagenwohnung', '•', 'Gera', 'Bieblach']",['EBK'],Miete zzgl. NK 1.112 €,Wohnfläche ca. 225 m²,Zi. 5,88,16
-6,selObject_42134207,schicke kleine helle 2- Zimmer Wohnung mit Küche und...,"['Etagenwohnung', '•', 'Gera', 'Bieblach']","['Balkon', 'EBK']",Miete zzgl. NK 310 €,Wohnfläche ca. 52 m²,Zi. 2,88,16
-7,selObject_42110316,Charmante Dachgeschoss-Wohnung mit offener Küche und...,"['Dachgeschosswohnung', '•', 'Altenburg', 'Altenburg']",[],Miete zzgl. NK 260 €,Wohnfläche ca. 45 m²,"Zi. 1,5",88,16
-8,selObject_42092646,Wohnglück zu vermieten!,"['Etagenwohnung', '•', 'Weida']",['Balkon'],Miete zzgl. NK 325 €,Wohnfläche ca. 62 m²,Zi. 3,88,16
-9,selObject_42092222,seniorengerechte Wohnung - Barrierearm und Individuell...,"['Wohnung', '•', 'Meiningen', 'Meiningen']",['EBK'],Miete zzgl. NK 511 €,Wohnfläche ca. 51 m²,Zi. 1,88,16
-10,selObject_42069234,2-Raum-DG-WE mit Fernblick über Gera und Video! WG...,"['Dachgeschosswohnung', '•', 'Gera', 'Debschwitz']",[],Miete zzgl. NK 346 €,Wohnfläche ca. 65 m²,Zi. 2,88,16
-11,selObject_41998263,hochwertig eingerichtete Apartments in ruhiger Lage...,"['Apartment', '•', 'Erfurt', 'Gispersleben']",[],Miete inkl. NK 650 €,Wohnfläche ca. 35 m²,Zi. 1,88,16
-12,selObject_41981193,2-Raum-Wohnung mit Balkon,"['Wohnung', '•', 'Schmölln', 'Bohra']",['Balkon'],Miete zzgl. NK 315 €,Wohnfläche ca. 63 m²,Zi. 2,88,16
-13,selObject_41980350,2-Raum-WE in 07973 Greiz,"['Wohnung', '•', 'Greiz', 'Greiz']",[],"Miete zzgl. NK 311,65 €",Wohnfläche ca. 55 m²,Zi. 2,88,16
-14,selObject_41969637,"Gemütliche 2-Zi.-Mietwohnung in Meuselwitz , Thür","['Etagenwohnung', '•', 'Meuselwitz', 'Meuselwitz']",[],Miete zzgl. NK 250 €,Wohnfläche ca. 50 m²,Zi. 2,88,16
-15,selObject_41959618,3- Raum WE in 07973 Greiz,"['Dachgeschosswohnung', '•', 'Greiz', 'Greiz']",[],"Miete zzgl. NK 353,18 €",Wohnfläche ca. 69 m²,Zi. 3,88,16
-16,selObject_41956444,Der perfekte Platz zum Niederlassen!,"['Wohnung', '•', 'Gera', 'Debschwitz']",['Balkon'],Miete zzgl. NK 568 €,Wohnfläche ca. 69 m²,Zi. 2,88,16
-17,selObject_41948431,"Hübsche 2-Zimmer-Wohnung, Kachelofen als Zusatzheizung...","['Wohnung', '•', 'Gera', 'Ostviertel']",[],Miete zzgl. NK 250 €,Wohnfläche ca. 56 m²,Zi. 2,88,16
-18,selObject_41937535,Sie suchen ein friedliches Zuhause? Hier finden Sie...,"['Wohnung', '•', 'Gera', 'Bieblach']","['Balkon', 'Garten']",Miete zzgl. NK 490 €,Wohnfläche ca. 65 m²,Zi. 2,88,16
-19,selObject_41902357,1-Raum-Erdgeschoss Wohnung ideal für Singels,"['Erdgeschosswohnung', '•', 'Altenburg', 'Altenburg']",[],Miete zzgl. NK 165 €,Wohnfläche ca. 35 m²,Zi. 1,88,16
-20,selObject_41893526,3-Raumwohnung mit PKW-Stellplatz im Innenhof nahe Gera...,"['Apartment', '•', 'Gera', 'Debschwitz']",[],Miete zzgl. NK 320 €,Wohnfläche ca. 75 m²,Zi. 3,88,16
-21,selObject_41884000,"Geräumige 2 Raum-Whg. unweit der Geraer Innenstadt,...","['Wohnung', '•', 'Gera', 'Innenstadt']",[],Miete zzgl. NK 270 €,Wohnfläche ca. 60 m²,Zi. 2,88,16
-22,selObject_41883170,** 3 Zimmer Wohnung - Jobcenter geeignet **,"['Etagenwohnung', '•', 'Berga', 'Berga']",['Garten'],Miete zzgl. NK 315 €,Wohnfläche ca. 66 m²,Zi. 3,88,16
-23,selObject_41867543,Charmante 2-Raum-Wohnung! Von Grün umgeben // Tageslic...,"['Wohnung', '•', 'Gera', 'Innenstadt']",[],Miete zzgl. NK 295 €,Wohnfläche ca. 65 m²,Zi. 2,88,16
-24,selObject_41838003,Schöne 2 R- Dachgeschosswohnung in der Carlsburg/Sundh...,"['Dachgeschosswohnung', '•', 'Nordhausen', 'Sundhausen']",['Garten'],Miete zzgl. NK 325 €,Wohnfläche ca. 47 m²,Zi. 2,88,16
-25,selObject_41827637,"Wohnanlage - Katschmühle - 1 Zimmerwohnung mit 38,00...","['Wohnung', '•', 'Weida']",['Balkon'],Miete zzgl. NK 171 €,Wohnfläche ca. 38 m²,Zi. 1,88,16
-26,selObject_41802592,"***Rollstuhlgerecht*** - wunderschöne, helle 2-Zimmer-...","['Erdgeschosswohnung', '•', 'Mühlhausen', 'Mühlhausen']",['Balkon'],"Miete zzgl. NK 567,50 €",Wohnfläche ca. 85 m²,Zi. 2,88,16
+0,selObject_42417311,Idyllisch wohnen im Zentrum von Weida! Gemütliche 1...,"[['Wohnung', '•', 'Weida']]",[],Miete zzgl. NK 190 €,Wohnfläche ca. 38 m²,Zi. 1,88,16
+1,selObject_42417271,Über den Dächern von Weida! Tolle 1 Raum Wohnung mit...,"[['Dachgeschosswohnung', '•', 'Weida']]",[],Miete zzgl. NK 180 €,Wohnfläche ca. 35 m²,Zi. 1,88,16
+2,selObject_42417063,Gemütliche 2 Raum Wohnung mit Westbalkon in zentraler...,"[['Wohnung', '•', 'Gera', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 285 €,Wohnfläche ca. 58 m²,Zi. 2,88,16
+3,selObject_42416985,Gemütliche 1 Raum-Wohnung mit Wanne und sep. Küche!,"[['Wohnung', '•', 'Gera', 'Zwötzen']]",[],Miete zzgl. NK 210 €,Wohnfläche ca. 41 m²,Zi. 1,88,16
+4,selObject_42412967,Frisch Renovierte Wohnung in Ruhiger Lage,"[['Wohnung', '•', 'Kindelbrück']]",['Garten'],Miete zzgl. NK 450 €,Wohnfläche ca. 76 m²,Zi. 4,88,16
+5,selObject_42398387,MÄDELS-WG sucht neue Mitbewohnerin!!! 2 freie Zimmer!,"[['Zimmer', '•', 'Erfurt', 'Ilversgehofen']]",['EBK'],Miete zzgl. NK 190 €,Wohnfläche ca. 14 m²,,88,16
+6,selObject_42389111,Aktuelle Mietangebote: 2- und 3-Zimmer-Wohnungen in...,"[['Dachgeschosswohnung', '•', 'Zeulenroda-Triebes', 'Förthen']]",['Garten'],Miete zzgl. NK 380 €,Wohnfläche ca. 71 m²,Zi. 3,88,16
+7,selObject_42357909,2 Zimmerwohnung in Leinefelde,"[['Wohnung', '•', 'Leinefelde', 'Breitenholz']]",['Balkon'],Miete zzgl. NK 300 €,Wohnfläche ca. 51 m²,Zi. 2,88,16
+8,selObject_42344562,Ruhige Wohnlage!,"[['Etagenwohnung', '•', 'Gera', 'Lusan']]",['Balkon'],"Miete zzgl. NK 262,59 €",Wohnfläche ca. 62 m²,Zi. 3,88,16
+9,selObject_42341086,"Gro0ßzügige Wohnung mit Einbauküche, Balkon und ungewö...","[['Etagenwohnung', '•', 'Altenburg', 'Altenburg']]","['Balkon', 'EBK']",Miete zzgl. NK 657 €,Wohnfläche ca. 119 m²,Zi. 3,88,16
+10,selObject_42324933,++ Handwerker aufgepasst! ++,"[['Etagenwohnung', '•', 'Berga', 'Berga']]",['Garten'],Miete zzgl. NK 250 €,Wohnfläche ca. 49 m²,Zi. 2,88,16
+11,selObject_42276636,Sie kommen nicht mehr in die Badewanne? Hier schon!,"[['Wohnung', '•', 'Suhl', 'Suhl']]",[],"Miete zzgl. NK 380,49 €",Wohnfläche ca. 54 m²,Zi. 2,88,16
+12,selObject_42274613,Ideal mit Garten und Einbauküche !,"[['Dachgeschosswohnung', '•', 'Schmalkalden', 'Schmalkalden']]","['Garten', 'EBK']",Miete zzgl. NK 580 €,Wohnfläche ca. 84 m²,Zi. 4,88,16
+13,selObject_42256803,"Schöne 2,5-Zimmer-Wohnung mit Balkon","[['Etagenwohnung', '•', 'Eisenach', 'Eisenach']]",['Balkon'],Miete zzgl. NK 390 €,Wohnfläche ca. 66 m²,"Zi. 2,5",88,16
+14,selObject_42242384,EF - Möbliertes Apartment in Süd - ab November 2021,"[['Wohnung', '•', 'Erfurt', 'Löbervorstadt']]",['EBK'],Miete zzgl. NK 440 €,Wohnfläche ca. 32 m²,Zi. 1,88,16
+15,selObject_42239433,4-ZIMMER-WOHNUNG ++ NEU RENOVIERT ++ GLEICH EINZIEHEN,"[['Wohnung', '•', 'Greiz', 'Greiz']]",['Garten'],Miete zzgl. NK 395 €,Wohnfläche ca. 95 m²,Zi. 4,88,16
+16,selObject_42219679,Bequem mit dem Aufzug nach oben! Freundliche 2 Zimmer...,"[['Wohnung', '•', 'Gera', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 285 €,Wohnfläche ca. 57 m²,Zi. 2,88,16
+17,selObject_42219228,Seniorenfreundliche 2-Raum-Wohnung im Erdgeschoss,"[['Wohnung', '•', 'Seelingstädt', 'Seelingstädt']]",[],Miete zzgl. NK 205 €,Wohnfläche ca. 45 m²,Zi. 2,88,16
+18,selObject_42199948,2- Raum WE in 07973 Greiz,"[['Kein', 'Bild'], ['Dachgeschosswohnung', '•', 'Greiz', 'Greiz']]",[],"Miete zzgl. NK 356,42 €",Wohnfläche ca. 67 m²,Zi. 2,88,16
+19,selObject_42199829,3- Raum WE in 07973 Greiz,"[['Kein', 'Bild'], ['Wohnung', '•', 'Greiz', 'Greiz']]",[],"Miete zzgl. NK 357,17 €",Wohnfläche ca. 67 m²,Zi. 3,88,16
+20,selObject_42199827,2- Raum WE in 07973 Greiz,"[['Wohnung', '•', 'Greiz', 'Greiz']]",[],"Miete zzgl. NK 295,40 €",Wohnfläche ca. 53 m²,Zi. 2,88,16
+21,selObject_42199719,3 Raum WE in 07973 Greiz,"[['Wohnung', '•', 'Greiz', 'Greiz']]",[],"Miete zzgl. NK 324,50 €",Wohnfläche ca. 59 m²,Zi. 3,88,16
+22,selObject_42199718,3 Raum WE in 07973 Greiz,"[['Wohnung', '•', 'Greiz', 'Greiz']]",[],"Miete zzgl. NK 328,85 €",Wohnfläche ca. 60 m²,Zi. 3,88,16
+23,selObject_42199715,2- Raum WE in 07973 Greiz,"[['Kein', 'Bild'], ['Wohnung', '•', 'Greiz', 'Greiz']]",['Balkon'],"Miete zzgl. NK 252,37 €",Wohnfläche ca. 48 m²,Zi. 2,88,16
+24,selObject_42199716,2- Raum WE in 07973 Greiz,"[['Wohnung', '•', 'Greiz', 'Greiz']]",[],"Miete zzgl. NK 232,67 €",Wohnfläche ca. 44 m²,Zi. 2,88,16
+25,selObject_42182285,Dachgeschoss-Wohnung im Zentrum Mühlhausens,"[['Dachgeschosswohnung', '•', 'Mühlhausen', 'Mühlhausen']]",[],Miete zzgl. NK 550 €,Wohnfläche ca. 101 m²,Zi. 4,88,16
+26,selObject_42182284,Energiesparwohnung,"[['Wohnung', '•', 'Lengenfeld', 'unterm', 'Stein']]",['Balkon'],Miete zzgl. NK 324 €,Wohnfläche ca. 54 m²,Zi. 2,88,16

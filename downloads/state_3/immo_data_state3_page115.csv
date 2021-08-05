@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_42717052,Renovierte Obergeschosswohnung!,"['Etagenwohnung', '•', 'Dersum', 'Dersum']",[],Miete zzgl. NK 450 €,Wohnfläche ca. 80 m²,Zi. 2,115,3
-1,selObject_42717035,3-Zimmer-Wohnung mit Balkon und Garage im östlichen...,"['Erdgeschosswohnung', '•', 'Braunschweig', 'Braunschweig']","['Balkon', 'EBK']",Miete zzgl. NK 1.030 €,Wohnfläche ca. 103 m²,Zi. 3,115,3
-2,selObject_42678533,Helle 3-Zimmer-Wohnung in Stader Innenstadt,"['Etagenwohnung', '•', 'Stade', 'Stade']",['EBK'],Miete zzgl. NK 850 €,Wohnfläche ca. 100 m²,Zi. 3,115,3
-3,selObject_42665130,WG-Zimmer in Citylage von Lüneburg,"['Etagenwohnung', '•', 'Lüneburg']",[],Miete zzgl. NK 357 €,Wohnfläche ca. 26 m²,Zi. 1,115,3
-4,selObject_42665085,WG-Zimmer in Citylage von Lüneburg,"['Etagenwohnung', '•', 'Lüneburg']",[],Miete zzgl. NK 295 €,Wohnfläche ca. 21 m²,Zi. 1,115,3
-5,selObject_42665009,Modernes Cityapartment- Whg.7,"['Apartment', '•', 'Hannover', 'Südstadt']","['Balkon', 'EBK']",Miete zzgl. NK 880 €,Wohnfläche ca. 56 m²,"Zi. 1,5",115,3
-6,selObject_42664946,Barrierefreies Cityapartment -Whg. 17,"['Apartment', '•', 'Hannover', 'Südstadt']",['EBK'],Miete zzgl. NK 914 €,Wohnfläche ca. 64 m²,Zi. 2,115,3
-7,selObject_42661020,Gepflegt mit Einbauküche und Badewanne!,"['Dachgeschosswohnung', '•', 'Osnabrück', 'Dodesheide']",['EBK'],Miete zzgl. NK 600 €,Wohnfläche ca. 67 m²,"Zi. 3,5",115,3
-8,selObject_42659391,Schöne 3-Zimmer-Wohnung mit WBS,"['Apartment', '•', 'Hannover', 'Calenberger', 'Neustadt']",['Balkon'],"Miete zzgl. NK 537,62 €",Wohnfläche ca. 69 m²,Zi. 3,115,3
-9,selObject_42651856,"Große 1,5 ZKB Dachgeschosswohnung in Hage in der Nähe...","['Wohnung', '•', 'Hage', 'Hage']",[],Miete zzgl. NK 330 €,Wohnfläche ca. 35 m²,"Zi. 1,5",115,3
-10,selObject_42645742,Sanierte 2-Zimmer-Wohnung mit Balkon und Kellerraum,"['Apartment', '•', 'Göttingen', 'Weende']",['Balkon'],"Miete zzgl. NK 664,53 €",Wohnfläche ca. 78 m²,Zi. 2,115,3
-11,selObject_42640291,Wilhelmshaven *modernisierte Ferienwohnung mit Garten...,"['Wohnung', '•', 'Wilhelmshaven', 'Coldewei-Himmelreich']",[],Miete zzgl. NK 55 €,Wohnfläche ca. 60 m²,Zi. 4,115,3
-12,selObject_42626029,Helle 4 Zimmer Maisonette mit Südbalkon,"['Dachgeschosswohnung', '•', 'Wolfsburg', 'Vorsfelde']","['Balkon', 'EBK']",Miete zzgl. NK 1.220 €,Wohnfläche ca. 116 m²,Zi. 4,115,3
-13,selObject_42625885,KUNZE: 2-Zimmer Neubauwohnung in Barsinghausen!,"['Wohnung', '•', 'Barsinghausen', 'Barsinghausen']","['Balkon', 'EBK']","Miete zzgl. NK 945,97 €",Wohnfläche ca. 88 m²,Zi. 2,115,3
-14,selObject_42601921,"Schöne 3 Zimmer, Küche, Bad Wohnung in der Südstadt","['Wohnung', '•', 'Wilhelmshaven', 'Innenstadt']",[],Miete zzgl. NK 340 €,Wohnfläche ca. 68 m²,Zi. 3,115,3
-15,selObject_42600299,Dachgeschoßwohnung in bevorzugter Lage,"['Dachgeschosswohnung', '•', 'Bruchhausen-Vilsen', 'Bruchhausen-Vilsen']",['EBK'],Miete zzgl. NK 390 €,Wohnfläche ca. 65 m²,Zi. 2,115,3
-16,selObject_42599859,In der City ** 4-Zimmer-Wohnung mit Balkon ** auch...,"['Wohnung', '•', 'Varel', 'Varel']",['Balkon'],Miete zzgl. NK 695 €,Wohnfläche ca. 136 m²,Zi. 4,115,3
-17,selObject_42595441,Ferienwohnung zu vermieten!,"['Wohnung', '•', 'Vrees']",[],Miete zzgl. NK 48 €,Wohnfläche ca. 54 m²,Zi. 2,115,3
-18,selObject_42595009,"Moderne möblierte Single-Wohnung, nur für Pendler!","['Wohnung', '•', 'Vrees']",['EBK'],Miete zzgl. NK 450 €,Wohnfläche ca. 54 m²,Zi. 2,115,3
-19,selObject_42591603,Absolut zentrale Neubauwohnung in Hage,"['Erdgeschosswohnung', '•', 'Hage', 'Hage']",[],Miete zzgl. NK 490 €,Wohnfläche ca. 64 m²,Zi. 2,115,3
-20,selObject_42591601,Modern wohnen im Effizienzhaus-KfW-55+,"['Erdgeschosswohnung', '•', 'Hage', 'Hage']",[],Miete zzgl. NK 595 €,Wohnfläche ca. 80 m²,Zi. 2,115,3
-21,selObject_42562681,City Apartment,"['Apartment', '•', 'Hannover', 'Südstadt']",['EBK'],Miete zzgl. NK 960 €,Wohnfläche ca. 64 m²,Zi. 2,115,3
-22,selObject_42553925,TIPP | WG-Zimmer mit eigener Loggia inkl. aller Nebenk...,"['Wohnung', '•', 'Oldenburg', 'Bloherfelde']",[],Miete zzgl. NK 319 €,Wohnfläche ca. 14 m²,Zi. 1,115,3
-23,selObject_42548591,"Großzügige 3 Zi.-Wohnung, Maisonette","['Dachgeschosswohnung', '•', 'Neu', 'Wulmstorf', 'Elstorf']",['EBK'],Miete zzgl. NK 780 €,Wohnfläche ca. 94 m²,Zi. 3,115,3
-24,selObject_42516577,*4 Sterne* Ferienwohnung und Monteurwohnung nähe Südst...,"['Wohnung', '•', 'Wilhelmshaven', 'Innenstadt']",[],Miete zzgl. NK 60 €,Wohnfläche ca. 60 m²,Zi. 3,115,3
-25,selObject_42516560,*Nähe Südstrand*sanierte geschmackvolle Ferienwohnung,"['Erdgeschosswohnung', '•', 'Wilhelmshaven', 'Innenstadt']",['EBK'],Miete zzgl. NK 75 €,Wohnfläche ca. 85 m²,Zi. 4,115,3
-26,selObject_42507639,"Wohnen am Stadtwald in Achim-Uesen: Neubau Erstbezug,...","['Wohnung', '•', 'Achim', 'Achim']",['EBK'],Miete zzgl. NK 1.050 €,Wohnfläche ca. 101 m²,Zi. 3,115,3
+0,selObject_43045220,"IDEAL FÜR EINE 3er WG/ City! 3,5 ZKB","[['Erdgeschosswohnung', '•', 'Göttingen', 'Göttingen']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 800 €,Wohnfläche ca. 80 m²,"Zi. 3,5",115,3
+1,selObject_43043792,Schöne 2 Zimmerwohnungen in Hage - in der Nähe von...,"[['Wohnung', '•', 'Hage', 'Hage']]",[],Miete zzgl. NK 330 €,Wohnfläche ca. 38 m²,Zi. 2,115,3
+2,selObject_43025905,3 ZKB Dachgeschoßwohnung im 3 Parteienhaus,"[['Dachgeschosswohnung', '•', 'Seesen', 'Seesen']]",['EBK'],Miete zzgl. NK 350 €,Wohnfläche ca. 70 m²,Zi. 3,115,3
+3,selObject_43025491,Wohnen in Bümmerstede - 1. Obergeschoss,"[['Wohnung', '•', 'Oldenburg', 'Kreyenbrück']]",['Balkon'],Miete zzgl. NK 850 €,Wohnfläche ca. 88 m²,Zi. 3,115,3
+4,selObject_43008620,Tolle 3- Zimmer- Etagenwohnung mit Balkon,"[['Etagenwohnung', '•', 'Stadtoldendorf']]",['Balkon'],Miete zzgl. NK 315 €,Wohnfläche ca. 63 m²,Zi. 3,115,3
+5,selObject_42984521,Viel Charme und kurze Wege,"[['Maisonette', '•', 'Norden', 'Norden']]",['EBK'],Miete zzgl. NK 595 €,Wohnfläche ca. 86 m²,Zi. 3,115,3
+6,selObject_42983743,*Monteur-& Ferien Haus* für 16 Arbeiter TOP saniert!...,"[['Erdgeschosswohnung', '•', 'Jemgum', 'Midlum']]",[],Miete zzgl. NK 8 €,Wohnfläche ca. 240 m²,Zi. 8,115,3
+7,selObject_42983704,*TOP* sanierte Monteurwohnung für 9 Arbeiter,"[['Erdgeschosswohnung', '•', 'Rhauderfehn', 'Backemoor']]",['EBK'],Miete zzgl. NK 60 €,Wohnfläche ca. 150 m²,Zi. 5,115,3
+8,selObject_42983681,"*TOP* FERIENGÄSTE aufgepasst-für 12 Personen, Großfami...","[['Wohnung', '•', 'Rhauderfehn', 'Backemoor']]",['EBK'],Miete zzgl. NK 50 €,Wohnfläche ca. 160 m²,Zi. 6,115,3
+9,selObject_42983611,*TOP saniert* Ferien- & Monteurwohnung noch frei!,"[['Erdgeschosswohnung', '•', 'Jemgum', 'Midlum']]",[],Miete zzgl. NK 70 €,Wohnfläche ca. 120 m²,Zi. 4,115,3
+10,selObject_42983601,*TOP* sanierte Ferien-& Monteurwohnung für 6 Personen,"[['Erdgeschosswohnung', '•', 'Rhauderfehn', 'Backemoor']]",['EBK'],Miete zzgl. NK 50 €,Wohnfläche ca. 80 m²,Zi. 3,115,3
+11,selObject_42983599,* Ferien- & Monteurwohnung* TOP saniert mit allem was...,"[['Erdgeschosswohnung', '•', 'Jemgum', 'Midlum']]",[],Miete zzgl. NK 50 €,Wohnfläche ca. 1 m²,Zi. 2,115,3
+12,selObject_42981469,Schöne moderne Stadtwohnung in guter Zentrumslage,"[['Etagenwohnung', '•', 'Wolfenbüttel', 'Stadtgebiet']]",[],Miete zzgl. NK 590 €,Wohnfläche ca. 98 m²,Zi. 2,115,3
+13,selObject_42969108,*** Loft Appartementwohnungen in Stadtnähe von Wolfenb...,"[['Etagenwohnung', '•', 'Wolfenbüttel', 'Juliusstadt']]",[],Preis Auf Anfrage,,,115,3
+14,selObject_42954807,"Neubau-Erstbezug im KfW-40 Effizienshaus: Hochwertig,...","[['Etagenwohnung', '•', 'Harpstedt', 'Harpstedt']]","['Balkon', 'EBK']",Miete zzgl. NK 795 €,Wohnfläche ca. 111 m²,Zi. 3,115,3
+15,selObject_42954667,"Neubau-Erstbezug im KfW-40 Effizienshaus: Hochwertig,...","[['Etagenwohnung', '•', 'Harpstedt', 'Harpstedt']]","['Balkon', 'EBK']",Miete zzgl. NK 795 €,Wohnfläche ca. 111 m²,Zi. 3,115,3
+16,selObject_42954632,"Neubau-Erstbezug im KfW-40 Effizienshaus: Hochwertig,...","[['Erdgeschosswohnung', '•', 'Harpstedt', 'Harpstedt']]",['EBK'],Miete zzgl. NK 795 €,Wohnfläche ca. 111 m²,Zi. 3,115,3
+17,selObject_42954161,"*List-Bothfeld* renovierte 3,5-Zi.-Altbau-Whg. mit...","[['Etagenwohnung', '•', 'Hannover', 'List']]","['Balkon', 'EBK']",Miete zzgl. NK 980 €,Wohnfläche ca. 120 m²,"Zi. 3,5",115,3
+18,selObject_42953316,Lichtdurchflutete 2-Zimmerwohnung mit BALKON in Bad...,"[['Etagenwohnung', '•', 'Bad', 'Harzburg', 'Bad', 'Harzburg']]","['Balkon', 'EBK']",Miete zzgl. NK 509 €,Wohnfläche ca. 60 m²,Zi. 2,115,3
+19,selObject_42939899,Delmenhorst - Stickgras - gemütliche 3 Zi. im 1. OG...,"[['Etagenwohnung', '•', 'Delmenhorst', 'Bungerhof']]","['Balkon', 'EBK']","Miete zzgl. NK 627,17 €",Wohnfläche ca. 77 m²,Zi. 3,115,3
+20,selObject_42938662,3-Zim.-Wohnung mit 2 Balkonen in Bahnhofsnähe von Wolf...,"[['Etagenwohnung', '•', 'Wolfsburg', 'Innenstadt']]","['Balkon', 'EBK']",Miete zzgl. NK 979 €,Wohnfläche ca. 101 m²,Zi. 3,115,3
+21,selObject_42938482,Möbliertes Südstadt-Apartment mit hervorragenden Anbin...,"[['Apartment', '•', 'Hannover', 'Südstadt']]",[],Miete zzgl. NK 500 €,Wohnfläche ca. 30 m²,Zi. 1,115,3
+22,selObject_42924773,Viel Platz für eine Familie,"[['Maisonette', '•', 'Hannover', 'Groß', 'Buchholz']]",[],"Miete zzgl. NK 1.586,97 €",Wohnfläche ca. 147 m²,Zi. 5,115,3
+23,selObject_42892600,gemütliche Maisonette-Wohnung im Zentrum,"[['Etagenwohnung', '•', 'Twistringen', 'Twistringen']]",[],Miete zzgl. NK 360 €,,Zi. 2,115,3
+24,selObject_42878461,Neubautraum für ruhige Stunden!,"[['Etagenwohnung', '•', 'Osnabrück', 'Schinkel-Ost']]",['Balkon'],Miete zzgl. NK 700 €,Wohnfläche ca. 65 m²,Zi. 2,115,3
+25,selObject_42874661,Renovierte Dachgeschosswohnung mit Ausblick im Zentrum...,"[['Dachgeschosswohnung', '•', 'Brake', 'Brake']]",[],Miete zzgl. NK 720 €,Wohnfläche ca. 160 m²,Zi. 5,115,3
+26,selObject_42865503,Voll möblierte Singlewohnung mitten im Zentrum,"[['Etagenwohnung', '•', 'Vechta', 'Vechta']]",['EBK'],Miete zzgl. NK 410 €,Wohnfläche ca. 40 m²,Zi. 1,115,3

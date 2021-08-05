@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44620410,Kleine 2 Zimmerwohnung in gepflegtem Mehrfamilienhaus,"['Erdgeschosswohnung', '•', 'Werdau', 'Werdau']",[],Miete zzgl. NK 250 €,Wohnfläche ca. 45 m²,Zi. 2,212,14
-1,selObject_44620405,*** auf Anfrage - neu sanierte 4-5 Raum Wohnung ***,"['Etagenwohnung', '•', 'Burkhardtsdorf', 'Meinersdorf']",[],"Miete zzgl. NK 730,45 €",Wohnfläche ca. 133 m²,Zi. 4,212,14
-2,selObject_44620397,"STARK! 3-R im Zentrum mit EBK, Balkon + Stellplatz ab...","['Wohnung', '•', 'Plauen', 'Stadtmitte']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 540 €,Wohnfläche ca. 90 m²,Zi. 3,212,14
-3,selObject_44620396,Charmante Wohnung in Annaberg mit vielen Extras!,"['Etagenwohnung', '•', 'Annaberg-Buchholz', 'Annaberg']","['Balkon', 'Garten']",Miete zzgl. NK 390 €,Wohnfläche ca. 65 m²,Zi. 2,212,14
-4,selObject_44619926,Tolle 2-Raum-Wohnung im Dachgeschoss,"['Etagenwohnung', '•', 'Schwarzenberg', 'Schwarzenberg']",[],Miete zzgl. NK 330 €,Wohnfläche ca. 64 m²,Zi. 2,212,14
-5,selObject_44619790,Neu Sanierte 5-Raum Wohnung in ruhiger Lage in Chemnit...,"['Etagenwohnung', '•', 'Chemnitz', 'Gablenz']",['Balkon'],Miete zzgl. NK 635 €,Wohnfläche ca. 106 m²,Zi. 5,212,14
-6,selObject_44619626,Top Sanierte 5-Raum Wohnung für Sie in Chemnitz,"['Etagenwohnung', '•', 'Chemnitz', 'Gablenz']",['Balkon'],Miete zzgl. NK 630 €,Wohnfläche ca. 106 m²,Zi. 5,212,14
-7,selObject_44619575,RUHIG WOHNEN IM GEBÄUDEDENKMAL: Großzügige Wohnung mit...,"['Etagenwohnung', '•', 'Leipzig', 'Gohlis-Süd']",['EBK'],Miete zzgl. NK 550 €,Wohnfläche ca. 61 m²,Zi. 2,212,14
-8,selObject_44619090,DEN AUSBLICK GENIEßEN!,"['Dachgeschosswohnung', '•', 'Annaberg-Buchholz', 'Annaberg']",[],"Miete zzgl. NK 280,25 €",Wohnfläche ca. 56 m²,Zi. 2,212,14
-9,selObject_44619086,Ruhige 3 Raumwohnung in Clausnitz,"['Dachgeschosswohnung', '•', 'Rechenberg-Bienenmühle', 'Rechenberg-Bienenmühle']",[],Miete zzgl. NK 275 €,Wohnfläche ca. 65 m²,Zi. 3,212,14
-10,selObject_44619085,Ein kleines Nest! Auf Wunsch mit Küche!,"['Dachgeschosswohnung', '•', 'Wilkau-Haßlau', 'Wilkau-Haßlau']",['Garten'],Miete zzgl. NK 299 €,Wohnfläche ca. 56 m²,Zi. 2,212,14
-11,selObject_44619081,Tageslichtbad mit Dusche und Badewanne!,"['Etagenwohnung', '•', 'Wilkau-Haßlau', 'Wilkau-Haßlau']",['Garten'],Miete zzgl. NK 425 €,Wohnfläche ca. 77 m²,Zi. 3,212,14
-12,selObject_44619073,Gemütlich und gut geschnitten!,"['Dachgeschosswohnung', '•', 'Wilkau-Haßlau', 'Wilkau-Haßlau']",['Garten'],Miete zzgl. NK 395 €,Wohnfläche ca. 71 m²,Zi. 3,212,14
-13,selObject_44619071,Sonnige 3 Raumwohnung mit Balkon,"['Erdgeschosswohnung', '•', 'Annaberg-Buchholz', 'Annaberg']",['Balkon'],"Miete zzgl. NK 289,78 €",Wohnfläche ca. 57 m²,Zi. 3,212,14
-14,selObject_44619055,2 Zimmerwohnung im schönen Cranzahl!,"['Etagenwohnung', '•', 'Sehmatal-Sehma']",[],"Miete zzgl. NK 238,80 €",Wohnfläche ca. 48 m²,Zi. 2,212,14
-15,selObject_44619053,Viel Platz für Ihre Familie!,"['Etagenwohnung', '•', 'Annaberg-Buchholz', 'Annaberg']",['Balkon'],"Miete zzgl. NK 576,54 €",Wohnfläche ca. 90 m²,Zi. 5,212,14
-16,selObject_44619047,Zentral und doch im Grünen.,"['Erdgeschosswohnung', '•', 'Annaberg-Buchholz', 'Annaberg']","['Balkon', 'Garten']","Miete zzgl. NK 309,76 €",Wohnfläche ca. 60 m²,Zi. 3,212,14
-17,selObject_44619029,ERSTBEZUG NACH SANIERUNG! IM SOMMER ´21 FERTIGSTELLUNG...,"['Erdgeschosswohnung', '•', 'Annaberg-Buchholz', 'Annaberg']",[],Miete zzgl. NK 355 €,Wohnfläche ca. 74 m²,Zi. 2,212,14
-18,selObject_44619016,GEMÜTLICHE Singel-Wohnung mit Küche!!,"['Etagenwohnung', '•', 'Annaberg-Buchholz', 'Annaberg']",[],Miete zzgl. NK 230 €,Wohnfläche ca. 47 m²,Zi. 1,212,14
-19,selObject_44619010,3-Raumwohnung in 01776 Hermsdorf/Erzgebirge,"['Etagenwohnung', '•', 'Hermsdorf']",[],Miete zzgl. NK 271 €,Wohnfläche ca. 61 m²,Zi. 3,212,14
-20,selObject_44618995,MIT BALKON! 2-Raumwohnung,"['Etagenwohnung', '•', 'Drebach', 'Drebach']",['Balkon'],Miete zzgl. NK 222 €,Wohnfläche ca. 53 m²,Zi. 2,212,14
-21,selObject_44618987,Kleine gemütliche Wohnung in zentraler Lage zu vermiet...,"['Erdgeschosswohnung', '•', 'Chemnitz', 'Markersdorf']",[],"Miete zzgl. NK 220,05 €",Wohnfläche ca. 49 m²,Zi. 2,212,14
-22,selObject_44618974,5-Raumwohnung mit Balkon in 09430 Drebach!,"['Etagenwohnung', '•', 'Drebach', 'Drebach']",['Balkon'],Miete zzgl. NK 415 €,Wohnfläche ca. 99 m²,Zi. 5,212,14
-23,selObject_44618953,Schöne 2-Raum Wohnung mit tollen Ausblick in Chemnitz...,"['Etagenwohnung', '•', 'Chemnitz', 'Gablenz']",[],Miete zzgl. NK 251 €,Wohnfläche ca. 46 m²,Zi. 2,212,14
-24,selObject_44618952,Charmante 2-Raumwohnung in Chemnitz *KAUTIONSFREI anzu...,"['Etagenwohnung', '•', 'Chemnitz', 'Gablenz']",[],Miete zzgl. NK 252 €,Wohnfläche ca. 46 m²,Zi. 2,212,14
-25,selObject_44618933,Helle 2 Zi.-Wohnung im Stadtteil von Buchholz in Annab...,"['Etagenwohnung', '•', 'Annaberg-Buchholz', 'Buchholz']",[],Miete zzgl. NK 269 €,Wohnfläche ca. 61 m²,Zi. 2,212,14
-26,selObject_44618925,NEU RENOVIERT! 2-Raumwohnung in 01776 Hermsdorf/Erzgeb...,"['Etagenwohnung', '•', 'Hermsdorf']",['Garten'],Miete zzgl. NK 237 €,Wohnfläche ca. 53 m²,Zi. 2,212,14
+0,selObject_44648672,GERÄUMIGE 2 ZIMMER MIT TERRASSE IM HERZEN VON STRIESEN...,"[['Etagenwohnung', '•', 'Dresden', 'Striesen-Süd']]",['Balkon'],Miete zzgl. NK 718 €,Wohnfläche ca. 69 m²,Zi. 2,212,14
+1,selObject_44648660,3 Raum Erdgeschosswohnung in Rauschwalde ab sofort zu...,"[['Erdgeschosswohnung', '•', 'Görlitz', 'Rauschwalde']]",[],Miete zzgl. NK 285 €,Wohnfläche ca. 63 m²,Zi. 3,212,14
+2,selObject_44648501,NEU / KOMPLETT SANIERT !! TERRASSE!! ZENTRUMSNAH !!,"[['Wohnung', '•', 'Chemnitz', 'Hilbersdorf']]",['Garten'],Miete zzgl. NK 540 €,Wohnfläche ca. 85 m²,Zi. 2,212,14
+3,selObject_44648486,NEU / KOMPLETT SANIERT !! TERRASSE!! ZENTRUMSNAH !!,"[['Wohnung', '•', 'Chemnitz', 'Hilbersdorf']]",['Garten'],Miete zzgl. NK 450 €,Wohnfläche ca. 75 m²,Zi. 2,212,14
+4,selObject_44648472,Leipzig-Sellerhausen - gemütliche Single-DG-Wohnung...,"[['Dachgeschosswohnung', '•', 'Leipzig']]",[],Miete zzgl. NK 378 €,Wohnfläche ca. 54 m²,Zi. 2,212,14
+5,selObject_44648446,NEU / KOMPLETT SANIERT !! FERNBLICK !! ZENTRUMSNAH !!,"[['Wohnung', '•', 'Chemnitz', 'Hilbersdorf']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 250 €,Wohnfläche ca. 46 m²,Zi. 2,212,14
+6,selObject_44648445,NEU / KOMPLETT SANIERT !! FERNBLICK !! ZENTRUMSNAH !!,"[['Wohnung', '•', 'Chemnitz', 'Hilbersdorf']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 300 €,Wohnfläche ca. 60 m²,Zi. 2,212,14
+7,selObject_44648422,NEU / KOMPLETT SANIERT !! BALKON!!FERNBLICK !! ZENTRUM...,"[['Wohnung', '•', 'Chemnitz', 'Hilbersdorf']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 490 €,Wohnfläche ca. 85 m²,Zi. 3,212,14
+8,selObject_44648416,NEU / KOMPLETT SANIERT !! FERNBLICK !! ZENTRUMSNAH !!,"[['Wohnung', '•', 'Chemnitz', 'Hilbersdorf']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 290 €,Wohnfläche ca. 60 m²,Zi. 2,212,14
+9,selObject_44648411,EINE IST NOCH FREI !! GROSSER BALKON !! GARTEN !!...,"[['Wohnung', '•', 'Chemnitz', 'Kaßberg']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 380 €,Wohnfläche ca. 70 m²,Zi. 3,212,14
+10,selObject_44648383,TOP LAGE!! SANIERT!! GROSSER BALKON !! SEHR GUTES...,"[['Wohnung', '•', 'Chemnitz', 'Kaßberg']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 350 €,Wohnfläche ca. 65 m²,Zi. 2,212,14
+11,selObject_44648378,Leipzig-Sellerhausen - gemütliche Single-DG-Wohnung...,"[['Dachgeschosswohnung', '•', 'Leipzig']]",[],Miete zzgl. NK 273 €,Wohnfläche ca. 39 m²,Zi. 1,212,14
+12,selObject_44648332,Gemütliche Wohnung im Dachgeschoss*Bodenbelag nach...,"[['Dachgeschosswohnung', '•', 'Glauchau', 'Reinholdshain']]",['Balkon'],Miete zzgl. NK 240 €,Wohnfläche ca. 42 m²,Zi. 2,212,14
+13,selObject_44648266,Sonnenbalkon... Neues Laminat... Bad mit Fenster...,"[['Etagenwohnung', '•', 'Chemnitz', 'Kapellenberg']]",[],Miete zzgl. NK 320 €,Wohnfläche ca. 60 m²,Zi. 3,212,14
+14,selObject_44648177,"ERSTBEZUG | DENKMALPERLE | 2 Terrassen, 2 Bäder, 2...","[['Etagenwohnung', '•', 'Leipzig', 'Eutritzsch']]","['Balkon', 'Garten']",Miete zzgl. NK 2.750 €,Wohnfläche ca. 196 m²,Zi. 5,212,14
+15,selObject_44648171,ERSTBEZUG | DENKMALPERLE | möblierte EG-Wohnung mit...,"[['Erdgeschosswohnung', '•', 'Leipzig', 'Eutritzsch']]","['Garten', 'EBK']",Miete zzgl. NK 1.350 €,Wohnfläche ca. 76 m²,Zi. 2,212,14
+16,selObject_44648155,"ERSTBEZUG | DENKMALPERLE | EG-Wohnung mit Garten, Terr...","[['Erdgeschosswohnung', '•', 'Leipzig', 'Eutritzsch']]","['Garten', 'EBK']","Miete zzgl. NK 1.081,51 €",Wohnfläche ca. 76 m²,Zi. 2,212,14
+17,selObject_44648149,"ERSTBEZUG | DENKMALPERLE | Maisonette im DG, Loggia,...","[['Dachgeschosswohnung', '•', 'Leipzig', 'Eutritzsch']]",['Garten'],Miete zzgl. NK 2.250 €,Wohnfläche ca. 158 m²,Zi. 4,212,14
+18,selObject_44648016,Kleine Wohnung mit schöner Terrasse,"[['Wohnung', '•', 'Remse', 'Remse']]",['Balkon'],Miete zzgl. NK 180 €,Wohnfläche ca. 32 m²,Zi. 1,212,14
+19,selObject_44647980,"Flügelweg 56, 01454 Radeberg, 3. OG Mitte","[['Wohnung', '•', 'Radeberg', 'Radeberg']]",['Balkon'],Miete zzgl. NK 275 €,Wohnfläche ca. 50 m²,Zi. 2,212,14
+20,selObject_44647891,helle 2-Raum-Wohnung mit Einbauküche und Tiefgaragenst...,"[['Wohnung', '•', 'Waldheim', 'Waldheim']]",['EBK'],Miete zzgl. NK 190 €,Wohnfläche ca. 34 m²,Zi. 2,212,14
+21,selObject_44647524,helle EG-2-Raum-Wohnung mit Tiefgaragenstellplatz und...,"[['Wohnung', '•', 'Waldheim', 'Waldheim']]",['EBK'],Miete zzgl. NK 195 €,Wohnfläche ca. 34 m²,Zi. 2,212,14
+22,selObject_44647379,Perfekt für mich: günstig geschnittene 1-Zi.-Single-Wo...,"[['Etagenwohnung', '•', 'Dresden', 'Tolkewitz/Seidnitz-Nord']]",[],"Miete zzgl. NK 252,32 €",Wohnfläche ca. 27 m²,Zi. 1,212,14
+23,selObject_44647325,Helle 2-Zimmerwohnung mit Terrasse in ruhiger Lage,"[['Erdgeschosswohnung', '•', 'Remse', 'Remse']]",[],Miete zzgl. NK 330 €,Wohnfläche ca. 63 m²,Zi. 2,212,14
+24,selObject_44647315,Kleine 1 Zimmerwohnung in ruhiger Wohnlage!,"[['Etagenwohnung', '•', 'Dresden', 'Tolkewitz/Seidnitz-Nord']]",[],Miete zzgl. NK 253 €,Wohnfläche ca. 27 m²,Zi. 1,212,14
+25,selObject_44647308,3 Zimmer auf dem Sonnenberg,"[['Etagenwohnung', '•', 'Chemnitz', 'Sonnenberg']]",['Garten'],Miete zzgl. NK 280 €,Wohnfläche ca. 69 m²,Zi. 3,212,14
+26,selObject_44647307,Geräumige 3-Raumwohnung mit Balkon in Zentrumsnähe,"[['Etagenwohnung', '•', 'Chemnitz', 'Hilbersdorf']]","['Balkon', 'Garten']",Miete zzgl. NK 345 €,Wohnfläche ca. 72 m²,Zi. 3,212,14

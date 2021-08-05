@@ -1,27 +1,27 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_45027975,NEU Große Maisonette-Wohnung 140 m² in Oranienburg am Lehn...,"['Dachgeschosswohnung', '•', 'Oranienburg', 'Oranienburg']","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 1.250 €,Wohnfläche ca. 140 m²,Zi. 6,1,12
-1,selObject_45027927,NEU Gemütliche teilsanierte Singlewohnung mit Balkon und...,"['Etagenwohnung', '•', 'Cottbus', 'Spremberger', 'Vorstadt']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 268 €,Wohnfläche ca. 39 m²,Zi. 1,1,12
-2,selObject_45026805,NEU Helle 2-Raum-Wohnung mit Balkon in Bahnhofsnähe,"['Etagenwohnung', '•', 'Cottbus', 'Spremberger', 'Vorstadt']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 315 €,Wohnfläche ca. 50 m²,Zi. 2,1,12
-3,selObject_45026677,NEU Altersgerechte 2-Zimmerwohnung mit Gartenanteil in...,"['Etagenwohnung', '•', 'Potsdam', 'Babelsberg', 'Süd']","['NEU', 'NEU', 'Balkon', 'Garten', 'EBK']",Miete zzgl. NK 760 €,Wohnfläche ca. 59 m²,Zi. 2,1,12
-4,selObject_45026401,NEU Exklusive 2-Raum-Wohnung mit Terrasse in der perfekten...,"['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 945 €,Wohnfläche ca. 90 m²,Zi. 2,1,12
-5,selObject_45026358,NEU Exklusive 3-Raum-Wohnung mit Terrasse in der perfekten...,"['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 1.135 €,Wohnfläche ca. 108 m²,Zi. 3,1,12
-6,selObject_45026269,NEU Dachgeschosswohnung mit Terrasse in zentraler Lage von...,"['Dachgeschosswohnung', '•', 'Cottbus', 'Mitte']","['NEU', 'NEU']",Miete zzgl. NK 693 €,Wohnfläche ca. 77 m²,Zi. 3,1,12
-7,selObject_45025909,NEU Erstbezug in schöner 2 Raum-Wohnung mit Gartenanteil...,"['Erdgeschosswohnung', '•', 'Neuruppin']","['NEU', 'NEU', 'Garten']",Miete zzgl. NK 925 €,Wohnfläche ca. 73 m²,Zi. 2,1,12
-8,selObject_45025506,NEU Mögliche Zwei 3-Zimmer- Wohnungen in der Berlin / Luck...,"['Etagenwohnung', '•', 'Luckenwalde', 'Luckenwalde']","['NEU', 'NEU']",Miete zzgl. NK 840 €,Wohnfläche ca. 84 m²,Zi. 3,1,12
-9,selObject_45025449,NEU Morgen schon einziehen...,"['Wohnung', '•', 'Lauchhammer', 'Lauchhammer']","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 342 €,Wohnfläche ca. 60 m²,Zi. 3,1,12
-10,selObject_45024914,NEU 3-Raum-Wohnung im 1. OG mit Balkon,"['Etagenwohnung', '•', 'Klettwitz']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 420 €,Wohnfläche ca. 84 m²,Zi. 3,1,12
-11,selObject_45024862,"NEU Große, helle 3-Zimmer Wohnung mit 2 Balkonen mit Südbl...","['Etagenwohnung', '•', 'Cottbus', 'Mitte']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 800 €,Wohnfläche ca. 107 m²,Zi. 3,1,12
-12,selObject_45024802,"NEU Schöne 2-Raumwohnung, 2. Obergeschoss rechts, mit Blic...","['Etagenwohnung', '•', 'Lauchhammer', 'Lauchhammer']","['NEU', 'NEU']",Miete zzgl. NK 238 €,Wohnfläche ca. 48 m²,Zi. 2,1,12
-13,selObject_45024353,NEU Schicke 3-Raum-Wohnung,"['Etagenwohnung', '•', 'Brandenburg', 'Hohenstücken']","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 394 €,Wohnfläche ca. 69 m²,Zi. 3,1,12
-14,selObject_45024320,NEU Wohnen auf dem Lande,"['Erdgeschosswohnung', '•', 'Potsdam', 'Kartzow']","['NEU', 'NEU']","Miete zzgl. NK 352,10 €",Wohnfläche ca. 50 m²,Zi. 2,1,12
-15,selObject_45024024,NEU 2 und 3 Raum Wohnungen im sanierten Altbau in Prenzlau...,"['Erdgeschosswohnung', '•', 'Prenzlau', 'Prenzlau']","['NEU', 'NEU', 'Garten', 'EBK']",Miete zzgl. NK 628 €,Wohnfläche ca. 90 m²,Zi. 3,1,12
-16,selObject_45023878,"NEU Gemütliche 2 Raumwohnung, im 1. Obergeschoss rechts, ...","['Etagenwohnung', '•', 'Lauchhammer', 'Lauchhammer']","['NEU', 'NEU']",Miete zzgl. NK 238 €,Wohnfläche ca. 48 m²,Zi. 1,1,12
-17,selObject_45023826,NEU Wohlfühlen leicht gemacht! Schöne 3 Zimmerwohnung mit...,"['Etagenwohnung', '•', 'Lauchhammer', 'Lauchhammer']","['NEU', 'NEU']",Miete zzgl. NK 319 €,Wohnfläche ca. 58 m²,Zi. 3,1,12
-18,selObject_45023444,NEU Ruhige Wohnung in Görden?! **Besichtigung: Sa.: 07.08....,"['Etagenwohnung', '•', 'Brandenburg', 'Görden']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 412 €,Wohnfläche ca. 59 m²,Zi. 3,1,12
-19,selObject_45023443,NEU Ruhige Wohnung in Brandenburg?! **Besichtigung: Sa.:...,"['Etagenwohnung', '•', 'Brandenburg', 'Görden']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 412 €,Wohnfläche ca. 59 m²,Zi. 3,1,12
-20,selObject_45023442,NEU Schöne 1-Zimmer-Whg in Brandenburg a.d.H.! **Besichtig...,"['Etagenwohnung', '•', 'Brandenburg', 'Altstadt']","['NEU', 'NEU', 'EBK']",Miete zzgl. NK 270 €,Wohnfläche ca. 39 m²,Zi. 1,1,12
-21,selObject_45023385,"NEU Da ist sie, Ihre neue 2 Zimmer Wohnung im Erdgeschoss...","['Etagenwohnung', '•', 'Lauchhammer', 'Lauchhammer']","['NEU', 'NEU']",Miete zzgl. NK 259 €,Wohnfläche ca. 47 m²,Zi. 2,1,12
-22,selObject_45023381,NEU Attraktive 3-Zimmer Wohnung in begehrter Wohnlage,"['Etagenwohnung', '•', 'Brandenburg', 'Dom']","['NEU', 'NEU', 'Balkon', 'EBK']",Miete zzgl. NK 950 €,Wohnfläche ca. 90 m²,Zi. 3,1,12
-23,selObject_45023280,NEU Modernes Wohnen in der Altstadt,"['Etagenwohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']","['NEU', 'NEU']",Miete zzgl. NK 498 €,Wohnfläche ca. 86 m²,Zi. 4,1,12
-24,selObject_45023050,"NEU 2 Zimmer Wohnung, 1. Obergeschoss, in einer ruhigen,...","['Etagenwohnung', '•', 'Lauchhammer', 'Lauchhammer']","['NEU', 'NEU']",Miete zzgl. NK 242 €,Wohnfläche ca. 49 m²,Zi. 2,1,12
-25,selObject_45022875,NEU Sichert euch jetzt Eure neue 4-Zimmer-Wohnung im grüne...,"['Etagenwohnung', '•', 'Cottbus', 'Ströbitz']","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 450,92 €",Wohnfläche ca. 65 m²,Zi. 4,1,12
+0,selObject_45045365,"NEU WBG - 1-RWE klein, aber fein!","[['Etagenwohnung', '•', 'Brandenburg', 'Hohenstücken']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 131,65 €",Wohnfläche ca. 29 m²,Zi. 1,1,12
+1,selObject_45045308,NEU jetzt besichtigen - Einzug am 01.10.2021,"[['Etagenwohnung', '•', 'Cottbus', 'Sachsendorf']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 310,85 €",Wohnfläche ca. 59 m²,Zi. 3,1,12
+2,selObject_45045307,NEU Frisch für Sie saniert!,"[['Etagenwohnung', '•', 'Cottbus', 'Schmellwitz']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 301,46 €",Wohnfläche ca. 57 m²,Zi. 3,1,12
+3,selObject_45045305,NEU Nachmieter zum 01.08.2021 werden!,"[['Etagenwohnung', '•', 'Cottbus', 'Sachsendorf']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 259,96 €",Wohnfläche ca. 48 m²,Zi. 2,1,12
+4,selObject_45045306,NEU ALLES neu! Einziehen - wohlfühlen,"[['Etagenwohnung', '•', 'Cottbus', 'Sachsendorf']]","['NEU', 'NEU']","Miete zzgl. NK 262,96 €",Wohnfläche ca. 48 m²,Zi. 1,1,12
+5,selObject_45045304,NEU Die erste eigene Wohnung ist frisch saniert!,"[['Etagenwohnung', '•', 'Cottbus', 'Schmellwitz']]","['NEU', 'NEU']","Miete zzgl. NK 193,12 €",Wohnfläche ca. 30 m²,Zi. 1,1,12
+6,selObject_45045303,NEU Jetzt schnell sein und Nachmieter werden!,"[['Etagenwohnung', '•', 'Cottbus', 'Sandow']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 314,34 €",Wohnfläche ca. 51 m²,Zi. 2,1,12
+7,selObject_45045302,NEU Wenige Stufen in die frisch sanierte Wohnung!,"[['Etagenwohnung', '•', 'Cottbus', 'Sachsendorf']]","['NEU', 'NEU']","Miete zzgl. NK 261,07 €",Wohnfläche ca. 47 m²,Zi. 2,1,12
+8,selObject_45045301,NEU Schöne Wohnung zum kleinen Preis,"[['Etagenwohnung', '•', 'Cottbus', 'Schmellwitz']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 317,53 €",Wohnfläche ca. 62 m²,Zi. 3,1,12
+9,selObject_45045300,NEU Dem Zentrum so nah und doch ruhig gelegen!,"[['Erdgeschosswohnung', '•', 'Cottbus', 'Ströbitz']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 309,33 €",Wohnfläche ca. 51 m²,Zi. 2,1,12
+10,selObject_45045299,"NEU schlicht, einfach, gut","[['Etagenwohnung', '•', 'Cottbus', 'Schmellwitz']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 298,85 €",Wohnfläche ca. 62 m²,Zi. 3,1,12
+11,selObject_45045298,NEU Sanierte Wohnung mit Blick ins Grüne,"[['Etagenwohnung', '•', 'Cottbus', 'Schmellwitz']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 329,98 €",Wohnfläche ca. 62 m²,Zi. 3,1,12
+12,selObject_45045297,NEU Hier ist Ihre neue Wohnung!,"[['Etagenwohnung', '•', 'Cottbus', 'Schmellwitz']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 270,95 €",Wohnfläche ca. 40 m²,Zi. 2,1,12
+13,selObject_45045295,NEU tolle kleine Wohnung,"[['Etagenwohnung', '•', 'Cottbus', 'Sachsendorf']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 264,77 €",Wohnfläche ca. 48 m²,Zi. 2,1,12
+14,selObject_45045294,NEU Einzugsbereit!,"[['Etagenwohnung', '•', 'Cottbus', 'Schmellwitz']]","['NEU', 'NEU']","Miete zzgl. NK 380,43 €",Wohnfläche ca. 72 m²,Zi. 4,1,12
+15,selObject_45045293,NEU ALLES neu! Einziehen - wohlfühlen,"[['Etagenwohnung', '•', 'Cottbus', 'Sachsendorf']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 314,71 €",Wohnfläche ca. 57 m²,Zi. 3,1,12
+16,selObject_45045292,"NEU kommen, staunen, einziehen","[['Etagenwohnung', '•', 'Cottbus', 'Schmellwitz']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 318,32 €",Wohnfläche ca. 60 m²,Zi. 3,1,12
+17,selObject_45045284,NEU Große Wohnung für den kleinen Geldbeutel!,"[['Etagenwohnung', '•', 'Cottbus', 'Schmellwitz']]","['NEU', 'NEU', 'Balkon']",Miete zzgl. NK 370 €,Wohnfläche ca. 74 m²,Zi. 4,1,12
+18,selObject_45045282,NEU Noch im Sommer einziehen!,"[['Etagenwohnung', '•', 'Cottbus', 'Sachsendorf']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 303,27 €",Wohnfläche ca. 57 m²,Zi. 3,1,12
+19,selObject_45045283,NEU Wohnung mit Einbauküche sucht Nachmieter!,"[['Etagenwohnung', '•', 'Cottbus', 'Schmellwitz']]","['NEU', 'NEU', 'EBK']","Miete zzgl. NK 380,43 €",Wohnfläche ca. 72 m²,Zi. 4,1,12
+20,selObject_45045281,NEU Wohnung TOP / Möbel + Einbauküche TOP + kostenfrei,"[['Etagenwohnung', '•', 'Cottbus', 'Sachsendorf']]","['NEU', 'NEU', 'Balkon', 'EBK']","Miete zzgl. NK 340,17 €",Wohnfläche ca. 59 m²,Zi. 3,1,12
+21,selObject_45045280,"NEU schlicht und einfach, ABER gut","[['Etagenwohnung', '•', 'Cottbus', 'Schmellwitz']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 309,30 €",Wohnfläche ca. 62 m²,Zi. 3,1,12
+22,selObject_45045279,"NEU NEU, NEU, NEU, alles NEU","[['Etagenwohnung', '•', 'Cottbus', 'Schmellwitz']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 388,38 €",Wohnfläche ca. 73 m²,Zi. 4,1,12
+23,selObject_45045278,NEU Enorm viel NEUE Wohnfläche,"[['Etagenwohnung', '•', 'Cottbus', 'Schmellwitz']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 749,43 €",Wohnfläche ca. 136 m²,Zi. 8,1,12
+24,selObject_45045276,NEU Nur wenige Stufen bis in die neue Wohnung!,"[['Etagenwohnung', '•', 'Cottbus', 'Schmellwitz']]","['NEU', 'NEU', 'Balkon', 'EBK']","Miete zzgl. NK 313,72 €",Wohnfläche ca. 57 m²,Zi. 3,1,12
+25,selObject_45045275,NEU Große Wohnung zum kleinen Preis!,"[['Etagenwohnung', '•', 'Cottbus', 'Schmellwitz']]","['NEU', 'NEU', 'Balkon']","Miete zzgl. NK 366,18 €",Wohnfläche ca. 72 m²,Zi. 4,1,12

@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44876036,"2 Zimmer-Dachgeschoßwohnung, (WE 18) Küche, Bad, Balko...","['Dachgeschosswohnung', '•', 'Bad', 'Lobenstein', 'Lobenstein']",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 51 m²,Zi. 2,30,16
-1,selObject_44875996,3-Raum-Whg. mit funktionalem Grundriss #WG tauglich,"['Wohnung', '•', 'Hermsdorf']","['Balkon', 'EBK']",Miete zzgl. NK 330 €,Wohnfläche ca. 59 m²,Zi. 3,30,16
-2,selObject_44875790,Günstige 3RW mit toller Aussicht zu vermieten,"['Wohnung', '•', 'Sömmerda', 'Sömmerda']",['Balkon'],Miete zzgl. NK 287 €,Wohnfläche ca. 52 m²,Zi. 3,30,16
-3,selObject_44875788,Altengerechte und sanierte Erdgeschosswohnung,"['Erdgeschosswohnung', '•', 'Sömmerda', 'Sömmerda']",['Balkon'],Miete zzgl. NK 324 €,Wohnfläche ca. 51 m²,Zi. 2,30,16
-4,selObject_44875783,Praktische 2-Raumwohnung günstig zu vermieten,"['Wohnung', '•', 'Sömmerda', 'Sömmerda']",[],Miete zzgl. NK 261 €,Wohnfläche ca. 47 m²,Zi. 2,30,16
-5,selObject_44875561,Wohnung in Römhild,"['Erdgeschosswohnung', '•', 'Römhild', 'Römhild']",[],Miete zzgl. NK 420 €,Wohnfläche ca. 70 m²,Zi. 1,30,16
-6,selObject_44875512,KAUTIONSFREI* anmieten- Schicke Singlewohnung,"['Etagenwohnung', '•', 'Eisenach', 'Eisenach']",[],Miete zzgl. NK 205 €,Wohnfläche ca. 37 m²,Zi. 1,30,16
-7,selObject_44875510,KAUTIONSFREI anmieten- 1-Raumwohnung in Eisenach,"['Etagenwohnung', '•', 'Eisenach', 'Eisenach']",['Balkon'],Miete zzgl. NK 155 €,Wohnfläche ca. 31 m²,Zi. 1,30,16
-8,selObject_44875116,Umzugskartons packen und los!,"['Wohnung', '•', 'Gera', 'Lusan']",['Balkon'],Miete zzgl. NK 351 €,Wohnfläche ca. 69 m²,Zi. 3,30,16
-9,selObject_44875105,1 - Raum - Wohnung im Herzen der Altstadt zu vermieten,"['Wohnung', '•', 'Weimar', 'Altstadt']",['EBK'],Miete zzgl. NK 390 €,Wohnfläche ca. 37 m²,Zi. 1,30,16
-10,selObject_44873850,Tolle 2-Raum-Wohnung in der Greizer Neustadt gegenüber...,"['Apartment', '•', 'Greiz', 'Greiz']","['Garten', 'EBK']",Miete zzgl. NK 249 €,Wohnfläche ca. 50 m²,Zi. 2,30,16
-11,selObject_44873662,Setzen Sie sich ins gemachte Nest!!!,"['Wohnung', '•', 'Gera', 'Bieblach']",[],Miete inkl. NK 350 €,Wohnfläche ca. 30 m²,Zi. 1,30,16
-12,selObject_44873040,"Klein, aber fein!! Helle 2-Raum-Wohnung in Greiz in...","['Apartment', '•', 'Greiz', 'Greiz']","['Garten', 'EBK']",Miete zzgl. NK 205 €,Wohnfläche ca. 40 m²,Zi. 2,30,16
-13,selObject_44872319,Am Schlosspark - einzigartige 4-Zi-Maisonette-Wohnung...,"['Maisonette', '•', 'Gotha', 'Gotha']","['Balkon', 'EBK']",Miete zzgl. NK 1.480 €,Wohnfläche ca. 148 m²,Zi. 4,30,16
-14,selObject_44867822,1-Zimmer-Wohnung ab 01.09.2021 in Weimar zu vermieten,"['Wohnung', '•', 'Weimar', 'Oberweimar']",['EBK'],Miete zzgl. NK 300 €,Wohnfläche ca. 29 m²,Zi. 1,30,16
-15,selObject_44867382,KAUTIONSFREI* anmieten! Frisch sanierte Familienwohnun...,"['Etagenwohnung', '•', 'Eisenach', 'Eisenach']",['Balkon'],Miete zzgl. NK 320 €,Wohnfläche ca. 60 m²,Zi. 3,30,16
-16,selObject_44867375,KAUTIONSFREI* mit Sommerbonus anmieten- 3-Raumwohnung,"['Etagenwohnung', '•', 'Eisenach', 'Eisenach']",['Balkon'],Miete zzgl. NK 300 €,Wohnfläche ca. 60 m²,Zi. 3,30,16
-17,selObject_44867291,schicke helle und sanierte 3- Zimmer Wohnung,"['Dachgeschosswohnung', '•', 'Gera', 'Bieblach']",[],Miete zzgl. NK 320 €,Wohnfläche ca. 64 m²,Zi. 3,30,16
-18,selObject_44867220,Hinter dieser Tür wartet Ihr neues Zuhause auf Sie!*,"['Etagenwohnung', '•', 'Gera', 'Lusan']",['Balkon'],Miete zzgl. NK 340 €,Wohnfläche ca. 69 m²,Zi. 3,30,16
-19,selObject_44866937,"Schöne gemütliche 2,5-Raum-Wohnung im DG","['Wohnung', '•', 'Arnstadt', 'Arnstadt']",[],Miete zzgl. NK 349 €,Wohnfläche ca. 58 m²,Zi. 3,30,16
-20,selObject_44866447,Familienfreundliche 3RW in der Erfurter Krämpfervorsta...,"['Etagenwohnung', '•', 'Erfurt', 'Andreasvorstadt']",[],Miete zzgl. NK 585 €,Wohnfläche ca. 65 m²,Zi. 3,30,16
-21,selObject_44866329,2x Zimmer in Studenten-WG,"['Zimmer', '•', 'Jena', 'Süd']",['EBK'],Miete zzgl. NK 300 €,Wohnfläche ca. 15 m²,,30,16
-22,selObject_44866307,Hübsche 2-Zimmer-Maisonette in Auma zu vermieten,"['Dachgeschosswohnung', '•', 'Auma-Weidatal', 'Göhren-Döhlen']",[],Miete zzgl. NK 310 €,Wohnfläche ca. 61 m²,Zi. 2,30,16
-23,selObject_44864738,3-Raum-Wohnung mit Blick ins Grüne,"['Wohnung', '•', 'Bad', 'Lobenstein', 'Lobenstein']",[],Miete zzgl. NK 315 €,Wohnfläche ca. 57 m²,Zi. 3,30,16
-24,selObject_44864673,Renovierte Erdgeschosswohnung mit 4 Zimmern und Balkon...,"['Wohnung', '•', 'Bad', 'Lobenstein', 'Lobenstein']",['Balkon'],Miete zzgl. NK 389 €,Wohnfläche ca. 68 m²,Zi. 4,30,16
-25,selObject_44864551,Außergewöhnliche 3-Raum-Wohnung in der Altstadt von...,"['Etagenwohnung', '•', 'Erfurt', 'Erfurt-Altstadt']",[],Miete zzgl. NK 700 €,Wohnfläche ca. 89 m²,Zi. 3,30,16
-26,selObject_44864549,Attraktive 3-Raum-Wohnung zu vermieten,"['Wohnung', '•', 'Bad', 'Lobenstein', 'Lobenstein']",[],Miete zzgl. NK 315 €,Wohnfläche ca. 56 m²,Zi. 3,30,16
+0,selObject_44904994,4- Raum - Wohnung Dachgeschoss mit Balkon,"[['Dachgeschosswohnung', '•', 'Judenbach', 'Judenbach']]",['Balkon'],Miete zzgl. NK 430 €,Wohnfläche ca. 88 m²,Zi. 4,30,16
+1,selObject_44904990,"1,5-Zimmer-Wohnung in ruhiger Lage","[['Erdgeschosswohnung', '•', 'Greiz', 'Greiz']]",[],Miete zzgl. NK 168 €,Wohnfläche ca. 28 m²,"Zi. 1,5",30,16
+2,selObject_44904958,barrierefrei wohnen in Sömmerda,"[['Apartment', '•', 'Sömmerda', 'Sömmerda']]","['Balkon', 'Garten']",Miete zzgl. NK 522 €,Wohnfläche ca. 58 m²,Zi. 2,30,16
+3,selObject_44904947,4 Raum Wohnung Gera barrierefrei mit Aufzug WE 202/203...,"[['Wohnung', '•', 'Gera', 'Debschwitz']]",[],"Miete zzgl. NK 448,75 €",Wohnfläche ca. 90 m²,Zi. 4,30,16
+4,selObject_44904681,3- Raumwohnung in Meuselbach,"[['Kein', 'Bild'], ['Wohnung', '•', 'Meuselbach-Schwarzmühle', 'Meuselbach']]",[],Miete zzgl. NK 432 €,Wohnfläche ca. 88 m²,Zi. 3,30,16
+5,selObject_44904079,Wohnen in der grünen Stadt - 2-Raum-Wohnung in Ronnebu...,"[['Wohnung', '•', 'Ronneburg', 'Ronneburg']]",[],Miete zzgl. NK 238 €,Wohnfläche ca. 48 m²,Zi. 2,30,16
+6,selObject_44903755,Wohnen in der grünen Stadt - 2-Raum-Wohnung in Ronnebu...,"[['Wohnung', '•', 'Ronneburg', 'Ronneburg']]",[],"Miete zzgl. NK 290,18 €",Wohnfläche ca. 53 m²,Zi. 2,30,16
+7,selObject_44903654,2 Raumwohnung sucht Nachmieter!,"[['Etagenwohnung', '•', 'Erfurt', 'Ilversgehofen']]",[],"Miete zzgl. NK 333,71 €",Wohnfläche ca. 39 m²,Zi. 2,30,16
+8,selObject_44903604,Familienfreundliche Wohnung am Zoo!,"[['Etagenwohnung', '•', 'Erfurt', 'Roter', 'Berg']]",['Balkon'],"Miete zzgl. NK 441,96 €",Wohnfläche ca. 61 m²,Zi. 3,30,16
+9,selObject_44903516,Sonnige Wohnung mit Option EBK wartet auf neuen Mieter,"[['Wohnung', '•', 'Arnstadt', 'Arnstadt']]",['Balkon'],Miete zzgl. NK 390 €,Wohnfläche ca. 63 m²,Zi. 2,30,16
+10,selObject_44903142,(13110_04) MGN: 2-Zimmer-Wohnung mit Parkett und Einba...,"[['Wohnung', '•', 'Meiningen', 'Meiningen']]",[],Miete zzgl. NK 330 €,Wohnfläche ca. 63 m²,Zi. 2,30,16
+11,selObject_44902459,Gemütliche 2-Raum-Wohnung im Herzen von Debschwitz,"[['Wohnung', '•', 'Gera', 'Debschwitz']]",['Balkon'],Miete zzgl. NK 270 €,Wohnfläche ca. 49 m²,Zi. 2,30,16
+12,selObject_44901647,ATLAS IMMOBILIEN: Exklusive Wohnung mit Balkon und...,"[['Etagenwohnung', '•', 'Erfurt', 'Andreasvorstadt']]","['Balkon', 'Garten', 'EBK']","Miete zzgl. NK 1.189,50 €",Wohnfläche ca. 122 m²,Zi. 4,30,16
+13,selObject_44899108,"Fernblick, Einbauküche und Garage/Stellplatz! Geräumig...","[['Dachgeschosswohnung', '•', 'Gera', 'Ostviertel']]",['EBK'],Miete zzgl. NK 250 €,Wohnfläche ca. 45 m²,Zi. 1,30,16
+14,selObject_44897924,2-Raum-Wohnung direkt am Park zu vermieten,"[['Wohnung', '•', 'Weimar', 'Parkvorstadt']]",[],Miete zzgl. NK 400 €,Wohnfläche ca. 49 m²,Zi. 2,30,16
+15,selObject_44897778,"2 -Raum-Wohnung mit Einbauküche, Terrasse, Wanne,SP...","[['Wohnung', '•', 'Erfurt', 'Andreasvorstadt']]",['EBK'],Miete zzgl. NK 420 €,Wohnfläche ca. 40 m²,Zi. 2,30,16
+16,selObject_44897672,Oberhof ist auch im Sommer schön!,"[['Wohnung', '•', 'Oberhof']]",[],"Miete zzgl. NK 303,90 €",Wohnfläche ca. 48 m²,Zi. 2,30,16
+17,selObject_44897651,"Renovierte 3 RW mit EBK, Balkon und Garage!","[['Wohnung', '•', 'Eisenberg', 'Eisenberg']]","['Balkon', 'EBK']",Miete zzgl. NK 379 €,Wohnfläche ca. 68 m²,Zi. 3,30,16
+18,selObject_44897650,moderne 2-Raum-Wohnung mit großer Dachterrasse im Zent...,"[['Etagenwohnung', '•', 'Eisenach', 'Eisenach']]",['Balkon'],Miete zzgl. NK 470 €,Wohnfläche ca. 71 m²,Zi. 2,30,16
+19,selObject_44897636,Mit dem Aufzug hinauf zur Wohnung,"[['Etagenwohnung', '•', 'Erfurt', 'Krämpfervorstadt']]",[],Miete zzgl. NK 535 €,Wohnfläche ca. 54 m²,Zi. 2,30,16
+20,selObject_44897592,Große 3-Raumwohnung sucht neuen Mieter mit Wohnberecht...,"[['Wohnung', '•', 'Erfurt', 'Berliner', 'Platz']]",['Balkon'],Miete zzgl. NK 392 €,Wohnfläche ca. 74 m²,Zi. 3,30,16
+21,selObject_44897572,***Gemütliche 2-Raumwohnung mit Einbauküche in zentral...,"[['Etagenwohnung', '•', 'Ilmenau', 'Ilmenau']]",['EBK'],Miete zzgl. NK 460 €,Wohnfläche ca. 54 m²,Zi. 2,30,16
+22,selObject_44897391,Neuwertige 4 Raum Wohnung! Bad mit Wanne und Dusche!...,"[['Etagenwohnung', '•', 'Gera', 'Ostviertel']]",[],Miete zzgl. NK 600 €,Wohnfläche ca. 102 m²,Zi. 4,30,16
+23,selObject_44897327,Ihr neues Zuhause in Ebersdorf,"[['Wohnung', '•', 'Saalburg-Ebersdorf', 'Ebersdorf']]",[],Miete zzgl. NK 275 €,Wohnfläche ca. 58 m²,Zi. 3,30,16
+24,selObject_44897245,2-Zimmer im Grünen - Werra-Suhl-Tal,"[['Wohnung', '•', 'Berka', 'Herda']]",[],Miete zzgl. NK 265 €,Wohnfläche ca. 45 m²,Zi. 2,30,16
+25,selObject_44896999,...Wohnen in Campus-Nähe!,"[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Schmalkalden', 'Schmalkalden']]","['Garten', 'EBK']",Miete zzgl. NK 340 €,Wohnfläche ca. 57 m²,Zi. 2,30,16
+26,selObject_44896943,Schöne 3-Raum-Wohnung,"[['Etagenwohnung', '•', 'Römhild', 'Mendhausen']]",[],"Miete zzgl. NK 272,32 €",Wohnfläche ca. 59 m²,Zi. 3,30,16

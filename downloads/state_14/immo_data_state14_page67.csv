@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44952976,1-Zimmer-Single-Wohnung,"['Etagenwohnung', '•', 'Dresden', 'Gorbitz-Süd']",[],Miete zzgl. NK 166 €,Wohnfläche ca. 27 m²,Zi. 1,67,14
-1,selObject_44952972,1-Zimmerwohnung im Herzen von Prohlis!,"['Etagenwohnung', '•', 'Dresden', 'Prohlis-Nord']",[],Miete zzgl. NK 175 €,Wohnfläche ca. 27 m²,Zi. 1,67,14
-2,selObject_44952971,"Stop, Neukunden aufgepasst! 1-Zimmer-Single-Wohnung...","['Etagenwohnung', '•', 'Dresden', 'Prohlis-Süd']",['Balkon'],Miete zzgl. NK 160 €,Wohnfläche ca. 26 m²,Zi. 1,67,14
-3,selObject_44952969,Wo das Leben so spielt - praktische 2-Zimmer-Wohnung,"['Etagenwohnung', '•', 'Dresden', 'Südvorstadt-West']",['Balkon'],Miete zzgl. NK 269 €,Wohnfläche ca. 38 m²,Zi. 2,67,14
-4,selObject_44952966,Lust auf Veränderung: günstig geschnittene 3-Zimmer-Wo...,"['Etagenwohnung', '•', 'Dresden', 'Südvorstadt-West']",['Balkon'],Miete zzgl. NK 425 €,Wohnfläche ca. 59 m²,Zi. 3,67,14
-5,selObject_44952960,Hier lässt es sich aushalten: günstige 2-Zimmer-Wohnun...,"['Etagenwohnung', '•', 'Dresden', 'Leubnitz-Neuostra']",['Balkon'],Miete zzgl. NK 419 €,Wohnfläche ca. 64 m²,Zi. 2,67,14
-6,selObject_44952959,1-Zimmerwohnung sofort bezugsfertig und preisgünstig...,"['Etagenwohnung', '•', 'Dresden', 'Prohlis-Nord']",[],Miete zzgl. NK 175 €,Wohnfläche ca. 27 m²,Zi. 1,67,14
-7,selObject_44952954,Ihr neues Zuhause: günstig geschnittene 2-Zimmer-Wohnu...,"['Etagenwohnung', '•', 'Dresden', 'Pieschen-Nord/Trachenberge']",['Balkon'],Miete zzgl. NK 385 €,Wohnfläche ca. 51 m²,Zi. 2,67,14
-8,selObject_44952949,Wohnen am Merianplatz,"['Etagenwohnung', '•', 'Dresden', 'Gorbitz-Süd']",['Balkon'],Miete zzgl. NK 384 €,Wohnfläche ca. 64 m²,Zi. 3,67,14
-9,selObject_44952946,Hoch-h(in)aus - Wohnung mit Ausblick (WBS),"['Etagenwohnung', '•', 'Dresden', 'Gorbitz-Süd']",[],Miete zzgl. NK 137 €,Wohnfläche ca. 27 m²,"Zi. 1,5",67,14
-10,selObject_44952939,Aufgepasst! 2-Zimmer-Wohnung sucht neue Mieter.,"['Etagenwohnung', '•', 'Dresden', 'Cotta']",[],Miete zzgl. NK 396 €,Wohnfläche ca. 58 m²,Zi. 2,67,14
-11,selObject_44952935,Reinkommen und Wohlfühlen: 2-Zimmer-Wohnung,"['Erdgeschosswohnung', '•', 'Dresden', 'Südvorstadt-West']","['Balkon', 'EBK']",Miete zzgl. NK 376 €,Wohnfläche ca. 52 m²,Zi. 2,67,14
-12,selObject_44952924,Günstige 2-Raum-Wohnung mit Balkon ins Grüne.,"['Etagenwohnung', '•', 'Dresden', 'Cotta']",['Balkon'],Miete zzgl. NK 419 €,Wohnfläche ca. 59 m²,Zi. 2,67,14
-13,selObject_44952917,So macht wohnen Spaß: 1-Zimmer-Single-Wohnung mit Aufz...,"['Etagenwohnung', '•', 'Dresden', 'Prohlis-Süd']",[],Miete zzgl. NK 222 €,Wohnfläche ca. 27 m²,Zi. 1,67,14
-14,selObject_44952915,Nette Nachbarn gesucht: ideale 1-Zi.-Single-Appartment...,"['Erdgeschosswohnung', '•', 'Dresden', 'Prohlis-Süd']",[],Miete zzgl. NK 173 €,Wohnfläche ca. 27 m²,"Zi. 1,5",67,14
-15,selObject_44952911,Schöne Wohnung sucht Mieter: praktische 3-Zi.-Wohnung...,"['Etagenwohnung', '•', 'Dresden', 'Südvorstadt-West']",['Balkon'],Miete zzgl. NK 425 €,Wohnfläche ca. 59 m²,Zi. 3,67,14
-16,selObject_44952910,familienfreundliche 4-Zi.-Wohnung im Hochparterre,"['Etagenwohnung', '•', 'Dresden', 'Gorbitz-Süd']",['Balkon'],"Miete zzgl. NK 504,26 €",Wohnfläche ca. 77 m²,Zi. 4,67,14
-17,selObject_44952908,Familienfreundliche 3-Zimmer-Wohnung mit Balkon,"['Etagenwohnung', '•', 'Dresden', 'Gorbitz-Nord/Neu-Omsewitz']",['Balkon'],Miete zzgl. NK 366 €,Wohnfläche ca. 64 m²,"Zi. 4,5",67,14
-18,selObject_44952902,Familienfreundliche 4-Zimmer-Wohnung,"['Etagenwohnung', '•', 'Dresden', 'Gorbitz-Nord/Neu-Omsewitz']",['Balkon'],Miete zzgl. NK 310 €,Wohnfläche ca. 77 m²,Zi. 4,67,14
-19,selObject_44952901,1 Zimmer Wohnung mit Balkon,"['Etagenwohnung', '•', 'Dresden', 'Gorbitz-Süd']",['Balkon'],Miete zzgl. NK 263 €,Wohnfläche ca. 36 m²,Zi. 1,67,14
-20,selObject_44952899,3-Raum-Wohnung mit Balkon und Gäste-WC im Neubau!,"['Erdgeschosswohnung', '•', 'Dresden', 'Reick']",[],Miete zzgl. NK 765 €,Wohnfläche ca. 83 m²,Zi. 3,67,14
-21,selObject_44952893,Reinkommen und Wohlfühlen: nette 3-Zi.-Wohnung (WBS),"['Etagenwohnung', '•', 'Dresden', 'Südvorstadt-West']",['Balkon'],Miete zzgl. NK 425 €,Wohnfläche ca. 59 m²,Zi. 3,67,14
-22,selObject_44952891,Miet mich - interessante 2-Zimmer-Wohnung,"['Etagenwohnung', '•', 'Coswig']",[],Miete zzgl. NK 290 €,Wohnfläche ca. 50 m²,Zi. 2,67,14
-23,selObject_44952888,Nette Nachbarn gesucht: praktische 1-Zi.-Single-Wohnun...,"['Erdgeschosswohnung', '•', 'Dresden', 'Gorbitz-Süd']",['Balkon'],Miete zzgl. NK 264 €,Wohnfläche ca. 36 m²,Zi. 1,67,14
-24,selObject_44952884,Hier macht wohnen Spaß: individuelles 1-Zimmer-Appartm...,"['Etagenwohnung', '•', 'Dresden', 'Gorbitz-Süd']",['Balkon'],Miete zzgl. NK 137 €,Wohnfläche ca. 27 m²,"Zi. 1,5",67,14
-25,selObject_44952883,Nette Nachbarn gesucht: individuelles 1-Zimmer-Appartm...,"['Etagenwohnung', '•', 'Dresden', 'Südvorstadt-West']",['Balkon'],Miete zzgl. NK 203 €,Wohnfläche ca. 31 m²,Zi. 1,67,14
-26,selObject_44952882,Schöne 2-Raum-Wohnung sucht Nachmieter,"['Etagenwohnung', '•', 'Dresden', 'Cotta']",['Balkon'],Miete zzgl. NK 386 €,Wohnfläche ca. 50 m²,Zi. 2,67,14
+0,selObject_44979865,Einziehen und wohlfühlen,"[['Etagenwohnung', '•', 'Chemnitz', 'Bernsdorf']]",['Balkon'],Miete zzgl. NK 377 €,Wohnfläche ca. 70 m²,Zi. 3,67,14
+1,selObject_44979856,2-Raum-Wohnung mit Balkon,"[['Etagenwohnung', '•', 'Chemnitz', 'Yorckgebiet']]",['Balkon'],Miete zzgl. NK 243 €,Wohnfläche ca. 46 m²,Zi. 2,67,14
+2,selObject_44979779,"WG gesucht! 4-Zi-Wohnung mit Laminatboden, Bad und WC...","[['Etagenwohnung', '•', 'Dresden', 'Strehlen']]",['Balkon'],Miete zzgl. NK 760 €,Wohnfläche ca. 100 m²,Zi. 4,67,14
+3,selObject_44979746,Schöne 2 Zimmer-Wohnung mit tollem Blick zum Fernsehtu...,"[['Dachgeschosswohnung', '•', 'Dresden', 'Laubegast']]",['Balkon'],Miete zzgl. NK 523 €,Wohnfläche ca. 56 m²,Zi. 2,67,14
+4,selObject_44979693,Exklusives Penthouse direkt in der Innenstadt,"[['Dachgeschosswohnung', '•', 'Dresden', 'Wilsdruffer', 'Vorstadt/Seevorstadt-West']]",['EBK'],Miete zzgl. NK 2.345 €,Wohnfläche ca. 168 m²,"Zi. 4,5",67,14
+5,selObject_44979688,**bodengleiche Dusche** Erdgeschosswohnung,"[['Erdgeschosswohnung', '•', 'Lichtenstein', 'Lichtenstein']]",['Balkon'],Miete zzgl. NK 279 €,Wohnfläche ca. 58 m²,Zi. 3,67,14
+6,selObject_44979672,ZENTRUM - schöne 2 Zimmer Maisonette Wohnung mit Galer...,"[['Wohnung', '•', 'Leipzig', 'Zentrum-Ost']]","['Balkon', 'Garten']",Miete zzgl. NK 640 €,Wohnfläche ca. 75 m²,Zi. 2,67,14
+7,selObject_44979660,Stilvolle 2-Raumwohnung im Herzen der Dresdner Neustad...,"[['Wohnung', '•', 'Dresden', 'Äußere', 'Neustadt']]",[],Miete zzgl. NK 310 €,Wohnfläche ca. 37 m²,Zi. 2,67,14
+8,selObject_44979653,Helle Wohnung in ruhiger Lage,"[['Etagenwohnung', '•', 'Leipzig', 'Böhlitz-Ehrenberg']]",[],Miete zzgl. NK 360 €,Wohnfläche ca. 51 m²,Zi. 2,67,14
+9,selObject_44979622,"Erstbezug, Singlewohnung mit Blick, sowie hervorragend...","[['Etagenwohnung', '•', 'Dresden', 'Prohlis-Süd']]",[],Miete zzgl. NK 147 €,Wohnfläche ca. 27 m²,Zi. 1,67,14
+10,selObject_44979567,"Erstbezug, Singlewohnung mit Blick, sowie hervorragend...","[['Etagenwohnung', '•', 'Dresden', 'Prohlis-Süd']]",[],Miete zzgl. NK 147 €,Wohnfläche ca. 27 m²,Zi. 1,67,14
+11,selObject_44979556,nur 196 € Kaltmiete/Monat im 1.Jahr *sofort beziehbar*,"[['Wohnung', '•', 'Lichtenstein', 'Lichtenstein']]",['Balkon'],Miete zzgl. NK 280 €,Wohnfläche ca. 57 m²,Zi. 3,67,14
+12,selObject_44979539,++Attraktive 2 Raum Wohnung auf dem Kaßberg++,"[['Etagenwohnung', '•', 'Chemnitz', 'Kaßberg']]",['Balkon'],Miete zzgl. NK 360 €,Wohnfläche ca. 60 m²,Zi. 2,67,14
+13,selObject_44979518,"Große 3-Zimmer mit Balkon, Garage, Wanne, Dusche und...","[['Etagenwohnung', '•', 'Röhrsdorf']]",['Balkon'],Miete zzgl. NK 610 €,Wohnfläche ca. 92 m²,Zi. 3,67,14
+14,selObject_44979502,"Leubnitz Am Park, inkl. NEUE EBK, 1-R Singlewohnung,...","[['Wohnung', '•', 'Werdau', 'Leubnitz']]","['Balkon', 'EBK']",Miete zzgl. NK 230 €,Wohnfläche ca. 42 m²,Zi. 1,67,14
+15,selObject_44979405,Hallo WG! 2-Raum-Wohnung Nähe Zentrum!,"[['Etagenwohnung', '•', 'Chemnitz', 'Sonnenberg']]","['Garten', 'EBK']",Miete zzgl. NK 226 €,Wohnfläche ca. 55 m²,Zi. 2,67,14
+16,selObject_44979348,CHICE MAISONETTEWOHNUNG IM HERZEN VON WERDAU! Mit Einb...,"[['Maisonette', '•', 'Werdau', 'Werdau']]",['EBK'],Miete zzgl. NK 399 €,Wohnfläche ca. 87 m²,Zi. 3,67,14
+17,selObject_44979295,2 ZIMMER KASSBERGWOHNUNG; KÜCHE UND BAD MIT FENSTER;...,"[['Erdgeschosswohnung', '•', 'Chemnitz', 'Kaßberg']]",[],Miete zzgl. NK 280 €,Wohnfläche ca. 54 m²,Zi. 2,67,14
+18,selObject_44979290,LIVIA-IMMO.DE :-) ZENTRUM+WUNDERSCHÖNE 3-ZI-WOHNUNG+GÄ...,"[['Etagenwohnung', '•', 'Wurzen', 'Wurzen']]",[],Miete zzgl. NK 473 €,Wohnfläche ca. 96 m²,Zi. 3,67,14
+19,selObject_44979288,LIVIA-IMMO.DE :-) ZENTRUM+WUNDERSCHÖNE 2-ZI-WOHNUNG+NE...,"[['Etagenwohnung', '•', 'Wurzen', 'Wurzen']]",[],Miete zzgl. NK 255 €,Wohnfläche ca. 48 m²,Zi. 2,67,14
+20,selObject_44979264,"Ab: November 2021, gemütliche Dachgeschosswohnung zu...","[['Dachgeschosswohnung', '•', 'Görlitz', 'Innenstadt']]",['Garten'],Miete zzgl. NK 225 €,Wohnfläche ca. 37 m²,Zi. 1,67,14
+21,selObject_44979253,"Neu saniertes Hochhaus, Singlewohnung mit Balkon und...","[['Etagenwohnung', '•', 'Dresden', 'Prohlis-Süd']]",['Balkon'],Miete zzgl. NK 160 €,Wohnfläche ca. 26 m²,Zi. 1,67,14
+22,selObject_44979146,++ Alles NEU - Erstbezug nach Sanierung ++,"[['Wohnung', '•', 'Plauen', 'Haselbrunn']]","['Balkon', 'EBK']",Miete zzgl. NK 325 €,Wohnfläche ca. 54 m²,Zi. 2,67,14
+23,selObject_44979130,++ ERSTBEZUG nach RENOVIERUNG ++,"[['Etagenwohnung', '•', 'Plauen', 'Westend']]","['Balkon', 'EBK']",Miete zzgl. NK 325 €,Wohnfläche ca. 52 m²,Zi. 2,67,14
+24,selObject_44979118,++ ERSTBEZUG nach RENOVIERUNG ++,"[['Etagenwohnung', '•', 'Plauen', 'Haselbrunn']]","['Balkon', 'EBK']",Miete zzgl. NK 299 €,Wohnfläche ca. 48 m²,Zi. 2,67,14
+25,selObject_44979000,Neu sanierte 2 Zimmer-Wohnung in ehemaliger Fabrik,"[['Etagenwohnung', '•', 'Dresden', 'Striesen-Ost']]",['Balkon'],Miete zzgl. NK 690 €,Wohnfläche ca. 66 m²,Zi. 2,67,14
+26,selObject_44978864,SINGLE 2-ZIMMER-WOHNUNG IM STADTKERN VON AUERBACH,"[['Dachgeschosswohnung', '•', 'Auerbach', 'Auerbach']]",['EBK'],Miete zzgl. NK 220 €,Wohnfläche ca. 40 m²,Zi. 2,67,14

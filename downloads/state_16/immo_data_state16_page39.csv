@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44783619,30er Jahre Charme im Erfurter Süden geniessen - ERSTBE...,"['Maisonette', '•', 'Erfurt', 'Löbervorstadt']","['Garten', 'EBK']","Miete zzgl. NK 1.589,98 €",Wohnfläche ca. 114 m²,Zi. 3,39,16
-1,selObject_44783388,3 ZKB - Nie wieder Platzprobleme und mit Fußbodenheiz...,"['Apartment', '•', 'Arnstadt', 'Arnstadt']",[],Miete zzgl. NK 990 €,Wohnfläche ca. 119 m²,Zi. 3,39,16
-2,selObject_44782441,TOP Single Wohnung mit Balkon in beliebter und zentral...,"['Wohnung', '•', 'Gera', 'Pforten']",['Balkon'],Miete zzgl. NK 250 €,Wohnfläche ca. 42 m²,Zi. 2,39,16
-3,selObject_44782302,großzügige 3 Raumwohnung im Hinterhaus in Zentrumsnähe...,"['Wohnung', '•', 'Erfurt', 'Krämpfervorstadt']",['Garten'],Miete zzgl. NK 695 €,Wohnfläche ca. 80 m²,Zi. 3,39,16
-4,selObject_44782242,Behagliche Mietwohnung mit viel Platz zum Wohnen!,"['Etagenwohnung', '•', 'Ilmenau', 'Ilmenau']",[],Miete zzgl. NK 850 €,Wohnfläche ca. 128 m²,Zi. 4,39,16
-5,selObject_44781874,2-Zimmer-Wohnung mit Einbauküche sucht neuen Mieter...,"['Wohnung', '•', 'Eisenach', 'Eisenach']",['EBK'],Miete zzgl. NK 428 €,Wohnfläche ca. 84 m²,Zi. 2,39,16
-6,selObject_44781238,Schöne große Wohnung in beliebter Wohnlage,"['Wohnung', '•', 'Gotha', 'Gotha']",['Balkon'],Miete zzgl. NK 705 €,Wohnfläche ca. 114 m²,Zi. 4,39,16
-7,selObject_44781171,1 Raumwohnung,"['Wohnung', '•', 'Eisenberg', 'Eisenberg']",['Garten'],"Miete zzgl. NK 180,03 €",Wohnfläche ca. 35 m²,Zi. 1,39,16
-8,selObject_44781169,3 Raumwohnung mit Balkon,"['Wohnung', '•', 'Eisenberg', 'Eisenberg']",['Balkon'],"Miete zzgl. NK 366,60 €",Wohnfläche ca. 61 m²,Zi. 3,39,16
-9,selObject_44780676,Wir suchen junge Mieter und Familien für Rudolstadts...,"['Wohnung', '•', 'Rudolstadt', 'Volkstedt']","['Balkon', 'Garten']",Miete zzgl. NK 870 €,Wohnfläche ca. 87 m²,Zi. 3,39,16
-10,selObject_44780378,Mit Charme und gutem Geschmack für Sie eingerichtet,"['Wohnung', '•', 'Mühlhausen', 'Mühlhausen']","['Balkon', 'EBK']",Miete zzgl. NK 499 €,Wohnfläche ca. 56 m²,Zi. 2,39,16
-11,selObject_44779700,"Erstbezug Wohnung mit Einbauküche, Terrasse u. Gartena...","['Erdgeschosswohnung', '•', 'Weimar', 'Südstadt']","['Garten', 'EBK']",Miete zzgl. NK 850 €,Wohnfläche ca. 77 m²,Zi. 2,39,16
-12,selObject_44777305,Großzügige 2-Raum Wohnung im Zentrum,"['Etagenwohnung', '•', 'Schmölln', 'Schmölln']",[],Miete zzgl. NK 275 €,Wohnfläche ca. 74 m²,Zi. 2,39,16
-13,selObject_44777288,"1,5-Raum Wohnung mit EBK * Gorma *","['Etagenwohnung', '•', 'Rositz', 'Rositz']","['Garten', 'EBK']",Miete zzgl. NK 180 €,Wohnfläche ca. 35 m²,"Zi. 1,5",39,16
-14,selObject_44777263,4-Raum Erdschosswohnung am idyllischen Dorfteich *...,"['Erdgeschosswohnung', '•', 'Rositz', 'Rositz']",['Garten'],Miete zzgl. NK 395 €,Wohnfläche ca. 73 m²,Zi. 4,39,16
-15,selObject_44777229,Bevorzugte Wohnlage in Rudolstadt 2-Zimmer (1.Obergesc...,"['Kein', 'Bild']",[],Miete zzgl. NK 373 €,Wohnfläche ca. 62 m²,Zi. 2,39,16
-16,selObject_44777166,Moderne Wohnung in bevorzugter Lage von Rudolstadt,"['Wohnung', '•', 'Rudolstadt', 'West']",['Garten'],Miete zzgl. NK 330 €,Wohnfläche ca. 55 m²,"Zi. 2,5",39,16
-17,selObject_44777132,Moderne Wohnung in bevorzugter Lage von Rudolstadt,"['Erdgeschosswohnung', '•', 'Rudolstadt', 'West']",['Garten'],Miete zzgl. NK 330 €,Wohnfläche ca. 55 m²,Zi. 3,39,16
-18,selObject_44776075,kleine gemütliche Wohnung im liebevoll sanierten Altba...,"['Etagenwohnung', '•', 'Altenburg', 'Altenburg']",[],Miete zzgl. NK 215 €,Wohnfläche ca. 46 m²,Zi. 2,39,16
-19,selObject_44775805,Großzügige 2-Raumwohnung mit Balkon und Tiefgarage!,"['Etagenwohnung', '•', 'Eisenach', 'Eisenach']",['Balkon'],Miete zzgl. NK 455 €,Wohnfläche ca. 75 m²,Zi. 2,39,16
-20,selObject_44775792,kleine gemütliche Wohnung,"['Etagenwohnung', '•', 'Altenburg', 'Altenburg']",[],Miete zzgl. NK 190 €,Wohnfläche ca. 38 m²,Zi. 1,39,16
-21,selObject_44775031,Renovierte 3-Raumwohnung in Starkenberg-Kostitz,"['Dachgeschosswohnung', '•', 'Starkenberg', 'Kostitz']",[],Miete zzgl. NK 190 €,Wohnfläche ca. 51 m²,Zi. 3,39,16
-22,selObject_44775018,2 Monate Mietfrei !! Zwei-R.-Wohnung in Starkenberg-K...,"['Dachgeschosswohnung', '•', 'Starkenberg', 'Kostitz']",[],Miete zzgl. NK 190 €,Wohnfläche ca. 51 m²,Zi. 2,39,16
-23,selObject_44775009,Großzügige und helle Wohnung mit großem Balkon,"['Etagenwohnung', '•', 'Eisenach', 'Eisenach']","['Balkon', 'EBK']",Miete zzgl. NK 500 €,Wohnfläche ca. 77 m²,Zi. 3,39,16
-24,selObject_44774649,RESERVIERT! Herrliche 3-Zimmer-Wohnung für Altbauindiv...,"['Wohnung', '•', 'Rudolstadt', 'Zentrum']",[],Miete zzgl. NK 820 €,Wohnfläche ca. 96 m²,Zi. 3,39,16
-25,selObject_44774566,Wohnen im Wohnpark Wolfenholz,"['Wohnung', '•', 'Altenburg', 'Altenburg']",[],Miete zzgl. NK 259 €,Wohnfläche ca. 51 m²,Zi. 2,39,16
-26,selObject_44774424,"2-R-W, 3.OG (DG), 2 Balkone + Tiefgaragenstellplatz","['Dachgeschosswohnung', '•', 'Weimar', 'Schöndorf']",['Balkon'],Miete zzgl. NK 505 €,Wohnfläche ca. 70 m²,Zi. 2,39,16
+0,selObject_44824011,Mehrgenerationswohnung,"[['Etagenwohnung', '•', 'Gerstungen', 'Neustädt']]",['EBK'],Miete zzgl. NK 800 €,Wohnfläche ca. 240 m²,Zi. 6,39,16
+1,selObject_44818036,"sehr schöne 3-Raum-Wohnung in Dorndorf-Steudnitz, nahe...","[['Wohnung', '•', 'Dornburg-Camburg', 'Dorndorf-Steudnitz']]",['Garten'],Miete zzgl. NK 429 €,Wohnfläche ca. 60 m²,Zi. 3,39,16
+2,selObject_44814754,Single Apartment möbliert,"[['Souterrainwohnung', '•', 'Eisenach', 'Eisenach']]",['EBK'],"Miete zzgl. NK 287,50 €",Wohnfläche ca. 25 m²,Zi. 1,39,16
+3,selObject_44811277,3 RW In der Innenstadt von Artern,"[['Dachgeschosswohnung', '•', 'Artern', 'Artern']]",[],Miete zzgl. NK 525 €,Wohnfläche ca. 90 m²,Zi. 3,39,16
+4,selObject_44810954,Wohnen im Grünen!,"[['Wohnung', '•', 'Zella-Mehlis']]",['Balkon'],"Miete zzgl. NK 307,34 €",Wohnfläche ca. 48 m²,Zi. 2,39,16
+5,selObject_44809282,Sanierte Dreizimmerwohnung in Suhl,"[['Erdgeschosswohnung', '•', 'Suhl', 'Suhl']]",[],Miete zzgl. NK 385 €,Wohnfläche ca. 55 m²,Zi. 3,39,16
+6,selObject_44809278,Dreizimmerwohnung in Suhl-Lautenberg,"[['Wohnung', '•', 'Suhl', 'Suhl']]",[],Miete zzgl. NK 490 €,Wohnfläche ca. 67 m²,Zi. 3,39,16
+7,selObject_44808702,Familienwohnung in zentraler Lage von Lusan,"[['Wohnung', '•', 'Gera', 'Lusan']]",['Balkon'],Miete zzgl. NK 407 €,Wohnfläche ca. 82 m²,Zi. 4,39,16
+8,selObject_44808391,*** Aktion: Starterbonus für Azubis! - Verlängerung...,"[['Wohnung', '•', 'Sondershausen', 'Sondershausen']]",['Balkon'],"Miete zzgl. NK 159,35 €",Wohnfläche ca. 25 m²,Zi. 1,39,16
+9,selObject_44808000,"3 Zimmerwohnung im oberen Geschoss, ideal für 1 bis 2...","[['Wohnung', '•', 'Eisenberg', 'Eisenberg']]",[],Miete zzgl. NK 275 €,Wohnfläche ca. 56 m²,Zi. 3,39,16
+10,selObject_44807998,"Kleine 3-Zimmerwohnung, zweite Etage","[['Wohnung', '•', 'Eisenberg', 'Eisenberg']]",[],Miete zzgl. NK 275 €,Wohnfläche ca. 56 m²,Zi. 3,39,16
+11,selObject_44807478,"Schnell sein, lohnt sich!","[['Wohnung', '•', 'Gera', 'Lusan']]",['Balkon'],Miete zzgl. NK 440 €,Wohnfläche ca. 89 m²,Zi. 4,39,16
+12,selObject_44806778,HOCHSCHULNÄHE! WG-geeignete 3-Raumwohnung,"[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Nordhausen', 'Nordhausen']]",['Balkon'],"Miete zzgl. NK 372,25 €",Wohnfläche ca. 76 m²,Zi. 3,39,16
+13,selObject_44806374,Große 3-RW in Artern nach Komplettrenovierung,"[['Wohnung', '•', 'Artern', 'Artern']]",[],Miete zzgl. NK 595 €,Wohnfläche ca. 105 m²,Zi. 3,39,16
+14,selObject_44806149,3-Raum-Wohnung im Dachgeschoss,"[['Dachgeschosswohnung', '•', 'Saalfeld', 'Saalfeld']]",[],Miete zzgl. NK 530 €,Wohnfläche ca. 82 m²,Zi. 3,39,16
+15,selObject_44806024,2 Raum WE in 07973 Greiz,"[['Wohnung', '•', 'Greiz', 'Greiz']]",['Balkon'],"Miete zzgl. NK 266,56 €",Wohnfläche ca. 52 m²,Zi. 2,39,16
+16,selObject_44806025,2- Raum WE in 07973 Greiz,"[['Kein', 'Bild'], ['Wohnung', '•', 'Greiz', 'Greiz']]",['Balkon'],"Miete zzgl. NK 246,59 €",Wohnfläche ca. 49 m²,Zi. 2,39,16
+17,selObject_44806019,3-Raum WE in 07973 Greiz,"[['Wohnung', '•', 'Greiz', 'Greiz']]",['Balkon'],"Miete zzgl. NK 334,36 €",Wohnfläche ca. 61 m²,Zi. 3,39,16
+18,selObject_44806020,1 Raum WE in 07973 Greiz,"[['Wohnung', '•', 'Greiz', 'Greiz']]",[],"Miete zzgl. NK 154,92 €",Wohnfläche ca. 25 m²,Zi. 1,39,16
+19,selObject_44806021,4- Raum WE in 07973 Greiz,"[['Kein', 'Bild'], ['Wohnung', '•', 'Greiz', 'Greiz']]",[],"Miete zzgl. NK 433,30 €",Wohnfläche ca. 87 m²,Zi. 4,39,16
+20,selObject_44806022,2- Raum WE in 07973 Greiz,"[['Wohnung', '•', 'Greiz', 'Greiz']]",[],"Miete zzgl. NK 316,84 €",Wohnfläche ca. 61 m²,Zi. 2,39,16
+21,selObject_44806018,1- Raum WE in 07973 Greiz,"[['Wohnung', '•', 'Greiz', 'Greiz']]",['Balkon'],"Miete zzgl. NK 222,70 €",Wohnfläche ca. 40 m²,Zi. 1,39,16
+22,selObject_44805797,Modernes wohnen im Neubau! Freundliche 3 Zimmer Wohnun...,"[['Wohnung', '•', 'Gera', 'Pforten']]",['Balkon'],Miete zzgl. NK 440 €,Wohnfläche ca. 73 m²,Zi. 3,39,16
+23,selObject_44805775,1 Zimmer- Appartment mit Gartennutzung in Pößneck,"[['Erdgeschosswohnung', '•', 'Pößneck', 'Pößneck,Stadt']]",[],Miete zzgl. NK 149 €,Wohnfläche ca. 24 m²,Zi. 1,39,16
+24,selObject_44805768,gemütliche 2 Zi.-DG -Wohnung in zentraler Lage,"[['Dachgeschosswohnung', '•', 'Pößneck', 'Pößneck,Stadt']]",[],Miete zzgl. NK 330 €,Wohnfläche ca. 58 m²,Zi. 2,39,16
+25,selObject_44805766,Schöne 2 Zi.-Wohnung mit Balkon in zentraler Lage,"[['Etagenwohnung', '•', 'Gera', 'Ostviertel']]",['Balkon'],Miete zzgl. NK 306 €,Wohnfläche ca. 68 m²,Zi. 2,39,16
+26,selObject_44805759,schöne Wohnung mit Balkon im Dachgeschoss,"[['Wohnung', '•', 'Gera', 'Bieblach']]",['Balkon'],Miete zzgl. NK 350 €,Wohnfläche ca. 70 m²,Zi. 3,39,16

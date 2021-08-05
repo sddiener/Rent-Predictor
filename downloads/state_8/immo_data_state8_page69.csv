@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44795287,MÖBLIERT Living harmony Attraktive und moderne Terrass...,"['Wohnung', '•', 'Stuttgart', 'Feuerbach']",['EBK'],Miete zzgl. NK 1.210 €,Wohnfläche ca. 47 m²,Zi. 2,69,8
-1,selObject_44795283,MÖBLIERTBusinessapartment in Stuttgart-West mit TG und...,"['Wohnung', '•', 'Stuttgart', 'West']",['EBK'],Miete zzgl. NK 1.170 €,Wohnfläche ca. 42 m²,Zi. 2,69,8
-2,selObject_44795281,MÖBLIERT - PENTHOUSELIKE moderne Wohnung mit 2 Schlafz...,"['Wohnung', '•', 'Stuttgart', 'Möhringen']","['Balkon', 'EBK']",Miete zzgl. NK 1.590 €,Wohnfläche ca. 80 m²,Zi. 3,69,8
-3,selObject_44795277,MÖBLIERT - PRAKTISCH UND SONNIG - Schöne Dachgeschoss...,"['Wohnung', '•', 'Sindelfingen', 'Maichingen']",['EBK'],Miete zzgl. NK 790 €,Wohnfläche ca. 35 m²,Zi. 2,69,8
-4,selObject_44795274,MÖBLIERT - CLASSIC STYLE - 3-Zimmer-Wohnung in Vaihing...,"['Wohnung', '•', 'Stuttgart', 'Vaihingen']","['Balkon', 'EBK']",Miete zzgl. NK 1.760 €,Wohnfläche ca. 85 m²,Zi. 3,69,8
-5,selObject_44795272,MÖBLIERT - SONNIG UND GEMÜTLICH - Schönes Apartment...,"['Wohnung', '•', 'Stuttgart', 'Asemwald']","['Balkon', 'EBK']",Miete zzgl. NK 1.080 €,Wohnfläche ca. 48 m²,Zi. 1,69,8
-6,selObject_44795269,"MÖBLIERT - HELL und RUHIG - 3,5-Zimmer-Wohnung in Stut...","['Wohnung', '•', 'Stuttgart', 'Stammheim']","['Balkon', 'EBK']",Miete zzgl. NK 1.320 €,Wohnfläche ca. 77 m²,"Zi. 3,5",69,8
-7,selObject_44795258,MÖBLIERT - WOHNEN mit AUSBLICK - 3-Zimmer-Wohnung mit...,"['Wohnung', '•', 'Herrenberg', 'Herrenberg']","['Balkon', 'EBK']",Miete zzgl. NK 1.430 €,Wohnfläche ca. 84 m²,Zi. 3,69,8
-8,selObject_44795253,MÖBLIERT - CASUAL LIVING - Schöne Wohnung in Weilimdor...,"['Wohnung', '•', 'Stuttgart', 'Weilimdorf']",['EBK'],Miete zzgl. NK 960 €,Wohnfläche ca. 60 m²,Zi. 2,69,8
-9,selObject_44795250,MÖBLIERT - HELL UND FREUNDLICH - Dachgeschoss-Wohnung...,"['Wohnung', '•', 'Stuttgart', 'Feuerbach']",['EBK'],Miete zzgl. NK 1.040 €,Wohnfläche ca. 50 m²,"Zi. 2,5",69,8
-10,selObject_44795241,MÖBLIERT - MODERN FLAIR - Lichtdurchflutetes Apartment...,"['Wohnung', '•', 'Stuttgart', 'West']","['Balkon', 'EBK']",Miete zzgl. NK 1.190 €,Wohnfläche ca. 50 m²,Zi. 2,69,8
-11,selObject_44795238,MÖBLIERT - ZUM WOHNEN und WOHLFÜHLEN - 2-Zimmer-Wohnun...,"['Wohnung', '•', 'Stuttgart', 'Degerloch']",['EBK'],Miete zzgl. NK 1.170 €,Wohnfläche ca. 55 m²,Zi. 2,69,8
-12,selObject_44795232,MÖBLIERT - BESONDERS und GEMÜTLICH - Außergewöhnliche...,"['Wohnung', '•', 'Stuttgart', 'Mitte']",['EBK'],Miete zzgl. NK 2.260 €,Wohnfläche ca. 90 m²,"Zi. 2,5",69,8
-13,selObject_44795229,MÖBLIERT - LUXUS am ANNABERG - Highend-Apartment mit...,"['Wohnung', '•', 'Baden-Baden', 'Innenstadt']","['Balkon', 'EBK']",Miete zzgl. NK 4.800 €,Wohnfläche ca. 190 m²,"Zi. 3,5",69,8
-14,selObject_44795210,MÖBLIERT - LIVING in DEGERLOCH - 4-Zimmer Wohnung...,"['Wohnung', '•', 'Stuttgart', 'Degerloch']","['Balkon', 'EBK']",Miete zzgl. NK 1.730 €,Wohnfläche ca. 85 m²,Zi. 3,69,8
-15,selObject_44795201,MÖBLIERT - WELCOME HOME - 4-Zimmer-Wohnung mit 3 Schla...,"['Wohnung', '•', 'Stuttgart', 'Bad', 'Cannstatt']","['Balkon', 'EBK']",Miete zzgl. NK 2.090 €,Wohnfläche ca. 108 m²,Zi. 4,69,8
-16,selObject_44795187,MÖBLIERT - ART LIVING - Industrial Loft in Stuttgart...,"['Wohnung', '•', 'Stuttgart', 'Süd']",['EBK'],Miete zzgl. NK 1.270 €,Wohnfläche ca. 52 m²,Zi. 1,69,8
-17,selObject_44795175,MÖBLIERT - SERVICED APARTMENT ZENTRAL in BAD CANNSTATT,"['Wohnung', '•', 'Stuttgart', 'Bad', 'Cannstatt']",['EBK'],Miete zzgl. NK 1.510 €,Wohnfläche ca. 85 m²,Zi. 3,69,8
-18,selObject_44795170,MÖBLIERT - Serviced Apartment in Neubau mit Fußbodenhe...,"['Wohnung', '•', 'Stuttgart', 'West']","['Balkon', 'EBK']",Miete zzgl. NK 1.500 €,Wohnfläche ca. 65 m²,Zi. 2,69,8
-19,selObject_44795159,MÖBLIERT - NICE LIVING - 3 Zimmer-Wohnung mit Balkon...,"['Wohnung', '•', 'Stuttgart', 'Mitte']","['Balkon', 'EBK']",Miete zzgl. NK 1.430 €,Wohnfläche ca. 95 m²,Zi. 3,69,8
-20,selObject_44795150,MÖBLIERT - HELL UND MODERN - Stylisches Apartment mit...,"['Wohnung', '•', 'Stuttgart', 'Zuffenhausen']","['Balkon', 'EBK']",Miete zzgl. NK 1.240 €,Wohnfläche ca. 73 m²,Zi. 2,69,8
-21,selObject_44795145,MÖBLIERT - BEST LIVING - Helle Wohnung mit Balkon,"['Wohnung', '•', 'Stuttgart', 'Vaihingen']","['Balkon', 'EBK']",Miete zzgl. NK 1.200 €,Wohnfläche ca. 66 m²,Zi. 2,69,8
-22,selObject_44795141,MÖBLIERT - FAMILIENIDYLLE in VAIHINGEN - Gemütliche...,"['Wohnung', '•', 'Stuttgart', 'Vaihingen']","['Balkon', 'EBK']",Miete zzgl. NK 2.400 €,Wohnfläche ca. 123 m²,Zi. 4,69,8
-23,selObject_44795134,MÖBLIERT -Stuttgart-Möhringen modern Ausgestattete...,"['Wohnung', '•', 'Stuttgart', 'Möhringen']","['Balkon', 'EBK']",Miete zzgl. NK 1.740 €,Wohnfläche ca. 72 m²,Zi. 3,69,8
-24,selObject_44795129,MÖBLIERT - LIFESTYLE in STUTTGART OST - 3-Zimmer-Wohnu...,"['Wohnung', '•', 'Stuttgart', 'Ost']","['Balkon', 'EBK']",Miete zzgl. NK 2.090 €,Wohnfläche ca. 80 m²,Zi. 3,69,8
-25,selObject_44795128,MÖBLIERT - BÖBLINGEN - WOHNUNG mit ZWEI SCHLAFZIMMERN,"['Wohnung', '•', 'Böblingen', 'Böblingen']",['EBK'],Miete zzgl. NK 1.390 €,Wohnfläche ca. 71 m²,Zi. 3,69,8
-26,selObject_44795122,MÖBLIERT - CLASSIC STYLE - 3-Zimmer-Wohnung in Vaihing...,"['Wohnung', '•', 'Stuttgart', 'Vaihingen']",['EBK'],Miete zzgl. NK 1.760 €,Wohnfläche ca. 85 m²,Zi. 3,69,8
+0,selObject_44823043,Zauberhafte Wohnung!,"[['Etagenwohnung', '•', 'Weil', 'der', 'Stadt', 'Weil', 'der', 'Stadt']]",['Balkon'],"Miete zzgl. NK 631,20 €",Wohnfläche ca. 53 m²,Zi. 2,69,8
+1,selObject_44823028,"Großzügige, helle 3,5-Zimmer-Wohnung in ruhiger Ortsra...","[['Wohnung', '•', 'Friedrichshafen', 'Kluftern']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.234 €,Wohnfläche ca. 99 m²,"Zi. 3,5",69,8
+2,selObject_44822981,Auf gute Nachbarschaft: günstige 2-Zimmer-Wohnung,"[['Erdgeschosswohnung', '•', 'Heidenheim', 'Mergelstetten']]",[],"Miete zzgl. NK 592,50 €",Wohnfläche ca. 69 m²,Zi. 2,69,8
+3,selObject_44821348,Ansprechende ruhige Wohnung in bevorzugter Lage,"[['Souterrainwohnung', '•', 'Waldshut-Tiengen', 'Waldshut']]",['EBK'],Miete zzgl. NK 900 €,Wohnfläche ca. 103 m²,Zi. 3,69,8
+4,selObject_44821346,NEUBAU - Wohnen auf hohem Niveau!,"[['Etagenwohnung', '•', 'Waldshut-Tiengen', 'Waldshut']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 890 €,Wohnfläche ca. 103 m²,Zi. 4,69,8
+5,selObject_44818748,GÄRTRINGEN 1 Zi.WHG:MÖBLIERT CA:30m2EBK DUSCHE LAMINAT...,"[['Wohnung', '•', 'Sindelfingen', 'Mitte']]",['EBK'],Miete zzgl. NK 370 €,Wohnfläche ca. 30 m²,Zi. 1,69,8
+6,selObject_44818747,GÄRTRINGEN 1 Zi.WHG:MÖBLIERT CA:30m2EBK DUSCHE LAMINAT...,"[['Wohnung', '•', 'Gärtringen', 'Gärtringen']]",['EBK'],Miete zzgl. NK 370 €,Wohnfläche ca. 30 m²,Zi. 1,69,8
+7,selObject_44818745,GÄRTRINGEN 1 Zi.WHG:MÖBLIERT CA:30m2EBK DUSCHE LAMINAT...,"[['Wohnung', '•', 'Böblingen', 'Böblingen']]",['EBK'],Miete zzgl. NK 370 €,Wohnfläche ca. 30 m²,Zi. 1,69,8
+8,selObject_44818145,"Exklusive, frisch renovierte 3-Zimmer-Wohnung mit Süd-...","[['Wohnung', '•', 'Stuttgart', 'West']]","['Balkon', 'EBK']",Miete zzgl. NK 1.150 €,Wohnfläche ca. 74 m²,Zi. 3,69,8
+9,selObject_44816870,"3-Zimmer-Wohnung mit Terrasse, incl. Garage, in Alpirs...","[['Wohnung', '•', 'Alpirsbach', 'Alpirsbach']]",['EBK'],Miete zzgl. NK 690 €,Wohnfläche ca. 100 m²,Zi. 3,69,8
+10,selObject_44816720,RENOVIERTE 3-Zimmer-Wohnung!,"[['Etagenwohnung', '•', 'Weil', 'am', 'Rhein', 'Haltingen']]",['Balkon'],"Miete zzgl. NK 698,59 €",Wohnfläche ca. 74 m²,Zi. 3,69,8
+11,selObject_44813650,Schöne Hanglage in der Natur und doch zentral,"[['Maisonette', '•', 'Schönau', 'Schönau']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 800 €,Wohnfläche ca. 135 m²,Zi. 5,69,8
+12,selObject_44811443,*** Eine schöne zwei Zimmer Wohnung für Singels oder...,"[['Etagenwohnung', '•', 'Heilbronn', 'Heilbronn']]",[],Miete zzgl. NK 700 €,Wohnfläche ca. 49 m²,Zi. 2,69,8
+13,selObject_44811224,ZENTRAL GELEGEN: 1 Zimmer in Nürtingen - 7024,"[['Apartment', '•', 'Nürtingen', 'Nürtingen']]",['EBK'],Miete zzgl. NK 360 €,Wohnfläche ca. 18 m²,Zi. 1,69,8
+14,selObject_44811162,2 ZBK in Mannheim-Neckarau - Dachgeschoss,"[['Dachgeschosswohnung', '•', 'Mannheim', 'Neckarau']]",['EBK'],Miete zzgl. NK 450 €,Wohnfläche ca. 55 m²,Zi. 2,69,8
+15,selObject_44810856,Wunderschöne komplett sanierte Altbau-Dachgeschosswohn...,"[['Apartment', '•', 'Leonberg', 'Leonberg']]","['Garten', 'EBK']",Miete zzgl. NK 980 €,Wohnfläche ca. 70 m²,"Zi. 3,5",69,8
+16,selObject_44810614,Frisch renovierte Wohnung mit überzeugenden Schnitt,"[['Etagenwohnung', '•', 'Mannheim', 'Sandhofen']]",[],Miete zzgl. NK 595 €,Wohnfläche ca. 71 m²,Zi. 2,69,8
+17,selObject_44810610,MÖBLIERT - WOHNTRAUM - Außergewöhnliches Haus mit 4...,"[['Wohnung', '•', 'Stuttgart', 'Obertürkheim']]",['EBK'],Miete zzgl. NK 4.320 €,Wohnfläche ca. 293 m²,"Zi. 6,5",69,8
+18,selObject_44810594,MÖBLIERT - LUXURY LIVING - Wohnung mit Balkon am Krähe...,"[['Wohnung', '•', 'Stuttgart', 'West']]","['Balkon', 'EBK']",Miete zzgl. NK 2.830 €,Wohnfläche ca. 135 m²,Zi. 3,69,8
+19,selObject_44810592,MÖBLIERT - STYLISCH im GRÜNEN - Kernsaniertes Bauernha...,"[['Wohnung', '•', 'Stuttgart', 'Sillenbuch']]",['EBK'],Miete zzgl. NK 2.480 €,Wohnfläche ca. 110 m²,"Zi. 2,5",69,8
+20,selObject_44810570,MÖBLIERT - SCHÖNER WOHNEN - Wohnung mit Balkon im Scha...,"[['Wohnung', '•', 'Ostfildern', 'Scharnhauser', 'Park']]","['Balkon', 'EBK']",Miete zzgl. NK 2.000 €,Wohnfläche ca. 83 m²,Zi. 3,69,8
+21,selObject_44810569,MÖBLIERT - GEMÜTLICH und KOMPAKT - 2 Zimmer und PKW-St...,"[['Wohnung', '•', 'Stuttgart', 'Süd']]",['EBK'],Miete zzgl. NK 960 €,Wohnfläche ca. 33 m²,Zi. 2,69,8
+22,selObject_44810548,"Wohnung gesucht? Diese 1,5-Raum-Wohnung sucht neue...","[['Wohnung', '•', 'Oberndorf', 'Oberndorf']]",[],Miete zzgl. NK 480 €,Wohnfläche ca. 67 m²,"Zi. 1,5",69,8
+23,selObject_44810546,Helle 1-2 Zimmer Einlieger-Wohnung an eine Wochenend-P...,"[['Wohnung', '•', 'Crailsheim', 'Goldbach']]",['EBK'],Miete zzgl. NK 330 €,Wohnfläche ca. 40 m²,Zi. 1,69,8
+24,selObject_44810541,Sanierte und großzügige 1-Zimmer-Wohnung mit EBK,"[['Erdgeschosswohnung', '•', 'Heilbronn', 'Heilbronn']]",['EBK'],Miete zzgl. NK 615 €,Wohnfläche ca. 44 m²,Zi. 1,69,8
+25,selObject_44810537,MÖBLIERT - CITY LIFE - Wohnung mit Garten mitten in...,"[['Wohnung', '•', 'Stuttgart', 'Mitte']]",['EBK'],Miete zzgl. NK 2.390 €,Wohnfläche ca. 80 m²,"Zi. 3,5",69,8
+26,selObject_44810518,MÖBLIERT - INDIVIDUELL WOHNEN - Kuschelige Wohnung im...,"[['Wohnung', '•', 'Stuttgart', 'Süd']]",['EBK'],Miete zzgl. NK 1.030 €,Wohnfläche ca. 50 m²,Zi. 1,69,8

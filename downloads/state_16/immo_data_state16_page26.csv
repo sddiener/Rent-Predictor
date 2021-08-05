@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44906379,4 Raum Wohnung Gera barrierefrei mit Aufzug WE 402/403...,"['Dachgeschosswohnung', '•', 'Gera', 'Innenstadt']",[],"Miete zzgl. NK 436,15 €",Wohnfläche ca. 87 m²,Zi. 4,26,16
-1,selObject_44905827,4 Raum Wohnung Gera barrierefrei mit Aufzug WE 302/303...,"['Wohnung', '•', 'Gera', 'Innenstadt']",[],"Miete zzgl. NK 452,45 €",Wohnfläche ca. 90 m²,Zi. 4,26,16
-2,selObject_44905791,Leben in der Stadt - elegante Dreiraumwohnung,"['Etagenwohnung', '•', 'Jena', 'Zentrum']",['EBK'],Miete zzgl. NK 840 €,Wohnfläche ca. 90 m²,Zi. 3,26,16
-3,selObject_44905700,2-Raumwohnung in 98596 Brotterode,"['Wohnung', '•', 'Brotterode-Trusetal', 'Brotterode']",[],Miete zzgl. NK 220 €,Wohnfläche ca. 50 m²,Zi. 2,26,16
-4,selObject_44905661,3-Zimmer-Wohnung mit großzügiger Süd-Terrasse * 78 m²...,"['Etagenwohnung', '•', 'Gera', 'Debschwitz']",[],Miete zzgl. NK 700 €,Wohnfläche ca. 78 m²,Zi. 3,26,16
-5,selObject_44905596,onlineBESICHTIGUNG** - HEREINSPAZIERT in die eigenen 4...,"['Maisonette', '•', 'Gera', 'Innenstadt']",[],Miete zzgl. NK 550 €,Wohnfläche ca. 97 m²,Zi. 3,26,16
-6,selObject_44905455,Ich bin NEU! Nimm mich!,"['Wohnung', '•', 'Hermsdorf']",[],Miete zzgl. NK 225 €,Wohnfläche ca. 40 m²,Zi. 2,26,16
-7,selObject_44905445,2-Raum Wohnung sucht neunen MIETER!!! 2-Monate Mietfre...,"['Wohnung', '•', 'Hermsdorf']",[],Miete zzgl. NK 240 €,Wohnfläche ca. 48 m²,Zi. 2,26,16
-8,selObject_44905359,3 - Zimmerwohnung mit Einbauküche in Stadtlage,"['Wohnung', '•', 'Gera', 'Innenstadt']",[],Miete zzgl. NK 370 €,Wohnfläche ca. 70 m²,Zi. 3,26,16
-9,selObject_44905343,"Exclusive Maisonette mit Terrasse, Balkon und Einbaukü...","['Erdgeschosswohnung', '•', 'Gera', 'Innenstadt']",['Balkon'],Miete zzgl. NK 917 €,Wohnfläche ca. 133 m²,Zi. 5,26,16
-10,selObject_44905195,3-Raum Wohnung im ruhiger Zentrumsnaher Lage mit Balko...,"['Dachgeschosswohnung', '•', 'Greiz', 'Greiz']",['EBK'],Miete zzgl. NK 340 €,Wohnfläche ca. 65 m²,Zi. 3,26,16
-11,selObject_44905180,Geräumige 2-Raum-Wohnung im 1. OG in saniertem Mehrfam...,"['Wohnung', '•', 'Greiz', 'Greiz']",[],Miete zzgl. NK 290 €,Wohnfläche ca. 62 m²,Zi. 2,26,16
-12,selObject_44905168,2-Raum-Wohnung im Zentrum,"['Wohnung', '•', 'Greiz', 'Greiz']",[],Miete zzgl. NK 262 €,Wohnfläche ca. 64 m²,Zi. 2,26,16
-13,selObject_44905167,Großzügige 2-Raum-Wohnung in Greiz,"['Wohnung', '•', 'Greiz', 'Greiz']",[],Miete zzgl. NK 218 €,Wohnfläche ca. 54 m²,Zi. 2,26,16
-14,selObject_44905151,2-Raum-Wohnung in ruhiger Lage mit Einbauküche,"['Wohnung', '•', 'Greiz', 'Greiz']",['EBK'],Miete zzgl. NK 240 €,Wohnfläche ca. 52 m²,Zi. 2,26,16
-15,selObject_44905113,kleine möblierte 2-Raum-Wohnung in Greiz,"['Erdgeschosswohnung', '•', 'Greiz', 'Greiz']",['EBK'],Miete zzgl. NK 210 €,Wohnfläche ca. 40 m²,Zi. 2,26,16
-16,selObject_44905098,Wohnen in der grünen Stadt - 3-Raum-Wohnung in Ronnebu...,"['Wohnung', '•', 'Ronneburg', 'Ronneburg']",[],"Miete zzgl. NK 261,71 €",Wohnfläche ca. 53 m²,Zi. 3,26,16
-17,selObject_44904994,4- Raum - Wohnung Dachgeschoss mit Balkon,"['Dachgeschosswohnung', '•', 'Judenbach', 'Judenbach']",['Balkon'],Miete zzgl. NK 430 €,Wohnfläche ca. 88 m²,Zi. 4,26,16
-18,selObject_44904990,"1,5-Zimmer-Wohnung in ruhiger Lage","['Erdgeschosswohnung', '•', 'Greiz', 'Greiz']",[],Miete zzgl. NK 168 €,Wohnfläche ca. 28 m²,"Zi. 1,5",26,16
-19,selObject_44904958,barrierefrei wohnen in Sömmerda,"['Apartment', '•', 'Sömmerda', 'Sömmerda']","['Balkon', 'Garten']",Miete zzgl. NK 522 €,Wohnfläche ca. 58 m²,Zi. 2,26,16
-20,selObject_44904947,4 Raum Wohnung Gera barrierefrei mit Aufzug WE 202/203...,"['Wohnung', '•', 'Gera', 'Debschwitz']",[],"Miete zzgl. NK 448,75 €",Wohnfläche ca. 90 m²,Zi. 4,26,16
-21,selObject_44904681,3- Raumwohnung in Meuselbach,"['Kein', 'Bild']",[],Miete zzgl. NK 432 €,Wohnfläche ca. 88 m²,Zi. 3,26,16
-22,selObject_44904079,Wohnen in der grünen Stadt - 2-Raum-Wohnung in Ronnebu...,"['Wohnung', '•', 'Ronneburg', 'Ronneburg']",[],Miete zzgl. NK 238 €,Wohnfläche ca. 48 m²,Zi. 2,26,16
-23,selObject_44903755,Wohnen in der grünen Stadt - 2-Raum-Wohnung in Ronnebu...,"['Wohnung', '•', 'Ronneburg', 'Ronneburg']",[],"Miete zzgl. NK 290,18 €",Wohnfläche ca. 53 m²,Zi. 2,26,16
-24,selObject_44903654,2 Raumwohnung sucht Nachmieter!,"['Etagenwohnung', '•', 'Erfurt', 'Ilversgehofen']",[],"Miete zzgl. NK 333,71 €",Wohnfläche ca. 39 m²,Zi. 2,26,16
-25,selObject_44903604,Familienfreundliche Wohnung am Zoo!,"['Etagenwohnung', '•', 'Erfurt', 'Roter', 'Berg']",['Balkon'],"Miete zzgl. NK 441,96 €",Wohnfläche ca. 61 m²,Zi. 3,26,16
-26,selObject_44903516,Sonnige Wohnung mit Option EBK wartet auf neuen Mieter,"['Wohnung', '•', 'Arnstadt', 'Arnstadt']",['Balkon'],Miete zzgl. NK 390 €,Wohnfläche ca. 63 m²,Zi. 2,26,16
+0,selObject_44915613,Barrierearme 2-Raum-Wohnung mit bodengleicher Dusche...,"[['Etagenwohnung', '•', 'Gera', 'Lusan']]",['Balkon'],"Miete zzgl. NK 272,94 €",Wohnfläche ca. 49 m²,Zi. 2,26,16
+1,selObject_44915612,Günstiges WG-Zimmer in der Nähe der DHGE,"[['Etagenwohnung', '•', 'Gera', 'Bieblach']]",[],"Miete zzgl. NK 118,97 €",Wohnfläche ca. 22 m²,Zi. 1,26,16
+2,selObject_44915611,2-Raum-Wohnung mit Dusche und Balkon,"[['Etagenwohnung', '•', 'Gera', 'Lusan']]",['Balkon'],"Miete zzgl. NK 270,50 €",Wohnfläche ca. 54 m²,Zi. 2,26,16
+3,selObject_44915610,Barrierfreie 2-Raum-Wohnung mit bodengleicher Dusche...,"[['Etagenwohnung', '•', 'Gera', 'Lusan']]",['Balkon'],"Miete zzgl. NK 272,95 €",Wohnfläche ca. 47 m²,Zi. 2,26,16
+4,selObject_44915607,"Sanierte 1-Raum-Wohnung mit Aufzug, Dusche und großem...","[['Etagenwohnung', '•', 'Gera', 'Lusan']]",['Balkon'],"Miete zzgl. NK 189,31 €",Wohnfläche ca. 34 m²,Zi. 1,26,16
+5,selObject_44915606,2-Raum-Wohnung im WeidenCarré - Glücklich Wohnen am...,"[['Etagenwohnung', '•', 'Gera', 'Lusan']]",['Balkon'],"Miete zzgl. NK 636,90 €",Wohnfläche ca. 64 m²,Zi. 2,26,16
+6,selObject_44915603,Barrierefreie 1-Raum-Wohnung mit bodengleicher Dusche...,"[['Etagenwohnung', '•', 'Gera', 'Innenstadt']]",['Balkon'],"Miete zzgl. NK 345,73 €",Wohnfläche ca. 45 m²,Zi. 1,26,16
+7,selObject_44915602,Perfekt für Jung und Alt!!! Stadtwohnung mit Fahrstuhl...,"[['Etagenwohnung', '•', 'Mühlhausen', 'Mühlhausen']]",[],Miete zzgl. NK 910 €,Wohnfläche ca. 130 m²,Zi. 3,26,16
+8,selObject_44915599,3-Raum-Wohnung im Grünen mit tollem Ausblick vom Balko...,"[['Etagenwohnung', '•', 'Gera', 'Bieblach']]",['Balkon'],"Miete zzgl. NK 327,53 €",Wohnfläche ca. 60 m²,Zi. 3,26,16
+9,selObject_44915597,3-Raum-Wohnung im Grünen mit tollem Ausblick vom Balko...,"[['Etagenwohnung', '•', 'Gera', 'Bieblach']]",['Balkon'],"Miete zzgl. NK 326,76 €",Wohnfläche ca. 58 m²,Zi. 3,26,16
+10,selObject_44915596,3-Raum-Wohnung mit großem Balkon und Aufzug,"[['Etagenwohnung', '•', 'Gera', 'Bieblach']]",['Balkon'],"Miete zzgl. NK 449,63 €",Wohnfläche ca. 82 m²,Zi. 3,26,16
+11,selObject_44915594,Azubis und Studenten aufgepasst,"[['Etagenwohnung', '•', 'Gera', 'Bieblach']]",[],"Miete zzgl. NK 118,53 €",Wohnfläche ca. 22 m²,Zi. 1,26,16
+12,selObject_44915593,Du suchst eine WG in der Nähe der DHGE? Hier ist sie!,"[['Etagenwohnung', '•', 'Gera', 'Bieblach']]",[],"Miete zzgl. NK 119,79 €",Wohnfläche ca. 22 m²,Zi. 1,26,16
+13,selObject_44915591,Sanierte 3-Raum-Wohnung mit Badewanne und Balkon,"[['Etagenwohnung', '•', 'Gera', 'Bieblach']]",['Balkon'],"Miete zzgl. NK 336,46 €",Wohnfläche ca. 60 m²,Zi. 3,26,16
+14,selObject_44915590,3-Raum-Wohnung im Grünen mit Balkon,"[['Etagenwohnung', '•', 'Gera', 'Lusan']]",['Balkon'],"Miete zzgl. NK 339,85 €",Wohnfläche ca. 68 m²,Zi. 3,26,16
+15,selObject_44915585,Du suchst eine WG in der Nähe der DHGE? Hier ist sie!,"[['Etagenwohnung', '•', 'Gera', 'Bieblach']]",[],"Miete zzgl. NK 119,79 €",Wohnfläche ca. 22 m²,Zi. 1,26,16
+16,selObject_44915584,Sanierte 3-Raum-Wohnung in der Elstersiedlung Debschwi...,"[['Etagenwohnung', '•', 'Gera', 'Debschwitz']]",['Balkon'],"Miete zzgl. NK 347,82 €",Wohnfläche ca. 60 m²,Zi. 3,26,16
+17,selObject_44915577,3-Raum-Wohnung im Geraer Ostviertel mit Balkon und...,"[['Etagenwohnung', '•', 'Gera', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 330 €,Wohnfläche ca. 61 m²,Zi. 3,26,16
+18,selObject_44915576,Sanierte 3-Raum-Wohnung mit Badewanne und großem Balko...,"[['Etagenwohnung', '•', 'Gera', 'Bieblach']]",['Balkon'],"Miete zzgl. NK 342,44 €",Wohnfläche ca. 61 m²,Zi. 3,26,16
+19,selObject_44915575,Sanierte 2-Raum-Wohnung mit Badewanne u. Balkon in...,"[['Etagenwohnung', '•', 'Gera', 'Zwötzen']]",['Balkon'],"Miete zzgl. NK 273,17 €",Wohnfläche ca. 49 m²,Zi. 2,26,16
+20,selObject_44915574,Sanierte 3-Raum-Wohnung mit Badewanne und Balkon,"[['Etagenwohnung', '•', 'Gera', 'Bieblach']]",['Balkon'],"Miete zzgl. NK 321,31 €",Wohnfläche ca. 58 m²,Zi. 3,26,16
+21,selObject_44915573,Hallo Studenten und Azubis,"[['Etagenwohnung', '•', 'Gera', 'Bieblach']]",[],"Miete zzgl. NK 130,02 €",Wohnfläche ca. 24 m²,Zi. 1,26,16
+22,selObject_44915572,Wohngemeinschaft in Gera - Azubis und Studenten aufgep...,"[['Etagenwohnung', '•', 'Gera', 'Bieblach']]",[],"Miete zzgl. NK 130,63 €",Wohnfläche ca. 24 m²,Zi. 1,26,16
+23,selObject_44915570,"Sanierte 1-Raum-Wohnung mit Aufzug, Dusche und großem...","[['Etagenwohnung', '•', 'Gera', 'Lusan']]",['Balkon'],"Miete zzgl. NK 189,31 €",Wohnfläche ca. 34 m²,Zi. 1,26,16
+24,selObject_44915569,3-Raum-Wohnung mit bodengleicher Dusche und Balkon,"[['Etagenwohnung', '•', 'Gera', 'Pforten']]",['Balkon'],"Miete zzgl. NK 334,09 €",Wohnfläche ca. 60 m²,Zi. 3,26,16
+25,selObject_44915568,"2-Raum-Wohnung mit bodengleicher Dusche, Aufzug und...","[['Etagenwohnung', '•', 'Gera', 'Innenstadt']]",['Balkon'],"Miete zzgl. NK 323,30 €",Wohnfläche ca. 53 m²,Zi. 2,26,16
+26,selObject_44915567,Ihr neuer Wohntraum - 3-Raum-Wohnung mit offener Küche,"[['Etagenwohnung', '•', 'Gera', 'Lusan']]",['Balkon'],"Miete zzgl. NK 328,38 €",Wohnfläche ca. 63 m²,Zi. 3,26,16

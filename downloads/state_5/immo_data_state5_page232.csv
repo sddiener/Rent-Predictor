@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44154163,Singleapartment m. Einbauküche in Duisburg,"['Dachgeschosswohnung', '•', 'Duisburg', 'Altstadt']",['EBK'],Miete zzgl. NK 300 €,Wohnfläche ca. 43 m²,Zi. 1,232,5
-1,selObject_44154121,Großzügige Penthouse-Wohnung (H1/W7) mit Traumausblick...,"['Penthouse', '•', 'Schwerte', 'Ergste']",['Balkon'],"Miete zzgl. NK 1.367,16 €",Wohnfläche ca. 100 m²,Zi. 2,232,5
-2,selObject_44154098,Absolute Traum-Wohnung als Penthouse (H3/W5) mit gigan...,"['Penthouse', '•', 'Schwerte', 'Ergste']",['Balkon'],"Miete zzgl. NK 1.888,32 €",Wohnfläche ca. 157 m²,Zi. 3,232,5
-3,selObject_44154027,Modern aufgeteilte Neubauwohnung (H1/W5) mit schönem...,"['Etagenwohnung', '•', 'Schwerte', 'Ergste']",['Balkon'],"Miete zzgl. NK 1.016,83 €",Wohnfläche ca. 91 m²,Zi. 3,232,5
-4,selObject_44153958,Optimal aufgeteilte Neubauwohnung (H1/W3) mit schönem...,"['Erdgeschosswohnung', '•', 'Schwerte', 'Ergste']",['Balkon'],"Miete zzgl. NK 1.022,81 €",Wohnfläche ca. 91 m²,Zi. 3,232,5
-5,selObject_44153892,Innenstadt | Personen-Aufzug | Nur 3 Wohn-Parteien im...,"['Etagenwohnung', '•', 'Recklinghausen', 'Stadtmitte']",[],"Miete zzgl. NK 487,60 €",Wohnfläche ca. 92 m²,Zi. 3,232,5
-6,selObject_44151970,3 Zimmer Komfort Wohnung,"['Etagenwohnung', '•', 'Düsseldorf', 'Golzheim']",[],Miete zzgl. NK 777 €,Wohnfläche ca. 84 m²,Zi. 3,232,5
-7,selObject_44150363,Großzügig aufgeteilte Neubauwohnung (H2/W2) mit schöne...,"['Erdgeschosswohnung', '•', 'Schwerte', 'Ergste']","['Balkon', 'Garten']","Miete zzgl. NK 1.141,69 €",Wohnfläche ca. 104 m²,Zi. 3,232,5
-8,selObject_44150362,Modern aufgeteilte Neubauwohnung (H1/W1) mit schöner...,"['Erdgeschosswohnung', '•', 'Schwerte', 'Ergste']","['Balkon', 'Garten']","Miete zzgl. NK 999,31 €",Wohnfläche ca. 90 m²,Zi. 3,232,5
-9,selObject_44150361,Modern aufgeteilte Neubauwohnung (H1/W2) mit schöner...,"['Erdgeschosswohnung', '•', 'Schwerte', 'Ergste']","['Balkon', 'Garten']","Miete zzgl. NK 962,15 €",Wohnfläche ca. 86 m²,Zi. 3,232,5
-10,selObject_44149057,Moderne Drei-Zimmer-Wohnung mit Einbauküche auf der...,"['Wohnung', '•', 'Aachen']",['EBK'],Miete zzgl. NK 850 €,Wohnfläche ca. 72 m²,Zi. 3,232,5
-11,selObject_44148672,Top 1-Zimmer Appartement im Kölner Stadtzentrum Mühlhe...,"['Wohnung', '•', 'Köln', 'Mülheim']",['EBK'],Miete zzgl. NK 880 €,Wohnfläche ca. 31 m²,Zi. 1,232,5
-12,selObject_44148265,Etagenwohnung mit großer Küche,"['Etagenwohnung', '•', 'Mönchengladbach', 'Rheydt']",[],Miete zzgl. NK 391 €,Wohnfläche ca. 68 m²,Zi. 2,232,5
-13,selObject_44147852,AC-Zentrum (Jakobsviertel): Schöne helle 3-Zi.-Whg. in...,"['Etagenwohnung', '•', 'Aachen', 'Aachen']",[],"Miete zzgl. NK 622,70 €",Wohnfläche ca. 62 m²,Zi. 2,232,5
-14,selObject_44147789,Schöne Maisonette-Wohnung! WBS für 2 Personen erforder...,"['Dachgeschosswohnung', '•', 'Essen', 'Schonnebeck']",['Balkon'],"Miete zzgl. NK 306,86 €",Wohnfläche ca. 65 m²,"Zi. 2,5",232,5
-15,selObject_44147771,Bezugsfertige und sanierte Wohnung in Bahnhofsnähe,"['Etagenwohnung', '•', 'Aachen', 'Aachen']",['Balkon'],"Miete zzgl. NK 631,50 €",Wohnfläche ca. 63 m²,Zi. 2,232,5
-16,selObject_44147742,Wer will mich!? 3-Zimmer-Wohnung in Stadtlage,"['Etagenwohnung', '•', 'Lüdenscheid', 'Lüdenscheid']",['Balkon'],Miete zzgl. NK 465 €,Wohnfläche ca. 66 m²,Zi. 3,232,5
-17,selObject_44147733,Hier lässt es sich aushalten: 2-Zi.- Citywohnung,"['Etagenwohnung', '•', 'Aachen', 'Aachen']",[],"Miete zzgl. NK 489,60 €",Wohnfläche ca. 46 m²,Zi. 2,232,5
-18,selObject_44147731,Nette Nachbarn gesucht: individuelle 2-Zimmer-Wohnung,"['Etagenwohnung', '•', 'Essen', 'Katernberg']",[],Miete zzgl. NK 349 €,Wohnfläche ca. 44 m²,Zi. 3,232,5
-19,selObject_44147696,FRISCH renovierte 3-Zimmer Wohnung,"['Etagenwohnung', '•', 'Dortmund', 'Westerfilde']",['Balkon'],Miete zzgl. NK 599 €,Wohnfläche ca. 79 m²,"Zi. 3,5",232,5
-20,selObject_44147661,"Ankommen, Einziehen & Wohlfühlen: Ihr neues Zuhause -...","['Etagenwohnung', '•', 'Essen', 'Katernberg']","['Balkon', 'EBK']",Miete zzgl. NK 498 €,Wohnfläche ca. 51 m²,"Zi. 2,5",232,5
-21,selObject_44147656,Bei Anmietung bis zum 31.05.21 stellen wir drei Grundm...,"['Dachgeschosswohnung', '•', 'Dortmund', 'Kirchlinde']",['Balkon'],Miete zzgl. NK 589 €,Wohnfläche ca. 73 m²,"Zi. 2,5",232,5
-22,selObject_44147637,"AC-Zentrum/Burtscheid: Schöne große 2,5-Zi-DG-Whg. mit...","['Etagenwohnung', '•', 'Aachen', 'Aachen']",[],Miete zzgl. NK 479 €,Wohnfläche ca. 48 m²,Zi. 2,232,5
-23,selObject_44146825,"Moderne 2,5-Zimmer Wohnung mit Ankleidezimmer!","['Wohnung', '•', 'Lüdenscheid', 'Lüdenscheid']",[],Miete zzgl. NK 429 €,Wohnfläche ca. 100 m²,"Zi. 2,5",232,5
-24,selObject_44145090,Mitten im Grünen,"['Wohnung', '•', 'Minden', 'Innenstadt']","['Balkon', 'Garten']",Miete zzgl. NK 470 €,Wohnfläche ca. 70 m²,Zi. 3,232,5
-25,selObject_44145085,Perfekte WG Wohnung,"['Wohnung', '•', 'Minden', 'Innenstadt']",['Garten'],Miete zzgl. NK 420 €,Wohnfläche ca. 60 m²,Zi. 2,232,5
-26,selObject_44145082,Neu,"['Wohnung', '•', 'Minden', 'Innenstadt']",['Garten'],Miete zzgl. NK 370 €,Wohnfläche ca. 28 m²,Zi. 1,232,5
+0,selObject_44168682,Das macht strahlend gute Laune: Willkommen im neuen...,"[['Etagenwohnung', '•', 'Mülheim', 'Broich']]",['Balkon'],"Miete zzgl. NK 612,06 €",Wohnfläche ca. 58 m²,"Zi. 2,5",232,5
+1,selObject_44168598,"Etwas besonderes: günstig geschnittene 2,5-Zimmer-Wohn...","[['Erdgeschosswohnung', '•', 'Dortmund', 'Eving']]",['Balkon'],Miete zzgl. NK 395 €,Wohnfläche ca. 46 m²,"Zi. 2,5",232,5
+2,selObject_44168533,"Mitten drin statt nur dabei: günstige 3,5-Zimmer-Wohnu...","[['Etagenwohnung', '•', 'Dortmund', 'Oestrich']]",['Balkon'],Miete zzgl. NK 509 €,Wohnfläche ca. 59 m²,Zi. 3,232,5
+3,selObject_44168481,"Wir renovieren, Sie ziehen ein und fühlen sich wohl! 3...","[['Etagenwohnung', '•', 'Dortmund', 'Westerfilde']]",['Balkon'],Miete zzgl. NK 549 €,Wohnfläche ca. 72 m²,"Zi. 3,5",232,5
+4,selObject_44168459,"Miet mich - individuelle 2,5-Zimmer-Wohnung","[['Etagenwohnung', '•', 'Essen', 'Katernberg']]",['Balkon'],Miete zzgl. NK 334 €,Wohnfläche ca. 52 m²,"Zi. 2,5",232,5
+5,selObject_44168440,Das macht strahlend gute Laune: Willkommen im neuen...,"[['Etagenwohnung', '•', 'Recklinghausen', 'Stadtmitte']]",['Balkon'],"Miete zzgl. NK 375,10 €",Wohnfläche ca. 60 m²,Zi. 3,232,5
+6,selObject_44168437,Attraktiv! Günstig geschnittene 2-Zimmer-Wohnung in...,"[['Erdgeschosswohnung', '•', 'Essen', 'Altenessen-Nord']]",[],Miete zzgl. NK 429 €,Wohnfläche ca. 50 m²,Zi. 2,232,5
+7,selObject_44168405,Einzug ab sofort möglich: 1-Zimmer-Wohnung mit Aufzug...,"[['Etagenwohnung', '•', 'Düsseldorf', 'Stadtmitte']]",[],"Miete zzgl. NK 556,14 €",Wohnfläche ca. 40 m²,Zi. 1,232,5
+8,selObject_44165696,DG Flair,"[['Wohnung', '•', 'Minden', 'Innenstadt']]",['Garten'],Miete zzgl. NK 499 €,Wohnfläche ca. 72 m²,Zi. 3,232,5
+9,selObject_44162389,Helle 3 Zimmerwohnung,"[['Etagenwohnung', '•', 'Bielefeld', 'Brackwede']]",[],Miete zzgl. NK 770 €,Wohnfläche ca. 91 m²,Zi. 3,232,5
+10,selObject_44160841,LUXUS WOHNEN ZUM ECONOMY PREIS! 500€ Prämie und 3 Mona...,"[['Etagenwohnung', '•', 'Kamen', 'Kamen-Mitte']]",[],Miete zzgl. NK 549 €,Wohnfläche ca. 71 m²,Zi. 3,232,5
+11,selObject_44160770,LUXUS WOHNEN ZUM ECONOMY PREIS! 500€ Prämie und 3 Mona...,"[['Etagenwohnung', '•', 'Kamen', 'Kamen-Mitte']]",[],Miete zzgl. NK 539 €,Wohnfläche ca. 70 m²,Zi. 3,232,5
+12,selObject_44160524,LUXUS WOHNEN ZUM ECONOMY PREIS! 500€ Prämie und 3 Mona...,"[['Etagenwohnung', '•', 'Kamen', 'Kamen-Mitte']]",[],Miete zzgl. NK 579 €,Wohnfläche ca. 72 m²,Zi. 3,232,5
+13,selObject_44160279,LUXUS WOHNEN ZUM ECONOMY PREIS! 500€ Prämie und 3 Mona...,"[['Etagenwohnung', '•', 'Bergkamen', 'Weddinghofen']]",['Balkon'],Miete zzgl. NK 689 €,Wohnfläche ca. 81 m²,Zi. 3,232,5
+14,selObject_44160220,LUXUS WOHNEN ZUM ECONOMY PREIS! 500€ Prämie und 3 Mona...,"[['Etagenwohnung', '•', 'Bergkamen', 'Weddinghofen']]",['Balkon'],Miete zzgl. NK 649 €,Wohnfläche ca. 76 m²,Zi. 3,232,5
+15,selObject_44159962,Saniertes Apartment mit Küche und Waschmaschine,"[['Erdgeschosswohnung', '•', 'Köln', 'Nippes']]","['Balkon', 'EBK']",Miete zzgl. NK 495 €,Wohnfläche ca. 22 m²,Zi. 1,232,5
+16,selObject_44159718,Exklusive und zentrale Neubauwohnung - seniorengerecht...,"[['Dachgeschosswohnung', '•', 'Lübbecke', 'Lübbecke']]","['Balkon', 'EBK']",Miete zzgl. NK 855 €,Wohnfläche ca. 111 m²,Zi. 3,232,5
+17,selObject_44158462,Hier wartet Ihr neues Zuhause! 2-Zimmer-Wohnung in...,"[['Etagenwohnung', '•', 'Detmold', 'Heidenoldendorf']]",['Balkon'],Miete zzgl. NK 427 €,Wohnfläche ca. 61 m²,Zi. 2,232,5
+18,selObject_44158384,Schönes Appartement am Ponttor,"[['Apartment', '•', 'Aachen', 'Aachen']]",[],Miete zzgl. NK 349 €,Wohnfläche ca. 18 m²,Zi. 1,232,5
+19,selObject_44158038,Schönes 1 Zimmerapartment Köln,"[['Dachgeschosswohnung', '•', 'Köln', 'Mülheim']]",[],Miete zzgl. NK 425 €,Wohnfläche ca. 18 m²,Zi. 1,232,5
+20,selObject_44157798,Smarter Wohnen! Schöne 2-Zi.-DG-Wohnung in ruhiger...,"[['Dachgeschosswohnung', '•', 'Duisburg', 'Marxloh']]",[],Miete zzgl. NK 335 €,Wohnfläche ca. 61 m²,Zi. 2,232,5
+21,selObject_44157761,Smarter Wohnen! Gemütliche 2-Zi.-Wohnung in top gepfl...,"[['Dachgeschosswohnung', '•', 'Duisburg', 'Marxloh']]",[],Miete zzgl. NK 369 €,Wohnfläche ca. 71 m²,Zi. 2,232,5
+22,selObject_44157760,Smarter Wohnen! Schöne 2-Zimmerwohnung in Duisburg...,"[['Etagenwohnung', '•', 'Duisburg', 'Marxloh']]",[],Miete zzgl. NK 355 €,Wohnfläche ca. 60 m²,Zi. 2,232,5
+23,selObject_44157501,"Zentrales, helles Wohnen am Hansaring","[['Etagenwohnung', '•', 'Münster', 'Centrum']]",['EBK'],Miete zzgl. NK 470 €,Wohnfläche ca. 27 m²,Zi. 1,232,5
+24,selObject_44157411,Helle 3-Zimmer-Wohnung zur vermieten,"[['Wohnung', '•', 'Oberhausen', 'Klosterhardt-Süd']]",[],Miete zzgl. NK 330 €,Wohnfläche ca. 65 m²,"Zi. 3,5",232,5
+25,selObject_44156484,1 Zimmer Apartment in Langscheid,"[['Kein', 'Bild'], ['Etagenwohnung', '•', 'Sundern', 'Langscheid']]",['Balkon'],Miete zzgl. NK 270 €,Wohnfläche ca. 27 m²,Zi. 1,232,5
+26,selObject_44156455,Single Appartement im Grünen sucht ruhigen Mieter w/m/...,"[['Maisonette', '•', 'Mülheim', 'Mitte-Ost']]",[],Miete zzgl. NK 385 €,Wohnfläche ca. 45 m²,Zi. 2,232,5

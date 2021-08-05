@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44957170,Die eigenen vier Wände. Erstbezug.,"['Etagenwohnung', '•', 'Berlin', 'Weißensee']","['Balkon', 'EBK']","Miete zzgl. NK 1.169,36 €",Wohnfläche ca. 71 m²,Zi. 3,9,11
-1,selObject_44957169,Einfach zum verlieben. Erstbezug.,"['Etagenwohnung', '•', 'Berlin', 'Weißensee']","['Balkon', 'EBK']","Miete zzgl. NK 1.476,53 €",Wohnfläche ca. 95 m²,Zi. 3,9,11
-2,selObject_44957168,3 Zimmer + Wohnküche. Erstbezug.,"['Etagenwohnung', '•', 'Berlin', 'Weißensee']","['Balkon', 'EBK']","Miete zzgl. NK 1.490,64 €",Wohnfläche ca. 96 m²,Zi. 3,9,11
-3,selObject_44957165,Stiegenhaus - Erstbezug.,"['Penthouse', '•', 'Berlin', 'Weißensee']","['Balkon', 'EBK']","Miete zzgl. NK 916,47 €",Wohnfläche ca. 54 m²,Zi. 2,9,11
-4,selObject_44957159,"2 Bäder - 2 Balkone, traumhafter Erstbezug.","['Etagenwohnung', '•', 'Berlin', 'Weißensee']","['Balkon', 'EBK']","Miete zzgl. NK 1.820,48 €",Wohnfläche ca. 118 m²,Zi. 4,9,11
-5,selObject_44957142,Möblierte 4-Zimmmer-Wohnung mit 5 Betten und 2 Bädern...,"['Apartment', '•', 'Berlin', 'Friedrichshain']",['EBK'],Miete zzgl. NK 1.350 €,Wohnfläche ca. 71 m²,Zi. 4,9,11
-6,selObject_44957098,HOMESK - 5-Zimmer-Dachgeschoss-Maisonettewohnung mit 3...,"['Dachgeschosswohnung', '•', 'Berlin', 'Prenzlauer', 'Berg']",['EBK'],Miete zzgl. NK 3.400 €,Wohnfläche ca. 197 m²,Zi. 5,9,11
-7,selObject_44957032,Lichtdurchfluteter Rückzugsort im 6. OG / Erstbezug /...,"['Wohnung', '•', 'Berlin', 'Kreuzberg']","['Balkon', 'EBK']",Miete zzgl. NK 2.680 €,Wohnfläche ca. 111 m²,Zi. 4,9,11
-8,selObject_44956953,HOMESK - 3-Zimmer-Souterrainwohnung in Moabit,"['Souterrainwohnung', '•', 'Berlin', 'Moabit']",['EBK'],Miete zzgl. NK 1.284 €,Wohnfläche ca. 71 m²,Zi. 3,9,11
-9,selObject_44956927,Quartier Zwei - schöne Souterrainwohnung in der nähe...,"['Souterrainwohnung', '•', 'Berlin', 'Kladow']","['Garten', 'EBK']",Miete zzgl. NK 515 €,Wohnfläche ca. 47 m²,Zi. 2,9,11
-10,selObject_44956785,"Britz: Franz-Körner-Str. ERSTBEZUG NEUBAU: 3-Zi, Parke...","['Etagenwohnung', '•', 'Berlin', 'Britz']","['Balkon', 'EBK']","Miete zzgl. NK 902,50 €",Wohnfläche ca. 48 m²,Zi. 3,9,11
-11,selObject_44956512,Genial geschnittene Wohlfühlzone mit Fußbodenheizung &...,"['Erdgeschosswohnung', '•', 'Berlin', 'Französisch', 'Buchholz']","['Balkon', 'EBK']",Miete zzgl. NK 662 €,Wohnfläche ca. 66 m²,Zi. 2,9,11
-12,selObject_44955803,Alt-Bau Wohnung voll ausgestattet und möbliert für 3...,"['Apartment', '•', 'Berlin', 'Moabit']","['Garten', 'EBK']",Miete zzgl. NK 830 €,Wohnfläche ca. 30 m²,"Zi. 1,5",9,11
-13,selObject_44955631,HOMESK - Dachgeschosswohnung mit großer Aufdach-Dachte...,"['Dachgeschosswohnung', '•', 'Berlin', 'Moabit']",['EBK'],"Miete zzgl. NK 1.355,53 €",Wohnfläche ca. 76 m²,Zi. 2,9,11
-14,selObject_44955486,Wohnen im Grünen: 5 Zimmer-Penthauswohnung im Neubaupr...,"['Penthouse', '•', 'Berlin', 'Marzahn']","['Balkon', 'Garten']",Miete zzgl. NK 1.484 €,Wohnfläche ca. 106 m²,Zi. 5,9,11
-15,selObject_44955456,Lichtdurchflutete Maisonette Wohnung in bester Lage...,"['Maisonette', '•', 'Berlin', 'Nikolassee']","['Garten', 'EBK']",Miete inkl. NK 1.500 €,Wohnfläche ca. 80 m²,"Zi. 2,5",9,11
-16,selObject_44955451,Wohnen im Grünen: 2-Zimmerwohnung mit Einbauküche im...,"['Etagenwohnung', '•', 'Berlin', 'Marzahn']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 923 €,Wohnfläche ca. 71 m²,Zi. 2,9,11
-17,selObject_44955316,Helle geräumige 1-Zimmer-Wohnung mit Balkon in Charlot...,"['Wohnung', '•', 'Berlin', 'Charlottenburg']","['Balkon', 'EBK']",Miete zzgl. NK 515 €,Wohnfläche ca. 38 m²,Zi. 1,9,11
-18,selObject_44952381,Möbliertes 2-Zimmer Apartment an der Spree,"['Erdgeschosswohnung', '•', 'Berlin', 'Moabit']","['Garten', 'EBK']",Miete inkl. NK 1.200 €,Wohnfläche ca. 45 m²,Zi. 2,9,11
-19,selObject_44952239,Wohnung zu vermieten - mit Geschmack eingerichtet,"['Apartment', '•', 'Berlin', 'Wedding']",['EBK'],Miete zzgl. NK 750 €,Wohnfläche ca. 35 m²,Zi. 1,9,11
-20,selObject_44952225,DAMM TOWN - Dein neues zu Hause ab 2022,"['Etagenwohnung', '•', 'Berlin', 'Plänterwald']","['Balkon', 'EBK']",Miete zzgl. NK 925 €,Wohnfläche ca. 52 m²,Zi. 2,9,11
-21,selObject_44952224,DAMM TOWN - Dein neues zu Hause ab 2022,"['Etagenwohnung', '•', 'Berlin', 'Plänterwald']","['Balkon', 'EBK']",Miete zzgl. NK 1.179 €,Wohnfläche ca. 67 m²,Zi. 2,9,11
-22,selObject_44952223,DAMM TOWN - Wohnen im Grünen,"['Etagenwohnung', '•', 'Berlin', 'Plänterwald']","['Balkon', 'EBK']",Miete zzgl. NK 1.689 €,Wohnfläche ca. 96 m²,Zi. 4,9,11
-23,selObject_44952222,"1-Zimmer-Wohnung - Grunewaldstraße, komplett eingerich...","['Apartment', '•', 'Berlin', 'Schöneberg']",['EBK'],Miete zzgl. NK 820 €,Wohnfläche ca. 39 m²,Zi. 1,9,11
-24,selObject_44951500,Exklusive 2-Zimmer Neubauwohnung in Berlin-Mitte,"['Wohnung', '•', 'Berlin', 'Mitte']","['Balkon', 'EBK']",Miete zzgl. NK 995 €,Wohnfläche ca. 50 m²,Zi. 2,9,11
-25,selObject_44951273,Home Classic M | 75m² Wohnung mit 2 Zimmern in Berlin,"['Etagenwohnung', '•', 'Berlin', 'Prenzlauer', 'Berg']","['Balkon', 'EBK']",Miete zzgl. NK 1.800 €,Wohnfläche ca. 75 m²,Zi. 2,9,11
-26,selObject_44950729,Erstbezug - Zweizimmerwohnung mit Einbauküche und Balk...,"['Etagenwohnung', '•', 'Berlin', 'Tiergarten']","['Balkon', 'EBK']",Miete zzgl. NK 999 €,Wohnfläche ca. 46 m²,Zi. 2,9,11
+0,selObject_44968804,Lichtdurchflutete Wohnung in grüner Lage!! **Tageslich...,"[['Wohnung', '•', 'Berlin', 'Alt-Hohenschönhausen']]",['Garten'],"Miete zzgl. NK 699,26 €",Wohnfläche ca. 76 m²,Zi. 2,9,11
+1,selObject_44968486,2 Zimmer Apartment im Herzen Berlins,"[['Wohnung', '•', 'Berlin', 'Moabit']]","['Balkon', 'EBK']",Miete zzgl. NK 1.250 €,Wohnfläche ca. 47 m²,Zi. 2,9,11
+2,selObject_44968138,Wohnen im Grünen: 2-Zimmerwohnung im Neubauprojekt...,"[['Etagenwohnung', '•', 'Berlin', 'Marzahn']]",['Garten'],Miete zzgl. NK 696 €,Wohnfläche ca. 58 m²,Zi. 2,9,11
+3,selObject_44967931,Helle 3-Zimmer möblierte Altbauwohnung mit 87 m² in...,"[['Wohnung', '•', 'Berlin', 'Friedrichshain']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.800 €,Wohnfläche ca. 87 m²,Zi. 3,9,11
+4,selObject_44967401,WUNDERSCHÖNES - 1 ZIMMER APPARTMENT - NEUBAU - BALKON...,"[['Etagenwohnung', '•', 'Berlin', 'Prenzlauer', 'Berg']]","['Balkon', 'EBK']",Miete zzgl. NK 880 €,Wohnfläche ca. 38 m²,Zi. 1,9,11
+5,selObject_44967400,ERSTBEZUG - 2 ZIMMER WOHNUNG - EINBAUKÜCHE - MIT BALKO...,"[['Etagenwohnung', '•', 'Berlin', 'Prenzlauer', 'Berg']]","['Balkon', 'EBK']",Miete zzgl. NK 1.160 €,Wohnfläche ca. 53 m²,Zi. 2,9,11
+6,selObject_44967399,ERSTBEZUG - WUNDERSCHÖNE - 4 ZIMMERWOHNUNG - BALKON -...,"[['Etagenwohnung', '•', 'Berlin', 'Prenzlauer', 'Berg']]","['Balkon', 'EBK']",Miete zzgl. NK 2.570 €,Wohnfläche ca. 116 m²,Zi. 4,9,11
+7,selObject_44967398,ERSTBEZUG - WUNDERSCHÖNE - 4 ZIMMERWOHNUNG - BALKON -...,"[['Etagenwohnung', '•', 'Berlin', 'Prenzlauer', 'Berg']]","['Balkon', 'EBK']",Miete zzgl. NK 2.510 €,Wohnfläche ca. 116 m²,Zi. 4,9,11
+8,selObject_44967397,ERSTBEZUG - WUNDERSCHÖNE - 4 ZIMMERWOHNUNG - BALKON -...,"[['Etagenwohnung', '•', 'Berlin', 'Prenzlauer', 'Berg']]","['Balkon', 'EBK']",Miete zzgl. NK 2.625 €,Wohnfläche ca. 116 m²,Zi. 4,9,11
+9,selObject_44967396,ERSTBEZUG - 2 ZIMMER WOHNUNG - EINBAUKÜCHE - MIT BALKO...,"[['Etagenwohnung', '•', 'Berlin', 'Prenzlauer', 'Berg']]","['Balkon', 'EBK']",Miete zzgl. NK 1.150 €,Wohnfläche ca. 52 m²,Zi. 2,9,11
+10,selObject_44967395,ERSTBEZUG - 2 ZIMMER WOHNUNG - EINBAUKÜCHE - MIT BALKO...,"[['Etagenwohnung', '•', 'Berlin', 'Prenzlauer', 'Berg']]","['Balkon', 'EBK']",Miete zzgl. NK 1.150 €,Wohnfläche ca. 52 m²,Zi. 2,9,11
+11,selObject_44967394,ERSTBEZUG - 2 ZIMMER WOHNUNG - EINBAUKÜCHE - MIT BALKO...,"[['Etagenwohnung', '•', 'Berlin', 'Prenzlauer', 'Berg']]","['Balkon', 'EBK']",Miete zzgl. NK 1.465 €,Wohnfläche ca. 71 m²,Zi. 2,9,11
+12,selObject_44967393,ERSTBEZUG - WUNDERSCHÖNE - 4 ZIMMERWOHNUNG - BALKON -...,"[['Etagenwohnung', '•', 'Berlin', 'Prenzlauer', 'Berg']]","['Balkon', 'EBK']",Miete zzgl. NK 2.450 €,Wohnfläche ca. 116 m²,Zi. 4,9,11
+13,selObject_44967392,WUNDERSCHÖNES - 1 ZIMMER APPARTMENT - NEUBAU - BALKON...,"[['Etagenwohnung', '•', 'Berlin', 'Prenzlauer', 'Berg']]","['Balkon', 'EBK']",Miete zzgl. NK 900 €,Wohnfläche ca. 38 m²,Zi. 1,9,11
+14,selObject_44967391,ERSTBEZUG - 2 ZIMMER WOHNUNG - EINBAUKÜCHE - MIT BALKO...,"[['Erdgeschosswohnung', '•', 'Berlin', 'Prenzlauer', 'Berg']]","['Balkon', 'EBK']",Miete zzgl. NK 1.185 €,Wohnfläche ca. 61 m²,Zi. 2,9,11
+15,selObject_44967390,WUNDERSCHÖNES - 1 ZIMMER APPARTMENT - NEUBAU - BALKON...,"[['Etagenwohnung', '•', 'Berlin', 'Prenzlauer', 'Berg']]","['Balkon', 'EBK']",Miete zzgl. NK 865 €,Wohnfläche ca. 38 m²,Zi. 1,9,11
+16,selObject_44967389,ERSTBEZUG - WUNDERSCHÖNE - 3 ZIMMERWOHNUNG - BALKON -...,"[['Etagenwohnung', '•', 'Berlin', 'Prenzlauer', 'Berg']]","['Balkon', 'EBK']",Miete zzgl. NK 1.934 €,Wohnfläche ca. 94 m²,Zi. 3,9,11
+17,selObject_44967388,ERSTBEZUG - 3 ZIMMER WOHNUNG - EINBAUKÜCHE - MIT BALKO...,"[['Etagenwohnung', '•', 'Berlin', 'Prenzlauer', 'Berg']]","['Balkon', 'EBK']",Miete zzgl. NK 1.550 €,Wohnfläche ca. 72 m²,Zi. 3,9,11
+18,selObject_44967387,ERSTBEZUG - WUNDERSCHÖNE - 4 ZIMMERWOHNUNG - BALKON -...,"[['Etagenwohnung', '•', 'Berlin', 'Prenzlauer', 'Berg']]","['Balkon', 'EBK']",Miete zzgl. NK 2.380 €,Wohnfläche ca. 116 m²,Zi. 4,9,11
+19,selObject_44966954,Home Essential S | 32m² 1-Zimmer Wohnung in Berlin,"[['Etagenwohnung', '•', 'Berlin', 'Charlottenburg']]","['Balkon', 'EBK']",Miete zzgl. NK 700 €,Wohnfläche ca. 32 m²,Zi. 1,9,11
+20,selObject_44965512,Loft im Dachgeschoss mit zwei Aufzügen Erstvermietung...,"[['Dachgeschosswohnung', '•', 'Berlin', 'Mitte']]",['Balkon'],Miete zzgl. NK 7.000 €,Wohnfläche ca. 300 m²,,9,11
+21,selObject_44965089,2-Zimmer-Apartment komplett eingerichtet in Berlin...,"[['Apartment', '•', 'Berlin', 'Halensee']]","['Balkon', 'EBK']",Miete zzgl. NK 1.300 €,Wohnfläche ca. 61 m²,Zi. 2,9,11
+22,selObject_44965074,4 Zi.Terrassenwohnung dicht Tegeler See ( für max.4...,"[['Wohnung', '•', 'Berlin', 'Tegel']]","['Garten', 'EBK']",Miete zzgl. NK 1.680 €,Wohnfläche ca. 142 m²,Zi. 4,9,11
+23,selObject_44965036,Kleine ansprechende DG 2-Zimmer-Wohnung mit 2 Terassen,"[['Wohnung', '•', 'Berlin', 'Niederschöneweide']]",['EBK'],Miete zzgl. NK 752 €,Wohnfläche ca. 44 m²,Zi. 2,9,11
+24,selObject_44964698,Tolle Familienwohnung mit Durchreiche zur Küche!,"[['Etagenwohnung', '•', 'Berlin', 'Hellersdorf']]",['Balkon'],Miete zzgl. NK 969 €,Wohnfläche ca. 83 m²,Zi. 4,9,11
+25,selObject_44964697,Geräumiges Familien-Apartment in Hellersdorf!,"[['Etagenwohnung', '•', 'Berlin', 'Hellersdorf']]",['Balkon'],Miete zzgl. NK 669 €,Wohnfläche ca. 70 m²,Zi. 3,9,11
+26,selObject_44960904,Großzügige Familienwohnung in Berlin-Mitte!,"[['Apartment', '•', 'Berlin', 'Mitte']]",['EBK'],Miete zzgl. NK 2.200 €,Wohnfläche ca. 107 m²,Zi. 4,9,11

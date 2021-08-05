@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44091137,"Schicke 2-R.-DG-Wohnung mit EBK, Kamin & Stellplatz in...","['Dachgeschosswohnung', '•', 'Gera', 'Ostviertel']","['Balkon', 'EBK']",Miete zzgl. NK 425 €,Wohnfläche ca. 60 m²,Zi. 2,72,16
-1,selObject_44090239,"3-Zimmer-Wohnung mit Einbauküche in Wichmar, nahe Jena","['Wohnung', '•', 'Wichmar', 'Wichmar']",['EBK'],Miete zzgl. NK 325 €,Wohnfläche ca. 64 m²,Zi. 3,72,16
-2,selObject_44088616,Großzügige 4-Raum-Wohnung in ruhiger und zentraler...,"['Dachgeschosswohnung', '•', 'Gera', 'Innenstadt']",['Garten'],Miete zzgl. NK 560 €,Wohnfläche ca. 98 m²,Zi. 4,72,16
-3,selObject_44084845,"3,5 Raumwohnung sucht neuen Mieter","['Etagenwohnung', '•', 'Altenburg', 'Altenburg']",[],Miete zzgl. NK 370 €,Wohnfläche ca. 70 m²,"Zi. 3,5",72,16
-4,selObject_44082556,Unter 27 Jahre und auf der Suche nach der ersten eigen...,"['Wohnung', '•', 'Suhl', 'Suhl']",['Balkon'],"Miete zzgl. NK 236,45 €",Wohnfläche ca. 54 m²,Zi. 3,72,16
-5,selObject_44081304,"gemütliche, zentrumsnahe 2 Raum-Wohnung im Geraer Stad...","['Etagenwohnung', '•', 'Gera', 'Pforten']",[],Miete zzgl. NK 288 €,Wohnfläche ca. 64 m²,Zi. 2,72,16
-6,selObject_44081302,"helle, geräumige 2 Raum-Wohnung im Geraer Stadtteil...","['Etagenwohnung', '•', 'Gera', 'Pforten']",[],Miete zzgl. NK 237 €,Wohnfläche ca. 52 m²,Zi. 2,72,16
-7,selObject_44081300,helle 2 Raum-Wohnung im Geraer Zentrum,"['Etagenwohnung', '•', 'Gera', 'Innenstadt']",['Balkon'],Miete zzgl. NK 322 €,Wohnfläche ca. 63 m²,Zi. 2,72,16
-8,selObject_44081298,große und zentrumsnahe 3 Raum-Wohnung in Debschwitz,"['Etagenwohnung', '•', 'Gera', 'Debschwitz']",['Balkon'],Miete zzgl. NK 303 €,Wohnfläche ca. 57 m²,Zi. 3,72,16
-9,selObject_44081297,helle 2-Raum Wohnung,"['Etagenwohnung', '•', 'Gera', 'Innenstadt']",[],Miete zzgl. NK 240 €,Wohnfläche ca. 56 m²,Zi. 2,72,16
-10,selObject_44081295,Zentrumsnahe 2 Raum-Wohnung im Ostviertel,"['Erdgeschosswohnung', '•', 'Gera', 'Ostviertel']",[],Miete zzgl. NK 229 €,Wohnfläche ca. 46 m²,Zi. 2,72,16
-11,selObject_44081293,Helle 2 Raum-Wohnung in Debschwitz,"['Etagenwohnung', '•', 'Gera', 'Bieblach']",['Balkon'],Miete zzgl. NK 294 €,Wohnfläche ca. 58 m²,Zi. 2,72,16
-12,selObject_44081292,"Schöne, geräumige 2 Raum-Wohnung im Geraer Stadtteil...","['Etagenwohnung', '•', 'Gera', 'Pforten']",[],Miete zzgl. NK 273 €,Wohnfläche ca. 55 m²,Zi. 2,72,16
-13,selObject_44081289,zentrale 2 Raum-Wohnung im Ostviertel von Gera,"['Etagenwohnung', '•', 'Gera', 'Ostviertel']",[],Miete zzgl. NK 266 €,Wohnfläche ca. 63 m²,Zi. 2,72,16
-14,selObject_44081278,"schöne, sonnige, ruhig gelegene 3 Raum-Wohnung im Ostv...","['Etagenwohnung', '•', 'Gera', 'Ostviertel']",['Balkon'],Miete zzgl. NK 328 €,Wohnfläche ca. 69 m²,Zi. 3,72,16
-15,selObject_44081277,"gemütliche, zentrumsnahe 2 Raum-Wohnung in Pforten","['Etagenwohnung', '•', 'Gera', 'Pforten']",[],Miete zzgl. NK 261 €,Wohnfläche ca. 54 m²,Zi. 2,72,16
-16,selObject_44081276,helle 2 Raum-Wohnung in Geraer Zentrum,"['Etagenwohnung', '•', 'Gera', 'Innenstadt']",['Balkon'],Miete zzgl. NK 302 €,Wohnfläche ca. 63 m²,Zi. 2,72,16
-17,selObject_44079498,Helle 2 - Raumwohnung inkl. Einbauküche,"['Wohnung', '•', 'Schmalkalden', 'Schmalkalden']",['EBK'],Miete zzgl. NK 340 €,Wohnfläche ca. 57 m²,Zi. 2,72,16
-18,selObject_44078657,2- Raum- Wohnung im Stadtzentrum,"['Wohnung', '•', 'Gera', 'Innenstadt']","['Balkon', 'EBK']",Miete zzgl. NK 245 €,Wohnfläche ca. 46 m²,Zi. 2,72,16
-19,selObject_44076840,2-Raum-Dachgeschosswohnung in zentraler Lage,"['Dachgeschosswohnung', '•', 'Saalburg-Ebersdorf', 'Saalburg']",[],Miete zzgl. NK 340 €,Wohnfläche ca. 52 m²,Zi. 2,72,16
-20,selObject_44072532,"Top 3-Raum Wohnung mit Balkon, Bad mit Dusche & Wanne!...","['Wohnung', '•', 'Gera', 'Innenstadt']",['Balkon'],Miete zzgl. NK 400 €,Wohnfläche ca. 68 m²,Zi. 3,72,16
-21,selObject_44072243,"Kleine, freundliche 2 Raumwohnung im Dachgeschoss","['Dachgeschosswohnung', '•', 'Gera', 'Pforten']",[],"Miete zzgl. NK 158,94 €",Wohnfläche ca. 35 m²,Zi. 2,72,16
-22,selObject_44072033,Wohnen im ehemaligen Gutshof von Kleinwechsungen-3Raum...,"['Wohnung', '•', 'Werther', 'Werther']",[],Miete zzgl. NK 464 €,Wohnfläche ca. 93 m²,Zi. 3,72,16
-23,selObject_44071712,Schöne 4 Raumwohnung im Dachgeschoss,"['Dachgeschosswohnung', '•', 'Gera', 'Innenstadt']",[],"Miete zzgl. NK 466,70 €",Wohnfläche ca. 104 m²,Zi. 4,72,16
-24,selObject_44071681,W e i d a - gerade jetzt: Mietwohnung + G a r t e...,"['Etagenwohnung', '•', 'Weida']",['Garten'],Miete zzgl. NK 350 €,Wohnfläche ca. 70 m²,Zi. 4,72,16
-25,selObject_44070636,Sanierte Top-Wohnung,"['Etagenwohnung', '•', 'Altenburg', 'Altenburg']",['Balkon'],"Miete zzgl. NK 384,02 €",Wohnfläche ca. 59 m²,Zi. 3,72,16
-26,selObject_44070588,Deine erste Wohnung? Jetzt anmelden!,"['Etagenwohnung', '•', 'Altenburg', 'Altenburg']",['Balkon'],"Miete zzgl. NK 299,98 €",Wohnfläche ca. 48 m²,Zi. 2,72,16
+0,selObject_44137076,Gemütliche 2-Raum DG-Wohnung in zentraler Lage von...,"[['Dachgeschosswohnung', '•', 'Gera', 'Innenstadt']]",[],Miete zzgl. NK 230 €,Wohnfläche ca. 39 m²,Zi. 2,72,16
+1,selObject_44136722,Zum Einzug bereit!,"[['Etagenwohnung', '•', 'Jena', 'Lobeda']]",['EBK'],Miete zzgl. NK 441 €,Wohnfläche ca. 66 m²,Zi. 2,72,16
+2,selObject_44134369,3 Raum Wohnung mit Ausblick & Balkon & Mietergarten in...,"[['Wohnung', '•', 'Gera', 'Debschwitz']]",['Balkon'],Miete zzgl. NK 375 €,Wohnfläche ca. 66 m²,Zi. 3,72,16
+3,selObject_44129084,Modernisierte 2-Raumwohnung vermieten,"[['Etagenwohnung', '•', 'Gera', 'Pforten']]",['Balkon'],Miete zzgl. NK 294 €,Wohnfläche ca. 49 m²,Zi. 2,72,16
+4,selObject_44128856,Kleine gemütliche Wohnung in Körner zu vermieten,"[['Dachgeschosswohnung', '•', 'Körner', 'Körner']]",[],Miete zzgl. NK 300 €,Wohnfläche ca. 60 m²,Zi. 2,72,16
+5,selObject_44127659,gemütliche Wohnung im sanierten Altbau,"[['Etagenwohnung', '•', 'Altenburg', 'Altenburg']]",['Garten'],Miete zzgl. NK 230 €,Wohnfläche ca. 57 m²,Zi. 3,72,16
+6,selObject_44126346,**sanierte 3-Raum Wohnung in der Umgebung von Bad Sulz...,"[['Etagenwohnung', '•', 'Eckolstädt']]",[],Miete zzgl. NK 300 €,Wohnfläche ca. 60 m²,Zi. 3,72,16
+7,selObject_44126345,**sanierte 3-Raum Wohnung in der Umgebung von Apolda**,"[['Etagenwohnung', '•', 'Eckolstädt']]",[],Miete zzgl. NK 300 €,Wohnfläche ca. 60 m²,Zi. 3,72,16
+8,selObject_44126291,** möblierte 3-Raum Wohnung in der Umgebung von Apolda...,"[['Etagenwohnung', '•', 'Eckolstädt']]",['EBK'],Miete zzgl. NK 300 €,Wohnfläche ca. 60 m²,Zi. 3,72,16
+9,selObject_44125393,4 Raumwohnung,"[['Wohnung', '•', 'Eisenberg', 'Eisenberg']]",['Balkon'],"Miete zzgl. NK 427,74 €",Wohnfläche ca. 71 m²,Zi. 4,72,16
+10,selObject_44124146,Das Besondere....,"[['Etagenwohnung', '•', 'Schmalkalden', 'Schmalkalden']]",[],Miete zzgl. NK 910 €,Wohnfläche ca. 140 m²,Zi. 4,72,16
+11,selObject_44122781,gemütliche Wohnung im sanierten Altbau,"[['Etagenwohnung', '•', 'Altenburg', 'Altenburg']]",['Garten'],Miete zzgl. NK 210 €,Wohnfläche ca. 48 m²,Zi. 2,72,16
+12,selObject_44122139,"Tolle 4-Raumwohnung mit Balkon in Top Lage, mit Stellp...","[['Etagenwohnung', '•', 'Altenburg', 'Altenburg']]",['Balkon'],"Miete zzgl. NK 890,35 €",Wohnfläche ca. 105 m²,Zi. 4,72,16
+13,selObject_44120439,"Helle, freundliche 2,5 RW mit Einbauküche","[['Wohnung', '•', 'Eisenberg', 'Eisenberg']]",['EBK'],Miete zzgl. NK 310 €,Wohnfläche ca. 52 m²,"Zi. 2,5",72,16
+14,selObject_44118119,==Schöne 2.Zimmerwohnung mit offener Küche im Zentrum=...,"[['Wohnung', '•', 'Gera', 'Innenstadt']]",[],Miete zzgl. NK 230 €,Wohnfläche ca. 58 m²,Zi. 2,72,16
+15,selObject_44117536,Erstbezug nach Renovierung,"[['Wohnung', '•', 'Bad', 'Lobenstein', 'Lobenstein']]",[],Miete zzgl. NK 321 €,Wohnfläche ca. 57 m²,Zi. 3,72,16
+16,selObject_44112715,"«Wie immer im Leben gilt, wer vorausschauend agiert...","[['Erdgeschosswohnung', '•', 'Meuselwitz', 'Meuselwitz']]",[],Miete zzgl. NK 265 €,Wohnfläche ca. 51 m²,Zi. 2,72,16
+17,selObject_44112492,Gemeinsam aktiv wohnen!,"[['Erdgeschosswohnung', '•', 'Meuselwitz', 'Meuselwitz']]",[],Miete zzgl. NK 297 €,Wohnfläche ca. 57 m²,Zi. 2,72,16
+18,selObject_44111460,3-Raumwohnung im Zentrum von Neustadt/Orla zu vermiete...,"[['Wohnung', '•', 'Neustadt', 'Neustadt']]",[],Miete zzgl. NK 350 €,Wohnfläche ca. 69 m²,Zi. 3,72,16
+19,selObject_44110688,3-Zimmer-Wohnung im Dachgeschoss,"[['Loft-Studio-Atelier', '•', 'Rudolstadt', 'West']]",['Garten'],Miete zzgl. NK 685 €,Wohnfläche ca. 100 m²,Zi. 3,72,16
+20,selObject_44110327,ETW - Am Tonteich,"[['Etagenwohnung', '•', 'Eisenberg', 'Eisenberg']]",[],Miete zzgl. NK 198 €,Wohnfläche ca. 36 m²,"Zi. 1,5",72,16
+21,selObject_44109757,**Großzügige Wohnung im 2. OG in Ronneburg**,"[['Etagenwohnung', '•', 'Ronneburg', 'Ronneburg']]",[],Miete zzgl. NK 350 €,Wohnfläche ca. 90 m²,Zi. 3,72,16
+22,selObject_44108563,Gepflegte Apartmentwohnung im Dachgeschoss mit Einbauk...,"[['Apartment', '•', 'Bad', 'Klosterlausnitz']]",['EBK'],Miete zzgl. NK 170 €,Wohnfläche ca. 19 m²,Zi. 1,72,16
+23,selObject_44108518,2-Raum-Wohnung mit Balkon in zentraler Lage in Gorndor...,"[['Wohnung', '•', 'Saalfeld', 'Saalfeld']]",['Balkon'],Miete zzgl. NK 335 €,Wohnfläche ca. 61 m²,Zi. 2,72,16
+24,selObject_44108381,onlineBESICHTIGUNG** - Weitblick mit viel Platz im...,"[['Dachgeschosswohnung', '•', 'Gera', 'Innenstadt']]",[],Miete zzgl. NK 300 €,Wohnfläche ca. 74 m²,"Zi. 1,5",72,16
+25,selObject_44108380,"Hell, geräumig, zentrumsnah und bereit für Ihren Einzu...","[['Wohnung', '•', 'Gera', 'Debschwitz']]",['Garten'],Miete zzgl. NK 250 €,Wohnfläche ca. 52 m²,Zi. 2,72,16
+26,selObject_44108368,Gemütlich und Geräumig - das gibts auch!,"[['Erdgeschosswohnung', '•', 'Gera', 'Ostviertel']]",[],Miete zzgl. NK 250 €,Wohnfläche ca. 54 m²,Zi. 2,72,16

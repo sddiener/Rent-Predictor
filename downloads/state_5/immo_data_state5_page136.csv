@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44816841,Reinkommen und Wohlfühlen: nettes 1-Zi.-Single-Appartm...,"['Etagenwohnung', '•', 'Herne', 'Herne-Mitte']",[],"Miete zzgl. NK 265,66 €",Wohnfläche ca. 42 m²,Zi. 1,136,5
-1,selObject_44816836,Ansprechende 2-Zimmer-Wohnung in Stadtlage,"['Erdgeschosswohnung', '•', 'Herne', 'Herne-Mitte']",[],"Miete zzgl. NK 298,65 €",Wohnfläche ca. 45 m²,Zi. 2,136,5
-2,selObject_44816834,"Neue Wohnung, neues Glück! Praktische 3,5-Zi.-Wohnung...","['Etagenwohnung', '•', 'Essen', 'Katernberg']",['Balkon'],"Miete zzgl. NK 447,64 €",Wohnfläche ca. 81 m²,"Zi. 3,5",136,5
-3,selObject_44816821,Gemütliche 3-Zi.-DG-Whg. mit neuem Bad und neuem Boden,"['Dachgeschosswohnung', '•', 'Heiligenhaus', 'Mitte']",[],"Miete zzgl. NK 453,45 €",Wohnfläche ca. 59 m²,Zi. 3,136,5
-4,selObject_44816810,Hier lässt es sich aushalten: 2-Zimmer-Wohnung,"['Etagenwohnung', '•', 'Essen', 'Holsterhausen']",[],"Miete zzgl. NK 399,42 €",Wohnfläche ca. 47 m²,Zi. 2,136,5
-5,selObject_44816797,Preiswerte und günstig geschnittene 2-Zimmer-Wohnung,"['Erdgeschosswohnung', '•', 'Dortmund', 'Huckarde']",['Balkon'],Miete zzgl. NK 370 €,Wohnfläche ca. 44 m²,Zi. 3,136,5
-6,selObject_44816794,Kleine 3-Zimmerwohnung... ruhig gelegen und voll renov...,"['Erdgeschosswohnung', '•', 'Duisburg', 'Friemersheim']",[],Miete zzgl. NK 379 €,Wohnfläche ca. 56 m²,Zi. 3,136,5
-7,selObject_44816782,Gelegenheit: geräumige 3-Zimmer-Wohnung,"['Etagenwohnung', '•', 'Iserlohn', 'Löbbeckenkopf']",['Balkon'],Miete zzgl. NK 490 €,Wohnfläche ca. 76 m²,Zi. 3,136,5
-8,selObject_44816753,Reinkommen und Wohlfühlen: komplett renovierte 3-Zimme...,"['Etagenwohnung', '•', 'Essen', 'Katernberg']",['Balkon'],Miete zzgl. NK 515 €,Wohnfläche ca. 63 m²,Zi. 2,136,5
-9,selObject_44816751,Ein tolles Wohngefühl: ansprechende 3-Zimmer-Wohnung...,"['Etagenwohnung', '•', 'Oberhausen', 'Sterkrade-Mitte']",['Balkon'],"Miete zzgl. NK 393,45 €",Wohnfläche ca. 78 m²,"Zi. 3,5",136,5
-10,selObject_44816749,Auf gute Nachbarschaft: schöne 3-Zimmer-Wohnung in...,"['Etagenwohnung', '•', 'Bonn', 'Plittersdorf']",['Balkon'],"Miete zzgl. NK 785,32 €",Wohnfläche ca. 68 m²,Zi. 3,136,5
-11,selObject_44816746,Schöne und helle 3-Raumwohnung mit Balkon zu vermieten...,"['Etagenwohnung', '•', 'Bielefeld', 'Baumheide']",['Balkon'],"Miete zzgl. NK 627,80 €",Wohnfläche ca. 73 m²,Zi. 3,136,5
-12,selObject_44816733,Gemütliche 3-Zi.-DG-Whg. in Barmen,"['Dachgeschosswohnung', '•', 'Wuppertal', 'Barmen']",[],"Miete zzgl. NK 506,58 €",Wohnfläche ca. 71 m²,Zi. 3,136,5
-13,selObject_44816732,Die gefällt mir: 1-Zimmer-Wohnung in Bonn-Rüngsdorf,"['Erdgeschosswohnung', '•', 'Bonn', 'Rüngsdorf']",[],"Miete zzgl. NK 421,39 €",Wohnfläche ca. 35 m²,"Zi. 1,5",136,5
-14,selObject_44816719,"Ankommen, Einziehen & Wohlfühlen: renovierte 3,5 Raum...","['Erdgeschosswohnung', '•', 'Essen', 'Katernberg']",['Balkon'],Miete zzgl. NK 579 €,Wohnfläche ca. 68 m²,"Zi. 3,5",136,5
-15,selObject_44816706,Praktische 2-Zimmerwohnung mit neuer EInbauküche in...,"['Erdgeschosswohnung', '•', 'Bielefeld', 'Baumheide']","['Balkon', 'EBK']","Miete zzgl. NK 488,20 €",Wohnfläche ca. 66 m²,Zi. 2,136,5
-16,selObject_44816704,Achtung: Wir renovieren für Sie! Gemütliche Dachgescho...,"['Dachgeschosswohnung', '•', 'Essen', 'Huttrop']",[],"Miete zzgl. NK 494,38 €",Wohnfläche ca. 52 m²,Zi. 2,136,5
-17,selObject_44816702,Sanierte 2-Zimmer-Wohnung sucht neuen Mieter!,"['Etagenwohnung', '•', 'Duisburg', 'Hüttenheim']",['Balkon'],Miete zzgl. NK 369 €,Wohnfläche ca. 53 m²,Zi. 2,136,5
-18,selObject_44816691,Schönes Single-Apartment: 1-Zimmer-Wohnung in Bonn-Rün...,"['Etagenwohnung', '•', 'Bonn', 'Rüngsdorf']",['Balkon'],"Miete zzgl. NK 421,39 €",Wohnfläche ca. 35 m²,Zi. 1,136,5
-19,selObject_44816043,Sie suchen ein neues Zuhause?,"['Wohnung', '•', 'Düsseldorf', 'Garath']",['Balkon'],"Miete zzgl. NK 461,20 €",Wohnfläche ca. 53 m²,Zi. 2,136,5
-20,selObject_44816040,"Helle 2-Zimmer-Wohnung mit Balkon, bezugsfertig","['Wohnung', '•', 'Bad', 'Salzuflen', 'Ehrsen-Breden']",['Balkon'],Miete zzgl. NK 368 €,Wohnfläche ca. 60 m²,Zi. 2,136,5
-21,selObject_44815360,Wohnen in Paderborn,"['Etagenwohnung', '•', 'Paderborn', 'Kernstadt']",['Balkon'],"Miete zzgl. NK 292,57 €",Wohnfläche ca. 62 m²,Zi. 2,136,5
-22,selObject_44815358,Frisch renovierte 3-Zimmer Wohnung in ruhiger Lage in...,"['Etagenwohnung', '•', 'Herscheid', 'Herscheid']","['Balkon', 'Garten']",Miete zzgl. NK 349 €,Wohnfläche ca. 58 m²,Zi. 3,136,5
-23,selObject_44815345,Wer zuerst kommt.......!,"['Etagenwohnung', '•', 'Remscheid', 'Lüttringhausen']",['Balkon'],Miete zzgl. NK 359 €,Wohnfläche ca. 56 m²,Zi. 2,136,5
-24,selObject_44815341,3 Zimmer-Wohnung in Stadtnähe!,"['Erdgeschosswohnung', '•', 'Remscheid', 'Süd']",['Balkon'],Miete zzgl. NK 449 €,Wohnfläche ca. 67 m²,Zi. 3,136,5
-25,selObject_44815338,3 Zimmer im Grünen,"['Etagenwohnung', '•', 'Remscheid', 'Lüttringhausen']",['Balkon'],Miete zzgl. NK 379 €,Wohnfläche ca. 68 m²,"Zi. 3,5",136,5
-26,selObject_44815334,Wohnen im Grünen,"['Erdgeschosswohnung', '•', 'Bielefeld', 'Innenstadt']",['Balkon'],Miete zzgl. NK 499 €,Wohnfläche ca. 59 m²,"Zi. 2,5",136,5
+0,selObject_44844093,Nippesaltbau 2 Zimmer Whg -keine WG-,"[['Etagenwohnung', '•', 'Köln', 'Nippes']]",['Garten'],Miete zzgl. NK 795 €,Wohnfläche ca. 50 m²,Zi. 2,136,5
+1,selObject_44844016,Early Bird Aktion: möbliertes Einzimmerapartment in...,"[['Apartment', '•', 'Düsseldorf', 'Rath']]",['EBK'],Miete zzgl. NK 380 €,Wohnfläche ca. 21 m²,Zi. 1,136,5
+2,selObject_44844015,Early Bird Aktion: möbliertes Einzimmerapartment in...,"[['Apartment', '•', 'Düsseldorf', 'Rath']]",['EBK'],Miete zzgl. NK 447 €,Wohnfläche ca. 25 m²,Zi. 1,136,5
+3,selObject_44844014,Early Bird Aktion: möbliertes Einzimmerapartment in...,"[['Apartment', '•', 'Düsseldorf', 'Rath']]",['EBK'],Miete zzgl. NK 636 €,Wohnfläche ca. 35 m²,Zi. 1,136,5
+4,selObject_44844012,Early Bird Aktion: möbliertes Einzimmerapartment in...,"[['Apartment', '•', 'Düsseldorf', 'Rath']]",['EBK'],Miete zzgl. NK 445 €,Wohnfläche ca. 25 m²,Zi. 1,136,5
+5,selObject_44844011,Eary Bird Aktion: möbliertes Einzimmerapartment in...,"[['Apartment', '•', 'Düsseldorf', 'Rath']]",['EBK'],Miete zzgl. NK 528 €,Wohnfläche ca. 29 m²,Zi. 1,136,5
+6,selObject_44844010,Early Bird Aktion: möbliertes Einzimmerapartment in...,"[['Apartment', '•', 'Düsseldorf', 'Rath']]",['EBK'],Miete zzgl. NK 384 €,Wohnfläche ca. 21 m²,Zi. 1,136,5
+7,selObject_44843996,Early Bird Aktion: möbliertes Einzimmerapartment in...,"[['Erdgeschosswohnung', '•', 'Düsseldorf', 'Rath']]",['EBK'],Miete zzgl. NK 753 €,Wohnfläche ca. 42 m²,Zi. 1,136,5
+8,selObject_44843995,Eary Bird Aktion: möbliertes Einzimmerapartment in...,"[['Apartment', '•', 'Düsseldorf', 'Rath']]",['EBK'],Miete zzgl. NK 477 €,Wohnfläche ca. 26 m²,Zi. 1,136,5
+9,selObject_44843994,Eary Bird Aktion: möbliertes Zweizimmerapartment in...,"[['Etagenwohnung', '•', 'Düsseldorf', 'Rath']]",['EBK'],Miete zzgl. NK 900 €,Wohnfläche ca. 50 m²,Zi. 2,136,5
+10,selObject_44843993,Early Bird Aktion: möbliertes Einzimmerapartment mit...,"[['Apartment', '•', 'Düsseldorf', 'Lichtenbroich']]","['Balkon', 'EBK']",Miete zzgl. NK 486 €,Wohnfläche ca. 24 m²,Zi. 1,136,5
+11,selObject_44843992,2-Zimmer-Wohnung für Senioren in Viersen,"[['Wohnung', '•', 'Viersen', 'Beberich']]","['Balkon', 'EBK']",Miete zzgl. NK 530 €,Wohnfläche ca. 56 m²,Zi. 2,136,5
+12,selObject_44843961,Mietwohnung sehr gut ausgestattet stadtnah,"[['Etagenwohnung', '•', 'Iserlohn', 'Zentrum']]",['EBK'],Miete zzgl. NK 850 €,Wohnfläche ca. 105 m²,Zi. 4,136,5
+13,selObject_44843451,3-Zimmer-Wohnung mit Terrasse in Aachen zur Miete,"[['Maisonette', '•', 'Aachen', 'Kornelimünster']]","['Garten', 'EBK']",Miete zzgl. NK 446 €,Wohnfläche ca. 78 m²,Zi. 3,136,5
+14,selObject_44843446,gemütliche 3 Zimmer Wohnung im 2. OG mit Gartenbenutzu...,"[['Dachgeschosswohnung', '•', 'Dortmund', 'Husen']]",['Garten'],Miete zzgl. NK 455 €,Wohnfläche ca. 78 m²,"Zi. 3,5",136,5
+15,selObject_44843417,Tolle Wohnung in verkehrsgünstiger Lage!,"[['Dachgeschosswohnung', '•', 'Meerbusch', 'Büderich']]",[],Miete zzgl. NK 380 €,Wohnfläche ca. 49 m²,Zi. 2,136,5
+16,selObject_44843373,"Helle, gemütliche 3-Zimmerwohnung mit Balkon im I. OG....","[['Wohnung', '•', 'Rheine', 'Eschendorf/Gellendorf']]",['Balkon'],Miete zzgl. NK 496 €,Wohnfläche ca. 80 m²,Zi. 3,136,5
+17,selObject_44843187,Traumhafte Pärchenwohnung im Herzen von Iserlohn,"[['Wohnung', '•', 'Iserlohn', 'Bilveringsen']]",['EBK'],Miete zzgl. NK 490 €,Wohnfläche ca. 90 m²,Zi. 3,136,5
+18,selObject_44843167,Gepflegte Dachgeschosswohnung in ruhiger Lage in Sproc...,"[['Wohnung', '•', 'Sprockhövel', 'Haßlinghausen']]",['EBK'],Miete zzgl. NK 480 €,Wohnfläche ca. 60 m²,Zi. 2,136,5
+19,selObject_44843111,Familienwohnung (Baujahr 2006) in zentraler Lage Köln-...,"[['Etagenwohnung', '•', 'Köln', 'Wahn']]","['Balkon', 'Garten']",Miete zzgl. NK 1.330 €,Wohnfläche ca. 125 m²,Zi. 4,136,5
+20,selObject_44843020,"Lüdenscheid: Gepflegte, moderne 3-Zimmer-Wohnung mit...","[['Erdgeschosswohnung', '•', 'Lüdenscheid', 'Lüdenscheid']]",['Balkon'],Miete zzgl. NK 510 €,Wohnfläche ca. 73 m²,Zi. 3,136,5
+21,selObject_44842379,Dachgeschosswohnung mit Gartennutzung,"[['Dachgeschosswohnung', '•', 'Bestwig', 'Velmede']]",[],Miete zzgl. NK 260 €,Wohnfläche ca. 50 m²,Zi. 2,136,5
+22,selObject_44842227,"Helle, möblierte Pendlerwohnung in ansprechender Lage...","[['Dachgeschosswohnung', '•', 'Dortmund', 'Asseln']]",['EBK'],Miete zzgl. NK 306 €,Wohnfläche ca. 34 m²,Zi. 1,136,5
+23,selObject_44842160,Dachgeschosswohnung mit Altbaucharme in Soests bester...,"[['Etagenwohnung', '•', 'Soest', 'Soest']]",[],Miete zzgl. NK 980 €,Wohnfläche ca. 104 m²,Zi. 3,136,5
+24,selObject_44842149,Piloten fliegen hoch! PentHouse Wohnung Lindlar Zentru...,"[['Penthouse', '•', 'Lindlar', 'Lindlar']]",[],Miete zzgl. NK 1.500 €,Wohnfläche ca. 127 m²,Zi. 3,136,5
+25,selObject_44842041,"Souterrain-Wohnung, 51 m² in Elsen ``Teilmöbliert`` ...","[['Souterrainwohnung', '•', 'Paderborn', 'Elsen']]",['EBK'],Miete zzgl. NK 350 €,Wohnfläche ca. 51 m²,Zi. 1,136,5
+26,selObject_44842018,[Mülheim-Mitte] Renovierte Zwei-Zimmer-Wohnung im 3....,"[['Etagenwohnung', '•', 'Mülheim', 'Mitte']]",[],Miete zzgl. NK 315 €,Wohnfläche ca. 39 m²,Zi. 1,136,5

@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44507352,Perfekt als erste eigene Wohnung,"['Wohnung', '•', 'Cottbus', 'Sandow']",['Balkon'],"Miete zzgl. NK 260,04 €",Wohnfläche ca. 48 m²,Zi. 2,31,12
-1,selObject_44507350,Schöne Wohnung mit 2 Balkonen direkt an der Spree,"['Wohnung', '•', 'Cottbus', 'Sandow']",['Balkon'],"Miete zzgl. NK 371,50 €",Wohnfläche ca. 66 m²,Zi. 3,31,12
-2,selObject_44507348,Preiswerte Wohnung mit guter Nahverkehrsanbindung,"['Wohnung', '•', 'Cottbus', 'Schmellwitz']",['Balkon'],"Miete zzgl. NK 308,84 €",Wohnfläche ca. 62 m²,Zi. 3,31,12
-3,selObject_44507347,Hoch hinauf und die Aussicht genießen,"['Wohnung', '•', 'Cottbus', 'Sandow']",['Balkon'],"Miete zzgl. NK 285,95 €",Wohnfläche ca. 57 m²,Zi. 3,31,12
-4,selObject_44507345,Sehr schöne Wohnung mit großzügigem Balkon,"['Wohnung', '•', 'Cottbus', 'Schmellwitz']",['Balkon'],"Miete zzgl. NK 423,76 €",Wohnfläche ca. 76 m²,Zi. 3,31,12
-5,selObject_44507341,Schöne Wohnung in der Nähe der Spree,"['Wohnung', '•', 'Cottbus', 'Sandow']",['Balkon'],"Miete zzgl. NK 293,03 €",Wohnfläche ca. 57 m²,Zi. 3,31,12
-6,selObject_44507339,Familienfreundliches Zuhause in Cottbus,"['Wohnung', '•', 'Cottbus', 'Schmellwitz']",['Balkon'],"Miete zzgl. NK 319,88 €",Wohnfläche ca. 58 m²,Zi. 3,31,12
-7,selObject_44506336,3 Zimmer Whg nahe Kleiner Beetzsee! **Besichtigung:...,"['Etagenwohnung', '•', 'Brandenburg', 'Nord']","['Balkon', 'EBK']",Miete zzgl. NK 377 €,Wohnfläche ca. 61 m²,Zi. 3,31,12
-8,selObject_44506331,Balkon-Whg nahe Kleiner Beetzsee! **Besichtigung: Sa.:...,"['Etagenwohnung', '•', 'Brandenburg', 'Nord']","['Balkon', 'EBK']",Miete zzgl. NK 399 €,Wohnfläche ca. 61 m²,Zi. 3,31,12
-9,selObject_44505816,Über den Dächern Potsdams- Helle 2-Zimmerwohnung in...,"['Etagenwohnung', '•', 'Potsdam', 'Drewitz']",['EBK'],"Miete zzgl. NK 789,32 €",Wohnfläche ca. 68 m²,Zi. 2,31,12
-10,selObject_44505804,Sensationelles Wohnen über den Dächern Potsdams inklus...,"['Etagenwohnung', '•', 'Potsdam', 'Drewitz']",['EBK'],"Miete zzgl. NK 678,49 €",Wohnfläche ca. 61 m²,Zi. 2,31,12
-11,selObject_44504499,"Müncheberg , Neubau,Top mod., 2- 2 1/2 Räume,Kü, Bad,...","['Etagenwohnung', '•', 'Müncheberg', 'Müncheberg']","['Balkon', 'EBK']","Miete zzgl. NK 499,80 €",Wohnfläche ca. 60 m²,Zi. 2,31,12
-12,selObject_44504487,"Müncheberg , Neubau,Top mod., 2- 2 1/2 Räume,Kü, Bad,...","['Etagenwohnung', '•', 'Müncheberg', 'Müncheberg']","['Balkon', 'EBK']","Miete zzgl. NK 499,80 €",Wohnfläche ca. 60 m²,Zi. 2,31,12
-13,selObject_44496046,Attraktive 2 Zimmer-Wohnung in Stadtpassage Königs...,"['Wohnung', '•', 'Königs', 'Wusterhausen', 'Königs', 'Wusterhausen']",['EBK'],Miete zzgl. NK 610 €,Wohnfläche ca. 61 m²,Zi. 2,31,12
-14,selObject_44495771,6-Raum-Wohnung für Großfamilie in ruhiger Lage und mit...,"['Etagenwohnung', '•', 'Niedergörsdorf', 'Altes', 'Lager']","['Balkon', 'Garten']",Miete zzgl. NK 590 €,Wohnfläche ca. 123 m²,Zi. 6,31,12
-15,selObject_44495642,"Weitläufige Loftwohnung im Altstadtkern Teltow, früher...","['Erdgeschosswohnung', '•', 'Teltow', 'Teltow']",[],Miete zzgl. NK 1.480 €,Wohnfläche ca. 112 m²,Zi. 3,31,12
-16,selObject_44495379,Weitläufige luxuriöse Loftwohnung im Altstadtkern -...,"['Erdgeschosswohnung', '•', 'Teltow', 'Teltow']",['EBK'],Miete zzgl. NK 1.560 €,Wohnfläche ca. 180 m²,Zi. 3,31,12
-17,selObject_44493577,Geräumige 3-Raum Wohnung mit Blick über die Felder von...,"['Etagenwohnung', '•', 'Kyritz', 'Kyritz']",[],"Miete zzgl. NK 337,62 €",Wohnfläche ca. 75 m²,Zi. 3,31,12
-18,selObject_44493459,***Gute Wohnung in ruhiger Lage***,"['Etagenwohnung', '•', 'Lauchhammer', 'Lauchhammer']",[],Miete zzgl. NK 255 €,Wohnfläche ca. 48 m²,Zi. 2,31,12
-19,selObject_44493125,++Geräumige Wohnung mit großen Fenstern++,"['Etagenwohnung', '•', 'Lauchhammer', 'Lauchhammer']",[],Miete zzgl. NK 315 €,Wohnfläche ca. 62 m²,Zi. 3,31,12
-20,selObject_44493024,**Frisch saniert - Schöne Wohnung sucht neuen Mieter**,"['Etagenwohnung', '•', 'Lauchhammer', 'Lauchhammer']",[],Miete zzgl. NK 160 €,Wohnfläche ca. 30 m²,Zi. 1,31,12
-21,selObject_44492936,**Lichtdurchflutete Wohnung in ruhiger Lage**,"['Etagenwohnung', '•', 'Lauchhammer', 'Lauchhammer']",[],Miete zzgl. NK 160 €,Wohnfläche ca. 30 m²,Zi. 1,31,12
-22,selObject_44492441,Dannenberg 2-Raum Wohnung- Wohnen in ruhiger ländliche...,"['Wohnung', '•', 'Falkenberg', 'Dannenberg/Mark']",['Balkon'],Miete zzgl. NK 285 €,Wohnfläche ca. 50 m²,Zi. 2,31,12
-23,selObject_44490183,4-Zimmer Wohnung mit Balkon und Garage,"['Etagenwohnung', '•', 'Brandenburg', 'Altstadt']",['Balkon'],Miete zzgl. NK 801 €,Wohnfläche ca. 104 m²,Zi. 4,31,12
-24,selObject_44489987,Souterrain Wohnung in verkehrsgünstiger Lage in Falken...,"['Souterrainwohnung', '•', 'Falkensee']","['Garten', 'EBK']",Miete zzgl. NK 790 €,Wohnfläche ca. 74 m²,Zi. 3,31,12
-25,selObject_44482091,Schöne 1 Zi-Wohnung in Großräschen,"['Etagenwohnung', '•', 'Großräschen', 'Großräschen']",[],Miete zzgl. NK 225 €,Wohnfläche ca. 34 m²,Zi. 1,31,12
-26,selObject_44481833,Geräumige 2-Raum-Wohnung direkt in der Innenstadt,"['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']",[],"Miete zzgl. NK 512,66 €",Wohnfläche ca. 72 m²,Zi. 2,31,12
+0,selObject_44505804,Sensationelles Wohnen über den Dächern Potsdams inklus...,"[['Etagenwohnung', '•', 'Potsdam', 'Drewitz']]",['EBK'],"Miete zzgl. NK 678,49 €",Wohnfläche ca. 61 m²,Zi. 2,31,12
+1,selObject_44504499,"Müncheberg , Neubau,Top mod., 2- 2 1/2 Räume,Kü, Bad,...","[['Etagenwohnung', '•', 'Müncheberg', 'Müncheberg']]","['Balkon', 'EBK']","Miete zzgl. NK 499,80 €",Wohnfläche ca. 60 m²,Zi. 2,31,12
+2,selObject_44504487,"Müncheberg , Neubau,Top mod., 2- 2 1/2 Räume,Kü, Bad,...","[['Etagenwohnung', '•', 'Müncheberg', 'Müncheberg']]","['Balkon', 'EBK']","Miete zzgl. NK 499,80 €",Wohnfläche ca. 60 m²,Zi. 2,31,12
+3,selObject_44496046,Attraktive 2 Zimmer-Wohnung in Stadtpassage Königs...,"[['Wohnung', '•', 'Königs', 'Wusterhausen', 'Königs', 'Wusterhausen']]",['EBK'],Miete zzgl. NK 610 €,Wohnfläche ca. 61 m²,Zi. 2,31,12
+4,selObject_44495771,6-Raum-Wohnung für Großfamilie in ruhiger Lage und mit...,"[['Etagenwohnung', '•', 'Niedergörsdorf', 'Altes', 'Lager']]","['Balkon', 'Garten']",Miete zzgl. NK 590 €,Wohnfläche ca. 123 m²,Zi. 6,31,12
+5,selObject_44495642,"Weitläufige Loftwohnung im Altstadtkern Teltow, früher...","[['Erdgeschosswohnung', '•', 'Teltow', 'Teltow']]",[],Miete zzgl. NK 1.480 €,Wohnfläche ca. 112 m²,Zi. 3,31,12
+6,selObject_44495379,Weitläufige luxuriöse Loftwohnung im Altstadtkern -...,"[['Erdgeschosswohnung', '•', 'Teltow', 'Teltow']]",['EBK'],Miete zzgl. NK 1.560 €,Wohnfläche ca. 180 m²,Zi. 3,31,12
+7,selObject_44493577,Geräumige 3-Raum Wohnung mit Blick über die Felder von...,"[['Etagenwohnung', '•', 'Kyritz', 'Kyritz']]",[],"Miete zzgl. NK 337,62 €",Wohnfläche ca. 75 m²,Zi. 3,31,12
+8,selObject_44493459,***Gute Wohnung in ruhiger Lage***,"[['Etagenwohnung', '•', 'Lauchhammer', 'Lauchhammer']]",[],Miete zzgl. NK 255 €,Wohnfläche ca. 48 m²,Zi. 2,31,12
+9,selObject_44493125,++Geräumige Wohnung mit großen Fenstern++,"[['Etagenwohnung', '•', 'Lauchhammer', 'Lauchhammer']]",[],Miete zzgl. NK 315 €,Wohnfläche ca. 62 m²,Zi. 3,31,12
+10,selObject_44493024,**Frisch saniert - Schöne Wohnung sucht neuen Mieter**,"[['Etagenwohnung', '•', 'Lauchhammer', 'Lauchhammer']]",[],Miete zzgl. NK 160 €,Wohnfläche ca. 30 m²,Zi. 1,31,12
+11,selObject_44492936,**Lichtdurchflutete Wohnung in ruhiger Lage**,"[['Etagenwohnung', '•', 'Lauchhammer', 'Lauchhammer']]",[],Miete zzgl. NK 160 €,Wohnfläche ca. 30 m²,Zi. 1,31,12
+12,selObject_44492441,Dannenberg 2-Raum Wohnung- Wohnen in ruhiger ländliche...,"[['Wohnung', '•', 'Falkenberg', 'Dannenberg/Mark']]",['Balkon'],Miete zzgl. NK 285 €,Wohnfläche ca. 50 m²,Zi. 2,31,12
+13,selObject_44490183,4-Zimmer Wohnung mit Balkon und Garage,"[['Etagenwohnung', '•', 'Brandenburg', 'Altstadt']]",['Balkon'],Miete zzgl. NK 801 €,Wohnfläche ca. 104 m²,Zi. 4,31,12
+14,selObject_44489987,Souterrain Wohnung in verkehrsgünstiger Lage in Falken...,"[['Souterrainwohnung', '•', 'Falkensee']]","['Garten', 'EBK']",Miete zzgl. NK 790 €,Wohnfläche ca. 74 m²,Zi. 3,31,12
+15,selObject_44482091,Schöne 1 Zi-Wohnung in Großräschen,"[['Etagenwohnung', '•', 'Großräschen', 'Großräschen']]",[],Miete zzgl. NK 225 €,Wohnfläche ca. 34 m²,Zi. 1,31,12
+16,selObject_44481833,Geräumige 2-Raum-Wohnung direkt in der Innenstadt,"[['Wohnung', '•', 'Frankfurt', '(Oder)', 'Frankfurt']]",[],"Miete zzgl. NK 512,66 €",Wohnfläche ca. 72 m²,Zi. 2,31,12
+17,selObject_44481787,"Schöne, großzügige 3-Zi. Wohnung im Grünen (RN West)","[['Wohnung', '•', 'Rathenow', 'Steckelsdorf']]",[],Miete zzgl. NK 486 €,Wohnfläche ca. 88 m²,Zi. 3,31,12
+18,selObject_44480582,**1-Zimmerwohnung in Senftenberg**,"[['Apartment', '•', 'Senftenberg']]",['EBK'],Miete zzgl. NK 240 €,Wohnfläche ca. 37 m²,Zi. 1,31,12
+19,selObject_44478302,exklusive Wohnung im Theaterviertel mit Einbauküche,"[['Etagenwohnung', '•', 'Brandenburg', 'Neustadt']]","['Balkon', 'EBK']",Miete zzgl. NK 1.049 €,Wohnfläche ca. 111 m²,Zi. 3,31,12
+20,selObject_44478124,"Barrierearm im Erdgeschoss, sichert Euch jetzt eure...","[['Wohnung', '•', 'Cottbus', 'Spremberger', 'Vorstadt']]",['Balkon'],"Miete zzgl. NK 329,46 €",Wohnfläche ca. 56 m²,Zi. 2,31,12
+21,selObject_44477620,nette 2 Raumwohnung sucht Mieter,"[['Dachgeschosswohnung', '•', 'Tettau']]",[],Miete zzgl. NK 250 €,Wohnfläche ca. 40 m²,Zi. 2,31,12
+22,selObject_44474481,"Mein neues Zuhause - barrierefrei, voll klimatisiert,...","[['Etagenwohnung', '•', 'Cottbus', 'Ströbitz']]","['Balkon', 'EBK']",Miete zzgl. NK 1.674 €,Wohnfläche ca. 120 m²,Zi. 3,31,12
+23,selObject_44474480,"Mein neues Zuhause - barrierefrei, voll klimatisiert,...","[['Etagenwohnung', '•', 'Cottbus', 'Ströbitz']]","['Balkon', 'EBK']",Miete zzgl. NK 1.396 €,Wohnfläche ca. 100 m²,Zi. 3,31,12
+24,selObject_44474476,"Mein neues Zuhause - barrierefrei, voll klimatisiert,...","[['Etagenwohnung', '•', 'Cottbus', 'Ströbitz']]","['Balkon', 'EBK']",Miete zzgl. NK 864 €,Wohnfläche ca. 62 m²,Zi. 2,31,12
+25,selObject_44458924,WBG - 1-RWE - gut u. günstig!,"[['Etagenwohnung', '•', 'Brandenburg', 'Hohenstücken']]",[],"Miete zzgl. NK 146,57 €",Wohnfläche ca. 33 m²,Zi. 1,31,12
+26,selObject_44458918,WBG - 2-RWE - gut und günstig!,"[['Etagenwohnung', '•', 'Brandenburg', 'Hohenstücken']]",['Balkon'],"Miete zzgl. NK 216,33 €",Wohnfläche ca. 50 m²,Zi. 2,31,12

@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44955858,Wohnen mal ganz anders!,"['Penthouse', '•', 'Mössingen', 'Mössingen']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.390 €,Wohnfläche ca. 210 m²,Zi. 5,36,8
-1,selObject_44955800,Mietwohnung in Singen (Hohentwiel),"['Wohnung', '•', 'Singen', 'Singen']",['Balkon'],Miete zzgl. NK 600 €,Wohnfläche ca. 44 m²,"Zi. 1,5",36,8
-2,selObject_44955642,2-1/2-Zimmerwohnung,"['Etagenwohnung', '•', 'Stuttgart', 'West']",['Balkon'],Miete zzgl. NK 1.100 €,Wohnfläche ca. 80 m²,"Zi. 2,5",36,8
-3,selObject_44955625,2-Raum-Wohnung mit Tageslichtbad,"['Wohnung', '•', 'Baiersbronn', 'Klosterreichenbach']",['EBK'],Miete zzgl. NK 396 €,Wohnfläche ca. 40 m²,Zi. 2,36,8
-4,selObject_44955610,Tolle 2 Zimmer Wohnung 64m² mit Blick über die Stadt.,"['Apartment', '•', 'Mannheim', 'Oststadt']","['Balkon', 'EBK']",Miete zzgl. NK 650 €,Wohnfläche ca. 64 m²,Zi. 2,36,8
-5,selObject_44955571,Holzgerlingen Maisonette/2 floor Apartment ab/from mid...,"['Wohnung', '•', 'Holzgerlingen']",[],Miete zzgl. NK 1.920 €,Wohnfläche ca. 125 m²,"Zi. 4,5",36,8
-6,selObject_44955459,2-Zimmmer-Whg.,"['Etagenwohnung', '•', 'Stuttgart', 'West']",['Balkon'],Miete zzgl. NK 1.000 €,Wohnfläche ca. 72 m²,Zi. 2,36,8
-7,selObject_44955443,Sehr schöne 4-Zimmer-Wohnung mit Balkon in Kenzingen...,"['Etagenwohnung', '•', 'Kenzingen', 'Kenzingen']","['Balkon', 'EBK']",Miete zzgl. NK 890 €,Wohnfläche ca. 99 m²,Zi. 4,36,8
-8,selObject_44955430,3-Zimmer-Whg.,"['Etagenwohnung', '•', 'Stuttgart', 'West']",['Balkon'],Miete zzgl. NK 1.050 €,Wohnfläche ca. 80 m²,Zi. 3,36,8
-9,selObject_44955225,+++ Neubau 1-Zi.-Appartment mit EBK in zentraler Lage...,"['Erdgeschosswohnung', '•', 'Stuttgart', 'Feuerbach']",['EBK'],Miete zzgl. NK 660 €,Wohnfläche ca. 37 m²,Zi. 1,36,8
-10,selObject_44955215,+++freies Zimmer in 5-Zimmer Whg im begehrten Stgt.-...,"['Erdgeschosswohnung', '•', 'Stuttgart', 'West']",['EBK'],Miete zzgl. NK 425 €,Wohnfläche ca. 17 m²,Zi. 1,36,8
-11,selObject_44955203,"3,5-Zimmer-Stadtwohnung mit Balkon und Aufzug","['Wohnung', '•', 'Trossingen', 'Schura']",['Balkon'],Miete zzgl. NK 925 €,Wohnfläche ca. 97 m²,"Zi. 3,5",36,8
-12,selObject_44955175,"2,5-Zimmer-Wohnung in Freiberg","['Wohnung', '•', 'Freiberg', 'Heutingsheim']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.080 €,Wohnfläche ca. 72 m²,"Zi. 2,5",36,8
-13,selObject_44955150,Gemütliche und gepflegte Wohnung mit überzeugenden...,"['Dachgeschosswohnung', '•', 'Mannheim', 'Sandhofen']",['EBK'],Miete zzgl. NK 440 €,Wohnfläche ca. 55 m²,Zi. 2,36,8
-14,selObject_44955075,Neubau - Schicke 2 Zi.-Whg mit Terrasse in Lörrach-Ste...,"['Wohnung', '•', 'Lörrach', 'Stetten']","['Garten', 'EBK']",Miete zzgl. NK 1.050 €,Wohnfläche ca. 73 m²,Zi. 2,36,8
-15,selObject_44955020,"Vollständig renovierte 3,5-Zimmer-Wohnung mit Terrasse...","['Wohnung', '•', 'Frickenhausen', 'Linsenhofen']",['EBK'],Miete zzgl. NK 800 €,Wohnfläche ca. 100 m²,"Zi. 3,5",36,8
-16,selObject_44955015,2-er Studentenwohnung - 2 Zimmer ab dem 01.10.2021...,"['Apartment', '•', 'Biberach', 'an', 'der', 'Riß', 'Biberach']",['EBK'],Miete zzgl. NK 550 €,Wohnfläche ca. 50 m²,"Zi. 2,5",36,8
-17,selObject_44954986,Große Wohnung in der Altstadt von Gernsbach zu vermiet...,"['Wohnung', '•', 'Gernsbach', 'Gernsbach']",['EBK'],Miete zzgl. NK 950 €,Wohnfläche ca. 120 m²,Zi. 3,36,8
-18,selObject_44954982,"**Zentral , sehr hell....Lift**","['Etagenwohnung', '•', 'Weil', 'am', 'Rhein', 'Friedlingen']",[],Miete zzgl. NK 820 €,Wohnfläche ca. 102 m²,Zi. 4,36,8
-19,selObject_44954980,"Herrl., gut gel., u. modern ausgestattete 3 1/2 Zi.-Wh...","['Etagenwohnung', '•', 'Bad', 'Rappenau', 'Bad', 'Rappenau']","['Balkon', 'EBK']",Miete zzgl. NK 1.240 €,Wohnfläche ca. 96 m²,"Zi. 3,5",36,8
-20,selObject_44954966,Helle 5-Zimmer-Maisonette-Wohnung mit Balkon und EBK...,"['Maisonette', '•', 'Waiblingen', 'Bittenfeld']","['Balkon', 'EBK']",Miete zzgl. NK 900 €,Wohnfläche ca. 108 m²,Zi. 5,36,8
-21,selObject_44954956,"Gemütliche, Dach-Maisonette-Wohnung","['Maisonette', '•', 'Ladenburg']","['Balkon', 'EBK']",Miete zzgl. NK 750 €,Wohnfläche ca. 68 m²,Zi. 2,36,8
-22,selObject_44954913,Erstbezug im Sedan Carré!,"['Etagenwohnung', '•', 'Pforzheim', 'Südweststadt']",['Garten'],Miete zzgl. NK 820 €,Wohnfläche ca. 68 m²,Zi. 3,36,8
-23,selObject_44954912,Sedan Carré - bezaubernde Penthousewohnung!,"['Penthouse', '•', 'Pforzheim', 'Südweststadt']","['Balkon', 'Garten']",Miete zzgl. NK 1.940 €,Wohnfläche ca. 176 m²,Zi. 4,36,8
-24,selObject_44954898,Musberg: helle 4-Zi.-Whg. mit 113 m² Balkon und Garten,"['Wohnung', '•', 'Leinfelden-Echterdingen', 'Musberg']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.480 €,Wohnfläche ca. 113 m²,Zi. 4,36,8
-25,selObject_44954897,"Helle, sanierte 4,5-Zi.-Whg. inkl. EBK, Wannenbad und...","['Wohnung', '•', 'Stockach', 'Seelfingen']","['Balkon', 'EBK']",Miete zzgl. NK 1.000 €,Wohnfläche ca. 128 m²,"Zi. 4,5",36,8
-26,selObject_44954880,MA Luzenberg 2 ZKB,"['Etagenwohnung', '•', 'Mannheim', 'Waldhof']",[],Miete zzgl. NK 570 €,Wohnfläche ca. 62 m²,Zi. 2,36,8
+0,selObject_44981638,Verfügbar ab sofort! 3-Zi.-Whg.,"[['Wohnung', '•', 'Backnang', 'Heiningen']]",[],Miete zzgl. NK 1.050 €,Wohnfläche ca. 80 m²,Zi. 3,36,8
+1,selObject_44981615,Grosse 2-Zi.-Wohnung mit Aussicht von Terrasse,"[['Wohnung', '•', 'Bad', 'Säckingen', 'Bad', 'Säckingen']]",['EBK'],Miete zzgl. NK 640 €,Wohnfläche ca. 74 m²,Zi. 2,36,8
+2,selObject_44981614,"Ruhige, sanierte 3-Zimmer-Wohnung mit Balkon in Neckar...","[['Wohnung', '•', 'Ludwigsburg', 'Neckarweihingen']]","['Balkon', 'Garten']",Miete zzgl. NK 900 €,Wohnfläche ca. 89 m²,Zi. 3,36,8
+3,selObject_44981598,Herzlich willkommen in Ihrem frisch renovierten Zuhaus...,"[['Wohnung', '•', 'Lauchringen', 'Unterlauchringen']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 850 €,Wohnfläche ca. 98 m²,Zi. 4,36,8
+4,selObject_44981585,3 Zimmer Wohnung in Weingarten,"[['Etagenwohnung', '•', 'Weingarten', 'Weingarten']]","['Balkon', 'EBK']",Miete zzgl. NK 825 €,Wohnfläche ca. 79 m²,Zi. 3,36,8
+5,selObject_44981277,2 ZKB Wohnung in Mannheim-Sandhofen zu vermieten,"[['Dachgeschosswohnung', '•', 'Mannheim', 'Sandhofen']]",[],Miete zzgl. NK 520 €,Wohnfläche ca. 49 m²,Zi. 2,36,8
+6,selObject_44980850,"Gepflegte 3,5-Zimmer-Wohnung mit Balkon und EBK in...","[['Wohnung', '•', 'Neuhausen']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.240 €,Wohnfläche ca. 117 m²,"Zi. 3,5",36,8
+7,selObject_44980849,3-Zimmer-Whg. mit EBK und Balkon,"[['Apartment', '•', 'Karlsruhe', 'Mühlburg']]","['Balkon', 'EBK']",Miete zzgl. NK 950 €,Wohnfläche ca. 83 m²,Zi. 3,36,8
+8,selObject_44980581,"Helle,ruhige 1,5 Zi.- Single- Wohnung mit Balkon Wein...","[['Etagenwohnung', '•', 'Weinstadt', 'Schnait']]","['Balkon', 'EBK']",Miete zzgl. NK 490 €,Wohnfläche ca. 37 m²,"Zi. 1,5",36,8
+9,selObject_44980360,"Schönes Apartment in Eimeldingen, befristet","[['Wohnung', '•', 'Eimeldingen']]",['EBK'],Miete zzgl. NK 655 €,Wohnfläche ca. 35 m²,Zi. 1,36,8
+10,selObject_44980293,Modern möblierte 2-Zimmer Wohnung mit Tiefgaragen-Ste...,"[['Wohnung', '•', 'Stuttgart', 'Birkach']]","['Balkon', 'EBK']",Miete zzgl. NK 1.000 €,Wohnfläche ca. 53 m²,Zi. 2,36,8
+11,selObject_44980273,Perfekte Aufteilung auf 82 m² und 3 Zimmer. Hier ist...,"[['Kein', 'Bild'], ['Wohnung', '•', 'Lahr', 'Lahr']]",[],Miete zzgl. NK 740 €,Wohnfläche ca. 82 m²,Zi. 3,36,8
+12,selObject_44979933,"Modern möbiliertes 1,5 Zimmer Apartement in Weil am...","[['Wohnung', '•', 'Weil', 'am', 'Rhein', 'Friedlingen']]",['EBK'],Miete zzgl. NK 885 €,Wohnfläche ca. 66 m²,"Zi. 1,5",36,8
+13,selObject_44979929,"Idyllische 3-Zimmerwohnung in Lörrach, zentral und...","[['Wohnung', '•', 'Lörrach']]","['Garten', 'EBK']",Miete zzgl. NK 1.430 €,Wohnfläche ca. 85 m²,Zi. 3,36,8
+14,selObject_44979918,"2 Zimmer-Dachgeschosswohnung in Grenzach, befristet","[['Wohnung', '•', 'Grenzach-Wyhlen', 'Grenzach']]",['EBK'],Miete zzgl. NK 980 €,Wohnfläche ca. 60 m²,Zi. 2,36,8
+15,selObject_44979917,"Idyllische 3-Zimmerwohnung in Lörrach, zentral und...","[['Wohnung', '•', 'Lörrach']]","['Garten', 'EBK']",Miete zzgl. NK 1.430 €,Wohnfläche ca. 85 m²,Zi. 3,36,8
+16,selObject_44979891,"Neuwertige 40 m² 2-Zimmer-Penthouse mit Bad, EBK, ries...","[['Penthouse', '•', 'Heilbronn', 'Heilbronn']]","['Balkon', 'EBK']",Miete zzgl. NK 870 €,Wohnfläche ca. 40 m²,Zi. 2,36,8
+17,selObject_44979823,Nur mit Wohnberechtigungsschein: 3-Zimmerwohnung mit...,"[['Etagenwohnung', '•', 'Freudenstadt', 'Freudenstadt']]","['Balkon', 'EBK']","Miete zzgl. NK 393,95 €",Wohnfläche ca. 70 m²,Zi. 3,36,8
+18,selObject_44979808,Möbliertes Zimmer in Top-Lage,"[['Dachgeschosswohnung', '•', 'Riedlingen', 'Riedlingen']]",['EBK'],Miete inkl. NK 360 €,Wohnfläche ca. 13 m²,Zi. 1,36,8
+19,selObject_44979673,"Geräumige 2,5-Zimmer-Wohnung","[['Wohnung', '•', 'Lottstetten', 'Lottstetten']]","['Balkon', 'EBK']",Miete zzgl. NK 750 €,Wohnfläche ca. 76 m²,"Zi. 2,5",36,8
+20,selObject_44979631,"3,5-Zimmer-Wohnung mit Gartenmitbenutzung Blaubeuren/O...","[['Wohnung', '•', 'Blaubeuren', 'Pappelau']]",['Garten'],Miete zzgl. NK 1.040 €,Wohnfläche ca. 100 m²,"Zi. 3,5",36,8
+21,selObject_44979278,+++ Nahe PORSCHE - Erstbezug nach Neubau - hochwertige...,"[['Dachgeschosswohnung', '•', 'Stuttgart', 'Zuffenhausen']]",['EBK'],Miete zzgl. NK 600 €,Wohnfläche ca. 30 m²,Zi. 1,36,8
+22,selObject_44979143,"4 Zi. DG ca. 96 m² mit Galerie, Balkon, Tiefgarage und...","[['Etagenwohnung', '•', 'Lauchringen', 'Oberlauchringen']]","['Balkon', 'EBK']",Miete zzgl. NK 915 €,Wohnfläche ca. 96 m²,Zi. 4,36,8
+23,selObject_44979081,*Schnuckelige 2-Zimmer Singlewohnung* EBK-Balkon-Fussb...,"[['Etagenwohnung', '•', 'Ostfildern', 'Ruit']]","['Balkon', 'EBK']",Miete zzgl. NK 520 €,Wohnfläche ca. 43 m²,Zi. 2,36,8
+24,selObject_44978920,Top Wohnung im Neubau,"[['Dachgeschosswohnung', '•', 'Büsingen']]",[],Miete zzgl. NK 595 €,Wohnfläche ca. 57 m²,Zi. 2,36,8
+25,selObject_44978827,Wunderschöne Dachwohnung Erstbezug,"[['Dachgeschosswohnung', '•', 'Büsingen']]",['Balkon'],Miete zzgl. NK 950 €,Wohnfläche ca. 74 m²,Zi. 3,36,8
+26,selObject_44978693,"2,5 Zi. Neubauwohnung - Erstbezug - Bad Dürrheim -...","[['Etagenwohnung', '•', 'Bad', 'Dürrheim', 'Bad', 'Dürrheim']]",['Balkon'],Miete zzgl. NK 740 €,Wohnfläche ca. 74 m²,"Zi. 2,5",36,8

@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44862830,Gemütliches Apartment,"['Dachgeschosswohnung', '•', 'Mayen', 'Mayen']",['EBK'],Miete zzgl. NK 345 €,Wohnfläche ca. 32 m²,Zi. 1,19,7
-1,selObject_44862488,Gemütliches Apartment im Dachgeschoss,"['Dachgeschosswohnung', '•', 'Hauenstein']",[],Miete zzgl. NK 290 €,Wohnfläche ca. 36 m²,Zi. 2,19,7
-2,selObject_44861426,Ihr neues Zuhause - 2 Zimmer mit Balkon!,"['Wohnung', '•', 'Trier', 'Pfalzel']","['Balkon', 'Garten']",Miete zzgl. NK 480 €,Wohnfläche ca. 70 m²,Zi. 2,19,7
-3,selObject_44861398,97 qm Neubau-Wohn-Genuss... moderne Raumstrukur I EBK...,"['Etagenwohnung', '•', 'Höhr-Grenzhausen']",['EBK'],Miete zzgl. NK 970 €,Wohnfläche ca. 97 m²,Zi. 3,19,7
-4,selObject_44860452,"Offene Besichtigung: Montag, 19.07.2021, 13:30 bis...","['Etagenwohnung', '•', 'Sinzig', 'Sinzig']",['Balkon'],Miete zzgl. NK 445 €,Wohnfläche ca. 63 m²,Zi. 3,19,7
-5,selObject_44860451,2 ZKB Wohnung mit Wohnberechtigungsschein!,"['Etagenwohnung', '•', 'Haßloch']",['Balkon'],"Miete zzgl. NK 329,34 €",Wohnfläche ca. 65 m²,Zi. 2,19,7
-6,selObject_44859249,Ihr neues Zuhause - 3 Zimmer im 2. Obergeschoss mit...,"['Wohnung', '•', 'Mommenheim']","['Balkon', 'EBK']",Miete zzgl. NK 930 €,Wohnfläche ca. 97 m²,Zi. 3,19,7
-7,selObject_44859148,Stadtwohnung im Altbaucharakter,"['Wohnung', '•', 'Neustadt', 'Haardt']",['Balkon'],Miete zzgl. NK 720 €,Wohnfläche ca. 82 m²,Zi. 3,19,7
-8,selObject_44856308,"Drei Zimmer Wohnung im Wohnprojekt ""Wohnen im Quartier...","['Dachgeschosswohnung', '•', 'Trier', 'Trier-Nord']",[],Miete zzgl. NK 654 €,Wohnfläche ca. 76 m²,Zi. 3,19,7
-9,selObject_44856062,Helle 3-Zimmerwohnung mit Balkon im Herzen von Asbach!,"['Dachgeschosswohnung', '•', 'Asbach', 'Asbach']",['Balkon'],Miete zzgl. NK 650 €,Wohnfläche ca. 82 m²,Zi. 3,19,7
-10,selObject_44855927,"3-Raum-Wohnung inkl. Einbauküche, Wannenbad und Balkon...","['Kein', 'Bild']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 790 €,Wohnfläche ca. 79 m²,Zi. 3,19,7
-11,selObject_44855011,Barrierefreie Wohnung in absoluter ICE-Toplage (Miete...,"['Erdgeschosswohnung', '•', 'Montabaur', 'Bladernheim']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 780 €,Wohnfläche ca. 69 m²,Zi. 2,19,7
-12,selObject_44854340,"Renovierte, gemütliche Dachgeschoss-Wohnung in Moselnä...","['Etagenwohnung', '•', 'Trier', 'Trier-Nord']",[],Miete zzgl. NK 395 €,Wohnfläche ca. 33 m²,Zi. 1,19,7
-13,selObject_44854293,"2-ZKB in ruhiger Wohnlage, mit Einbauküche, Balkon und...","['Wohnung', '•', 'Schönenberg-Kübelberg', 'Sand']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 440 €,Wohnfläche ca. 70 m²,Zi. 2,19,7
-14,selObject_44854052,1 Zimmer-Appartement Innenstadt Trier,"['Erdgeschosswohnung', '•', 'Trier', 'Trier-Nord']",['EBK'],Miete zzgl. NK 400 €,Wohnfläche ca. 34 m²,Zi. 1,19,7
-15,selObject_44853933,Trier-Feyen - Schöne 3 ZKB DG-Wohnung Bornewasserstr....,"['Dachgeschosswohnung', '•', 'Trier', 'Weismark-Feyen']",[],Miete zzgl. NK 660 €,Wohnfläche ca. 60 m²,Zi. 3,19,7
-16,selObject_44852508,Ruhe pur gesucht? Diese Wohnung hat sie!,"['Erdgeschosswohnung', '•', 'Siesbach']","['Garten', 'EBK']",Miete zzgl. NK 330 €,Wohnfläche ca. 75 m²,Zi. 3,19,7
-17,selObject_44849439,4-Zimmer-Wohnung zu vermieten,"['Wohnung', '•', 'Wittlich', 'Wittlich']",['Balkon'],Miete zzgl. NK 850 €,Wohnfläche ca. 104 m²,Zi. 4,19,7
-18,selObject_44848847,1 Zi.-Studenten-Apartment direkt gg. der Uni Trier im...,"['Apartment', '•', 'Trier', 'Kürenz']",[],Miete zzgl. NK 355 €,Wohnfläche ca. 33 m²,Zi. 1,19,7
-19,selObject_44848603,3-Zimmer-Wohnung zu vermieten,"['Wohnung', '•', 'Kyllburgweiler']","['Garten', 'EBK']",Miete zzgl. NK 350 €,Wohnfläche ca. 65 m²,Zi. 3,19,7
-20,selObject_44848489,Apartment mit Einbauküche und schönem Bad!,"['Dachgeschosswohnung', '•', 'Kaiserslautern', 'Innenstadt']",['EBK'],Miete zzgl. NK 380 €,Wohnfläche ca. 41 m²,Zi. 1,19,7
-21,selObject_44846204,Helle 4 Zimmer Wohnung geeignet für Familien ***sofort...,"['Etagenwohnung', '•', 'Ludwigshafen', 'Mundenheim']",[],Miete zzgl. NK 850 €,Wohnfläche ca. 89 m²,Zi. 4,19,7
-22,selObject_44846166,"Erstvermietung 4,5-Zi. Wohnung mit Ausblick","['Wohnung', '•', 'Mülheim-Kärlich', 'Kärlich']",['Balkon'],Miete zzgl. NK 1.100 €,Wohnfläche ca. 97 m²,"Zi. 4,5",19,7
-23,selObject_44845398,Erstbezug in ein 1 Zimmer appartment im Herzen der...,"['Apartment', '•', 'Koblenz', 'Altstadt']",['EBK'],Miete zzgl. NK 700 €,Wohnfläche ca. 47 m²,Zi. 1,19,7
-24,selObject_44845342,Erstbezug in ein 1 Zimmer appartment im Herzen der...,"['Apartment', '•', 'Koblenz', 'Altstadt']",['EBK'],Miete zzgl. NK 667 €,Wohnfläche ca. 44 m²,Zi. 1,19,7
-25,selObject_44844651,TOP-modernes 1-Zimmer-Apartment in Trier Uni Nähe,"['Etagenwohnung', '•', 'Trier', 'Tarforst']",[],Miete zzgl. NK 360 €,Wohnfläche ca. 29 m²,Zi. 1,19,7
-26,selObject_44844002,Dachgeschosswohnung in Breit zu vermieten,"['Dachgeschosswohnung', '•', 'Breit']",['EBK'],Miete zzgl. NK 440 €,Wohnfläche ca. 57 m²,"Zi. 1,5",19,7
+0,selObject_44894235,BARRIEREFREIES WOHNEN MIT FAHRSTUHL UND BALKON IM SONN...,"[['Wohnung', '•', 'Bodenheim']]",['Balkon'],Miete zzgl. NK 679 €,Wohnfläche ca. 52 m²,Zi. 2,19,7
+1,selObject_44885456,Gemütliche 4-Zimmer Wohnung im 4.OG in gepflegtem Juge...,"[['Dachgeschosswohnung', '•', 'Ludwigshafen', 'Süd']]",[],Miete zzgl. NK 725 €,Wohnfläche ca. 97 m²,Zi. 4,19,7
+2,selObject_44885012,Frisch renoviert Dachgeschosswohnung in Nittel,"[['Dachgeschosswohnung', '•', 'Nittel', 'Nittel']]",['EBK'],Miete zzgl. NK 780 €,Wohnfläche ca. 71 m²,Zi. 3,19,7
+3,selObject_44884941,"Ludwigshafen-Süd! Großzügige, helle 3,5 Zimmer-Wohnung...","[['Erdgeschosswohnung', '•', 'Ludwigshafen', 'Süd']]","['Balkon', 'Garten']",Miete zzgl. NK 830 €,Wohnfläche ca. 105 m²,"Zi. 3,5",19,7
+4,selObject_44884707,Sanierte 3-Zimmerwohnung umgeben von idyllischer Lands...,"[['Dachgeschosswohnung', '•', 'Sinspelt']]",[],Miete zzgl. NK 600 €,Wohnfläche ca. 65 m²,Zi. 2,19,7
+5,selObject_44884605,2 Zimmer Wohnung im Erdgeschoß,"[['Erdgeschosswohnung', '•', 'Worms', 'Innenstadt']]",[],"Miete zzgl. NK 576,56 €",Wohnfläche ca. 79 m²,Zi. 2,19,7
+6,selObject_44882839,Gemütliche 2-Zimmer-Dachgeschosswohnung in kleiner...,"[['Dachgeschosswohnung', '•', 'Bacharach', 'Bacharach']]",['EBK'],Miete zzgl. NK 580 €,Wohnfläche ca. 80 m²,"Zi. 2,5",19,7
+7,selObject_44882837,Direkt möbliert einziehen!!! Schöne 3-Zi.-DG-Wohnung...,"[['Etagenwohnung', '•', 'Kindenheim']]",['EBK'],Miete zzgl. NK 650 €,Wohnfläche ca. 94 m²,Zi. 3,19,7
+8,selObject_44882835,"Schöne 3-Zi.-Wohnung im 3. OG, ca. 98 m², mit tollem...","[['Etagenwohnung', '•', 'Kindenheim']]",['EBK'],Miete zzgl. NK 650 €,Wohnfläche ca. 98 m²,Zi. 3,19,7
+9,selObject_44882833,"Schöne modernisierte 2-Zi.-Altbau-Wohnung im 2. OG,...","[['Etagenwohnung', '•', 'Bad', 'Kreuznach']]",['EBK'],Miete zzgl. NK 630 €,Wohnfläche ca. 85 m²,Zi. 2,19,7
+10,selObject_44882818,"Tolle 3-Zi.-Wohnung im 2.OG, ca. 95 m², Balkon, Kelle...","[['Etagenwohnung', '•', 'Grolsheim']]",[],Miete zzgl. NK 825 €,Wohnfläche ca. 95 m²,Zi. 3,19,7
+11,selObject_44882627,360° Rundgang - Moderne Wohnung sucht neue Mieter -...,"[['Dachgeschosswohnung', '•', 'Montabaur', 'Bladernheim']]",[],Miete zzgl. NK 625 €,Wohnfläche ca. 87 m²,Zi. 3,19,7
+12,selObject_44881048,Moderne 2 ZKB in Toller Lage mit Balkon und Einbauküch...,"[['Etagenwohnung', '•', 'Trier', 'Filsch']]","['Balkon', 'EBK']",Miete zzgl. NK 600 €,Wohnfläche ca. 50 m²,Zi. 2,19,7
+13,selObject_44880264,Schöne 1 Zimmer Wohnung mit Duschbad und großer Esskü...,"[['Erdgeschosswohnung', '•', 'Battweiler']]",['Garten'],Miete zzgl. NK 420 €,Wohnfläche ca. 65 m²,Zi. 1,19,7
+14,selObject_44879002,Vermietung - Wohnung Trier (Euren),"[['Apartment', '•', 'Trier', 'Euren']]",[],Miete zzgl. NK 560 €,Wohnfläche ca. 60 m²,Zi. 3,19,7
+15,selObject_44877370,"Urbanes Wohnen mit Hafenflair - 3 Zimmer, 2 Loggien...","[['Etagenwohnung', '•', 'Ludwigshafen', 'Süd']]",['EBK'],"Miete zzgl. NK 1.220,34 €",Wohnfläche ca. 102 m²,Zi. 3,19,7
+16,selObject_44877351,"Ein Gefühl des Wohlbefindens - 4 Zi, 115 qm, Loggia...","[['Etagenwohnung', '•', 'Mainz']]",['EBK'],"Miete zzgl. NK 1.502,93 €",Wohnfläche ca. 116 m²,Zi. 4,19,7
+17,selObject_44877123,"Exklusive 3,5-Zimmer Penthouse-Wohnung mit traumhaftem...","[['Penthouse', '•', 'Lahnstein', 'Friedland']]",['EBK'],Miete zzgl. NK 1.300 €,Wohnfläche ca. 112 m²,"Zi. 3,5",19,7
+18,selObject_44876127,Singles und junge Paare aufgepasst! Schöne zwei Zimmer...,"[['Etagenwohnung', '•', 'Neuwied', 'Niederbieber']]",['EBK'],Miete zzgl. NK 490 €,Wohnfläche ca. 61 m²,Zi. 2,19,7
+19,selObject_44876126,Ihr neues Zuhause! Familien und junge Paare aufgepasst...,"[['Wohnung', '•', 'Neuwied', 'Niederbieber']]",['Balkon'],Miete zzgl. NK 810 €,Wohnfläche ca. 101 m²,"Zi. 4,5",19,7
+20,selObject_44876125,Achtung! Gelegenheit! Schöne 1. Zi. Wohnung! Ideal für...,"[['Wohnung', '•', 'Neuwied', 'Niederbieber']]",[],Miete zzgl. NK 450 €,Wohnfläche ca. 55 m²,Zi. 1,19,7
+21,selObject_44875817,Aufgepasst! Wohnen wie im Loft im Herzen von Heimbach-...,"[['Erdgeschosswohnung', '•', 'Neuwied', 'Heimbach-Weis']]",[],Miete zzgl. NK 540 €,Wohnfläche ca. 74 m²,Zi. 3,19,7
+22,selObject_44875077,Gemütlich Wohnen im Stadtzentrum! 2 Balkone: Helle und...,"[['Etagenwohnung', '•', 'Ludwigshafen', 'Mitte']]",['Balkon'],Miete zzgl. NK 599 €,Wohnfläche ca. 65 m²,Zi. 2,19,7
+23,selObject_44873705,"ALTSTADT - Altbauwohnung für Stadtmenschen und die,...","[['Etagenwohnung', '•', 'Mainz', 'Altstadt']]",['Balkon'],Miete zzgl. NK 1.795 €,Wohnfläche ca. 188 m²,Zi. 5,19,7
+24,selObject_44873665,3-Zimmer-Wohnung mit Balkon und Einbauküche (KFW-40+),"[['Wohnung', '•', 'Kastellaun']]","['Balkon', 'EBK']",Miete zzgl. NK 798 €,Wohnfläche ca. 92 m²,Zi. 3,19,7
+25,selObject_44873038,"Schöne, helle 2 Zimmer- ELW an der Luxemburger Grenze,...","[['Wohnung', '•', 'Wellen']]",['EBK'],Miete zzgl. NK 730 €,Wohnfläche ca. 70 m²,Zi. 2,19,7
+26,selObject_44872776,Modernisierte 1-Zimmer-Wohnung mit Balkon & Tiefgarage,"[['Apartment', '•', 'Mainz', 'Hartenberg/Münchfeld']]",['Balkon'],Miete zzgl. NK 470 €,Wohnfläche ca. 22 m²,Zi. 1,19,7

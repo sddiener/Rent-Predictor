@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44673742,Schöne 3 Zimmer-Neubauwohnung Innenstadt/Stadtzentrum...,"['Wohnung', '•', 'Trier', 'Heiligkreuz']","['Balkon', 'EBK']",Miete zzgl. NK 920 €,Wohnfläche ca. 70 m²,Zi. 3,27,7
-1,selObject_44667221,"Pirmasens-Rodalberstraße 6 ZKB mit Sauna, 2 Balkonen...","['Wohnung', '•', 'Pirmasens', 'Innenstadt']",['Balkon'],Miete zzgl. NK 565 €,Wohnfläche ca. 130 m²,Zi. 6,27,7
-2,selObject_44666396,"Schöne, helle 5 Zimmer Wohnung 100 m2","['Wohnung', '•', 'Rittersdorf']","['Garten', 'EBK']",Miete zzgl. NK 650 €,Wohnfläche ca. 100 m²,Zi. 5,27,7
-3,selObject_44664620,"***Kirn, Jugendstilvilla, neuer Kern, 3ZKB, zu vermiet...","['Dachgeschosswohnung', '•', 'Kirn']",[],Miete zzgl. NK 580 €,Wohnfläche ca. 83 m²,Zi. 3,27,7
-4,selObject_44663450,Schöne helle Wohnung in Dahnen,"['Apartment', '•', 'Dahnen']",['Garten'],Miete zzgl. NK 350 €,Wohnfläche ca. 50 m²,Zi. 2,27,7
-5,selObject_44662799,-ERSTBEZUG- Neubau 2 ZKB Wohnung,"['Wohnung', '•', 'Trier', 'Trier-West-Pallien']",['Balkon'],Miete zzgl. NK 620 €,Wohnfläche ca. 48 m²,Zi. 2,27,7
-6,selObject_44660414,Moderne Wohnung im Herzen von Ludwigshafen,"['Etagenwohnung', '•', 'Ludwigshafen', 'Mitte']",['EBK'],Miete zzgl. NK 450 €,Wohnfläche ca. 60 m²,Zi. 2,27,7
-7,selObject_44656649,Renovierte 3-Zimmer-Wohnung mit Balkon im 3. Stock,"['Wohnung', '•', 'Bad', 'Neuenahr-Ahrweiler', 'Bad', 'Neuenahr']",['Balkon'],Miete zzgl. NK 620 €,Wohnfläche ca. 69 m²,Zi. 3,27,7
-8,selObject_44650102,Nachmieter für 3 Zi. Kü / Bad in Altenkirchen gesucht,"['Etagenwohnung', '•', 'Altenkirchen', 'Altenkirchen']",[],Miete zzgl. NK 525 €,Wohnfläche ca. 95 m²,Zi. 3,27,7
-9,selObject_44650079,4-Zimmer-Wohnung mit Balkon und Wannenbad,"['Wohnung', '•', 'Bad', 'Bertrich', 'Bad', 'Bertrich']",['Balkon'],Miete zzgl. NK 680 €,Wohnfläche ca. 95 m²,Zi. 4,27,7
-10,selObject_44650009,Großzügig 245 m2 Wohnung mit Dachterrasse die sich ...,"['Penthouse', '•', 'Ludwigshafen', 'Mitte']",['Balkon'],Miete zzgl. NK 2.450 €,Wohnfläche ca. 245 m²,Zi. 5,27,7
-11,selObject_44649999,Helle und moderne 2-Zimmer-Wohnung in LU-Mitte,"['Etagenwohnung', '•', 'Ludwigshafen', 'Mitte']","['Balkon', 'EBK']",Miete zzgl. NK 620 €,Wohnfläche ca. 62 m²,Zi. 2,27,7
-12,selObject_44649993,FRIESENHEIM: Schönes und helles 1-ZKB-Apartment nahe...,"['Etagenwohnung', '•', 'Ludwigshafen', 'Friesenheim/Nord']",[],Miete zzgl. NK 370 €,Wohnfläche ca. 33 m²,Zi. 1,27,7
-13,selObject_44649779,Das Beste in Ludwigshafen - traumhafte 164 qm inkl....,"['Etagenwohnung', '•', 'Ludwigshafen', 'Süd']","['Balkon', 'EBK']","Miete zzgl. NK 1.889,91 €",Wohnfläche ca. 164 m²,Zi. 5,27,7
-14,selObject_44649767,Direkt am Rhein Erdgeschosswohnung mit Traumgarten und...,"['Etagenwohnung', '•', 'Ludwigshafen', 'Süd']","['Garten', 'EBK']","Miete zzgl. NK 2.153,57 €",Wohnfläche ca. 165 m²,Zi. 5,27,7
-15,selObject_44649760,Wohntraum: moderne 2-Zimmer Wohnung auf 71qm mit Loggi...,"['Etagenwohnung', '•', 'Ludwigshafen', 'Süd']",['EBK'],"Miete zzgl. NK 864,83 €",Wohnfläche ca. 71 m²,Zi. 2,27,7
-16,selObject_44649746,Beste Lage direkt am Rhein. EBK und 3 Zimmer auf 102...,"['Etagenwohnung', '•', 'Ludwigshafen', 'Süd']",['EBK'],"Miete zzgl. NK 1.223,39 €",Wohnfläche ca. 102 m²,Zi. 3,27,7
-17,selObject_44648596,Konfortabel u. energieeffizient wohnen,"['Etagenwohnung', '•', 'Worms', 'Innenstadt']",[],Miete zzgl. NK 700 €,Wohnfläche ca. 72 m²,Zi. 2,27,7
-18,selObject_44648504,Helle Singlewohnung mit Einbauküche und Stellplatz in...,"['Etagenwohnung', '•', 'Schömerich']",['EBK'],Miete zzgl. NK 370 €,Wohnfläche ca. 45 m²,Zi. 2,27,7
-19,selObject_44647959,Praktisch geschnittene Wohnung mit Balkon,"['Erdgeschosswohnung', '•', 'Bad', 'Ems']",['Balkon'],Miete zzgl. NK 430 €,Wohnfläche ca. 80 m²,Zi. 3,27,7
-20,selObject_44645804,3 Zi.-Wohnung in 4 Fam.-Haus in Frankenthal Nähe Worms...,"['Etagenwohnung', '•', 'Frankenthal', 'Frankenthal']",[],Miete zzgl. NK 650 €,Wohnfläche ca. 70 m²,Zi. 3,27,7
-21,selObject_44641063,Gut erhaltene Dachgeschoss Wohnung mit Stellplatz in...,"['Kein', 'Bild']","['Balkon', 'EBK']",Miete zzgl. NK 540 €,Wohnfläche ca. 84 m²,Zi. 4,27,7
-22,selObject_44637859,Schöne 3 Zimmerwohnung im Herzen der Stadt,"['Etagenwohnung', '•', 'Trier', 'Innenstadt']","['Balkon', 'EBK']",Miete zzgl. NK 750 €,Wohnfläche ca. 75 m²,Zi. 3,27,7
-23,selObject_44635984,3 ZKB mit Balkon und Garage in gepflegter Wohnanlage,"['Etagenwohnung', '•', 'Maikammer']",['Balkon'],Miete zzgl. NK 680 €,Wohnfläche ca. 86 m²,Zi. 3,27,7
-24,selObject_44635648,"gepflegte 1-Zimmer-Mietwohnung in zentraler, aber ruhi...","['Apartment', '•', 'Ludwigshafen', 'Mitte']",['EBK'],Miete zzgl. NK 360 €,Wohnfläche ca. 32 m²,Zi. 1,27,7
-25,selObject_44633124,"Wasserliesch, renoviertes Appartement für Lux-Pendler","['Etagenwohnung', '•', 'Wasserliesch']",['EBK'],Miete zzgl. NK 350 €,Wohnfläche ca. 30 m²,Zi. 1,27,7
-26,selObject_44632968,STILVOLLE WOHNUNG IN ZENTRALER LAGE,"['Apartment', '•', 'Zweibrücken', 'Zweibrücken']",['EBK'],Miete zzgl. NK 750 €,Wohnfläche ca. 120 m²,Zi. 4,27,7
+0,selObject_44694718,Trier-Ost: TOP moderne 4 ZKB-Maisonette-Wohnung mit...,"[['Etagenwohnung', '•', 'Trier', 'Trier-Ost']]",['EBK'],Miete zzgl. NK 1.240 €,Wohnfläche ca. 115 m²,Zi. 4,27,7
+1,selObject_44689162,Etagenwohnung mit kleinem Balkon,"[['Etagenwohnung', '•', 'Neustadt', 'Neustadt-Stadt']]","['Balkon', 'EBK']",Miete zzgl. NK 550 €,Wohnfläche ca. 70 m²,Zi. 2,27,7
+2,selObject_44687272,"""Fast-Neubau"" - Barrierefrei - Lage -Preis EINFACH...","[['Wohnung', '•', 'Neuwied', 'Neuwied']]","['Balkon', 'EBK']",Miete zzgl. NK 840 €,Wohnfläche ca. 78 m²,Zi. 3,27,7
+3,selObject_44685385,Schöne 3 ZKB City-Wohnung - Karl-Marx-Straße,"[['Dachgeschosswohnung', '•', 'Trier', 'Innenstadt']]",[],Miete zzgl. NK 700 €,Wohnfläche ca. 70 m²,Zi. 3,27,7
+4,selObject_44684255,Wohnung mit Flair,"[['Etagenwohnung', '•', 'Gemünden']]",['EBK'],Miete zzgl. NK 510 €,Wohnfläche ca. 94 m²,Zi. 3,27,7
+5,selObject_44679973,4 Zimmer-Wohnung mit Stellplatz mitten in der Stadt,"[['Wohnung', '•', 'Trier', 'Innenstadt']]",[],Miete zzgl. NK 710 €,Wohnfläche ca. 90 m²,Zi. 4,27,7
+6,selObject_44678510,Gepflegte 3-Zimmer-Wohnung mit Terrasse in Spiesheim,"[['Wohnung', '•', 'Spiesheim']]",['EBK'],Miete zzgl. NK 750 €,Wohnfläche ca. 90 m²,Zi. 3,27,7
+7,selObject_44673742,Schöne 3 Zimmer-Neubauwohnung Innenstadt/Stadtzentrum...,"[['Wohnung', '•', 'Trier', 'Heiligkreuz']]","['Balkon', 'EBK']",Miete zzgl. NK 920 €,Wohnfläche ca. 70 m²,Zi. 3,27,7
+8,selObject_44667221,"Pirmasens-Rodalberstraße 6 ZKB mit Sauna, 2 Balkonen...","[['Wohnung', '•', 'Pirmasens', 'Innenstadt']]",['Balkon'],Miete zzgl. NK 565 €,Wohnfläche ca. 130 m²,Zi. 6,27,7
+9,selObject_44666396,"Schöne, helle 5 Zimmer Wohnung 100 m2","[['Wohnung', '•', 'Rittersdorf']]","['Garten', 'EBK']",Miete zzgl. NK 650 €,Wohnfläche ca. 100 m²,Zi. 5,27,7
+10,selObject_44664620,"***Kirn, Jugendstilvilla, neuer Kern, 3ZKB, zu vermiet...","[['Dachgeschosswohnung', '•', 'Kirn']]",[],Miete zzgl. NK 580 €,Wohnfläche ca. 83 m²,Zi. 3,27,7
+11,selObject_44663450,Schöne helle Wohnung in Dahnen,"[['Apartment', '•', 'Dahnen']]",['Garten'],Miete zzgl. NK 350 €,Wohnfläche ca. 50 m²,Zi. 2,27,7
+12,selObject_44662799,-ERSTBEZUG- Neubau 2 ZKB Wohnung,"[['Wohnung', '•', 'Trier', 'Trier-West-Pallien']]",['Balkon'],Miete zzgl. NK 620 €,Wohnfläche ca. 48 m²,Zi. 2,27,7
+13,selObject_44660414,Moderne Wohnung im Herzen von Ludwigshafen,"[['Etagenwohnung', '•', 'Ludwigshafen', 'Mitte']]",['EBK'],Miete zzgl. NK 450 €,Wohnfläche ca. 60 m²,Zi. 2,27,7
+14,selObject_44656649,Renovierte 3-Zimmer-Wohnung mit Balkon im 3. Stock,"[['Wohnung', '•', 'Bad', 'Neuenahr-Ahrweiler', 'Bad', 'Neuenahr']]",['Balkon'],Miete zzgl. NK 620 €,Wohnfläche ca. 69 m²,Zi. 3,27,7
+15,selObject_44650102,Nachmieter für 3 Zi. Kü / Bad in Altenkirchen gesucht,"[['Etagenwohnung', '•', 'Altenkirchen', 'Altenkirchen']]",[],Miete zzgl. NK 525 €,Wohnfläche ca. 95 m²,Zi. 3,27,7
+16,selObject_44650079,4-Zimmer-Wohnung mit Balkon und Wannenbad,"[['Wohnung', '•', 'Bad', 'Bertrich', 'Bad', 'Bertrich']]",['Balkon'],Miete zzgl. NK 680 €,Wohnfläche ca. 95 m²,Zi. 4,27,7
+17,selObject_44650009,Großzügig 245 m2 Wohnung mit Dachterrasse die sich ...,"[['Penthouse', '•', 'Ludwigshafen', 'Mitte']]",['Balkon'],Miete zzgl. NK 2.450 €,Wohnfläche ca. 245 m²,Zi. 5,27,7
+18,selObject_44649999,Helle und moderne 2-Zimmer-Wohnung in LU-Mitte,"[['Etagenwohnung', '•', 'Ludwigshafen', 'Mitte']]","['Balkon', 'EBK']",Miete zzgl. NK 620 €,Wohnfläche ca. 62 m²,Zi. 2,27,7
+19,selObject_44649993,FRIESENHEIM: Schönes und helles 1-ZKB-Apartment nahe...,"[['Etagenwohnung', '•', 'Ludwigshafen', 'Friesenheim/Nord']]",[],Miete zzgl. NK 370 €,Wohnfläche ca. 33 m²,Zi. 1,27,7
+20,selObject_44649779,Das Beste in Ludwigshafen - traumhafte 164 qm inkl....,"[['Etagenwohnung', '•', 'Ludwigshafen', 'Süd']]","['Balkon', 'EBK']","Miete zzgl. NK 1.889,91 €",Wohnfläche ca. 164 m²,Zi. 5,27,7
+21,selObject_44649767,Direkt am Rhein Erdgeschosswohnung mit Traumgarten und...,"[['Etagenwohnung', '•', 'Ludwigshafen', 'Süd']]","['Garten', 'EBK']","Miete zzgl. NK 2.153,57 €",Wohnfläche ca. 165 m²,Zi. 5,27,7
+22,selObject_44649760,Wohntraum: moderne 2-Zimmer Wohnung auf 71qm mit Loggi...,"[['Etagenwohnung', '•', 'Ludwigshafen', 'Süd']]",['EBK'],"Miete zzgl. NK 864,83 €",Wohnfläche ca. 71 m²,Zi. 2,27,7
+23,selObject_44649746,Beste Lage direkt am Rhein. EBK und 3 Zimmer auf 102...,"[['Etagenwohnung', '•', 'Ludwigshafen', 'Süd']]",['EBK'],"Miete zzgl. NK 1.223,39 €",Wohnfläche ca. 102 m²,Zi. 3,27,7
+24,selObject_44648596,Konfortabel u. energieeffizient wohnen,"[['Etagenwohnung', '•', 'Worms', 'Innenstadt']]",[],Miete zzgl. NK 700 €,Wohnfläche ca. 72 m²,Zi. 2,27,7
+25,selObject_44648504,Helle Singlewohnung mit Einbauküche und Stellplatz in...,"[['Etagenwohnung', '•', 'Schömerich']]",['EBK'],Miete zzgl. NK 370 €,Wohnfläche ca. 45 m²,Zi. 2,27,7
+26,selObject_44647959,Praktisch geschnittene Wohnung mit Balkon,"[['Erdgeschosswohnung', '•', 'Bad', 'Ems']]",['Balkon'],Miete zzgl. NK 430 €,Wohnfläche ca. 80 m²,Zi. 3,27,7

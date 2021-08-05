@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44492398,2ZKB in ruhiger Waldrandlage!,"['Apartment', '•', 'Saarbrücken', 'Schafbrücke']",[],Miete zzgl. NK 600 €,Wohnfläche ca. 72 m²,Zi. 2,12,10
-1,selObject_44492139,Apartment mit modernem Wannenbad in der Brauerstraße...,"['Apartment', '•', 'Saarbrücken', 'St', 'Johann']",[],Miete zzgl. NK 310 €,Wohnfläche ca. 27 m²,Zi. 1,12,10
-2,selObject_44489564,Neu renovierte Erdgeschosswohnung direkt am Saarbrücke...,"['Erdgeschosswohnung', '•', 'Saarbrücken', 'Alt-Saarbrücken']",[],Miete zzgl. NK 450 €,Wohnfläche ca. 50 m²,Zi. 2,12,10
-3,selObject_44478093,Appartement in Citynähe Ideal für Studenten und Berufs...,"['Erdgeschosswohnung', '•', 'Saarbrücken', 'St', 'Johann']",[],Miete zzgl. NK 295 €,Wohnfläche ca. 36 m²,Zi. 1,12,10
-4,selObject_44477985,1 ZKB mit unmittelbarer Einkaufsmöglichkeit sowie opti...,"['Apartment', '•', 'Saarbrücken', 'Eschberg']",[],Miete zzgl. NK 250 €,Wohnfläche ca. 20 m²,Zi. 1,12,10
-5,selObject_44477956,"1 ZKB , Am Homburg mit Balkon ideal für Studenten und...","['Apartment', '•', 'Saarbrücken', 'St', 'Johann']",['Balkon'],Miete zzgl. NK 255 €,Wohnfläche ca. 25 m²,Zi. 1,12,10
-6,selObject_44477917,Schönes frisch renoviertes vollmöbliertes 1 Zimmer...,"['Apartment', '•', 'Saarbrücken', 'Eschberg']",['Balkon'],Miete zzgl. NK 350 €,Wohnfläche ca. 22 m²,Zi. 1,12,10
-7,selObject_44477726,Willkommen! 3 ZKB am Staden ab sofort bezugsfertig.,"['Etagenwohnung', '•', 'Saarbrücken', 'St', 'Johann']",['Balkon'],Miete zzgl. NK 700 €,Wohnfläche ca. 110 m²,Zi. 3,12,10
-8,selObject_44476896,3 ZKB-Dachgeschosswohnung in Saarbrücken-Burbach (möbl...,"['Etagenwohnung', '•', 'Saarbrücken', 'Burbach']",['EBK'],Miete zzgl. NK 380 €,Wohnfläche ca. 66 m²,Zi. 3,12,10
-9,selObject_44448375,"Neunkirchen, TOP-Lage, Sackgasse, geräumige, bezugsfer...","['Erdgeschosswohnung', '•', 'Neunkirchen', 'Innenstadt']",['Garten'],Miete zzgl. NK 600 €,Wohnfläche ca. 80 m²,Zi. 2,12,10
-10,selObject_44440597,Moderne Neubauwohnung mit Balkon in der Heuduckstraße...,"['Etagenwohnung', '•', 'Saarbrücken', 'Alt-Saarbrücken']",['Balkon'],Miete zzgl. NK 686 €,Wohnfläche ca. 72 m²,Zi. 2,12,10
-11,selObject_44411582,Gemütliche 2 ZKB Mietwohnung in ruhiger Sackgassenlage,"['Wohnung', '•', 'St.', 'Ingbert', 'Hassel']",[],Miete zzgl. NK 500 €,Wohnfläche ca. 75 m²,Zi. 2,12,10
-12,selObject_44394554,Großzügige 2 Zimmer-Wohnung in Kliniknähe- Sulzbach,"['Etagenwohnung', '•', 'Sulzbach', 'Sulzbach']",['Garten'],Miete zzgl. NK 465 €,Wohnfläche ca. 78 m²,Zi. 2,12,10
-13,selObject_44392057,Möbliertes Apartment in bester Innenstadtlage!,"['Apartment', '•', 'Saarbrücken', 'St', 'Johann']",['EBK'],Miete zzgl. NK 900 €,Wohnfläche ca. 74 m²,Zi. 2,12,10
-14,selObject_44389648,"Familienfreundliche 3 ZKB-Wohnung in Völklingen, Zum...","['Etagenwohnung', '•', 'Völklingen', 'Wehrden']",[],Miete zzgl. NK 493 €,Wohnfläche ca. 85 m²,Zi. 3,12,10
-15,selObject_44385464,Helle 2 Zimmer Wohnung,"['Dachgeschosswohnung', '•', 'Saarwellingen', 'Saarwellingen']",[],Miete zzgl. NK 360 €,Wohnfläche ca. 54 m²,Zi. 2,12,10
-16,selObject_44385437,Renovierte helle 1-Zimmer Wohnung in zentraler Lage,"['Erdgeschosswohnung', '•', 'Saarbrücken', 'St', 'Johann']",['EBK'],Miete zzgl. NK 510 €,Wohnfläche ca. 49 m²,Zi. 1,12,10
-17,selObject_44379712,Toprenovierte 4 - 5 ZKB-Wohnung in Homburg,"['Etagenwohnung', '•', 'Homburg', 'Altbreitenfelderhof']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 800 €,Wohnfläche ca. 94 m²,Zi. 5,12,10
-18,selObject_44379483,2 ZKB DG-Wohnung in 66117 Saarbrücken-Goldene-Bremm,"['Dachgeschosswohnung', '•', 'Saarbrücken', 'Alt-Saarbrücken']",['EBK'],Miete zzgl. NK 600 €,Wohnfläche ca. 88 m²,Zi. 2,12,10
-19,selObject_44376969,4 ZKB in ruhiger Lage am Eschberg,"['Wohnung', '•', 'Saarbrücken', 'St', 'Johann']",['Balkon'],Miete zzgl. NK 900 €,,Zi. 3,12,10
-20,selObject_44375761,Schöne Wohnung mit EBK in Saarlouis-Fraulautern,"['Wohnung', '•', 'Saarlouis', 'Fraulautern']","['Balkon', 'EBK']",Miete zzgl. NK 595 €,Wohnfläche ca. 76 m²,Zi. 2,12,10
-21,selObject_44374496,Schöne 3 ZKB-Wohnung mit Garten,"['Wohnung', '•', 'Völklingen', 'Lauterbach']",['Garten'],Miete zzgl. NK 400 €,Wohnfläche ca. 70 m²,Zi. 3,12,10
-22,selObject_44370436,93 Quadratmeter Wohnung in der Apacher Straße 3 in...,"['Etagenwohnung', '•', 'Perl', 'Perl']",[],Miete zzgl. NK 1.200 €,Wohnfläche ca. 93 m²,Zi. 4,12,10
-23,selObject_44369047,kernsanierte 3-ZKB Wohnung mit Balkon im Grünen,"['Wohnung', '•', 'Dillingen', 'Dillingen']",['Balkon'],Miete zzgl. NK 848 €,Wohnfläche ca. 106 m²,Zi. 3,12,10
-24,selObject_44357563,"2 Z Loft begehbare Dusche mit Loggia, ERSTBEZUG, Braue...","['Erdgeschosswohnung', '•', 'Saarbrücken', 'St', 'Johann']",[],Miete zzgl. NK 880 €,Wohnfläche ca. 108 m²,Zi. 2,12,10
-25,selObject_44355684,Schöne 2 ZKB in Hassel mit Gartenmitbenutzung,"['Apartment', '•', 'St.', 'Ingbert', 'Hassel']",[],Miete zzgl. NK 550 €,Wohnfläche ca. 70 m²,Zi. 2,12,10
-26,selObject_44288358,Beeden - EG Wohnung mit Terrasse und Garten,"['Erdgeschosswohnung', '•', 'Homburg', 'Beeden']",[],Miete zzgl. NK 880 €,Wohnfläche ca. 105 m²,Zi. 3,12,10
+0,selObject_44549939,"1,5 - ZKB Wohnung zentrumsnah von Heusweiler","[['Apartment', '•', 'Heusweiler', 'Heusweiler']]",['Garten'],Miete zzgl. NK 295 €,Wohnfläche ca. 27 m²,"Zi. 1,5",12,10
+1,selObject_44545039,3-Zimer Wohnung in toller Lage!,"[['Wohnung', '•', 'Saarbrücken', 'Alt-Saarbrücken']]","['Balkon', 'Garten']",Miete zzgl. NK 490 €,Wohnfläche ca. 74 m²,Zi. 3,12,10
+2,selObject_44529780,2 Zi - mob. Küch - Bad - in ruhiger Wohnlage zu vermie...,"[['Wohnung', '•', 'Saarbrücken', 'Alt-Saarbrücken']]",['EBK'],Miete zzgl. NK 390 €,Wohnfläche ca. 55 m²,Zi. 2,12,10
+3,selObject_44513606,HOMBURG; NEUWERTIGE UND MODERNE 2 ZKB WOHNUNG MIT EBK...,"[['Dachgeschosswohnung', '•', 'Homburg', 'Homburg']]",[],Miete zzgl. NK 490 €,Wohnfläche ca. 50 m²,Zi. 2,12,10
+4,selObject_44511655,"Helle 2 Zimmer, Küche und Bad","[['Erdgeschosswohnung', '•', 'Neunkirchen', 'Innenstadt']]",[],Miete zzgl. NK 450 €,Wohnfläche ca. 90 m²,Zi. 3,12,10
+5,selObject_44506101,Appartement mit Balkon in super Lage von SB-Heidenkopf...,"[['Etagenwohnung', '•', 'Saarbrücken', 'St', 'Johann']]",[],Miete zzgl. NK 220 €,Wohnfläche ca. 22 m²,Zi. 1,12,10
+6,selObject_44503275,SAARLOUIS/STADTNAH - EXKLUSIV UND BARRIEREFREI MIT CA....,"[['Penthouse', '•', 'Saarlouis', 'Saarlouis']]","['Balkon', 'EBK']",Miete zzgl. NK 1.500 €,Wohnfläche ca. 90 m²,Zi. 3,12,10
+7,selObject_44502761,3 ZKB mit Einbauküche und Terrasse in Beckingen ab...,"[['Etagenwohnung', '•', 'Beckingen', 'Beckingen']]",[],Miete zzgl. NK 570 €,Wohnfläche ca. 75 m²,Zi. 3,12,10
+8,selObject_44498064,"Möblierte TOP-Wohnung, neuwertige Einbauküche, großer...","[['Etagenwohnung', '•', 'Saarbrücken', 'Dudweiler']]","['Balkon', 'EBK']",Miete zzgl. NK 590 €,Wohnfläche ca. 60 m²,"Zi. 2,5",12,10
+9,selObject_44496516,Neubau hochwertig + barrierefrei : 3 ZKB Wohnung mit...,"[['Wohnung', '•', 'Ensdorf']]",['Balkon'],Miete zzgl. NK 780 €,Wohnfläche ca. 81 m²,Zi. 3,12,10
+10,selObject_44492527,komplett renovierte Loft Wohnung,"[['Dachgeschosswohnung', '•', 'Saarbrücken', 'Alt-Saarbrücken']]",['EBK'],Miete zzgl. NK 850 €,,Zi. 3,12,10
+11,selObject_44492398,2ZKB in ruhiger Waldrandlage!,"[['Apartment', '•', 'Saarbrücken', 'Schafbrücke']]",[],Miete zzgl. NK 600 €,Wohnfläche ca. 72 m²,Zi. 2,12,10
+12,selObject_44492139,Apartment mit modernem Wannenbad in der Brauerstraße...,"[['Apartment', '•', 'Saarbrücken', 'St', 'Johann']]",[],Miete zzgl. NK 310 €,Wohnfläche ca. 27 m²,Zi. 1,12,10
+13,selObject_44489564,Neu renovierte Erdgeschosswohnung direkt am Saarbrücke...,"[['Erdgeschosswohnung', '•', 'Saarbrücken', 'Alt-Saarbrücken']]",[],Miete zzgl. NK 450 €,Wohnfläche ca. 46 m²,Zi. 2,12,10
+14,selObject_44478093,Appartement in Citynähe Ideal für Studenten und Berufs...,"[['Erdgeschosswohnung', '•', 'Saarbrücken', 'St', 'Johann']]",[],Miete zzgl. NK 295 €,Wohnfläche ca. 36 m²,Zi. 1,12,10
+15,selObject_44477985,1 ZKB mit unmittelbarer Einkaufsmöglichkeit sowie opti...,"[['Apartment', '•', 'Saarbrücken', 'Eschberg']]",[],Miete zzgl. NK 250 €,Wohnfläche ca. 20 m²,Zi. 1,12,10
+16,selObject_44477956,"1 ZKB , Am Homburg mit Balkon ideal für Studenten und...","[['Apartment', '•', 'Saarbrücken', 'St', 'Johann']]",['Balkon'],Miete zzgl. NK 255 €,Wohnfläche ca. 25 m²,Zi. 1,12,10
+17,selObject_44477917,Schönes frisch renoviertes vollmöbliertes 1 Zimmer...,"[['Apartment', '•', 'Saarbrücken', 'Eschberg']]",['Balkon'],Miete zzgl. NK 350 €,Wohnfläche ca. 22 m²,Zi. 1,12,10
+18,selObject_44477726,Willkommen! 3 ZKB am Staden ab sofort bezugsfertig.,"[['Etagenwohnung', '•', 'Saarbrücken', 'St', 'Johann']]",['Balkon'],Miete zzgl. NK 700 €,Wohnfläche ca. 110 m²,Zi. 3,12,10
+19,selObject_44476896,3 ZKB-Dachgeschosswohnung in Saarbrücken-Burbach (möbl...,"[['Etagenwohnung', '•', 'Saarbrücken', 'Burbach']]",['EBK'],Miete zzgl. NK 380 €,Wohnfläche ca. 66 m²,Zi. 3,12,10
+20,selObject_44448375,"Neunkirchen, TOP-Lage, Sackgasse, geräumige, bezugsfer...","[['Erdgeschosswohnung', '•', 'Neunkirchen', 'Innenstadt']]",['Garten'],Miete zzgl. NK 600 €,Wohnfläche ca. 80 m²,Zi. 2,12,10
+21,selObject_44440597,Moderne Neubauwohnung mit Balkon in der Heuduckstraße...,"[['Etagenwohnung', '•', 'Saarbrücken', 'Alt-Saarbrücken']]",['Balkon'],Miete zzgl. NK 686 €,Wohnfläche ca. 72 m²,Zi. 2,12,10
+22,selObject_44411582,Gemütliche 2 ZKB Mietwohnung in ruhiger Sackgassenlage,"[['Wohnung', '•', 'St.', 'Ingbert', 'Hassel']]",[],Miete zzgl. NK 500 €,Wohnfläche ca. 75 m²,Zi. 2,12,10
+23,selObject_44394554,Großzügige 2 Zimmer-Wohnung in Kliniknähe- Sulzbach,"[['Etagenwohnung', '•', 'Sulzbach', 'Sulzbach']]",['Garten'],Miete zzgl. NK 465 €,Wohnfläche ca. 78 m²,Zi. 2,12,10
+24,selObject_44392057,Möbliertes Apartment in bester Innenstadtlage!,"[['Apartment', '•', 'Saarbrücken', 'St', 'Johann']]",['EBK'],Miete zzgl. NK 900 €,Wohnfläche ca. 74 m²,Zi. 2,12,10
+25,selObject_44389648,"Familienfreundliche 3 ZKB-Wohnung in Völklingen, Zum...","[['Etagenwohnung', '•', 'Völklingen', 'Wehrden']]",[],Miete zzgl. NK 493 €,Wohnfläche ca. 85 m²,Zi. 3,12,10
+26,selObject_44385464,Helle 2 Zimmer Wohnung,"[['Dachgeschosswohnung', '•', 'Saarwellingen', 'Saarwellingen']]",[],Miete zzgl. NK 360 €,Wohnfläche ca. 54 m²,Zi. 2,12,10

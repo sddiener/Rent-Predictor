@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44913627,Attraktive 1-Raumwohnung - Erstbezug nach Sanierung,"['Wohnung', '•', 'Magdeburg', 'Neu', 'Olvenstedt']",[],Miete zzgl. NK 170 €,Wohnfläche ca. 34 m²,Zi. 1,33,15
-1,selObject_44913625,Ihr neues Zuhause wartet auf Sie.....,"['Wohnung', '•', 'Magdeburg', 'Neu', 'Olvenstedt']",['Balkon'],"Miete zzgl. NK 366,30 €",Wohnfläche ca. 61 m²,Zi. 2,33,15
-2,selObject_44913454,Lieblingsort gefunden,"['Etagenwohnung', '•', 'Magdeburg', 'Kannenstieg']","['Balkon', 'EBK']","Miete zzgl. NK 255,67 €",Wohnfläche ca. 48 m²,Zi. 2,33,15
-3,selObject_44913413,4 Räume im Süden - Nur für dich!,"['Wohnung', '•', 'Halle', 'Lutherplatz']",['Balkon'],Miete zzgl. NK 640 €,Wohnfläche ca. 80 m²,Zi. 4,33,15
-4,selObject_44913412,STOP! - Du hast sie gefunden. Gestalte deine eigenen...,"['Wohnung', '•', 'Halle', 'Giebichenstein']",['Balkon'],Miete zzgl. NK 696 €,Wohnfläche ca. 87 m²,Zi. 2,33,15
-5,selObject_44912340,AB 15.SEPTEMBER! EG-Wohnung mit neuer Einbauküche NÄHE...,"['Etagenwohnung', '•', 'Halberstadt', 'Halberstadt']",['EBK'],Miete zzgl. NK 300 €,Wohnfläche ca. 45 m²,Zi. 2,33,15
-6,selObject_44912270,Günstig Wohnen an der Peißnitz?- Hier werden Sie fündi...,"['Etagenwohnung', '•', 'Halle', 'Nördliche', 'Neustadt']",[],Miete zzgl. NK 270 €,Wohnfläche ca. 57 m²,Zi. 3,33,15
-7,selObject_44912204,Neubau zum Vorzugspreis - Angebot bis 15. August 2021,"['Etagenwohnung', '•', 'Halle', 'Innenstadt']",[],"Miete zzgl. NK 508,80 €",Wohnfläche ca. 63 m²,Zi. 2,33,15
-8,selObject_44912201,Neubau im Charlottenviertel - Angebot bis 15. August...,"['Etagenwohnung', '•', 'Halle', 'Innenstadt']",[],"Miete zzgl. NK 602,50 €",Wohnfläche ca. 66 m²,Zi. 2,33,15
-9,selObject_44912200,Rollstuhlfreundlicher Neubau - Angebot bis 15. August...,"['Etagenwohnung', '•', 'Halle', 'Innenstadt']",[],"Miete zzgl. NK 500,10 €",Wohnfläche ca. 66 m²,Zi. 2,33,15
-10,selObject_44910954,... auch für Studenten,"['Etagenwohnung', '•', 'Halle', 'Silberhöhe']",['Balkon'],"Miete zzgl. NK 190,56 €",Wohnfläche ca. 31 m²,Zi. 1,33,15
-11,selObject_44910649,Helle gemütliche Großraum-Wohnung zu vermieten,"['Etagenwohnung', '•', 'Magdeburg', 'Sudenburg']",[],Miete zzgl. NK 840 €,Wohnfläche ca. 168 m²,"Zi. 5,5",33,15
-12,selObject_44910015,5-R-Whg in Röblingen am See mit 2 Bädern,"['Etagenwohnung', '•', 'Seegebiet', 'Mansfelder', 'Land', 'Röblingen', 'am', 'See']",[],Miete zzgl. NK 750 €,Wohnfläche ca. 110 m²,Zi. 5,33,15
-13,selObject_44909352,Top Lage von Halberstadt- Wohnen im Grünen!,"['Etagenwohnung', '•', 'Halberstadt', 'Halberstadt']",['Balkon'],Miete zzgl. NK 318 €,Wohnfläche ca. 58 m²,Zi. 3,33,15
-14,selObject_44909290,Günstige Wohnung - 03. OG - rechts,"['Etagenwohnung', '•', 'Merseburg', 'Merseburg']",['Balkon'],Miete zzgl. NK 249 €,Wohnfläche ca. 58 m²,Zi. 3,33,15
-15,selObject_44909287,Wohnen im Grünen - 02. OG - links,"['Etagenwohnung', '•', 'Merseburg', 'Merseburg']",['Balkon'],Miete zzgl. NK 272 €,Wohnfläche ca. 58 m²,Zi. 3,33,15
-16,selObject_44909196,+++JULI-PREISKRACHER: INDIVIDUELLES DACHGESCHOSS MIT...,"['Dachgeschosswohnung', '•', 'Magdeburg', 'Stadtfeld', 'Ost']","['Garten', 'EBK']",Miete zzgl. NK 475 €,Wohnfläche ca. 90 m²,Zi. 3,33,15
-17,selObject_44909178,Perfekte 1-Raum WE + Nebenzimmer im Zentrum zu vermiet...,"['Dachgeschosswohnung', '•', 'Naumburg', 'Naumburg']",[],Miete zzgl. NK 250 €,Wohnfläche ca. 40 m²,Zi. 2,33,15
-18,selObject_44908589,Oben Wohnen = Miete Sparen!,"['Etagenwohnung', '•', 'Bernburg', 'Bernburg']",['Balkon'],"Miete zzgl. NK 176,60 €",Wohnfläche ca. 71 m²,Zi. 3,33,15
-19,selObject_44908288,2-Zimmer-Wohnung,"['Wohnung', '•', 'Staßfurt', 'Neu', 'Staßfurt']",[],Miete zzgl. NK 438 €,Wohnfläche ca. 73 m²,Zi. 2,33,15
-20,selObject_44908287,4-Zimmerwohnung mit Balkon,"['Wohnung', '•', 'Staßfurt', 'Neu', 'Staßfurt']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 894 €,Wohnfläche ca. 149 m²,Zi. 4,33,15
-21,selObject_44908285,2-Zimmer-Wohnung mit Balkon,"['Wohnung', '•', 'Staßfurt', 'Neu', 'Staßfurt']",['Balkon'],Miete zzgl. NK 432 €,Wohnfläche ca. 72 m²,Zi. 2,33,15
-22,selObject_44908256,2-Zimmer-Wohnung im Grünen: Einziehen und wohlfühlen,"['Etagenwohnung', '•', 'Lostau']",[],Miete zzgl. NK 285 €,Wohnfläche ca. 48 m²,Zi. 2,33,15
-23,selObject_44908079,Balkonwohnung sucht DICH!,"['Etagenwohnung', '•', 'Halle', 'Silberhöhe']",['Balkon'],Miete zzgl. NK 270 €,Wohnfläche ca. 51 m²,Zi. 2,33,15
-24,selObject_44907727,Top saniert in Citynähe - Erdgeschosswohnung in Bestfo...,"['Erdgeschosswohnung', '•', 'Halberstadt', 'Halberstadt']",['Balkon'],Miete zzgl. NK 352 €,Wohnfläche ca. 53 m²,Zi. 2,33,15
-25,selObject_44907726,Gemütliche 3-Zimmer Wohnung in der Oberstadt!,"['Etagenwohnung', '•', 'Halberstadt', 'Halberstadt']",['Balkon'],Miete zzgl. NK 368 €,Wohnfläche ca. 63 m²,Zi. 3,33,15
-26,selObject_44907722,Wohnen im Herzen der Stadt! Großzügige 2- Zimmer Wohnu...,"['Erdgeschosswohnung', '•', 'Magdeburg', 'Altstadt']",[],Miete zzgl. NK 872 €,Wohnfläche ca. 97 m²,Zi. 2,33,15
+0,selObject_44926893,Dachgeschosswohnung in Elbnähe,"[['Apartment', '•', 'Magdeburg', 'Buckau']]",[],Miete zzgl. NK 405 €,Wohnfläche ca. 45 m²,Zi. 1,33,15
+1,selObject_44926435,Wohnen im Herzen von Brehna - 2 RWE zu vermieten,"[['Wohnung', '•', 'Brehna', 'Brehna']]",[],Miete zzgl. NK 312 €,Wohnfläche ca. 55 m²,Zi. 2,33,15
+2,selObject_44925940,sanierte 3 Zimmer Wohnung in Osternienburg,"[['Erdgeschosswohnung', '•', 'Osternienburg', 'Osternienburg']]",['Balkon'],"Miete zzgl. NK 306,80 €",Wohnfläche ca. 59 m²,Zi. 3,33,15
+3,selObject_44925870,+++ 3 ZIMMER MIT BALKON +++,"[['Etagenwohnung', '•', 'Calbe', 'Calbe']]",['Balkon'],Miete zzgl. NK 305 €,Wohnfläche ca. 63 m²,Zi. 3,33,15
+4,selObject_44925718,Nähe Markt,"[['Etagenwohnung', '•', 'Halle', 'Altstadt']]",[],Miete zzgl. NK 433 €,Wohnfläche ca. 65 m²,Zi. 3,33,15
+5,selObject_44925597,2-Raum-Wohnung mit Loggia,"[['Etagenwohnung', '•', 'Halle', 'Südstadt']]",[],Miete zzgl. NK 309 €,Wohnfläche ca. 47 m²,Zi. 2,33,15
+6,selObject_44925587,"schöne 2- R.-W. im 1.OG in Bismark, W.- Lüdecke- Str.","[['Wohnung', '•', 'Bismark', 'Bismark']]",[],Miete zzgl. NK 285 €,Wohnfläche ca. 66 m²,Zi. 2,33,15
+7,selObject_44925055,2- Raum- Wohnung in Bismark Süd,"[['Dachgeschosswohnung', '•', 'Bismark', 'Bismark']]",[],Miete zzgl. NK 270 €,Wohnfläche ca. 53 m²,Zi. 2,33,15
+8,selObject_44925024,"+++ Erstbezug in einer 1,5-Raumwohnung in Dehlitz am...","[['Etagenwohnung', '•', 'Bad', 'Lauchstädt', 'Delitz', 'am', 'Berge']]",[],Miete zzgl. NK 170 €,Wohnfläche ca. 26 m²,Zi. 1,33,15
+9,selObject_44924973,+++ Traumhafte 6-Raum-Maisonette-Wohnung in ruhiger...,"[['Dachgeschosswohnung', '•', 'Teuchern', 'Teuchern']]","['Garten', 'EBK']",Miete zzgl. NK 1.100 €,Wohnfläche ca. 144 m²,Zi. 6,33,15
+10,selObject_44924961,+++ Erstbezug in einer 3-Raumwohnung in ruhiger Lage...,"[['Etagenwohnung', '•', 'Weißenfels', 'Weißenfels']]",['Balkon'],Miete zzgl. NK 360 €,Wohnfläche ca. 60 m²,Zi. 3,33,15
+11,selObject_44924138,2-RAUMWOHNUNG NÄHE UNI,"[['Dachgeschosswohnung', '•', 'Magdeburg', 'Alte', 'Neustadt']]",[],Miete zzgl. NK 330 €,Wohnfläche ca. 59 m²,Zi. 2,33,15
+12,selObject_44924135,Klein aber Fein!,"[['Wohnung', '•', 'Braunsbedra']]",[],"Miete zzgl. NK 223,20 €",Wohnfläche ca. 46 m²,Zi. 2,33,15
+13,selObject_44924133,Klein aber Fein!,"[['Wohnung', '•', 'Braunsbedra']]",['Balkon'],"Miete zzgl. NK 187,72 €",Wohnfläche ca. 36 m²,Zi. 1,33,15
+14,selObject_44924131,Nur wenige Stufen zum Glück!,"[['Erdgeschosswohnung', '•', 'Weißenfels', 'Weißenfels']]",['Balkon'],"Miete zzgl. NK 309,40 €",Wohnfläche ca. 60 m²,Zi. 3,33,15
+15,selObject_44923915,gemütliche Dachgeschosswohnung mit Einbauküche,"[['Dachgeschosswohnung', '•', 'Sangerhausen', 'Sangerhausen']]",['EBK'],Miete zzgl. NK 315 €,Wohnfläche ca. 65 m²,Zi. 2,33,15
+16,selObject_44923875,Günthersdorf - 3-Raumfamilienwohnung in gepflegtem...,"[['Etagenwohnung', '•', 'Leuna', 'Günthersdorf']]",['Balkon'],Miete zzgl. NK 488 €,Wohnfläche ca. 75 m²,Zi. 3,33,15
+17,selObject_44923732,große und helle 2 Zimmer Dachgeschosswohnung in der...,"[['Wohnung', '•', 'Halle', 'Innenstadt']]",[],Miete zzgl. NK 356 €,Wohnfläche ca. 53 m²,Zi. 2,33,15
+18,selObject_44922413,Neu renovierte Wohnung in der Südstadt,"[['Etagenwohnung', '•', 'Halle', 'Südstadt']]",['Balkon'],Miete zzgl. NK 319 €,Wohnfläche ca. 61 m²,Zi. 3,33,15
+19,selObject_44922334,"1-Raum-Wohnung mit Vorzügen - Aufzug, Balkon, Badewann...","[['Etagenwohnung', '•', 'Magdeburg', 'Neu', 'Olvenstedt']]",['Balkon'],"Miete zzgl. NK 173,38 €",Wohnfläche ca. 36 m²,Zi. 1,33,15
+20,selObject_44922333,Kleine Wohnung mit Balkon,"[['Etagenwohnung', '•', 'Magdeburg', 'Neustädter', 'See']]",['Balkon'],"Miete zzgl. NK 202,04 €",Wohnfläche ca. 35 m²,Zi. 1,33,15
+21,selObject_44922332,super Wohnung mit Balkon für Studis und Azubis,"[['Etagenwohnung', '•', 'Magdeburg', 'Neustädter', 'See']]",['Balkon'],"Miete zzgl. NK 185,85 €",Wohnfläche ca. 34 m²,Zi. 1,33,15
+22,selObject_44922330,Studentenbude gesucht? - Hier bist du richtig!,"[['Etagenwohnung', '•', 'Magdeburg', 'Neu', 'Olvenstedt']]",['Balkon'],"Miete zzgl. NK 172,22 €",Wohnfläche ca. 36 m²,Zi. 1,33,15
+23,selObject_44922328,Helle 1-Raum Wohnung - auch für Studenten & Azubis...,"[['Etagenwohnung', '•', 'Magdeburg', 'Kannenstieg']]",[],"Miete zzgl. NK 155,43 €",Wohnfläche ca. 32 m²,Zi. 1,33,15
+24,selObject_44922329,Der perfekte Ort zum Träumen,"[['Etagenwohnung', '•', 'Magdeburg', 'Neustädter', 'See']]",[],"Miete zzgl. NK 174,46 €",Wohnfläche ca. 32 m²,Zi. 1,33,15
+25,selObject_44922327,Für einen kleinen Geldbeutel genau das Richtige,"[['Etagenwohnung', '•', 'Magdeburg', 'Neustädter', 'See']]",[],"Miete zzgl. NK 177,63 €",Wohnfläche ca. 32 m²,Zi. 1,33,15
+26,selObject_44922326,Pfiffikuss-Aktionswohnung! Ideal für Familien mit Kind,"[['Etagenwohnung', '•', 'Magdeburg', 'Neustädter', 'See']]",[],"Miete zzgl. NK 339,51 €",Wohnfläche ca. 65 m²,Zi. 3,33,15

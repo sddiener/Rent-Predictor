@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_41825852,Helle 3-Zimmer-Wohnung mit Balkon,"['Dachgeschosswohnung', '•', 'Zeitz', 'Zeitz']",['Balkon'],Miete zzgl. NK 330 €,Wohnfläche ca. 66 m²,Zi. 3,129,15
-1,selObject_41822790,Gemütliche Wohnung in zentraler Lage Naumburgs,"['Etagenwohnung', '•', 'Naumburg', 'Naumburg']",[],"Miete zzgl. NK 347,70 €",Wohnfläche ca. 57 m²,Zi. 3,129,15
-2,selObject_41814920,3-Raumwohnung in ländlicher Atmosphäre in Magdeburg zu...,"['Erdgeschosswohnung', '•', 'Magdeburg', 'Westerhüsen']",[],"Miete zzgl. NK 319,55 €",Wohnfläche ca. 58 m²,Zi. 3,129,15
-3,selObject_41801584,Schnell einziehen und Gutschein sichern...,"['Etagenwohnung', '•', 'Aschersleben', 'Aschersleben']",[],Miete zzgl. NK 281 €,Wohnfläche ca. 53 m²,Zi. 3,129,15
-4,selObject_41801242,Sichern Sie sich einen 1.000 EUR Gutschein* für Ihre...,"['Etagenwohnung', '•', 'Lutherstadt', 'Eisleben', 'Lutherstadt', 'Eisleben']",['Balkon'],"Miete zzgl. NK 234,52 €",Wohnfläche ca. 57 m²,Zi. 3,129,15
-5,selObject_41783876,+++Wunderschöne Dachgeschosswohnung+++,"['Dachgeschosswohnung', '•', 'Zeitz', 'Zeitz']",[],Miete zzgl. NK 240 €,Wohnfläche ca. 60 m²,Zi. 2,129,15
-6,selObject_41767234,"Gemütliche 3-Zimmer-Wohnung, perfekt für Kleinfamilien...","['Etagenwohnung', '•', 'Lutherstadt', 'Eisleben', 'Lutherstadt', 'Eisleben']",['Balkon'],"Miete zzgl. NK 281,07 €",Wohnfläche ca. 69 m²,Zi. 2,129,15
-7,selObject_41766266,Sichern Sie sich jetzt einen 1.500 EUR Gutschein* für...,"['Etagenwohnung', '•', 'Lutherstadt', 'Eisleben', 'Lutherstadt', 'Eisleben']",['Balkon'],"Miete zzgl. NK 280,95 €",Wohnfläche ca. 69 m²,Zi. 3,129,15
-8,selObject_41736830,3-Raum-Wohnung in Riebau,"['Erdgeschosswohnung', '•', 'Salzwedel', 'Riebau']",['Garten'],Miete zzgl. NK 256 €,Wohnfläche ca. 57 m²,Zi. 3,129,15
-9,selObject_41736358,geräumige 1 Raumwohnung in der Forsthausstraße,"['Erdgeschosswohnung', '•', 'Magdeburg', 'Rothensee']",[],Miete zzgl. NK 256 €,Wohnfläche ca. 42 m²,Zi. 1,129,15
-10,selObject_41735560,Kochstedter 2-Raumwohnung sucht neuen Mieter,"['Dachgeschosswohnung', '•', 'Dessau-Roßlau', 'Kochstedt']",[],Miete zzgl. NK 300 €,Wohnfläche ca. 60 m²,Zi. 2,129,15
-11,selObject_41733942,2 Raumwohnung mit Tageslichtbad mit Wanne und Dusche,"['Wohnung', '•', 'Mücheln']",[],Miete zzgl. NK 193 €,Wohnfläche ca. 39 m²,Zi. 2,129,15
-12,selObject_41733940,Schicke moderne 3 Raumwohnung im Dachgeschoss mit ...,"['Dachgeschosswohnung', '•', 'Mücheln']",[],Miete zzgl. NK 300 €,Wohnfläche ca. 61 m²,Zi. 3,129,15
-13,selObject_41733920,Junges Wohnen,"['Wohnung', '•', 'Dessau-Roßlau', 'Innenstadt']",['Balkon'],Miete zzgl. NK 340 €,Wohnfläche ca. 54 m²,Zi. 2,129,15
-14,selObject_41733919,Vollsaniert und bezugsfertig ab November 2021,"['Wohnung', '•', 'Dessau-Roßlau', 'Zoberberg']",['Balkon'],Miete zzgl. NK 320 €,Wohnfläche ca. 69 m²,Zi. 3,129,15
-15,selObject_41719439,Studenten aufgepasst! ERSTBEZUG nach Sanierung! 1-Raum...,"['Etagenwohnung', '•', 'Halle', 'Freiimfelde']",[],Miete zzgl. NK 280 €,Wohnfläche ca. 28 m²,Zi. 1,129,15
-16,selObject_41719438,Studenten aufgepasst! ERSTBEZUG nach Sanierung! 1-Raum...,"['Etagenwohnung', '•', 'Halle', 'Freiimfelde']",[],Miete zzgl. NK 280 €,Wohnfläche ca. 28 m²,Zi. 1,129,15
-17,selObject_41709945,"2 Raumwohnung ruhig, grün, mit Balkon und EBK","['Etagenwohnung', '•', 'Magdeburg', 'Westerhüsen']","['Balkon', 'EBK']",Miete zzgl. NK 300 €,Wohnfläche ca. 46 m²,Zi. 2,129,15
-18,selObject_41703702,Gemütliche 3-Zimmer-Wohnung mit Küchengutschein* in...,"['Etagenwohnung', '•', 'Südharz', 'Hayn']",[],"Miete zzgl. NK 293,25 €",Wohnfläche ca. 64 m²,Zi. 3,129,15
-19,selObject_41678727,Ideal für Singles oder Studierende!,"['Etagenwohnung', '•', 'Magdeburg', 'Altstadt']",[],"Miete zzgl. NK 335,50 €",Wohnfläche ca. 61 m²,Zi. 2,129,15
-20,selObject_41676946,Sehr schöne sonnige 3-R-Whg. in MD.Stadtfeld Ost im...,"['Etagenwohnung', '•', 'Magdeburg', 'Altstadt']",['Balkon'],Miete zzgl. NK 543 €,Wohnfläche ca. 97 m²,Zi. 3,129,15
-21,selObject_41661869,"Geld gespart, wer´s selber macht!","['Kein', 'Bild']",['Balkon'],Miete zzgl. NK 310 €,Wohnfläche ca. 69 m²,Zi. 3,129,15
-22,selObject_41640112,Gatersleben - Wohnen in kleiner Gemeinschaft,"['Wohnung', '•', 'Gatersleben']",[],"Miete zzgl. NK 257,95 €",Wohnfläche ca. 47 m²,Zi. 2,129,15
-23,selObject_41625003,helle 3 Raum Wohnung mit Loggia,"['Wohnung', '•', 'Zeitz', 'Zeitz']",['Garten'],Miete zzgl. NK 340 €,Wohnfläche ca. 74 m²,Zi. 3,129,15
-24,selObject_41619372,Ihren Karrierestart in beliebter Wohngegend beginnen!,"['Etagenwohnung', '•', 'Köthen']",['EBK'],Miete zzgl. NK 255 €,Wohnfläche ca. 47 m²,Zi. 1,129,15
-25,selObject_41618921,** renovierte 3. Raum Wohnung mit Balkon **,"['Etagenwohnung', '•', 'Dessau-Roßlau', 'Innenstadt']",['Balkon'],Miete zzgl. NK 289 €,Wohnfläche ca. 57 m²,Zi. 3,129,15
-26,selObject_41618837,"**sanierte, familienfreundliche 4-Raum-Wohnung mit...","['Apartment', '•', 'Dessau-Roßlau', 'Innenstadt']",['Garten'],Miete zzgl. NK 360 €,Wohnfläche ca. 65 m²,Zi. 4,129,15
+0,selObject_41445283,Wir haben Ihre neue Wohnung!,"[['Etagenwohnung', '•', 'Halle', 'Silberhöhe']]",['Balkon'],Miete zzgl. NK 323 €,Wohnfläche ca. 61 m²,Zi. 3,129,15
+1,selObject_41416211,2-Raum Wohnung mit Einbauküche,"[['Wohnung', '•', 'Zeitz', 'Zeitz']]",['EBK'],Miete zzgl. NK 268 €,Wohnfläche ca. 54 m²,Zi. 2,129,15
+2,selObject_41416197,Erstbezug nach Sanierung in Rasberg,"[['Wohnung', '•', 'Zeitz', 'Zeitz']]",[],"Miete zzgl. NK 227,40 €",Wohnfläche ca. 49 m²,Zi. 2,129,15
+3,selObject_41416193,Gemütliche 2-Raumwohnung,"[['Wohnung', '•', 'Zeitz', 'Zeitz']]",['Garten'],"Miete zzgl. NK 221,50 €",Wohnfläche ca. 49 m²,Zi. 2,129,15
+4,selObject_41407223,"*Kleines, teilrenoviertes Domizil mit Stellplatzmöglic...","[['Wohnung', '•', 'Bad', 'Dürrenberg', 'Bad', 'Dürrenberg']]",[],"Miete zzgl. NK 249,37 €",Wohnfläche ca. 32 m²,Zi. 1,129,15
+5,selObject_41407142,...tolle renovierte 2- Raumwohnung...,"[['Wohnung', '•', 'Bad', 'Dürrenberg', 'Bad', 'Dürrenberg']]",[],"Miete zzgl. NK 249,58 €",Wohnfläche ca. 47 m²,Zi. 2,129,15
+6,selObject_41404418,"Tolle 3 Raum-DG Wohnung- 60,0m² AB 28","[['Dachgeschosswohnung', '•', 'Aschersleben', 'Aschersleben']]",[],Miete zzgl. NK 315 €,Wohnfläche ca. 60 m²,Zi. 3,129,15
+7,selObject_41402548,Balkonwohnung!,"[['Etagenwohnung', '•', 'Halle', 'Westliche', 'Neustadt']]",['Balkon'],Miete zzgl. NK 210 €,Wohnfläche ca. 37 m²,Zi. 1,129,15
+8,selObject_41402546,Willkommensbonus!*,"[['Etagenwohnung', '•', 'Halle', 'Silberhöhe']]",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 56 m²,Zi. 3,129,15
+9,selObject_41394765,Neue Wohnung- neues Glück!,"[['Etagenwohnung', '•', 'Halle', 'Silberhöhe']]",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 56 m²,Zi. 3,129,15
+10,selObject_41394761,Glücksgriff!,"[['Etagenwohnung', '•', 'Halle', 'Silberhöhe']]",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 56 m²,Zi. 3,129,15
+11,selObject_41394127,Pärchenwohnung!,"[['Etagenwohnung', '•', 'Halle', 'Silberhöhe']]",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 56 m²,Zi. 3,129,15
+12,selObject_41394122,Wohnung mit Weitblick!,"[['Etagenwohnung', '•', 'Halle', 'Silberhöhe']]",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 56 m²,Zi. 3,129,15
+13,selObject_41394048,..auf der Silberhöhe!,"[['Etagenwohnung', '•', 'Halle', 'Silberhöhe']]",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 56 m²,Zi. 3,129,15
+14,selObject_41391848,Seltenheit: 1. OG!,"[['Etagenwohnung', '•', 'Halle', 'Silberhöhe']]",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 56 m²,Zi. 3,129,15
+15,selObject_41391845,zu zweit oder zu dritt..,"[['Etagenwohnung', '•', 'Halle', 'Silberhöhe']]",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 56 m²,Zi. 3,129,15
+16,selObject_41391791,Frisch saniert!,"[['Etagenwohnung', '•', 'Halle', 'Silberhöhe']]",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 56 m²,Zi. 3,129,15
+17,selObject_41391774,Neues Wohnglück!,"[['Etagenwohnung', '•', 'Halle', 'Silberhöhe']]",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 56 m²,Zi. 3,129,15
+18,selObject_41391773,Aussicht gibt´s gratis!,"[['Etagenwohnung', '•', 'Halle', 'Silberhöhe']]",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 56 m²,Zi. 3,129,15
+19,selObject_41391772,HOCH hinaus!,"[['Etagenwohnung', '•', 'Halle', 'Silberhöhe']]",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 56 m²,Zi. 3,129,15
+20,selObject_41391656,Familienwohnung zum kleinen Preis!,"[['Etagenwohnung', '•', 'Halle', 'Silberhöhe']]",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 56 m²,Zi. 3,129,15
+21,selObject_41391598,Gutschein bei Anmietung!*,"[['Etagenwohnung', '•', 'Halle', 'Silberhöhe']]",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 56 m²,Zi. 3,129,15
+22,selObject_41391531,Frisch saniert!,"[['Etagenwohnung', '•', 'Halle', 'Silberhöhe']]",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 56 m²,Zi. 3,129,15
+23,selObject_41391529,Deine Neue?,"[['Etagenwohnung', '•', 'Halle', 'Silberhöhe']]",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 56 m²,Zi. 3,129,15
+24,selObject_41391528,Alles NEU!,"[['Etagenwohnung', '•', 'Halle', 'Silberhöhe']]",['Balkon'],Miete zzgl. NK 290 €,Wohnfläche ca. 56 m²,Zi. 3,129,15
+25,selObject_41382364,3- Raum- Wohnung im Erdgeschoss,"[['Wohnung', '•', 'Kalbe', 'Kalbe']]",[],Miete zzgl. NK 226 €,Wohnfläche ca. 55 m²,Zi. 3,129,15
+26,selObject_41338794,3- Raum- Wohnung mit Balkon,"[['Wohnung', '•', 'Kalbe', 'Kalbe']]",['Balkon'],Miete zzgl. NK 250 €,Wohnfläche ca. 59 m²,Zi. 3,129,15

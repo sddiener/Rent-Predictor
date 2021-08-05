@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_43089383,Familien- und tierfreundliche 4-Zimmer-Wohnung mit...,"['Etagenwohnung', '•', 'Rastatt', 'Förch']","['Balkon', 'Garten', 'EBK']","Miete zzgl. NK 1.185,12 €",Wohnfläche ca. 100 m²,Zi. 4,107,8
-1,selObject_43081127,Mietwohnungen im Hofgarten am Auenwald - Wohlfühlen...,"['Etagenwohnung', '•', 'Rastatt', 'Förch']","['Balkon', 'Garten']","Miete zzgl. NK 1.315,92 €",Wohnfläche ca. 110 m²,Zi. 4,107,8
-2,selObject_43081123,Mietwohnungen im Hofgarten am Auenwald - Wohlfühlen...,"['Erdgeschosswohnung', '•', 'Rastatt', 'Förch']","['Balkon', 'Garten']","Miete zzgl. NK 1.396,41 €",Wohnfläche ca. 118 m²,Zi. 4,107,8
-3,selObject_43081075,Mietwohnungen im Hofgarten am Auenwald - Wohlfühlen...,"['Etagenwohnung', '•', 'Rastatt', 'Förch']","['Balkon', 'Garten']","Miete zzgl. NK 1.281,36 €",Wohnfläche ca. 109 m²,Zi. 4,107,8
-4,selObject_43081071,Mietwohnungen im Hofgarten am Auenwald - Wohlfühlen...,"['Etagenwohnung', '•', 'Rastatt', 'Förch']","['Balkon', 'Garten']","Miete zzgl. NK 1.290,45 €",Wohnfläche ca. 109 m²,Zi. 4,107,8
-5,selObject_43081069,Mietwohnungen im Hofgarten am Auenwald - Wohlfühlen...,"['Etagenwohnung', '•', 'Rastatt', 'Förch']","['Balkon', 'Garten']","Miete zzgl. NK 1.282,54 €",Wohnfläche ca. 109 m²,Zi. 4,107,8
-6,selObject_43081055,Mietwohnungen im Hofgarten am Auenwald - Wohlfühlen...,"['Erdgeschosswohnung', '•', 'Rastatt', 'Förch']","['Balkon', 'Garten']","Miete zzgl. NK 1.311,92 €",Wohnfläche ca. 111 m²,Zi. 4,107,8
-7,selObject_43081057,Mietwohnungen im Hofgarten am Auenwald - Wohlfühlen...,"['Etagenwohnung', '•', 'Rastatt', 'Förch']","['Balkon', 'Garten']","Miete zzgl. NK 1.286,67 €",Wohnfläche ca. 109 m²,Zi. 4,107,8
-8,selObject_43081053,Mietwohnungen im Hofgarten am Auenwald - Wohlfühlen...,"['Erdgeschosswohnung', '•', 'Rastatt', 'Förch']","['Balkon', 'Garten']","Miete zzgl. NK 1.385,51 €",Wohnfläche ca. 118 m²,Zi. 4,107,8
-9,selObject_43076387,Frisch renovierte 1-Zimmer-Wohnung in Stuttgart,"['Apartment', '•', 'Stuttgart', 'Mitte']",['EBK'],Miete zzgl. NK 650 €,Wohnfläche ca. 28 m²,Zi. 1,107,8
-10,selObject_43006881,WG Zimmer mitten im Herzen von Konstanz,"['Zimmer', '•', 'Konstanz', 'Altstadt']",[],Miete zzgl. NK 310 €,Wohnfläche ca. 14 m²,,107,8
-11,selObject_42985440,"Außergewöhnliche 2,5-Zimmer-Wohnung mit tollem Ausblic...","['Etagenwohnung', '•', 'Stuttgart']","['Balkon', 'EBK']",Miete zzgl. NK 1.630 €,Wohnfläche ca. 82 m²,"Zi. 2,5",107,8
-12,selObject_42984861,Click.Book.Live: Vollmöbliertes Single-Studio für Stud...,"['Apartment', '•', 'Freiburg', 'Zähringen']","['Balkon', 'EBK']",Miete zzgl. NK 439 €,Wohnfläche ca. 20 m²,Zi. 1,107,8
-13,selObject_42980516,Seniorenzentrum Im Welvert - Betreutes Wohnen Beispiel,"['Dachgeschosswohnung', '•', 'Villingen-Schwenningen', 'Villingen']","['Balkon', 'EBK']",Miete zzgl. NK 590 €,Wohnfläche ca. 56 m²,Zi. 2,107,8
-14,selObject_42951117,4 Zimmer Mietwohnung in Stuttgart,"['Wohnung', '•', 'Stuttgart', 'Giebel']",[],Miete zzgl. NK 2.012 €,Wohnfläche ca. 127 m²,Zi. 4,107,8
-15,selObject_42893106,Möbl. 2-Zi.-Single-Appartem. in Balingen-Stockenhausen...,"['Dachgeschosswohnung', '•', 'Balingen', 'Stockenhausen']",[],Miete inkl. NK 500 €,Wohnfläche ca. 40 m²,Zi. 2,107,8
-16,selObject_42858432,**Überlassen SIE nichts mehr dem ZUFALL** ***Neubau...,"['Wohnung', '•', 'Gernsbach', 'Gernsbach']","['Balkon', 'EBK']",Miete zzgl. NK 1.190 €,Wohnfläche ca. 104 m²,Zi. 3,107,8
-17,selObject_42837252,Betreutes Wohnen mit Tagespflege im Weingärtnerhaus...,"['Dachgeschosswohnung', '•', 'Oberkirch', 'Oberkirch']",['Balkon'],Miete zzgl. NK 500 €,Wohnfläche ca. 49 m²,Zi. 2,107,8
-18,selObject_42829961,Modernes Appartement als Erstbezug!,"['Dachgeschosswohnung', '•', 'Stuttgart', 'Bad', 'Cannstatt']",['EBK'],Miete zzgl. NK 550 €,Wohnfläche ca. 24 m²,Zi. 1,107,8
-19,selObject_42813822,"Maisonette-Wohnung mit Garten, Balkon und Wintergarten","['Maisonette', '•', 'Bodman-Ludwigshafen', 'Bodman']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.950 €,Wohnfläche ca. 237 m²,"Zi. 3,5",107,8
-20,selObject_42810945,Nahe Marienplatz: Schöne 3-Zimmer - renoviert & möblie...,"['Erdgeschosswohnung', '•', 'Stuttgart', 'Süd']",['EBK'],Miete zzgl. NK 1.390 €,Wohnfläche ca. 63 m²,Zi. 3,107,8
-21,selObject_42794105,"Moderne, barrierefreie Apartments (ca. 25 - 78 m2) mit...","['Wohnung', '•', 'Bad', 'Bellingen', 'Bad', 'Bellingen']","['Balkon', 'EBK']",Miete zzgl. NK 1.390 €,Wohnfläche ca. 74 m²,Zi. 2,107,8
-22,selObject_42794095,"Moderne, barrierefreie Apartments (ca. 25 - 78 m2) mit...","['Wohnung', '•', 'Bad', 'Bellingen', 'Bad', 'Bellingen']","['Balkon', 'EBK']",Miete zzgl. NK 1.030 €,Wohnfläche ca. 56 m²,Zi. 2,107,8
-23,selObject_42749242,Renoviertes WG-Zimmer für 1-2 Personen in Durmersheim...,"['Dachgeschosswohnung', '•', 'Durmersheim', 'Würmersheim']",[],Miete zzgl. NK 300 €,Wohnfläche ca. 20 m²,Zi. 1,107,8
-24,selObject_42660754,Geräumige Wohnung mitten in der City,"['Etagenwohnung', '•', 'Villingen-Schwenningen', 'Schwenningen']",[],Miete zzgl. NK 670 €,Wohnfläche ca. 98 m²,Zi. 4,107,8
-25,selObject_42640564,"1,5-Zimmer-Wohnung mit offenem Schlafbereich, Küche...","['Etagenwohnung', '•', 'Unterkirnach']",['Balkon'],Miete zzgl. NK 420 €,Wohnfläche ca. 50 m²,"Zi. 1,5",107,8
-26,selObject_42615568,Urban - Zentral - Ideal - Ruhige 3 Zimmerwohnung mit 2...,"['Etagenwohnung', '•', 'Pforzheim', 'Innenstadt']",[],Miete zzgl. NK 890 €,Wohnfläche ca. 98 m²,Zi. 3,107,8
+0,selObject_43725881,Barrierefreie Wohnung im Herzen von Wasseralfingen-...,"[['Etagenwohnung', '•', 'Aalen', 'Aalen']]","['Balkon', 'EBK']",Miete zzgl. NK 750 €,Wohnfläche ca. 62 m²,"Zi. 2,5",107,8
+1,selObject_43723167,Erstbezug 3 1/2 Zimmer-Wohnung in der Nähe beim Marktp...,"[['Dachgeschosswohnung', '•', 'Bad', 'Saulgau', 'Bad', 'Saulgau']]",['EBK'],Miete zzgl. NK 1.000 €,Wohnfläche ca. 122 m²,"Zi. 3,5",107,8
+2,selObject_43712780,Große 5-Zimmerwohnung in Crailsheim,"[['Etagenwohnung', '•', 'Crailsheim', 'Crailsheim']]",[],Miete zzgl. NK 818 €,Wohnfläche ca. 109 m²,Zi. 5,107,8
+3,selObject_43709615,Möblierte 2-Zimmer-Wohnung - nur noch einziehen!,"[['Etagenwohnung', '•', 'Ludwigsburg', 'Nord']]",['EBK'],Miete zzgl. NK 950 €,Wohnfläche ca. 52 m²,Zi. 2,107,8
+4,selObject_43708651,Erstbezug: Exklusive 4-Zimmer-Neubauwohnung mit Loggia...,"[['Etagenwohnung', '•', 'Heilbronn', 'Heilbronn']]",['EBK'],Miete zzgl. NK 1.375 €,Wohnfläche ca. 111 m²,Zi. 4,107,8
+5,selObject_43707776,Seniorengerechtes Wohnen im Hatz-Areal 20 Neubau-Miet...,"[['Etagenwohnung', '•', 'Rastatt', 'Rastatt']]",['Balkon'],Miete zzgl. NK 1.488 €,Wohnfläche ca. 114 m²,Zi. 3,107,8
+6,selObject_43699802,Kernsanierte 3 Zimmer Wohnungen in zentraler und natur...,"[['Wohnung', '•', 'Waldshut-Tiengen', 'Waldshut']]","['Balkon', 'EBK']",Miete zzgl. NK 750 €,Wohnfläche ca. 80 m²,Zi. 3,107,8
+7,selObject_43696949,Nido I All-inclusive Wohnen - Early Bird Aktion!,"[['Apartment', '•', 'Stuttgart', 'Bad', 'Cannstatt']]",['EBK'],Miete zzgl. NK 434 €,Wohnfläche ca. 16 m²,Zi. 1,107,8
+8,selObject_43695745,Nido I All-inclusive Möbliertes Wohnen - Early Bird...,"[['Apartment', '•', 'Ludwigsburg', 'Eglosheim']]",['EBK'],Miete zzgl. NK 214 €,Wohnfläche ca. 11 m²,Zi. 1,107,8
+9,selObject_43673380,Bodelshausen - Möbliertes WG !!!-Zimmer!,"[['Apartment', '•', 'Bodelshausen']]","['Balkon', 'EBK']",Miete zzgl. NK 290 €,Wohnfläche ca. 15 m²,Zi. 1,107,8
+10,selObject_43660281,3-Zimmer-Wohnung mit Balkon mitten in den Quadraten!(0...,"[['Wohnung', '•', 'Mannheim', 'Quadrate']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.296 €,Wohnfläche ca. 83 m²,Zi. 3,107,8
+11,selObject_43660249,Großzügige 4-Zimmer-Wohnung in den Quadraten (082),"[['Wohnung', '•', 'Mannheim', 'Quadrate']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.941 €,Wohnfläche ca. 119 m²,Zi. 4,107,8
+12,selObject_43657588,Großzügige moderne 3-Zimmer-Wohnung (073),"[['Wohnung', '•', 'Mannheim', 'Quadrate']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.422 €,Wohnfläche ca. 90 m²,Zi. 3,107,8
+13,selObject_43657470,Im Penthouse über den Dächern von Mannheim(071),"[['Wohnung', '•', 'Mannheim', 'Quadrate']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.926 €,Wohnfläche ca. 109 m²,Zi. 2,107,8
+14,selObject_43657415,Wohnen in den Quadraten! 3-Zimmer-Wohnung(066),"[['Wohnung', '•', 'Mannheim', 'Quadrate']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.314 €,Wohnfläche ca. 84 m²,Zi. 3,107,8
+15,selObject_43656255,Lichtdurchflutete 2-Zimmer-Wohnung in den Quadraten...,"[['Wohnung', '•', 'Mannheim', 'Quadrate']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.324 €,Wohnfläche ca. 84 m²,Zi. 2,107,8
+16,selObject_43655714,Moderne 3-Zimmer-Wohnung in den Quadraten (008),"[['Wohnung', '•', 'Mannheim', 'Quadrate']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 1.432 €,Wohnfläche ca. 91 m²,Zi. 3,107,8
+17,selObject_43654802,Geräumige 2 Zimmer-Wohnung in Albstadt,"[['Etagenwohnung', '•', 'Albstadt', 'Tailfingen']]",['Balkon'],Miete zzgl. NK 470 €,Wohnfläche ca. 55 m²,Zi. 2,107,8
+18,selObject_43647724,13 kernsanierte Apartments mit Küchenzeile und moderne...,"[['Apartment', '•', 'Leonberg', 'Eltingen']]",['EBK'],Miete zzgl. NK 6.500 €,Wohnfläche ca. 213 m²,Zi. 13,107,8
+19,selObject_43646176,Seniorengerechtes Wohnen im Hatz-Areal 20 Neubau-Miet...,"[['Etagenwohnung', '•', 'Rastatt', 'Rastatt']]",['Balkon'],Miete zzgl. NK 981 €,Wohnfläche ca. 75 m²,Zi. 3,107,8
+20,selObject_43644862,"Stuttgart-Kaltental, freundliche, hübsch renovierte...","[['Zimmer', '•', 'Stuttgart', 'Kaltental']]",[],Miete zzgl. NK 500 €,Wohnfläche ca. 22 m²,,107,8
+21,selObject_43642824,Seniorengerechtes Wohnen im Hatz-Areal 20 Neubau-Miet...,"[['Etagenwohnung', '•', 'Rastatt', 'Rastatt']]",['Balkon'],Miete zzgl. NK 892 €,Wohnfläche ca. 64 m²,Zi. 2,107,8
+22,selObject_43639915,Herrliche Neubauwohnung in Emmendingen mit tollem Ausb...,"[['Erdgeschosswohnung', '•', 'Emmendingen', 'Emmendingen']]",['Balkon'],Miete zzgl. NK 1.280 €,Wohnfläche ca. 85 m²,Zi. 3,107,8
+23,selObject_43636923,Neubau-Vermietung in attraktiver Lage,"[['Etagenwohnung', '•', 'Reutlingen', 'Ringelbach']]","['Balkon', 'Garten']",Miete zzgl. NK 1.376 €,Wohnfläche ca. 92 m²,Zi. 3,107,8
+24,selObject_43634238,4 Zimmer Mietwohnung in Sindelfingen,"[['Wohnung', '•', 'Sindelfingen', 'Ost']]",['Balkon'],Miete zzgl. NK 1.352 €,Wohnfläche ca. 107 m²,Zi. 4,107,8
+25,selObject_43623868,+++ AVERNET - ANSPRUCHSVOLLE 3-ZIMMER-ATTIKA-NEUBAUWOH...,"[['Penthouse', '•', 'Rheinfelden', 'Minseln']]",['EBK'],Miete zzgl. NK 1.020 €,Wohnfläche ca. 74 m²,Zi. 3,107,8
+26,selObject_43623172,** Wohnung der Extraklasse in bester City-Lage mit...,"[['Etagenwohnung', '•', 'Stuttgart', 'Mitte']]","['Balkon', 'EBK']",Miete zzgl. NK 1.526 €,Wohnfläche ca. 98 m²,Zi. 3,107,8

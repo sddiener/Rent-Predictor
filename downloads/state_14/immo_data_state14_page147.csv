@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44805840,Eine AKTION die sich verlohnt!*,"['Wohnung', '•', 'Chemnitz', 'Kappel']",['Balkon'],Miete zzgl. NK 252 €,Wohnfläche ca. 58 m²,Zi. 3,147,14
-1,selObject_44805838,Barrierefreie 2-Raumwohnung mit Dusche und Balkon,"['Wohnung', '•', 'Chemnitz', 'Siegmar']",['Balkon'],Miete zzgl. NK 282 €,Wohnfläche ca. 43 m²,Zi. 2,147,14
-2,selObject_44805836,Für Schnellentschlossene - AKTIONSWOHNUNG*,"['Wohnung', '•', 'Chemnitz', 'Kappel']",['Balkon'],Miete zzgl. NK 271 €,Wohnfläche ca. 58 m²,Zi. 3,147,14
-3,selObject_44805835,3-Raumwohnung im 1. OG mit flacher Dusche!,"['Wohnung', '•', 'Chemnitz', 'Kappel']",['Balkon'],Miete zzgl. NK 311 €,Wohnfläche ca. 58 m²,Zi. 3,147,14
-4,selObject_44805831,Kappler Stadtgärten: Erstbezug nach Sanierung: Große...,"['Erdgeschosswohnung', '•', 'Chemnitz', 'Kappel']",['Balkon'],Miete zzgl. NK 561 €,Wohnfläche ca. 76 m²,Zi. 3,147,14
-5,selObject_44805822,familiengerechte 3-Raum-Wohnung im 3.OG I mit Balkon,"['Etagenwohnung', '•', 'Dresden', 'Gorbitz-Nord/Neu-Omsewitz']",[],"Miete zzgl. NK 340,63 €",Wohnfläche ca. 64 m²,Zi. 3,147,14
-6,selObject_44805818,ruhig gelegene 2-Raum-Wohnung I ab sofort,"['Etagenwohnung', '•', 'Dresden', 'Gorbitz-Süd']",[],"Miete zzgl. NK 334,15 €",Wohnfläche ca. 49 m²,Zi. 2,147,14
-7,selObject_44805816,2-Raum-Wohnung mit Balkon ganz oben,"['Etagenwohnung', '•', 'Dresden', 'Gorbitz-Ost']",[],"Miete zzgl. NK 306,90 €",Wohnfläche ca. 50 m²,Zi. 2,147,14
-8,selObject_44805815,gemütliche 2-Raum-Wohnung mit Balkon I im 4.OG,"['Etagenwohnung', '•', 'Dresden', 'Gorbitz-Süd']",[],"Miete zzgl. NK 307,13 €",Wohnfläche ca. 46 m²,Zi. 2,147,14
-9,selObject_44805758,+++ Schöne 3 Raumwohnung mit Balkon im Herzen von Plau...,"['Erdgeschosswohnung', '•', 'Plauen', 'Stadtmitte']",['Balkon'],Miete zzgl. NK 300 €,Wohnfläche ca. 65 m²,Zi. 3,147,14
-10,selObject_44805720,Maisonettewohnung im Zentrum von Zittau,"['Etagenwohnung', '•', 'Zittau', 'Zittau']",[],Miete zzgl. NK 220 €,Wohnfläche ca. 42 m²,Zi. 2,147,14
-11,selObject_44805718,Attraktive 2-Raum-Wohnung in sehr ruhiger Lage in Zitt...,"['Etagenwohnung', '•', 'Zittau', 'Zittau']",[],Miete zzgl. NK 240 €,Wohnfläche ca. 49 m²,Zi. 2,147,14
-12,selObject_44805496,*Parkettböden l Elbnah l ruhige Lage l Lift!* Exklusiv...,"['Etagenwohnung', '•', 'Dresden', 'Innere', 'Neustadt']",['EBK'],Miete zzgl. NK 615 €,Wohnfläche ca. 60 m²,Zi. 2,147,14
-13,selObject_44805488,TOP Wohnung mit Balkon in Grünhain-Beierfeld,"['Etagenwohnung', '•', 'Grünhain-Beierfeld', 'Grünhain']",['Balkon'],Miete zzgl. NK 330 €,Wohnfläche ca. 55 m²,Zi. 2,147,14
-14,selObject_44805487,TOP Wohnung mit Wintergarten und Terrasse in Grünhain-...,"['Erdgeschosswohnung', '•', 'Grünhain-Beierfeld', 'Grünhain']",[],Miete zzgl. NK 354 €,Wohnfläche ca. 60 m²,Zi. 2,147,14
-15,selObject_44805483,schöne komplett sanierte 3-Zimmer-Wohnung zu vermieten,"['Etagenwohnung', '•', 'Schneeberg', 'Schneeberg']",['Garten'],Miete zzgl. NK 593 €,Wohnfläche ca. 88 m²,Zi. 3,147,14
-16,selObject_44805437,"Das Treppensteigen lohnt sich, der Ausblick ist unbeza...","['Wohnung', '•', 'Chemnitz', 'Altendorf']",['Balkon'],Miete zzgl. NK 264 €,Wohnfläche ca. 48 m²,Zi. 2,147,14
-17,selObject_44805226,Dresden von oben kennenlernen - in deiner ersten eigen...,"['Etagenwohnung', '•', 'Dresden', 'Räcknitz/Zschertnitz']",[],Miete zzgl. NK 229 €,Wohnfläche ca. 27 m²,Zi. 1,147,14
-18,selObject_44805009,Schöne 3 Raum Wohnung mit Balkon in Johannstadt,"['Etagenwohnung', '•', 'Dresden', 'Johannstadt-Süd']",['Balkon'],Miete zzgl. NK 545 €,Wohnfläche ca. 78 m²,Zi. 3,147,14
-19,selObject_44804765,Komplett sanierte 1-Raumwohnung in Hochschulnähe,"['Etagenwohnung', '•', 'Zittau', 'Zittau']",['Garten'],Miete zzgl. NK 210 €,Wohnfläche ca. 34 m²,Zi. 1,147,14
-20,selObject_44804736,Einzigartige 3-Zimmer-Wohnung mit Terrasse und Loggia!,"['Etagenwohnung', '•', 'Leipzig', 'Zentrum-Ost']","['Balkon', 'EBK']",Miete zzgl. NK 938 €,Wohnfläche ca. 93 m²,Zi. 3,147,14
-21,selObject_44804728,Helle 2-Raumwohnung mit Einbauküche in ruhiger Lage...,"['Erdgeschosswohnung', '•', 'Riesa', 'Gröba']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 300 €,Wohnfläche ca. 60 m²,Zi. 2,147,14
-22,selObject_44804713,Hier fühlen Sie sich wohl: ideales 1-Zi.-Single-Appart...,"['Etagenwohnung', '•', 'Dresden', 'Prohlis-Süd']",[],Miete zzgl. NK 147 €,Wohnfläche ca. 27 m²,Zi. 1,147,14
-23,selObject_44804707,1 Raum Wohnung mit Aufzug,"['Etagenwohnung', '•', 'Dresden', 'Gorbitz-Süd']",[],Miete zzgl. NK 199 €,Wohnfläche ca. 27 m²,Zi. 1,147,14
-24,selObject_44804698,Hier kann man sofort einziehen - familienfreundliche...,"['Etagenwohnung', '•', 'Dresden', 'Briesnitz']",['Balkon'],Miete zzgl. NK 373 €,Wohnfläche ca. 64 m²,Zi. 3,147,14
-25,selObject_44804689,"2-Raum-Wohnung mit Balkon Nähe Stadtzentrum, Großenhai...","['Etagenwohnung', '•', 'Großenhain', 'Großenhain']",['Balkon'],Miete zzgl. NK 260 €,Wohnfläche ca. 50 m²,Zi. 2,147,14
-26,selObject_44804265,Hier fühlen Sie sich wohl: familienfreundliche 4-Raum-...,"['Etagenwohnung', '•', 'Dresden', 'Reick']",['Balkon'],Miete zzgl. NK 484 €,Wohnfläche ca. 77 m²,Zi. 4,147,14
+0,selObject_44839695,"Renovierte, helle 2-Zimmerwohnung mit Einbauküche","[['Erdgeschosswohnung', '•', 'Plauen', 'Ostvorstadt']]","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 180 €,Wohnfläche ca. 35 m²,Zi. 2,147,14
+1,selObject_44839433,2 Raum Erdgeschoss Wohnung in ruhiger Lage,"[['Wohnung', '•', 'Arzberg', 'Triestewitz']]",['Balkon'],Miete zzgl. NK 265 €,Wohnfläche ca. 53 m²,Zi. 2,147,14
+2,selObject_44838589,Wo das Leben so spielt - 1-Zimmer-Single-Wohnung!,"[['Etagenwohnung', '•', 'Dresden', 'Strehlen']]",[],Miete zzgl. NK 147 €,Wohnfläche ca. 27 m²,Zi. 1,147,14
+3,selObject_44838581,Hier lässt es sich aushalten: großzügige 2-Zimmer-Wohn...,"[['Etagenwohnung', '•', 'Dresden', 'Prohlis-Süd']]",['Balkon'],Miete zzgl. NK 309 €,Wohnfläche ca. 61 m²,Zi. 2,147,14
+4,selObject_44838570,ZWEIRAUMWOHNUNG MIT BALKON,"[['Wohnung', '•', 'Pirna', 'Pirna']]",['Balkon'],Miete zzgl. NK 400 €,Wohnfläche ca. 60 m²,Zi. 2,147,14
+5,selObject_44838521,Super zentrumsnah wohnen! 3-RW mit Balkon im Seeburgvi...,"[['Wohnung', '•', 'Leipzig', 'Zentrum-Ost']]",['Balkon'],Miete zzgl. NK 350 €,Wohnfläche ca. 62 m²,Zi. 3,147,14
+6,selObject_44838520,Wohnen in unmittelbarer Nähe der Innenstadt von Leipzi...,"[['Wohnung', '•', 'Leipzig', 'Zentrum-Südost']]",[],Miete zzgl. NK 300 €,Wohnfläche ca. 60 m²,Zi. 3,147,14
+7,selObject_44838517,1-Raum-Wohnung mit Balkon in City- und Uni-Nähe!,"[['Erdgeschosswohnung', '•', 'Leipzig', 'Zentrum-Südost']]",['Balkon'],Miete zzgl. NK 244 €,Wohnfläche ca. 38 m²,Zi. 1,147,14
+8,selObject_44838516,Super zentrumsnah wohnen Sie hier!,"[['Wohnung', '•', 'Leipzig', 'Zentrum-West']]",[],"Miete zzgl. NK 380,30 €",Wohnfläche ca. 60 m²,Zi. 3,147,14
+9,selObject_44838515,Wohnen in der City,"[['Wohnung', '•', 'Leipzig', 'Zentrum-West']]",[],Miete zzgl. NK 370 €,Wohnfläche ca. 49 m²,Zi. 2,147,14
+10,selObject_44838479,Sie suchen eine zentrumsnahe Wohnung? - Wir haben sie!,"[['Wohnung', '•', 'Leipzig', 'Zentrum-Südost']]",[],Miete zzgl. NK 290 €,Wohnfläche ca. 48 m²,Zi. 2,147,14
+11,selObject_44838476,Genießen Sie den Ausblick von hier oben!,"[['Wohnung', '•', 'Leipzig', 'Zentrum-Südost']]",[],Miete zzgl. NK 390 €,Wohnfläche ca. 64 m²,Zi. 3,147,14
+12,selObject_44837953,#Hoch Hinaus in der Neustadt!,"[['Wohnung', '•', 'Dresden', 'Äußere', 'Neustadt']]",['EBK'],Miete zzgl. NK 800 €,Wohnfläche ca. 86 m²,Zi. 3,147,14
+13,selObject_44837789,"2-Zimmer-Whg in Dresden mit EBK, Laminat, Badewanne","[['Etagenwohnung', '•', 'Dresden', 'Mickten']]",['EBK'],Miete zzgl. NK 370 €,Wohnfläche ca. 51 m²,Zi. 2,147,14
+14,selObject_44837487,Gemütliche Wohnung im Erdgeschoss! -360° Tour-,"[['Erdgeschosswohnung', '•', 'Riesa', 'Gröba']]",[],Miete zzgl. NK 255 €,Wohnfläche ca. 51 m²,Zi. 2,147,14
+15,selObject_44837486,Charmante Singlewohnung im Altbau!,"[['Etagenwohnung', '•', 'Riesa', 'Gröba']]",['Balkon'],Miete zzgl. NK 230 €,Wohnfläche ca. 45 m²,Zi. 1,147,14
+16,selObject_44837485,1-Raum-Wohnung mit Balkon im Zentrum!,"[['Etagenwohnung', '•', 'Riesa', 'Innenstadt']]",[],Miete zzgl. NK 220 €,Wohnfläche ca. 65 m²,Zi. 1,147,14
+17,selObject_44835873,*** 3 Zimmer * Erstbezug * Fußbodenheizung * Sonnenbal...,"[['Etagenwohnung', '•', 'Leipzig', 'Schönefeld-Abtnaundorf']]","['Balkon', 'Garten']","Miete zzgl. NK 708,50 €",Wohnfläche ca. 71 m²,Zi. 3,147,14
+18,selObject_44835855,Singlewohnung mit separater Küche und Bad mit Wanne in...,"[['Wohnung', '•', 'Pirna', 'Pirna']]",[],Miete zzgl. NK 191 €,Wohnfläche ca. 36 m²,Zi. 1,147,14
+19,selObject_44835856,Großzügige Wohnung ... Tageslichtbad mit Wanne ......,"[['Wohnung', '•', 'Dresden', 'Niedersedlitz']]",[],Miete zzgl. NK 465 €,Wohnfläche ca. 66 m²,Zi. 2,147,14
+20,selObject_44835854,Traumhafte moderne Maisonette-Wohnung mit großem Balko...,"[['Maisonette', '•', 'Großharthau']]","['Balkon', 'Garten']",Miete zzgl. NK 750 €,Wohnfläche ca. 105 m²,Zi. 4,147,14
+21,selObject_44835250,Ruhig wohnen in Gohlis,"[['Etagenwohnung', '•', 'Leipzig', 'Gohlis-Mitte']]",['Garten'],Miete zzgl. NK 500 €,Wohnfläche ca. 70 m²,Zi. 3,147,14
+22,selObject_44835156,Für Jung und Alt - mit Fahrstuhl und bester Infrastruk...,"[['Wohnung', '•', 'Dresden', 'Tolkewitz/Seidnitz-Nord']]",['EBK'],Miete zzgl. NK 565 €,Wohnfläche ca. 71 m²,Zi. 2,147,14
+23,selObject_44835041,kleine 2 RW mit sep. Küche in Kleinzschocher,"[['Etagenwohnung', '•', 'Leipzig', 'Kleinzschocher']]",[],Miete zzgl. NK 310 €,Wohnfläche ca. 42 m²,Zi. 2,147,14
+24,selObject_44835040,Großzügige 4 RW im Dachgeschoss,"[['Dachgeschosswohnung', '•', 'Leipzig', 'Stötteritz']]",['Garten'],Miete zzgl. NK 760 €,Wohnfläche ca. 110 m²,Zi. 4,147,14
+25,selObject_44833618,3 Raum-Wohnung,"[['Etagenwohnung', '•', 'Chemnitz', 'Schloßchemnitz']]",[],Miete zzgl. NK 492 €,Wohnfläche ca. 82 m²,Zi. 3,147,14
+26,selObject_44833591,2 Raum-Wohnung,"[['Etagenwohnung', '•', 'Chemnitz', 'Schloßchemnitz']]",[],Miete zzgl. NK 372 €,Wohnfläche ca. 62 m²,Zi. 2,147,14

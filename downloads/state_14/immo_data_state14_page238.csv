@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_44514457,Schöne 2 Zimmer Wohnung in Aue zu vermieten,"['Wohnung', '•', 'Aue']",[],Miete zzgl. NK 255 €,Wohnfläche ca. 65 m²,Zi. 2,238,14
-1,selObject_44514441,Schöne 4 Zimmer Wohnung in Aue zu vermieten,"['Dachgeschosswohnung', '•', 'Aue']",[],Miete zzgl. NK 300 €,Wohnfläche ca. 65 m²,Zi. 4,238,14
-2,selObject_44514425,Helle 3-Zimmer Wohnung zu vermieten !TOP LAGE!,"['Wohnung', '•', 'Aue']",[],Miete zzgl. NK 350 €,Wohnfläche ca. 78 m²,Zi. 3,238,14
-3,selObject_44514365,Gemütliche DG-Wohnung mit neuem Laminat...Bad mit Wann...,"['Dachgeschosswohnung', '•', 'Chemnitz', 'Schloßchemnitz']",['Garten'],Miete zzgl. NK 260 €,Wohnfläche ca. 60 m²,Zi. 3,238,14
-4,selObject_44514270,Tolle 2 Zimmerwohnung am Stadtrand,"['Wohnung', '•', 'Chemnitz', 'Glösa-Draisdorf']",['Garten'],Miete zzgl. NK 270 €,Wohnfläche ca. 48 m²,Zi. 2,238,14
-5,selObject_44514117,"+ Helle, lichtdurchflutete 4 Raum-Loft Wohnung mit...","['Etagenwohnung', '•', 'Chemnitz', 'Kaßberg']","['Balkon', 'Garten']",Miete zzgl. NK 1.239 €,Wohnfläche ca. 144 m²,Zi. 4,238,14
-6,selObject_44513975,Matzelstraße 9 - 2. OG mitt/links,"['Wohnung', '•', 'Leipzig', 'Dölitz-Dösen']",['EBK'],Miete zzgl. NK 300 €,Wohnfläche ca. 42 m²,Zi. 1,238,14
-7,selObject_44513972,Matzelstraße 9 / 2. OG,"['Etagenwohnung', '•', 'Leipzig', 'Dölitz-Dösen']","['Balkon', 'EBK']",Miete zzgl. NK 479 €,Wohnfläche ca. 55 m²,Zi. 2,238,14
-8,selObject_44513934,"Helle, familienfreundliche 3-Zimmerwohnung mit Wohnküc...","['Etagenwohnung', '•', 'Chemnitz', 'Hilbersdorf']",['Balkon'],Miete zzgl. NK 460 €,Wohnfläche ca. 76 m²,Zi. 3,238,14
-9,selObject_44513876,Einziehen & Wohlfühlen! // Frisch sanierte 2-Raum-Wohn...,"['Etagenwohnung', '•', 'Leipzig', 'Möckern']",[],Miete zzgl. NK 354 €,Wohnfläche ca. 47 m²,Zi. 2,238,14
-10,selObject_44513607,Wohntraum in einer charmanten Stadtvilla! // Perfekt...,"['Erdgeschosswohnung', '•', 'Leipzig', 'Gohlis-Mitte']",[],Miete zzgl. NK 1.034 €,Wohnfläche ca. 94 m²,Zi. 3,238,14
-11,selObject_44513581,Erstbezug in historischem Ambiente! // Gehobene 2-Raum...,"['Maisonette', '•', 'Leipzig', 'Gohlis-Mitte']",[],Miete zzgl. NK 836 €,Wohnfläche ca. 76 m²,Zi. 2,238,14
-12,selObject_44513471,Neu renovierte 3-Raumwohnung in zentrumsnaher Lage mit...,"['Wohnung', '•', 'Werdau', 'Werdau']",[],Miete zzgl. NK 355 €,Wohnfläche ca. 71 m²,Zi. 3,238,14
-13,selObject_44513388,Wunderschöne 4 Raum DG-Whg. mit tollem Grundriss und...,"['Dachgeschosswohnung', '•', 'Chemnitz', 'Kaßberg']","['Balkon', 'Garten']",Miete zzgl. NK 1.306 €,Wohnfläche ca. 137 m²,Zi. 4,238,14
-14,selObject_44513339,Den Blick ins Grüne genießen - Renovierte 3-Zimmer-Woh...,"['Etagenwohnung', '•', 'Leipzig', 'Grünau-Nord']",['Balkon'],Miete zzgl. NK 316 €,Wohnfläche ca. 70 m²,Zi. 3,238,14
-15,selObject_44513320,1-Zi.-Mietwohnung mit Balkon (1. OG) - Meißen Altstadt...,"['Wohnung', '•', 'Meißen']",['Balkon'],Miete zzgl. NK 240 €,Wohnfläche ca. 32 m²,Zi. 1,238,14
-16,selObject_44513052,ruhig gelegene 4 - Raumwohnung,"['Wohnung', '•', 'Mügeln', 'Schweta']",[],Miete zzgl. NK 360 €,Wohnfläche ca. 80 m²,Zi. 4,238,14
-17,selObject_44513017,Leutzsch - großzügige und helle 2-Zimmer-Wohnung mit...,"['Etagenwohnung', '•', 'Leipzig', 'Leutzsch']",['Balkon'],Miete zzgl. NK 420 €,Wohnfläche ca. 66 m²,Zi. 2,238,14
-18,selObject_44512994,Single-Wohnung mit Südbalkon,"['Erdgeschosswohnung', '•', 'Riesa', 'Gröba']",['Balkon'],Miete zzgl. NK 250 €,Wohnfläche ca. 47 m²,Zi. 1,238,14
-19,selObject_44512908,Helle 2-Raum-Wohnung in Dresden Pieschen,"['Etagenwohnung', '•', 'Dresden', 'Pieschen-Nord/Trachenberge']",[],Miete zzgl. NK 430 €,Wohnfläche ca. 56 m²,Zi. 2,238,14
-20,selObject_44512621,HafenCity! Moderne Wohnung mit großer Terrasse und...,"['Wohnung', '•', 'Dresden', 'Leipziger', 'Vorstadt']",['Garten'],Miete zzgl. NK 835 €,Wohnfläche ca. 67 m²,Zi. 2,238,14
-21,selObject_44512599,Schöne sanierte Zwei-Raum-Wohnung in ruhiger Lage Chem...,"['Etagenwohnung', '•', 'Neukirchen']",['EBK'],Miete zzgl. NK 230 €,Wohnfläche ca. 46 m²,Zi. 2,238,14
-22,selObject_44512474,+++ WG-Gemeinschaft sucht dich! Zentrumsnahes möbliert...,"['Wohnung', '•', 'Leipzig', 'Neustadt-Neuschönefeld']",['EBK'],Miete zzgl. NK 300 €,Wohnfläche ca. 17 m²,Zi. 1,238,14
-23,selObject_44512273,2 Monate mietfreie bei Anmietung im August 2021! Busha...,"['Erdgeschosswohnung', '•', 'Dresden', 'Leuben']",[],Miete zzgl. NK 403 €,Wohnfläche ca. 59 m²,Zi. 3,238,14
-24,selObject_44512235,An der Lukaskirche: DG + Wanne,"['Dachgeschosswohnung', '•', 'Dresden', 'Südvorstadt-Ost']","['Garten', 'EBK']",Miete zzgl. NK 450 €,Wohnfläche ca. 60 m²,Zi. 2,238,14
-25,selObject_44511700,"Wohnen, hoch über den Dächern Dresdens mit toller Auss...","['Etagenwohnung', '•', 'Dresden', 'Prohlis-Nord']",['Balkon'],Miete zzgl. NK 176 €,Wohnfläche ca. 26 m²,Zi. 1,238,14
-26,selObject_44511694,Großzügige 2-Raum-Wohnung in zentraler Lage!,"['Etagenwohnung', '•', 'Dresden', 'Friedrichstadt']",[],Miete zzgl. NK 360 €,Wohnfläche ca. 52 m²,Zi. 2,238,14
+0,selObject_44561690,1 Raumwohnung mit Einbauküche preiswert und schön :-),"[['Dachgeschosswohnung', '•', 'Glauchau', 'Niederlungwitz']]","['Balkon', 'EBK']",Miete zzgl. NK 175 €,Wohnfläche ca. 29 m²,Zi. 1,238,14
+1,selObject_44561689,Schöne große 3-Raumwohnung in Glauchau - Oberstadt,"[['Wohnung', '•', 'Glauchau', 'Glauchau']]",['Garten'],Miete zzgl. NK 395 €,Wohnfläche ca. 82 m²,Zi. 3,238,14
+2,selObject_44561687,Schöne große 3-Raumwohnung in Glauchau - Oberstadt,"[['Wohnung', '•', 'Glauchau', 'Glauchau']]",['Garten'],Miete zzgl. NK 395 €,Wohnfläche ca. 82 m²,Zi. 3,238,14
+3,selObject_44561686,1 Monat mietfrei !!! WG-geeignete 3 Raum-Maisonettenwo...,"[['Wohnung', '•', 'Chemnitz', 'Bernsdorf']]",[],Miete zzgl. NK 425 €,Wohnfläche ca. 86 m²,Zi. 3,238,14
+4,selObject_44561683,1 Raumwohnung mit EBK preiswert und schön :-),"[['Dachgeschosswohnung', '•', 'Glauchau', 'Niederlungwitz']]","['Balkon', 'EBK']",Miete zzgl. NK 175 €,Wohnfläche ca. 30 m²,Zi. 1,238,14
+5,selObject_44561682,Gemütliche 2 - Raumwohnung,"[['Wohnung', '•', 'Wilkau-Haßlau', 'Wilkau-Haßlau']]",[],Miete zzgl. NK 295 €,Wohnfläche ca. 63 m²,Zi. 2,238,14
+6,selObject_44561681,Schöne helle 3 - Raum Wohnung in Marienthal - 2 Kaltmi...,"[['Wohnung', '•', 'Zwickau', 'Marienthal']]",[],Miete zzgl. NK 300 €,Wohnfläche ca. 75 m²,Zi. 3,238,14
+7,selObject_44561679,Schöne kleine 2-Raum-Wohnung in Marienthal,"[['Wohnung', '•', 'Zwickau', 'Marienthal']]",['Garten'],Miete zzgl. NK 205 €,Wohnfläche ca. 32 m²,Zi. 2,238,14
+8,selObject_44561677,Helle möblierte 1 Raumwohnung im 1. OG mit Balkon,"[['Wohnung', '•', 'Glauchau', 'Niederlungwitz']]","['Balkon', 'EBK']",Miete zzgl. NK 170 €,Wohnfläche ca. 37 m²,Zi. 1,238,14
+9,selObject_44561676,Tolle 1 - Raum - Wohnung mit moderner EBK und Balkon,"[['Wohnung', '•', 'Wilkau-Haßlau', 'Wilkau-Haßlau']]",['EBK'],Miete zzgl. NK 245 €,Wohnfläche ca. 41 m²,Zi. 1,238,14
+10,selObject_44561675,Schöne kleine 2-Raum-Wohnung in Marienthal,"[['Wohnung', '•', 'Zwickau', 'Marienthal']]",[],Miete zzgl. NK 180 €,Wohnfläche ca. 34 m²,Zi. 2,238,14
+11,selObject_44561674,2 Raumwohnung im 1.OG mit moderner Einbauküche,"[['Wohnung', '•', 'Glauchau', 'Niederlungwitz']]","['Balkon', 'EBK']",Miete zzgl. NK 285 €,Wohnfläche ca. 55 m²,Zi. 2,238,14
+12,selObject_44561673,Tolle Singlewohnung im DG,"[['Wohnung', '•', 'Glauchau', 'Niederlungwitz']]",['Balkon'],Miete zzgl. NK 180 €,Wohnfläche ca. 36 m²,Zi. 1,238,14
+13,selObject_44561672,Große 3 Maisonetten Raumwohnung,"[['Maisonette', '•', 'Glauchau', 'Glauchau']]",[],Miete zzgl. NK 440 €,Wohnfläche ca. 80 m²,Zi. 3,238,14
+14,selObject_44561670,Helle 1 Raumwohnung im 1. OG mit Balkon und EKB,"[['Wohnung', '•', 'Glauchau', 'Niederlungwitz']]","['Balkon', 'EBK']",Miete zzgl. NK 170 €,Wohnfläche ca. 37 m²,Zi. 1,238,14
+15,selObject_44561671,Schöne 1-Raum-Dachgeschosswohnung in der Unterstadt...,"[['Dachgeschosswohnung', '•', 'Glauchau', 'Glauchau']]",[],Miete zzgl. NK 200 €,Wohnfläche ca. 45 m²,Zi. 1,238,14
+16,selObject_44561669,Schöne frisch renovierte 2-Raum-Wohnung in Meerane,"[['Erdgeschosswohnung', '•', 'Meerane', 'Meerane']]",[],Miete zzgl. NK 250 €,Wohnfläche ca. 68 m²,Zi. 2,238,14
+17,selObject_44561668,Schöne kleine 1-Raum-Wohnung im 1. OG in Zwickau-Pölbi...,"[['Wohnung', '•', 'Zwickau', 'Pölbitz']]",[],Miete zzgl. NK 205 €,Wohnfläche ca. 38 m²,Zi. 1,238,14
+18,selObject_44561667,! Bester Preis der Stadt ! 1. Monat mietfrei - Gemütli...,"[['Wohnung', '•', 'Glauchau', 'Glauchau']]",['Balkon'],Miete zzgl. NK 320 €,Wohnfläche ca. 71 m²,Zi. 3,238,14
+19,selObject_44561662,Große helle 2-Raum-Wohnung in Marienthal,"[['Dachgeschosswohnung', '•', 'Zwickau', 'Marienthal']]",[],Miete zzgl. NK 250 €,Wohnfläche ca. 92 m²,Zi. 2,238,14
+20,selObject_44561660,Tolle 1-Raum-Wohnung mit moderner EBK im EG,"[['Erdgeschosswohnung', '•', 'Glauchau', 'Niederlungwitz']]",['EBK'],Miete zzgl. NK 180 €,Wohnfläche ca. 30 m²,Zi. 1,238,14
+21,selObject_44561659,Schöne 2-Raumwohnung mit Balkon in beliebter Wohnlage,"[['Wohnung', '•', 'Glauchau', 'Glauchau']]",['Balkon'],Miete zzgl. NK 310 €,Wohnfläche ca. 60 m²,Zi. 2,238,14
+22,selObject_44561658,Wohnen im Zentrum von Meerane und Waldnähe!,"[['Wohnung', '•', 'Meerane', 'Meerane']]",[],Miete zzgl. NK 250 €,Wohnfläche ca. 54 m²,Zi. 2,238,14
+23,selObject_44561655,Gemütliche 2 - Raum - Dachgeschosswohnung - EBK möglic...,"[['Dachgeschosswohnung', '•', 'Wilkau-Haßlau', 'Wilkau-Haßlau']]",[],Miete zzgl. NK 295 €,Wohnfläche ca. 63 m²,Zi. 2,238,14
+24,selObject_44561654,Wohnen im Zentrum von Meerane und Waldnähe!,"[['Wohnung', '•', 'Meerane', 'Meerane']]",[],Miete zzgl. NK 250 €,Wohnfläche ca. 64 m²,Zi. 2,238,14
+25,selObject_44561379,"Wohnung im Zentrum von Dresden mit Einbauküche, Duschb...","[['Etagenwohnung', '•', 'Dresden', 'Innere', 'Altstadt']]",['EBK'],Miete zzgl. NK 1.180 €,Wohnfläche ca. 80 m²,Zi. 3,238,14
+26,selObject_44561368,3-Raum-Wohnung mit Terrasse,"[['Erdgeschosswohnung', '•', 'Lichtenstein', 'Lichtenstein']]",[],Miete zzgl. NK 495 €,Wohnfläche ca. 79 m²,Zi. 3,238,14

@@ -1,28 +1,28 @@
 ,id,title,bullets,tags,price,area,rooms,page,state
-0,selObject_42735670,Familien Willkommen!,"['Wohnung', '•', 'Limbach-Oberfrohna', 'Limbach-Oberfrohna']",[],Miete zzgl. NK 335 €,Wohnfläche ca. 67 m²,Zi. 4,395,14
-1,selObject_42733969,3-Raum mit Balkon,"['Wohnung', '•', 'Zwickau', 'Pölbitz']",[],Miete zzgl. NK 350 €,Wohnfläche ca. 73 m²,Zi. 3,395,14
-2,selObject_42733897,moderne 2-Zimmer WE mit Lift und Balkon,"['Erdgeschosswohnung', '•', 'Zwickau', 'Eckersbach']",['Balkon'],Miete zzgl. NK 294 €,Wohnfläche ca. 57 m²,Zi. 2,395,14
-3,selObject_42733788,+++ Attraktive 2 Raum Wohnung in Schönau sucht neuen...,"['Etagenwohnung', '•', 'Chemnitz', 'Schönau']",['EBK'],Miete zzgl. NK 234 €,Wohnfläche ca. 45 m²,Zi. 2,395,14
-4,selObject_42733748,3-RWE in bester Lage,"['Etagenwohnung', '•', 'Leipzig', 'Paunsdorf']",['Balkon'],"Miete zzgl. NK 411,28 €",Wohnfläche ca. 60 m²,Zi. 3,395,14
-5,selObject_42733747,"Wir bieten Ihnen nicht nur eine Wohnung, sondern ein...","['Etagenwohnung', '•', 'Leipzig', 'Lausen-Grünau']",[],"Miete zzgl. NK 428,29 €",Wohnfläche ca. 67 m²,Zi. 3,395,14
-6,selObject_42733745,Single-Wohnung für Handwerker,"['Etagenwohnung', '•', 'Leipzig', 'Paunsdorf']",['Balkon'],"Miete zzgl. NK 320,86 €",Wohnfläche ca. 55 m²,Zi. 2,395,14
-7,selObject_42733722,Nehmen Sie mich- und keine andere!,"['Etagenwohnung', '•', 'Leipzig', 'Paunsdorf']",[],"Miete zzgl. NK 369,04 €",Wohnfläche ca. 46 m²,Zi. 2,395,14
-8,selObject_42733702,°Ideal für kleine Familien° 3-Raum-Wohnung mit Balkon...,"['Etagenwohnung', '•', 'Dresden', 'Tolkewitz/Seidnitz-Nord']",['Balkon'],Miete zzgl. NK 440 €,Wohnfläche ca. 63 m²,Zi. 3,395,14
-9,selObject_42732575,*IHR neues ZUHAUSE* im Grünen... 3 Räume + RENOVIERT +...,"['Erdgeschosswohnung', '•', 'Dresden', 'Seidnitz/Dobritz']",['Garten'],Miete zzgl. NK 370 €,Wohnfläche ca. 51 m²,Zi. 3,395,14
-10,selObject_42732032,wohnen über den Dächern von Chemnitz,"['Maisonette', '•', 'Chemnitz', 'Sonnenberg']",[],Miete zzgl. NK 308 €,Wohnfläche ca. 68 m²,Zi. 3,395,14
-11,selObject_42731861,"Wohnquartier ""Liv' in Reudnitz"" I ERSTBEZUG im NEUBAU","['Etagenwohnung', '•', 'Leipzig', 'Reudnitz-Thonberg']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 654 €,Wohnfläche ca. 57 m²,Zi. 2,395,14
-12,selObject_42731857,"Wohnquartier ""Liv' in Reudnitz"" I ERSTBEZUG im NEUBAU","['Etagenwohnung', '•', 'Leipzig', 'Reudnitz-Thonberg']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 723 €,Wohnfläche ca. 63 m²,Zi. 2,395,14
-13,selObject_42731856,"Wohnquartier ""Liv' in Reudnitz"" I ERSTBEZUG im NEUBAU","['Etagenwohnung', '•', 'Leipzig', 'Reudnitz-Thonberg']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 723 €,Wohnfläche ca. 63 m²,Zi. 2,395,14
-14,selObject_42731854,"Wohnquartier ""Liv' in Reudnitz"" I ERSTBEZUG im NEUBAU","['Etagenwohnung', '•', 'Leipzig', 'Reudnitz-Thonberg']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 932 €,Wohnfläche ca. 81 m²,Zi. 3,395,14
-15,selObject_42731852,"Wohnquartier ""Liv' in Reudnitz"" I ERSTBEZUG im NEUBAU","['Etagenwohnung', '•', 'Leipzig', 'Reudnitz-Thonberg']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 665 €,Wohnfläche ca. 58 m²,Zi. 2,395,14
-16,selObject_42731824,"Wohnquartier ""Liv' in Reudnitz"" I ERSTBEZUG im NEUBAU","['Etagenwohnung', '•', 'Leipzig', 'Zentrum-Südost']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 684 €,Wohnfläche ca. 60 m²,Zi. 2,395,14
-17,selObject_42731823,"Wohnquartier ""Liv' in Reudnitz"" I ERSTBEZUG im NEUBAU","['Etagenwohnung', '•', 'Leipzig', 'Zentrum-Südost']","['Balkon', 'Garten', 'EBK']",Miete zzgl. NK 974 €,Wohnfläche ca. 85 m²,Zi. 3,395,14
-18,selObject_42725563,3 Zimmer Wohnung Riesa,"['Wohnung', '•', 'Riesa', 'Innenstadt']",['Garten'],Miete zzgl. NK 440 €,Wohnfläche ca. 74 m²,Zi. 3,395,14
-19,selObject_42724982,++ URBAN BASE + Möblierte Apartments im Herzen von...,"['Etagenwohnung', '•', 'Dresden', 'Pirnaische', 'Vorstadt']","['Balkon', 'EBK']",Miete zzgl. NK 615 €,Wohnfläche ca. 41 m²,Zi. 1,395,14
-20,selObject_42724975,++ URBAN BASE + Möblierte Apartments im Herzen von...,"['Etagenwohnung', '•', 'Dresden', 'Pirnaische', 'Vorstadt']","['Balkon', 'EBK']",Miete zzgl. NK 455 €,Wohnfläche ca. 29 m²,Zi. 1,395,14
-21,selObject_42724972,++ URBAN BASE + Möblierte Apartments im Herzen von...,"['Etagenwohnung', '•', 'Dresden', 'Pirnaische', 'Vorstadt']","['Balkon', 'EBK']",Miete zzgl. NK 632 €,Wohnfläche ca. 43 m²,Zi. 1,395,14
-22,selObject_42724940,++ URBAN BASE + Möblierte Apartments im Herzen von...,"['Etagenwohnung', '•', 'Dresden', 'Pirnaische', 'Vorstadt']","['Balkon', 'EBK']",Miete zzgl. NK 445 €,Wohnfläche ca. 29 m²,Zi. 1,395,14
-23,selObject_42724936,++ URBAN BASE + Möblierte Apartments im Herzen von...,"['Etagenwohnung', '•', 'Dresden', 'Pirnaische', 'Vorstadt']","['Balkon', 'EBK']",Miete zzgl. NK 361 €,Wohnfläche ca. 32 m²,Zi. 1,395,14
-24,selObject_42724934,++ URBAN BASE + Möblierte Apartments im Herzen von...,"['Etagenwohnung', '•', 'Dresden', 'Pirnaische', 'Vorstadt']","['Balkon', 'EBK']",Miete zzgl. NK 417 €,Wohnfläche ca. 32 m²,Zi. 1,395,14
-25,selObject_42724671,++ URBAN BASE + Möblierte Apartments im Herzen von...,"['Etagenwohnung', '•', 'Dresden', 'Pirnaische', 'Vorstadt']","['Balkon', 'EBK']",Miete zzgl. NK 361 €,Wohnfläche ca. 32 m²,Zi. 1,395,14
-26,selObject_42717720,Hochwertig Sanierte 5-Raum Wohnung im Hochparterre...,"['Erdgeschosswohnung', '•', 'Roßwein', 'Roßwein']",['Balkon'],Miete zzgl. NK 745 €,Wohnfläche ca. 149 m²,Zi. 5,395,14
+0,selObject_42912029,Top saniert: Große Wohnung in Plauen! Gern mit neuer...,"[['Etagenwohnung', '•', 'Plauen', 'Haselbrunn']]","['Garten', 'EBK']",Miete zzgl. NK 299 €,Wohnfläche ca. 92 m²,Zi. 2,395,14
+1,selObject_42912011,"Großzügige, sanierte OG-Wohnung inkl. neuer EBK in...","[['Etagenwohnung', '•', 'Plauen', 'Haselbrunn']]","['Garten', 'EBK']",Miete zzgl. NK 340 €,Wohnfläche ca. 93 m²,Zi. 2,395,14
+2,selObject_42912004,Schöne 2-Raumwohnung in Plauen - Ruhige und verkehrste...,"[['Etagenwohnung', '•', 'Plauen', 'Haselbrunn']]",['Garten'],Miete zzgl. NK 290 €,Wohnfläche ca. 73 m²,Zi. 2,395,14
+3,selObject_42911835,3 Raum Wohnung Zwickau Planitz mit Einbauküche ab sofo...,"[['Wohnung', '•', 'Zwickau', 'Niederplanitz']]",['EBK'],Miete zzgl. NK 396 €,Wohnfläche ca. 66 m²,Zi. 3,395,14
+4,selObject_42895944,Dachgeschoßwohnung 2 Zimmer,"[['Erdgeschosswohnung', '•', 'Zwickau', 'Oberrothenbach']]","['Balkon', 'Garten']",Miete zzgl. NK 345 €,Wohnfläche ca. 52 m²,Zi. 2,395,14
+5,selObject_42895943,Schöne 2 Zimmer Dachgeschoßwohnung,"[['Erdgeschosswohnung', '•', 'Zwickau', 'Oberrothenbach']]","['Balkon', 'Garten']",Miete zzgl. NK 345 €,Wohnfläche ca. 52 m²,Zi. 2,395,14
+6,selObject_42892906,Barrierefreies Wohnen für die Familie,"[['Wohnung', '•', 'Chemnitz', 'Sonnenberg']]",[],Miete zzgl. NK 325 €,Wohnfläche ca. 75 m²,Zi. 3,395,14
+7,selObject_42892778,"WG-geeignete Wohnung, 2 Räume, Bad mit Fenster und...","[['Wohnung', '•', 'Dresden', 'Cotta']]",['Garten'],Miete zzgl. NK 410 €,Wohnfläche ca. 60 m²,Zi. 2,395,14
+8,selObject_42892276,"4-Raum-Whg. mit tollen Highlights, Stellpl. zur Anmiet...","[['Etagenwohnung', '•', 'Chemnitz', 'Markersdorf']]",['Balkon'],Miete zzgl. NK 588 €,Wohnfläche ca. 105 m²,Zi. 4,395,14
+9,selObject_42891750,"Direkt am Zentrum! Große WG 3-Zi. mit Aufzug, Laminat...","[['Etagenwohnung', '•', 'Chemnitz', 'Sonnenberg']]",['EBK'],"Miete zzgl. NK 259,68 €",Wohnfläche ca. 87 m²,Zi. 3,395,14
+10,selObject_42891683,Die erste eigene Wohnung !,"[['Wohnung', '•', 'Fraureuth', 'Ruppertsgrün']]",[],Miete zzgl. NK 180 €,Wohnfläche ca. 40 m²,Zi. 2,395,14
+11,selObject_42890562,Großzügige 2-Raum-Wohnung mit Balkon,"[['Etagenwohnung', '•', 'Dresden', 'Weixdorf']]",['Balkon'],Miete zzgl. NK 610 €,Wohnfläche ca. 66 m²,Zi. 2,395,14
+12,selObject_42890161,Altersgerecht Wohnen - Kultur & Geschäfte vor der Haus...,"[['Wohnung', '•', 'Dresden', 'Innere', 'Altstadt']]",['EBK'],Miete zzgl. NK 650 €,Wohnfläche ca. 60 m²,Zi. 2,395,14
+13,selObject_42890144,www.r-o.de +++ Wohnen in Großzschachwitz - Geräumige...,"[['Wohnung', '•', 'Dresden', 'Großzschachwitz']]",[],Miete zzgl. NK 395 €,Wohnfläche ca. 59 m²,Zi. 2,395,14
+14,selObject_42888918,5 min zum See! Schicke Etagenwohnung an der Stadtgrenz...,"[['Etagenwohnung', '•', 'Olbersdorf']]",['Garten'],Miete zzgl. NK 500 €,Wohnfläche ca. 130 m²,Zi. 4,395,14
+15,selObject_42888756,Vielleicht haben wir hier Deine ersten eigenen 4-Wände...,"[['Etagenwohnung', '•', 'Chemnitz', 'Morgenleite']]",['Balkon'],Miete zzgl. NK 210 €,Wohnfläche ca. 41 m²,Zi. 2,395,14
+16,selObject_42887229,"1,5-Raum-Wohnung in 09629 Reinsberg im Ortsteil Bieber...","[['Wohnung', '•', 'Bieberstein']]",[],Miete zzgl. NK 195 €,Wohnfläche ca. 38 m²,"Zi. 1,5",395,14
+17,selObject_42887077,3-RWE mit Küchenteilen für den schmalen Geldbeutel,"[['Etagenwohnung', '•', 'Leipzig', 'Paunsdorf']]",['Balkon'],"Miete zzgl. NK 375,12 €",Wohnfläche ca. 61 m²,Zi. 3,395,14
+18,selObject_42886982,3-RWE mit Aufzug - von oben die beste Aussicht,"[['Etagenwohnung', '•', 'Leipzig', 'Paunsdorf']]",[],"Miete zzgl. NK 421,60 €",Wohnfläche ca. 67 m²,Zi. 3,395,14
+19,selObject_42886949,aus Alt wird Neu - 2-RWE - und Sie bestimmen mit!,"[['Etagenwohnung', '•', 'Leipzig', 'Paunsdorf']]",[],"Miete zzgl. NK 325,90 €",Wohnfläche ca. 46 m²,Zi. 2,395,14
+20,selObject_42886725,Kurze Wege! 2 Zimmer im Erdgeschoss und das noch frisc...,"[['Wohnung', '•', 'Chemnitz', 'Morgenleite']]",['Balkon'],Miete zzgl. NK 215 €,Wohnfläche ca. 41 m²,Zi. 2,395,14
+21,selObject_42885454,Willkommen in Kappel - hier wartet dieses Schmuckstück...,"[['Etagenwohnung', '•', 'Chemnitz', 'Kappel']]",['Balkon'],Miete zzgl. NK 280 €,Wohnfläche ca. 56 m²,Zi. 3,395,14
+22,selObject_42885341,Willkommen Zuhause! Einziehen und wohlfühlen! Frisch...,"[['Etagenwohnung', '•', 'Chemnitz', 'Kappel']]",['Balkon'],Miete zzgl. NK 270 €,Wohnfläche ca. 56 m²,Zi. 3,395,14
+23,selObject_42884250,Erstbezug - Moderne Wohnungen,"[['Etagenwohnung', '•', 'Dresden', 'Weixdorf']]",[],Miete zzgl. NK 530 €,Wohnfläche ca. 54 m²,Zi. 2,395,14
+24,selObject_42883887,+++ Schicke 2 Zimmer-Wohnung am Kaßberg +++,"[['Wohnung', '•', 'Chemnitz', 'Kaßberg']]",['Balkon'],Miete zzgl. NK 295 €,Wohnfläche ca. 51 m²,Zi. 2,395,14
+25,selObject_42883364,2-Raum Wohnung direkt am Westpark,"[['Etagenwohnung', '•', 'Zittau', 'Zittau']]",['Garten'],Miete zzgl. NK 275 €,Wohnfläche ca. 56 m²,Zi. 2,395,14
+26,selObject_42880604,4-Zi-DG-Wohnung mit großem Gemeinschaftsgarten,"[['Dachgeschosswohnung', '•', 'Mittweida', 'Mittweida']]","['Garten', 'EBK']",Miete zzgl. NK 430 €,Wohnfläche ca. 83 m²,Zi. 4,395,14
