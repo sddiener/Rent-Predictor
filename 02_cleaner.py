@@ -1,6 +1,12 @@
 import os
 import pandas as pd
 import requests
+import pickle
+import time
+from data.state_dict import state_dict
+
+CREATE_NEW_GEODICT = False # bool wheather new address to geocode dictionary must be created (limited api calls)
+GEODICT_PATH = 'data/geo_dict.pkl'
 
 def combine_files(dir):
     ''' Combines identical dataframes in directory '''
@@ -23,62 +29,11 @@ def combine_files(dir):
 def clean_data(df):
     ''' Cleans columns and extracts info from string columns '''
 
-    # Convert id to float
-    df['id'] = df['id'].str.replace('selObject_', '').astype(int)
 
-    # Create dummies from tags
-    df['ebk'] = df['tags'].apply(lambda x: 'EBK' in x)
-    df['garten'] = df['tags'].apply(lambda x: 'Garten' in x)
-    df['balkon'] = df['tags'].apply(lambda x: 'Balkon' in x)
-    df = df.drop('tags', axis=1)
-
-    # Clean price column
-    df = df[df['price'].str.contains('zzgl.|inkl.')] # remove rows without these strings in price (i.e. "Preis auf Anfrage" and "Garagen")
-    df['inkl_NK'] = df['price'].apply(lambda x: 'inkl.' in x) # create dummy if additional costs are included
-
-    df['price'] = df['price'].str.extract('(\d[\d,.]*)') # extract numbers
-    df['price'] = df['price'].str.replace('.','', regex=True) # remove thousands dot
-    df['price'] = df['price'].str.replace(',','.').astype(float) # replace seperator and convert to float
-
-    # Convert area to float  # TODO filter NAs
-    df['area'] = df['area'].str.extract('(\d[\d,.]*)') # extract numbers
-    df['area'] = df['area'].astype(float) 
-
-    # Convert rooms to float  # TODO filter NAs
-    df['rooms'] = df['rooms'].str.extract('(\d[\d,.]*)') # extract numbers
-    df['rooms'] = df['rooms'].str.replace(',','.').astype(float) # replace seperator and convert to float
-
-    # Split bullets
-    df['bullets'] = df['bullets'].apply(lambda x: x[-1]) 
-    df['type'] = df['bullets'].apply(lambda x: x[0]) 
-    df['city'] = df['bullets'].apply(lambda x: ' '.join(x[2:]))
-    df = df.drop('bullets', axis=1)
-
-    # Create address column
-    state_dict={ 
-        1:"Schleswig-Holstein",
-        2:"Hamburg",
-        3:"Niedersachsen",
-        4:"Bremen",
-        5:"Nordrhein-Westfalen",
-        6:"Hessen",
-        7:"Rheinland-Pfalz",
-        8:"Baden-Württemberg",
-        9:"Bayern",
-        10:"Saarland",
-        11:"Berlin",
-        12:"Brandenburg",
-        13:"Mecklenburg-Vorpommern",
-        14:"Sachsen",
-        15:"Sachsen-Anhalt",
-        16:"Thüringen"
-    }
-    df['state'] = df['state'].map(state_dict)
-    df['address'] = df['city'] + ', ' + df['state'] + ', ' + 'Germany'
     return df
 
 def geocode_address(address):
-    ''' Converts address to geocode dictionary '''
+    ''' Converts address string to geocode object '''
     API_KEY =  os.environ['GMAPS_API_KEY']
     params = {
         'key': API_KEY,
@@ -92,23 +47,91 @@ def geocode_address(address):
     if response['status'] == 'OK':
         results_dict = response['results'][0]   # dict_keys(['address_components', 'formatted_address', 'geometry', 'place_id', 'types'])
     else:
+        results_dict = None
         print('Response status FAILED')
 
     return results_dict
 
+def create_geo_dict(address_list, path): 
+    ''' Encode list of addresses with google API '''
+    call_api = input('Make API calls for {} addresses? (y/n): '.format(len(address_list)))
+    if call_api=='y':
+        geocode_output = []
+        for i, address in enumerate(address_list):
+            print('- Geocode address ({}/{}): {}'.format(i, len(address_list), address))
+            geocode_output.append(geocode_address(address))
+            time.sleep(0.1)
+        
+        geo_dict = dict(zip(address_list, geocode_output))
+        with open(path, 'wb') as file:
+            pickle.dump(geo_dict, file)
+        print('Saved geo_dict to "{}"'.format(path))
+        return geo_dict
+    else:
+        print('Aborted. Returning None')
+        return None
+
+# Create complete data frame --------------------------------------
 df = combine_files('downloads')
 df.to_csv('data/combined_data.csv')
-df = clean_data(df)
-df.to_csv('data/cleaned_data.csv')
 
-# address = df['address'][0]
+# Clean data frame ------------------------------------------------
+# Convert id to float
+df['id'] = df['id'].str.replace('selObject_', '').astype(int)
 
-# # create dict for address to geo_obj #TODO geoencode all addresses (apply dict to address col)
-# address_input = df['address'].unique()[1:5]
-# geocode_output = list(map(geocode_address, address_input))
-# geo_dict = dict(zip(address_input, geocode_output))
+# Create dummies from tags
+df['ebk'] = df['tags'].apply(lambda x: 'EBK' in x)
+df['garten'] = df['tags'].apply(lambda x: 'Garten' in x)
+df['balkon'] = df['tags'].apply(lambda x: 'Balkon' in x)
+df = df.drop('tags', axis=1)
+
+# Clean price column
+df = df[df['price'].str.contains('zzgl.|inkl.')] # remove rows without these strings in price (i.e. 'Preis auf Anfrage' and 'Garagen')
+df['inkl_NK'] = df['price'].apply(lambda x: 'inkl.' in x) # create dummy if additional costs are included
+
+df['price'] = df['price'].str.extract('(\d[\d,.]*)') # extract numbers
+df['price'] = df['price'].str.replace('.','', regex=True) # remove thousands dot
+df['price'] = df['price'].str.replace(',','.').astype(float) # replace seperator and convert to float
+
+# Convert area to float 
+df['area'] = df['area'].str.extract('(\d[\d,.]*)') # extract numbers
+df['area'] = df['area'].astype(float) 
+
+# Convert rooms to float 
+df['rooms'] = df['rooms'].str.extract('(\d[\d,.]*)') # extract numbers
+df['rooms'] = df['rooms'].str.replace(',','.').astype(float) # replace seperator and convert to float
+
+# Split bullets
+df['bullets'] = df['bullets'].apply(lambda x: x[-1]) 
+df['type'] = df['bullets'].apply(lambda x: x[0]) 
+df['city'] = df['bullets'].apply(lambda x: ' '.join(x[2:]))
+df = df.drop('bullets', axis=1)
+
+# Create address column
+df['state'] = df['state'].map(state_dict)
+df['address'] = df['city'] + ', ' + df['state'] + ', ' + 'Germany'
+
+# Create geocoded column
+if CREATE_NEW_GEODICT:
+    address_list = df['address'].unique()
+    geo_dict = create_geo_dict(address_list, GEODICT_PATH)
+else:
+    print('Load existing geo_dict')
+    with open(GEODICT_PATH, 'rb') as file:
+        geo_dict = pickle.load(file)
+
+df['geo_object'] = df['address'].map(geo_dict)
+
+# Save data frame
+df.to_csv('data/cleaned_data_debug.csv') # for debugging
+with open('data/cleaned_data.pkl', 'wb') as file:
+    pickle.dump(df, file)
+
+# TODO filter or impute NAs
 
 
+# list(geo_dict.keys())[12]
+# list(geo_dict.values())[12]
 
 # results_dict['address_components']
 # results_dict['formatted_address']
