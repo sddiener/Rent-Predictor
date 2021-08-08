@@ -122,17 +122,17 @@ else:
 
 df['geo_object'] = df['address'].map(geo_dict)
 
+# Drop NA 
+df = df.dropna()
+
+# Exctract info from geo_object
+df['formatted_address'] = df['geo_object'].apply(lambda x: x.get('formatted_address'))
+df['address_components'] = df['geo_object'].apply(lambda x: x.get('address_components'))
+df['geometry'] = df['geo_object'].apply(lambda x: x.get('geometry'))
+
+
+
 # Save data frame
 df.to_csv('data/cleaned_data_debug.csv') # for debugging
 with open('data/cleaned_data.pkl', 'wb') as file:
     pickle.dump(df, file)
-
-# TODO filter or impute NAs
-
-
-# list(geo_dict.keys())[12]
-# list(geo_dict.values())[12]
-
-# results_dict['address_components']
-# results_dict['formatted_address']
-# results_dict['geometry']
