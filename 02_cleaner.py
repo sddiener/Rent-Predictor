@@ -129,7 +129,10 @@ df = df.dropna()
 df['formatted_address'] = df['geo_object'].apply(lambda x: x.get('formatted_address'))
 df['address_components'] = df['geo_object'].apply(lambda x: x.get('address_components'))
 df['geometry'] = df['geo_object'].apply(lambda x: x.get('geometry'))
+df['lat'] = df['geometry'].apply(lambda x: x.get('location').get('lat'))
+df['lng'] = df['geometry'].apply(lambda x: x.get('location').get('lng'))
 
+df = df.drop('geo_object', axis=1)
 
 
 # Save data frame
