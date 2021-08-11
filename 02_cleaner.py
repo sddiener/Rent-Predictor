@@ -4,6 +4,7 @@ import requests
 import pickle
 import time
 from data.state_dict import state_dict
+import numpy as np
 
 CREATE_NEW_GEODICT = False # bool wheather new address to geocode dictionary must be created (limited api calls)
 GEODICT_PATH = 'data/geo_dict.pkl'
@@ -122,20 +123,23 @@ else:
 
 df['geo_object'] = df['address'].map(geo_dict)
 
-# Drop NA 
-df = df.dropna()
+
+# Remove outliers
+df['price'] = df['price'].where(df['price'].between(df['price'].quantile(.0001), df['price'].quantile(.9999)), None)
+df['area'] = df['area'].where(df['area'].between(df['area'].quantile(.0001), df['area'].quantile(.9999)), None)
+
+# Drop NA & duplicates 
+df = df.dropna() # avoids None.get() when extracting geo_object
+df = df.drop_duplicates('id')
 
 # Exctract info from geo_object
-df['formatted_address'] = df['geo_object'].apply(lambda x: x.get('formatted_address'))
-df['address_components'] = df['geo_object'].apply(lambda x: x.get('address_components'))
-df['geometry'] = df['geo_object'].apply(lambda x: x.get('geometry'))
-df['lat'] = df['geometry'].apply(lambda x: x.get('location').get('lat'))
-df['lng'] = df['geometry'].apply(lambda x: x.get('location').get('lng'))
+df['lat'] = df['geo_object'].apply(lambda x: x.get('geometry').get('location').get('lat'))
+df['lng'] = df['geo_object'].apply(lambda x: x.get('geometry').get('location').get('lng'))
 
-df = df.drop('geo_object', axis=1)
-
+# Drop unnecessary columns
+df = df.drop(['id', 'geo_object', 'page', 'city', 'address'], axis=1)
 
 # Save data frame
-df.to_csv('data/cleaned_data_debug.csv') # for debugging
 with open('data/cleaned_data.pkl', 'wb') as file:
     pickle.dump(df, file)
+
