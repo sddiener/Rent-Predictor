@@ -12,10 +12,10 @@ with open("data/cleaned_data.pkl", 'rb') as f:
 
 data['log_price'] = np.log(data['price'])
 
-# Plot map
+# Plot map  # TODO check intersection and add landkreise as dummies (+ interaction terms) 
 map_df.info()
 map_df.plot()
-plt.show()
+plt.show()  
 
 # Plot data
 data.info()
