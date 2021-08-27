@@ -1,16 +1,19 @@
 import os
 import pandas as pd
+from pandas.core.frame import DataFrame
 import requests
 import pickle
 import time
 from data.state_dict import state_dict
 import numpy as np
+import geopandas as gpd
 
 # bool wheather new address to geocode dictionary must be created (limited api calls)
 CREATE_NEW_GEODICT = False
 GEODICT_PATH = 'data/geo_dict.pkl'
 COMBINED_DATA_PATH = 'data/combined_data.csv'
 CLEANED_DATA_PATH = 'data/cleaned_data.pkl'
+GEO_DATA_PATH = 'data/geo_data.pkl'
 
 
 def combine_files(dir):
@@ -77,6 +80,26 @@ def create_geo_dict(address_list, path):
         return None
 
 
+def address_to_coordinates(address_col):
+    # Create geocoded column
+    if CREATE_NEW_GEODICT:
+        address_list = address_col.unique()
+        geo_dict = create_geo_dict(address_list, GEODICT_PATH)
+    else:
+        print('Load existing geo_dict')
+        with open(GEODICT_PATH, 'rb') as file:
+            geo_dict = pickle.load(file)
+
+    geo_col = address_col.map(geo_dict)
+
+    # Exctract info from geo_col
+    lat_col = geo_col.apply(lambda x:
+                            None if x is None else x.get('geometry').get('location').get('lat'))
+    lng_col = geo_col.apply(lambda x:
+                            None if x is None else x.get('geometry').get('location').get('lng'))
+    return lat_col, lng_col
+
+
 def clean_data(df):
     ''' Cleans columns and extracts info from string columns '''
     # Convert id to float
@@ -108,7 +131,7 @@ def clean_data(df):
 
     # Split bullets
     df['bullets'] = df['bullets'].apply(lambda x: x[-1])
-    df['type'] = df['bullets'].apply(lambda x: x[0])
+    df['category'] = df['bullets'].apply(lambda x: x[0])
     df['city'] = df['bullets'].apply(lambda x: ' '.join(x[2:]))
     df = df.drop('bullets', axis=1)
 
@@ -116,35 +139,36 @@ def clean_data(df):
     df['state'] = df['state'].map(state_dict)
     df['address'] = df['city'] + ', ' + df['state'] + ', ' + 'Germany'
 
-    # Create geocoded column
-    if CREATE_NEW_GEODICT:
-        address_list = df['address'].unique()
-        geo_dict = create_geo_dict(address_list, GEODICT_PATH)
-    else:
-        print('Load existing geo_dict')
-        with open(GEODICT_PATH, 'rb') as file:
-            geo_dict = pickle.load(file)
-
-    df['geo_object'] = df['address'].map(geo_dict)
-
     # Remove outliers
     df['price'] = df['price'].where(df['price'].between(
         df['price'].quantile(.0001), df['price'].quantile(.9999)), None)
     df['area'] = df['area'].where(df['area'].between(
         df['area'].quantile(.0001), df['area'].quantile(.9999)), None)
 
+    # Convert address to coordinates
+    df['lat'], df['lng'] = address_to_coordinates(df['address'])
+
     # Drop NA & duplicates
-    df = df.dropna()  # avoids None.get() when extracting geo_object
+    df = df.dropna()
     df = df.drop_duplicates('id')
 
-    # Exctract info from geo_object
-    df['lat'] = df['geo_object'].apply(lambda x: x.get('geometry').get('location').get('lat'))
-    df['lng'] = df['geo_object'].apply(lambda x: x.get('geometry').get('location').get('lng'))
-
     # Drop unnecessary columns
-    df = df.drop(['id', 'geo_object', 'page', 'city', 'address'], axis=1)
-
+    df = df.drop(['id', 'page', 'city', 'address'], axis=1)
     return df
+
+
+def add_counties(df, map):
+    """ Coverts data to geopandas DF and adds new shape file as main geometry."""
+    map['geometry_map'] = map['geometry']
+
+    # convert to geopandasdataframe
+    gdf = gpd.GeoDataFrame(df, geometry=gpd.points_from_xy(df.lng, df.lat))
+    gdf.crs = 'EPSG:4326'  # must match map data before joining
+
+    gdf = gpd.sjoin(gdf, map, how='left', op='within')
+    gdf = gdf.set_geometry('geometry_map')  # set geometry to areas
+    gdf = gdf.drop(['index_right', 'USE', 'RS', 'RS_ALT', 'SHAPE_LENG', 'SHAPE_AREA'], axis=1)
+    return gdf
 
 
 if __name__ == '__main__':
@@ -154,5 +178,12 @@ if __name__ == '__main__':
 
     # Clean data frame
     df = clean_data(df)
-    with open(CLEANED_DATA_PATH) as file:
-        pickle.dump(df, file)
+    with open(CLEANED_DATA_PATH, 'wb') as f:
+        pickle.dump(df, f)
+
+    # Add german county to each observation
+    map = gpd.read_file('data/vg2500_geo84/vg2500_krs.shp')
+    gdf = add_counties(df, map)
+
+    with open(GEO_DATA_PATH, 'wb') as f:
+        pickle.dump(gdf, f)
