@@ -1,9 +1,5 @@
-import pandas as pd
-import geopandas as gpd
-import matplotlib.pyplot as plt
 import pickle as pkl
-import numpy as np
-from scipy import stats
+import matplotlib.pyplot as plt
 import seaborn as sns
 
 PLOT_DIR = 'plots/'
@@ -11,13 +7,16 @@ PLOT_DIR = 'plots/'
 
 def create_histograms(df):
     """ Creates histogram of 6 key variables. """
-    fig, axs = plt.subplots(nrows=3, ncols=2, figsize=(8, 10))
+    fig, axs = plt.subplots(nrows=3, ncols=3, figsize=(12, 12))
 
     # Continious Variables
-    sns.distplot(ax=axs[0, 0], a=df['price'], hist=True, kde=False, label='Price in €')
-    sns.distplot(ax=axs[0, 1], a=df['log_price'], hist=True, kde=False, label='log Price')
-    sns.distplot(ax=axs[1, 0], a=df['area'], hist=True, kde=False, label='Area in m²')
-    sns.distplot(ax=axs[1, 1], a=df['rooms'], hist=True, kde=False, label='Nr of Rooms')
+    sns.histplot(ax=axs[0, 0], data=df['price'], kde=False, label='Price in €')
+    sns.histplot(ax=axs[1, 0], data=df['log_price'], kde=False, label='log Price')
+    sns.histplot(ax=axs[0, 1], data=df['area'], kde=False, label='Area in m²')
+    sns.histplot(ax=axs[1, 1], data=df['log_area'], kde=False, label='Area in m²')
+    sns.histplot(ax=axs[0, 2], data=df['rooms'], kde=False, label='Nr of Rooms')
+    axs[0, 2].set_xlim([0, 10])
+    sns.histplot(ax=axs[1, 2], data=df['log_rooms'], kde=False, label='Nr of Rooms')
 
     # Dummies
     names = ['First Use', 'Garden', 'Balcony', 'Incl. add. Costs']
@@ -27,27 +26,28 @@ def create_histograms(df):
     sns.barplot(ax=axs[2, 0], x=names, y=total_count, color='skyblue')
     sns.barplot(ax=axs[2, 0], x=names, y=true_count, color='green')
     axs[2, 0].tick_params(axis='x', rotation=90)
-    axs[2, 0].set_ylabel('')
+    axs[2, 0].set_xlabel('# of True values')
 
     # Categories
     sns.countplot(ax=axs[2, 1], x=df['category'], color='skyblue')
     axs[2, 1].tick_params(axis='x', rotation=90)
-    axs[2, 1].set_ylabel('')
-    axs[2, 1].set_xlabel('')
 
     # States
-    # sns.countplot(ax=axs[2, 1], x=df['state'])
-    # axs[2, 1].tick_params(axis='x', rotation=90)
-    # axs[2, 1].set_ylabel('')
-    # axs[2, 1].set_xlabel('')
+    sns.countplot(ax=axs[2, 2], x=df['state'])
+    axs[2, 2].tick_params(axis='x', rotation=90)
+
+    # Remove y_ticks
+    for ax_row in axs:
+        for ax in ax_row:
+            ax.set_ylabel('')
 
     # Layout
-    fig.suptitle('Histograms of Variables', size='larger')
+    fig.suptitle('Histograms of Variables', fontsize=20)
     fig.supylabel('Nr. of Observations in Data')
     fig.tight_layout()
 
     # Save
-    plt.savefig(PLOT_DIR+'data_histograms')
+    plt.savefig(PLOT_DIR+'data_histograms.png')
     print("Saved Histograms")
 
 
@@ -58,7 +58,7 @@ def create_scatterplot(df):
     plt.title('Datapoints Scatterplot')
 
     # Save
-    plt.savefig(PLOT_DIR+'data_points')
+    plt.savefig(PLOT_DIR+'data_points.png')
     print("Saved Scatterplots")
 
 
@@ -71,7 +71,7 @@ def create_coropleth(gdf):
     gdf_diss.plot(column='price', ax=ax, legend=True, cmap=plt.get_cmap('Spectral_r'),
                   legend_kwds={'label': 'Avg. Price in €'})
     plt.title('Average Rent Price per County')
-    plt.savefig(PLOT_DIR+'prices_per_county')
+    plt.savefig(PLOT_DIR+'prices_per_county.png')
     print("Saved Coropleth map")
 
 

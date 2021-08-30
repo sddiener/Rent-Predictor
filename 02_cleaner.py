@@ -1,6 +1,5 @@
 import os
 import pandas as pd
-from pandas.core.frame import DataFrame
 import requests
 import pickle
 import time
@@ -119,7 +118,6 @@ def clean_data(df):
     df['price'] = df['price'].str.extract('(\d[\d,.]*)')  # extract numbers
     df['price'] = df['price'].str.replace('.', '', regex=True)  # remove thousands dot
     df['price'] = df['price'].str.replace(',', '.').astype(float)  # convert to float
-    df['log_price'] = np.log(df['price'])
 
     # Convert area to float
     df['area'] = df['area'].str.extract('(\d[\d,.]*)')  # extract numbers
@@ -128,6 +126,11 @@ def clean_data(df):
     # Convert rooms to float
     df['rooms'] = df['rooms'].str.extract('(\d[\d,.]*)')  # extract numbers
     df['rooms'] = df['rooms'].str.replace(',', '.').astype(float)  # replace sep., convert to float
+
+    # Create logs of
+    df['log_price'] = np.log(df['price'])
+    df['log_area'] = np.log(df['area'])
+    df['log_rooms'] = np.log(df['rooms'])
 
     # Split bullets
     df['bullets'] = df['bullets'].apply(lambda x: x[-1])
@@ -151,6 +154,7 @@ def clean_data(df):
     # Drop NA & duplicates
     df = df.dropna()
     df = df.drop_duplicates('id')
+    df = df.reset_index(drop=True)
 
     # Drop unnecessary columns
     df = df.drop(['id', 'page', 'city', 'address'], axis=1)
@@ -168,6 +172,7 @@ def add_counties(df, map):
     gdf = gpd.sjoin(gdf, map, how='left', op='within')
     gdf = gdf.set_geometry('geometry_map')  # set geometry to areas
     gdf = gdf.drop(['index_right', 'USE', 'RS', 'RS_ALT', 'SHAPE_LENG', 'SHAPE_AREA'], axis=1)
+    gdf = gdf.reset_index(drop=True)
     return gdf
 
 
