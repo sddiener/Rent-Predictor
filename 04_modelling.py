@@ -1,11 +1,14 @@
 import numpy as np
 import pandas as pd
 import pickle as pkl
-from sklearn.linear_model import LinearRegression, RidgeCV
+from pprint import pprint
+from sklearn.model_selection import RandomizedSearchCV
+from sklearn.linear_model import LinearRegression, Ridge
 from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
+from sklearn.ensemble import RandomForestRegressor
 
 
 def load_data(path):
@@ -13,7 +16,7 @@ def load_data(path):
     with open(path, 'rb') as f:
         gdf = pkl.load(f)
 
-    columns = ['price', 'log_price', 'area', 'rooms', 'ebk',
+    columns = ['price', 'area', 'rooms', 'ebk',
                'garten', 'balkon', 'inkl_NK', 'category', 'GEN']
     data = pd.DataFrame(data=gdf[columns])
 
@@ -33,11 +36,14 @@ def scale_and_onehot_encode(data):
     return X, y
 
 
-def print_errors(y_pred, y_true):
+def eval_model(model, X_test, y_test):
     """ Calculate and print MAE, RMSE and R2 errors. """
-    mae = mean_absolute_error(y_true, y_pred)
-    rmse = np.sqrt(mean_squared_error(y_true, y_pred))
-    r2 = r2_score(y_true, y_pred)
+    # make predictions
+    y_pred = model.predict(X_test)
+
+    mae = mean_absolute_error(y_test, y_pred)
+    rmse = np.sqrt(mean_squared_error(y_test, y_pred))
+    r2 = r2_score(y_test, y_pred)
 
     mae = round(mae, 2)
     rmse = round(rmse, 2)
@@ -48,33 +54,57 @@ def print_errors(y_pred, y_true):
     print("R2: {}".format(r2))
 
 
+def search_best_model(model, params, X_train, y_train, n_iter, cv, verbose=0):
+    """ Finds best model hyperparameters and retrains on all data. """
+    # fit the grid search
+    print("\nRandom Search {}...".format(model))
+    grid = RandomizedSearchCV(model, params, cv=cv, n_iter=n_iter, n_jobs=-1, verbose=verbose)
+    grid.fit(X_train, y_train)
+
+    # retrain best estimator
+    print('Best model: {}'.format(grid.best_estimator_))
+    best_model = grid.best_estimator_
+    best_model.fit(X_train, y_train)
+
+    return best_model
+
+
 if __name__ == '__main__':
     data = load_data('data/geo_data.pkl')
 
     # Preprocessing
     X, y = scale_and_onehot_encode(data)
-
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=1)
 
     # Train Linear Regression
-    print("Training OLS..")
-
+    print("Training OLS...")
     model_ols = LinearRegression()
     model_ols = model_ols.fit(X_train, y_train)
-    y_pred_ols = model_ols.predict(X_test)
+    eval_model(model_ols, X_test, y_test)
 
-    print_errors(y_pred_ols, y_test)
+    with open('models/ols.pkl', 'wb') as f:
+        pkl.dump(model_ols, f)
 
     # Train Linear Regression
-    print("Training Ridge..")
-    model_ridge = RidgeCV(alphas=(0.1, 1, 3, 5, 7, 10), store_cv_values=True)  # leave one out cv
-    model_ridge = model_ridge.fit(X_train, y_train)
+    params_ridge = {'alpha': [int(x) for x in np.linspace(0.01, 20, num=20)]}
+    model_ridge = search_best_model(Ridge(), params_ridge, X_train, y_train, n_iter=50, cv=5)
+    eval_model(model_ridge, X_test, y_test)
 
-    print("alpha: {}".format(model_ridge.alphas))
-    print("rmse: ".format(model_ridge.cv_values_.mean(axis=0).sqrt().round(2)))
-
-    y_pred_ridge = model_ridge.predict(X_test)
-    print_errors(y_pred_ridge, y_test)
+    with open('models/ridge.pkl', 'wb') as f:
+        pkl.dump(model_ridge, f)
 
     # Train Random Forest
-    
+    # params_rf = {
+    #     'bootstrap': [True, False],  # Method of selecting samples for training each tree
+    #     'max_depth': [10, 20, 30, 40, 50, 60, 70, 80, 90, 100, None],  # Max nr of levels in tree
+    #     'max_features': ['auto', 'sqrt'],  # Number of features to consider at every split
+    #     'min_samples_leaf': [1, 2, 4],  # Min. nr of samples required at each leaf node
+    #     'min_samples_split': [2, 5, 10, 15],  # Min. nr of samples required to split a node
+    #     'n_estimators': [200, 400, 600, 800, 1000, 1200, 1400, 1600, 1800, 2000]}  # Nr trees
+
+    # model_rf = search_best_model(RandomForestRegressor(), params_rf,
+    #                              X_train, y_train, n_iter=100, cv=3, verbose=2)
+    # eval_model(model_rf, X_test, y_test)
+
+    # with open('models/randomforest2.pkl', 'wb') as f:
+    #     pkl.dump(model_rf, f)

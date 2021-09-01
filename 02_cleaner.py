@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 import requests
-import pickle
+import pickle as pkl
 import time
 from data.state_dict import state_dict
 import numpy as np
@@ -71,7 +71,7 @@ def create_geo_dict(address_list, path):
 
         geo_dict = dict(zip(address_list, geocode_output))
         with open(path, 'wb') as file:
-            pickle.dump(geo_dict, file)
+            pkl.dump(geo_dict, file)
         print('Saved geo_dict to "{}"'.format(path))
         return geo_dict
     else:
@@ -87,7 +87,7 @@ def address_to_coordinates(address_col):
     else:
         print('Load existing geo_dict')
         with open(GEODICT_PATH, 'rb') as file:
-            geo_dict = pickle.load(file)
+            geo_dict = pkl.load(file)
 
     geo_col = address_col.map(geo_dict)
 
@@ -127,11 +127,6 @@ def clean_data(df):
     df['rooms'] = df['rooms'].str.extract('(\d[\d,.]*)')  # extract numbers
     df['rooms'] = df['rooms'].str.replace(',', '.').astype(float)  # replace sep., convert to float
 
-    # Create logs of
-    df['log_price'] = np.log(df['price'])
-    df['log_area'] = np.log(df['area'])
-    df['log_rooms'] = np.log(df['rooms'])
-
     # Split bullets
     df['bullets'] = df['bullets'].apply(lambda x: x[-1])
     df['category'] = df['bullets'].apply(lambda x: x[0])
@@ -153,7 +148,7 @@ def clean_data(df):
 
     # Drop NA & duplicates
     df = df.dropna()
-    df = df.drop_duplicates('id')
+    df = df.drop_duplicates(subset=['title', 'price', 'area'])
     df = df.reset_index(drop=True)
 
     # Drop unnecessary columns
@@ -184,11 +179,11 @@ if __name__ == '__main__':
     # Clean data frame
     df = clean_data(df)
     with open(CLEANED_DATA_PATH, 'wb') as f:
-        pickle.dump(df, f)
+        pkl.dump(df, f)
 
     # Add german county to each observation
     map = gpd.read_file('data/vg2500_geo84/vg2500_krs.shp')
     gdf = add_counties(df, map)
 
     with open(GEO_DATA_PATH, 'wb') as f:
-        pickle.dump(gdf, f)
+        pkl.dump(gdf, f)

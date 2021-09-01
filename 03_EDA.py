@@ -1,12 +1,20 @@
 import pickle as pkl
 import matplotlib.pyplot as plt
 import seaborn as sns
+import numpy as np
 
 PLOT_DIR = 'plots/'
 
 
 def create_histograms(df):
     """ Creates histogram of 6 key variables. """
+
+    # Create logs of variables
+    df['log_price'] = np.log(df['price'])
+    df['log_area'] = np.log(df['area'])
+    df['log_rooms'] = np.log(df['rooms'])
+
+    # Plot
     fig, axs = plt.subplots(nrows=3, ncols=3, figsize=(12, 12))
 
     # Continious Variables
