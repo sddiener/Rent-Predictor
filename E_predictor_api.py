@@ -21,29 +21,33 @@ def convert_address_to_county(address_str):
     return county
 
 
-def make_prediction(model, df):
+def make_prediction(df):
     """ Make predictions from input data """
     assert (df.columns == ['area', 'rooms', 'ebk', 'garten', 'balkon', 'inkl_NK', 'category',
                            'GEN']).all()
 
     # Convert address str to country str (GEN)
-    df['GEN'][0] = convert_address_to_county(df['GEN'][0])
+    df.loc[0, 'GEN'] = convert_address_to_county(df.loc[0, 'GEN'])
 
     # Preprocessing Data
     with open('models/transformer.pkl', 'rb') as f:
         transformer = pkl.load(f)
 
     X = transformer.transform(df)  # onehot encode and scale data
-
+    # print(X)
     # Prediction
+    with open('models/ols.pkl', 'rb') as f:
+        model = pkl.load(f)
     pred = model.predict(X)
-    pred = {'pred': pred}  # convert to dict
+    # pred = {'pred': pred}  # convert to dict
 
-    return pred
+    return int(pred)
 
 
 if __name__ == '__main__':
     print("Checking prediction")
+
+    # Create sample df
     df = pd.DataFrame(data={
         'area': [100],
         'rooms': [3],
@@ -54,8 +58,6 @@ if __name__ == '__main__':
         'category': ['Etagenwohnung'],
         'GEN': ['Hamburg']
     })
-
-    with open('models/ols.pkl', 'rb') as f:
-        model = pkl.load(f)
-    pred = make_prediction(model, df)
+    print(df)
+    pred = make_prediction(df)
     print(pred)

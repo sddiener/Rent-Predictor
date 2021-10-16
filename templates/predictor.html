@@ -1,0 +1,48 @@
+<!-- predictor.html file -->
+<!DOCTYPE html>
+<html lang="en">
+<h1>Rent predictor </h1>
+<form method="POST">
+
+    <input type="text" name="GEN" value="Viktualienmarkt 3, 80331 München, Deutschland"> Address (GEN) <br>
+
+    <input type="number" name="area" value=42> area in m²<br>
+    <input type="number" name="rooms" value=2> nr. of rooms <br>
+
+    <select name="category">
+        <option value="Wohnung">Wohnung</option>
+        <option value="Etagenwohnung">Etagenwohnung</option>
+        <option value="Apartment">Apartment</option>
+        <option value="Erdgeschosswohnung">Erdgeschosswohnung</option>
+        <option value="Dachgeschosswohnung">Dachgeschosswohnung</option>
+        <option value="Loft-Studio-Atelier">Loft</option>
+        <option value="Penthouse">Penthouse</option>
+        <option value="Souterrainwohnung">Souterrainwohnung</option>
+        <option value="Maisonette">Maisonette</option>
+    </select> category <br>
+
+
+    <input type="checkbox" name="ebk" value=1> ebk <br> <!-- value 1 must be first -->
+    <input type="hidden" name="ebk" value=0 /> <!-- if checkbox doesnt get checked set dummy to 0 -->
+    <input type="checkbox" name="garten" value=1> garten <br>
+    <input type="hidden" name="garten" value=0 /> <!-- if checkbox doesnt get checked set dummy to 0 -->
+    <input type="checkbox" name="balkon" value=1> balkon <br>
+    <input type="hidden" name="balkon" value=0 /> <!-- if checkbox doesnt get checked set dummy to 0 -->
+    <input type="checkbox" name="inkl_NK" value=1> inkl_NK <br>
+    <input type="hidden" name="inkl_NK" value=0 /> <!-- if checkbox doesnt get checked set dummy to 0 -->
+
+    <!-- Submit button -->
+    <input type="submit" value="Submit">
+</form>
+
+
+<p>
+    <!-- Show input -->
+    your supplied inputs are: <br>
+    {% for table in tables %}
+    {{ table|safe }}
+    {% endfor %} <br>
+    <!-- Show results -->
+    your approximate rent is: <br>
+    {{ pred }}
+</p>
