@@ -1,0 +1,27 @@
+html body {
+    /*background-image: url("../static/img/apartment_foto.jpg");*/
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 75% center;
+}
+/*
+html body:before {    
+    filter: blur(2px);
+}
+*/
+.background {
+    /* Makes div span entire page */
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    /* Covers div with image */
+    background-image: url( "../static/img/apartment_foto.jpg" );
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index:-1;
+    opacity: 0.5;
+    filter: blur(4px);
+} 

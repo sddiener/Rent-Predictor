@@ -1,48 +1,138 @@
-<!-- predictor.html file -->
 <!DOCTYPE html>
 <html lang="en">
-<h1>Rent predictor </h1>
-<form method="POST">
+<!-- Background -->
 
-    <input type="text" name="GEN" value="Viktualienmarkt 3, 80331 München, Deutschland"> Address (GEN) <br>
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <input type="number" name="area" value=42> area in m²<br>
-    <input type="number" name="rooms" value=2> nr. of rooms <br>
+    <!-- Bootstrap CSS  -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
-    <select name="category">
-        <option value="Wohnung">Wohnung</option>
-        <option value="Etagenwohnung">Etagenwohnung</option>
-        <option value="Apartment">Apartment</option>
-        <option value="Erdgeschosswohnung">Erdgeschosswohnung</option>
-        <option value="Dachgeschosswohnung">Dachgeschosswohnung</option>
-        <option value="Loft-Studio-Atelier">Loft</option>
-        <option value="Penthouse">Penthouse</option>
-        <option value="Souterrainwohnung">Souterrainwohnung</option>
-        <option value="Maisonette">Maisonette</option>
-    </select> category <br>
+    <!-- Bootstrap Icons  -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+    <!--  Personal CSS -->
+    <link rel="stylesheet" type="text/css" href="../static/styles.css" />
+
+    <title>Rent Predictor</title>
+    <meta name="robots" content="noindex">
+</head>
+
+<body>
+    <div class="background"></div>
+
+    <!-- Intro -->
+    <section id="intro" class="">
+        <!-- bg-white -->
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col">
+                    <p class="display-2 fw-bold text-gray text-center" style="text-shadow:3px 3px 5px gray">
+                        Rent Predictor</p>
+                    <p class="lead text-gray text-center">
+                        <!-- style="text-shadow:1px 1px 5px black">-->
+                        <strong>A machine learning powered web app for predicting rental prices in Germany.
+                        </strong>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Input -->
+    <section id="input" class="py-5">
+        <!-- Contact bg-white-->
+        <div class="container">
+            <div class="row justify-content-center">
+                <form class="col-lg-5" method="POST">
+                    <div>
+                        <label>Address</label>
+                        <input type="text" class="form-control" name="GEN"
+                            placeholder="Enter address or city in Germany (e.g. Berlin)">
+                    </div>
+                    <br>
+                    <div>
+                        <label>Area in m²</label>
+                        <input type="number" class="form-control" name="area" placeholder="Enter area (e.g. 45 m²)">
+                    </div>
+                    <br>
+                    <div class="form-check">
+                        <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                        <label class="form-check-label" for="exampleCheck1">Check me out</label>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </form>
 
 
-    <input type="checkbox" name="ebk" value=1> ebk <br> <!-- value 1 must be first -->
-    <input type="hidden" name="ebk" value=0 /> <!-- if checkbox doesnt get checked set dummy to 0 -->
-    <input type="checkbox" name="garten" value=1> garten <br>
-    <input type="hidden" name="garten" value=0 /> <!-- if checkbox doesnt get checked set dummy to 0 -->
-    <input type="checkbox" name="balkon" value=1> balkon <br>
-    <input type="hidden" name="balkon" value=0 /> <!-- if checkbox doesnt get checked set dummy to 0 -->
-    <input type="checkbox" name="inkl_NK" value=1> inkl_NK <br>
-    <input type="hidden" name="inkl_NK" value=0 /> <!-- if checkbox doesnt get checked set dummy to 0 -->
-
-    <!-- Submit button -->
-    <input type="submit" value="Submit">
-</form>
+            </div>
+        </div>
+    </section>
+    <!--  -->
+    <section id="contact" class="py-5">
+        <!-- Contact bg-white-->
+        <div class="container">
+            <!-- <h1 class="text-center text-uppercase pb-3"> Contact </h1>
+            <p class="lead text-center"> Got any Questions? Contact me directly! </p>-->
+            <div class="row justify-content-center">
 
 
-<p>
-    <!-- Show input -->
-    your supplied inputs are: <br>
-    {% for table in tables %}
-    {{ table|safe }}
-    {% endfor %} <br>
-    <!-- Show results -->
-    your approximate rent is: <br>
-    {{ pred }}
-</p>
+
+                <form class="col-lg-5" method="POST">
+
+                    <input type="text" name="GEN" value="Viktualienmarkt 3, 80331 München, Deutschland"> Address (GEN)
+                    <br>
+
+                    <input type="number" name="area" value=42> area in m²<br>
+                    <input type="number" name="rooms" value=2> nr. of rooms <br>
+
+                    <select name="category">
+                        <option value="Wohnung">Wohnung</option>
+                        <option value="Etagenwohnung">Etagenwohnung</option>
+                        <option value="Apartment">Apartment</option>
+                        <option value="Erdgeschosswohnung">Erdgeschosswohnung</option>
+                        <option value="Dachgeschosswohnung">Dachgeschosswohnung</option>
+                        <option value="Loft-Studio-Atelier">Loft</option>
+                        <option value="Penthouse">Penthouse</option>
+                        <option value="Souterrainwohnung">Souterrainwohnung</option>
+                        <option value="Maisonette">Maisonette</option>
+                    </select> category <br>
+
+
+                    <input type="checkbox" name="ebk" value=1> ebk <br> <!-- value 1 must be first -->
+                    <input type="hidden" name="ebk" value=0 /> <!-- if checkbox doesnt get checked set dummy to 0 -->
+                    <input type="checkbox" name="garten" value=1> garten <br>
+                    <input type="hidden" name="garten" value=0 /> <!-- if checkbox doesnt get checked set dummy to 0 -->
+                    <input type="checkbox" name="balkon" value=1> balkon <br>
+                    <input type="hidden" name="balkon" value=0 /> <!-- if checkbox doesnt get checked set dummy to 0 -->
+                    <input type="checkbox" name="inkl_NK" value=1> inkl_NK <br>
+                    <input type="hidden" name="inkl_NK" value=0 />
+                    <!-- if checkbox doesnt get checked set dummy to 0 -->
+
+                    <!-- Submit button -->
+                    <input type="submit" value="Submit">
+                </form>
+                <p class="col-lg-5">
+                    <!-- Show input -->
+                    your supplied inputs are: <br>
+                    {% for table in tables %}
+                    {{ table|safe }}
+                    {% endfor %} <br>
+                    <!-- Show results -->
+                    your approximate rent is: <br>
+                    {{ pred }}
+                </p>
+            </div>
+        </div>
+    </section>
+
+
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+
+
+</body>
