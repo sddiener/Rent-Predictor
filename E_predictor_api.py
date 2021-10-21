@@ -23,8 +23,7 @@ def convert_address_to_county(address_str):
 
 def make_prediction(df):
     """ Make predictions from input data """
-    assert (df.columns == ['area', 'rooms', 'ebk', 'garten', 'balkon', 'inkl_NK', 'category',
-                           'GEN']).all()
+    assert (df.columns == ['area', 'rooms', 'ebk', 'garten', 'balkon', 'inkl_NK', 'category', 'GEN']).all()
 
     # Convert address str to country str (GEN)
     df.loc[0, 'GEN'] = convert_address_to_county(df.loc[0, 'GEN'])
@@ -38,10 +37,11 @@ def make_prediction(df):
     # Prediction
     with open('models/ols.pkl', 'rb') as f:
         model = pkl.load(f)
-    pred = model.predict(X)
-    # pred = {'pred': pred}  # convert to dict
 
-    return int(pred)
+    pred = model.predict(X)
+    pred_str = "€{:,.0f}".format(int(pred))  # converts prediction to currency format str
+
+    return pred_str
 
 
 if __name__ == '__main__':

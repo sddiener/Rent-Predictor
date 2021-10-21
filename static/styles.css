@@ -25,3 +25,7 @@ html body:before {
     opacity: 0.5;
     filter: blur(4px);
 } 
+.answer-field{
+    border-style: solid;
+    background-color: white;
+}
