@@ -14,14 +14,13 @@ def predict():  # todo: try to catch error
         df = pd.DataFrame(data={
             'area': [request.form.get('area')],
             'rooms': [request.form.get('rooms')],
-            'ebk': [bool(request.form.get('ebk'))],  # converts 1/0 to bools
-            'garten': [bool(request.form.get('garten'))],
-            'balkon': [bool(request.form.get('balkon'))],
-            'inkl_NK': [bool(request.form.get('inkl_NK'))],
+            'ebk': [request.form.get('ebk') == "1"],  # converts 1/0 to bools
+            'garten': [request.form.get('garten') == "1"],
+            'balkon': [request.form.get('balkon') == "1"],
+            'inkl_NK': [request.form.get('inkl_NK') == "1"],
             'category': [request.form.get('category')],
             'GEN': [request.form.get('GEN')]
         })
-
         # Check if address is valid
         try:
             pred = make_prediction(df)
