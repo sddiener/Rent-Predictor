@@ -19,16 +19,16 @@ Each ad contains information about the aparment's:
 ## Exploratory Data Analysis
 ### 1) Distribution of price and features:
 
-<img src="plots/data_histograms.png" width="700" />
+<img src="plots/data_histograms.png" width="700" align="center" />
 
 ### 2) Spacial distribution of apartments:
 
 Addresses were converted to longitude and latitude values using the google maps API, resulting in the following distribution.
 
-<img src="plots/data_points.png" width="700" />
+<img src="plots/data_points.png" width="700" align="center" />
 
 ### 3) Coropleth map of price per county:
-Using map of all german counties, regional price differences can be illustrated graphically.
+Using a shapefile of all german counties, regional price differences can be illustrated graphically.
 
-<img src="plots/price_per_county.png" width="700" />
+<img src="plots/prices_per_county.png" width="700" align="center" />
 
