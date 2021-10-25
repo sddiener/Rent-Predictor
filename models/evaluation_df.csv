@@ -1,0 +1,6 @@
+,model,MAE,RMSE,R2
+0,LinearRegression,127.16,205.83,0.768
+1,Ridge,126.97,205.73,0.768
+2,RandomForestRegressor,114.17,194.88,0.792
+3,SVR,105.72,200.96,0.779
+4,XGBRegressor,107.4,181.27,0.82

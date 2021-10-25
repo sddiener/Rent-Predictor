@@ -22,11 +22,18 @@ Each ad contains information about the aparment's:
 <img src="plots/data_histograms.png" width="600" />
 
 ### 2) Spacial distribution of apartments:
-
 Addresses were converted to longitude and latitude values using the google maps API, resulting in the following distribution.
-<img src="plots/data_points.png" width="550"/>
+
+<img src="plots/data_points.png" width="600"/>
 
 ### 3) Coropleth map of price per county:
 Using a shapefile of all german counties, regional price differences can be illustrated graphically.
-<img src="plots/prices_per_county.png" width="550"/>
+The high-price areas in the metropolitan centers of Berlin and Munich are clearly visible, as are the low-price areas in the eastern German states.
 
+<img src="plots/prices_per_county.png" width="600"/>
+
+## Modelling
+
+After hyperparameter optimization, OLS showed to be the best performing model.
+
+<img src="plots/eval_df.png" width="600"/>
