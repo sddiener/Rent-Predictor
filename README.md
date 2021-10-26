@@ -16,10 +16,6 @@ Each ad contains information about the aparment's:
 5) Are in m²
 6) Nr of rooms
 
-Raw data frame:
-
-<img src="plots/data_head_raw.png" width="700" />
-
 Cleaned data frame:
 
 <img src="plots/data_head_cleaned.png" width="700" />
@@ -45,3 +41,4 @@ The high-price areas in the metropolitan centers of Berlin and Munich are clearl
 After hyperparameter optimization, OLS showed to be the best performing model.
 
 <img src="plots/eval_df.png" width="600"/>
+
