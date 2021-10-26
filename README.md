@@ -16,6 +16,14 @@ Each ad contains information about the aparment's:
 5) Are in m²
 6) Nr of rooms
 
+Head of the raw data frame:
+
+<img src="plots/data_head_raw.png" width="600" />
+
+Head of the cleaned data frame:
+
+<img src="plots/data_head_cleaned.png" width="600" />
+
 ## Exploratory Data Analysis
 ### 1) Distribution of price and features:
 
