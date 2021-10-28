@@ -1,6 +1,6 @@
 # Rent Predictor
 
-The Rent Predictor is a web app that uses machine learning to predict rents in Germany.
+The [Rent Predictor](https://immo-calculator.nw.r.appspot.com/) is a web app that uses machine learning to predict rents in Germany.
 
 ## Data Collection
 The training data consists of ~49'000 apartment ads, which were scraped from the German real estate platform immonet.de.
@@ -42,3 +42,9 @@ After hyperparameter optimization, OLS showed to be the best performing model.
 
 <img src="plots/eval_df.png" width="600"/>
 
+
+## Deployment
+
+The model was deployed using Google App Engine.
+
+<img src="plots/app_interface.png" width="600"/>
