@@ -27,9 +27,9 @@ def predict():  # todo: try to catch error
         except AttributeError:
             pred = "ERROR: Invalid address"
 
-        return flask.render_template('index.html', pred=pred)
+        return flask.render_template('index.html', pred=pred, msg=True)
     else:
-        return flask.render_template('index.html', pred="")
+        return flask.render_template('index.html', pred="", msg=False)
 
 
 if __name__ == '__main__':

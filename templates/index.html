@@ -33,8 +33,7 @@
                         Rent Predictor</p>
                     <p class="lead text-gray text-center">
                         <!-- style="text-shadow:1px 1px 5px black">-->
-                        <strong>A machine learning powered web app for predicting rental prices in Germany.
-                        </strong>
+                        <strong>A machine learning powered web app for predicting rental prices in Germany. </strong>
                     </p>
                 </div>
             </div>
@@ -112,9 +111,13 @@
     <section id="input" class="py-4">
         <div class="row justify-content-center">
             <!-- Answer box -->
-            <div class="answer-field col-lg-3 py-3">
+            <div class="answer-field col-lg-3 pt-3">
                 <p class="lead text-center"> <strong> Your monthly rent estimate is: </strong> </p>
                 <p class="lead text-center"> <strong> {{ pred }} </strong> </p>
+                {% if msg %}
+                Want to see under the hood? Check out the <a href="https://github.com/sddiener/Rent-Predictor"> Github
+                    repository</a>!
+                {% endif %}
             </div>
         </div>
     </section>
